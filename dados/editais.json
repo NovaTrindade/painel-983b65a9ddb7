@@ -131,26 +131,6 @@
    "diasRestantes": 3,
    "valorEstimado": 2760547.56,
    "qtdItens": 10,
-   "modulos": [
-    "tributar",
-    "sistema integrado",
-    "gestao publica",
-    "contabil",
-    "licenciamento de uso",
-    "licenca de uso",
-    "portal da transparencia",
-    "compras e licitac",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "almoxarifado",
-    "transparencia",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 100,
-   "score": 98,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102459000123/2026/326"
   },
@@ -165,22 +145,6 @@
    "diasRestantes": 3,
    "valorEstimado": 1337930.74,
    "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "sistema integrado",
-    "gestao publica",
-    "gestao municipal",
-    "licenca de uso",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 100,
-   "score": 97,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01612509000158/2026/147"
   },
@@ -195,17 +159,6 @@
    "diasRestantes": 3,
    "valorEstimado": 549100.08,
    "qtdItens": 6,
-   "modulos": [
-    "sistema integrado",
-    "gestao publica",
-    "gestao municipal",
-    "gestao educacional",
-    "licenca de uso",
-    "educacional",
-    "software"
-   ],
-   "ader": 100,
-   "score": 95,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/18303164000153/2026/61"
   },
@@ -220,19 +173,6 @@
    "diasRestantes": 3,
    "valorEstimado": 616850,
    "qtdItens": 9,
-   "modulos": [
-    "conversao de dados",
-    "sistemas integrados",
-    "gestao publica",
-    "licenciamento de uso",
-    "recursos humanos",
-    "implantacao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 96,
-   "score": 93,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/27215946000121/2026/13"
   },
@@ -247,21 +187,6 @@
    "diasRestantes": 2,
    "valorEstimado": 190413.12,
    "qtdItens": 10,
-   "modulos": [
-    "arrecadac",
-    "conversao de dados",
-    "gestao publica",
-    "contabil",
-    "folha de pagamento",
-    "implantacao",
-    "protocolo",
-    "patrimonio",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 100,
-   "score": 93,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01605479000152/2026/72"
   },
@@ -276,23 +201,6 @@
    "diasRestantes": 2,
    "valorEstimado": 246265.84,
    "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "folha de pagamento",
-    "locacao de sistema",
-    "locacao de software",
-    "compras e licitac",
-    "implantacao",
-    "saas",
-    "patrimonio",
-    "almoxarifado",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 100,
-   "score": 93,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46523262000131/2026/60"
   },
@@ -307,20 +215,6 @@
    "diasRestantes": 3,
    "valorEstimado": 131703.18,
    "qtdItens": 8,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "gestao publica",
-    "nfs-e",
-    "nota fiscal eletronica",
-    "implantacao",
-    "migracao",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 100,
-   "score": 92,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13753306000160/2026/71"
   },
@@ -335,20 +229,6 @@
    "diasRestantes": 11,
    "valorEstimado": 3568563.76,
    "qtdItens": 10,
-   "modulos": [
-    "tributar",
-    "gestao publica",
-    "licenciamento de uso",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 100,
-   "score": 90,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/27165190000153/2026/211"
   },
@@ -363,18 +243,6 @@
    "diasRestantes": 1,
    "valorEstimado": 7059252.16,
    "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "licenca de uso",
-    "locacao de software",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 77,
-   "score": 90,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46634531000137/2026/228"
   },
@@ -389,22 +257,6 @@
    "diasRestantes": 2,
    "valorEstimado": 47137.48,
    "qtdItens": 10,
-   "modulos": [
-    "arrecadac",
-    "gestao publica",
-    "contabil",
-    "folha de pagamento",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "saas",
-    "patrimonio",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 100,
-   "score": 90,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83028415000109/2026/107"
   },
@@ -419,19 +271,6 @@
    "diasRestantes": 11,
    "valorEstimado": 1115350,
    "qtdItens": 1,
-   "modulos": [
-    "sistemas integrados",
-    "gestao publica",
-    "cessao de direito de uso",
-    "locacao de software",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 96,
-   "score": 86,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/44483444000109/2026/18"
   },
@@ -446,19 +285,6 @@
    "diasRestantes": 4,
    "valorEstimado": 187200,
    "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "contabil",
-    "licenciamento de uso",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "almoxarifado",
-    "suporte tecnico"
-   ],
-   "ader": 93,
-   "score": 86,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/63496573000178/2026/3"
   },
@@ -473,18 +299,6 @@
    "diasRestantes": 2,
    "valorEstimado": 111272.55,
    "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "contabil",
-    "portal da transparencia",
-    "implantacao",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 87,
-   "score": 86,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/94726312000120/2026/83"
   },
@@ -499,21 +313,6 @@
    "diasRestantes": 2,
    "valorEstimado": 113250,
    "qtdItens": 3,
-   "modulos": [
-    "arrecadac",
-    "contabil",
-    "folha de pagamento",
-    "locacao de software",
-    "nota fiscal eletronica",
-    "implantacao",
-    "protocolo",
-    "patrimonio",
-    "almoxarifado",
-    "transparencia",
-    "software"
-   ],
-   "ader": 85,
-   "score": 85,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01613127000149/2026/12"
   },
@@ -528,19 +327,6 @@
    "diasRestantes": 2,
    "valorEstimado": 478270.67,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "licenciamento de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 77,
-   "score": 85,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/17888090000100/2026/2"
   },
@@ -555,20 +341,6 @@
    "diasRestantes": 15,
    "valorEstimado": 1820262.54,
    "qtdItens": 5,
-   "modulos": [
-    "gestao publica",
-    "licenca de uso",
-    "locacao de software",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 91,
-   "score": 85,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/88861430000149/2026/881"
   },
@@ -583,22 +355,6 @@
    "diasRestantes": 9,
    "valorEstimado": 172128.37,
    "qtdItens": 6,
-   "modulos": [
-    "tributar",
-    "gestao publica",
-    "contabil",
-    "folha de pagamento",
-    "licenciamento de uso",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 100,
-   "score": 84,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13393152000143/2026/52"
   },
@@ -613,19 +369,6 @@
    "diasRestantes": 7,
    "valorEstimado": 121666.62,
    "qtdItens": 2,
-   "modulos": [
-    "gestao educacional",
-    "licenca de uso",
-    "locacao de software",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "software",
-    "treinamento"
-   ],
-   "ader": 88,
-   "score": 83,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/84727601000190/2026/63"
   },
@@ -640,19 +383,6 @@
    "diasRestantes": 11,
    "valorEstimado": 611768.34,
    "qtdItens": 4,
-   "modulos": [
-    "conversao de dados",
-    "licenciamento de uso",
-    "licenca de uso",
-    "gestao de saude",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 92,
-   "score": 83,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/82963216000117/2026/75"
   },
@@ -667,17 +397,6 @@
    "diasRestantes": 2,
    "valorEstimado": 85440.35,
    "qtdItens": 10,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao",
-    "transparencia",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 81,
-   "score": 83,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13104740000110/2026/111"
   },
@@ -692,25 +411,6 @@
    "diasRestantes": 14,
    "valorEstimado": 80172.11,
    "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "contabil",
-    "folha de pagamento",
-    "licenca de uso",
-    "locacao de software",
-    "recursos humanos",
-    "nota fiscal eletronica",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 100,
-   "score": 83,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/18140806000140/2026/23"
   },
@@ -725,22 +425,6 @@
    "diasRestantes": 10,
    "valorEstimado": 95340,
    "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "contabil",
-    "licenca de uso",
-    "compras e licitac",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "almoxarifado",
-    "transparencia",
-    "software",
-    "treinamento",
-    "nuvem"
-   ],
-   "ader": 100,
-   "score": 83,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/76247329000113/2026/62"
   },
@@ -755,19 +439,6 @@
    "diasRestantes": 4,
    "valorEstimado": 981936.66,
    "qtdItens": 9,
-   "modulos": [
-    "gestao publica",
-    "locacao de software",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 77,
-   "score": 82,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/04005179000120/2026/57"
   },
@@ -782,17 +453,6 @@
    "diasRestantes": 7,
    "valorEstimado": 130020,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "contabil",
-    "portal da transparencia",
-    "nota fiscal eletronica",
-    "compras e licitac",
-    "transparencia",
-    "nuvem"
-   ],
-   "ader": 81,
-   "score": 80,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/06421119000114/2026/23"
   },
@@ -807,18 +467,6 @@
    "diasRestantes": 8,
    "valorEstimado": 712578.18,
    "qtdItens": 1,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 84,
-   "score": 80,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13626908000157/2026/59"
   },
@@ -833,16 +481,6 @@
    "diasRestantes": 1,
    "valorEstimado": 7551252.8,
    "qtdItens": 1,
-   "modulos": [
-    "conversao de dados",
-    "locacao de software",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 55,
-   "score": 80,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46634531000137/2026/227"
   },
@@ -857,15 +495,6 @@
    "diasRestantes": 2,
    "valorEstimado": 902889.96,
    "qtdItens": 1,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "licenca de uso",
-    "implantacao",
-    "suporte tecnico"
-   ],
-   "ader": 65,
-   "score": 80,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46585964000140/2026/147"
   },
@@ -880,19 +509,6 @@
    "diasRestantes": 15,
    "valorEstimado": 1924665.32,
    "qtdItens": 5,
-   "modulos": [
-    "gestao educacional",
-    "licenca de uso",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 80,
-   "score": 80,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46523072000114/2026/91"
   },
@@ -907,18 +523,6 @@
    "diasRestantes": 8,
    "valorEstimado": 3440675.5,
    "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "licenca de uso",
-    "locacao de software",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 77,
-   "score": 79,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/51455087000122/2026/94"
   },
@@ -933,19 +537,6 @@
    "diasRestantes": 10,
    "valorEstimado": 497333.38,
    "qtdItens": 6,
-   "modulos": [
-    "sistema integrado",
-    "licenca de uso",
-    "locacao de sistema",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 85,
-   "score": 79,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/48468284000171/2026/105"
   },
@@ -960,19 +551,6 @@
    "diasRestantes": 16,
    "valorEstimado": 686760.8,
    "qtdItens": 1,
-   "modulos": [
-    "sistema integrado",
-    "gestao educacional",
-    "licenciamento de uso",
-    "educacional",
-    "implantacao",
-    "saas",
-    "escolar",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 91,
-   "score": 78,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13830336000123/2026/186"
   },
@@ -987,17 +565,6 @@
    "diasRestantes": 11,
    "valorEstimado": 289000,
    "qtdItens": 3,
-   "modulos": [
-    "sistema integrado",
-    "gestao publica",
-    "licenca de uso",
-    "locacao de sistema",
-    "migracao",
-    "saas",
-    "nuvem"
-   ],
-   "ader": 85,
-   "score": 78,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/18449173000157/2026/64"
   },
@@ -1012,17 +579,6 @@
    "diasRestantes": 2,
    "valorEstimado": 87800,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "prontuario",
-    "gestao de saude",
-    "implantacao",
-    "saas",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 69,
-   "score": 78,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01146604000103/2026/117"
   },
@@ -1037,18 +593,6 @@
    "diasRestantes": 9,
    "valorEstimado": 14265.19,
    "qtdItens": 2,
-   "modulos": [
-    "conversao de dados",
-    "sistemas integrados",
-    "gestao publica",
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 96,
-   "score": 77,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46523148000101/2026/52"
   },
@@ -1063,18 +607,6 @@
    "diasRestantes": 8,
    "valorEstimado": 5160990.88,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "locacao de sistema",
-    "implantacao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 69,
-   "score": 77,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/76105592000178/2026/84"
   },
@@ -1089,18 +621,6 @@
    "diasRestantes": 23,
    "valorEstimado": 439733.25,
    "qtdItens": 1,
-   "modulos": [
-    "tributar",
-    "sistema integrado",
-    "gestao publica",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 92,
-   "score": 77,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01614343000109/2026/49"
   },
@@ -1115,18 +635,6 @@
    "diasRestantes": 11,
    "valorEstimado": 27354.82,
    "qtdItens": 2,
-   "modulos": [
-    "conversao de dados",
-    "sistema integrado",
-    "licenciamento de uso",
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 92,
-   "score": 77,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/76172907000108/2026/96"
   },
@@ -1141,18 +649,6 @@
    "diasRestantes": 17,
    "valorEstimado": 148917.43,
    "qtdItens": 10,
-   "modulos": [
-    "sistema integrado",
-    "gestao publica",
-    "contabil",
-    "folha de pagamento",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento"
-   ],
-   "ader": 91,
-   "score": 75,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/82777335000185/2026/139"
   },
@@ -1167,15 +663,6 @@
    "diasRestantes": 1,
    "valorEstimado": 628774.56,
    "qtdItens": 2,
-   "modulos": [
-    "sistemas integrados",
-    "gestao publica",
-    "implantacao",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 55,
-   "score": 75,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/04215782000137/2026/104"
   },
@@ -1190,17 +677,6 @@
    "diasRestantes": 1,
    "valorEstimado": 397803,
    "qtdItens": 4,
-   "modulos": [
-    "licenciamento de uso",
-    "educacional",
-    "implantacao",
-    "saas",
-    "escolar",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 58,
-   "score": 75,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/07520372000198/2026/24"
   },
@@ -1215,19 +691,6 @@
    "diasRestantes": 15,
    "valorEstimado": 319524.22,
    "qtdItens": 10,
-   "modulos": [
-    "contabil",
-    "licenca de uso",
-    "recursos humanos",
-    "nota fiscal eletronica",
-    "implantacao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 77,
-   "score": 75,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/71989982000134/2026/85"
   },
@@ -1242,19 +705,6 @@
    "diasRestantes": 11,
    "valorEstimado": 1097676.76,
    "qtdItens": 9,
-   "modulos": [
-    "gestao publica",
-    "licenciamento de uso",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 70,
-   "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/11770182000104/2026/16"
   },
@@ -1269,19 +719,6 @@
    "diasRestantes": 11,
    "valorEstimado": 1097676.76,
    "qtdItens": 9,
-   "modulos": [
-    "gestao publica",
-    "licenciamento de uso",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 70,
-   "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/14804981000134/2026/33"
   },
@@ -1296,17 +733,6 @@
    "diasRestantes": 10,
    "valorEstimado": 182980.01,
    "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "contabil",
-    "cessao de direito de uso",
-    "compras e licitac",
-    "migracao",
-    "saas",
-    "patrimonio"
-   ],
-   "ader": 78,
-   "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/91900365000128/2026/80"
   },
@@ -1321,17 +747,6 @@
    "diasRestantes": 3,
    "valorEstimado": 176529.96,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 58,
-   "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/87849923000109/2026/495"
   },
@@ -1346,17 +761,6 @@
    "diasRestantes": 3,
    "valorEstimado": 176529.96,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 58,
-   "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/87849923000109/2026/496"
   },
@@ -1371,18 +775,6 @@
    "diasRestantes": 8,
    "valorEstimado": 2674204,
    "qtdItens": 5,
-   "modulos": [
-    "sistema integrado",
-    "cessao de direito de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "nuvem"
-   ],
-   "ader": 66,
-   "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/51642635000123/2026/36"
   },
@@ -1397,20 +789,6 @@
    "diasRestantes": 9,
    "valorEstimado": 158252.56,
    "qtdItens": 4,
-   "modulos": [
-    "folha de pagamento",
-    "licenciamento de uso",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 76,
-   "score": 73,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/51642635000123/2026/37"
   },
@@ -1425,19 +803,6 @@
    "diasRestantes": 24,
    "valorEstimado": 877798.54,
    "qtdItens": 10,
-   "modulos": [
-    "gestao educacional",
-    "licenca de uso",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 78,
-   "score": 72,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/87849923000109/2026/532"
   },
@@ -1452,19 +817,6 @@
    "diasRestantes": 24,
    "valorEstimado": 877798.54,
    "qtdItens": 10,
-   "modulos": [
-    "gestao educacional",
-    "licenca de uso",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 78,
-   "score": 72,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/87849923000109/2026/533"
   },
@@ -1479,18 +831,6 @@
    "diasRestantes": 17,
    "valorEstimado": 705780,
    "qtdItens": 3,
-   "modulos": [
-    "tributar",
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 78,
-   "score": 72,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/76910900000138/2026/42"
   },
@@ -1505,12 +845,6 @@
    "diasRestantes": 2,
    "valorEstimado": 378786.67,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 72,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/304"
   },
@@ -1525,16 +859,6 @@
    "diasRestantes": 2,
    "valorEstimado": 190413.12,
    "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "implantacao",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 54,
-   "score": 72,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/11222421000183/2026/15"
   },
@@ -1549,15 +873,6 @@
    "diasRestantes": 15,
    "valorEstimado": 142083.96,
    "qtdItens": 6,
-   "modulos": [
-    "sistemas integrados",
-    "gestao publica",
-    "cessao de direito de uso",
-    "locacao de software",
-    "software"
-   ],
-   "ader": 70,
-   "score": 70,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13797600000174/2026/19"
   },
@@ -1572,17 +887,6 @@
    "diasRestantes": 15,
    "valorEstimado": 5848186.42,
    "qtdItens": 3,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 53,
-   "score": 70,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/10882069000140/2026/6"
   },
@@ -1597,18 +901,6 @@
    "diasRestantes": 11,
    "valorEstimado": 107436.97,
    "qtdItens": 1,
-   "modulos": [
-    "conversao de dados",
-    "cessao de direito de uso",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 71,
-   "score": 70,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/04215993000170/2026/48"
   },
@@ -1623,16 +915,6 @@
    "diasRestantes": 4,
    "valorEstimado": 191548.56,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "licenciamento de uso",
-    "implantacao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 56,
-   "score": 70,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/45152782000112/2026/11"
   },
@@ -1647,19 +929,6 @@
    "diasRestantes": 15,
    "valorEstimado": 58368.86,
    "qtdItens": 5,
-   "modulos": [
-    "licenciamento de uso",
-    "locacao de software",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 73,
-   "score": 70,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/87712212000180/2026/202"
   },
@@ -1674,18 +943,6 @@
    "diasRestantes": 10,
    "valorEstimado": 220000,
    "qtdItens": 4,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 65,
-   "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/15023914000145/2026/25"
   },
@@ -1700,16 +957,6 @@
    "diasRestantes": 9,
    "valorEstimado": 2261850,
    "qtdItens": 10,
-   "modulos": [
-    "tributar",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 56,
-   "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46523080000160/2026/124"
   },
@@ -1724,15 +971,6 @@
    "diasRestantes": 15,
    "valorEstimado": 1147004.52,
    "qtdItens": 3,
-   "modulos": [
-    "arrecadac",
-    "locacao de software",
-    "saas",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 59,
-   "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/76282656000106/2026/446"
   },
@@ -1747,17 +985,6 @@
    "diasRestantes": 10,
    "valorEstimado": 653491.53,
    "qtdItens": 6,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 59,
-   "score": 68,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102491000109/2026/350"
   },
@@ -1772,17 +999,6 @@
    "diasRestantes": 8,
    "valorEstimado": 271017.84,
    "qtdItens": 2,
-   "modulos": [
-    "conversao de dados",
-    "cessao de direito de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 61,
-   "score": 67,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/00444435000125/2026/13"
   },
@@ -1797,18 +1013,6 @@
    "diasRestantes": 11,
    "valorEstimado": 513450,
    "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "implantacao",
-    "migracao",
-    "protocolo",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 57,
-   "score": 67,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/30339501000168/2026/9"
   },
@@ -1823,18 +1027,6 @@
    "diasRestantes": 11,
    "valorEstimado": 13536.71,
    "qtdItens": 2,
-   "modulos": [
-    "gestao municipal",
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 72,
-   "score": 67,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83009860000113/2026/231"
   },
@@ -1849,12 +1041,6 @@
    "diasRestantes": 1,
    "valorEstimado": 300840,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 40,
-   "score": 67,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/11034741000100/2026/13"
   },
@@ -1869,22 +1055,6 @@
    "diasRestantes": 5,
    "valorEstimado": 0,
    "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "contabil",
-    "folha de pagamento",
-    "cessao de direito de uso",
-    "locacao de sistema",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "patrimonio",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 100,
-   "score": 66,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/14222574000119/2026/106"
   },
@@ -1899,18 +1069,6 @@
    "diasRestantes": 14,
    "valorEstimado": 46200,
    "qtdItens": 1,
-   "modulos": [
-    "licenciamento de uso",
-    "licenca de uso",
-    "implantacao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 65,
-   "score": 66,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/85361863000147/2026/115"
   },
@@ -1925,18 +1083,6 @@
    "diasRestantes": 9,
    "valorEstimado": 193073.22,
    "qtdItens": 1,
-   "modulos": [
-    "folha de pagamento",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 59,
-   "score": 66,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/44555027000116/2026/82"
   },
@@ -1951,17 +1097,6 @@
    "diasRestantes": 4,
    "valorEstimado": 95052.29,
    "qtdItens": 2,
-   "modulos": [
-    "licenciamento de uso",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 51,
-   "score": 66,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/07725138000105/2026/116"
   },
@@ -1976,16 +1111,6 @@
    "diasRestantes": 10,
    "valorEstimado": 653491.49,
    "qtdItens": 6,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 52,
-   "score": 65,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102491000109/2026/243"
   },
@@ -2000,15 +1125,6 @@
    "diasRestantes": 11,
    "valorEstimado": 397066.68,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "cessao de direito de uso",
-    "implantacao",
-    "migracao",
-    "treinamento"
-   ],
-   "ader": 53,
-   "score": 64,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/10141489000175/2026/17"
   },
@@ -2023,15 +1139,6 @@
    "diasRestantes": 4,
    "valorEstimado": 234000,
    "qtdItens": 1,
-   "modulos": [
-    "sistema integrado",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 44,
-   "score": 64,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/07654114000102/2026/51"
   },
@@ -2046,16 +1153,6 @@
    "diasRestantes": 10,
    "valorEstimado": 114459.04,
    "qtdItens": 1,
-   "modulos": [
-    "sistema integrado",
-    "licenciamento de uso",
-    "implantacao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 56,
-   "score": 64,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/06229538000159/2026/11"
   },
@@ -2070,17 +1167,6 @@
    "diasRestantes": 8,
    "valorEstimado": 180018.24,
    "qtdItens": 1,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 53,
-   "score": 63,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/30248954000189/2026/4"
   },
@@ -2095,13 +1181,6 @@
    "diasRestantes": 3,
    "valorEstimado": 12000,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "licenca de uso",
-    "software"
-   ],
-   "ader": 46,
-   "score": 63,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/91566893000192/2026/402"
   },
@@ -2116,16 +1195,6 @@
    "diasRestantes": 8,
    "valorEstimado": 266929.48,
    "qtdItens": 4,
-   "modulos": [
-    "sistema integrado",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento"
-   ],
-   "ader": 49,
-   "score": 62,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/89250708000104/2026/23"
   },
@@ -2140,25 +1209,6 @@
    "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 8,
-   "modulos": [
-    "sistemas integrados",
-    "sistema integrado",
-    "gestao publica",
-    "contabil",
-    "folha de pagamento",
-    "cessao de direito de uso",
-    "recursos humanos",
-    "portal da transparencia",
-    "migracao",
-    "protocolo",
-    "patrimonio",
-    "almoxarifado",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 100,
-   "score": 61,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/08004061000139/2026/110"
   },
@@ -2173,12 +1223,6 @@
    "diasRestantes": 15,
    "valorEstimado": 81480.24,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 60,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/88254883000107/2026/130"
   },
@@ -2193,16 +1237,6 @@
    "diasRestantes": 137,
    "valorEstimado": 150000,
    "qtdItens": 1,
-   "modulos": [
-    "gestao educacional",
-    "contabil",
-    "licenca de uso",
-    "educacional",
-    "saas",
-    "software"
-   ],
-   "ader": 68,
-   "score": 59,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/04508933000145/2026/2"
   },
@@ -2217,13 +1251,6 @@
    "diasRestantes": 16,
    "valorEstimado": 3551666.67,
    "qtdItens": 1,
-   "modulos": [
-    "e-cidade",
-    "migracao",
-    "software"
-   ],
-   "ader": 40,
-   "score": 58,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/24996969000122/2026/93"
   },
@@ -2238,12 +1265,6 @@
    "diasRestantes": 9,
    "valorEstimado": 100000,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 40,
-   "score": 56,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/09145368000112/2026/18"
   },
@@ -2258,16 +1279,6 @@
    "diasRestantes": 15,
    "valorEstimado": 95707.7,
    "qtdItens": 2,
-   "modulos": [
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 41,
-   "score": 56,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/11420915000172/2026/19"
   },
@@ -2282,20 +1293,6 @@
    "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "sistema integrado",
-    "folha de pagamento",
-    "licenca de uso",
-    "portal da transparencia",
-    "implantacao",
-    "migracao",
-    "protocolo",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 86,
-   "score": 55,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/04015843000112/2026/14"
   },
@@ -2310,17 +1307,6 @@
    "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 0,
-   "modulos": [
-    "gestao publica",
-    "licenciamento de uso",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 64,
-   "score": 54,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/76208859000152/2026/95"
   },
@@ -2335,12 +1321,6 @@
    "diasRestantes": 76,
    "valorEstimado": 644940,
    "qtdItens": 2,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 54,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13646005000138/2025/223"
   },
@@ -2355,15 +1335,6 @@
    "diasRestantes": 16,
    "valorEstimado": 21834.42,
    "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "cessao de direito de uso",
-    "implantacao",
-    "migracao",
-    "suporte tecnico"
-   ],
-   "ader": 53,
-   "score": 54,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/27744150000166/2026/92"
   },
@@ -2378,14 +1349,6 @@
    "diasRestantes": 22,
    "valorEstimado": 112386.6,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "contabil",
-    "recursos humanos",
-    "transparencia"
-   ],
-   "ader": 44,
-   "score": 53,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/18423582000184/2026/91"
   },
@@ -2400,12 +1363,6 @@
    "diasRestantes": 136,
    "valorEstimado": 183628.8,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 52,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/45550167000164/2026/7"
   },
@@ -2420,12 +1377,6 @@
    "diasRestantes": 205,
    "valorEstimado": 2564223.46,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 40,
-   "score": 52,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/35445485000101/2026/4"
   },
@@ -2440,16 +1391,6 @@
    "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 2,
-   "modulos": [
-    "gestao educacional",
-    "licenciamento de uso",
-    "educacional",
-    "implantacao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 58,
-   "score": 51,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/37226644000102/2026/91"
   },
@@ -2464,12 +1405,6 @@
    "diasRestantes": 481,
    "valorEstimado": 296960,
    "qtdItens": 5,
-   "modulos": [
-    "arrecadac",
-    "sistema integrado"
-   ],
-   "ader": 44,
-   "score": 50,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/18303271000181/2025/291"
   },
@@ -2484,16 +1419,6 @@
    "diasRestantes": 2,
    "valorEstimado": 1.25,
    "qtdItens": 1,
-   "modulos": [
-    "folha de pagamento",
-    "implantacao",
-    "migracao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 46,
-   "score": 47,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01616171000102/2026/52"
   },
@@ -2508,18 +1433,6 @@
    "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 59,
-   "score": 43,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/67996363000108/2026/12"
   },
@@ -2534,12 +1447,6 @@
    "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 40,
-   "score": 43,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/10120962000138/2026/8"
   },
@@ -2554,13 +1461,6 @@
    "diasRestantes": 15,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 42,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102558000105/2025/58"
   },
@@ -2575,15 +1475,6 @@
    "diasRestantes": 4,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 44,
-   "score": 41,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01612848000134/2026/36"
   },
@@ -2598,13 +1489,6 @@
    "diasRestantes": 15,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "tributar",
-    "erp",
-    "contabil"
-   ],
-   "ader": 48,
-   "score": 38,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13593766000179/2026/2"
   },
@@ -2619,12 +1503,6 @@
    "diasRestantes": 17,
    "valorEstimado": 20000,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 10,
-   "score": 35,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/87613162000183/2026/89"
   },
@@ -2639,13 +1517,6 @@
    "diasRestantes": 275,
    "valorEstimado": 1,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 34,
    "suspeito": [
     "valor irrisorio"
    ],
@@ -2662,13 +1533,6 @@
    "diasRestantes": 1596,
    "valorEstimado": 1,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 34,
    "suspeito": [
     "valor irrisorio",
     "data de encerramento implausivel"
@@ -2686,13 +1550,6 @@
    "diasRestantes": 199,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 32,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/95583571000102/2026/44"
   },
@@ -2707,13 +1564,6 @@
    "diasRestantes": 260,
    "valorEstimado": 0.01,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 32,
    "suspeito": [
     "valor irrisorio"
    ],
@@ -2730,13 +1580,6 @@
    "diasRestantes": 1323,
    "valorEstimado": 0.01,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 32,
    "suspeito": [
     "valor irrisorio",
     "data de encerramento implausivel"
@@ -2754,13 +1597,6 @@
    "diasRestantes": 172,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 32,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/95583571000102/2026/9"
   },
@@ -2775,13 +1611,6 @@
    "diasRestantes": 8902,
    "valorEstimado": 0.01,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 32,
    "suspeito": [
     "valor irrisorio",
     "data de encerramento implausivel"
@@ -2799,12 +1628,6 @@
    "diasRestantes": 1584,
    "valorEstimado": 0.1,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 29,
    "suspeito": [
     "valor irrisorio",
     "data de encerramento implausivel"
@@ -2822,12 +1645,6 @@
    "diasRestantes": 799,
    "valorEstimado": 0,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 29,
    "suspeito": [
     "data de encerramento implausivel"
    ],
@@ -2844,14 +1661,9 @@
    "diasRestantes": 303,
    "valorEstimado": 1.24,
    "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 44,
-   "score": 28,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/06553556000191/2026/14"
   }
- ]
+ ],
+ "_privacidade": "A pontuacao de prioridade e a aderencia ao portfolio foram removidas desta versao publica por serem criterio comercial interno. A ordem da lista e preservada."
 }

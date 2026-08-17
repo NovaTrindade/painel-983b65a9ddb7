@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-17T18:59:02.130Z",
+ "gerado": "2026-08-17T19:33:30.584Z",
  "referencia": "2026-08-17",
  "execucao": {
   "empresasConsultadas": 10,
@@ -244,14 +244,15 @@
    "municipio": "BELO HORIZONTE",
    "uf": "MG",
    "cnaePrincipal": "Comércio varejista especializado de equipamentos e suprimentos de informática",
+   "qtdSocios": 2,
    "socios": [
     {
-     "nome": "ELVIS FRANCISCO LEAO",
+     "tipo": "pessoa fisica",
      "qualificacao": "Diretor",
      "entrada": "2021-04-28"
     },
     {
-     "nome": "MIGUEL STEINER FARBER",
+     "tipo": "pessoa fisica",
      "qualificacao": "Presidente",
      "entrada": "2023-08-18"
     }
@@ -267,19 +268,20 @@
    "municipio": "VILA VELHA",
    "uf": "ES",
    "cnaePrincipal": "Comércio atacadista de equipamentos de informática",
+   "qtdSocios": 3,
    "socios": [
     {
-     "nome": "DISTRICOMP DISTRIBUIDORA DE INFORMATICA LTDA",
+     "tipo": "pessoa juridica",
      "qualificacao": "Sócio",
      "entrada": "2011-01-17"
     },
     {
-     "nome": "EFICART SOCIEDAD ANONIMA",
+     "tipo": "pessoa juridica",
      "qualificacao": "Sócio Pessoa Jurídica Domiciliado no Exterior",
      "entrada": "2003-12-10"
     },
     {
-     "nome": "MIGUEL STEINER FARBER",
+     "tipo": "pessoa fisica",
      "qualificacao": "Administrador",
      "entrada": "2011-01-17"
     }
@@ -295,19 +297,20 @@
    "municipio": "PORTO ALEGRE",
    "uf": "RS",
    "cnaePrincipal": "Comércio atacadista de equipamentos de informática",
+   "qtdSocios": 3,
    "socios": [
     {
-     "nome": "DOUGLAS DAVID BARRO LEAL",
+     "tipo": "pessoa fisica",
      "qualificacao": "Administrador",
      "entrada": "2023-10-25"
     },
     {
-     "nome": "EFICART SOCIEDAD ANONIMA",
+     "tipo": "pessoa juridica",
      "qualificacao": "Sócio",
      "entrada": "2011-07-12"
     },
     {
-     "nome": "MIGUEL STEINER FARBER",
+     "tipo": "pessoa fisica",
      "qualificacao": "Sócio-Administrador",
      "entrada": "2005-12-06"
     }
@@ -323,14 +326,15 @@
    "municipio": "PORTO ALEGRE",
    "uf": "RS",
    "cnaePrincipal": "Fabricação de equipamentos de informática",
+   "qtdSocios": 2,
    "socios": [
     {
-     "nome": "DISTRICOMP DISTRIBUIDORA DE INFORMATICA LTDA",
+     "tipo": "pessoa juridica",
      "qualificacao": "Sócio",
      "entrada": "2011-06-09"
     },
     {
-     "nome": "MIGUEL STEINER FARBER",
+     "tipo": "pessoa fisica",
      "qualificacao": "Sócio-Administrador",
      "entrada": "2011-06-09"
     }
@@ -346,14 +350,16 @@
    "municipio": "SAO PAULO",
    "uf": "SP",
    "cnaePrincipal": "Suporte técnico, manutenção e outros serviços em tecnologia da informação",
+   "qtdSocios": 1,
    "socios": [
     {
-     "nome": "MIGUEL STEINER FARBER",
+     "tipo": "pessoa fisica",
      "qualificacao": "Sócio-Administrador",
      "entrada": "2021-08-26"
     }
    ]
   }
  ],
- "_nota": "Cobertura PARCIAL: o PNCP so e obrigatorio desde 2023 e muitos entes publicam apenas em sistema proprio. Contratos de Petropolis, ALPB e SEMAS-PE nunca apareceram no PNCP e so foram achados em diario oficial. Este JSON e piso, nao teto."
+ "_nota": "Cobertura PARCIAL: o PNCP so e obrigatorio desde 2023 e muitos entes publicam apenas em sistema proprio. Contratos de Petropolis, ALPB e SEMAS-PE nunca apareceram no PNCP e so foram achados em diario oficial. Este JSON e piso, nao teto.",
+ "_privacidade": "Nomes de pessoas fisicas foram removidos desta versao publica. A composicao societaria (quantidade, natureza e qualificacao dos socios) e mantida por ser informacao da empresa, nao da pessoa."
 }

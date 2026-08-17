@@ -1,0 +1,4 @@
+# Este site nao deve ser indexado por buscadores.
+# Contem compilacao de dados publicos com finalidade interna da NT HUB.
+User-agent: *
+Disallow: /
