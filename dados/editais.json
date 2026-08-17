@@ -1,95 +1,123 @@
 {
- "gerado": "2026-08-17T17:10:28.138Z",
+ "gerado": "2026-08-17T18:33:47.846Z",
  "referencia": "2026-08-17",
  "criterioVersao": 1,
  "execucao": {
-  "universoAberto": 1680,
-  "descartados": 1574,
-  "candidatos": 106,
-  "itensObtidos": 105,
+  "universoAberto": 2639,
+  "descartados": 2528,
+  "candidatos": 111,
+  "itensObtidos": 110,
   "itensFalhou": 1,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 601,
-    "novos": 197
+    "total": 608,
+    "novos": 491,
+    "paginasOk": 11,
+    "erro": null
    },
    {
     "consulta": "gestao municipal",
-    "total": 0,
-    "novos": 0
+    "total": 752,
+    "novos": 401,
+    "paginasOk": 14,
+    "erro": null
    },
    {
     "consulta": "sistema integrado",
-    "total": 1737,
-    "novos": 632
+    "total": 1747,
+    "novos": 312,
+    "paginasOk": 8,
+    "erro": null
    },
    {
     "consulta": "licenciamento uso",
-    "total": 208,
-    "novos": 39
+    "total": 210,
+    "novos": 107,
+    "paginasOk": 4,
+    "erro": null
    },
    {
     "consulta": "software gestao",
-    "total": 0,
-    "novos": 0
+    "total": 214,
+    "novos": 59,
+    "paginasOk": 5,
+    "erro": null
    },
    {
     "consulta": "locacao software",
-    "total": 186,
-    "novos": 138
+    "total": 190,
+    "novos": 104,
+    "paginasOk": 4,
+    "erro": null
    },
    {
     "consulta": "cessao uso",
-    "total": 106,
-    "novos": 68
+    "total": 108,
+    "novos": 65,
+    "paginasOk": 3,
+    "erro": null
    },
    {
     "consulta": "arrecadacao",
-    "total": 297,
-    "novos": 180
+    "total": 298,
+    "novos": 247,
+    "paginasOk": 6,
+    "erro": null
    },
    {
     "consulta": "tributaria",
-    "total": 0,
-    "novos": 0
+    "total": 298,
+    "novos": 87,
+    "paginasOk": 6,
+    "erro": null
    },
    {
     "consulta": "folha pagamento",
-    "total": 273,
-    "novos": 137
+    "total": 274,
+    "novos": 201,
+    "paginasOk": 6,
+    "erro": null
    },
    {
     "consulta": "gestao educacional",
     "total": 58,
-    "novos": 33
+    "novos": 9,
+    "paginasOk": 2,
+    "erro": null
    },
    {
     "consulta": "gestao documentos",
-    "total": 125,
-    "novos": 80
+    "total": 126,
+    "novos": 29,
+    "paginasOk": 3,
+    "erro": null
    },
    {
     "consulta": "processo eletronico",
-    "total": 899,
-    "novos": 149
+    "total": 908,
+    "novos": 508,
+    "paginasOk": 13,
+    "erro": null
    },
    {
     "consulta": "conversao dados",
-    "total": 82,
-    "novos": 27
+    "total": 83,
+    "novos": 19,
+    "paginasOk": 2,
+    "erro": null
    }
   ]
  },
  "resumo": {
-  "total": 106,
+  "total": 111,
   "prioridade": 33,
-  "avaliar": 24,
-  "triar": 49,
-  "urgentes7d": 36,
-  "valorTotal": 70215384.6676,
-  "valorUrgentes": 26333404.090400003,
-  "suspeitos": 8
+  "avaliar": 25,
+  "triar": 53,
+  "urgentes7d": 38,
+  "valorTotal": 76302206.19,
+  "valorUrgentes": 26550123,
+  "suspeitos": 7
  },
  "editais": [
   {
@@ -134,8 +162,8 @@
    "objeto": "[LICITANET] - Contratação de empresa especializada para licença de uso de Sistema Integrado para Gestão Pública Municipal, com armazenamento em nuvem, número de usuários ilimitados, incluindo os serviços de conversão de dados, implantação, treinamento, manutenção corretiva e evolutiva, suporte técnico, para atendimento das demandas da Prefeitura, Câmara e Instituto de Previdência.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-20T09:30",
-   "diasRestantes": 4,
-   "valorEstimado": 1337930.7399999998,
+   "diasRestantes": 3,
+   "valorEstimado": 1337930.74,
    "qtdItens": 10,
    "modulos": [
     "conversao de dados",
@@ -152,9 +180,34 @@
     "nuvem"
    ],
    "ader": 100,
-   "score": 93,
+   "score": 97,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01612509000158/2026/147"
+  },
+  {
+   "id": "18303164000153-2026-61",
+   "orgao": "MUNICIPIO DE ALVORADA DE MINAS",
+   "municipio": "Alvorada de Minas",
+   "uf": "MG",
+   "objeto": "Contratação de solução integrada de gestão pública municipal, contemplando licenciamento de softwares e serviços para gestão administrativa/financeira, processo eletrônico e GED, assistência social e gestão educacional, destinados à Prefeitura e Câmara Municipal. ",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-20T09:00",
+   "diasRestantes": 3,
+   "valorEstimado": 549100.08,
+   "qtdItens": 6,
+   "modulos": [
+    "sistema integrado",
+    "gestao publica",
+    "gestao municipal",
+    "gestao educacional",
+    "licenca de uso",
+    "educacional",
+    "software"
+   ],
+   "ader": 100,
+   "score": 95,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/18303164000153/2026/61"
   },
   {
    "id": "46523262000131-2026-60",
@@ -165,7 +218,7 @@
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-19T08:00",
    "diasRestantes": 2,
-   "valorEstimado": 246265.83999999997,
+   "valorEstimado": 246265.84,
    "qtdItens": 10,
    "modulos": [
     "gestao publica",
@@ -244,29 +297,32 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01605479000152/2026/72"
   },
   {
-   "id": "18303164000153-2026-61",
-   "orgao": "MUNICIPIO DE ALVORADA DE MINAS",
-   "municipio": "Alvorada de Minas",
-   "uf": "MG",
-   "objeto": "Contratação de solução integrada de gestão pública municipal, contemplando licenciamento de softwares e serviços para gestão administrativa/financeira, processo eletrônico e GED, assistência social e gestão educacional, destinados à Prefeitura e Câmara Municipal. ",
+   "id": "13753306000160-2026-71",
+   "orgao": "MUNICIPIO DE CAMAMU",
+   "municipio": "Camamu",
+   "uf": "BA",
+   "objeto": "[LICITANET] - Contratação de empresa especializada na prestação de serviços técnicos e cessão de uso de solução integrada de gestão tributária municipal e emissão de Nota Fiscal de Serviços Eletrônica (NFS-e), compreendendo implantação, parametrização, conversão e migração de base de dados, treinamento de usuários, manutenção legal e corretiva, suporte técnico operacional continuado e atualização tecnológica do sistema, com o objetivo de aperfeiçoar a administração tributária municipal, aumentar a eficiência da arrecadação, fortalecer os mecanismos de fiscalização, simplificar o atendimento ao contribuinte, garantir a transparência das informações fiscais e apoiar a tomada de decisão da gestão pública, em conformidade com o Código Tributário Nacional – CTN (Lei nº 5.172/1966), Lei Complementar nº 116/2003, Lei Complementar nº 123/2006, Lei nº 14.133/2021, Lei nº 13.709/2018 (LGPD), legislação tributária municipal, normas aplicáveis à NFS-e demais princípios e normas que regem a administração pública, para o município de Camamu-BA.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-20T09:00",
-   "diasRestantes": 4,
-   "valorEstimado": 549100.08,
-   "qtdItens": 6,
+   "diasRestantes": 3,
+   "valorEstimado": 131703.18,
+   "qtdItens": 8,
    "modulos": [
-    "sistema integrado",
+    "arrecadac",
+    "tributar",
     "gestao publica",
-    "gestao municipal",
-    "gestao educacional",
-    "licenca de uso",
-    "educacional",
-    "software"
+    "nfs-e",
+    "nota fiscal eletronica",
+    "implantacao",
+    "migracao",
+    "transparencia",
+    "treinamento",
+    "suporte tecnico"
    ],
    "ader": 100,
-   "score": 91,
+   "score": 92,
    "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/18303164000153/2026/61"
+   "pncpUrl": "https://pncp.gov.br/app/editais/13753306000160/2026/71"
   },
   {
    "id": "83028415000109-2026-107",
@@ -306,7 +362,7 @@
    "objeto": "contratação de empresa especializada para o licenciamento de uso de solução integrada de Sistema de Gestão Pública Municipal, em arquitetura 100% web e operada em ambiente de computação em nuvem, compreendendo a implantação, migração de dados, parametrização, treinamento, suporte técnico, manutenção e evolução tecnológica, conforme as condições, especificações e funcionalidades estabelecidas no Termo de Referência e em seus anexos",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-28T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 3568563.76,
    "qtdItens": 10,
    "modulos": [
@@ -353,34 +409,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/46634531000137/2026/228"
   },
   {
-   "id": "13753306000160-2026-71",
-   "orgao": "MUNICIPIO DE CAMAMU",
-   "municipio": "Camamu",
-   "uf": "BA",
-   "objeto": "[LICITANET] - Contratação de empresa especializada na prestação de serviços técnicos e cessão de uso de solução integrada de gestão tributária municipal e emissão de Nota Fiscal de Serviços Eletrônica (NFS-e), compreendendo implantação, parametrização, conversão e migração de base de dados, treinamento de usuários, manutenção legal e corretiva, suporte técnico operacional continuado e atualização tecnológica do sistema, com o objetivo de aperfeiçoar a administração tributária municipal, aumentar a eficiência da arrecadação, fortalecer os mecanismos de fiscalização, simplificar o atendimento ao contribuinte, garantir a transparência das informações fiscais e apoiar a tomada de decisão da gestão pública, em conformidade com o Código Tributário Nacional – CTN (Lei nº 5.172/1966), Lei Complementar nº 116/2003, Lei Complementar nº 123/2006, Lei nº 14.133/2021, Lei nº 13.709/2018 (LGPD), legislação tributária municipal, normas aplicáveis à NFS-e demais princípios e normas que regem a administração pública, para o município de Camamu-BA.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-20T09:00",
-   "diasRestantes": 4,
-   "valorEstimado": 131703.18,
-   "qtdItens": 8,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "gestao publica",
-    "nfs-e",
-    "nota fiscal eletronica",
-    "implantacao",
-    "migracao",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 100,
-   "score": 88,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/13753306000160/2026/71"
-  },
-  {
    "id": "44483444000109-2026-18",
    "orgao": "MUNICIPIO DE POMPEIA",
    "municipio": "Pompéia",
@@ -415,7 +443,7 @@
    "objeto": "[LICITANET] - Contratação de empresa especializada para disponibilização, mediante locação ou licenciamento de uso, de solução informatizada integrada de gestão pública e\nadministrativa, em ambiente web/cloud, incluindo implantação, parametrização,\nconfiguração, migração ou conversão de dados, capacitação dos usuários,\natualizações legais e funcionais, manutenção corretiva e evolutiva, suporte técnico\nremoto e, quando necessário, presencial, hospedagem, monitoramento, backup,\nrecuperação de dados e apoio à transição ao término da contratação, para atendimento\ndas necessidades do CISCEM, conforme especificações do Termo de Referência –\nAnexo I.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-21T09:00",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 187200,
    "qtdItens": 10,
    "modulos": [
@@ -443,7 +471,7 @@
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-18T13:00",
    "diasRestantes": 2,
-   "valorEstimado": 111272.54999999999,
+   "valorEstimado": 111272.55,
    "qtdItens": 10,
    "modulos": [
     "conversao de dados",
@@ -552,7 +580,7 @@
    "objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA PARA LICENCIAMENTO DE USO DE SOLUÇÃO INTEGRADA DE GESTÃO PÚBLICA MUNICIPAL, EM PLATAFORMA WEB, SEM LIMITAÇÃO DE USUÁRIOS, ABRANGENDO OS MÓDULOS NECESSÁRIOS À GESTÃO ADMINISTRATIVA, FINANCEIRA, CONTÁBIL, PATRIMONIAL, TRIBUTÁRIA, RECURSOS HUMANOS, TRANSPARÊNCIA PÚBLICA E DEMAIS ÁREAS CORRELATAS, INCLUINDO SERVIÇOS DE IMPLANTAÇÃO, INSTALAÇÃO, MIGRAÇÃO E CONVERSÃO DE BASES DE DADOS, PARAMETRIZAÇÃO, CUSTOMIZAÇÃO, TREINAMENTO, SUPORTE TÉCNICO ESPECIALIZADO, MANUTENÇÃO PREVENTIVA, CORRETIVA E EVOLUTIVA, HOSPEDAGEM QUANDO APLICÁVEL, ATUALIZAÇÕES DE VERSÕES E ADEQUAÇÕES DECORRENTES DE ALTERAÇÕES LEGAIS, NORMATIVAS E TECNOLÓGICAS, VISANDO GARANTIR A EFICIÊNCIA ADMINISTRATIVA, A CONFORMIDADE COM A LEGISLAÇÃO VIGENTE, O ATENDIMENTO AOS ÓRGÃOS DE CONTROLE E A MODERNIZAÇÃO DA GESTÃO PÚBLICA MUNICIPAL, VISANDO ATENDER ÀS NECESSIDADES DE TODAS AS SECRETARIAS DA PREFEITURA MUNICIPAL DE FÁTIMA",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-26T10:00",
-   "diasRestantes": 10,
+   "diasRestantes": 9,
    "valorEstimado": 172128.37,
    "qtdItens": 6,
    "modulos": [
@@ -582,7 +610,7 @@
    "objeto": "[LICITANET] - Contratação  empresa especializada para prestação de serviços de licença de uso e locação de softwares e aplicativos para gestão pública, operados em ambiente de computação em nuvem com provimento de data center, compreendendo implantação com migração e conversão de dados pré-existentes, parametrização dos módulos, treinamento dos usuários, suporte técnico remoto e presencial, visitas in loco, manutenção com atualizações legais, corretivas, evolutivas e adaptativas, garantindo o atendimento integral aos requisitos do SIAFIC e demais normativos aplicáveis, visando à automação, integração, segurança da informação e eficiência na execução das atividades administrativas da Prefeitura Municipal e da Câmara Municipal de Tapira/MG. \n\n",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-31T09:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 80172.11,
    "qtdItens": 10,
    "modulos": [
@@ -638,6 +666,33 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/76247329000113/2026/62"
   },
   {
+   "id": "84727601000190-2026-63",
+   "orgao": "MUNICIPIO DE THEOBROMA",
+   "municipio": "Theobroma",
+   "uf": "RO",
+   "objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPLANTAÇÃO, \nCAPACITAÇÃO E LOCAÇÃO DE SOFTWARE INTEGRADO DE GESTÃO EDUCACIONAL NA \nSECRETARIA MUNICIPAL DE EDUCAÇÃO E UNIDADES ESCOLARES NA MODALIDADE \nLICENÇA DE USO. ",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-24T10:00",
+   "diasRestantes": 7,
+   "valorEstimado": 121666.62,
+   "qtdItens": 2,
+   "modulos": [
+    "gestao educacional",
+    "licenca de uso",
+    "locacao de software",
+    "educacional",
+    "implantacao",
+    "migracao",
+    "escolar",
+    "software",
+    "treinamento"
+   ],
+   "ader": 88,
+   "score": 83,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/84727601000190/2026/63"
+  },
+  {
    "id": "82963216000117-2026-75",
    "orgao": "MUNICIPIO DE SOMBRIO",
    "municipio": "Sombrio",
@@ -646,7 +701,7 @@
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-28T08:59",
    "diasRestantes": 11,
-   "valorEstimado": 611768.3400000001,
+   "valorEstimado": 611768.34,
    "qtdItens": 4,
    "modulos": [
     "conversao de dados",
@@ -672,8 +727,8 @@
    "objeto": "[LICITANET] - Estabelecer as condições e requisitos para a aquisição, implantação, treinamento, suporte e manutenção de um Sistema de Software Tributário Municipal integrado, destinado à gestão imobiliária, mercantil (mobiliária), Feira Livre Municipal, arrecadação, dívida ativa, relatórios gerenciais e módulos correlatos, atendendo às legislações vigentes do Município de Itabaiana/SE, utilizando a base de dados pré-existente e suportando adição de novos cadastros, promovendo assim a maior eficiência, transparência e conformidade legal dos serviços, conforme detalhado nas seções subsequentes.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-19T09:00",
-   "diasRestantes": 3,
-   "valorEstimado": 85440.34999999999,
+   "diasRestantes": 2,
+   "valorEstimado": 85440.35,
    "qtdItens": 10,
    "modulos": [
     "arrecadac",
@@ -697,8 +752,8 @@
    "objeto": "Registro de Preços para Contratação de empresa especializada para o fornecimento de solução integrada de software de gestão pública, na modalidade SaaS – Software as a Service (ambiente web), com acesso simultâneo ilimitado de usuários e hospedagem em nuvem, incluindo os serviços correlatos de implantação, migração de dados, parametrização, treinamento, suporte técnico e manutenção corretiva, legal e evolutiva, destinada a atender às demandas administrativas, contábeis, financeiras, patrimoniais",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-21T10:00",
-   "diasRestantes": 5,
-   "valorEstimado": 981936.6599999999,
+   "diasRestantes": 4,
+   "valorEstimado": 981936.66,
    "qtdItens": 9,
    "modulos": [
     "gestao publica",
@@ -815,31 +870,31 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/46634531000137/2026/227"
   },
   {
-   "id": "48468284000171-2026-105",
-   "orgao": "MUNICIPIO DE GUARARAPES",
-   "municipio": "Guararapes",
+   "id": "46523072000114-2026-91",
+   "orgao": "MUNICIPIO DE FRANCISCO MORATO",
+   "municipio": "Francisco Morato",
    "uf": "SP",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO RAMO DE INFORMÁTICA, OBJETIVANDO A LOCAÇÃO DE SISTEMAS DE COMPUTADOR - SOFTWARES PARA GESTÃO DO DEPARTAMENTO DE EDUCAÇÃO, DESENVOLVIDO EM LINGUAGEM WEB, INTEGRADO À SECRETARIA ESCOLAR DIGITAL - SED - DE FORMA AUTOMATIZADA, COM DISPONIBILIZAÇÃO DE DATACENTER E BACKUPS SOB A RESPONSABILIDADE DA CONTRATADA, ABRANGENDO A IMPLANTAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO/CONVERSÃO/IMPORTAÇÃO DE DADOS, CAPACITAÇÃO, SUPORTE, MANUTENÇÃO, EVOLUÇÃO TECNOLÓGICA, SEGURANÇA DA INF",
+   "objeto": "Contratação de empresa especializada para o fornecimento de licença temporária de uso de solução integrada de Gestão Educacional Pedagógica sob o regime de Software as a Service (SaaS), desenvolvida em plataforma 100% web e operação integralmente on-line, contemplando algoritmos nativos de Inteligência Artificial Pedagógica voltados ao apoio à tomada de decisões individualizadas e banco de dados de conteúdos didáticos integrados, incluindo os serviços essenciais de implantação, parametrização técnica, suporte contínuo e capacitação dos profissionais da rede municipal de ensino, conforme especificações constantes do Termo de Referência.",
    "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T08:30",
-   "diasRestantes": 10,
-   "valorEstimado": 497333.37999999995,
-   "qtdItens": 6,
+   "fimVigencia": "2026-09-01T09:50",
+   "diasRestantes": 15,
+   "valorEstimado": 1924665.32,
+   "qtdItens": 5,
    "modulos": [
-    "sistema integrado",
+    "gestao educacional",
     "licenca de uso",
-    "locacao de sistema",
+    "educacional",
     "implantacao",
     "migracao",
-    "escolar",
+    "saas",
     "software",
     "treinamento",
     "suporte tecnico"
    ],
-   "ader": 85,
-   "score": 79,
+   "ader": 80,
+   "score": 80,
    "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/48468284000171/2026/105"
+   "pncpUrl": "https://pncp.gov.br/app/editais/46523072000114/2026/91"
   },
   {
    "id": "51455087000122-2026-94",
@@ -866,6 +921,33 @@
    "score": 79,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/51455087000122/2026/94"
+  },
+  {
+   "id": "48468284000171-2026-105",
+   "orgao": "MUNICIPIO DE GUARARAPES",
+   "municipio": "Guararapes",
+   "uf": "SP",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO RAMO DE INFORMÁTICA, OBJETIVANDO A LOCAÇÃO DE SISTEMAS DE COMPUTADOR - SOFTWARES PARA GESTÃO DO DEPARTAMENTO DE EDUCAÇÃO, DESENVOLVIDO EM LINGUAGEM WEB, INTEGRADO À SECRETARIA ESCOLAR DIGITAL - SED - DE FORMA AUTOMATIZADA, COM DISPONIBILIZAÇÃO DE DATACENTER E BACKUPS SOB A RESPONSABILIDADE DA CONTRATADA, ABRANGENDO A IMPLANTAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO/CONVERSÃO/IMPORTAÇÃO DE DADOS, CAPACITAÇÃO, SUPORTE, MANUTENÇÃO, EVOLUÇÃO TECNOLÓGICA, SEGURANÇA DA INF",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-27T08:30",
+   "diasRestantes": 10,
+   "valorEstimado": 497333.38,
+   "qtdItens": 6,
+   "modulos": [
+    "sistema integrado",
+    "licenca de uso",
+    "locacao de sistema",
+    "implantacao",
+    "migracao",
+    "escolar",
+    "software",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 85,
+   "score": 79,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/48468284000171/2026/105"
   },
   {
    "id": "18449173000157-2026-64",
@@ -901,7 +983,7 @@
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-19T08:59",
    "diasRestantes": 2,
-   "valorEstimado": 87800.0004,
+   "valorEstimado": 87800,
    "qtdItens": 1,
    "modulos": [
     "gestao publica",
@@ -918,33 +1000,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01146604000103/2026/117"
   },
   {
-   "id": "84727601000190-2026-63",
-   "orgao": "MUNICIPIO DE THEOBROMA",
-   "municipio": "Theobroma",
-   "uf": "RO",
-   "objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPLANTAÇÃO, \nCAPACITAÇÃO E LOCAÇÃO DE SOFTWARE INTEGRADO DE GESTÃO EDUCACIONAL NA \nSECRETARIA MUNICIPAL DE EDUCAÇÃO E UNIDADES ESCOLARES NA MODALIDADE \nLICENÇA DE USO. ",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-24T10:00",
-   "diasRestantes": 8,
-   "valorEstimado": 121666.62000000001,
-   "qtdItens": 2,
-   "modulos": [
-    "gestao educacional",
-    "licenca de uso",
-    "locacao de software",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "software",
-    "treinamento"
-   ],
-   "ader": 88,
-   "score": 78,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/84727601000190/2026/63"
-  },
-  {
    "id": "13830336000123-2026-186",
    "orgao": "MUNICIPIO DE CANDEIAS",
    "municipio": "Candeias",
@@ -952,7 +1007,7 @@
    "objeto": "Contratação de empresa especializada para licenciamento de uso, implantação, customização, parametrização, treinamento, suporte técnico, manutenção corretiva e evolutiva e hospedagem de sistema integrado de gestão educacional em ambiente web (SAAs), destinado a atender a Secretaria Municipal da Educação e todas as unidades escolares do Município de Candeias/BA.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-02T09:00",
-   "diasRestantes": 17,
+   "diasRestantes": 16,
    "valorEstimado": 686760.8,
    "qtdItens": 1,
    "modulos": [
@@ -979,8 +1034,8 @@
    "objeto": "A presente licitação será realizada visando à contratação de empresa especializada para o  fornecimento de licença de uso de Sistemas Integrados de Gestão Pública, incluindo serviços  de instalação, implantação, migração e conversão de dados, parametrização, configuração,  treinamento de usuários, suporte técnico, manutenção corretiva, preventiva, adaptativa e  evolutiva, bem como demais serviços necessários à plena operacionalização da solução,  destinada ao atendimento das necessidades da Prefeitura Municipal de Embu-Guaçu e da  Câmara Municipal de Embu-Guaçu, especialmente quanto às exigências do Sistema Único e  Integrado de Execução Orçamentária, Administração Financeira e Controle — SIAFIC. ",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-26T10:00",
-   "diasRestantes": 10,
-   "valorEstimado": 14265.1872,
+   "diasRestantes": 9,
+   "valorEstimado": 14265.19,
    "qtdItens": 2,
    "modulos": [
     "conversao de dados",
@@ -1159,7 +1214,7 @@
    "objeto": "Contratação de pessoa jurídica especializada na prestação de serviços de software educacional integrado, disponibilizado em ambiente web, no modelo software como serviço (SAAS), destinado ao planejamento, à gestão, das políticas curriculares e pedagógicas da rede municipal de ensino, compreendendo o licenciamento de uso, a implantação, a capacitação, o suporte técnico e a manutenção de plataforma composta por sistema de gestão do currículo educacional municipal, sistema de formação continuada na modalidade educação a distância (EAD) AVA – ambiente virtual de aprendizagem, visando ao fortalecimento da governança pedagógica e à melhoria da qualidade do ensino e da aprendizagem para atender as necessidades da Secretaria Municipal de Educação de Umari/CE",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-18T09:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 397803,
    "qtdItens": 4,
    "modulos": [
@@ -1175,33 +1230,6 @@
    "score": 75,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/07520372000198/2026/24"
-  },
-  {
-   "id": "46523072000114-2026-91",
-   "orgao": "MUNICIPIO DE FRANCISCO MORATO",
-   "municipio": "Francisco Morato",
-   "uf": "SP",
-   "objeto": "Contratação de empresa especializada para o fornecimento de licença temporária de uso de solução integrada de Gestão Educacional Pedagógica sob o regime de Software as a Service (SaaS), desenvolvida em plataforma 100% web e operação integralmente on-line, contemplando algoritmos nativos de Inteligência Artificial Pedagógica voltados ao apoio à tomada de decisões individualizadas e banco de dados de conteúdos didáticos integrados, incluindo os serviços essenciais de implantação, parametrização técnica, suporte contínuo e capacitação dos profissionais da rede municipal de ensino, conforme especificações constantes do Termo de Referência.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-01T09:50",
-   "diasRestantes": 16,
-   "valorEstimado": 1924665.32,
-   "qtdItens": 5,
-   "modulos": [
-    "gestao educacional",
-    "licenca de uso",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 80,
-   "score": 75,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/46523072000114/2026/91"
   },
   {
    "id": "87849923000109-2026-495",
@@ -1261,7 +1289,7 @@
    "objeto": "contratação de empresa especializada para o licenciamento de uso de solução integrada de Sistema de Gestão Pública Municipal, em arquitetura 100% web e operada em ambiente de computação em nuvem, compreendendo a implantação, migração de dados, parametrização, treinamento, suporte técnico, manutenção e evolução tecnológica, conforme as condições, especificações e funcionalidades estabelecidas no Termo de Referência e em seus anexos",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-28T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 1097676.76,
    "qtdItens": 9,
    "modulos": [
@@ -1288,7 +1316,7 @@
    "objeto": "contratação de empresa especializada para o licenciamento de uso de solução integrada de Sistema de Gestão Pública Municipal, em arquitetura 100% web e operada em ambiente de computação em nuvem, compreendendo a implantação, migração de dados, parametrização, treinamento, suporte técnico, manutenção e evolução tecnológica, conforme as condições, especificações e funcionalidades estabelecidas no Termo de Referência e em seus anexos",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-28T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 1097676.76,
    "qtdItens": 9,
    "modulos": [
@@ -1340,7 +1368,7 @@
    "objeto": "Cessão de direito de uso de sistema informatizado em ambiente web, no modelo Software as a Service - SaaS, destinado à gestão eletrônica integrada de processos administrativos e legislativos e Sítio Eletrônico da Câmara Municipal de Cubatão, contemplando serviços de implantação, migração, treinamento, suporte e manutenção, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-25T09:59",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 2674204,
    "qtdItens": 5,
    "modulos": [
@@ -1357,6 +1385,34 @@
    "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/51642635000123/2026/36"
+  },
+  {
+   "id": "51642635000123-2026-37",
+   "orgao": "CAMARA MUNICIPAL DE CUBATAO",
+   "municipio": "Cubatão",
+   "uf": "SP",
+   "objeto": "Solução tecnológica integrada de Gestão de Recursos Humanos e Folha de Pagamento, operando em ambiente de nuvem sob a modalidade de Software como Serviço - SaaS, abrangendo o licenciamento de uso, a implantação, a migração de dados históricos, a parametrização, o treinamento de operadores, o suporte técnico e as manutenções corretiva, adaptativa e evolutiva.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-26T08:59",
+   "diasRestantes": 9,
+   "valorEstimado": 158252.56,
+   "qtdItens": 4,
+   "modulos": [
+    "folha de pagamento",
+    "licenciamento de uso",
+    "recursos humanos",
+    "implantacao",
+    "migracao",
+    "saas",
+    "software",
+    "treinamento",
+    "suporte tecnico",
+    "nuvem"
+   ],
+   "ader": 76,
+   "score": 73,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/51642635000123/2026/37"
   },
   {
    "id": "11222421000183-2026-15",
@@ -1381,26 +1437,6 @@
    "score": 72,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/11222421000183/2026/15"
-  },
-  {
-   "id": "58200015000183-2026-304",
-   "orgao": "MUNICIPIO DE SANTOS",
-   "municipio": "Santos",
-   "uf": "SP",
-   "objeto": "Contratação de empresa especializada para prestação de serviços de impressão gráfica de documentos de arrecadação municipal e notificações tributárias, (carnês de Imposto Predial e Territorial Urbano-IPTU e notificações de débitos), com dados variáveis, incluindo envelopamento e acabamento, pelo período de 12 (doze) meses, podendo ser prorrogado por igual período, respeitando a vigência máxima de 10 (dez) anos",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-19T10:00",
-   "diasRestantes": 3,
-   "valorEstimado": 378786.67,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 72,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/304"
   },
   {
    "id": "87849923000109-2026-532",
@@ -1457,6 +1493,26 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/87849923000109/2026/533"
   },
   {
+   "id": "58200015000183-2026-304",
+   "orgao": "MUNICIPIO DE SANTOS",
+   "municipio": "Santos",
+   "uf": "SP",
+   "objeto": "Contratação de empresa especializada para prestação de serviços de impressão gráfica de documentos de arrecadação municipal e notificações tributárias, (carnês de Imposto Predial e Territorial Urbano-IPTU e notificações de débitos), com dados variáveis, incluindo envelopamento e acabamento, pelo período de 12 (doze) meses, podendo ser prorrogado por igual período, respeitando a vigência máxima de 10 (dez) anos",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-19T10:00",
+   "diasRestantes": 2,
+   "valorEstimado": 378786.67,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "tributar"
+   ],
+   "ader": 50,
+   "score": 72,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/304"
+  },
+  {
    "id": "45152782000112-2026-11",
    "orgao": "MUNICIPIO DE ALTAIR",
    "municipio": "Altair",
@@ -1479,6 +1535,29 @@
    "score": 70,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/45152782000112/2026/11"
+  },
+  {
+   "id": "13797600000174-2026-19",
+   "orgao": "MUNICIPIO DE BROTAS DE MACAUBAS",
+   "municipio": "Brotas de Macaúbas",
+   "uf": "BA",
+   "objeto": "Contratação de empresa especializada em locação de software e cessão de direito de uso de Sistemas Integrados de Gestão Pública, operados exclusivamente em ambiente online, visando atender às necessidades do município de Brotas de Macaúbas – BA",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-01T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 142083.96,
+   "qtdItens": 6,
+   "modulos": [
+    "sistemas integrados",
+    "gestao publica",
+    "cessao de direito de uso",
+    "locacao de software",
+    "software"
+   ],
+   "ader": 70,
+   "score": 70,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/13797600000174/2026/19"
   },
   {
    "id": "10882069000140-2026-6",
@@ -1540,7 +1619,7 @@
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-01T08:00",
    "diasRestantes": 15,
-   "valorEstimado": 58368.85999999999,
+   "valorEstimado": 58368.86,
    "qtdItens": 5,
    "modulos": [
     "licenciamento de uso",
@@ -1589,7 +1668,7 @@
    "objeto": "[LICITANET] - Registro de Preços para futura e eventual CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE SOLUÇÃO INTEGRADA DE PLATAFORMA ON-LINE DE GESTÃO EDUCACIONAL, INCLUINDO IMPLANTAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO, ASSESSORIA E CONSULTORIA, destinada ao uso diário pelas Escolas Municipais e Centros de Educação Infantil, em atendimento às necessidades da Secretaria Municipal de Educação e Cultura. ",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-27T09:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 220000,
    "qtdItens": 4,
    "modulos": [
@@ -1606,6 +1685,30 @@
    "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/15023914000145/2026/25"
+  },
+  {
+   "id": "46523080000160-2026-124",
+   "orgao": "MUNICIPIO DE FRANCO DA ROCHA",
+   "municipio": "Franco da Rocha",
+   "uf": "SP",
+   "objeto": "Contratação de empresa especializada em fornecimento de solução informatizada integrada para atendimento à área de Tributos Municipais, abrangendo os módulos de gestão imobiliária, mobiliária, fiscalização tributária (auditoria), dívida ativa e execução fiscal, incluindo serviços de implantação, migração de dados, parametrização, treinamento operacional, suporte técnico, manutenção e evolução tecnológica, conforme especificações técnicas deste Termo de Referência, conforme especificações e demais exigências contidas nos anexos, que fazem parte integrante do edital.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-26T10:00",
+   "diasRestantes": 9,
+   "valorEstimado": 2261850,
+   "qtdItens": 10,
+   "modulos": [
+    "tributar",
+    "implantacao",
+    "migracao",
+    "software",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 56,
+   "score": 69,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/46523080000160/2026/124"
   },
   {
    "id": "76282656000106-2026-446",
@@ -1656,6 +1759,31 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83102491000109/2026/350"
   },
   {
+   "id": "00444435000125-2026-13",
+   "orgao": "INSTITTUTO DE PREV. DOS SERV. PUBLIC. DO MUNIC. DE CARIACICA",
+   "municipio": "Cariacica",
+   "uf": "ES",
+   "objeto": "Contratação de empresa para prestação de serviços técnicos continuados relativos à disponibilização de solução informatizada integrada de gestão previdenciária, na modalidade SaaS (Software as a Service), incluindo cessão de direito de uso, implantação, migração e conversão de dados, parametrização, manutenção (corretiva, adaptativa e evolutiva), atualização tecnológica, capacitação de usuários e suporte técnico, destinada ao atendimento das necessidades do regime próprio de previdência social (RPPS) do Instituto de Previdência dos Servidores de Cariacica (IPC).",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-25T09:45",
+   "diasRestantes": 8,
+   "valorEstimado": 271017.84,
+   "qtdItens": 2,
+   "modulos": [
+    "conversao de dados",
+    "cessao de direito de uso",
+    "implantacao",
+    "migracao",
+    "saas",
+    "software",
+    "suporte tecnico"
+   ],
+   "ader": 61,
+   "score": 67,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/00444435000125/2026/13"
+  },
+  {
    "id": "30339501000168-2026-9",
    "orgao": "RIO BONITO CAMARA MUNICIPAL",
    "municipio": "Rio Bonito",
@@ -1663,7 +1791,7 @@
    "objeto": "Contratação de empresa especializada para o fornecimento de solução integrada em Sistemas de Gestão Pública (SGP), incluindo os serviços de conversão e migração de dados, implantação, treinamento, concessão de licença temporária de uso de software, manutenção corretiva, manutenção legal, suporte técnico, hospedagem em nuvem (data center), bem como customizações e integrações, abrangendo as áreas de gestão financeira e administrativa, conforme disposto na Lei Federal nº 14.133/2021.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-28T10:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 513450,
    "qtdItens": 10,
    "modulos": [
@@ -1682,57 +1810,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/30339501000168/2026/9"
   },
   {
-   "id": "00444435000125-2026-13",
-   "orgao": "INSTITTUTO DE PREV. DOS SERV. PUBLIC. DO MUNIC. DE CARIACICA",
-   "municipio": "Cariacica",
-   "uf": "ES",
-   "objeto": "Contratação de empresa para prestação de serviços técnicos continuados relativos à disponibilização de solução informatizada integrada de gestão previdenciária, na modalidade SaaS (Software as a Service), incluindo cessão de direito de uso, implantação, migração e conversão de dados, parametrização, manutenção (corretiva, adaptativa e evolutiva), atualização tecnológica, capacitação de usuários e suporte técnico, destinada ao atendimento das necessidades do regime próprio de previdência social (RPPS) do Instituto de Previdência dos Servidores de Cariacica (IPC).",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-25T09:45",
-   "diasRestantes": 9,
-   "valorEstimado": 271017.84,
-   "qtdItens": 2,
-   "modulos": [
-    "conversao de dados",
-    "cessao de direito de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 61,
-   "score": 67,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/00444435000125/2026/13"
-  },
-  {
-   "id": "83009860000113-2026-231",
-   "orgao": "MUNICIPIO DE XANXERE",
-   "municipio": "Xanxerê",
-   "uf": "SC",
-   "objeto": "Contratação de empresa especializada para fornecimento de licença ou cessão de uso de software para atender a gestão municipal de zoonoses, em ambiente web, compreendendo implantação, parametrização, customização, migração de dados, treinamento de usuários, hospedagem, manutenção, atualização tecnológica e suporte técnico, com a finalidade de cadastramento, gestão de dados, comunicação com os munícipes e controle populacional de cães e gatos, por meio de identificação por microchip",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-28T09:00",
-   "diasRestantes": 12,
-   "valorEstimado": 13536.710000000001,
-   "qtdItens": 2,
-   "modulos": [
-    "gestao municipal",
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 72,
-   "score": 67,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/83009860000113/2026/231"
-  },
-  {
    "id": "00444435000125-2026-15",
    "orgao": "INSTITTUTO DE PREV. DOS SERV. PUBLIC. DO MUNIC. DE CARIACICA",
    "municipio": "Cariacica",
@@ -1740,7 +1817,7 @@
    "objeto": "A presente licitação visa a escolha da proposta mais vantajosa para a contratação de empresa para prestação de serviços técnicos continuados relativos à disponibilização de solução informatizada integrada de gestão previdenciária, na modalidade SaaS (Software as a Service), incluindo cessão de direito de uso, implantação, migração e conversão de dados, parametrização, manutenção (corretiva, adaptativa e evolutiva), atualização tecnológica, capacitação de usuários e suporte técnico, destinada ao atendimento das necessidades do regime próprio de previdência social (RPPS) do Instituto de Previdência dos Servidores de Cariacica (IPC).",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-25T10:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 271017.84,
    "qtdItens": 1,
    "modulos": [
@@ -1758,6 +1835,32 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/00444435000125/2026/15"
   },
   {
+   "id": "83009860000113-2026-231",
+   "orgao": "MUNICIPIO DE XANXERE",
+   "municipio": "Xanxerê",
+   "uf": "SC",
+   "objeto": "Contratação de empresa especializada para fornecimento de licença ou cessão de uso de software para atender a gestão municipal de zoonoses, em ambiente web, compreendendo implantação, parametrização, customização, migração de dados, treinamento de usuários, hospedagem, manutenção, atualização tecnológica e suporte técnico, com a finalidade de cadastramento, gestão de dados, comunicação com os munícipes e controle populacional de cães e gatos, por meio de identificação por microchip",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-28T09:00",
+   "diasRestantes": 11,
+   "valorEstimado": 13536.71,
+   "qtdItens": 2,
+   "modulos": [
+    "gestao municipal",
+    "licenca de uso",
+    "implantacao",
+    "migracao",
+    "saas",
+    "software",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 72,
+   "score": 67,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/83009860000113/2026/231"
+  },
+  {
    "id": "11034741000100-2026-13",
    "orgao": "MUNICIPIO DE CALCADO",
    "municipio": "Calçado",
@@ -1765,7 +1868,7 @@
    "objeto": "Contratação de instituição financeira, em caráter de exclusividade no processamento dos créditos da folha de pagamento dos servidores ativos (estatutários, contratados, comissionados e conveniados), inativos e pensionistas do Município de Calçado/PE, e sem caráter de exclusividade a concessão de empréstimos consignados e arrecadação dos tributos municipais, pelo período de 05 (cinco) anos, conforme especificações constantes no termo de referência.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-18T09:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 300840,
    "qtdItens": 1,
    "modulos": [
@@ -1808,32 +1911,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/14222574000119/2026/106"
   },
   {
-   "id": "44555027000116-2026-82",
-   "orgao": "MUNICIPIO DE PIRAJUI",
-   "municipio": "Pirajuí",
-   "uf": "SP",
-   "objeto": "Contratação de empresa especializada para disponibilização, implantação e manutenção de solução integrada de gestão e controle eletrônico de frequência, em ambiente web e modelo SaaS, hospedada em nuvem, para até 650 (seiscentos e cinquenta) servidores, integrada ao sistema de folha de pagamento FIORILLI, incluindo a locação de 25 (vinte e cinco) leitores faciais, 2 (duas) licenças de software desktop com leitores biométricos, aplicativo móvel, migração de dados, treinamento e suporte técnico, pelo período de 12 (doze) meses, conforme condições e exigências estabelecidas neste instrumento.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-25T23:59",
-   "diasRestantes": 9,
-   "valorEstimado": 193073.22,
-   "qtdItens": 1,
-   "modulos": [
-    "folha de pagamento",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 59,
-   "score": 66,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/44555027000116/2026/82"
-  },
-  {
    "id": "85361863000147-2026-115",
    "orgao": "MUNICIPIO DE PALMITOS",
    "municipio": "Palmitos",
@@ -1860,50 +1937,55 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/85361863000147/2026/115"
   },
   {
-   "id": "13797600000174-2026-19",
-   "orgao": "MUNICIPIO DE BROTAS DE MACAUBAS",
-   "municipio": "Brotas de Macaúbas",
-   "uf": "BA",
-   "objeto": "Contratação de empresa especializada em locação de software e cessão de direito de uso de Sistemas Integrados de Gestão Pública, operados exclusivamente em ambiente online, visando atender às necessidades do município de Brotas de Macaúbas – BA",
+   "id": "44555027000116-2026-82",
+   "orgao": "MUNICIPIO DE PIRAJUI",
+   "municipio": "Pirajuí",
+   "uf": "SP",
+   "objeto": "Contratação de empresa especializada para disponibilização, implantação e manutenção de solução integrada de gestão e controle eletrônico de frequência, em ambiente web e modelo SaaS, hospedada em nuvem, para até 650 (seiscentos e cinquenta) servidores, integrada ao sistema de folha de pagamento FIORILLI, incluindo a locação de 25 (vinte e cinco) leitores faciais, 2 (duas) licenças de software desktop com leitores biométricos, aplicativo móvel, migração de dados, treinamento e suporte técnico, pelo período de 12 (doze) meses, conforme condições e exigências estabelecidas neste instrumento.",
    "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-01T09:00",
-   "diasRestantes": 16,
-   "valorEstimado": 142083.96,
-   "qtdItens": 6,
-   "modulos": [
-    "sistemas integrados",
-    "gestao publica",
-    "cessao de direito de uso",
-    "locacao de software",
-    "software"
-   ],
-   "ader": 70,
-   "score": 65,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/13797600000174/2026/19"
-  },
-  {
-   "id": "06351514000178-2026-46",
-   "orgao": "MUNICIPIO DE SAO JOSE DE RIBAMAR",
-   "municipio": "São José de Ribamar",
-   "uf": "MA",
-   "objeto": "Contratação de empresa especializada no fornecimento de licenças de softwares para sistemas integrados em plataforma web, com hospedagem em datacenter, incluindo  módulos de Contabilidade, Protocolo, Licitação, Almoxarifado e Controle Interno.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-25T09:59",
+   "fimVigencia": "2026-08-25T23:59",
    "diasRestantes": 9,
-   "valorEstimado": 478800,
+   "valorEstimado": 193073.22,
    "qtdItens": 1,
    "modulos": [
-    "sistemas integrados",
-    "contabil",
-    "protocolo",
-    "almoxarifado",
-    "software"
+    "folha de pagamento",
+    "implantacao",
+    "migracao",
+    "saas",
+    "software",
+    "treinamento",
+    "suporte tecnico",
+    "nuvem"
    ],
-   "ader": 52,
-   "score": 65,
+   "ader": 59,
+   "score": 66,
    "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/06351514000178/2026/46"
+   "pncpUrl": "https://pncp.gov.br/app/editais/44555027000116/2026/82"
+  },
+  {
+   "id": "07725138000105-2026-116",
+   "orgao": "MUNICIPIO DE SANTA QUITERIA",
+   "municipio": "Santa Quitéria",
+   "uf": "CE",
+   "objeto": "Contratação de empresa especializada para licenciamento de uso, implantação, parametrização, migração de dados, treinamento, suporte técnico, manutenção corretiva, adaptativa e evolutiva, hospedagem em nuvem e sustentação de solução integrada de Registro, Despacho e Acompanhamento de Ocorrências de Segurança Pública, com aplicativo web para a Central de Operações e aplicativo móvel (PWA) para os agentes em viatura, destinada ao atendimento da Guarda Municipal e Guarda de Trânsito.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-21T08:00",
+   "diasRestantes": 4,
+   "valorEstimado": 95052.29,
+   "qtdItens": 2,
+   "modulos": [
+    "licenciamento de uso",
+    "implantacao",
+    "migracao",
+    "software",
+    "treinamento",
+    "suporte tecnico",
+    "nuvem"
+   ],
+   "ader": 51,
+   "score": 66,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/07725138000105/2026/116"
   },
   {
    "id": "83102491000109-2026-243",
@@ -1930,6 +2012,29 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83102491000109/2026/243"
   },
   {
+   "id": "06351514000178-2026-46",
+   "orgao": "MUNICIPIO DE SAO JOSE DE RIBAMAR",
+   "municipio": "São José de Ribamar",
+   "uf": "MA",
+   "objeto": "Contratação de empresa especializada no fornecimento de licenças de softwares para sistemas integrados em plataforma web, com hospedagem em datacenter, incluindo  módulos de Contabilidade, Protocolo, Licitação, Almoxarifado e Controle Interno.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-25T09:59",
+   "diasRestantes": 8,
+   "valorEstimado": 478800,
+   "qtdItens": 1,
+   "modulos": [
+    "sistemas integrados",
+    "contabil",
+    "protocolo",
+    "almoxarifado",
+    "software"
+   ],
+   "ader": 52,
+   "score": 65,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/06351514000178/2026/46"
+  },
+  {
    "id": "10141489000175-2026-17",
    "orgao": "MUNICIPIO DE JUREMA",
    "municipio": "Jurema",
@@ -1937,7 +2042,7 @@
    "objeto": "Contratação de empresa especializada para fornecimento de solução integrada de tecnologia da informação para gestão pública municipal, em cessão de direito de uso, incluindo licenciamento, implantação, parametrização, migração de dados, treinamento, suporte, manutenção, hospedagem, atualizações legais e tecnológicas e demais serviços necessários à plena operacionalização, atendendo à Prefeitura Municipal de Jurema e aos Fundos Municipais.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-28T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 397066.68,
    "qtdItens": 1,
    "modulos": [
@@ -2000,27 +2105,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/06229538000159/2026/11"
   },
   {
-   "id": "91566893000192-2026-402",
-   "orgao": "MUNICIPIO DE FAGUNDES VARELA",
-   "municipio": "Fagundes Varela",
-   "uf": "RS",
-   "objeto": "Contratacao de empresa especializada para fornecimento de licenca de uso de software especifico para gerenciamento do IPM  Indice de Participacao do Municipio  na arrecadacao do ICMS e do ISS do Municipio.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-20T08:30",
-   "diasRestantes": 3,
-   "valorEstimado": 12000,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "licenca de uso",
-    "software"
-   ],
-   "ader": 46,
-   "score": 63,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/91566893000192/2026/402"
-  },
-  {
    "id": "30248954000189-2026-4",
    "orgao": "SECRETARIA MUNICIPAL DE EDUCACAO",
    "municipio": "Tamandaré",
@@ -2046,6 +2130,27 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/30248954000189/2026/4"
   },
   {
+   "id": "91566893000192-2026-402",
+   "orgao": "MUNICIPIO DE FAGUNDES VARELA",
+   "municipio": "Fagundes Varela",
+   "uf": "RS",
+   "objeto": "Contratacao de empresa especializada para fornecimento de licenca de uso de software especifico para gerenciamento do IPM  Indice de Participacao do Municipio  na arrecadacao do ICMS e do ISS do Municipio.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-20T08:30",
+   "diasRestantes": 3,
+   "valorEstimado": 12000,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "licenca de uso",
+    "software"
+   ],
+   "ader": 46,
+   "score": 63,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/91566893000192/2026/402"
+  },
+  {
    "id": "89250708000104-2026-23",
    "orgao": "SANTA MARIA CAMARA DE VEREADORES",
    "municipio": "Santa Maria",
@@ -2054,7 +2159,7 @@
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-25T08:30",
    "diasRestantes": 8,
-   "valorEstimado": 266929.48000000004,
+   "valorEstimado": 266929.48,
    "qtdItens": 4,
    "modulos": [
     "sistema integrado",
@@ -2147,6 +2252,47 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/04508933000145/2026/2"
   },
   {
+   "id": "24996969000122-2026-93",
+   "orgao": "MUNICIPIO DE SETE LAGOAS",
+   "municipio": "Sete Lagoas",
+   "uf": "MG",
+   "objeto": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ATUALIZAÇÃO, MIGRAÇÃO, CUSTOMIZAÇÃO, CAPACITAÇÃO, MANUTENÇÃO E SUPORTE MENSAL NO SOFTWARE DE GESTÃO PÚBLICO E-CIDADE PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E TECNOLOGIA DA INFORMAÇÃO (SMATI),",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-02T08:30",
+   "diasRestantes": 16,
+   "valorEstimado": 3551666.67,
+   "qtdItens": 1,
+   "modulos": [
+    "e-cidade",
+    "migracao",
+    "software"
+   ],
+   "ader": 40,
+   "score": 58,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/24996969000122/2026/93"
+  },
+  {
+   "id": "09145368000112-2026-18",
+   "orgao": "MUNICIPIO DE AGUA BRANCA",
+   "municipio": "Água Branca",
+   "uf": "PB",
+   "objeto": "[Portal de Compras Públicas] - SELEÇÃO DE INSTITUIÇÃO FINANCEIRA DE CLASSIFICAÇÃO S1 E S2 PARA OCUPAR E EXPLORAR, A TÍTULO PRECÁRIO, ATRAVÉS DE CONCESSÃO ONEROSA DE USO, PELO PERÍODO DE 05 (CINCO) ANOS, A EXCLUSIVIDADE DA GESTÃO DA FOLHA DE PAGAMENTO DOS SERVIDORES E A CONCESSÃO DE EMPRÉSTIMOS CONSIGNADOS SEM EXCLUSIVIDADE POR TODO PERÍODO DO CONTRATO CONFORME INDICADO NO TERMO DE REFERÊNCIA E A CENTRALIZAÇÃO DA ARRECADAÇÃO DAS RECEITAS MUNICIPAIS, QUE REGULAR-SE-Á POR ESTE EDITAL E SEUS ANEXOS",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-26T08:30",
+   "diasRestantes": 9,
+   "valorEstimado": 100000,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "folha de pagamento"
+   ],
+   "ader": 40,
+   "score": 56,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/09145368000112/2026/18"
+  },
+  {
    "id": "11420915000172-2026-19",
    "orgao": "FUNDACAO MUNICIPAL DE SAUDE DE ALVORADA DO SUL",
    "municipio": "Alvorada do Sul",
@@ -2169,26 +2315,6 @@
    "score": 56,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/11420915000172/2026/19"
-  },
-  {
-   "id": "09145368000112-2026-18",
-   "orgao": "MUNICIPIO DE AGUA BRANCA",
-   "municipio": "Água Branca",
-   "uf": "PB",
-   "objeto": "[Portal de Compras Públicas] - SELEÇÃO DE INSTITUIÇÃO FINANCEIRA DE CLASSIFICAÇÃO S1 E S2 PARA OCUPAR E EXPLORAR, A TÍTULO PRECÁRIO, ATRAVÉS DE CONCESSÃO ONEROSA DE USO, PELO PERÍODO DE 05 (CINCO) ANOS, A EXCLUSIVIDADE DA GESTÃO DA FOLHA DE PAGAMENTO DOS SERVIDORES E A CONCESSÃO DE EMPRÉSTIMOS CONSIGNADOS SEM EXCLUSIVIDADE POR TODO PERÍODO DO CONTRATO CONFORME INDICADO NO TERMO DE REFERÊNCIA E A CENTRALIZAÇÃO DA ARRECADAÇÃO DAS RECEITAS MUNICIPAIS, QUE REGULAR-SE-Á POR ESTE EDITAL E SEUS ANEXOS",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-26T08:30",
-   "diasRestantes": 9,
-   "valorEstimado": 100000,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 40,
-   "score": 56,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/09145368000112/2026/18"
   },
   {
    "id": "04015843000112-2026-14",
@@ -2226,8 +2352,8 @@
    "objeto": "[Portal de Compras Públicas] - Contratacao de empresa especializada para fornecimento, mediante cessao de direito de uso, de SISTEMA INFORMATIZADO DE GESTAO PUBLICA, incluindo servicos de migracao de dados, implantacao, capacitacao de usuarios, suporte tecnico e manutencao conforme condicoes e especificacoes constantes no Termo de Referencia.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-02T09:59",
-   "diasRestantes": 17,
-   "valorEstimado": 21834.420000000002,
+   "diasRestantes": 16,
+   "valorEstimado": 21834.42,
    "qtdItens": 10,
    "modulos": [
     "gestao publica",
@@ -2249,7 +2375,7 @@
    "objeto": "Contratação de empresa especializada para fornecimento Sistemas de Gestão Pública, softwares em ambiente de plataforma web nativo que operem de forma integrada, com número de usuários ilimitados compreendendo: implantação, conversão/migração dos dados, treinamento de usuários, manutenção, atualização, suporte técnico e licenciamento de uso (mensal) e provimento de Datacenter, compatível com as necessidades da Administração Pública do Município de Nova Aurora - PR, abrangendo o Poder Executi",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-08-18T10:15",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 0,
    "modulos": [
@@ -2400,7 +2526,7 @@
    "objeto": "Contratação de serviço de administração, gerenciamento e controle da margem consignável em folha de pagamento, por meio de sistema informatizado com interface web, incluindo a cessão de uso do software e a execução de etapas necessárias ao funcionamento efetivo do sistema, como desenvolvimento, implantação, migração de dados, hospedagem, treinamento de usuários, operação, suporte técnico e manutenção do funcionamento",
    "modalidade": "Pregão - Presencial",
    "fimVigencia": "2026-08-19T10:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 1.25,
    "qtdItens": 1,
    "modulos": [
@@ -2417,26 +2543,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01616171000102/2026/52"
   },
   {
-   "id": "10120962000138-2026-8",
-   "orgao": "MUNICIPIO DE BARRA DE GUABIRABA",
-   "municipio": "Barra de Guabiraba",
-   "uf": "PE",
-   "objeto": "SELEÇÃO DE INSTITUIÇÃO FINANCEIRA DE CLASSIFICAÇÃO S1 E S2 PARA OCUPAR E EXPLORAR, A TÍTULO PRECÁRIO, ATRAVÉS DE CONCESSÃO ONEROSA DE USO, PELO PERÍODO DE 05 (CINCO) ANOS, A EXCLUSIVIDADE DA GESTÃO DA FOLHA DE PAGAMENTO DOS SERVIDORES, A CONCESSÃO DE EMPRÉSTIMOS CONSIGNADOS SEM EXCLUSIVIDADE POR TODO PERÍODO DO CONTRATO CONFORME INDICADO NO TERMO DE REFERÊNCIA E SEM EXCLUSIVIDADE A ARRECADAÇÃO DAS RECEITAS MUNICIPAIS, QUE REGULAR-SE-Á POR ESTE EDITAL E SEUS ANEXOS",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-18T10:00",
-   "diasRestantes": 2,
-   "valorEstimado": 0,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 40,
-   "score": 43,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/10120962000138/2026/8"
-  },
-  {
    "id": "67996363000108-2026-12",
    "orgao": "MUNICIPIO DE ENGENHEIRO COELHO",
    "municipio": "Engenheiro Coelho",
@@ -2444,7 +2550,7 @@
    "objeto": "Contratacao de empresa especializada para prestacao de servicos consistentes no fornecimento da licenca de uso de softwares em ambiente de computacao em nuvem  no modelo SaaS  Software as a Service   por prazo determinado  com atualizacao mensal que garanta as alteracoes legais  corretivas e evolutivas  incluindo suporte tecnico  conversao e migracao de dados  implantacao da solucao e treinamento dos usuarios. A contratacao abrange a totalidade dos modulos e servicos necessarios para a gestao integrada da Prefeitura.",
    "modalidade": "Pregão - Presencial",
    "fimVigencia": "2026-08-31T09:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -2461,6 +2567,26 @@
    "score": 43,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/67996363000108/2026/12"
+  },
+  {
+   "id": "10120962000138-2026-8",
+   "orgao": "MUNICIPIO DE BARRA DE GUABIRABA",
+   "municipio": "Barra de Guabiraba",
+   "uf": "PE",
+   "objeto": "SELEÇÃO DE INSTITUIÇÃO FINANCEIRA DE CLASSIFICAÇÃO S1 E S2 PARA OCUPAR E EXPLORAR, A TÍTULO PRECÁRIO, ATRAVÉS DE CONCESSÃO ONEROSA DE USO, PELO PERÍODO DE 05 (CINCO) ANOS, A EXCLUSIVIDADE DA GESTÃO DA FOLHA DE PAGAMENTO DOS SERVIDORES, A CONCESSÃO DE EMPRÉSTIMOS CONSIGNADOS SEM EXCLUSIVIDADE POR TODO PERÍODO DO CONTRATO CONFORME INDICADO NO TERMO DE REFERÊNCIA E SEM EXCLUSIVIDADE A ARRECADAÇÃO DAS RECEITAS MUNICIPAIS, QUE REGULAR-SE-Á POR ESTE EDITAL E SEUS ANEXOS",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-08-18T10:00",
+   "diasRestantes": 1,
+   "valorEstimado": 0,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "folha de pagamento"
+   ],
+   "ader": 40,
+   "score": 43,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/10120962000138/2026/8"
   },
   {
    "id": "83102558000105-2025-58",
@@ -2526,6 +2652,26 @@
    "score": 38,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13593766000179/2026/2"
+  },
+  {
+   "id": "87613162000183-2026-89",
+   "orgao": "MUNICIPIO DE CAMPO NOVO",
+   "municipio": "Campo Novo",
+   "uf": "RS",
+   "objeto": "Constitui objeto da presente licitação Aquisição de bens destinados à premiação da Campanha 'Com Sua Nota Fiscal Todos Ganham', realizada em parceria com a Associação Comercial e Industrial – ACI, visando ao fortalecimento do comércio local, incentivo à emissão de notas fiscais e incremento da arrecadação tributária municipal. cujas descrições e condições de entrega estão detalhadas no Termo de Referência (Anexo I).",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-03T08:30",
+   "diasRestantes": 17,
+   "valorEstimado": 20000,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "tributar"
+   ],
+   "ader": 10,
+   "score": 35,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/87613162000183/2026/89"
   },
   {
    "id": "83074294000123-2026-126",
@@ -2650,7 +2796,7 @@
    "objeto": "CREDENCIAMENTO DE EMPRESA(S) OU INSTITUIÇÃO(ÕES) PARA IMPLANTAÇÃO E GESTÃO DE SOLUÇÃO(ÕES) TECNOLÓGICA(S) DE INTEGRAÇÃO DE SISTEMAS TRIBUTÁRIOS/ARRECADAÇÃO DO MUNICÍPIO, POSSIBILITANDO O PAGAMENTO DE GUIAS DE ARRECADAÇÃO MUNICIPAL POR MEIO DO USO DE CARTÕES DE CRÉDITO, DE FORMA À VISTA OU PARCELADA, VISANDO OFERECER AOS CONTRIBUINTES MAIS UMA ALTERNATIVA DE PAGAMENTO, SEM ÔNUS PARA O MUNICÍPIO",
    "modalidade": "Credenciamento",
    "fimVigencia": "2030-04-01T11:20",
-   "diasRestantes": 1324,
+   "diasRestantes": 1323,
    "valorEstimado": 0.01,
    "qtdItens": 1,
    "modulos": [
@@ -2675,7 +2821,7 @@
    "modalidade": "Credenciamento",
    "fimVigencia": "2027-02-04T15:55",
    "diasRestantes": 172,
-   "valorEstimado": 0.0001,
+   "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
     "arrecadac",
@@ -2684,9 +2830,7 @@
    ],
    "ader": 58,
    "score": 32,
-   "suspeito": [
-    "valor irrisorio"
-   ],
+   "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/95583571000102/2026/9"
   },
   {
@@ -2742,7 +2886,7 @@
    "objeto": "Credenciamento de pessoa jurídica que atenda às demandas da arrecadação tributária estadual no sentido de tornar eficiente e seguro o procedimento de recolhimento da exação tributária",
    "modalidade": "Credenciamento",
    "fimVigencia": "2027-06-16T09:00",
-   "diasRestantes": 304,
+   "diasRestantes": 303,
    "valorEstimado": 1.24,
    "qtdItens": 1,
    "modulos": [
