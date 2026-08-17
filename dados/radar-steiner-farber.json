@@ -1,0 +1,359 @@
+{
+ "gerado": "2026-08-17T18:09:43.842Z",
+ "referencia": "2026-08-17",
+ "execucao": {
+  "empresasConsultadas": 10,
+  "buscasFalhadas": [],
+  "contratosConfirmados": 9,
+  "qsaObtidos": 5
+ },
+ "resumo": {
+  "contratos": 9,
+  "janelasAbertas": 6,
+  "janelasProximas": 1,
+  "vigentes": 2,
+  "valorEmDisputa": 3429065.28,
+  "valorTotal": 5096314.32,
+  "ufs": 4
+ },
+ "contratos": [
+  {
+   "id": "08761124000100-2024-299",
+   "empresa": "Kolke do Brasil (matriz)",
+   "cnpjFornecedor": "06028932000129",
+   "orgao": "ESTADO DA PARAIBA",
+   "uf": "PB",
+   "municipio": "Campina Grande",
+   "numero": "16148",
+   "processo": "Dispensa de Licitação 16048/2024",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM LOCAÇÃO DE EQUIPAMENTOS DE T.I. (DESKTOP), PARA ATENDER TODA REDE DE ATENÇÃO BÁSICA, DA SECRETARIA DE SAÚDE DE CAMPINA GRANDE PB",
+   "valorBase": 1823040,
+   "valorTotal": 1823040,
+   "inicio": "2024-04-09",
+   "fimBase": "2025-04-09",
+   "fimReal": "2025-04-09",
+   "diasRestantes": -495,
+   "aditivos": [],
+   "status": "janela-aberta",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/08761124000100/2024/299"
+  },
+  {
+   "id": "42498600000171-2025-5267",
+   "empresa": "Alutech (matriz)",
+   "cnpjFornecedor": "41742532000181",
+   "orgao": "ESTADO DO RIO DE JANEIRO",
+   "uf": "RJ",
+   "municipio": "Rio de Janeiro",
+   "numero": "249",
+   "processo": "SEI-260006/001743/2025",
+   "objeto": "Contratação contínua de empresa especializada para fornecer, por meio de locação (outsourcing): computadores, incluindo softwares necessários para o funcionamento; serviços de manutenção preventiva e corretiva; e suporte técnico especializado, permitindo a gestão eficiente dos recursos tecnológicos e o controle efetivo dos custos operacionais para a Policlínica Piquet Carneiro.",
+   "valorBase": 1549952.64,
+   "valorTotal": 1549952.64,
+   "inicio": "2025-10-27",
+   "fimBase": "2027-10-27",
+   "fimReal": "2027-10-27",
+   "diasRestantes": 436,
+   "aditivos": [],
+   "status": "vigente",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/42498600000171/2025/5267"
+  },
+  {
+   "id": "76105576000185-2026-23",
+   "empresa": "Kolke do Brasil (matriz)",
+   "cnpjFornecedor": "06028932000129",
+   "orgao": "MUNICIPIO DE RIO BRANCO DO SUL",
+   "uf": "PR",
+   "municipio": "Rio Branco do Sul",
+   "numero": "034",
+   "processo": "2/2026",
+   "objeto": "Contratação de empresa especializada para locação de equipamentos de TIC, incluindo suporte, manutenção e garantia.",
+   "valorBase": 1328152.8,
+   "valorTotal": 1328152.8,
+   "inicio": "2026-03-10",
+   "fimBase": "2027-03-09",
+   "fimReal": "2027-03-09",
+   "diasRestantes": 204,
+   "aditivos": [],
+   "status": "janela-proxima",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2026/23"
+  },
+  {
+   "id": "76105576000185-2023-20",
+   "empresa": "Kolke do Brasil (matriz)",
+   "cnpjFornecedor": "06028932000129",
+   "orgao": "MUNICIPIO DE RIO BRANCO DO SUL",
+   "uf": "PR",
+   "municipio": "Rio Branco do Sul",
+   "numero": "259",
+   "processo": "193/2023",
+   "objeto": "Contratação de Sistema de Gestão em Saúde (software), por 03 meses, pelo período de implantação do novo sistema, a ser contratado através do Pregão Eletrônico nº 69/2023.",
+   "valorBase": 120198.48,
+   "valorTotal": 120198.48,
+   "inicio": "2023-12-03",
+   "fimBase": "2024-03-03",
+   "fimReal": "2024-03-03",
+   "diasRestantes": -897,
+   "aditivos": [],
+   "status": "janela-aberta",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2023/20"
+  },
+  {
+   "id": "58982364000102-2025-12",
+   "empresa": "Alutech (matriz)",
+   "cnpjFornecedor": "41742532000181",
+   "orgao": "CERQUILHO CAMARA MUNICIPAL",
+   "uf": "SP",
+   "municipio": "Cerquilho",
+   "numero": "8",
+   "processo": "17/2025",
+   "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE 15 COMPUTADORES DO TIPO DESKTOPS E 2 NOTEBOOKS PARA ATENDER ÀS NECESSIDADES OPERACIONAIS E ADMINISTRATIVAS DA CÂMARA MUNICIPAL DE CERQUILHO.",
+   "valorBase": 52474.44,
+   "valorTotal": 117296.4,
+   "inicio": "2025-08-01",
+   "fimBase": "2026-08-01",
+   "fimReal": "2027-08-01",
+   "diasRestantes": 349,
+   "aditivos": [
+    {
+     "tipo": "Termo Aditivo",
+     "numero": "1",
+     "inicio": "2026-08-02",
+     "fim": "2027-08-01",
+     "valorAcrescido": 64821.96,
+     "prorrogou": true
+    }
+   ],
+   "status": "vigente",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/58982364000102/2025/12"
+  },
+  {
+   "id": "58982364000102-2024-11",
+   "empresa": "Alutech (matriz)",
+   "cnpjFornecedor": "41742532000181",
+   "orgao": "CERQUILHO CAMARA MUNICIPAL",
+   "uf": "SP",
+   "municipio": "Cerquilho",
+   "numero": "10",
+   "processo": "13/2024",
+   "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE 15 (QUINZE) COMPUTADORES DO TIPO DESKTOPS E 02 (DOIS) NOTEBOOKS PARA ATENDER ÀS NECESSIDADES OPERACIONAIS E ADMINISTRATIVAS DA CÂMARA MUNICIPAL DE CERQUILHO.",
+   "valorBase": 45900,
+   "valorTotal": 45900,
+   "inicio": "2024-07-01",
+   "fimBase": "2025-07-01",
+   "fimReal": "2025-07-01",
+   "diasRestantes": -412,
+   "aditivos": [],
+   "status": "janela-aberta",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/58982364000102/2024/11"
+  },
+  {
+   "id": "08778268000160-2025-531",
+   "empresa": "Alutech (matriz)",
+   "cnpjFornecedor": "41742532000181",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE - SES",
+   "uf": "PB",
+   "municipio": "Solânea",
+   "numero": "00049",
+   "processo": "00049/2025",
+   "objeto": "CONTRATAÇÃO DE SERVIÇO DE MANUTENÇÃO CORRETIVA E PREVENTIVA EM COMPUTADORES, COM SUBSTITUIÇÃO DE PEÇAS",
+   "valorBase": 38880,
+   "valorTotal": 38880,
+   "inicio": "2025-05-08",
+   "fimBase": "2026-05-08",
+   "fimReal": "2026-05-08",
+   "diasRestantes": -101,
+   "aditivos": [
+    {
+     "tipo": "Termo de Apostilamento",
+     "numero": "002",
+     "inicio": "2026-02-11",
+     "fim": "2026-05-08",
+     "valorAcrescido": 0,
+     "prorrogou": false
+    }
+   ],
+   "status": "janela-aberta",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/08778268000160/2025/531"
+  },
+  {
+   "id": "42498600000171-2024-4160",
+   "empresa": "Kolke do Brasil (matriz)",
+   "cnpjFornecedor": "06028932000129",
+   "orgao": "ESTADO DO RIO DE JANEIRO",
+   "uf": "RJ",
+   "municipio": "Rio de Janeiro",
+   "numero": "12025",
+   "processo": "SEI-220001/000207/2024",
+   "objeto": "Contratação de empresa especializada, para a prestação de serviços de OUTSOURCING DE IMPRESSÃO - LOCAÇÃO DE EQUIPAMENTOS MULTIFUNCIONAIS a fim de suprir as necessidades atender a estrutura organizacional da Secretaria de Estado de Desenvolvimento Econômico, Indústria, Comércio e Serviços – SEDEICS.",
+   "valorBase": 37194,
+   "valorTotal": 37194,
+   "inicio": "2025-01-13",
+   "fimBase": "2026-01-13",
+   "fimReal": "2026-01-13",
+   "diasRestantes": -216,
+   "aditivos": [
+    {
+     "tipo": "Termo Aditivo",
+     "numero": "Termo 1",
+     "inicio": "2025-01-13",
+     "fim": "2026-01-13",
+     "valorAcrescido": 0,
+     "prorrogou": false
+    },
+    {
+     "tipo": "Termo Aditivo",
+     "numero": "Termo 2",
+     "inicio": "2025-01-13",
+     "fim": "2026-01-13",
+     "valorAcrescido": 0,
+     "prorrogou": false
+    }
+   ],
+   "status": "janela-aberta",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/42498600000171/2024/4160"
+  },
+  {
+   "id": "29116902000170-2024-25",
+   "empresa": "Kolke do Brasil (matriz)",
+   "cnpjFornecedor": "06028932000129",
+   "orgao": "MUNICIPIO DE SAO JOAO DA BARRA",
+   "uf": "RJ",
+   "municipio": "São João da Barra",
+   "numero": "1555/2024",
+   "processo": "001555/24",
+   "objeto": "SERVIÇOS DE SOLUÇÕES DE SISTEMA ORQUESTRADO DE GERENCIAMENTO DE AMEAÇAS E CONTROLE ‘’FIREWALL’’",
+   "valorBase": 35700,
+   "valorTotal": 35700,
+   "inicio": "2024-08-14",
+   "fimBase": "2025-03-13",
+   "fimReal": "2025-03-13",
+   "diasRestantes": -522,
+   "aditivos": [],
+   "status": "janela-aberta",
+   "pncpUrl": "https://pncp.gov.br/app/contratos/29116902000170/2024/25"
+  }
+ ],
+ "societario": [
+  {
+   "cnpj": "41742532000181",
+   "nome": "Alutech (matriz)",
+   "razaoSocial": "ALUTECH TECNOLOGIA E LOCACOES S.A",
+   "situacao": "ATIVA",
+   "dataSituacao": "2021-04-28",
+   "capitalSocial": 3000000,
+   "municipio": "BELO HORIZONTE",
+   "uf": "MG",
+   "cnaePrincipal": "Comércio varejista especializado de equipamentos e suprimentos de informática",
+   "socios": [
+    {
+     "nome": "ELVIS FRANCISCO LEAO",
+     "qualificacao": "Diretor",
+     "entrada": "2021-04-28"
+    },
+    {
+     "nome": "MIGUEL STEINER FARBER",
+     "qualificacao": "Presidente",
+     "entrada": "2023-08-18"
+    }
+   ]
+  },
+  {
+   "cnpj": "06028932000129",
+   "nome": "Kolke do Brasil (matriz)",
+   "razaoSocial": "KOLKE DO BRASIL IMPORTACAO E EXPORTACAO LTDA",
+   "situacao": "ATIVA",
+   "dataSituacao": "2003-12-10",
+   "capitalSocial": 3000000,
+   "municipio": "VILA VELHA",
+   "uf": "ES",
+   "cnaePrincipal": "Comércio atacadista de equipamentos de informática",
+   "socios": [
+    {
+     "nome": "DISTRICOMP DISTRIBUIDORA DE INFORMATICA LTDA",
+     "qualificacao": "Sócio",
+     "entrada": "2011-01-17"
+    },
+    {
+     "nome": "EFICART SOCIEDAD ANONIMA",
+     "qualificacao": "Sócio Pessoa Jurídica Domiciliado no Exterior",
+     "entrada": "2003-12-10"
+    },
+    {
+     "nome": "MIGUEL STEINER FARBER",
+     "qualificacao": "Administrador",
+     "entrada": "2011-01-17"
+    }
+   ]
+  },
+  {
+   "cnpj": "01863881000137",
+   "nome": "Districomp (matriz)",
+   "razaoSocial": "DISTRICOMP DISTRIBUIDORA DE INFORMATICA LTDA",
+   "situacao": "ATIVA",
+   "dataSituacao": "2001-10-06",
+   "capitalSocial": 5043980,
+   "municipio": "PORTO ALEGRE",
+   "uf": "RS",
+   "cnaePrincipal": "Comércio atacadista de equipamentos de informática",
+   "socios": [
+    {
+     "nome": "DOUGLAS DAVID BARRO LEAL",
+     "qualificacao": "Administrador",
+     "entrada": "2023-10-25"
+    },
+    {
+     "nome": "EFICART SOCIEDAD ANONIMA",
+     "qualificacao": "Sócio",
+     "entrada": "2011-07-12"
+    },
+    {
+     "nome": "MIGUEL STEINER FARBER",
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2005-12-06"
+    }
+   ]
+  },
+  {
+   "cnpj": "14445028000147",
+   "nome": "Ameriprint",
+   "razaoSocial": "AMERIPRINT INDUSTRIA E COMERCIO DE INFORMATICA LTDA.",
+   "situacao": "ATIVA",
+   "dataSituacao": "2011-06-09",
+   "capitalSocial": 1301000,
+   "municipio": "PORTO ALEGRE",
+   "uf": "RS",
+   "cnaePrincipal": "Fabricação de equipamentos de informática",
+   "socios": [
+    {
+     "nome": "DISTRICOMP DISTRIBUIDORA DE INFORMATICA LTDA",
+     "qualificacao": "Sócio",
+     "entrada": "2011-06-09"
+    },
+    {
+     "nome": "MIGUEL STEINER FARBER",
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2011-06-09"
+    }
+   ]
+  },
+  {
+   "cnpj": "43297467000158",
+   "nome": "MSF Tecnologia",
+   "razaoSocial": "MSF TECNOLOGIA LTDA.",
+   "situacao": "ATIVA",
+   "dataSituacao": "2021-08-26",
+   "capitalSocial": 5000,
+   "municipio": "SAO PAULO",
+   "uf": "SP",
+   "cnaePrincipal": "Suporte técnico, manutenção e outros serviços em tecnologia da informação",
+   "socios": [
+    {
+     "nome": "MIGUEL STEINER FARBER",
+     "qualificacao": "Sócio-Administrador",
+     "entrada": "2021-08-26"
+    }
+   ]
+  }
+ ],
+ "_nota": "Cobertura PARCIAL: o PNCP so e obrigatorio desde 2023 e muitos entes publicam apenas em sistema proprio. Contratos de Petropolis, ALPB e SEMAS-PE nunca apareceram no PNCP e so foram achados em diario oficial. Este JSON e piso, nao teto."
+}
