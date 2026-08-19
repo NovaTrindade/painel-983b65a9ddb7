@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-19T14:25:47.509Z",
+ "gerado": "2026-08-19T14:45:22.996Z",
  "referencia": "2026-08-19",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
@@ -10,25 +10,29 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2463,
-  "excluidosPorPalavraChave": 1525,
-  "excluidosQueSeriamCandidatos": 127,
+  "universoAberto": 2471,
+  "excluidosPorPalavraChave": 1537,
+  "excluidosQueSeriamCandidatos": 130,
+  "custoPorTermo": {
+   "aquisicao": 68,
+   "fornecimento": 61
+  },
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 879,
-  "candidatos": 59,
-  "itensObtidos": 59,
+  "descartadosPorAderencia": 874,
+  "candidatos": 60,
+  "itensObtidos": 60,
   "itensFalhou": 0,
-  "foraPorValor": 42,
+  "foraPorValor": 43,
   "semValorPublicado": 10,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 484,
-    "novos": 482,
+    "total": 485,
+    "novos": 484,
     "paginasOk": 10,
     "paginasFalhas": 0,
     "parcial": false,
@@ -67,8 +71,8 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 865,
-    "novos": 496,
+    "total": 867,
+    "novos": 498,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -77,8 +81,8 @@
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 242,
-    "novos": 66,
+    "total": 241,
+    "novos": 67,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -88,17 +92,17 @@
     "consulta": "estacao trabalho",
     "linha": "hardware",
     "total": 154,
-    "novos": 61,
-    "paginasOk": 3,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "novos": 83,
+    "paginasOk": 4,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
     "total": 55,
-    "novos": 25,
+    "novos": 20,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -107,8 +111,8 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 356,
-    "novos": 207,
+    "total": 358,
+    "novos": 209,
     "paginasOk": 8,
     "paginasFalhas": 0,
     "parcial": false,
@@ -118,7 +122,7 @@
     "consulta": "tablets",
     "linha": "hardware",
     "total": 82,
-    "novos": 14,
+    "novos": 13,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -137,8 +141,8 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 117,
-    "novos": 1,
+    "total": 119,
+    "novos": 0,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -157,28 +161,28 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 834,
-    "novos": 681,
-    "paginasOk": 17,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 837,
+    "novos": 657,
+    "paginasOk": 16,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "ged",
     "linha": "ged",
     "total": 17,
-    "novos": 0,
+    "novos": 15,
     "paginasOk": 1,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 244,
-    "novos": 64,
+    "total": 245,
+    "novos": 66,
     "paginasOk": 4,
     "paginasFalhas": 1,
     "parcial": true,
@@ -197,8 +201,8 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 33,
-    "novos": 24,
+    "total": 34,
+    "novos": 26,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -208,7 +212,7 @@
     "consulta": "gestao documentos",
     "linha": "ged",
     "total": 122,
-    "novos": 78,
+    "novos": 71,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -218,7 +222,7 @@
     "consulta": "indexacao documentos",
     "linha": "ged",
     "total": 19,
-    "novos": 3,
+    "novos": 2,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -257,8 +261,8 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 101,
-    "novos": 46,
+    "total": 102,
+    "novos": 44,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -267,8 +271,8 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 40,
-    "novos": 34,
+    "total": 42,
+    "novos": 35,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -310,14 +314,14 @@
     "total": 6,
     "novos": 0,
     "paginasOk": 1,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 4,
-  "paginasPerdidas": 4
+  "consultasParciais": 2,
+  "paginasPerdidas": 2
  },
  "resumo": {
   "total": 17,
@@ -326,15 +330,15 @@
   "triar": 3,
   "semValor": 10,
   "rj": 3,
-  "urgentes7d": 8,
+  "urgentes7d": 7,
   "valorTotal": 58662539.19,
   "valorRJ": 9803693.5,
   "valorUrgentes": 15090907.5,
   "suspeitos": 1,
   "porLinha": {
-   "hardware": 10,
+   "hardware": 9,
    "climatizacao": 1,
-   "ged": 6
+   "ged": 7
   }
  },
  "editais": [
@@ -699,33 +703,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/63606479000124/2026/421"
   },
   {
-   "id": "07100011000192-2026-2",
-   "orgao": "ASSOCIACAO ESCOLA FAMILIA AGRICOLA VALE DO GUAPORE",
-   "municipio": "São Francisco do Guaporé",
-   "uf": "RO",
-   "objeto": "[LICITANET] - A quisição de Computador Desktop Tipo Micro + Monitor LED 22” + Teclado e Mouse, Nobreak interativo bivolt.  ",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-08-21T09:00",
-   "diasRestantes": 2,
-   "valorEstimado": 0,
-   "qtdItens": 2,
-   "modulos": [
-    "desktop",
-    "computador"
-   ],
-   "ader": 32,
-   "score": 46,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/07100011000192/2026/2"
-  },
-  {
    "id": "07226794000155-2026-111",
    "orgao": "COMPANHIA AGUAS DE JOINVILLE",
    "municipio": "Joinville",
@@ -751,6 +728,33 @@
    "passaPiso": false,
    "semValor": true,
    "pncpUrl": "https://pncp.gov.br/app/editais/07226794000155/2026/111"
+  },
+  {
+   "id": "04264173000178-2026-79",
+   "orgao": "SERVIÇO NACIONAL DE APRENDIZAGEM RURAL SENAR AR/MT",
+   "municipio": "Cuiabá",
+   "uf": "MT",
+   "objeto": "Contratação de empresa para a PRESTAÇÃO DE SERVIÇO DE IMPRESSÃO (OUTSOURCING), CÓPIA, DIGITALIZAÇÃO E GERENCIAMENTO DE IMPRESSÃO DEPARTAMENTAL, INCLUINDO DISPONIBILIZAÇÃO DE EQUIPAMENTOS, para atender ao Serviço Nacional de Aprendizagem Rural de Mato Grosso – SENAR/MT",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "ged"
+   ],
+   "fimVigencia": "2026-09-03T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 0,
+   "qtdItens": 5,
+   "modulos": [
+    "digitalizacao",
+    "outsourcing"
+   ],
+   "ader": 44,
+   "score": 42,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/04264173000178/2026/79"
   },
   {
    "id": "00000208000100-2026-8",
