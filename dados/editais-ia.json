@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-19T14:03:47.422Z",
+ "gerado": "2026-08-19T14:25:47.509Z",
  "referencia": "2026-08-19",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
@@ -10,24 +10,25 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2440,
-  "excluidosPorPalavraChave": 1517,
+  "universoAberto": 2463,
+  "excluidosPorPalavraChave": 1525,
+  "excluidosQueSeriamCandidatos": 127,
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 863,
-  "candidatos": 60,
-  "itensObtidos": 60,
+  "descartadosPorAderencia": 879,
+  "candidatos": 59,
+  "itensObtidos": 59,
   "itensFalhou": 0,
-  "foraPorValor": 43,
+  "foraPorValor": 42,
   "semValorPublicado": 10,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 486,
-    "novos": 485,
+    "total": 484,
+    "novos": 482,
     "paginasOk": 10,
     "paginasFalhas": 0,
     "parcial": false,
@@ -47,16 +48,16 @@
     "consulta": "chromebook",
     "linha": "hardware",
     "total": 13,
-    "novos": 0,
+    "novos": 7,
     "paginasOk": 1,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 226,
+    "total": 225,
     "novos": 104,
     "paginasOk": 5,
     "paginasFalhas": 0,
@@ -66,7 +67,7 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 866,
+    "total": 865,
     "novos": 496,
     "paginasOk": 18,
     "paginasFalhas": 0,
@@ -77,7 +78,7 @@
     "consulta": "microcomputador",
     "linha": "hardware",
     "total": 242,
-    "novos": 67,
+    "novos": 66,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -87,17 +88,17 @@
     "consulta": "estacao trabalho",
     "linha": "hardware",
     "total": 154,
-    "novos": 83,
-    "paginasOk": 4,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "novos": 61,
+    "paginasOk": 3,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
     "total": 55,
-    "novos": 20,
+    "novos": 25,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -106,8 +107,8 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 357,
-    "novos": 205,
+    "total": 356,
+    "novos": 207,
     "paginasOk": 8,
     "paginasFalhas": 0,
     "parcial": false,
@@ -116,12 +117,12 @@
    {
     "consulta": "tablets",
     "linha": "hardware",
-    "total": null,
-    "novos": 0,
-    "paginasOk": 0,
+    "total": 82,
+    "novos": 14,
+    "paginasOk": 2,
     "paginasFalhas": 0,
-    "parcial": true,
-    "erro": "consulta falhou apos 3 tentativas"
+    "parcial": false,
+    "erro": null
    },
    {
     "consulta": "pcaas",
@@ -136,8 +137,8 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 119,
-    "novos": 0,
+    "total": 117,
+    "novos": 1,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -146,7 +147,7 @@
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 71,
+    "total": 70,
     "novos": 0,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -157,30 +158,30 @@
     "consulta": "locacao equipamentos",
     "linha": "hardware",
     "total": 834,
-    "novos": 638,
-    "paginasOk": 16,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "novos": 681,
+    "paginasOk": 17,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "ged",
     "linha": "ged",
     "total": 17,
-    "novos": 15,
+    "novos": 0,
     "paginasOk": 1,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 241,
-    "novos": 84,
-    "paginasOk": 5,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 244,
+    "novos": 64,
+    "paginasOk": 4,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
@@ -197,7 +198,7 @@
     "consulta": "gestao documental",
     "linha": "ged",
     "total": 33,
-    "novos": 23,
+    "novos": 24,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -207,7 +208,7 @@
     "consulta": "gestao documentos",
     "linha": "ged",
     "total": 122,
-    "novos": 71,
+    "novos": 78,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -217,7 +218,7 @@
     "consulta": "indexacao documentos",
     "linha": "ged",
     "total": 19,
-    "novos": 2,
+    "novos": 3,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -257,7 +258,7 @@
     "consulta": "guarda documentos",
     "linha": "ged",
     "total": 101,
-    "novos": 45,
+    "novos": 46,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -267,7 +268,7 @@
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
     "total": 40,
-    "novos": 33,
+    "novos": 34,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -286,8 +287,8 @@
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 37,
-    "novos": 16,
+    "total": 38,
+    "novos": 17,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -309,14 +310,14 @@
     "total": 6,
     "novos": 0,
     "paginasOk": 1,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    }
   ],
-  "consultasFalhas": 1,
-  "consultasParciais": 2,
-  "paginasPerdidas": 2
+  "consultasFalhas": 0,
+  "consultasParciais": 4,
+  "paginasPerdidas": 4
  },
  "resumo": {
   "total": 17,
@@ -331,9 +332,9 @@
   "valorUrgentes": 15090907.5,
   "suspeitos": 1,
   "porLinha": {
-   "hardware": 9,
+   "hardware": 10,
    "climatizacao": 1,
-   "ged": 7
+   "ged": 6
   }
  },
  "editais": [
@@ -752,31 +753,32 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/07226794000155/2026/111"
   },
   {
-   "id": "04264173000178-2026-79",
-   "orgao": "SERVIÇO NACIONAL DE APRENDIZAGEM RURAL SENAR AR/MT",
-   "municipio": "Cuiabá",
-   "uf": "MT",
-   "objeto": "Contratação de empresa para a PRESTAÇÃO DE SERVIÇO DE IMPRESSÃO (OUTSOURCING), CÓPIA, DIGITALIZAÇÃO E GERENCIAMENTO DE IMPRESSÃO DEPARTAMENTAL, INCLUINDO DISPONIBILIZAÇÃO DE EQUIPAMENTOS, para atender ao Serviço Nacional de Aprendizagem Rural de Mato Grosso – SENAR/MT",
+   "id": "00000208000100-2026-8",
+   "orgao": "BRB BANCO DE BRASILIA SA",
+   "municipio": "Brasília",
+   "uf": "DF",
+   "objeto": "[Portal de Compras Públicas] - Contratação de empresa para prestação de serviços especializados de desenvolvimento de aplicativos nativos e híbridos/PWA com suporte multiplataforma para aparelhos smartphones, tablets, smartwatches, smartTVs, desktops e aparelhos/sensores Internet Das Coisas (IoT), contemplando distribuição, desenvolvimento e sustentação de soluções tecnológicas na modalidade fábrica de software, conforme condições e especificações constantes deste edital e seus anexos.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "ged"
+    "hardware"
    ],
-   "fimVigencia": "2026-09-03T09:00",
-   "diasRestantes": 15,
+   "fimVigencia": "2026-09-02T08:59",
+   "diasRestantes": 14,
    "valorEstimado": 0,
-   "qtdItens": 5,
+   "qtdItens": 1,
    "modulos": [
-    "digitalizacao",
-    "outsourcing"
+    "desktop",
+    "tablet",
+    "prestacao de servicos"
    ],
-   "ader": 44,
-   "score": 42,
+   "ader": 38,
+   "score": 39,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": false,
    "passaPiso": false,
    "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/04264173000178/2026/79"
+   "pncpUrl": "https://pncp.gov.br/app/editais/00000208000100/2026/8"
   },
   {
    "id": "34079590000101-2026-36",

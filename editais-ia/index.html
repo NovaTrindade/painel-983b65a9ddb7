@@ -141,10 +141,10 @@
   <div class="regra">
     <div>🏠 <b>Rio de Janeiro</b> — capital e municípios, <b>qualquer valor</b>: 3 editais, R$ 9,80 mi</div>
     <div>🌎 <b>Demais estados</b> — somente acima de <b>R$ 2.000.000</b>: 4 editais</div>
-    <div>🚫 <b>1517</b> descartados pelas palavras-chave <b>aquisicao</b> e <b>fornecimento</b></div>
+    <div>🚫 <b>1525</b> descartados pelas palavras-chave <b>aquisicao</b> e <b>fornecimento</b> — <b>127</b> deles teriam passado na aderência</div>
   </div>
 
-  <div class="aviso" style="border-left-color:var(--av)"><b>1 consulta(s) falharam nesta coleta</b>, então a cobertura está incompleta.<br><b>2 consulta(s) perderam 2 página(s) de resultado</b> — responderam, mas não entregaram tudo que existia.</div>
+  <div class="aviso" style="border-left-color:var(--av)"><b>4 consulta(s) perderam 4 página(s) de resultado</b> — responderam, mas não entregaram tudo que existia.</div>
 
   <div class="aviso">
     <b>Triagem automática por aderência ao portfólio.</b> A classificação usa o objeto do edital
@@ -503,14 +503,14 @@ adequadas para o pleno exercício das atividades acadêmicas e adminis…
         <td class="c"><a class="sc" href="https://pncp.gov.br/app/editais/07226794000155/2026/111" target="_blank" rel="noopener">45<span>abrir ↗</span></a></td>
       </tr>
       <tr>
-        <td class="org"><b>SERVIÇO NACIONAL DE APRENDIZAGEM RURAL SENAR AR/MT</b><span>Cuiabá · Pregão - Eletrônico</span></td>
-        <td class="obj">Contratação de empresa para a PRESTAÇÃO DE SERVIÇO DE IMPRESSÃO (OUTSOURCING), CÓPIA, DIGITALIZAÇÃO E GERENCIAMENTO DE IMPRESSÃO DEPARTAMENTAL, INCLUI…
-          <span class="mods"><i style="background:var(--go-bg);color:var(--go)">🗂️ GED</i><i>digitalizacao</i><i>outsourcing</i></span>
+        <td class="org"><b>BRB BANCO DE BRASILIA SA</b><span>Brasília · Pregão - Eletrônico</span></td>
+        <td class="obj">[Portal de Compras Públicas] - Contratação de empresa para prestação de serviços especializados de desenvolvimento de aplicativos nativos e híbridos/P…
+          <span class="mods"><i style="background:var(--go-bg);color:var(--go)">💻 hardware</i><i>desktop</i><i>tablet</i><i>prestacao de servicos</i></span>
           </td>
         <td class="val"><em>não publicado</em></td>
-        <td class="c nowrap"><span class="pz p30">⚪ 15 d</span><span class="dt">03/09/2026</span></td>
-        <td class="c ad">44</td>
-        <td class="c"><a class="sc" href="https://pncp.gov.br/app/editais/04264173000178/2026/79" target="_blank" rel="noopener">42<span>abrir ↗</span></a></td>
+        <td class="c nowrap"><span class="pz p30">⚪ 14 d</span><span class="dt">02/09/2026</span></td>
+        <td class="c ad">38</td>
+        <td class="c"><a class="sc" href="https://pncp.gov.br/app/editais/00000208000100/2026/8" target="_blank" rel="noopener">39<span>abrir ↗</span></a></td>
       </tr>
       <tr>
         <td class="org"><b>EMASA EMPRESA MUNICIPAL DE AGUAS E SANEAMENTO S A</b><span>Itabuna · Pregão - Eletrônico</span></td>
@@ -536,14 +536,14 @@ adequadas para o pleno exercício das atividades acadêmicas e adminis…
 
   <p class="exec">
     ⚙️ <b>Esta coleta:</b> 29 consultas no PNCP com <code>status=recebendo_proposta</code> →
-    <b>2440</b> editais abertos únicos →
-    <b>1517</b> descartados por <code>aquisicao</code>/<code>fornecimento</code> →
-    <b>863</b> descartados por não aderência →
-    <b>60</b> candidatos enriquecidos via <code>/itens</code> →
-    <b>43</b> cortados pelo piso de valor → <b>17</b> nesta lista.
-    Valor recuperado em <b>60</b> dos 60 candidatos.
-    <br>⚠️ <b>1 consulta(s) falharam</b> — a cobertura desta rodada está incompleta.
-    <br>⚠️ <b>2 consulta(s) responderam parcialmente</b>, perdendo 2 página(s) de resultado.
+    <b>2463</b> editais abertos únicos →
+    <b>1525</b> descartados por <code>aquisicao</code>/<code>fornecimento</code> →
+    <b>879</b> descartados por não aderência →
+    <b>59</b> candidatos enriquecidos via <code>/itens</code> →
+    <b>42</b> cortados pelo piso de valor → <b>17</b> nesta lista.
+    Valor recuperado em <b>59</b> dos 59 candidatos.
+    
+    <br>⚠️ <b>4 consulta(s) responderam parcialmente</b>, perdendo 4 página(s) de resultado.
   </p>
 
   <footer>
@@ -554,8 +554,10 @@ adequadas para o pleno exercício das atividades acadêmicas e adminis…
     <p><b>O corte por palavra-chave.</b> Editais cujo título ou objeto contém
     <code>aquisicao</code> ou <code>fornecimento</code> são descartados por decisão comercial:
     a IA Tecnologia opera com locação e prestação de serviço, não com venda de equipamento. São palavras
-    comuns, então o número de descartados é publicado acima de propósito — se estiver cortando demais,
-    o termo sai do critério e a próxima coleta já muda.</p>
+    comuns, então o número de descartados é publicado acima de propósito. O número que importa para
+    calibrar é o segundo: quantos dos descartados <b>teriam passado no corte de aderência</b> — esses
+    são os que doem. Se algum deles for uma locação de verdade e não uma compra, tire o termo de
+    <code>exclusoes</code> em <code>criterio-ia.json</code> e a próxima coleta já muda.</p>
     <p><b>Limites.</b> A busca cobre o que está com proposta aberta no PNCP; órgão que publica só em portal
     próprio não aparece. Editais marcados como suspeitos (valor irrisório ou data implausível) ficam fora
     dos totais — são erro de preenchimento na origem. Página atualizada automaticamente em dias úteis pela
