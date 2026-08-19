@@ -141,10 +141,10 @@
   <div class="regra">
     <div>🏠 <b>Rio de Janeiro</b> — capital e municípios, <b>qualquer valor</b>: 4 editais, R$ 12,00 mi</div>
     <div>🌎 <b>Demais estados</b> — somente acima de <b>R$ 2.000.000</b>: 7 editais</div>
-    <div>🚫 <b>1323</b> descartados pelas palavras-chave <b>aquisicao</b> e <b>fornecimento</b> — <b>82</b> deles teriam passado na aderência</div>
+    <div>🚫 <b>1307</b> descartados pelas palavras-chave <b>aquisicao</b> e <b>fornecimento</b> — <b>83</b> deles teriam passado na aderência</div>
   </div>
 
-  <div class="aviso" style="border-left-color:var(--av)"><b>2 consulta(s) perderam 3 página(s) de resultado</b> — responderam, mas não entregaram tudo que existia.</div>
+  <div class="aviso" style="border-left-color:var(--av)"><b>4 consulta(s) perderam 4 página(s) de resultado</b> — responderam, mas não entregaram tudo que existia.</div>
 
   <div class="aviso">
     <b>Triagem automática por aderência ao portfólio.</b> A classificação usa o objeto do edital
@@ -627,28 +627,34 @@ adequadas para o pleno exercício das atividades acadêmicas e adminis…
 
   <p class="exec">
     ⚙️ <b>Esta coleta:</b> 29 consultas no PNCP com <code>status=recebendo_proposta</code> →
-    <b>2502</b> editais abertos únicos →
-    <b>1323</b> descartados por <code>aquisicao</code>/<code>fornecimento</code> →
-    <b>1071</b> descartados por não aderência →
-    <b>108</b> candidatos enriquecidos via <code>/itens</code> →
-    <b>84</b> cortados pelo piso de valor → <b>24</b> nesta lista.
-    Valor recuperado em <b>108</b> dos 108 candidatos.
+    <b>2484</b> editais abertos únicos →
+    <b>1307</b> descartados por <code>aquisicao</code>/<code>fornecimento</code> →
+    <b>1070</b> descartados por não aderência →
+    <b>107</b> candidatos enriquecidos via <code>/itens</code> →
+    <b>83</b> cortados pelo piso de valor → <b>24</b> nesta lista.
+    Valor recuperado em <b>107</b> dos 107 candidatos.
     
-    <br>⚠️ <b>2 consulta(s) responderam parcialmente</b>, perdendo 3 página(s) de resultado.
+    <br>⚠️ <b>4 consulta(s) responderam parcialmente</b>, perdendo 4 página(s) de resultado.
   </p>
 
   <footer>
     <p><b>Por que o valor aparece aqui.</b> O índice de busca do PNCP não expõe valor de edital — por isso
     o campo costuma vir como "não informado". Esta página busca
     <code>/orgaos/{cnpj}/compras/{ano}/{seq}/itens</code> e soma o <code>valorTotal</code> de cada item.
-    A mesma chamada devolve a lista de equipamentos e serviços pedidos, que é o que alimenta a aderência.</p>
-    <p><b>O corte por palavra-chave.</b> Editais cujo título ou objeto contém
-    <code>aquisicao</code> ou <code>fornecimento</code> são descartados por decisão comercial:
-    a IA Tecnologia opera com locação e prestação de serviço, não com venda de equipamento. São palavras
-    comuns, então o número de descartados é publicado acima de propósito. O número que importa para
-    calibrar é o segundo: quantos dos descartados <b>teriam passado no corte de aderência</b> — esses
-    são os que doem. Se algum deles for uma locação de verdade e não uma compra, tire o termo de
-    <code>exclusoes</code> em <code>criterio-ia.json</code> e a próxima coleta já muda.</p>
+    <p><b>O corte por palavra-chave.</b> Edital cujo título ou objeto contém
+    <code>aquisição</code> é descartado por decisão comercial: a IA Tecnologia opera com locação e
+    prestação de serviço, não com venda de equipamento. <code>fornecimento</code> também descarta,
+    mas <b>só quando não há sinal de serviço no objeto</b> — locação, outsourcing, comodato, cessão
+    de uso, prestação ou serviço continuado. Essa salvaguarda não é preciosismo: medindo o custo de
+    cada termo separadamente, <code>aquisição</code> derrubava 68 editais aderentes e todos eram
+    compra mesmo, enquanto <code>fornecimento</code> derrubava 61 que eram <b>serviço</b> —
+    digitalização de documentos e outsourcing de impressão, o núcleo do negócio.</p>
+    <p><b>Como calibrar.</b> O número que decide não é quantos o filtro descarta, e sim quanto ele
+    custa: <b>83</b> dos descartados de hoje teriam
+    passado no corte de aderência, sendo <b>69</b> por <code>aquisicao</code> e <b>13</b> por <code>fornecimento</code>. Se o custo de um termo subir
+    a ponto de passar o tamanho desta lista, tire-o de <code>exclusoes</code> em
+    <code>criterio-ia.json</code> — a próxima coleta já muda. <code>teste-exclusao.mjs</code> trava
+    o comportamento com casos reais e roda antes de cada varredura.</p>
     <p><b>Limites.</b> A busca cobre o que está com proposta aberta no PNCP; órgão que publica só em portal
     próprio não aparece. Editais marcados como suspeitos (valor irrisório ou data implausível) ficam fora
     dos totais — são erro de preenchimento na origem. Página atualizada automaticamente em dias úteis pela
