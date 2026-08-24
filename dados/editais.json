@@ -1,122 +1,153 @@
 {
- "gerado": "2026-08-24T10:30:40.500Z",
+ "gerado": "2026-08-24T11:35:46.346Z",
  "referencia": "2026-08-24",
  "criterioVersao": 1,
  "execucao": {
-  "universoAberto": 2883,
-  "descartados": 2776,
-  "candidatos": 107,
-  "itensObtidos": 107,
+  "universoAberto": 2841,
+  "descartados": 2735,
+  "candidatos": 106,
+  "itensObtidos": 106,
   "itensFalhou": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 629,
-    "novos": 594,
+    "total": 626,
+    "novos": 623,
     "paginasOk": 13,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "gestao municipal",
-    "total": 752,
-    "novos": 325,
-    "paginasOk": 13,
+    "total": 746,
+    "novos": 343,
+    "paginasOk": 14,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "sistema integrado",
-    "total": 1814,
-    "novos": 503,
+    "total": 1793,
+    "novos": 500,
     "paginasOk": 13,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "licenciamento uso",
-    "total": 222,
-    "novos": 144,
+    "total": 220,
+    "novos": 122,
     "paginasOk": 5,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "software gestao",
     "total": 232,
-    "novos": 63,
+    "novos": 48,
     "paginasOk": 5,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "locacao software",
-    "total": 193,
-    "novos": 93,
+    "total": 190,
+    "novos": 91,
     "paginasOk": 4,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "cessao uso",
-    "total": 119,
-    "novos": 42,
+    "total": 117,
+    "novos": 59,
     "paginasOk": 3,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "arrecadacao",
-    "total": 290,
-    "novos": 243,
+    "total": 289,
+    "novos": 242,
     "paginasOk": 6,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "tributaria",
-    "total": 311,
-    "novos": 91,
+    "total": 307,
+    "novos": 82,
     "paginasOk": 7,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "folha pagamento",
-    "total": 259,
-    "novos": 198,
-    "paginasOk": 6,
+    "total": 258,
+    "novos": 151,
+    "paginasOk": 5,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "gestao educacional",
     "total": 57,
-    "novos": 9,
+    "novos": 8,
     "paginasOk": 2,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "gestao documentos",
     "total": 125,
-    "novos": 26,
+    "novos": 22,
     "paginasOk": 3,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "processo eletronico",
-    "total": 880,
-    "novos": 533,
+    "total": 865,
+    "novos": 535,
     "paginasOk": 14,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "conversao dados",
-    "total": 88,
-    "novos": 19,
+    "total": 85,
+    "novos": 15,
     "paginasOk": 2,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    }
-  ]
+  ],
+  "consultasFalhas": 0,
+  "consultasParciais": 3,
+  "paginasPerdidas": 3
  },
  "resumo": {
-  "total": 107,
-  "prioridade": 34,
+  "total": 106,
+  "prioridade": 33,
   "avaliar": 25,
   "triar": 48,
-  "urgentes7d": 42,
-  "valorTotal": 93393650.82,
-  "valorUrgentes": 28070755.4,
+  "urgentes7d": 41,
+  "valorTotal": 93263630.82,
+  "valorUrgentes": 27940735.4,
   "suspeitos": 7
  },
  "editais": [
@@ -614,31 +645,6 @@
    "score": 82,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/88861430000149/2026/881"
-  },
-  {
-   "id": "06421119000114-2026-23",
-   "orgao": "MUNICIPIO DE SAO VICENTE FERRER",
-   "municipio": "São Vicente Ferrer",
-   "uf": "MA",
-   "objeto": "[LICITANET] - Contratação de serviços especializados de computação em nuvem para armazenamento, processamento e gestão de dados, incluindo o sistema de contabilidade pública integrado, pessoal, compras e licitação, arrecadação com nota fiscal eletrônica, gerenciamento das informações contábeis para o portal da transparência, , para atender as necessidades do Município de São Vicente de Férrer-MA",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-24T08:00",
-   "diasRestantes": 0,
-   "valorEstimado": 130020,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "contabil",
-    "portal da transparencia",
-    "nota fiscal eletronica",
-    "compras e licitac",
-    "transparencia",
-    "nuvem"
-   ],
-   "ader": 81,
-   "score": 82,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/06421119000114/2026/23"
   },
   {
    "id": "31845019000162-2026-32",
@@ -1242,31 +1248,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01610869000110/2026/123"
   },
   {
-   "id": "01610869000110-2026-121",
-   "orgao": "MUNICIPIO DE CHUVISCA",
-   "municipio": "Chuvisca",
-   "uf": "RS",
-   "objeto": "[Portal de Compras Públicas] - CONTRATAÇAO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO, IMPLANTAÇAO, MIGRAÇAO DE DADOS, PARAMETRIZAÇAO, CUSTOMIZAÇAO, TREINAMENTO DE USUARIOS, SUPORTE TECNICO, MANUTENÇAO ADAPTATIVA E EVOLUTIVA, BEM COMO LICENCIAMENTO DE USO DE SISTEMA INTEGRADO DE GESTAO PUBLICA MUNICIPAL.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-08T08:59",
-   "diasRestantes": 15,
-   "valorEstimado": 521500,
-   "qtdItens": 4,
-   "modulos": [
-    "sistema integrado",
-    "gestao publica",
-    "licenciamento de uso",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 76,
-   "score": 74,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/01610869000110/2026/121"
-  },
-  {
    "id": "04215993000170-2026-48",
    "orgao": "MUNICIPIO DE VALE DE SAO DOMINGOS",
    "municipio": "Vale de São Domingos",
@@ -1341,6 +1322,31 @@
    "score": 74,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/00444435000125/2026/15"
+  },
+  {
+   "id": "01610869000110-2026-121",
+   "orgao": "MUNICIPIO DE CHUVISCA",
+   "municipio": "Chuvisca",
+   "uf": "RS",
+   "objeto": "[Portal de Compras Públicas] - CONTRATAÇAO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO, IMPLANTAÇAO, MIGRAÇAO DE DADOS, PARAMETRIZAÇAO, CUSTOMIZAÇAO, TREINAMENTO DE USUARIOS, SUPORTE TECNICO, MANUTENÇAO ADAPTATIVA E EVOLUTIVA, BEM COMO LICENCIAMENTO DE USO DE SISTEMA INTEGRADO DE GESTAO PUBLICA MUNICIPAL.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-08T08:59",
+   "diasRestantes": 15,
+   "valorEstimado": 521500,
+   "qtdItens": 4,
+   "modulos": [
+    "sistema integrado",
+    "gestao publica",
+    "licenciamento de uso",
+    "implantacao",
+    "migracao",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 76,
+   "score": 74,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/01610869000110/2026/121"
   },
   {
    "id": "71989982000134-2026-85",
