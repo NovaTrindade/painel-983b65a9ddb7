@@ -1,6 +1,6 @@
 {
- "gerado": "2026-08-17T19:33:30.584Z",
- "referencia": "2026-08-17",
+ "gerado": "2026-08-24T11:06:26.753Z",
+ "referencia": "2026-08-24",
  "execucao": {
   "empresasConsultadas": 10,
   "buscasFalhadas": [],
@@ -32,7 +32,7 @@
    "inicio": "2024-04-09",
    "fimBase": "2025-04-09",
    "fimReal": "2025-04-09",
-   "diasRestantes": -495,
+   "diasRestantes": -502,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/08761124000100/2024/299"
@@ -52,7 +52,7 @@
    "inicio": "2025-10-27",
    "fimBase": "2027-10-27",
    "fimReal": "2027-10-27",
-   "diasRestantes": 436,
+   "diasRestantes": 429,
    "aditivos": [],
    "status": "vigente",
    "pncpUrl": "https://pncp.gov.br/app/contratos/42498600000171/2025/5267"
@@ -72,7 +72,7 @@
    "inicio": "2026-03-10",
    "fimBase": "2027-03-09",
    "fimReal": "2027-03-09",
-   "diasRestantes": 204,
+   "diasRestantes": 197,
    "aditivos": [],
    "status": "janela-proxima",
    "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2026/23"
@@ -92,7 +92,7 @@
    "inicio": "2023-12-03",
    "fimBase": "2024-03-03",
    "fimReal": "2024-03-03",
-   "diasRestantes": -897,
+   "diasRestantes": -904,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2023/20"
@@ -112,7 +112,7 @@
    "inicio": "2025-08-01",
    "fimBase": "2026-08-01",
    "fimReal": "2027-08-01",
-   "diasRestantes": 349,
+   "diasRestantes": 342,
    "aditivos": [
     {
      "tipo": "Termo Aditivo",
@@ -141,7 +141,7 @@
    "inicio": "2024-07-01",
    "fimBase": "2025-07-01",
    "fimReal": "2025-07-01",
-   "diasRestantes": -412,
+   "diasRestantes": -419,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/58982364000102/2024/11"
@@ -161,11 +161,19 @@
    "inicio": "2025-05-08",
    "fimBase": "2026-05-08",
    "fimReal": "2026-05-08",
-   "diasRestantes": -101,
+   "diasRestantes": -108,
    "aditivos": [
     {
      "tipo": "Termo de Apostilamento",
      "numero": "002",
+     "inicio": "2026-02-11",
+     "fim": "2026-05-08",
+     "valorAcrescido": 0,
+     "prorrogou": false
+    },
+    {
+     "tipo": "Termo de Apostilamento",
+     "numero": "001",
      "inicio": "2026-02-11",
      "fim": "2026-05-08",
      "valorAcrescido": 0,
@@ -190,7 +198,7 @@
    "inicio": "2025-01-13",
    "fimBase": "2026-01-13",
    "fimReal": "2026-01-13",
-   "diasRestantes": -216,
+   "diasRestantes": -223,
    "aditivos": [
     {
      "tipo": "Termo Aditivo",
@@ -227,7 +235,7 @@
    "inicio": "2024-08-14",
    "fimBase": "2025-03-13",
    "fimReal": "2025-03-13",
-   "diasRestantes": -522,
+   "diasRestantes": -529,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/29116902000170/2024/25"
