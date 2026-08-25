@@ -1,6 +1,6 @@
 {
- "gerado": "2026-08-24T10:01:23.936Z",
- "referencia": "2026-08-24",
+ "gerado": "2026-08-25T08:13:09.793Z",
+ "referencia": "2026-08-25",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
  "regraValor": {
@@ -10,30 +10,30 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2654,
+  "universoAberto": 2674,
   "excluidosPorPalavraChave": 1393,
-  "excluidosQueSeriamCandidatos": 84,
+  "excluidosQueSeriamCandidatos": 85,
   "custoPorTermo": {
-   "aquisicao": 67,
+   "aquisicao": 68,
    "fornecimento": 14
   },
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1151,
-  "candidatos": 110,
-  "itensObtidos": 110,
+  "descartadosPorAderencia": 1172,
+  "candidatos": 109,
+  "itensObtidos": 109,
   "itensFalhou": 0,
-  "foraPorValor": 79,
-  "semValorPublicado": 14,
+  "foraPorValor": 81,
+  "semValorPublicado": 11,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 513,
-    "novos": 512,
-    "paginasOk": 11,
+    "total": 499,
+    "novos": 499,
+    "paginasOk": 10,
     "paginasFalhas": 0,
     "parcial": false,
     "erro": null
@@ -41,8 +41,8 @@
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 16,
-    "novos": 3,
+    "total": 17,
+    "novos": 4,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -51,7 +51,7 @@
    {
     "consulta": "chromebook",
     "linha": "hardware",
-    "total": 12,
+    "total": 14,
     "novos": 5,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -61,8 +61,8 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 245,
-    "novos": 108,
+    "total": 248,
+    "novos": 110,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -71,8 +71,8 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 915,
-    "novos": 501,
+    "total": 932,
+    "novos": 511,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -81,8 +81,8 @@
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 274,
-    "novos": 80,
+    "total": 273,
+    "novos": 76,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -91,8 +91,8 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 167,
-    "novos": 96,
+    "total": 164,
+    "novos": 94,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,7 +101,7 @@
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
-    "total": 54,
+    "total": 55,
     "novos": 21,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -111,8 +111,8 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 361,
-    "novos": 217,
+    "total": 356,
+    "novos": 207,
     "paginasOk": 8,
     "paginasFalhas": 0,
     "parcial": false,
@@ -121,8 +121,8 @@
    {
     "consulta": "tablets",
     "linha": "hardware",
-    "total": 96,
-    "novos": 15,
+    "total": 97,
+    "novos": 16,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -131,9 +131,9 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 47,
-    "novos": 44,
-    "paginasOk": 1,
+    "total": 53,
+    "novos": 50,
+    "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
     "erro": null
@@ -141,8 +141,8 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 127,
-    "novos": 0,
+    "total": 130,
+    "novos": 1,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -151,7 +151,7 @@
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 71,
+    "total": 64,
     "novos": 0,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -161,8 +161,8 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 877,
-    "novos": 733,
+    "total": 878,
+    "novos": 744,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -171,8 +171,8 @@
    {
     "consulta": "ged",
     "linha": "ged",
-    "total": 17,
-    "novos": 14,
+    "total": 16,
+    "novos": 13,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -181,8 +181,8 @@
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 264,
-    "novos": 85,
+    "total": 272,
+    "novos": 92,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -201,8 +201,8 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 34,
-    "novos": 21,
+    "total": 36,
+    "novos": 23,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -211,7 +211,7 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 126,
+    "total": 130,
     "novos": 75,
     "paginasOk": 3,
     "paginasFalhas": 0,
@@ -221,7 +221,7 @@
    {
     "consulta": "indexacao documentos",
     "linha": "ged",
-    "total": 21,
+    "total": 24,
     "novos": 1,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -241,8 +241,8 @@
    {
     "consulta": "microfilme",
     "linha": "ged",
-    "total": 8,
-    "novos": 4,
+    "total": 7,
+    "novos": 3,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -252,7 +252,7 @@
     "consulta": "tratamento arquivistico",
     "linha": "ged",
     "total": 5,
-    "novos": 1,
+    "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -261,8 +261,8 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 108,
-    "novos": 41,
+    "total": 111,
+    "novos": 44,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -271,8 +271,8 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 55,
-    "novos": 47,
+    "total": 59,
+    "novos": 51,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -281,18 +281,18 @@
    {
     "consulta": "climatizacao [RJ]",
     "linha": "climatizacao",
-    "total": 5,
-    "novos": 0,
+    "total": 6,
+    "novos": 3,
     "paginasOk": 1,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 57,
-    "novos": 27,
+    "total": 62,
+    "novos": 28,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -301,7 +301,7 @@
    {
     "consulta": "locacao ar [RJ]",
     "linha": "climatizacao",
-    "total": 6,
+    "total": 5,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -320,96 +320,28 @@
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 1,
-  "paginasPerdidas": 1
+  "consultasParciais": 0,
+  "paginasPerdidas": 0
  },
  "resumo": {
-  "total": 31,
-  "prioridade": 4,
-  "avaliar": 5,
-  "triar": 8,
-  "semValor": 14,
-  "rj": 5,
-  "urgentes7d": 12,
-  "valorTotal": 167862969.35,
-  "valorRJ": 18662977.5,
-  "valorUrgentes": 97149788.26,
+  "total": 28,
+  "prioridade": 3,
+  "avaliar": 3,
+  "triar": 11,
+  "semValor": 11,
+  "rj": 4,
+  "urgentes7d": 9,
+  "valorTotal": 127765232.91,
+  "valorRJ": 18448734.3,
+  "valorUrgentes": 24938417.43,
   "suspeitos": 1,
   "porLinha": {
-   "hardware": 20,
+   "hardware": 18,
    "climatizacao": 2,
-   "ged": 11
+   "ged": 10
   }
  },
  "editais": [
-  {
-   "id": "13927801000149-2026-192",
-   "orgao": "MUNICIPIO DE SALVADOR",
-   "municipio": "Salvador",
-   "uf": "BA",
-   "objeto": "Contratação de soluções de Tecnologia da Informação e Comunicação \u0013 TIC, por meio de Sistema de Registro de Preços \u0013 SRP, destinadas a atender às necessidades da Prefeitura Municipal de Salvador, compreendendo a prestação de serviços continuados de outsourcing de ativos de TI, incluindo microcomputadores e notebooks, com fornecimento de equipamentos novos, instalação, configuração, suporte técnico on-site, manutenção corretiva e preventiva, substituição de equipamentos e gerenciamento do parque tecnológico, bem como a prestação de serviços continuados de monitoramento, gerenciamento e manutenção técnica de ativos de TI patrimônio do município, com licenciamento de software como serviço (SaaS) para inventário, diagnóstico proativo, segurança, deploy de softwares e gerenciamento remoto, incluindo o fornecimento, substituição e reposição de peças e componentes, conforme condições, quantidades, níveis de serviço e especificações estabelecidas no Termo de Referência e seus anexos.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-08-24T09:00",
-   "diasRestantes": 0,
-   "valorEstimado": 71278694.76,
-   "qtdItens": 2,
-   "modulos": [
-    "locacao de computador",
-    "outsourcing",
-    "notebook",
-    "microcomputador",
-    "locacao",
-    "computador",
-    "suporte tecnico",
-    "instalacao",
-    "prestacao de servicos"
-   ],
-   "ader": 100,
-   "score": 100,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/13927801000149/2026/192"
-  },
-  {
-   "id": "11294386000108-2026-133",
-   "orgao": "MUNICIPIO DE IPOJUCA",
-   "municipio": "Ipojuca",
-   "uf": "PE",
-   "objeto": "Registro de Preços para contratação de empresa especializada para a prestação de serviços de locação de equipamentos de informática, contemplando estações de trabalho (computadores desktop) e notebooks corporativos da Administração Direta e Indireta da Prefeitura MUNICIPAL do IPOJUCA.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-09-02T09:00",
-   "diasRestantes": 9,
-   "valorEstimado": 12236880,
-   "qtdItens": 4,
-   "modulos": [
-    "locacao de equipamentos de informatica",
-    "equipamentos de informatica",
-    "estacoes de trabalho",
-    "notebook",
-    "desktop",
-    "locacao",
-    "computador",
-    "informatica",
-    "prestacao de servicos"
-   ],
-   "ader": 100,
-   "score": 88,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/11294386000108/2026/133"
-  },
   {
    "id": "58200015000183-2026-334",
    "orgao": "MUNICIPIO DE SANTOS",
@@ -421,7 +353,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-01T10:00",
-   "diasRestantes": 8,
+   "diasRestantes": 7,
    "valorEstimado": 15323923.68,
    "qtdItens": 1,
    "modulos": [
@@ -437,13 +369,47 @@
     "prestacao de servicos"
    ],
    "ader": 100,
-   "score": 88,
+   "score": 95,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
    "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/334"
+  },
+  {
+   "id": "11294386000108-2026-133",
+   "orgao": "MUNICIPIO DE IPOJUCA",
+   "municipio": "Ipojuca",
+   "uf": "PE",
+   "objeto": "Registro de Preços para contratação de empresa especializada para a prestação de serviços de locação de equipamentos de informática, contemplando estações de trabalho (computadores desktop) e notebooks corporativos da Administração Direta e Indireta da Prefeitura MUNICIPAL do IPOJUCA.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-09-02T09:00",
+   "diasRestantes": 8,
+   "valorEstimado": 12236880,
+   "qtdItens": 4,
+   "modulos": [
+    "locacao de equipamentos de informatica",
+    "equipamentos de informatica",
+    "estacoes de trabalho",
+    "notebook",
+    "desktop",
+    "locacao",
+    "computador",
+    "informatica",
+    "prestacao de servicos"
+   ],
+   "ader": 100,
+   "score": 89,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/11294386000108/2026/133"
   },
   {
    "id": "34023077000107-2026-56",
@@ -456,7 +422,7 @@
     "climatizacao"
    ],
    "fimVigencia": "2026-08-31T10:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 1019986,
    "qtdItens": 6,
    "modulos": [
@@ -466,7 +432,7 @@
     "acervo"
    ],
    "ader": 73,
-   "score": 85,
+   "score": 86,
    "suspeito": [],
    "semPiso": true,
    "valorConhecido": true,
@@ -475,123 +441,36 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/34023077000107/2026/56"
   },
   {
-   "id": "46634101000115-2026-344",
-   "orgao": "MUNICIPIO DE BOTUCATU",
-   "municipio": "Botucatu",
-   "uf": "SP",
-   "objeto": "CONTRATAÇÃO DE SOLUÇÃO DE LOCAÇÃO DE ESTAÇÕES DE TRABALHO, COMPREENDENDO FORNECIMENTO, INSTALAÇÃO, CONFIGURAÇÃO, MIGRAÇÃO DE DADOS, TESTES, IMPLANTAÇÃO E ENTRADA EM OPERAÇÃO (ROLLOUT), SUPORTE TÉCNICO PRESENCIAL E REMOTO, MANUTENÇÃO PREVENTIVA E CORRETIVA, E SUBSTITUIÇÃO DE EQUIPAMENTOS DEFEITUOSOS",
+   "id": "22980973000177-2026-164",
+   "orgao": "FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV",
+   "municipio": "Belém",
+   "uf": "PA",
+   "objeto": "Contratação de empresa especializada para prestação de serviços continuados de impressão \ncorporativa (Outsourcing) na modalidade franquia mensal de páginas mais excedente, \ncontemplando impressão, cópia e digitalização de documentos, com fornecimento, instalação, \nconfiguração e manutenção dos equipamentos, cessão de direito de uso de softwares de \ngerenciamento e bilhetagem, assistência técnica, monitoramento dos ativos e fornecimento de \ninsumos necessários à execução dos serviços, para atend",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-08-24T09:00",
-   "diasRestantes": 0,
-   "valorEstimado": 9760200,
-   "qtdItens": 4,
-   "modulos": [
-    "estacoes de trabalho",
-    "locacao",
-    "computador",
-    "manutencao preventiva",
-    "suporte tecnico",
-    "instalacao"
-   ],
-   "ader": 63,
-   "score": 79,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/46634101000115/2026/344"
-  },
-  {
-   "id": "29846003000122-2026-2",
-   "orgao": "SAO GONCALO CAMARA MUNICIPAL",
-   "municipio": "São Gonçalo",
-   "uf": "RJ",
-   "objeto": "Registro de preços para Contratação de empresa especializada em prestação de serviços de locação mensal de 80 Desktops completos com Processador Core I3 de 10ª geração ou superior, 8GB de memória, SDD 240GB, com Licença do Windows 11 profissional PT-BR, Pacote Office: Word, Excel, Outlook e PowerPoint (versão atual), antivírus corporativo (Bitdefender, Kaspersky, McAfee ou equivalente), monitor LED de 21,5 polegadas, mouse e teclado USB, conforme demais especicações contidas no TR.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-08-24T11:00",
-   "diasRestantes": 0,
-   "valorEstimado": 214243.2,
-   "qtdItens": 1,
-   "modulos": [
-    "estacao de trabalho",
-    "desktop",
-    "locacao",
-    "prestacao de servicos"
-   ],
-   "ader": 51,
-   "score": 77,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/29846003000122/2026/2"
-  },
-  {
-   "id": "00394452000103-2026-16373",
-   "orgao": "COMANDO DO EXERCITO",
-   "municipio": "Rio de Janeiro",
-   "uf": "RJ",
-   "objeto": "O objeto da presente licitação é a Contratação de empresa especializada em prestação de serviços de tratamento de documentos, higienização, classificação, catalogação, digitalização, indexação e disponibilização de versão digital em sistemas informatizados e suporte micrográfico, para atender as demandas do Colégio Militar do Rio de Janeiro conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
+    "hardware",
     "ged"
    ],
-   "fimVigencia": "2026-08-26T09:00",
-   "diasRestantes": 2,
-   "valorEstimado": 8569464.3,
+   "fimVigencia": "2026-09-04T09:00",
+   "diasRestantes": 10,
+   "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
     "digitalizacao",
-    "indexacao",
+    "outsourcing",
+    "locacao",
+    "assistencia tecnica",
+    "instalacao",
     "prestacao de servicos"
    ],
-   "ader": 43,
-   "score": 77,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/00394452000103/2026/16373"
-  },
-  {
-   "id": "54127680000138-2026-27",
-   "orgao": "SECRETARIA DE ESTADO DE POLITICAS PARA AS MULHERES - SPM",
-   "municipio": "Aracaju",
-   "uf": "SE",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS CONTÍNUOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA EM APARELHOS DE AR-CONDICIONADO, COM FORNECIMENTO E SUBSTITUIÇÃO DE PEÇAS, COMPONENTES E INSUMOS NECESSÁRIOS, VISANDO ASSEGURAR O PLENO FUNCIONAMENTO, EFICIÊNCIA ENERGÉTICA, SEGURANÇA OPERACIONAL E CONSERVAÇÃO DOS EQUIPAMENTOS",
-   "modalidade": "Dispensa",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-08-24T08:00",
-   "diasRestantes": 0,
-   "valorEstimado": 0,
-   "qtdItens": 5,
-   "modulos": [
-    "ar condicionado",
-    "ar-condicionado",
-    "refrigeracao",
-    "split",
-    "manutencao preventiva",
-    "prestacao de servicos"
-   ],
-   "ader": 81,
+   "ader": 69,
    "score": 71,
    "suspeito": [],
    "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/54127680000138/2026/27"
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/22980973000177/2026/164"
   },
   {
    "id": "13937032000160-2026-2250",
@@ -604,7 +483,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-08T10:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -627,67 +506,32 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/13937032000160/2026/2250"
   },
   {
-   "id": "22980973000177-2026-164",
-   "orgao": "FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV",
-   "municipio": "Belém",
-   "uf": "PA",
-   "objeto": "Contratação de empresa especializada para prestação de serviços continuados de impressão \ncorporativa (Outsourcing) na modalidade franquia mensal de páginas mais excedente, \ncontemplando impressão, cópia e digitalização de documentos, com fornecimento, instalação, \nconfiguração e manutenção dos equipamentos, cessão de direito de uso de softwares de \ngerenciamento e bilhetagem, assistência técnica, monitoramento dos ativos e fornecimento de \ninsumos necessários à execução dos serviços, para atend",
+   "id": "00394452000103-2026-16373",
+   "orgao": "COMANDO DO EXERCITO",
+   "municipio": "Rio de Janeiro",
+   "uf": "RJ",
+   "objeto": "O objeto da presente licitação é a Contratação de empresa especializada em prestação de serviços de tratamento de documentos, higienização, classificação, catalogação, digitalização, indexação e disponibilização de versão digital em sistemas informatizados e suporte micrográfico, para atender as demandas do Colégio Militar do Rio de Janeiro conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware",
     "ged"
    ],
-   "fimVigencia": "2026-09-04T09:00",
-   "diasRestantes": 11,
-   "valorEstimado": 2115039.96,
+   "fimVigencia": "2026-09-09T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 8569464.3,
    "qtdItens": 10,
    "modulos": [
     "digitalizacao",
-    "outsourcing",
-    "locacao",
-    "assistencia tecnica",
-    "instalacao",
+    "indexacao",
     "prestacao de servicos"
    ],
-   "ader": 69,
-   "score": 70,
+   "ader": 43,
+   "score": 67,
    "suspeito": [],
-   "semPiso": false,
+   "semPiso": true,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/22980973000177/2026/164"
-  },
-  {
-   "id": "12474705000120-2026-270",
-   "orgao": "HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE BOTUCATU",
-   "municipio": "Botucatu",
-   "uf": "SP",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA (MICROCOMPUTADORES) PARA O COMPLEXO ASSISTENCIAL DO HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-08-24T09:00",
-   "diasRestantes": 0,
-   "valorEstimado": 0,
-   "qtdItens": 2,
-   "modulos": [
-    "equipamentos de informatica",
-    "microcomputador",
-    "locacao",
-    "computador",
-    "informatica",
-    "prestacao de servicos"
-   ],
-   "ader": 76,
-   "score": 68,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/12474705000120/2026/270"
+   "pncpUrl": "https://pncp.gov.br/app/editais/00394452000103/2026/16373"
   },
   {
    "id": "14043574000151-2026-300",
@@ -700,7 +544,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-08-25T08:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 6307200,
    "qtdItens": 1,
    "modulos": [
@@ -709,7 +553,7 @@
     "prestacao de servicos"
    ],
    "ader": 34,
-   "score": 64,
+   "score": 65,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
@@ -728,7 +572,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-04T09:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
@@ -748,6 +592,36 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/22980973000177/2026/165"
   },
   {
+   "id": "06242846000114-2026-47",
+   "orgao": "MUNICIPIO DE ARARI",
+   "municipio": "Arari",
+   "uf": "MA",
+   "objeto": "Registro de preços para contratação de empresa especializada para realização de serviço de Manutenção Preventiva nos equipamentos de informatica em Geral das secretarias municipais de Arari – MA.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-08-28T08:30",
+   "diasRestantes": 3,
+   "valorEstimado": 0,
+   "qtdItens": 10,
+   "modulos": [
+    "equipamentos de informatica",
+    "notebook",
+    "computador",
+    "informatica",
+    "manutencao preventiva"
+   ],
+   "ader": 64,
+   "score": 62,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/06242846000114/2026/47"
+  },
+  {
    "id": "28538734000148-2026-190",
    "orgao": "TRIBUNAL DE JUSTICA DO ESTADO DO RIO DE JANEIRO",
    "municipio": "Rio de Janeiro",
@@ -758,7 +632,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-03T14:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 8859284,
    "qtdItens": 4,
    "modulos": [
@@ -766,13 +640,40 @@
     "computador"
    ],
    "ader": 32,
-   "score": 61,
+   "score": 62,
    "suspeito": [],
    "semPiso": true,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
    "pncpUrl": "https://pncp.gov.br/app/editais/28538734000148/2026/190"
+  },
+  {
+   "id": "45780103000150-2026-896",
+   "orgao": "MUNICIPIO DE JUNDIAI",
+   "municipio": "Jundiaí",
+   "uf": "SP",
+   "objeto": "MICROCOMPUTADOR AVANCADO, MICROCOMPUTADOR INTERMEDIARIO COMPLETO E OUTROS",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-09-01T09:30",
+   "diasRestantes": 7,
+   "valorEstimado": 2287307.75,
+   "qtdItens": 4,
+   "modulos": [
+    "microcomputador",
+    "computador"
+   ],
+   "ader": 32,
+   "score": 59,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/45780103000150/2026/896"
   },
   {
    "id": "07954480000179-2026-20811",
@@ -785,7 +686,7 @@
     "ged"
    ],
    "fimVigencia": "2026-08-26T09:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 4,
    "modulos": [
@@ -803,25 +704,24 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/07954480000179/2026/20811"
   },
   {
-   "id": "06242846000114-2026-47",
-   "orgao": "MUNICIPIO DE ARARI",
-   "municipio": "Arari",
-   "uf": "MA",
-   "objeto": "Registro de preços para contratação de empresa especializada para realização de serviço de Manutenção Preventiva nos equipamentos de informatica em Geral das secretarias municipais de Arari – MA.",
+   "id": "14147490000168-2026-77",
+   "orgao": "MUNICIPIO DE ITABUNA",
+   "municipio": "Itabuna",
+   "uf": "BA",
+   "objeto": "[LICITANET] - CONTRATAÇÃO DOS SERVIÇOS DE OUTSOURCING DE IMPRESSÃO COM ALOCAÇÃO DE EQUIPAMENTOS PARA IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO DE DOCUMENTOS; FORNECIMENTO CONTÍNUO DE CONSUMÍVEIS DE IMPRESSÃO (EXCETO PAPEL); SOLUÇÃO COMPLETA DE GERENCIAMENTO E SUPORTE TÉCNICO PREVENTIVO E CORRETIVO PARA FINS DE ATENDIMENTO ÀS NECESSIDADES DAS DIVERSAS SECRETARIAS DA PREFEITURA DO MUNICÍPIO DE ITABUNA.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware"
+    "ged"
    ],
-   "fimVigencia": "2026-08-28T08:30",
-   "diasRestantes": 4,
+   "fimVigencia": "2026-09-01T09:00",
+   "diasRestantes": 7,
    "valorEstimado": 0,
-   "qtdItens": 10,
+   "qtdItens": 1,
    "modulos": [
-    "equipamentos de informatica",
-    "notebook",
-    "computador",
-    "informatica",
-    "manutencao preventiva"
+    "digitalizacao",
+    "outsourcing",
+    "locacao",
+    "suporte tecnico"
    ],
    "ader": 64,
    "score": 58,
@@ -830,36 +730,7 @@
    "valorConhecido": false,
    "passaPiso": false,
    "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/06242846000114/2026/47"
-  },
-  {
-   "id": "03485324000155-2026-8",
-   "orgao": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC",
-   "municipio": "Recife",
-   "uf": "PE",
-   "objeto": "Contratação de empresa especializada na prestação de serviços de impressão, cópias e digitalização (impressão corporativa ou outsourcing) com o fornecimento e instalação de equipamentos de impressora multifuncionais de tecnologia laser/led/jato de tinta, monocromática (preto e branco), policromática (colorida), bem como solução de softwares de gerenciamento e contabilização (bilhetagem) de impressão, cópia e digitalização com provimento de todos os suprimentos...",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "ged"
-   ],
-   "fimVigencia": "2026-08-24T10:00",
-   "diasRestantes": 0,
-   "valorEstimado": 0,
-   "qtdItens": 1,
-   "modulos": [
-    "digitalizacao",
-    "outsourcing",
-    "instalacao",
-    "prestacao de servicos"
-   ],
-   "ader": 53,
-   "score": 57,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/03485324000155/2026/8"
+   "pncpUrl": "https://pncp.gov.br/app/editais/14147490000168/2026/77"
   },
   {
    "id": "21505692000108-2026-56",
@@ -872,7 +743,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-02T08:55",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 14990842.01,
    "qtdItens": 2,
    "modulos": [
@@ -881,7 +752,7 @@
     "prestacao de servicos"
    ],
    "ader": 32,
-   "score": 54,
+   "score": 55,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
@@ -900,7 +771,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-04T09:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 3676750.21,
    "qtdItens": 10,
    "modulos": [
@@ -910,7 +781,7 @@
     "instalacao"
    ],
    "ader": 35,
-   "score": 54,
+   "score": 55,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
@@ -929,7 +800,7 @@
     "climatizacao"
    ],
    "fimVigencia": "2026-09-10T08:00",
-   "diasRestantes": 17,
+   "diasRestantes": 16,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -948,60 +819,89 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/32512501000143/2026/337"
   },
   {
-   "id": "45780103000150-2026-896",
-   "orgao": "MUNICIPIO DE JUNDIAI",
-   "municipio": "Jundiaí",
-   "uf": "SP",
-   "objeto": "MICROCOMPUTADOR AVANCADO, MICROCOMPUTADOR INTERMEDIARIO COMPLETO E OUTROS",
+   "id": "08597121000174-2026-320",
+   "orgao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
+   "municipio": "Curitiba",
+   "uf": "PR",
+   "objeto": "Prestação de serviços de Lavanderia Hospitalar com locação de enxoval que permita a rastreabilidade por RFID, bem como o fornecimento, em regime de comodato, dos equipamentos necessários à execução dos serviços, para atender a demanda das unidades do Hospital do Trabalhador HT, Hospital de Reabilitação Ana Carolina Moura Xavier HR, Hospital Osvaldo Cruz HOC, Ambulatório Médico de Especialidades AME e Hospital Regional da Lapa São Sebastião HRLSS, integrantes do Complexo Hospitalar do Trabalhador  CHT",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
     "hardware"
    ],
-   "fimVigencia": "2026-09-01T09:30",
-   "diasRestantes": 8,
-   "valorEstimado": 2287307.75,
-   "qtdItens": 4,
+   "fimVigencia": "2026-09-11T09:00",
+   "diasRestantes": 17,
+   "valorEstimado": 31618632,
+   "qtdItens": 5,
    "modulos": [
-    "microcomputador",
-    "computador"
+    "locacao",
+    "comodato",
+    "prestacao de servicos"
    ],
    "ader": 32,
-   "score": 52,
+   "score": 50,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/45780103000150/2026/896"
+   "pncpUrl": "https://pncp.gov.br/app/editais/08597121000174/2026/320"
   },
   {
-   "id": "14147490000168-2026-77",
-   "orgao": "MUNICIPIO DE ITABUNA",
-   "municipio": "Itabuna",
-   "uf": "BA",
-   "objeto": "[LICITANET] - CONTRATAÇÃO DOS SERVIÇOS DE OUTSOURCING DE IMPRESSÃO COM ALOCAÇÃO DE EQUIPAMENTOS PARA IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO DE DOCUMENTOS; FORNECIMENTO CONTÍNUO DE CONSUMÍVEIS DE IMPRESSÃO (EXCETO PAPEL); SOLUÇÃO COMPLETA DE GERENCIAMENTO E SUPORTE TÉCNICO PREVENTIVO E CORRETIVO PARA FINS DE ATENDIMENTO ÀS NECESSIDADES DAS DIVERSAS SECRETARIAS DA PREFEITURA DO MUNICÍPIO DE ITABUNA.",
+   "id": "27174143000176-2026-96",
+   "orgao": "MUNICIPIO DE SAO GABRIEL DA PALHA",
+   "municipio": "São Gabriel da Palha",
+   "uf": "ES",
+   "objeto": "[Portal de Compras Públicas] - Constituição de Ata de Registro de Preços, para futura e eventual Contratação de empresa especializada no fornecimento, locação, instalação, configuração, integração, manutenção preventiva e corretiva, suporte técnico e operação assistida de equipamentos, softwares e infraestrutura destinados à operação do sistema de videomonitoramento e da infraestrutura de telecomunicações do Município de São Gabriel da Palha, contemplando equipamentos softwares, serviço de instalação, manutenção e suporte técnico, conforme condições e exigências estabelecidas no ETP e no Termo de Referência.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "ged"
+    "hardware"
    ],
-   "fimVigencia": "2026-09-01T09:00",
-   "diasRestantes": 8,
-   "valorEstimado": 0,
-   "qtdItens": 1,
+   "fimVigencia": "2026-09-09T12:59",
+   "diasRestantes": 16,
+   "valorEstimado": 6901883.52,
+   "qtdItens": 8,
    "modulos": [
-    "digitalizacao",
-    "outsourcing",
     "locacao",
-    "suporte tecnico"
+    "manutencao preventiva",
+    "suporte tecnico",
+    "instalacao"
    ],
-   "ader": 64,
-   "score": 52,
+   "ader": 31,
+   "score": 47,
    "suspeito": [],
    "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/14147490000168/2026/77"
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/27174143000176/2026/96"
+  },
+  {
+   "id": "08597121000174-2026-319",
+   "orgao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
+   "municipio": "Curitiba",
+   "uf": "PR",
+   "objeto": "Prestação de serviços de Lavanderia Hospitalar com locação de enxoval que permita a rastreabilidade por RFID, bem como o fornecimento, em regime de comodato, dos equipamentos necessários à execução dos serviços, para atender a demanda das unidades do Hospital do Trabalhador (HT) -  Lote 1; Hospital de Reabilitação Ana Carolina Moura Xavier (HR) – Lote 2; Hospital Osvaldo Cruz (HOC) – Lote 3; Ambulatório Médico de Especialidades (AME) – Lote 4; e Hospital Regional da Lapa São Sebastião (HRLSS) – ",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-09-11T09:00",
+   "diasRestantes": 17,
+   "valorEstimado": 2634886,
+   "qtdItens": 5,
+   "modulos": [
+    "locacao",
+    "comodato",
+    "prestacao de servicos"
+   ],
+   "ader": 32,
+   "score": 47,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/08597121000174/2026/319"
   },
   {
    "id": "19718360000151-2026-116",
@@ -1014,7 +914,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-10T09:29",
-   "diasRestantes": 17,
+   "diasRestantes": 16,
    "valorEstimado": 2206230,
    "qtdItens": 5,
    "modulos": [
@@ -1024,7 +924,7 @@
     "prestacao de servicos"
    ],
    "ader": 30,
-   "score": 45,
+   "score": 46,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
@@ -1043,7 +943,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-14T13:30",
-   "diasRestantes": 22,
+   "diasRestantes": 21,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -1072,7 +972,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-08-31T07:59",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 0,
    "qtdItens": 6,
    "modulos": [
@@ -1102,7 +1002,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-03T09:00",
-   "diasRestantes": 10,
+   "diasRestantes": 9,
    "valorEstimado": 0,
    "qtdItens": 5,
    "modulos": [
@@ -1129,7 +1029,7 @@
     "hardware"
    ],
    "fimVigencia": "2027-07-22T12:59",
-   "diasRestantes": 333,
+   "diasRestantes": 332,
    "valorEstimado": 6901883.52,
    "qtdItens": 8,
    "modulos": [
@@ -1139,13 +1039,40 @@
     "instalacao"
    ],
    "ader": 31,
-   "score": 40,
+   "score": 41,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
    "pncpUrl": "https://pncp.gov.br/app/editais/27174143000176/2026/70"
+  },
+  {
+   "id": "34079590000101-2026-36",
+   "orgao": "EMASA EMPRESA MUNICIPAL DE AGUAS E SANEAMENTO S A",
+   "municipio": "Itabuna",
+   "uf": "BA",
+   "objeto": "A contratação de empresa especializada na prestação de serviços de Plataforma SaaS (Software as a Service) integrada de Gestão Documental, Processo Administrativo Eletrônico e Atendimento Digital ao Cidadão, conforme disposto neste Edital e em seus Anexos, que fazem parte integrante deste instrumento.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "ged"
+   ],
+   "fimVigencia": "2026-08-31T14:00",
+   "diasRestantes": 7,
+   "valorEstimado": 0,
+   "qtdItens": 1,
+   "modulos": [
+    "gestao documental",
+    "prestacao de servicos"
+   ],
+   "ader": 30,
+   "score": 41,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/34079590000101/2026/36"
   },
   {
    "id": "00000208000100-2026-8",
@@ -1158,7 +1085,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-02T08:59",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1176,33 +1103,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/00000208000100/2026/8"
   },
   {
-   "id": "34079590000101-2026-36",
-   "orgao": "EMASA EMPRESA MUNICIPAL DE AGUAS E SANEAMENTO S A",
-   "municipio": "Itabuna",
-   "uf": "BA",
-   "objeto": "A contratação de empresa especializada na prestação de serviços de Plataforma SaaS (Software as a Service) integrada de Gestão Documental, Processo Administrativo Eletrônico e Atendimento Digital ao Cidadão, conforme disposto neste Edital e em seus Anexos, que fazem parte integrante deste instrumento.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "ged"
-   ],
-   "fimVigencia": "2026-08-31T14:00",
-   "diasRestantes": 8,
-   "valorEstimado": 0,
-   "qtdItens": 1,
-   "modulos": [
-    "gestao documental",
-    "prestacao de servicos"
-   ],
-   "ader": 30,
-   "score": 35,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/34079590000101/2026/36"
-  },
-  {
    "id": "18557561000151-2026-116",
    "orgao": "MUNICIPIO DE NAZARENO",
    "municipio": "Nazareno",
@@ -1214,7 +1114,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-10T08:30",
-   "diasRestantes": 17,
+   "diasRestantes": 16,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -1242,7 +1142,7 @@
     "ged"
    ],
    "fimVigencia": "2027-04-28T00:00",
-   "diasRestantes": 247,
+   "diasRestantes": 246,
    "valorEstimado": 0.15,
    "qtdItens": 1,
    "modulos": [
