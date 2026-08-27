@@ -1,6 +1,6 @@
 {
- "gerado": "2026-08-26T08:13:29.851Z",
- "referencia": "2026-08-26",
+ "gerado": "2026-08-27T12:12:43.387Z",
+ "referencia": "2026-08-27",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
  "regraValor": {
@@ -10,29 +10,29 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2625,
-  "excluidosPorPalavraChave": 1352,
-  "excluidosQueSeriamCandidatos": 85,
+  "universoAberto": 2494,
+  "excluidosPorPalavraChave": 1271,
+  "excluidosQueSeriamCandidatos": 82,
   "custoPorTermo": {
    "aquisicao": 68,
-   "fornecimento": 15
+   "fornecimento": 12
   },
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1159,
+  "descartadosPorAderencia": 1109,
   "candidatos": 114,
   "itensObtidos": 114,
   "itensFalhou": 0,
-  "foraPorValor": 80,
+  "foraPorValor": 79,
   "semValorPublicado": 13,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 475,
-    "novos": 475,
+    "total": 484,
+    "novos": 482,
     "paginasOk": 10,
     "paginasFalhas": 0,
     "parcial": false,
@@ -41,8 +41,8 @@
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 16,
-    "novos": 3,
+    "total": 22,
+    "novos": 4,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -52,7 +52,7 @@
     "consulta": "chromebook",
     "linha": "hardware",
     "total": 13,
-    "novos": 4,
+    "novos": 3,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -61,8 +61,8 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 256,
-    "novos": 115,
+    "total": 261,
+    "novos": 120,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -71,8 +71,8 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 932,
-    "novos": 506,
+    "total": 927,
+    "novos": 501,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -82,7 +82,7 @@
     "consulta": "microcomputador",
     "linha": "hardware",
     "total": 274,
-    "novos": 75,
+    "novos": 65,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -91,8 +91,8 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 164,
-    "novos": 92,
+    "total": 152,
+    "novos": 84,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,9 +101,9 @@
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
-    "total": 56,
-    "novos": 18,
-    "paginasOk": 2,
+    "total": 49,
+    "novos": 15,
+    "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
     "erro": null
@@ -111,18 +111,18 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 334,
-    "novos": 195,
-    "paginasOk": 7,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 309,
+    "novos": 148,
+    "paginasOk": 6,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "tablets",
     "linha": "hardware",
-    "total": 96,
-    "novos": 20,
+    "total": 85,
+    "novos": 21,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -131,9 +131,9 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 52,
-    "novos": 49,
-    "paginasOk": 2,
+    "total": 49,
+    "novos": 46,
+    "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
     "erro": null
@@ -141,8 +141,8 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 129,
-    "novos": 1,
+    "total": 126,
+    "novos": 0,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -151,7 +151,7 @@
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 58,
+    "total": 60,
     "novos": 0,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -161,9 +161,9 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 875,
-    "novos": 742,
-    "paginasOk": 18,
+    "total": 819,
+    "novos": 688,
+    "paginasOk": 17,
     "paginasFalhas": 0,
     "parcial": false,
     "erro": null
@@ -171,8 +171,8 @@
    {
     "consulta": "ged",
     "linha": "ged",
-    "total": 17,
-    "novos": 14,
+    "total": 18,
+    "novos": 15,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -181,8 +181,8 @@
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 278,
-    "novos": 97,
+    "total": 272,
+    "novos": 95,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -201,8 +201,8 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 37,
-    "novos": 21,
+    "total": 33,
+    "novos": 20,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -211,8 +211,8 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 132,
-    "novos": 72,
+    "total": 128,
+    "novos": 73,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -221,7 +221,7 @@
    {
     "consulta": "indexacao documentos",
     "linha": "ged",
-    "total": 22,
+    "total": 19,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -231,8 +231,8 @@
    {
     "consulta": "microfilmagem",
     "linha": "ged",
-    "total": 2,
-    "novos": 2,
+    "total": 3,
+    "novos": 3,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -251,7 +251,7 @@
    {
     "consulta": "tratamento arquivistico",
     "linha": "ged",
-    "total": 5,
+    "total": 3,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -261,9 +261,9 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 104,
-    "novos": 40,
-    "paginasOk": 3,
+    "total": 96,
+    "novos": 34,
+    "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
     "erro": null
@@ -271,8 +271,8 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 59,
-    "novos": 50,
+    "total": 57,
+    "novos": 48,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -281,8 +281,8 @@
    {
     "consulta": "climatizacao [RJ]",
     "linha": "climatizacao",
-    "total": 6,
-    "novos": 3,
+    "total": 5,
+    "novos": 2,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -291,8 +291,8 @@
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 60,
-    "novos": 28,
+    "total": 56,
+    "novos": 24,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -301,7 +301,7 @@
    {
     "consulta": "locacao ar [RJ]",
     "linha": "climatizacao",
-    "total": 6,
+    "total": 5,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -311,7 +311,7 @@
    {
     "consulta": "btus [RJ]",
     "linha": "climatizacao",
-    "total": 9,
+    "total": 10,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -320,23 +320,23 @@
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 0,
-  "paginasPerdidas": 0
+  "consultasParciais": 1,
+  "paginasPerdidas": 1
  },
  "resumo": {
-  "total": 34,
-  "prioridade": 4,
+  "total": 35,
+  "prioridade": 5,
   "avaliar": 6,
   "triar": 11,
   "semValor": 13,
   "rj": 7,
   "urgentes7d": 14,
-  "valorTotal": 242928770.7,
+  "valorTotal": 246595825.02,
   "valorRJ": 18477946.09,
   "valorUrgentes": 45888151.23,
   "suspeitos": 1,
   "porLinha": {
-   "hardware": 23,
+   "hardware": 24,
    "climatizacao": 4,
    "ged": 12
   }
@@ -353,7 +353,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-01T10:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 15323923.68,
    "qtdItens": 1,
    "modulos": [
@@ -388,7 +388,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-02T09:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 12236880,
    "qtdItens": 4,
    "modulos": [
@@ -422,7 +422,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-08-28T08:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 12000,
    "qtdItens": 1,
    "modulos": [
@@ -451,7 +451,7 @@
     "climatizacao"
    ],
    "fimVigencia": "2026-08-31T10:00",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 1019986,
    "qtdItens": 6,
    "modulos": [
@@ -470,6 +470,37 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/34023077000107/2026/56"
   },
   {
+   "id": "44531788000138-2026-168",
+   "orgao": "MUNICIPIO DE LINS",
+   "municipio": "Lins",
+   "uf": "SP",
+   "objeto": "CONTRATAÇAO DE EMPRESA PARA LOCAÇÃO DE MICROCOMPUTADORES, MONITORES E NOTEBOOKS (OUTSOURCING DE HARDWARE)",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-09-15T08:30",
+   "diasRestantes": 19,
+   "valorEstimado": 3667054.32,
+   "qtdItens": 6,
+   "modulos": [
+    "locacao de microcomputador",
+    "outsourcing",
+    "notebook",
+    "microcomputador",
+    "locacao",
+    "computador"
+   ],
+   "ader": 100,
+   "score": 80,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/44531788000138/2026/168"
+  },
+  {
    "id": "00394502000144-2026-10424",
    "orgao": "COMANDO DA MARINHA",
    "municipio": "Rio de Janeiro",
@@ -481,7 +512,7 @@
     "climatizacao"
    ],
    "fimVigencia": "2026-08-31T08:47",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 6457.79,
    "qtdItens": 10,
    "modulos": [
@@ -511,7 +542,7 @@
     "climatizacao"
    ],
    "fimVigencia": "2026-09-01T09:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 10754,
    "qtdItens": 2,
    "modulos": [
@@ -539,7 +570,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-08T10:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -573,7 +604,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-04T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
@@ -604,7 +635,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-09T09:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 8569464.3,
    "qtdItens": 10,
    "modulos": [
@@ -632,7 +663,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-10T09:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 2917080,
    "qtdItens": 6,
    "modulos": [
@@ -661,7 +692,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-04T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
@@ -691,7 +722,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-08-28T08:30",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -721,7 +752,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-03T14:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 8859284,
    "qtdItens": 4,
    "modulos": [
@@ -748,7 +779,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-02T08:55",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 14990842.01,
    "qtdItens": 2,
    "modulos": [
@@ -776,7 +807,7 @@
     "climatizacao"
    ],
    "fimVigencia": "2026-09-10T08:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -795,34 +826,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/32512501000143/2026/337"
   },
   {
-   "id": "07954480000179-2026-20811",
-   "orgao": "ESTADO DO CEARA",
-   "municipio": "Fortaleza",
-   "uf": "CE",
-   "objeto": "SERVIÇOS CONTINUADOS DE IMPRESSÃO,CÓPIA,DIGITALIZAÇÃO, CARACTERIZADOS COMO \" OUTSOURCING DE IMPRESSÃO\"",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "ged"
-   ],
-   "fimVigencia": "2026-08-26T09:00",
-   "diasRestantes": 0,
-   "valorEstimado": 0,
-   "qtdItens": 4,
-   "modulos": [
-    "digitalizacao",
-    "outsourcing",
-    "locacao"
-   ],
-   "ader": 58,
-   "score": 59,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/07954480000179/2026/20811"
-  },
-  {
    "id": "45780103000150-2026-896",
    "orgao": "MUNICIPIO DE JUNDIAI",
    "municipio": "Jundiaí",
@@ -833,7 +836,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-01T09:30",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 2287307.75,
    "qtdItens": 4,
    "modulos": [
@@ -861,7 +864,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-14T09:15",
-   "diasRestantes": 19,
+   "diasRestantes": 18,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -891,7 +894,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-01T09:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -920,7 +923,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-08T10:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 89540700,
    "qtdItens": 1,
    "modulos": [
@@ -947,7 +950,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-04T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 3676750.21,
    "qtdItens": 10,
    "modulos": [
@@ -966,6 +969,62 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/41090291000133/2026/182"
   },
   {
+   "id": "08597121000174-2026-319",
+   "orgao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
+   "municipio": "Curitiba",
+   "uf": "PR",
+   "objeto": "A prestação de serviços de Lavanderia Hospitalar com locação de enxoval que permita a rastreabilidade por RFID, bem como o fornecimento, em regime de comodato, dos equipamentos necessários à execução dos serviços, para atender a demanda das unidades do Hospital do Trabalhador (HT) -  Lote 1; Hospital de Reabilitação Ana Carolina Moura Xavier (HR) – Lote 2; Hospital Osvaldo Cruz (HOC) – Lote 3; Ambulatório Médico de Especialidades (AME) – Lote 4; e Hospital Regional da Lapa São Sebastião (HRLSS) – ",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-09-11T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 31618632,
+   "qtdItens": 5,
+   "modulos": [
+    "locacao",
+    "comodato",
+    "prestacao de servicos"
+   ],
+   "ader": 32,
+   "score": 54,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/08597121000174/2026/319"
+  },
+  {
+   "id": "08597121000174-2026-320",
+   "orgao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
+   "municipio": "Curitiba",
+   "uf": "PR",
+   "objeto": "Prestação de serviços de Lavanderia Hospitalar com locação de enxoval que permita a rastreabilidade por RFID, bem como o fornecimento, em regime de comodato, dos equipamentos necessários à execução dos serviços, para atender a demanda das unidades do Hospital do Trabalhador HT, Hospital de Reabilitação Ana Carolina Moura Xavier HR, Hospital Osvaldo Cruz HOC, Ambulatório Médico de Especialidades AME e Hospital Regional da Lapa São Sebastião HRLSS, integrantes do Complexo Hospitalar do Trabalhador  CHT",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-09-11T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 31618632,
+   "qtdItens": 5,
+   "modulos": [
+    "locacao",
+    "comodato",
+    "prestacao de servicos"
+   ],
+   "ader": 32,
+   "score": 54,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/08597121000174/2026/320"
+  },
+  {
    "id": "27174143000176-2026-96",
    "orgao": "MUNICIPIO DE SAO GABRIEL DA PALHA",
    "municipio": "São Gabriel da Palha",
@@ -976,7 +1035,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-09T12:59",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 6901883.52,
    "qtdItens": 8,
    "modulos": [
@@ -1005,7 +1064,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-10T09:29",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 2206230,
    "qtdItens": 5,
    "modulos": [
@@ -1024,60 +1083,31 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/19718360000151/2026/116"
   },
   {
-   "id": "08597121000174-2026-319",
-   "orgao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
-   "municipio": "Curitiba",
-   "uf": "PR",
-   "objeto": "A prestação de serviços de Lavanderia Hospitalar com locação de enxoval que permita a rastreabilidade por RFID, bem como o fornecimento, em regime de comodato, dos equipamentos necessários à execução dos serviços, para atender a demanda das unidades do Hospital do Trabalhador (HT) -  Lote 1; Hospital de Reabilitação Ana Carolina Moura Xavier (HR) – Lote 2; Hospital Osvaldo Cruz (HOC) – Lote 3; Ambulatório Médico de Especialidades (AME) – Lote 4; e Hospital Regional da Lapa São Sebastião (HRLSS) – ",
+   "id": "04264173000178-2026-79",
+   "orgao": "SERVIÇO NACIONAL DE APRENDIZAGEM RURAL SENAR AR/MT",
+   "municipio": "Cuiabá",
+   "uf": "MT",
+   "objeto": "Contratação de empresa para a PRESTAÇÃO DE SERVIÇO DE IMPRESSÃO (OUTSOURCING), CÓPIA, DIGITALIZAÇÃO E GERENCIAMENTO DE IMPRESSÃO DEPARTAMENTAL, INCLUINDO DISPONIBILIZAÇÃO DE EQUIPAMENTOS, para atender ao Serviço Nacional de Aprendizagem Rural de Mato Grosso – SENAR/MT",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware"
+    "ged"
    ],
-   "fimVigencia": "2026-09-11T09:00",
-   "diasRestantes": 16,
-   "valorEstimado": 31618632,
+   "fimVigencia": "2026-09-03T09:00",
+   "diasRestantes": 7,
+   "valorEstimado": 0,
    "qtdItens": 5,
    "modulos": [
-    "locacao",
-    "comodato",
-    "prestacao de servicos"
+    "digitalizacao",
+    "outsourcing"
    ],
-   "ader": 32,
+   "ader": 44,
    "score": 48,
    "suspeito": [],
    "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/08597121000174/2026/319"
-  },
-  {
-   "id": "08597121000174-2026-320",
-   "orgao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
-   "municipio": "Curitiba",
-   "uf": "PR",
-   "objeto": "Prestação de serviços de Lavanderia Hospitalar com locação de enxoval que permita a rastreabilidade por RFID, bem como o fornecimento, em regime de comodato, dos equipamentos necessários à execução dos serviços, para atender a demanda das unidades do Hospital do Trabalhador HT, Hospital de Reabilitação Ana Carolina Moura Xavier HR, Hospital Osvaldo Cruz HOC, Ambulatório Médico de Especialidades AME e Hospital Regional da Lapa São Sebastião HRLSS, integrantes do Complexo Hospitalar do Trabalhador  CHT",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-09-11T09:00",
-   "diasRestantes": 16,
-   "valorEstimado": 31618632,
-   "qtdItens": 5,
-   "modulos": [
-    "locacao",
-    "comodato",
-    "prestacao de servicos"
-   ],
-   "ader": 32,
-   "score": 48,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/08597121000174/2026/320"
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/04264173000178/2026/79"
   },
   {
    "id": "00000208000100-2026-8",
@@ -1090,7 +1120,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-09-02T08:59",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1118,7 +1148,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-14T13:30",
-   "diasRestantes": 20,
+   "diasRestantes": 19,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -1147,7 +1177,7 @@
     "hardware"
    ],
    "fimVigencia": "2026-08-31T07:59",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 0,
    "qtdItens": 6,
    "modulos": [
@@ -1167,33 +1197,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/06125389000188/2026/38"
   },
   {
-   "id": "04264173000178-2026-79",
-   "orgao": "SERVIÇO NACIONAL DE APRENDIZAGEM RURAL SENAR AR/MT",
-   "municipio": "Cuiabá",
-   "uf": "MT",
-   "objeto": "Contratação de empresa para a PRESTAÇÃO DE SERVIÇO DE IMPRESSÃO (OUTSOURCING), CÓPIA, DIGITALIZAÇÃO E GERENCIAMENTO DE IMPRESSÃO DEPARTAMENTAL, INCLUINDO DISPONIBILIZAÇÃO DE EQUIPAMENTOS, para atender ao Serviço Nacional de Aprendizagem Rural de Mato Grosso – SENAR/MT",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "ged"
-   ],
-   "fimVigencia": "2026-09-03T09:00",
-   "diasRestantes": 8,
-   "valorEstimado": 0,
-   "qtdItens": 5,
-   "modulos": [
-    "digitalizacao",
-    "outsourcing"
-   ],
-   "ader": 44,
-   "score": 42,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/04264173000178/2026/79"
-  },
-  {
    "id": "34079590000101-2026-36",
    "orgao": "EMASA EMPRESA MUNICIPAL DE AGUAS E SANEAMENTO S A",
    "municipio": "Itabuna",
@@ -1204,7 +1207,7 @@
     "ged"
    ],
    "fimVigencia": "2026-08-31T14:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1231,7 +1234,7 @@
     "hardware"
    ],
    "fimVigencia": "2027-07-22T12:59",
-   "diasRestantes": 331,
+   "diasRestantes": 330,
    "valorEstimado": 6901883.52,
    "qtdItens": 8,
    "modulos": [
@@ -1250,6 +1253,34 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/27174143000176/2026/70"
   },
   {
+   "id": "42752600000156-2026-5",
+   "orgao": "SAO DESIDERIO CAMARA MUNICIPAL",
+   "municipio": "São Desidério",
+   "uf": "BA",
+   "objeto": "Contratação de empresa especializada para a prestação de serviços técnicos de preparação documental, digitalização, escaneamento, tratamento de imagens, indexação, reconhecimento óptico de caracteres- OCR, gerenciamento eletrônico, armazenamento e disponibilização de sistema ou programa de busca e organização de documentos digitais, conforme especificações constantes no Termo de Referência, destinados ao atendimento das demandas da Câmara Municipal de São Desidério-Ba.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "ged"
+   ],
+   "fimVigencia": "2026-09-11T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 0,
+   "qtdItens": 1,
+   "modulos": [
+    "digitalizacao",
+    "indexacao",
+    "prestacao de servicos"
+   ],
+   "ader": 41,
+   "score": 40,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/42752600000156/2026/5"
+  },
+  {
    "id": "18602045000100-2026-67",
    "orgao": "MUNICIPIO DE RIO PARANAIBA",
    "municipio": "Rio Paranaíba",
@@ -1261,7 +1292,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-09T15:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -1293,7 +1324,7 @@
     "ged"
    ],
    "fimVigencia": "2026-09-10T08:30",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -1321,7 +1352,7 @@
     "ged"
    ],
    "fimVigencia": "2027-04-28T00:00",
-   "diasRestantes": 245,
+   "diasRestantes": 244,
    "valorEstimado": 0.15,
    "qtdItens": 1,
    "modulos": [
