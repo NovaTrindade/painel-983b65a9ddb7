@@ -1,18 +1,18 @@
 {
- "gerado": "2026-08-27T11:55:40.610Z",
+ "gerado": "2026-08-27T13:29:15.419Z",
  "referencia": "2026-08-27",
  "criterioVersao": 1,
  "execucao": {
-  "universoAberto": 2933,
-  "descartados": 2820,
-  "candidatos": 113,
-  "itensObtidos": 113,
+  "universoAberto": 2898,
+  "descartados": 2792,
+  "candidatos": 106,
+  "itensObtidos": 106,
   "itensFalhou": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 644,
-    "novos": 636,
+    "total": 635,
+    "novos": 631,
     "paginasOk": 13,
     "paginasFalhas": 0,
     "parcial": false,
@@ -20,8 +20,8 @@
    },
    {
     "consulta": "gestao municipal",
-    "total": 779,
-    "novos": 344,
+    "total": 758,
+    "novos": 333,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -29,8 +29,8 @@
    },
    {
     "consulta": "sistema integrado",
-    "total": 1764,
-    "novos": 502,
+    "total": 1695,
+    "novos": 501,
     "paginasOk": 13,
     "paginasFalhas": 1,
     "parcial": true,
@@ -38,8 +38,8 @@
    },
    {
     "consulta": "licenciamento uso",
-    "total": 243,
-    "novos": 152,
+    "total": 236,
+    "novos": 143,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -47,7 +47,7 @@
    },
    {
     "consulta": "software gestao",
-    "total": 232,
+    "total": 227,
     "novos": 50,
     "paginasOk": 5,
     "paginasFalhas": 0,
@@ -56,8 +56,8 @@
    },
    {
     "consulta": "locacao software",
-    "total": 193,
-    "novos": 91,
+    "total": 185,
+    "novos": 82,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -65,8 +65,8 @@
    },
    {
     "consulta": "cessao uso",
-    "total": 127,
-    "novos": 63,
+    "total": 122,
+    "novos": 60,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -74,8 +74,8 @@
    },
    {
     "consulta": "arrecadacao",
-    "total": 302,
-    "novos": 250,
+    "total": 300,
+    "novos": 247,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -84,7 +84,7 @@
    {
     "consulta": "tributaria",
     "total": 319,
-    "novos": 82,
+    "novos": 89,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -92,8 +92,8 @@
    },
    {
     "consulta": "folha pagamento",
-    "total": 259,
-    "novos": 194,
+    "total": 258,
+    "novos": 193,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,7 +101,7 @@
    },
    {
     "consulta": "gestao educacional",
-    "total": 55,
+    "total": 52,
     "novos": 8,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -110,7 +110,7 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 128,
+    "total": 125,
     "novos": 24,
     "paginasOk": 3,
     "paginasFalhas": 0,
@@ -119,7 +119,7 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 882,
+    "total": 854,
     "novos": 520,
     "paginasOk": 14,
     "paginasFalhas": 0,
@@ -141,13 +141,13 @@
   "paginasPerdidas": 1
  },
  "resumo": {
-  "total": 113,
-  "prioridade": 35,
-  "avaliar": 26,
-  "triar": 52,
-  "urgentes7d": 48,
-  "valorTotal": 124272696.11,
-  "valorUrgentes": 27715482.86,
+  "total": 106,
+  "prioridade": 34,
+  "avaliar": 24,
+  "triar": 48,
+  "urgentes7d": 41,
+  "valorTotal": 121937340.7,
+  "valorUrgentes": 25380127.45,
   "suspeitos": 7
  },
  "editais": [
@@ -379,33 +379,6 @@
    "score": 86,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13830336000123/2026/186"
-  },
-  {
-   "id": "48468284000171-2026-105",
-   "orgao": "MUNICIPIO DE GUARARAPES",
-   "municipio": "Guararapes",
-   "uf": "SP",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO RAMO DE INFORMÁTICA, OBJETIVANDO A LOCAÇÃO DE SISTEMAS DE COMPUTADOR - SOFTWARES PARA GESTÃO DO DEPARTAMENTO DE EDUCAÇÃO, DESENVOLVIDO EM LINGUAGEM WEB, INTEGRADO À SECRETARIA ESCOLAR DIGITAL - SED - DE FORMA AUTOMATIZADA, COM DISPONIBILIZAÇÃO DE DATACENTER E BACKUPS SOB A RESPONSABILIDADE DA CONTRATADA, ABRANGENDO A IMPLANTAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO/CONVERSÃO/IMPORTAÇÃO DE DADOS, CAPACITAÇÃO, SUPORTE, MANUTENÇÃO, EVOLUÇÃO TECNOLÓGICA, SEGURANÇA DA INF",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T08:30",
-   "diasRestantes": 0,
-   "valorEstimado": 497333.38,
-   "qtdItens": 6,
-   "modulos": [
-    "sistema integrado",
-    "licenca de uso",
-    "locacao de sistema",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 85,
-   "score": 86,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/48468284000171/2026/105"
   },
   {
    "id": "18449173000157-2026-64",
@@ -893,31 +866,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/14804981000134/2026/33"
   },
   {
-   "id": "91900365000128-2026-80",
-   "orgao": "MUNICIPIO DE BARAO DO TRIUNFO",
-   "municipio": "Barão do Triunfo",
-   "uf": "RS",
-   "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CESSÃO DE DIREITO DE USO (LICENCIAMENTO), EM REGIME DE LOCAÇÃO (SaaS), DE SISTEMA INFORMATIZADO DE GESTÃO PÚBLICA MUNICIPAL PARA OS PODERES EXECUTIVO E LEGISLATIVO DO MUNICÍPIO DE BARÃO DO TRIUNFO/RS.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T08:45",
-   "diasRestantes": 0,
-   "valorEstimado": 182980.01,
-   "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "contabil",
-    "cessao de direito de uso",
-    "compras e licitac",
-    "migracao",
-    "saas",
-    "patrimonio"
-   ],
-   "ader": 78,
-   "score": 81,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/91900365000128/2026/80"
-  },
-  {
    "id": "95589271000130-2026-86",
    "orgao": "MUNICIPIO DE FLOR DA SERRA DO SUL",
    "municipio": "Flor da Serra do Sul",
@@ -1188,32 +1136,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/04215993000170/2026/48"
   },
   {
-   "id": "15023914000145-2026-25",
-   "orgao": "MUNICIPIO DE ARAPUTANGA",
-   "municipio": "Araputanga",
-   "uf": "MT",
-   "objeto": "[LICITANET] - Registro de Preços para futura e eventual CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE SOLUÇÃO INTEGRADA DE PLATAFORMA ON-LINE DE GESTÃO EDUCACIONAL, INCLUINDO IMPLANTAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO, ASSESSORIA E CONSULTORIA, destinada ao uso diário pelas Escolas Municipais e Centros de Educação Infantil, em atendimento às necessidades da Secretaria Municipal de Educação e Cultura. ",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T09:00",
-   "diasRestantes": 0,
-   "valorEstimado": 220000,
-   "qtdItens": 4,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 65,
-   "score": 76,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/15023914000145/2026/25"
-  },
-  {
    "id": "76973692000116-2026-68",
    "orgao": "MUNICIPIO DE QUERENCIA DO NORTE",
    "municipio": "Querência do Norte",
@@ -1268,31 +1190,6 @@
    "score": 75,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/77402196000175/2026/33"
-  },
-  {
-   "id": "83102491000109-2026-350",
-   "orgao": "MUNICIPIO DE SCHROEDER",
-   "municipio": "Schroeder",
-   "uf": "SC",
-   "objeto": "Contratação de empresa especializada para prestação de serviços de licenciamento mensal de Sistema de Gestão Educacional integrado, incluindo implantação, migração de dados, treinamento, suporte técnico, manutenção e hospedagem da solução, destinado à Secretaria Municipal de Educação de Schroeder/SC, com disponibilização de integração via API, assistente virtual e módulo de Business Intelligence (BI).",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T08:59",
-   "diasRestantes": 0,
-   "valorEstimado": 653491.53,
-   "qtdItens": 6,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "escolar",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 59,
-   "score": 75,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/83102491000109/2026/350"
   },
   {
    "id": "87849923000109-2026-532",
@@ -1503,6 +1400,29 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01610869000110/2026/121"
   },
   {
+   "id": "58200015000183-2026-367",
+   "orgao": "MUNICIPIO DE SANTOS",
+   "municipio": "Santos",
+   "uf": "SP",
+   "objeto": "Contratação de empresa para locação de licença de uso de Sistema Integrado de Gestão da Educação, incluindo implantação, capacitação e treinamento, suporte e infraestrutura tecnológica necessária para funcionamento em ambiente WEB, para atender a Secretaria Municipal de Educação, pelo período de 05 (cinco) anos, podendo ser prorrogado por igual período, respeitando a vigência máxima de 10 (dez) anos.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-11T10:00",
+   "diasRestantes": 15,
+   "valorEstimado": 31128271.17,
+   "qtdItens": 4,
+   "modulos": [
+    "sistema integrado",
+    "licenciamento de uso",
+    "licenca de uso",
+    "implantacao",
+    "treinamento"
+   ],
+   "ader": 59,
+   "score": 73,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/367"
+  },
+  {
    "id": "30339501000168-2026-9",
    "orgao": "RIO BONITO CAMARA MUNICIPAL",
    "municipio": "Rio Bonito",
@@ -1527,29 +1447,6 @@
    "score": 73,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/30339501000168/2026/9"
-  },
-  {
-   "id": "58200015000183-2026-367",
-   "orgao": "MUNICIPIO DE SANTOS",
-   "municipio": "Santos",
-   "uf": "SP",
-   "objeto": "Contratação de empresa para locação de licença de uso de Sistema Integrado de Gestão da Educação, incluindo implantação, capacitação e treinamento, suporte e infraestrutura tecnológica necessária para funcionamento em ambiente WEB, para atender a Secretaria Municipal de Educação, pelo período de 05 (cinco) anos, podendo ser prorrogado por igual período, respeitando a vigência máxima de 10 (dez) anos.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-11T10:00",
-   "diasRestantes": 15,
-   "valorEstimado": 31128271.17,
-   "qtdItens": 4,
-   "modulos": [
-    "sistema integrado",
-    "licenciamento de uso",
-    "licenca de uso",
-    "implantacao",
-    "treinamento"
-   ],
-   "ader": 59,
-   "score": 73,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/367"
   },
   {
    "id": "87712212000180-2026-202",
@@ -1602,30 +1499,6 @@
    "score": 72,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/10882069000140/2026/6"
-  },
-  {
-   "id": "83102491000109-2026-243",
-   "orgao": "MUNICIPIO DE SCHROEDER",
-   "municipio": "Schroeder",
-   "uf": "SC",
-   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para prestação de serviços de licenciamento mensal de Sistema de Gestão Educacional integrado, incluindo implantação, migração de dados, treinamento, suporte técnico, manutenção e hospedagem da solução, destinado à Secretaria Municipal de Educação de Schroeder/SC, com disponibilização de integração via API, assistente virtual e módulo de Business Intelligence (BI).",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T08:59",
-   "diasRestantes": 0,
-   "valorEstimado": 653491.49,
-   "qtdItens": 6,
-   "modulos": [
-    "gestao educacional",
-    "educacional",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 52,
-   "score": 72,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/83102491000109/2026/243"
   },
   {
    "id": "76282656000106-2026-446",
@@ -1700,30 +1573,6 @@
    "score": 71,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/95583597000150/2026/94"
-  },
-  {
-   "id": "06229538000159-2026-11",
-   "orgao": "MUNICIPIO DE LORETO",
-   "municipio": "Loreto",
-   "uf": "MA",
-   "objeto": "Contratação de pessoa jurídica especializada para implantação de Sistema Integrado de Gestão em Saúde, contemplando licenciamento de uso de software, implantação, parametrização, treinamento de usuários, suporte técnico, manutenção corretiva e evolutiva, visando atender às necessidades da Secretaria Municipal de Saúde do Município de Loreto – MA, conforme descrito neste Edital e anexos.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T08:59",
-   "diasRestantes": 0,
-   "valorEstimado": 114459.04,
-   "qtdItens": 1,
-   "modulos": [
-    "sistema integrado",
-    "licenciamento de uso",
-    "implantacao",
-    "software",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 56,
-   "score": 71,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/06229538000159/2026/11"
   },
   {
    "id": "10358190000177-2026-303",
@@ -1994,29 +1843,6 @@
    "score": 65,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01934986000130/2026/2"
-  },
-  {
-   "id": "16443723000103-2026-81",
-   "orgao": "MUNICIPIO DE QUIXABEIRA",
-   "municipio": "Quixabeira",
-   "uf": "BA",
-   "objeto": "CONTRATAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO PARA IMPLANTAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÕES E LICENÇA DE USO DE SISTEMA WEB DE GESTÃO PÚBLICA COM MÓDULO DE REGULARIZAÇÃO FUNDIÁRIA URBANA (REURB), MUNICIPIO DE QUIXABEIRA-BA.\r\n\r\n",
-   "modalidade": "Dispensa",
-   "fimVigencia": "2026-08-27T09:00",
-   "diasRestantes": 0,
-   "valorEstimado": 13599.96,
-   "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "licenca de uso",
-    "implantacao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 50,
-   "score": 64,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/16443723000103/2026/81"
   },
   {
    "id": "88254883000107-2026-130",
