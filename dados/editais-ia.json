@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-27T12:12:43.387Z",
+ "gerado": "2026-08-27T18:57:30.959Z",
  "referencia": "2026-08-27",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
@@ -10,39 +10,39 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2494,
-  "excluidosPorPalavraChave": 1271,
-  "excluidosQueSeriamCandidatos": 82,
+  "universoAberto": 2518,
+  "excluidosPorPalavraChave": 1280,
+  "excluidosQueSeriamCandidatos": 79,
   "custoPorTermo": {
-   "aquisicao": 68,
+   "aquisicao": 65,
    "fornecimento": 12
   },
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1109,
-  "candidatos": 114,
-  "itensObtidos": 114,
+  "descartadosPorAderencia": 1121,
+  "candidatos": 117,
+  "itensObtidos": 117,
   "itensFalhou": 0,
-  "foraPorValor": 79,
+  "foraPorValor": 82,
   "semValorPublicado": 13,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 484,
-    "novos": 482,
-    "paginasOk": 10,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 490,
+    "novos": 440,
+    "paginasOk": 9,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 22,
-    "novos": 4,
+    "total": 24,
+    "novos": 6,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -52,7 +52,7 @@
     "consulta": "chromebook",
     "linha": "hardware",
     "total": 13,
-    "novos": 3,
+    "novos": 4,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -61,8 +61,8 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 261,
-    "novos": 120,
+    "total": 258,
+    "novos": 126,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -71,8 +71,8 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 927,
-    "novos": 501,
+    "total": 910,
+    "novos": 517,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -81,7 +81,7 @@
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 274,
+    "total": 270,
     "novos": 65,
     "paginasOk": 6,
     "paginasFalhas": 0,
@@ -91,8 +91,8 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 152,
-    "novos": 84,
+    "total": 150,
+    "novos": 82,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,7 +101,7 @@
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
-    "total": 49,
+    "total": 45,
     "novos": 15,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -111,11 +111,11 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 309,
-    "novos": 148,
-    "paginasOk": 6,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "total": 314,
+    "novos": 173,
+    "paginasOk": 7,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
@@ -131,9 +131,9 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 49,
-    "novos": 46,
-    "paginasOk": 1,
+    "total": 51,
+    "novos": 49,
+    "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
     "erro": null
@@ -141,7 +141,7 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 126,
+    "total": 128,
     "novos": 0,
     "paginasOk": 3,
     "paginasFalhas": 0,
@@ -152,7 +152,7 @@
     "consulta": "locacao notebook",
     "linha": "hardware",
     "total": 60,
-    "novos": 0,
+    "novos": 3,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -161,8 +161,8 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 819,
-    "novos": 688,
+    "total": 830,
+    "novos": 697,
     "paginasOk": 17,
     "paginasFalhas": 0,
     "parcial": false,
@@ -181,8 +181,8 @@
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 272,
-    "novos": 95,
+    "total": 273,
+    "novos": 96,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -201,8 +201,8 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 33,
-    "novos": 20,
+    "total": 35,
+    "novos": 22,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -211,8 +211,8 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 128,
-    "novos": 73,
+    "total": 126,
+    "novos": 72,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -221,7 +221,7 @@
    {
     "consulta": "indexacao documentos",
     "linha": "ged",
-    "total": 19,
+    "total": 18,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -261,7 +261,7 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 96,
+    "total": 94,
     "novos": 34,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -271,7 +271,7 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 57,
+    "total": 56,
     "novos": 48,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -281,8 +281,8 @@
    {
     "consulta": "climatizacao [RJ]",
     "linha": "climatizacao",
-    "total": 5,
-    "novos": 2,
+    "total": 7,
+    "novos": 4,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -291,8 +291,8 @@
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 56,
-    "novos": 24,
+    "total": 54,
+    "novos": 23,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -311,7 +311,7 @@
    {
     "consulta": "btus [RJ]",
     "linha": "climatizacao",
-    "total": 10,
+    "total": 8,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
