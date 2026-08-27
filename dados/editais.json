@@ -1,27 +1,27 @@
 {
- "gerado": "2026-08-27T13:29:15.419Z",
+ "gerado": "2026-08-27T19:44:12.840Z",
  "referencia": "2026-08-27",
  "criterioVersao": 1,
  "execucao": {
-  "universoAberto": 2898,
-  "descartados": 2792,
-  "candidatos": 106,
-  "itensObtidos": 106,
+  "universoAberto": 2940,
+  "descartados": 2831,
+  "candidatos": 109,
+  "itensObtidos": 109,
   "itensFalhou": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 635,
-    "novos": 631,
+    "total": 654,
+    "novos": 601,
     "paginasOk": 13,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "paginasFalhas": 1,
+    "parcial": true,
     "erro": null
    },
    {
     "consulta": "gestao municipal",
-    "total": 758,
-    "novos": 333,
+    "total": 774,
+    "novos": 357,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -29,17 +29,17 @@
    },
    {
     "consulta": "sistema integrado",
-    "total": 1695,
-    "novos": 501,
-    "paginasOk": 13,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "total": 1773,
+    "novos": 534,
+    "paginasOk": 14,
+    "paginasFalhas": 0,
+    "parcial": false,
     "erro": null
    },
    {
     "consulta": "licenciamento uso",
-    "total": 236,
-    "novos": 143,
+    "total": 243,
+    "novos": 153,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -47,7 +47,7 @@
    },
    {
     "consulta": "software gestao",
-    "total": 227,
+    "total": 232,
     "novos": 50,
     "paginasOk": 5,
     "paginasFalhas": 0,
@@ -56,7 +56,7 @@
    },
    {
     "consulta": "locacao software",
-    "total": 185,
+    "total": 188,
     "novos": 82,
     "paginasOk": 4,
     "paginasFalhas": 0,
@@ -74,8 +74,8 @@
    },
    {
     "consulta": "arrecadacao",
-    "total": 300,
-    "novos": 247,
+    "total": 301,
+    "novos": 246,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -83,8 +83,8 @@
    },
    {
     "consulta": "tributaria",
-    "total": 319,
-    "novos": 89,
+    "total": 334,
+    "novos": 95,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -92,8 +92,8 @@
    },
    {
     "consulta": "folha pagamento",
-    "total": 258,
-    "novos": 193,
+    "total": 261,
+    "novos": 196,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -102,7 +102,7 @@
    {
     "consulta": "gestao educacional",
     "total": 52,
-    "novos": 8,
+    "novos": 9,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -110,8 +110,8 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 125,
-    "novos": 24,
+    "total": 127,
+    "novos": 23,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -119,8 +119,8 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 854,
-    "novos": 520,
+    "total": 892,
+    "novos": 517,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -128,7 +128,7 @@
    },
    {
     "consulta": "conversao dados",
-    "total": 91,
+    "total": 93,
     "novos": 17,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -141,13 +141,13 @@
   "paginasPerdidas": 1
  },
  "resumo": {
-  "total": 106,
-  "prioridade": 34,
-  "avaliar": 24,
+  "total": 109,
+  "prioridade": 35,
+  "avaliar": 26,
   "triar": 48,
-  "urgentes7d": 41,
-  "valorTotal": 121937340.7,
-  "valorUrgentes": 25380127.45,
+  "urgentes7d": 40,
+  "valorTotal": 149383424.5,
+  "valorUrgentes": 25352772.63,
   "suspeitos": 7
  },
  "editais": [
@@ -590,32 +590,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/45786159000111/2026/299"
   },
   {
-   "id": "76172907000108-2026-96",
-   "orgao": "MUNICIPIO DE PITANGA",
-   "municipio": "Pitanga",
-   "uf": "PR",
-   "objeto": "Contratação de empresa especializada para o fornecimento de licença de uso de solução informatizada destinada à gestão de Alvará On-line, disponibilizada em ambiente web, incluindo os serviços de implantação, configuração, parametrização, migração e conversão de dados, integração com o REDESIM/SIGFácil e interoperabilidade com os sistemas utilizados pelo Município de Pitanga/PR, treinamento de usuários, suporte técnico, manutenção corretiva e evolutiva, atualizações legais e tecnológicas e demai",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-08-27T13:00",
-   "diasRestantes": 1,
-   "valorEstimado": 27354.82,
-   "qtdItens": 2,
-   "modulos": [
-    "conversao de dados",
-    "sistema integrado",
-    "licenciamento de uso",
-    "licenca de uso",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 92,
-   "score": 84,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/76172907000108/2026/96"
-  },
-  {
    "id": "16780795000138-2026-45",
    "orgao": "MUNICIPIO DE PESCARIA BRAVA",
    "municipio": "Pescaria Brava",
@@ -977,6 +951,34 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01614343000109/2026/49"
   },
   {
+   "id": "01670924000168-2026-3",
+   "orgao": "MUNICIPIO DE SANTA FILOMENA DO MARANHAO - CAMARA MUNICIPAL",
+   "municipio": "Santa Filomena do Maranhão",
+   "uf": "MA",
+   "objeto": "Contratação de serviços de locação de software para sistema integrado de processo legislativo eletrônico e digital em plataforma web com protocolo web; votação eletrônica; incluindo a prestação de serviços técnicos correlatos, implantação do sistema, migração e conversão de dados, suporte técnico especializado, treinamento, serviços de manutenção corretiva, evolutiva e adaptativa e locação de equipamentos (tablets,  tvs) para gerenciamento do processo eletrônico e digital, com registro e exibição dos trabalhos legislativos, com instalação, manutenção e treinamento para atender as necessidades da Câmara Municipal de Santa Filomena do Maranhão/MA",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-11T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 124009.92,
+   "qtdItens": 4,
+   "modulos": [
+    "conversao de dados",
+    "sistema integrado",
+    "locacao de sistema",
+    "locacao de software",
+    "implantacao",
+    "migracao",
+    "protocolo",
+    "software",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 97,
+   "score": 80,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/01670924000168/2026/3"
+  },
+  {
    "id": "76910900000138-2026-42",
    "orgao": "MUNICIPIO DE JAGUARIAIVA",
    "municipio": "Jaguariaíva",
@@ -1001,6 +1003,34 @@
    "score": 80,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/76910900000138/2026/42"
+  },
+  {
+   "id": "46634275000188-2026-62",
+   "orgao": "MUNICIPIO DE GUAPIARA",
+   "municipio": "Guapiara",
+   "uf": "SP",
+   "objeto": "Contratação de empresa para “licença de uso de sistemas de gestão pública, contemplando os serviços de conversão de dados, implantação dos sistemas, capacitação dos servidores, hospedagem, customizações, parametrizações, manutenção e suporte técnico em atendimento à prefeitura municipal de guapiara”",
+   "modalidade": "Pregão - Presencial",
+   "fimVigencia": "2026-09-18T08:40",
+   "diasRestantes": 22,
+   "valorEstimado": 636420,
+   "qtdItens": 10,
+   "modulos": [
+    "conversao de dados",
+    "gestao publica",
+    "licenca de uso",
+    "portal da transparencia",
+    "implantacao",
+    "protocolo",
+    "patrimonio",
+    "almoxarifado",
+    "transparencia",
+    "suporte tecnico"
+   ],
+   "ader": 100,
+   "score": 79,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/46634275000188/2026/62"
   },
   {
    "id": "63496573000178-2026-3",
@@ -1400,29 +1430,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01610869000110/2026/121"
   },
   {
-   "id": "58200015000183-2026-367",
-   "orgao": "MUNICIPIO DE SANTOS",
-   "municipio": "Santos",
-   "uf": "SP",
-   "objeto": "Contratação de empresa para locação de licença de uso de Sistema Integrado de Gestão da Educação, incluindo implantação, capacitação e treinamento, suporte e infraestrutura tecnológica necessária para funcionamento em ambiente WEB, para atender a Secretaria Municipal de Educação, pelo período de 05 (cinco) anos, podendo ser prorrogado por igual período, respeitando a vigência máxima de 10 (dez) anos.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-11T10:00",
-   "diasRestantes": 15,
-   "valorEstimado": 31128271.17,
-   "qtdItens": 4,
-   "modulos": [
-    "sistema integrado",
-    "licenciamento de uso",
-    "licenca de uso",
-    "implantacao",
-    "treinamento"
-   ],
-   "ader": 59,
-   "score": 73,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/367"
-  },
-  {
    "id": "30339501000168-2026-9",
    "orgao": "RIO BONITO CAMARA MUNICIPAL",
    "municipio": "Rio Bonito",
@@ -1447,6 +1454,29 @@
    "score": 73,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/30339501000168/2026/9"
+  },
+  {
+   "id": "58200015000183-2026-367",
+   "orgao": "MUNICIPIO DE SANTOS",
+   "municipio": "Santos",
+   "uf": "SP",
+   "objeto": "Contratação de empresa para locação de licença de uso de Sistema Integrado de Gestão da Educação, incluindo implantação, capacitação e treinamento, suporte e infraestrutura tecnológica necessária para funcionamento em ambiente WEB, para atender a Secretaria Municipal de Educação, pelo período de 05 (cinco) anos, podendo ser prorrogado por igual período, respeitando a vigência máxima de 10 (dez) anos.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-11T10:00",
+   "diasRestantes": 15,
+   "valorEstimado": 31128271.17,
+   "qtdItens": 4,
+   "modulos": [
+    "sistema integrado",
+    "licenciamento de uso",
+    "licenca de uso",
+    "implantacao",
+    "treinamento"
+   ],
+   "ader": 59,
+   "score": 73,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/58200015000183/2026/367"
   },
   {
    "id": "87712212000180-2026-202",
@@ -1651,6 +1681,31 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/94309291000148/2026/178"
   },
   {
+   "id": "45301264000113-2026-277",
+   "orgao": "MUNICIPIO DE MOGI-GUACU",
+   "municipio": "Mogi Guaçu",
+   "uf": "SP",
+   "objeto": "Contratação de empresa especializada para prestação de serviços de informática para o fornecimento de licença de uso de uma solução de softwares que atendam plenamente ao decreto federal 10.540/2020 (SIAFIC) e softwares estruturantes, por prazo determinado, com atualização, que garanta as alterações legais, corretivas e evolutivas, incluindo suporte técnico, conversão, implantação e treinamento, com disponibilização de Data Center para hospedagem da solução e Backups sob responsabilidade da contratada objetivando atender as necessidades da Prefeitura Municipal de Mogi Guaçu, da Câmara Municipal de Mogi Guaçu, da FEG – Fundação Educacional Guaçuana, do SAMAE -Serviço Autônomo Municipal de Água e Esgoto de Mogi Guaçu e do Hospital Municipal “Dr. Tabajara Ramos” conforme especificações deste termo de referência pelo período de 60 (sessenta) meses.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-15T09:00",
+   "diasRestantes": 19,
+   "valorEstimado": 23622900,
+   "qtdItens": 1,
+   "modulos": [
+    "gestao publica",
+    "licenca de uso",
+    "educacional",
+    "implantacao",
+    "software",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 66,
+   "score": 70,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/45301264000113/2026/277"
+  },
+  {
    "id": "85361863000147-2026-115",
    "orgao": "MUNICIPIO DE PALMITOS",
    "municipio": "Palmitos",
@@ -1675,6 +1730,30 @@
    "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/85361863000147/2026/115"
+  },
+  {
+   "id": "88000914000101-2026-149",
+   "orgao": "MUNICIPIO DE VIAMAO",
+   "municipio": "Viamão",
+   "uf": "RS",
+   "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE SISTEMA INTEGRADO DE GESTÃO PÚBLICA EM NUVEM, MEDIANTE CESSÃO DE DIREITO DE USO",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-16T14:00",
+   "diasRestantes": 21,
+   "valorEstimado": 3090108.7,
+   "qtdItens": 10,
+   "modulos": [
+    "sistema integrado",
+    "gestao publica",
+    "cessao de direito de uso",
+    "implantacao",
+    "software",
+    "nuvem"
+   ],
+   "ader": 69,
+   "score": 68,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/88000914000101/2026/149"
   },
   {
    "id": "45152782000112-2026-12",
@@ -1773,30 +1852,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/07547821000191/2026/79"
   },
   {
-   "id": "46523130000100-2026-205",
-   "orgao": "MUNICIPIO DE ITAPECERICA DA SERRA",
-   "municipio": "Itapecerica da Serra",
-   "uf": "SP",
-   "objeto": "Constitui-se objeto desta licitação a cessão do direito (licenciamento) de uso de uma Solução de sistemas de informática para gestão municipal, na modalidade de Computação em Nuvem, pelo período de 60 (sessenta) meses, prorrogáveis até o limite da Lei. Encontrarse-ão englobadas na atividade de licenciamento dos softwares, a partir da data de assinatura do instrumento contratual, os serviços de implantação (conversão carga de dados e treinamentos de usuários), manutenção (preventiva, corretiva e de ordem legal) e suporte técnico a todos os sistemas de gestão pretendidos, que atendam às especificações contidas no presente Termo de Referência",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-09T08:59",
-   "diasRestantes": 13,
-   "valorEstimado": 26233600,
-   "qtdItens": 1,
-   "modulos": [
-    "gestao municipal",
-    "implantacao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 47,
-   "score": 67,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/46523130000100/2026/205"
-  },
-  {
    "id": "67995027000132-2026-315",
    "orgao": "MUNICIPIO DE HORTOLANDIA",
    "municipio": "Hortolândia",
@@ -1819,6 +1874,30 @@
    "score": 67,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/67995027000132/2026/315"
+  },
+  {
+   "id": "46523130000100-2026-205",
+   "orgao": "MUNICIPIO DE ITAPECERICA DA SERRA",
+   "municipio": "Itapecerica da Serra",
+   "uf": "SP",
+   "objeto": "Constitui-se objeto desta licitação a cessão do direito (licenciamento) de uso de uma Solução de sistemas de informática para gestão municipal, na modalidade de Computação em Nuvem, pelo período de 60 (sessenta) meses, prorrogáveis até o limite da Lei. Encontrarse-ão englobadas na atividade de licenciamento dos softwares, a partir da data de assinatura do instrumento contratual, os serviços de implantação (conversão carga de dados e treinamentos de usuários), manutenção (preventiva, corretiva e de ordem legal) e suporte técnico a todos os sistemas de gestão pretendidos, que atendam às especificações contidas no presente Termo de Referência",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-09T08:59",
+   "diasRestantes": 13,
+   "valorEstimado": 26233600,
+   "qtdItens": 1,
+   "modulos": [
+    "gestao municipal",
+    "implantacao",
+    "software",
+    "treinamento",
+    "suporte tecnico",
+    "nuvem"
+   ],
+   "ader": 47,
+   "score": 67,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/46523130000100/2026/205"
   },
   {
    "id": "01934986000130-2026-2",
@@ -1845,26 +1924,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01934986000130/2026/2"
   },
   {
-   "id": "88254883000107-2026-130",
-   "orgao": "MUNICIPIO DE ESTANCIA VELHA",
-   "municipio": "Estância Velha",
-   "uf": "RS",
-   "objeto": "[Portal de Compras Públicas] - Justificativa Técnica para Contrato de Urgência Processo nº Interessado: Secretaria Municipal de Gestão, Governança e Finanças Objeto: Contratação de empresa especializada em assessoria tributária para acompanhamento do ICMS, Programa de Integração Tributária (PIT), Valor Adicionado Fiscal (VAF) e cálculos de incentivo. 1. Contextualização O Município de Estância Velha depende diretamente da correta apuração do Valor Adicionado Fiscal (VAF) e da participação no Programa de Integração Tributária (PIT) para garantir o recebimento das transferências constitucionais do ICMS. A ausência de acompanhamento técnico e de sistema especializado compromete a arrecadação municipal, a atração de novos empreendimentos e pode resultar em perdas financeiras significativas e imediatas. 2. Situação de urgência Atualmente, o Município encontra-se sem contrato vigente para prestação desses serviços, e a demora na contratação pode ocasionar: Perda de prazos junto à Receita Estadual e à Secretaria da Fazenda do Estado. Redução do índice de participação do Município no ICMS. Perda de interesse de empresas que buscam o Município com vistas em incentivos fiscais. Comprometimento da receita corrente, afetando diretamente a execução orçamentária e os serviços públicos essenciais. Diante desse cenário, configura-se a urgência prevista no art. 24, IV da Lei nº 8.666/93 e no art. 75, VIII da Lei nº 14.133/21, que autoriza a contratação direta para evitar prejuízo ao interesse público. 3. Justificativa da escolha da empresa A contratação deverá recair sobre empresa que possua experiência comprovada na área de assessoria tributária municipal, com atuação em cálculos de VAF, PIT e incentivos fiscais. 4. Compatibilidade de preços Deverá ser realizada pesquisa de mercado com empresas similares, constatando-se que os valores apresentados pela contratada estarão dentro da média praticada, atendendo ao princípio da economicidade, considerando que o valor do último contrato vigente, possuía o valor de R$ 85.000,00/ano. 5. Prazo contratual O contrato terá vigência máxima de 180 dias, conforme previsto em lei, período suficiente para que o Município conclua o processo licitatório regular para continuidade dos serviços. Conclusão: Diante da urgência e da necessidade de assegurar a arrecadação municipal, justifica-se a contratação direta, em caráter excepcional e temporário, para prestação de serviços de assessoria tributária voltados ao ICMS, PIT, VAF e cálculos de incentivo.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-01T08:29",
-   "diasRestantes": 5,
-   "valorEstimado": 81480.24,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 64,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/88254883000107/2026/130"
-  },
-  {
    "id": "10221281000166-2026-20",
    "orgao": "CAMARA MUNICIPAL DE ITAITUBA",
    "municipio": "Itaituba",
@@ -1889,6 +1948,26 @@
    "score": 64,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/10221281000166/2026/20"
+  },
+  {
+   "id": "88254883000107-2026-130",
+   "orgao": "MUNICIPIO DE ESTANCIA VELHA",
+   "municipio": "Estância Velha",
+   "uf": "RS",
+   "objeto": "[Portal de Compras Públicas] - Justificativa Técnica para Contrato de Urgência Processo nº Interessado: Secretaria Municipal de Gestão, Governança e Finanças Objeto: Contratação de empresa especializada em assessoria tributária para acompanhamento do ICMS, Programa de Integração Tributária (PIT), Valor Adicionado Fiscal (VAF) e cálculos de incentivo. 1. Contextualização O Município de Estância Velha depende diretamente da correta apuração do Valor Adicionado Fiscal (VAF) e da participação no Programa de Integração Tributária (PIT) para garantir o recebimento das transferências constitucionais do ICMS. A ausência de acompanhamento técnico e de sistema especializado compromete a arrecadação municipal, a atração de novos empreendimentos e pode resultar em perdas financeiras significativas e imediatas. 2. Situação de urgência Atualmente, o Município encontra-se sem contrato vigente para prestação desses serviços, e a demora na contratação pode ocasionar: Perda de prazos junto à Receita Estadual e à Secretaria da Fazenda do Estado. Redução do índice de participação do Município no ICMS. Perda de interesse de empresas que buscam o Município com vistas em incentivos fiscais. Comprometimento da receita corrente, afetando diretamente a execução orçamentária e os serviços públicos essenciais. Diante desse cenário, configura-se a urgência prevista no art. 24, IV da Lei nº 8.666/93 e no art. 75, VIII da Lei nº 14.133/21, que autoriza a contratação direta para evitar prejuízo ao interesse público. 3. Justificativa da escolha da empresa A contratação deverá recair sobre empresa que possua experiência comprovada na área de assessoria tributária municipal, com atuação em cálculos de VAF, PIT e incentivos fiscais. 4. Compatibilidade de preços Deverá ser realizada pesquisa de mercado com empresas similares, constatando-se que os valores apresentados pela contratada estarão dentro da média praticada, atendendo ao princípio da economicidade, considerando que o valor do último contrato vigente, possuía o valor de R$ 85.000,00/ano. 5. Prazo contratual O contrato terá vigência máxima de 180 dias, conforme previsto em lei, período suficiente para que o Município conclua o processo licitatório regular para continuidade dos serviços. Conclusão: Diante da urgência e da necessidade de assegurar a arrecadação municipal, justifica-se a contratação direta, em caráter excepcional e temporário, para prestação de serviços de assessoria tributária voltados ao ICMS, PIT, VAF e cálculos de incentivo.",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-01T08:29",
+   "diasRestantes": 5,
+   "valorEstimado": 81480.24,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "tributar"
+   ],
+   "ader": 50,
+   "score": 64,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/88254883000107/2026/130"
   },
   {
    "id": "27744150000166-2026-92",
