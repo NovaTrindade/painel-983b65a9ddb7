@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-03T11:14:15.591Z",
+ "gerado": "2026-09-03T11:54:55.977Z",
  "referencia": "2026-09-03",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
@@ -10,8 +10,8 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2532,
-  "excluidosPorPalavraChave": 1311,
+  "universoAberto": 2466,
+  "excluidosPorPalavraChave": 1269,
   "excluidosQueSeriamCandidatos": 78,
   "custoPorTermo": {
    "aquisicao": 68,
@@ -21,18 +21,18 @@
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1103,
-  "candidatos": 118,
-  "itensObtidos": 118,
+  "descartadosPorAderencia": 1077,
+  "candidatos": 120,
+  "itensObtidos": 120,
   "itensFalhou": 0,
-  "foraPorValor": 83,
+  "foraPorValor": 85,
   "semValorPublicado": 14,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 501,
-    "novos": 497,
+    "total": 492,
+    "novos": 488,
     "paginasOk": 10,
     "paginasFalhas": 0,
     "parcial": false,
@@ -42,8 +42,8 @@
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 19,
-    "novos": 7,
+    "total": 18,
+    "novos": 6,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -53,7 +53,7 @@
    {
     "consulta": "chromebook",
     "linha": "hardware",
-    "total": 13,
+    "total": 12,
     "novos": 4,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -64,7 +64,7 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 244,
+    "total": 236,
     "novos": 97,
     "paginasOk": 5,
     "paginasFalhas": 0,
@@ -75,8 +75,8 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 899,
-    "novos": 537,
+    "total": 893,
+    "novos": 523,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -86,8 +86,8 @@
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 277,
-    "novos": 70,
+    "total": 276,
+    "novos": 71,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -97,19 +97,19 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 153,
-    "novos": 74,
-    "paginasOk": 4,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 151,
+    "novos": 36,
+    "paginasOk": 3,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
-    "total": 40,
-    "novos": 11,
+    "total": 37,
+    "novos": 13,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -119,8 +119,8 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 304,
-    "novos": 163,
+    "total": 302,
+    "novos": 162,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -130,8 +130,8 @@
    {
     "consulta": "tablets",
     "linha": "hardware",
-    "total": 81,
-    "novos": 22,
+    "total": 80,
+    "novos": 21,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -141,8 +141,8 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 49,
-    "novos": 47,
+    "total": 48,
+    "novos": 46,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -153,7 +153,7 @@
     "consulta": "locacao computador",
     "linha": "hardware",
     "total": 150,
-    "novos": 0,
+    "novos": 6,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -163,8 +163,8 @@
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 56,
-    "novos": 0,
+    "total": 57,
+    "novos": 1,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -174,8 +174,8 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 823,
-    "novos": 688,
+    "total": 811,
+    "novos": 683,
     "paginasOk": 17,
     "paginasFalhas": 0,
     "parcial": false,
@@ -185,19 +185,19 @@
    {
     "consulta": "ged",
     "linha": "ged",
-    "total": 16,
-    "novos": 13,
+    "total": 15,
+    "novos": 0,
     "paginasOk": 1,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 244,
-    "novos": 91,
+    "total": 248,
+    "novos": 93,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -218,8 +218,8 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 36,
-    "novos": 22,
+    "total": 35,
+    "novos": 23,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -229,8 +229,8 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 125,
-    "novos": 72,
+    "total": 122,
+    "novos": 78,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -276,16 +276,16 @@
     "total": 3,
     "novos": 0,
     "paginasOk": 1,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "paginasFalhas": 0,
+    "parcial": false,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 105,
-    "novos": 42,
+    "total": 103,
+    "novos": 41,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -295,7 +295,7 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 47,
+    "total": 46,
     "novos": 40,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -329,7 +329,7 @@
     "consulta": "locacao ar [RJ]",
     "linha": "climatizacao",
     "total": 5,
-    "novos": 1,
+    "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -349,11 +349,11 @@
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 1,
-  "paginasPerdidas": 1,
+  "consultasParciais": 2,
+  "paginasPerdidas": 2,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 15.5
+  "minutosBusca": 14.3
  },
  "resumo": {
   "total": 35,
@@ -369,7 +369,7 @@
   "suspeitos": 1,
   "porLinha": {
    "hardware": 26,
-   "ged": 12,
+   "ged": 11,
    "climatizacao": 2
   }
  },
@@ -802,6 +802,33 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/16958425000148/2026/110"
   },
   {
+   "id": "60509015000101-2026-146",
+   "orgao": "FUNDACAO PARA O DESENVOLVIMENTO DA EDUCACAO",
+   "municipio": "São Paulo",
+   "uf": "SP",
+   "objeto": "Registro de preços para contratação(ões) futura(s) de plataformas de carregamento móvel para notebooks e tablets, com capacidade de carregamento simultâneo, gerenciamento inteligente de energia e segurança física e elétrica, destinadas ao uso da Secretaria da Educação do Estado de São Paulo, viabilizada pela Fundação para o Desenvolvimento da Educação (FDE).",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "fimVigencia": "2026-09-08T10:00",
+   "diasRestantes": 5,
+   "valorEstimado": 89540700,
+   "qtdItens": 1,
+   "modulos": [
+    "notebook",
+    "tablet"
+   ],
+   "ader": 32,
+   "score": 62,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/60509015000101/2026/146"
+  },
+  {
    "id": "04794681000168-2026-94",
    "orgao": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE RONDONIA",
    "municipio": "Porto Velho",
@@ -829,33 +856,6 @@
    "passaPiso": true,
    "semValor": false,
    "pncpUrl": "https://pncp.gov.br/app/editais/04794681000168/2026/94"
-  },
-  {
-   "id": "60509015000101-2026-146",
-   "orgao": "FUNDACAO PARA O DESENVOLVIMENTO DA EDUCACAO",
-   "municipio": "São Paulo",
-   "uf": "SP",
-   "objeto": "Registro de preços para contratação(ões) futura(s) de plataformas de carregamento móvel para notebooks e tablets, com capacidade de carregamento simultâneo, gerenciamento inteligente de energia e segurança física e elétrica, destinadas ao uso da Secretaria da Educação do Estado de São Paulo, viabilizada pela Fundação para o Desenvolvimento da Educação (FDE).",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "fimVigencia": "2026-09-08T10:00",
-   "diasRestantes": 5,
-   "valorEstimado": 89540700,
-   "qtdItens": 1,
-   "modulos": [
-    "notebook",
-    "tablet"
-   ],
-   "ader": 32,
-   "score": 62,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/60509015000101/2026/146"
   },
   {
    "id": "00394502000144-2026-11097",
@@ -1125,8 +1125,7 @@
    "objeto": "Pregão eletrônico para contratação de empresa especializada para prestação de serviços continuados de suporte técnico, manutenção e sustentação de infraestrutura de tecnologia da informação e sistema GED.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware",
-    "ged"
+    "hardware"
    ],
    "fimVigencia": "2026-09-10T08:30",
    "diasRestantes": 7,
