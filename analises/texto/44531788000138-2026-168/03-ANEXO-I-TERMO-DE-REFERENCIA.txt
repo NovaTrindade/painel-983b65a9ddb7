@@ -1,0 +1,1454 @@
+=== DOCUMENTO 3: ANEXO I - TERMO DE REFERENCIA ===
+tipo: Termo de Referência | páginas: 29 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/44531788000138/compras/2026/168/arquivos/20
+
+--- [pag. PDF 1] ---
+1
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+TERMO DE REFERÊNCIA
+1. OBJETO
+O presente Termo de Referência tem por objeto a contratação de empresa especializada
+para a locação de ativos de tecnologia da informação, compreendendo o fornecimento,
+instalação, configuração, migração de dados e suporte técnico local de microcomputadores,
+notebooks e monitores corporativos, incluindo os softwares e licenças expressamente previstos
+nas especificações técnicas, manutenção preventiva e corretiva, substituição de equipamentos
+e periféricos, atualização tecnológica, desmobilização, sanitização de dados e logística reversa.
+Integra ainda a solução, como obrigação acessória e indissociável da contratada, a
+disponibilização de 1 (um) servidor físico corporativo.
+A solução será contratada em lote único, em razão da interdependência técnica e
+operacional entre hardware, softwares, instalação, migração, suporte, manutenção,
+atendimento por níveis de serviço e responsabilidade integral pela continuidade dos postos de
+trabalho.
+O objeto possui natureza de bem e serviço comum, com padrões de desempenho e
+qualidade objetivamente definidos por especificações usuais de mercado, sendo a modalidade
+de seleção o Pregão Eletrônico, com critério de julgamento pelo menor preço global mensal do
+lote, observada a aceitabilidade dos preços unitários.
+A contratação caracteriza-se como serviço contínuo, pois sua interrupção compromete
+diretamente o funcionamento das Secretarias Municipais e a prestação de serviços públicos à
+população.
+Quantitativos:
+ITEM DESCRIÇÃO DO OBJETO UNIDADE QTDE
+EQUIP. TOTAL
+1 MICROCOMPUTADOR COMPLETO TIPO I MÊS 283 6792
+2 MICROCOMPUTADOR COMPLETO TIPO II MÊS 54 1296
+3 MICROCOMPUTADOR COMPLETO AVANÇADO TIPO I MÊS 11 264
+4 NOTEBOOK TIPO I MÊS 10 240
+5 NOTEBOOK TIPO II MÊS 40 960
+6 MONITOR DE VÍDEO 21,5” MÊS 61 1464
+2. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+Tal assunto já foi abordado no Tópico 1 do Estudo Técnico Preliminar (ETP).
+3. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERADO O CICLO DE VIDA
+DO OBJETO E ESPECIFICAÇÃO DO PRODUTO
+Tal assunto já foi abordado no Tópico 4 do Estudo Técnico Preliminar (ETP).
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 2] ---
+2
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+4. REQUISITOS DA CONTRATAÇÃO
+4.1 Requisitos gerais
+Os equipamentos deverão ser novos, de primeiro uso, integrantes de linha de produção
+ativa ou com suporte oficial vigente, vedado o fornecimento de produtos usados,
+remanufaturados ou recondicionados.
+Todos os equipamentos deverão ser entregues com os acessórios, cabos, fontes,
+adaptadores, travas e demais elementos necessários ao pleno funcionamento.
+As licenças de software incluídas deverão ser legítimas, regulares, compatíveis com o
+uso governamental e mantidas válidas durante toda a vigência contratual.
+A contratada deverá manter inventário atualizado dos ativos, contendo, no mínimo,
+número de série, patrimônio, modelo, usuário ou unidade, data de instalação, chamados e
+substituições.
+A solução deverá observar a legislação de proteção de dados pessoais, as normas de
+segurança da informação da Prefeitura e as orientações da Unidade de Informática.
+Aplicam-se aos itens as especificações técnicas constantes no Apêndice I. Admite-se
+equivalente ou superior tecnicamente comprovado.
+Além dos itens licitados, durante a vigência do contrato, a contratada deverá
+disponibilizar 1 (um) servidor físico corporativo, próprio para operação contínua 24 horas por dia
+e 7 dias por semana, atendendo integralmente às especificações técnicas do Apêndice III. O
+servidor constituirá obrigação acessória da solução.
+4.2 Sustentabilidade
+A contratada será responsável pela logística reversa dos equipamentos, componentes,
+baterias, embalagens e resíduos decorrentes da execução, devendo assegurar destinação
+ambientalmente adequada e apresentar os respectivos comprovantes sempre que solicitado.
+Serão aceitas certificações equivalentes às indicadas nas especificações, desde que
+comprovem nível de desempenho, segurança, eficiência energética e sustentabilidade igual ou
+superior, mediante documentação técnica idônea.
+4.3 Subcontratação e consórcio
+Não será admitida a subcontratação do núcleo do objeto, especialmente do fornecimento
+dos ativos, da gestão dos chamados, da manutenção e do suporte técnico local. Poderão ser
+subcontratadas atividades acessórias de logística e descarte, desde que previamente
+autorizadas e sem transferência da responsabilidade integral da contratada.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 3] ---
+3
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+5. MODELO DE EXECUÇÃO DO OBJETO
+5.1 Mobilização e planejamento
+A contratada deverá apresentar, em até 10 (dez) dias úteis da emissão da Ordem de
+Serviço, Plano de Implantação contendo cronograma, equipe, método de inventário, sequência
+de unidades, procedimento de backup e migração, plano de comunicação, tratamento de
+incidentes e contingência.
+O Plano de Implantação deverá contemplar também o fornecimento e a implantação do
+servidor corporativo, indicando fabricante e modelo, configuração ofertada, cronograma de
+instalação, licenciamento, configuração de RAID, gerenciamento remoto, testes de
+redundância, conectividade e procedimento de entrega da documentação técnica.
+O prazo máximo para implantação integral será de 60 (sessenta) dias corridos contados
+da Ordem de Serviço, admitida a aprovação de cronograma diverso pela Contratante, desde
+que devidamente justificado e sem prejuízo à continuidade administrativa.
+5.2 Entrega e Instalação
+A contratada deverá realizar a entrega, retirada das embalagens, montagem e instalação
+física dos equipamentos nos locais indicados pela Prefeitura, incluindo conexão à energia e à
+rede, testes, etiquetagem, configuração e validação de funcionamento.
+A contratada deverá retirar e destinar adequadamente as embalagens e resíduos
+gerados, não sendo permitido seu acúmulo nas dependências municipais.
+A contratada deverá entregar relatório com prédio, sala, equipamento, identificador, nº
+do termo de aceite, e quantidade instalada.
+Quanto ao servidor corporativo, a contratada deverá executar o transporte até o local
+indicado, instalação física no rack, instalação dos trilhos, conexão às fontes de energia e à rede,
+instalação e ativação do sistema operacional, atualização de BIOS, firmware e drivers,
+configuração do arranjo RAID, configuração do gerenciamento remoto e realização dos testes
+de funcionamento, redundância e conectividade.
+5.3 Migração de dados e configuração
+Antes de qualquer substituição, a contratada deverá executar backup integral dos dados
+autorizados do equipamento antigo, registrar a operação e migrar os arquivos e perfis para o
+novo equipamento.
+A migração compreenderá, conforme aplicável, documentos, planilhas, imagens, PDFs,
+favoritos, perfis, históricos e configurações, além da instalação dos sistemas institucionais,
+drivers e periféricos existentes, observadas as licenças disponibilizadas pela Contratante.
+Dados pessoais, credenciais e informações sensíveis deverão ser tratados somente na
+extensão necessária, sob supervisão da Contratante e com dever de confidencialidade.
+5.4 Homologação por posto de trabalho
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 4] ---
+4
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Cada equipamento somente será considerado implantado após a emissão de Termo de
+Aceite Individual, no qual o responsável pelo setor atestará o funcionamento, a migração dos
+dados e a configuração dos sistemas e periféricos.
+Equipamentos rejeitados deverão ser corrigidos ou substituídos sem ônus e não poderão
+ser faturados até o aceite definitivo.
+5.5 Suporte técnico local
+A contratada deverá disponibilizar 1 (um) técnico residente nas dependências indicadas
+pela Prefeitura, de segunda a sexta-feira, das 8h às 18h, exceto feriados, sem prejuízo de
+atendimento remoto e escalonamento ao fabricante quando necessário.
+O profissional deverá possuir formação técnica ou experiência comprovada compatível
+com suporte a microinformática, instalação, manutenção, backup, migração e segurança de
+endpoints.
+5.6 Acordos de Nível de Serviço – SLA
+Prioridade Exemplo Início do
+atendimento
+Solução/
+contorno
+Disponibilidade
+alvo
+Crítica Posto essencial indisponível, perda
+de acesso ou risco de dados até 30 min até 4 h 99,5%
+Alta Falha impeditiva em posto comum,
+sem alternativa operacional até 1 h até 8 h úteis 99,0%
+Média Degradação parcial, periférico ou
+software com alternativa até 4 h úteis até 2 dias
+úteis -
+Baixa Solicitação, ajuste ou orientação
+sem impacto relevante até 1 dia útil até 5 dias
+úteis -
+Quando o reparo não puder ser concluído dentro do prazo de solução, a contratada
+deverá disponibilizar equipamento substituto de configuração igual ou superior, plenamente
+configurado, sem interrupção do cômputo do SLA.
+Os SLAs serão aferidos mensalmente por meio do Instrumento de Medição de Resultado
+- IMR, admitindo-se glosas proporcionais, sem prejuízo das sanções cabíveis.
+O servidor corporativo será considerado ativo crítico da solução. Quando o reparo não
+puder ser concluído dentro do prazo de solução aplicável às ocorrências críticas, a contratada
+deverá disponibilizar servidor substituto de capacidade igual ou superior, compatível com o
+sistema operacional e as aplicações utilizadas, com todas as licenças necessárias, sem
+cobrança adicional.
+5.7 Manutenção, substituição e atualização tecnológica
+A manutenção preventiva e corretiva, inclusive peças, componentes, deslocamentos,
+mão de obra e logística, será integralmente custeada pela contratada.
+A obrigação de manutenção abrange igualmente o servidor corporativo, incluindo
+diagnóstico de falhas, substituição de discos, memórias, fontes, ventiladores e demais
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 5] ---
+5
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+componentes, correção de firmware e drivers, suporte ao gerenciamento remoto e reinstalação
+do sistema operacional quando necessária em decorrência de falha de hardware ou de serviço
+executado pela contratada.
+A contratada deverá substituir periféricos e equipamentos com defeito ou desempenho
+incompatível com as especificações, bem como ativos que se tornem inadequados diante da
+evolução normal das aplicações institucionais, mediante avaliação técnica da fiscalização.
+Em caso de prorrogação que ultrapasse os 36 (trinta e seis) meses de uso dos
+equipamentos, deverá ocorrer substituição integral por modelos novos, de configuração
+equivalente ou superior aos padrões tecnológicos vigentes à época, sem custos adicionais além
+do preço contratual reajustado.
+5.8 Desmobilização e segurança dos dados
+Ao término do contrato, a retirada dos equipamentos dependerá de autorização da
+Contratante e de plano de desmobilização que preserve a continuidade dos serviços.
+Antes da retirada, a contratada deverá realizar a sanitização segura das unidades de
+armazenamento, em procedimento compatível com boas práticas reconhecidas, e emitir
+certificado individual ou relatório auditável de eliminação dos dados.
+Os discos defeituosos ou substituídos do servidor que tenham armazenado dados da
+Administração não poderão ser retirados das dependências municipais antes da realização de
+procedimento seguro de eliminação dos dados ou sem autorização formal da Contratante.
+A contratada atuará, quando aplicável, como operadora de dados pessoais, tratando
+informações somente mediante instruções documentadas da Contratante, para as finalidades
+estritamente necessárias à execução.
+É vedado copiar, reter, compartilhar ou utilizar dados municipais para finalidade diversa.
+Todos os acessos deverão ser controlados, registrados e limitados aos profissionais
+autorizados.
+Incidentes de segurança deverão ser comunicados imediatamente, com relato preliminar
+em até 4 (quatro) horas e relatório detalhado em até 2 (dois) dias úteis, sem prejuízo de prazos
+menores definidos pela Contratante.
+Ao fim da relação contratual, a contratada deverá devolver ou eliminar os dados sob sua
+guarda e comprovar a sanitização das mídias.
+6. MODELO DE GESTÃO DO CONTRATO
+O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas
+avançadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas
+consequências de sua inexecução total ou parcial.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 6] ---
+6
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o
+cronograma de execução será prorrogado automaticamente pelo tempo correspondente,
+anotadas tais circunstâncias mediante simples apostila.
+As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por
+escrito sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica
+para esse fim.
+O órgão ou entidade poderá convocar representante da empresa para adoção de
+providências que devam ser cumpridas de imediato.
+Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade poderá convocar
+o representante da empresa contratada para reunião inicial para apresentação do plano de
+fiscalização, que conterá informações acerca das obrigações contratuais, dos mecanismos de
+fiscalização, das estratégias para execução do objeto, do plano complementar de execução da
+contratada, quando houver, do método de aferição dos resultados e das sanções aplicáveis,
+dentre outros.
+As partes comprometem-se a adotar uma postura colaborativa e proativa na gestão e
+execução do contrato, de forma a assegurar o cumprimento eficiente e eficaz de suas
+obrigações.
+É dever de ambas as partes comunicar, de forma tempestiva e por escrito, quaisquer
+falhas, irregularidades, dificuldades ou eventos que possam comprometer a execução do
+contrato ou sua administração, proporcionando condições para a rápida resolução do problema.
+As comunicações referidas no parágrafo anterior devem ser realizadas por meio oficial,
+preferencialmente por correspondência eletrônica ou outro canal previamente definido entre as
+partes, resguardando-se a rastreabilidade e comprovação do envio e recebimento.
+A ausência de comunicação por qualquer das partes em relação a falhas ou
+irregularidades constatadas será considerada como omissão e poderá ensejar as medidas
+previstas na legislação aplicável, sem prejuízo da aplicação de sanções contratuais.
+As partes comprometem-se ainda a participar, sempre que necessário, de reuniões
+periódicas para acompanhamento da execução contratual, visando à identificação de
+oportunidades de melhoria e mitigação de riscos operacionais.
+Havendo contratos correlacionados ou interdependentes com outros fornecedores para
+a execução de atividades complementares ou integradas, a Contratada se compromete a:
+Colaborar com a outra parte contratada, fornecendo informações, relatórios ou
+executando serviços dentro do escopo do objeto contratual, que sejam necessários para a
+adequada realização das obrigações de ambas as contratadas;
+Zelar pela boa comunicação e pelo cumprimento dos prazos, facilitando a execução das
+atividades correlatas, respeitando os limites definidos no presente contrato;
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 7] ---
+7
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Informar imediatamente à Administração Pública quaisquer situações que possam
+comprometer o adequado cumprimento das obrigações contratuais devido à interdependência
+entre as partes contratadas.
+O descumprimento desta cláusula poderá ensejar as sanções previstas neste
+instrumento, bem como outras medidas cabíveis nos termos da legislação vigente.
+A Contratada deverá designar um preposto responsável por tratar diretamente com o
+Gestor do Contrato as questões administrativas e financeiras, bem como as solicitações de
+suporte técnico relacionadas à execução do contrato.
+A indicação se dará antes do início da prestação dos serviços, elencando no instrumento
+os poderes e deveres em relação à execução do objeto contratado.
+Todas as tratativas deverão ser realizadas formalmente, exclusivamente por meio de
+correio eletrônico, sendo vedada a utilização de atendimentos automáticos, filas de espera ou
+quaisquer sistemas que dificultem o contato direto e eficiente com o preposto.
+O prazo para resposta às solicitações enviadas pelo Gestor do Contrato será de até 72
+(setenta e duas) horas úteis, contadas a partir do recebimento do e-mail.
+prazo poderá ser prorrogado, desde que o preposto solicite a prorrogação de forma
+justificada ao Gestor do Contrato antes do término do prazo inicial e este acate as razões
+apresentadas.
+Justificadamente, a Administração poderá solicitar a substituição do preposto, que
+deverá ocorrer no prazo de 15 (quinze) dias úteis.
+O descumprimento dessas disposições poderá acarretar as penalidades previstas na
+legislação, edital e seus anexos.
+6.1 Fiscalização
+A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do
+contrato, ou pelos respectivos substitutos (Lei nº 14.133, de 2021, art. 117, caput).
+6.2 Fiscalização Técnica
+O fiscal técnico do contrato acompanhará a execução do contrato, para que sejam
+cumpridas todas as condições estabelecidas no contrato, de modo a assegurar os melhores
+resultados para a Administração.
+O fiscal técnico do contrato anotará no histórico de gerenciamento do contrato todas as
+ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para
+a regularização das faltas ou dos defeitos observados. (Lei nº 14.133, de 2021, art. 117, §1º,
+Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá
+notificações para a correção da execução do contrato, determinando prazo para a correção.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 8] ---
+8
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+O fiscal técnico do contrato informará ao gestor do contato, em tempo hábil, a situação
+que demandar decisão ou adoção de medidas que ultrapassem sua competência, para que
+adote as medidas necessárias e saneadoras, se for o caso.
+No caso de ocorrências que possam inviabilizar a execução do contrato nas datas
+aprazadas, o fiscal técnico do contrato comunicará o fato imediatamente ao gestor do contrato.
+O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término
+do contrato sob sua responsabilidade, com vistas à renovação tempestiva ou à prorrogação
+contratual
+6.3 Fiscalização Administrativa
+O fiscal administrativo do contrato verificará a manutenção das condições de habilitação
+da contratada, acompanhará o empenho, o pagamento, as garantias, as glosas e a
+formalização de apostilamento e termos aditivos, solicitando quaisquer documentos
+comprobatórios pertinentes, caso necessário.
+Caso ocorra descumprimento das obrigações contratuais, o fiscal administrativo do
+contrato atuará tempestivamente na solução do problema, reportando ao gestor do contrato
+para que tome as providências cabíveis, quando ultrapassar a sua competência;
+6.4 Gestor do Contrato
+O gestor do contrato coordenará a atualização do processo de acompanhamento e
+fiscalização do contrato contendo todos os registros formais da execução no histórico de
+gerenciamento do contrato, a exemplo da ordem de serviço, do registro de ocorrências, das
+alterações e das prorrogações contratuais, elaborando relatório com vistas à verificação da
+necessidade de adequações do contrato para fins de atendimento da finalidade da
+administração.
+O gestor do contrato acompanhará os registros realizados pelos fiscais do contrato, de
+todas as ocorrências relacionadas à execução do contrato e as medidas adotadas, informando,
+se for o caso, à autoridade superior àquelas que ultrapassarem a sua competência.
+O gestor do contrato acompanhará a manutenção das condições de habilitação da
+contratada, para fins de empenho de despesa e pagamento, e anotará os problemas que
+obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos
+eventuais.
+O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos
+fiscais técnico, administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo
+contratado, com menção ao seu desempenho na execução contratual, baseado nos
+indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo
+constar do cadastro de atesto de cumprimento de obrigações.
+O gestor do contrato tomará providências para a formalização de processo
+administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido pela
+comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor com
+competência para tal, conforme o caso.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 9] ---
+9
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+O gestor do contrato deverá elaborar relatório final com informações sobre a
+consecução dos objetivos que tenham justificado a contratação e eventuais condutas a serem
+adotadas para o aprimoramento das atividades da Administração.
+O gestor do contrato deverá enviar a documentação pertinente ao setor de contratos
+para a formalização dos procedimentos de liquidação e pagamento, no valor dimensionado pela
+fiscalização e gestão nos termos do contrato.
+7. DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS RELATIVAS À EXECUÇÃO
+A presente cláusula foi elaborada com fundamento na Lei Federal nº 14.133/2021 e na
+Resolução TCE-SP nº 11/2023, com as alterações promovidas pelas Resoluções TCE-SP nº
+4/2026 e nº 7/2026. Foram consideradas exclusivamente as disposições aplicáveis à execução
+do Contrato ou da Ata de Registro de Preços, excluídas aquelas relativas ao procedimento
+licitatório.
+7.1 Esta seção disciplina exclusivamente a responsabilização por fatos ocorridos na
+execução do contrato, de instrumento equivalente ou de obrigação executiva já constituída no
+âmbito de Ata de Registro de Preços. As condutas próprias da fase de seleção do fornecedor
+ou anteriores à formalização da obrigação executiva serão tratadas em seção própria do
+instrumento convocatório e não integram esta matriz.
+7.1.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as
+cláusulas avençadas, este Termo de Referência e a Lei Federal nº 14.133, de 1º de abril de
+2021, respondendo cada parte pelas consequências de sua inexecução total ou parcial, nos
+termos do art. 115 da referida Lei.
+7.1.2. A aplicação das sanções não exclui a obrigação de reparação integral do dano
+causado à Administração, nem as responsabilidades civil e penal cabíveis.
+7.2 A apuração das infrações e a aplicação das sanções competirão à autoridade
+definida na legislação e na regulamentação do órgão ou entidade contratante, observadas a
+segregação de funções, a individualização das condutas, o contraditório, a ampla defesa, a
+motivação, a razoabilidade, a proporcionalidade e, quando exigida, a análise jurídica prévia.
+Das infrações administrativas de execução.
+7.3 Constituem infrações administrativas relacionadas à execução, mantida a
+numeração dos incisos correspondentes do art. 155 da Lei Federal nº 14.133/2021:
+I - Dar causa à inexecução parcial do contrato (art. 155, inciso I);
+II - Dar causa à inexecução parcial do contrato que cause grave dano à Administração,
+ao funcionamento dos serviços públicos ou ao interesse coletivo (art. 155, inciso II);
+III - dar causa à inexecução total do contrato (art. 155, inciso III);
+VII - ensejar, sem motivo justificado, o retardamento da execução ou da entrega do
+objeto (art. 155, inciso VII);
+VIII - prestar declaração falsa durante a execução do contrato (art. 155, inciso VIII,
+exclusivamente na hipótese relacionada à execução);
+IX - Praticar ato fraudulento na execução do contrato (art. 155, inciso IX, exclusivamente
+na hipótese relacionada à execução);
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 10] ---
+10
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+X - Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza durante a
+execução do ajuste (art. 155, inciso X);
+XII - praticar ato lesivo previsto no art. 5º da Lei Federal nº 12.846, de 1º de agosto de
+2013, relacionado à execução do ajuste (art. 155, inciso XII).
+7.3.1. Para os fins do inciso X, considera-se comportamento inidôneo, entre outras
+condutas de gravidade equivalente, a prática de ato destinado a prejudicar o bom andamento
+da execução contratual, a fiscalização, o recebimento ou a aferição do objeto.
+Das sanções administrativas.
+7.4 Ao responsável pelas infrações previstas no item 7.3 poderão ser aplicadas,
+mediante processo administrativo e decisão motivada, as seguintes sanções previstas no art.
+156 da Lei Federal nº 14.133/2021:
+I - Advertência;
+II - Multa;
+III - Impedimento de licitar e contratar;
+IV - Declaração de inidoneidade para licitar ou contratar.
+7.4.1. A advertência será aplicada exclusivamente pela infração prevista no art. 155,
+inciso I, quando não se justificar a imposição de sanção mais grave.
+7.4.2. A multa poderá ser aplicada por qualquer das infrações relacionadas no item
+7.3, isoladamente ou cumulativamente com advertência, impedimento de licitar e contratar ou
+declaração de inidoneidade, quando cabível.
+7.4.3. O impedimento de licitar e contratar será aplicado pelas infrações previstas no
+art. 155, incisos II, III e VII, quando não se justificar a imposição de sanção mais grave, e
+produzirá efeitos no âmbito da Administração Pública direta e indireta do ente federativo que
+aplicar a sanção, pelo prazo máximo de 3 (três) anos.
+7.4.4. A declaração de inidoneidade para licitar ou contratar será aplicada pelas
+infrações previstas no art. 155, incisos VIII, IX, X e XII, bem como pelas infrações dos incisos II,
+III e VII que, em razão de sua gravidade, justifiquem sanção mais severa, e produzirá efeitos no
+âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo
+mínimo de 3 (três) anos e máximo de 6 (seis) anos.
+7.4.5. A declaração de inidoneidade será precedida de análise jurídica e aplicada
+pela autoridade competente indicada no art. 156, § 6º, da Lei Federal nº 14.133/2021, observada
+a regulamentação do órgão ou entidade.
+Dos parâmetros para o impedimento e a declaração de inidoneidade.
+7.5 Para a dosimetria do impedimento de licitar e contratar, adotam-se as seguintes
+penas-base, sem prejuízo da imposição de declaração de inidoneidade quando a gravidade do
+caso a justificar:
+I - 4 (quatro) meses, para a infração do art. 155, inciso VII;
+II - 1 (um) ano, para a infração do art. 155, inciso II;
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 11] ---
+11
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+III - 2 (dois) anos, para a infração do art. 155, inciso III.
+7.5.1. A pena-base do impedimento será majorada em 50% (cinquenta por cento) por
+circunstância agravante, até o limite de 3 (três) anos, e poderá ser reduzida em 50% (cinquenta
+por cento), uma única vez, por circunstância atenuante, observado o mínimo de 1 (um) mês. As
+agravantes e atenuantes incidirão sobre a pena-base.
+7.5.2. A pena-base da declaração de inidoneidade será de 4 (quatro) anos. Será
+majorada em 50% (cinquenta por cento) por circunstância agravante, até o limite de 6 (seis)
+anos, e poderá ser reduzida em 50% (cinquenta por cento), uma única vez, por circunstância
+atenuante, observado o mínimo legal de 3 (três) anos. As agravantes e atenuantes incidirão
+sobre a pena-base.
+Das multas e de suas bases de cálculo.
+7.6 As multas serão fixadas de forma motivada e observarão o intervalo de 0,5%
+(cinco décimos por cento) a 30% (trinta por cento) do valor do contrato, nos termos do art. 156,
+§ 3º, da Lei Federal nº 14.133/2021, sem prejuízo das regras específicas dos itens seguintes.
+7.6.1. O atraso injustificado na execução do contrato poderá sujeitar o contratado a
+multa de mora calculada sobre o valor da obrigação não cumprida, a partir do primeiro dia útil
+seguinte ao término do prazo estipulado, observados os seguintes critérios:
+I - 0,5% (meio por cento) ao dia, para atraso de até 15 (quinze) dias;
+II - 1% (um por cento) ao dia, do 16º (décimo sexto) ao 30º (trigésimo) dia,
+aplicada em acréscimo à multa do inciso I;
+III - após 30 (trinta) dias, fica caracterizada a inexecução parcial ou total
+do contrato, conforme o caso.
+7.6.1.1. Os prazos do item 11.6.1 serão contados em dias corridos, a partir do primeiro
+dia útil seguinte ao término do prazo da obrigação.
+7.6.1.2. A aplicação da multa de mora considerará as circunstâncias do caso, a
+razoabilidade e a proporcionalidade, mediante decisão fundamentada.
+7.6.2 Os bens não aceitos e as obras ou os serviços executados em desacordo
+com as especificações deverão ser reparados, corrigidos, removidos, reconstruídos ou
+substituídos, às expensas do contratado, no prazo fixado na seção de recebimento deste Termo
+de Referência. Na ausência de prazo específico, a regularização deverá ocorrer em até 15
+(quinze) dias corridos, contado do recebimento da comunicação da recusa.
+7.6.2.1. O pedido de prorrogação do prazo de correção ou substituição deverá ser
+apresentado antes de seu término, acompanhado de justificativa e dos elementos
+comprobatórios pertinentes.
+7.6.2.2. A ausência de regularização no prazo determinado ensejará a aplicação das
+sanções cabíveis, considerando-se a mora a partir do primeiro dia útil seguinte ao término do
+prazo de correção ou substituição.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 12] ---
+12
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+7.6.3. Sem prejuízo da multa de mora e observada a vedação à dupla penalização
+pelo mesmo fato, as multas compensatórias terão as seguintes penas-base e bases de cálculo:
+Infração Pena-
+base
+Base de cálculo
+Inexecução parcial sem grave
+dano - art. 155, I
+10% valor da obrigação ou
+parcela não cumprida
+Inexecução parcial com grave
+dano - art. 155, II
+20% valor da obrigação
+afetada; se o dano alcançar o
+objeto como um todo, valor total
+do contrato
+Inexecução total - art. 155, III 30% valor total do contrato
+Declaração falsa durante a
+execução - art. 155, VIII
+20% valor total do contrato
+Ato fraudulento,
+comportamento inidôneo ou ato lesivo -
+art. 155, IX, X ou XII
+30% valor total do contrato
+7.6.3.1. As penas-base da multa compensatória poderão ser reduzidas ou majoradas,
+de forma motivada, em razão das circunstâncias atenuantes ou agravantes, respeitado o
+intervalo legal de 0,5% (cinco décimos por cento) a 30% (trinta por cento) do valor total do
+contrato.
+7.6.4. A multa de mora poderá ser convertida em compensatória e o contrato poderá
+ser extinto unilateralmente, com a aplicação cumulada de outras sanções cabíveis, nos termos
+do art. 162, parágrafo único, da Lei Federal nº 14.133/2021.
+7.6.4.1. Na conversão, o valor da multa de mora já apurado será deduzido da multa
+compensatória incidente sobre o mesmo núcleo fático, vedada a cumulação das duas multas
+pelo mesmo atraso.
+7.6.5. Para o mesmo núcleo fático, a soma das multas previstas nesta seção não
+excederá 30% (trinta por cento) do valor total do contrato, sem prejuízo da reparação integral
+dos danos e das sanções aplicáveis por fatos autônomos.
+7.6.6. Após a decisão administrativa definitiva, os valores das multas e das
+indenizações poderão ser descontados de pagamentos devidos, deduzidos da garantia
+contratual ou cobrados pelos meios legalmente admitidos. Se a multa e as indenizações forem
+superiores ao pagamento eventualmente devido, a diferença será descontada da garantia ou
+cobrada judicialmente, na forma do art. 156, § 8º, da Lei Federal nº 14.133/2021.
+Da dosimetria.
+7.7 Na aplicação e na dosimetria das sanções serão considerados os critérios do art.
+156, § 1º, da Lei Federal nº 14.133/2021:
+I - a natureza e a gravidade da infração cometida;
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 13] ---
+13
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+II - As peculiaridades do caso concreto;
+III - as circunstâncias agravantes ou atenuantes;
+IV - Os danos que dela provierem para a Administração Pública;
+V - A implantação ou o aperfeiçoamento de programa de integridade,
+conforme normas e orientações dos órgãos de controle.
+7.7.1. Constituem circunstâncias agravantes, quando não integrarem o próprio tipo
+infracional:
+I - A existência de sanção administrativa definitiva em vigor, relacionada a
+contratação pública, nos 12 (doze) meses anteriores ao fato;
+II - A inércia deliberada diante de diligências destinadas a esclarecer,
+corrigir ou mitigar o inadimplemento contratual.
+7.7.2. Constituem circunstâncias atenuantes, quando demonstradas no caso
+concreto:
+I - A falha escusável;
+II - A adoção tempestiva de medidas efetivas para corrigir a conduta ou
+mitigar seus efeitos danosos.
+7.7.3. A decisão deverá individualizar a conduta, indicar a pena-base e os ajustes
+realizados, demonstrar a adequação entre a infração e a sanção e evitar a dupla valoração da
+mesma circunstância.
+Do processo administrativo, dos recursos e dos efeitos.
+7.8 A ocorrência será comunicada pelo gestor, pelo fiscal ou por quem detenha
+responsabilidade pelo acompanhamento da execução à unidade competente para instauração
+do processo sancionatório, acompanhada dos elementos disponíveis e da individualização
+preliminar da conduta.
+7.8.1. Para a aplicação de advertência ou multa, será assegurada defesa escrita no
+prazo de 15 (quinze) dias úteis, contado da intimação, observado o art. 157 da Lei Federal nº
+14.133/2021 e a regulamentação local.
+7.8.2. A aplicação de impedimento de licitar e contratar ou de declaração de
+inidoneidade exigirá processo de responsabilização conduzido por comissão composta de 2
+(dois) ou mais servidores estáveis. Se o quadro funcional não for estatutário, a comissão será
+composta de 2 (dois) ou mais empregados públicos do quadro permanente, preferencialmente
+com, no mínimo, 3 (três) anos de tempo de serviço, nos termos do art. 158 da Lei Federal nº
+14.133/2021.
+7.8.3. O responsável será intimado para apresentar defesa escrita e especificar as
+provas que pretenda produzir no prazo de 15 (quinze) dias úteis. Deferida a produção de novas
+provas ou juntadas provas indispensáveis, será facultada a apresentação de alegações finais
+no prazo de 15 (quinze) dias úteis, contado da intimação.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 14] ---
+14
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+7.8.4. Quando houver garantia contratual, o respectivo emitente será notificado do
+início do processo administrativo para apuração de descumprimento de cláusulas contratuais,
+nos termos do art. 137, § 4º, da Lei Federal nº 14.133/2021.
+7.8.5. Da decisão que aplicar advertência, multa ou impedimento de licitar e contratar
+caberá recurso no prazo de 15 (quinze) dias úteis, nos termos do art. 166 da Lei Federal nº
+14.133/2021.
+7.8.6. Da decisão que aplicar declaração de inidoneidade caberá pedido de
+reconsideração no prazo de 15 (quinze) dias úteis, nos termos do art. 167 da Lei Federal nº
+14.133/2021.
+7.8.7. O recurso e o pedido de reconsideração terão efeito suspensivo até a decisão
+final da autoridade competente, conforme o art. 168 da Lei Federal nº 14.133/2021.
+7.8.8. A prescrição ocorrerá em 5 (cinco) anos, contados da ciência da infração pela
+Administração, observadas as causas de interrupção e suspensão previstas no art. 158, § 4º,
+da Lei Federal nº 14.133/2021.
+7.9 Os atos que também constituam atos lesivos previstos na Lei Federal nº
+12.846/2013 serão apurados e julgados conjuntamente, nos mesmos autos, observado o art.
+159 da Lei Federal nº 14.133/2021.
+7.9.1. A personalidade jurídica poderá ser desconsiderada nas hipóteses do art. 160
+da Lei Federal nº 14.133/2021, assegurados o contraditório, a ampla defesa e a análise jurídica
+prévia.
+7.9.2. As sanções serão registradas nos cadastros legalmente exigidos, inclusive no
+Cadastro Nacional de Empresas Inidôneas e Suspensas - Ceis e no Cadastro Nacional de
+Empresas Punidas - Cnep, observado o art. 161 da Lei Federal nº 14.133/2021 e a
+regulamentação aplicável.
+7.9.3. A reabilitação será admitida perante a autoridade que aplicou a sanção, desde
+que atendidos cumulativamente os requisitos do art. 163 da Lei Federal nº 14.133/2021. Nas
+infrações dos incisos VIII e XII do art. 155, será exigida também a implantação ou o
+aperfeiçoamento de programa de integridade.
+8. CRITÉRIOS DE MEDIÇÃO E DE PAGAMENTO
+8.1 Recebimento
+O recebimento provisório da implantação ocorrerá após a instalação e a emissão dos
+Termos de Aceite Individual. O recebimento definitivo ocorrerá após verificação técnica
+consolidada, em até 15 (quinze) dias úteis, sem prejuízo da responsabilidade por vícios ocultos.
+A medição mensal considerará a quantidade de equipamentos aceitos e efetivamente
+disponibilizados durante o período, os chamados registrados, o cumprimento dos SLAs e as
+ocorrências de indisponibilidade.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 15] ---
+15
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+O servidor corporativo, cedido em comodato, não será objeto de medição quantitativa
+ou faturamento individual, uma vez eu seus custos já devem ser embutidos nas mensalidades
+dos outros dispositivos. Seu adequado fornecimento, licenciamento, instalação, disponibilidade,
+manutenção e suporte constituirão condições de conformidade da solução e serão aferidos pela
+fiscalização para fins de aceite, aplicação do IMR, glosas e sanções, quando cabíveis.
+8.2 Instrumento de Medição de Resultado - IMR
+Indicador Meta Faixa de
+desconformidade
+Efeito sugerido na
+medição
+Disponibilidade dos
+equipamentos críticos
+≥ 99,5% ao
+mês
+99,0% a 99,49% /
+abaixo de 99,0%
+glosa de 1% / 3% sobre a
+parcela afetada
+Chamados críticos
+solucionados no prazo ≥ 95% 90% a 94,99% /
+abaixo de 90%
+glosa de 1% / 3% sobre a
+parcela afetada
+Chamados gerais
+solucionados no prazo ≥ 90% 80% a 89,99% /
+abaixo de 80%
+glosa de 0,5% / 2% sobre
+a parcela afetada
+Inventário e relatórios
+mensais
+100% e no
+prazo
+atraso ou
+inconsistência
+glosa de 0,5% até
+regularização
+As glosas constituem ajuste da remuneração ao resultado efetivamente entregue e não
+impedem a aplicação de penalidades quando houver culpa, reincidência ou inexecução
+relevante.
+8.3 Liquidação
+O pagamento será mensal, após o aceite da medição e apresentação da nota fiscal,
+observada a regularidade fiscal e trabalhista, no prazo definido no edital e no contrato.
+Não haverá pagamento por equipamento ainda não aceito, indisponível sem
+substituição, retirado sem autorização ou em desconformidade com as especificações.
+Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de 10
+(dez) dias úteis para fins de liquidação, na forma desta seção, prorrogáveis por igual período.
+Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou instrumento de
+cobrança equivalente apresentado expressa os elementos necessários e essenciais do
+documento, tais como:
+• o prazo de validade;
+• a data da emissão;
+• os dados do contrato e do órgão contratante;
+• o período respectivo de execução do contrato;
+• o valor a pagar; e
+• eventual destaque do valor de retenções tributárias cabíveis.
+Havendo erro na apresentação da nota fiscal ou instrumento de cobrança equivalente,
+ou circunstância que impeça a liquidação da despesa, esta ficará sobrestada até que o
+contratado providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação da
+regularização da situação, sem ônus ao contratante;
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 16] ---
+16
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+A nota fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente
+acompanhado da comprovação da regularidade fiscal, constatada por meio de consulta on-line
+ou, na impossibilidade de acesso ao referido Sistema, mediante consulta aos sítios eletrônicos
+oficiais ou à documentação mencionada no art. 68 da Lei Federal nº 14.133, de 2021.
+8.4 A Administração deverá:
+• Verificar a manutenção das condições de habilitação exigidas no edital;
+• Identificar possível razão que impeça a participação em licitação, no âmbito do órgão ou
+entidade, proibição de contratar com o Poder Público, bem como ocorrências impeditivas
+indiretas.
+Constatando-se, a situação de irregularidade do contratado, será providenciada sua
+notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou,
+no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual
+período, a critério do contratante.
+Não havendo regularização ou sendo a defesa considerada improcedente, o contratante
+deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à
+inadimplência do contratado, bem como quanto à existência de pagamento a ser efetuado, para
+que sejam acionados os meios pertinentes e necessários para garantir o recebimento de seus
+créditos.
+Persistindo a irregularidade, o contratante deverá adotar as medidas necessárias à
+rescisão contratual nos autos do processo administrativo correspondente, assegurada ao
+contratado a ampla defesa.
+Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente,
+até que se decida pela rescisão do contrato, caso o contratado não regularize sua situação.
+8.5 Prazo de pagamento
+O pagamento será efetuado no prazo de até 10 (dez) dias úteis contados da liquidação
+das notas fiscais, conforme seção anterior.
+No caso de atraso pelo Contratante, os valores devidos ao contratado serão atualizados
+monetariamente entre o termo final do prazo de pagamento até a data de sua efetiva realização,
+mediante aplicação do índice IPCA de correção monetária.
+8.6 Forma de pagamento
+O pagamento será realizado por meio de ordem bancária, para crédito em banco,
+agência e conta corrente indicados pelo contratado.
+Será considerada data do pagamento o dia em que constar como emitida a ordem
+bancária para pagamento.
+Quando do pagamento, será efetuada a retenção tributária prevista na legislação
+aplicável.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 17] ---
+17
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+O contratado regularmente optante pelo Simples Nacional, nos termos da Lei
+Complementar Federal nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos
+e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à
+apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento
+tributário favorecido previsto na referida Lei Complementa
+9. MATRIZ DE RISCOS AO EQUILÍBRIO ECONÔMICO-FINANCEIRO
+A matriz de riscos que abrange critérios onde será previsto reequilíbrio financeiro do
+instrumento de contratação está pormenorizada no Apêndice II.
+A apresentação da proposta implica plena ciência e aceitação da alocação de
+responsabilidades estabelecida nesta Matriz de Riscos, que integrará o contrato e vinculará as
+partes. Nos termos do art. 103, §§ 4º e 5º, da Lei nº 14.133/2021, a matriz define o equilíbrio
+econômico-financeiro inicial e orientará a análise de eventuais pleitos. A parte que assumir o
+risco suportará seus efeitos, ressalvadas as hipóteses legais. Nos compartilhamentos, cada
+parte suportará o percentual expressamente atribuído sobre a base objetiva definida, vedado
+qualquer rateio arbitrário.
+10. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E FORMA DE
+FORNECIMENTO
+O fornecedor será selecionado por meio da realização de PREGÃO ELETRÔNICO com
+fundamento na hipótese do art. 6, inciso 41 da Lei n.º 14.133/2021, adotando o critério de
+julgamento de MENOR VALOR GLOBAL Conforme justificado no ETP.
+A proposta deverá apresentar valores unitários mensais e valor global mensal e para 24
+meses, contemplando todos os custos diretos e indiretos, tributos, licenças, logística,
+implantação, suporte, manutenção, substituições, seguros, encargos e desmobilização.
+Os valores propostos para os itens do lote deverão contemplar, de forma integral e
+diluída, todos os custos relacionados ao servidor corporativo, inclusive aquisição ou
+disponibilização, transporte, instalação em rack, sistema operacional e licenciamento, licenças
+de gerenciamento remoto, configuração, suporte, manutenção preventiva e corretiva, peças,
+substituição temporária ou definitiva, sanitização de dados e desmobilização. É vedada a
+apresentação de linha de preço específica para o servidor.
+Na elaboração das propostas readequadas, os licitantes deverão observar, para
+cada item o piso correspondente ao percentual mínimo de exequibilidade e o teto definido
+pelo respectivo valor de referência. Para isso, além da indicação dos valores unitários e
+subtotais, a proposta deverá apresentar uma coluna específica contendo o percentual de
+desconto aplicado em relação ao valor de referência de cada item do lote.
+• Será obrigatória a apresentação de planilha de composição de custos para os itens
+que apresentarem desconto superior a 50% em relação ao seu valor de referência,
+independentemente do lote em que estejam inseridos, devendo essa planilha demonstrar
+de forma clara o custo do item e a margem de lucro adotada.
+• Será desclassificada a proposta que apresentar, em qualquer dos lotes, itens cujo
+preço unitário esteja acima de seu valor de referência estabelecido pela Administração.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 18] ---
+18
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+• O descumprimento de qualquer uma das exigências acima resultará na
+desclassificação da proposta, por comprometer a transparência e a avaliação de sua
+exequibilidade.
+• Tais exigências justificam-se pela necessidade de mitigar a prática conhecida
+como “jogo de planilha”, que consiste em ofertar preços artificialmente baixos em
+determinados itens (geralmente aqueles com menor peso na composição do valor global)
+compensando essa redução com a majoração de outros itens. Essa prática distorce a
+competitividade, dificulta a comparação objetiva entre propostas e pode resultar em
+prejuízo à Administração, razão pela qual se adota o controle individualizado dos preços
+unitários e a verificação da coerência dos valores apresentados.
+• A veracidade e a precisão de todas as informações apresentadas são de
+responsabilidade exclusiva do licitante, ficando este sujeito à aplicação das sanções
+administrativas e legais cabíveis, nos termos dos arts. 155, incisos VIII e IX, 156, § 5º, e
+337-L da Lei nº 14.133/2021.
+10.1 Forma de fornecimento
+O fornecimento do objeto será contínuo, com os equipamentos sendo alocados nas
+dependências da Administração.
+10.2 Exigências de habilitação
+Previamente à celebração do contrato, a Administração verificará o eventual
+descumprimento das condições para contratação, especialmente quanto à existência de
+sanção que a impeça, mediante a consulta a cadastros informativos oficiais, tais como:
+a) Sistema de apenados pelo Tribunal de Contas do Estado de São Paulo;
+b) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela
+Controladoria- Geral da União (www.portaldatransparencia.gov.br/ceis);
+c) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela
+Controladoria-
+d) Geral da União (www.portaldatransparencia.gov.br/ceis);
+e) Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-
+Geral da União (https://www.portaltransparencia.gov.br/sancoes/cnep)
+A consulta aos cadastros será realizada em nome da empresa interessada e de seu
+sócio majoritário, por força do artigo 12 da Lei n° 8.429, de 1992, que prevê, dentre as sanções
+impostas ao responsável pela prática de ato de improbidade administrativa, a proibição de
+contratar com o Poder Público, inclusive por intermédio de pessoa jurídica da qual seja sócio
+majoritário.
+Caso conste na Consulta de Situação do interessado a existência de Ocorrências
+Impeditivas Indiretas, o gestor diligenciará para verificar se houve fraude por parte das
+empresas apontadas no Relatório de Ocorrências Impeditivas Indiretas.
+A tentativa de burla será verificada por meio dos vínculos societários, linhas de
+fornecimento similares, dentre outros.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 19] ---
+19
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+O interessado será convocado para manifestação previamente a uma eventual negativa
+de contratação.
+Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF diferentes,
+salvo aqueles legalmente permitidos.
+Se o interessado for a matriz, todos os documentos deverão estar em nome da matriz,
+e se o fornecedor for a filial, todos os documentos deverão estar em nome da filial, exceto para
+atestados de capacidade técnica, caso exigidos, e no caso daqueles documentos que, pela
+própria natureza, comprovadamente, forem emitidos somente em nome da matriz.
+Serão aceitos registros de CNPJ de fornecedor matriz e filial com diferenças de números
+de documentos pertinentes ao CND e ao CRF/FGTS, quando for comprovada a centralização
+do recolhimento dessas contribuições.
+Em até 30 dias após a assinatura do contrato, a licitante deverá indicar profissional apto
+a atuar como responsável pelo suporte técnico local e comprovar o vínculo admitido em lei e a
+qualificação compatível.
+Para fins de habilitação, deverá o interessado comprovar os seguintes requisitos, que
+serão exigidos conforme sua natureza jurídica:
+10.3 Habilitação jurídica
+• Sociedade empresária, sociedade limitada unipessoal – SLU ou sociedade
+identificada como empresa individual de responsabilidade limitada - EIRELI: inscrição do
+ato constitutivo, estatuto ou contrato social no Registro Público de Empresas Mercantis, a cargo
+da Junta Comercial da respectiva sede, acompanhada de documento comprobatório de seus
+administradores;
+• Sociedade empresária estrangeira: portaria de autorização de funcionamento no
+Brasil, publicada no Diário Oficial da União e arquivada na Junta Comercial da unidade
+federativa onde se localizar a filial, agência, sucursal ou estabelecimento, a qual será
+considerada como sua sede.
+• Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas
+do local de sua sede, acompanhada de documento comprobatório de seus administradores;
+• Filial, sucursal ou agência de sociedade simples ou empresária: inscrição do ato
+constitutivo da filial, sucursal ou agência da sociedade simples ou empresária, respectivamente,
+no Registro Civil das Pessoas Jurídicas ou no Registro Público de Empresas Mercantis onde
+opera, com averbação no Registro onde tem sede a matriz
+• Os documentos apresentados deverão estar acompanhados de todas as alterações ou
+da consolidação respectiva.
+10.4 Habilitação fiscal, social e trabalhista
+• Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro de
+Pessoas Físicas, conforme o caso;
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 20] ---
+20
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+• Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de
+certidão expedida conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela
+Procuradoria-Geral da Fazenda Nacional (PGFN), referente a todos os créditos tributários
+federais e à Dívida Ativa da União (DAU) por elas administrados, inclusive aqueles relativos à
+Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de 02 de outubro de 2014, do
+Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional.
+• Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+• Declaração de que não emprega menor de 18 anos em trabalho noturno, perigoso ou
+insalubre e não emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de
+aprendiz, nos termos do artigo 7°, XXXIII, da Constituição;
+• Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante
+a apresentação de certidão negativa ou positiva com efeito de negativa, nos termos do Título
+VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio
+de 1943;
+• Prova de regularidade com a Fazenda Estadual do domicílio ou sede do fornecedor,
+relativa à atividade em cujo exercício contrata ou concorre;
+• Prova de regularidade com a Fazenda Municipal do domicílio ou sede da licitante,
+pertinente à atividade. Caso a licitante possua vínculo tributário com o Município de Lins, deverá
+apresentar também prova de regularidade com a Fazenda Municipal de Lins.
+• Caso o fornecedor seja considerado isento dos tributos [Estadual/Distrital] ou
+[Municipal/Distrital] relacionados ao objeto contratual, deverá comprovar tal condição mediante
+a apresentação de declaração da Fazenda respectiva do seu domicílio ou sede, ou outra
+equivalente, na forma da lei.
+• O fornecedor enquadrado como microempreendedor individual que pretenda auferir os
+benefícios do tratamento diferenciado previstos na Lei Complementar n. 123, de 2006, estará
+dispensado da prova de inscrição nos cadastros de contribuintes estadual e municipal.
+• Declaração do cumprimento das exigências de reserva de cargos para pessoa com
+deficiência e para reabilitado da previdência social conforme Art. 63-IV da Lei nº 14.133/2021.
+10.5 Qualificação Econômico-Financeira
+• Certidão negativa de falência expedida pelo distribuidor da sede do fornecedor - Lei nº
+14.133, de 2021, art. 69, caput, inciso II);
+• Balanço Patrimonial, demonstração de resultado de exercício e demais demonstrações
+contábeis dos 02 (dois) últimos exercícios sociais, já exigíveis e apresentados na
+forma da lei, ou balanço de abertura para o caso de empresa recém-constituída, que
+comprovem a boa situação financeira daempresa, vedada a sua substituição por
+balancetes ou balanços provisórios;
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 21] ---
+21
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+• O Balanço Patrimonial e as demonstrações Contábeis, bem como o Balanço de
+Abertura (para o caso de empresas recém-constituídas), deverão estar devidamente
+registrados na Junta Comercial ou Cartório de Registro competente da sede ou
+domicilio da licitante, assinados por Contador registrado no Conselho Regional de
+Contabilidade ou pelo Contabilista Legalmente Habilitado, conforme estabelecido
+pelo Decreto-Lei 9.295/46, acompanhados de cópias autenticadas dos Termos de
+Abertura e encerramento do Livro Diário do qual foram extraídos (cf. artigo 5º, §2º,
+do Decreto Lei 486/69);
+• As empresas que utilizam a escrituração contábil digital deverão apresentar o
+Balanço Patrimonial e Demonstrativo de Resultado do último exercício social
+exigível, acompanhado dos Termos de Abertura e Encerramento (relatório gerado
+pelo SPED), Recibo de Entrega do Livro Digital na Receita Federal;
+• As empresas que utilizam a escrituração contábil através de Livro Fiscal deverão
+apresentar o Balanço Patrimonial e Demonstrativo de Resultado do último exercício
+social exigível, acompanhado dos Termos de Abertura e Encerramento;
+• Sociedades sujeitas ao regime estabelecido na Lei Complementar nº 123/2006
+(Microempresas e das Empresas de Pequeno Porte) não estão dispensadas da
+apresentação de Balanço Patrimonial, devendo proceder com sua apresentação na
+forma estabelecida nos itens supracitados;
+• Para ser habilitado o Licitante deverá alcançar o Liquidez Corrente e Liquidez Geral
+maior ou igual a 01 e Índice de Endividamento Geral menor ou igual a 0,5, apurados
+a partir dos dados expressos no Balanço Patrimonial e Demonstrações Contábeis,
+pelas fórmulas seguintes:
+o ILC - Índice de Liquidez Corrente = Ativo Circulante / Passivo Circulante
+o ILG - Índice de Liquidez Geral = Ativo Circulante + Realizável a Longo Prazo /
+(Passivo Circulante + Passivo não Circulante)
+o IED – Índice de Endividamento Total = Passivo Circulante + Passivo não
+Circulante/Ativo Total.
+• Os índices acima, bem como suas memórias de cálculo deverão ser apresentados
+também em declaração assinada por profissional da área contábil ou pelo representante
+legal da licitante.
+• Também deverá apresentar junto com os documentos de habilitação a comprovação de
+Patrimônio Líquido e/ou Capital Social corresponde a 10% (dez por cento) do valor anual
+estimado da contratação.
+• Garantia de proposta no valor de 1% do valor anual estimado, nas modalidades previstas
+na legislação;
+10.6 Qualificação Técnica
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 22] ---
+22
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+• A licitante deverá apresentar atestado(s) emitido(s) por pessoa jurídica de direito
+público ou privado que comprovem experiência na locação e sustentação de
+parque de microcomputadores e/ou notebooks, incluindo instalação, manutenção
+e suporte, em quantitativo mínimo de até 50% da parcela de maior relevância,
+admitido o somatório de atestados executados de forma concomitante, conforme
+definido no edital.
+o A parcela de maior relevância será considerada a locação e manutenção
+de microcomputadores corporativos, em quantidade mínima de 145
+unidades.
+• Comprovação por meios idôneos da legitimidade da comercialização dos
+softwares exigidos;
+• Apresentação de catálogo/ficha técnica dos equipamentos;
+A licitante provisoriamente classificada em primeiro lugar deverá apresentar ficha
+técnica oficial, catálogo, manual ou documento emitido pelo fabricante do servidor
+ofertado, permitindo verificar fabricante, modelo, processador, memória, discos,
+controladora de armazenamento, interfaces de rede, fontes de alimentação,
+gerenciamento remoto, compatibilidade com o sistema operacional e certificações
+aplicáveis. As características dependentes de configuração específica poderão ser
+comprovadas por declaração da licitante acompanhada da identificação dos
+componentes instalados.
+• O licitante poderá realizar visita técnica aos locais de instalação e operação dos
+sistemas, nos moldes do § 2º do art. 63 da Lei nº 14.133/2021, para verificação
+da infraestrutura tecnológica, ambiente de rede, equipamentos e demais
+condições relacionadas à execução do objeto.
+• Na hipótese de não realização da visita técnica, o proponente deverá apresentar
+declaração formal, assinada pelo responsável técnico, acerca do pleno
+conhecimento das condições, peculiaridades e requisitos da contratação,
+conforme disposto no § 3º do art. 63 da Lei nº 14.133/2021.
+10.7 Garantias
+Será exigida garantia contratual de 5% do valor anual do contrato, nas modalidades
+legalmente admitidas.
+11. OBRIGAÇÕES DA CONTRATADA
+• executar o objeto conforme este Termo de Referência, proposta e contrato;
+• fornecer todos os equipamentos, licenças, peças, insumos, ferramentas e pessoal
+necessários;
+• manter durante toda a execução as condições de habilitação e qualificação;
+• reparar, corrigir, remover ou substituir, às suas expensas, o objeto com vícios ou defeitos;
+• responder pelos danos causados à Administração, aos usuários ou a terceiros;
+• guardar sigilo sobre dados, credenciais, documentos, configurações e informações
+acessadas;
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 23] ---
+23
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+• comunicar imediatamente incidentes de segurança, perda de dados, acesso indevido ou
+indisponibilidade relevante;
+• cumprir a legislação trabalhista, previdenciária, fiscal, ambiental e de saúde e segurança do
+trabalho;
+• entregar relatórios mensais de inventário, chamados, SLAs, substituições, licenças e
+destinação ambiental;
+• assegurar que seus empregados estejam identificados e cumpram as normas de acesso
+aos prédios municipais.
+12. OBRIGAÇÕES DA CONTRATANTE
+• fornecer informações, acessos e condições necessárias à execução;
+• indicar os locais e responsáveis pelos postos de trabalho;
+• disponibilizar infraestrutura elétrica e de rede em condições de uso;
+• acompanhar, fiscalizar, atestar e efetuar os pagamentos devidos;
+• comunicar falhas e permitir o acesso controlado da equipe técnica;
+• disponibilizar as mídias, chaves ou instaladores dos softwares próprios que devam ser
+replicados;
+• zelar pelo uso adequado dos equipamentos e comunicar danos, furtos ou movimentações.
+13. VIGÊNCIA, REAJUSTE E ALTERAÇÕES
+O prazo de vigência será de 24 (vinte e quatro) meses, contado da assinatura ou da data
+definida no contrato, podendo ser prorrogado sucessivamente, desde que demonstradas a
+vantajosidade, a disponibilidade orçamentária e o atendimento aos requisitos legais.
+Os preços poderão ser reajustados após o interregno mínimo de 12 (doze) meses, pelo
+IPCA ou outro índice definido no edital e no contrato, contado da data-base do orçamento
+estimado.
+Alterações quantitativas e qualitativas observarão os limites e condições legais, sem
+desnaturação do objeto.
+14. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO E ADEQUAÇÃO ORÇAMENTÁRIA
+A estimativa do valor da contratação foi consolidada com base no Mapa de Apuração de
+Preços elaborado a partir de referências de contratações públicas e de cotações obtidas junto
+a fornecedores. A precificação detalhada consta no Processo Administrativo 7289/2026. Os
+valores de referência correspondem ao custo mensal unitário de locação de cada equipamento,
+já abrangendo os serviços, licenças, suporte, manutenção, migração e demais obrigações
+previstas neste Termo de Referência.
+Item Descrição Qtd. Valor
+mensal
+Valor mensal
+total
+Valor de 24
+meses
+1 Microcomputador
+Completo Tipo I 283 R$ 326,19 R$ 92.311,77 R$ 2.215.482,48
+2 Microcomputador
+Completo Tipo II 54 R$ 405,86 R$ 21.916,44 R$ 525.994,56
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 24] ---
+24
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+3
+Microcomputador
+Completo Avançado
+Tipo II
+11 R$ 721,45 R$ 7.935,95 R$ 190.462,80
+4 Notebook Tipo I 10 R$ 539,81 R$ 5.398,10 R$ 129.554,40
+5 Notebook Tipo II 40 R$ 398,58 R$ 15.943,20 R$ 382.636,80
+6 Monitor de 21,5
+polegadas 61 R$ 152,27 R$ 9.288,47 R$ 222.923,28
+VALOR TOTAL ESTIMADO R$ 152.793,93 R$ 3.667.054,32
+A partir dos valores unitários e dos quantitativos previstos, o valor mensal estimado da
+contratação é de R$ 152.793,93 e o valor global estimado para a vigência inicial de 24 (vinte e
+quatro) meses é de R$ 3.667.054,32.
+Os preços estimados constituem o limite referencial da contratação e deverão
+compreender todos os custos diretos e indiretos necessários à execução integral do objeto,
+incluindo equipamentos, licenças, tributos, encargos trabalhistas e previdenciários, fretes,
+seguros, instalação, configuração, migração de dados, suporte técnico, manutenção,
+substituição de equipamentos, logística reversa e demais despesas incidentes.
+Os valores de referência dos itens do lote também abrangem, de forma diluída, todos os
+custos do servidor corporativo previsto no Apêndice III.
+O orçamento estimado não será sigiloso e integrará o edital e seus anexos, em
+conformidade com a decisão administrativa consignada no Estudo Técnico Preliminar e com o
+art. 24 da Lei Federal nº 14.133/2021.
+15 . ADEQUAÇÃO ORÇAMENTÁRIA
+A despesa onerará as seguintes dotações:
+UNIDADE ORÇAMENTÁRIA: 02.05.00 – SECRETARIA DE ADMINISTRAÇÃO
+UNIDADE GESTORA: 02.05.04 – UNIDAD DE INFORMÁTTICA E TECNOLOGIA DA
+INFORMAÇÃO
+FUNCIONAL PROGRAMÁTICA: 04.122.1001-2.793 – MANUTENÇÃO E PROMOÇÃO
+DAS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO
+FICHA 328 – ELEMENTO: 3.3.90.40.00 – SERVIÇOS DE TECNOLOGIA DA
+INFORMAÇÃO E COMUNICAÇÃO
+FONTE: 01 – TESOURO
+APLICAÇÃO: 110.0000 – GERAL
+UNIDADE ORÇAMENTÁRIA: 02.02.00 – SECRETARIA DE EDUCAÇÃO
+UNIDADE EXECUTORA: 02.02.09 – EDUCAÇÃO BÁSICA
+FUNCIONAL PROGRAMÁTICA: 12.122.1012-2.003 – MANUTENÇÃO DAS ATIVIDADES
+ADMINISTRATIVA
+FICHA 051 – ELEMENTO: 3.3.90.40.00 – SERVIÇOS DE TECNOLOGIA DA
+INFORMAÇÃO E COMUNICAÇÃO - PE
+FONTE: 01 – TESOURO
+APLICAÇÃO: 220.0000 – ENSINO FUNDAMENTAL
+UNIDADE ORÇAMENTÁRIA: 02.02.00 – SECRETARIA DE EDUCAÇÃO
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 25] ---
+25
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+UNIDADE EXECUTORA: 02.02.09 – EDUCAÇÃO BÁSICA
+FUNCIONAL PROGRAMÁTICA: 12.365.1012-2.965 – MANUTENÇÃO DAS CRECHES
+FICHA 0102 – ELEMENTO: 3.3.90.40.00 – SERVIÇOS DE TECNOLOGIA DA
+INFORMAÇÃO E COMUNICAÇÃO - PE
+FONTE: 01 – TESOURO
+APLICAÇÃO: 210.0000 – EDUCAÇÃO INFANTIL - CRECHE
+UNIDADE ORÇAMENTÁRIA: 02.02.00 – SECRETARIA DE EDUCAÇÃO
+UNIDADE EXECUTORA: 02.02.09 – EDUCAÇÃO BÁSICA
+FUNCIONAL PROGRAMÁTICA: 12.361.1012-2.966 – MANUTENÇÃO DA EDUCAÇÃO
+FUNDAMENTAL
+FICHA 0123 – ELEMENTO: 3.3.90.40.00 – SERVIÇOS DE TECNOLOGIA DA
+INFORMAÇÃO E COMUNICAÇÃO - PE
+FONTE: 01 – TESOURO
+APLICAÇÃO: 220.0000 – ENSINO FUNDAMENTAL
+UNIDADE ORÇAMENTÁRIA: 02.02.00 – SECRETARIA DE EDUCAÇÃO
+UNIDADE EXECUTORA: 02.02.09 – EDUCAÇÃO BÁSICA
+FUNCIONAL PROGRAMÁTICA: 12.365.1012-2.967 – MANUTENÇÃO DA PRÉ-ESCOLA
+FICHA 0140 – ELEMENTO: 3.3.90.40.00 – SERVIÇOS DE TECNOLOGIA DA
+INFORMAÇÃO E COMUNICAÇÃO - PE
+FONTE: 01 – TESOURO
+APLICAÇÃO: 213.0000 – EDUCAÇÃO INFANTIL - PRÉ ESCOLA
+UNIDADE ORÇAMENTÁRIA: 02.03.01 – SECRETARIA DE SAÚDE
+UNIDADE EXECUTORA: 02.03.01 – SECRETARIA DE SAÚDE
+FUNCIONAL PROGRAMÁTICA: 10.122.1000-2.054 – GESTÃO ADMINISTRATIVA DO
+FUNDO MUNICIPAL DE SAÚDE
+FICHA 280 – ELEMENTO: 3.3.90.40.00 – SERVIÇOS DE TECNOLOGIA DA
+INFORMAÇÃO E COMUNICAÇÃO - PE
+FONTE: 01 – TESOURO
+APLICAÇÃO: 310.0000 – SAÚDE - GERAL
+UNIDADE ORÇAMENTÁRIA: 02.11.01 – SECRETARIA DE ASSISTÊNCIA SOCIAL E
+DESENVOLVIMENTO HUMANO
+UNIDADE EXECUTORA: 02.11.01 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+FUNCIONAL PROGRAMÁTICA: 08.122.1004-2.003 –MANUTENÇÃO DAS ATIVIDADES
+ADMINISTRATIVAS
+FICHA 391 – ELEMENTO: 3.3.90.40.00 – SERVIÇOS DE TECNOLOGIA DA
+INFORMAÇÃO E COMUNICAÇÃO - PE
+FONTE: 01 – TESOURO
+APLICAÇÃO: 510.0000 – ASSISTÊNCIA SOCIAL – GERAL
+16 . PREPOSTO
+A contratada deverá indicar preposto com profundo conhecimento do contrato para tratar
+das questões administrativas e financeiras.
+Não será necessário que o preposto se estabeleça nas dependências da Administração,
+bastando sejam informadas suas informações de contato direto e espontâneo.
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 26] ---
+26
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Todas as tratativas deverão ser realizadas formalmente, por meio de correio eletrônico
+e contato telefônico, sendo vedada a utilização de atendimentos automáticos, filas de espera
+ou quaisquer sistemas que dificultem o contato direto e eficiente com o preposto.
+O prazo para resposta às solicitações enviadas pelo Gestor do Contrato será de até 72
+(setenta e duas) horas, contadas a partir do recebimento do e-mail.
+O prazo poderá ser prorrogado, desde que o preposto solicite a prorrogação de forma
+justificada ao Gestor do Contrato antes do término do prazo inicial e este acate as razões
+apresentadas.
+Justificadamente, a Administração poderá solicitar, a qualquer momento, a mudança de
+preposto e/ou dos técnicos, a qual deverá ser atendida no prazo de 15 (quinze) dias úteis.
+O descumprimento dessas disposições poderá acarretar as penalidades previstas na
+legislação, edital e seus anexos. A indicação se dará antes do início da prestação dos serviços,
+elencando no instrumento os poderes e deveres em relação à execução do objeto contratado.
+17. AMOSTRAS E TESTES DE CONFORMIDADE
+Será exigida amostra para testes de conformidade conforme as disposições do Apêndice
+IV deste Termo de Referência.
+Equipe de Planejamento da Contratação
+Integrante Requisitante Integrantes de Apoio Técnico
+Luiz Henrique Paiva da Silva
+Agente Administrativo
+Área de Especialidade: Apoio Técnico
+João Pedro Vicente da Silva
+Agente Administrativo
+Área de Especialidade: Apoio na
+Formalização
+Outros requisitantes: Signatários das Solicitações de Compras/DFD
+Assinado eletronicamente por
+João Pedro Vicente da Silva
+Data: 26/08/2026 08:46
+#ae713267a14311f1818d42010a2b6021
+SIGNATÁRIO
+Assinado eletronicamente por
+Luiz Henrique Paiva da Silva
+Data: 26/08/2026 08:49
+#ae81dda6a14311f1818d42010a2b6021
+SIGNATÁRIO
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 27] ---
+27
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+AUTORIZAÇÃO DO PROCEDIMENTO
+Na qualidade de ordenador de despesas, APROVO este Termo de Referência e AUTORIZO:
+A abertura do Processo Administrativo para PREGÃO ELETRÔNICO, conforme Art. 6º, inciso
+XLI da LEI Nº 14.133, DE 1º DE ABRIL DE 2021, para o OBJETO acima especificado.
+Lins, 26 de agosto de 2026.
+Autoridade (s) Competente (s)
+Fabiano Cristian Oliveira
+Secretário de Administração
+Assinado eletronicamente por
+Fabiano Cristian Oliveira
+Data: 26/08/2026 08:48
+#ae6542b0a14311f1818d42010a2b6021
+SIGNATÁRIO
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+Link de validação:
+ https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Validador
+
+--- [pag. PDF 28] ---
+Identificador: dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Data/Hora em GMT -3:00 por Google Trusted Services
+Autenticação eletrônica por autentique.com.br
+Relatório de auditoria e validação de assinaturas eletrônicas
+a7bee6cc4ea6fe28ae977797a69
+5cc259470442bd6d29feaa75027
+c0f0b98734 Hash SHA256 do original
+URL pública de verificação de integridade e autenticidade
+https://valida.ae/dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840
+Assinaturas concluídas: 3 de 3
+Assinaturas eletrônicas realizadas em conformidade com a Lei nº 14.063/2020 e Regulamento (UE) nº 910/2014 (eIDAS)
+Como auditar e validar este documento
+Você está visualizando uma via para impressão do documento, ela possui os dados de auditoria, porém ela pode ser
+alterada. Para conferir a integridade do documento e das assinaturas, acesse a URL pública de validação ou
+escaneie o QRCode ao lado.
+Assinaturas presentes no documento
+Assinado eletronicamente por
+Fabiano Cristian Oliveira
+Data: 26/08/2026 08:48
+#ae6542b0a14311f1818d42010a2b6021
+SIGNATÁRIO
+Assinado eletronicamente por
+João Pedro Vicente da Silva
+Data: 26/08/2026 08:46
+#ae713267a14311f1818d42010a2b6021
+SIGNATÁRIO
+Assinado eletronicamente por
+Luiz Henrique Paiva da Silva
+Data: 26/08/2026 08:49
+#ae81dda6a14311f1818d42010a2b6021
+SIGNATÁRIO
+Trilha de auditoria
+26/08/2026
+08:45
+João Pedro Vicente da Silva (ufo.adm@lins.sp.gov.br, CPF 417.777.138-46) criou o documento
+Hash SHA256 do arquivo: a7bee6cc4ea6fe28ae977797a695cc259470442bd6d29feaa75027c0f0b98734
+26/08/2026
+08:45
+João Pedro Vicente da Silva (ufo.adm@lins.sp.gov.br, CPF 417.777.138-46) visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 50728
+26/08/2026
+08:46
+João Pedro Vicente da Silva (telefone +5514999023235, CPF 417.777.138-46) visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 50728
+26/08/2026
+08:46
+João Pedro Vicente da Silva (telefone +5514999023235, CPF 417.777.138-46) assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Chrome/151.0.0.0 Tipo de geolocalização: IP
+Porta: 50728 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko Latitude e longitude: -21.2397, -50.3368
+26/08/2026
+08:48
+Fabiano Cristian Oliveira (fabianocristian@hotmail.com, CPF 285.919.208-56) visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 55734
+26/08/2026
+08:48
+Fabiano Cristian Oliveira (fabianocristian@hotmail.com, CPF 285.919.208-56) assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Chrome/151.0.0.0 Tipo de geolocalização: IP
+Porta: 55734 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko Latitude e longitude: -21.2397, -50.3368
+26/08/2026
+08:49
+Luiz Henrique Paiva da Silva (luizfome@hotmail.com, telefone +5514981742577, CPF 328.977.258-69) visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 61545
+autentique.com.br dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840 pg. 28 de 29
+
+--- [pag. PDF 29] ---
+26/08/2026
+08:49
+Luiz Henrique Paiva da Silva (luizfome@hotmail.com, telefone +5514981742577, CPF 328.977.258-69) assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Firefox/154.0 Tipo de geolocalização: IP
+Porta: 61545 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko rv:154.0 Latitude e longitude: -21.2397, -50.3368
+autentique.com.br dcd7e326d68c32848121eaadb88028af32b7d03cb05b6b840 pg. 29 de 29

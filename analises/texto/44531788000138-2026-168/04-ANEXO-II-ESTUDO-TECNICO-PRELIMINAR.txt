@@ -1,0 +1,1480 @@
+=== DOCUMENTO 4: ANEXO II - ESTUDO TECNICO PRELIMINAR ===
+tipo: Estudo Técnico Preliminar | páginas: 23 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/44531788000138/compras/2026/168/arquivos/21
+
+--- [pag. PDF 1] ---
+1
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+ESTUDO TÉCNICO PRELIMINAR
+O presente estudo se dedica analisar alternativas ao provimento de equipamentos de
+informática (hardware) para as demandas de trabalho das Secretarias do Município de acordo
+com a necessidade das mesmas.
+RESPONSÁVEL PELA CONTRATAÇÃO: Unidade de Informática e Gestão de
+Tecnologia da Informação
+Unidade Administrativa Requisitante: Secretaria da Administração
+Objeto: Analise de alternativas ao provimento de
+equipamentos de informática (hardware), com
+fornecimento de sistema operacional, software
+básico e antivírus (softwares) para as diversas
+secretarias da prefeitura municipal de Lins – SP
+Previsão no plano de contratações anual: Não foi consolidado PCA 2026, porém a
+demanda está compatibilizada com as peças
+orçamentárias.
+SEÇÃO 1 — IDENTIFICAÇÃO DA NECESSIDADE
+1.1. O Problema a ser Resolvido e Detalhamento da Situação Deficitária Atual
+O problema central reside no iminente risco de descontinuidade administrativa e de um
+"apagão tecnológico" nas estações de trabalho do funcionalismo público. Caso uma nova solução
+não seja tempestivamente implementada antes do término do vínculo atual, haverá a
+desmobilização forçada dos postos de trabalho e a consequente paralisação das atividades
+finalísticas e meio do ente municipal, uma vez que os servidores ficarão desprovidos de ferramentas
+básicas de processamento de dados e comunicação.
+A ausência de uma nova contratação resultará em:
+• Afronta ao Princípio da Continuidade do Serviço Público: Interrupção direta no
+processamento de demandas de áreas sensíveis como saúde, educação, assistência social
+e finanças, prejudicando o atendimento ao cidadão.
+• Ineficiência Administrativa e Desperdício de Recursos: Ociosidade forçada da força de
+trabalho dos servidores municipais, gerando prejuízos reflexos e danos ao erário pela falta
+de meios materiais para a execução de suas rotinas de trabalho.
+• Vulnerabilidade Institucional: A perda da infraestrutura tecnológica atual impede o
+Município de gerenciar seus sistemas internos, arrecadar tributos, emitir certidões e executar
+atos administrativos cotidianos.
+Ademais, tal demanda se comunica diretamente com as atribuições da Secretaria de
+Administração dispostas no Decreto Municipal nº 14136/2025:
+Art. 2º - É competência da Secretaria de Administração, assistir diretamente o
+Prefeito no desempenho de suas atribuições, especialmente:
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 1 de 23
+
+--- [pag. PDF 2] ---
+2
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+IX — na gestão dos serviços de tecnologia, aquisição, implantação, manutenção e
+apoio para execução e atendimento ao munícipe e aos órgãos de fiscalização;
+1.2. Definição Detalhada da Necessidade
+Diante do exposto, resta caracterizada a necessidade imperiosa de garantir o provimento
+contínuo, estável e padronizado de infraestrutura de tecnologia da informação — compreendendo
+microcomputadores, notebooks e monitores adicionais —, devidamente acompanhados de
+licenciamento de sistemas operacionais, suíte de aplicativos de escritório e soluções de proteção
+contra ameaças digitais.
+A necessidade abrange não apenas a disponibilidade física dos ativos de hardware e
+software, mas também a prestação dos serviços conexos essenciais para a sustentação do
+ambiente, tais como suporte técnico local especializado, rotinas de manutenção preventiva e
+corretiva, e a migração segura de dados das máquinas antigas para a nova solução, garantindo
+transição sem impacto à rotina pública.
+As consequências da inação administrativa e da não substituição tempestiva do modelo
+vigente seriam catastróficas: paralisação completa do atendimento ao público nas repartições,
+impossibilidade de arrecadação de tributos municipais, interrupção no agendamento e regulação de
+serviços de saúde e incapacidade de emissão de atos oficiais. Esse cenário de colapso operacional
+acarretaria prejuízos financeiros severos, potenciais sanções por descumprimento de prazos legais
+e severo dano à imagem institucional do Município de Lins/SP perante a sociedade.
+1.3. Alinhamento com o Interesse Público e Planejamento
+A presente demanda fundamenta-se na necessidade de assegurar a continuidade das
+atividades administrativas e a regular prestação dos serviços públicos oferecidos à população pelas
+diversas Secretarias Municipais do Município de Lins/SP.
+Atualmente, a infraestrutura tecnológica que suporta o funcionamento operacional da
+municipalidade viabiliza-se por meio do contrato de locação decorrente do Pregão nº 023/2022
+(Processo nº 169/2022), o qual se encontra em fase de encerramento contratual irremediável, sem
+possibilidade jurídica de novas prorrogações. O Município de Lins não possui Plano de Contratações
+Anual (PCA) aprovado para o período correspondente, razão pela qual a tempestividade deste
+estudo serve como principal instrumento de governança e planejamento macro da solução.
+SEÇÃO 2 — ANÁLISE DAS ALTERNATIVAS E JUSTIFICATIVA DA SOLUÇÃO
+2.1. Levantamento de Alternativas de Mercado
+Para o atendimento da necessidade identificada — provimento e sustentação de infraestrutura
+de tecnologia da informação para o corpo funcional do Município —, a Administração avaliou as
+opções tecnologicamente viáveis e disponíveis no mercado nacional:
+• Alternativa A: Aquisição de Bens (Compra de Ativos permanentes): Consiste na compra
+direta de microcomputadores, notebooks e monitores mediante licitação por sistema de
+registro de preços ou contratação imediata, transferindo a propriedade dos ativos para o
+Município de Lins/SP.
+• Alternativa B: Locação de Equipamentos de Informática (Outsourcing de TI): Consiste
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 2 de 23
+
+--- [pag. PDF 3] ---
+3
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+na contratação de empresa especializada para a cessão temporária do direito de uso dos
+hardwares e softwares, englobando no escopo do fornecedor os serviços de suporte técnico,
+manutenção preventiva e corretiva, logística de substituição por obsolescência e migração
+inicial de dados.
+2.2. Análise Comparativa e Viabilidade Técnica, Operacional e Econômica
+• Sob o aspecto Técnico e de Obsolescência: A compra direta (Alternativa A) gera a
+imobilização de um ativo que possui ciclo de vida útil estimado em tecnologia de, no máximo,
+36 a 48 meses. Após esse período, os computadores tornam-se obsoletos frente às
+atualizações de sistemas operacionais e softwares de gestão municipal, gerando lentidão e
+necessidade de novos e expressivos aportes de capital. A locação (Alternativa B) mitiga este
+risco, pois transfere ao parceiro privado o ônus tecnológico, garantindo cláusulas contratuais
+de atualização de parque e substituição contínua de itens desatualizados ou com mau
+funcionamento.
+• Sob o aspecto Operacional e de Pessoal: A aquisição (Alternativa A) demandaria uma
+estrutura interna robusta de TI na Prefeitura para triagem, montagem, instalação,
+substituição de peças em garantia, manutenção de hardware e formatação. Diante do quadro
+limitado de servidores de TI no Município, a gestão de centenas de novas máquinas próprias
+geraria um gargalo operacional. A locação (Alternativa B) resolve esta barreira prevendo
+suporte técnico local dedicado (in loco) e manutenção sob responsabilidade da contratada,
+desonerando a equipe interna para focar nas atividades estratégicas de governança digital
+e infraestrutura de rede.
+• Sob o aspecto Econômico e Financeiro: O modelo de locação (Alternativa B) dilui o
+impacto orçamentário ao longo dos meses de vigência contratual (OPEX - despesa
+operacional), sem a necessidade de um grande desembolso financeiro concentrado no início
+do período (CAPEX - investimento em capital), o que confere maior previsibilidade e saúde
+financeira ao fluxo de caixa da Prefeitura Municipal de Lins.
+2.3. Justificativa da técnica e econômica da solução escolhida
+Diante das ponderações técnicas e econômicas, a Alternativa B (Locação de Equipamentos
+de Informática) foi definida como a solução ideal e mais vantajosa para o Município de Lins/SP.
+Esta escolha justifica-se pela maximização da eficiência administrativa, uma vez que garante
+a pronta substituição de periféricos e dispositivos defeituosos, assegura a transição e migração de
+dados sem interrupção do atendimento público, reduz o custo total de propriedade (TCO) ao eliminar
+gastos flutuantes com reposição de peças e assistência técnica terceirizada, e mantém as
+secretarias municipais operando em alto nível de estabilidade operacional durante toda a vigência
+pactuada.
+A disponibilização do servidor será tratada como obrigação acessória e indissociável da
+solução de outsourcing, necessária à adequada execução do objeto. Por essa razão, o servidor não
+constituirá item autônomo do pregão, não possuirá preço unitário ou mensal destacado e não
+ensejará pagamento específico, devendo todos os seus custos ser considerados pela licitante e
+diluídos nos preços dos itens que compõem a proposta global.
+SEÇÃO 3 — NATUREZA, REQUISITOS E DURAÇÃO DA CONTRATAÇÃO
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 3 de 23
+
+--- [pag. PDF 4] ---
+4
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+3.1. Natureza da Contratação
+O objeto desta contratação possui natureza jurídica de Bem Comum, nos termos do art.
+6º, inciso XIII, da Lei Federal nº 14.133/2021. Justifica-se tal enquadramento por se tratar de
+solução cujos padrões de desempenho, especificações técnicas e de qualidade são
+perfeitamente consagrados no mercado e podem ser objetivamente definidos pelo edital, por
+meio de especificações usuais, viabilizando a disputa por meio da modalidade Pregão
+Eletrônico.
+Ademais, os serviços de outsourcing associados qualificam-se como serviços contínuos,
+uma vez que constituem necessidades permanentes da Administração Municipal, cuja
+interrupção comprometeria gravemente a prestação dos serviços públicos essenciais e a
+continuidade operacional das secretarias do Município de Lins/SP
+3.2. Requisitos da Solução (Diretrizes e Encargos da Contratada)
+Para o regular atendimento do interesse público, o provimento da solução de locação
+de infraestrutura tecnológica deverá atender aos seguintes macro-requisitos operacionais, a
+serem detalhados oportunamente no Termo de Referência:
+• Entrega de Itens Novos: Vedação expressa ao fornecimento de equipamentos usados
+ou recondicionados (refurbished).
+• Licenciamento Integrado: Obrigatoriedade de fornecimento dos dispositivos com
+sistema operacional profissional, suíte de aplicativos de escritório e sistema de proteção
+integrada pré-instalados em linha de produção e ativados.
+• Suporte e Sustentação Local: Previsão de atendimento técnico in loco (com
+disponibilização de profissional dedicado no município) de segunda a sexta-feira para
+cumprimento de Acordos de Nível de Serviço (SLAs).
+• Garantia de Transição Segura: Execução de rotinas de backup integral prévio e
+migração de dados de todas as estações de trabalho legadas da Prefeitura,
+assegurando o princípio da infalibilidade dos dados institucionais e a não-interrupção
+dos serviços públicos.
+• Manutenção Tecnológica: Mecanismos de substituição de periféricos ou substituição
+integral de ativos quando estes apresentarem mau funcionamento ou se tornarem
+obsoletos face à evolução das aplicações públicas durante o ciclo de vida do pacto.
+• Servidor Corporativo Integrado à Solução: Disponibilização de 1 (um) servidor físico
+para rack, de linha corporativa, próprio para operação contínua 24x7, conforme
+especificações que serão informadas no Termo de Referencia. A obrigação compreende
+transporte, instalação física, configuração, licenciamento, atualização de firmware e
+drivers, configuração de RAID e gerenciamento remoto, manutenção preventiva e
+corretiva, suporte técnico e substituição por equipamento igual ou superior quando
+necessário, sem cobrança adicional.
+3.3. Duração Pretendida da Contratação
+O prazo de vigência contratual pretendido é de 24 (vinte e quatro) meses, com previsão
+expressa de possibilidade de prorrogações sucessivas, observando as regras gerais
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 4 de 23
+
+--- [pag. PDF 5] ---
+5
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+estabelecidas na legislação.
+A fixação deste horizonte temporal justifica-se sob a ótica econômica e técnica pela
+diluição dos custos iniciais de mobilização, instalação e migração de dados ao longo do tempo
+(garantindo amortização eficiente e modicidade no preço mensal da locação), bem como pelo
+alinhamento ao ciclo de atualização tecnológica recomendado do hardware, assegurando
+estabilidade operacional contínua ao Município de Lins/SP.
+SEÇÃO 4 — DESCRIÇÃO DA SOLUÇÃO COMO UM TODO (CICLO DE VIDA)
+4.1. Visão Geral do Ciclo de Vida da Solução
+A contratação foi modelada sob a ótica do ciclo de vida completo dos ativos e da
+prestação dos serviços (abordagem de Life-Cycle Management), estruturada de forma a cobrir
+desde o planejamento inicial até o encerramento do vínculo contratual e a devida destinação
+final dos equipamentos locados. O ciclo de vida da solução está dividido em 5 (cinco)
+macroetapas integradas:
+Fase 1 — Mobilização, Homologação e Transição Segura: Compreende o período
+inicial em que a Contratada realiza o fornecimento, a entrega técnica e a instalação física de
+todo o parque tecnológico nas respectivas Secretarias do Município de Lins/SP. Nesta fase, a
+Contratada é obrigada a realizar rotinas completas de backup prévio e a migração de dados e
+perfis de usuários das máquinas antigas para os novos equipamentos. O aceite só ocorre após
+a assinatura do Termo de Aceite Individual por posto de trabalho, garantindo a infalibilidade dos
+dados públicos.
+Fase 2 — Operação, Monitoramento e Sustentação Contínua: É o período principal
+de execução, estimado na vigência de até 24 meses. Abrange a disponibilização regular e
+ininterrupta do hardware e do software (S.O., aplicativos corporativos e endpoint security). A
+sustentação é garantida por suporte técnico local (in loco) por meio de profissional dedicado,
+de segunda a sexta-feira, em horário comercial, para o cumprimento rigoroso dos Acordos de
+Nível de Serviço (SLAs) de atendimento e resolução de falhas.
+Durante essa fase, a Contratada deverá manter também o servidor corporativo
+disponibilizado em pleno funcionamento, com licenciamento válido, gerenciamento remoto
+habilitado, manutenção preventiva e corretiva, reposição de componentes e substituição
+integral quando o reparo não puder ser concluído no prazo estabelecido no acordo de nível de
+serviço.
+Fase 3 — Manutenção Tecnológica e Atualização (Refresh): Durante a execução do
+contrato, os equipamentos de informática e licenças de software estão sujeitos a falhas e
+desgaste natural. Esta fase engloba a substituição contínua e imediata de periféricos ou de
+dispositivos inteiros com mau funcionamento. Caso haja prorrogação que estenda o uso além
+dos 36 meses, prevê-se a substituição integral dos equipamentos por modelos de configurações
+tecnologicamente equivalentes para a respectiva época, mitigando o risco de obsolescência
+funcional.
+Fase 4 — Desmobilização e Encerramento Contratual: Ao término da vigência da
+locação, caberá à Contratada promover a desmobilização organizada do parque tecnológico.
+Para resguardar o Município de Lins, a contratada deverá realizar a sanitização lógica e segura
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 5 de 23
+
+--- [pag. PDF 6] ---
+6
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+de todos os discos de armazenamento antes da retirada das máquinas, emitindo certificados
+de destruição segura de dados, impedindo o vazamento de informações institucionais ou dados
+pessoais cobertos pela LGPD.
+Fase 5 — Logística Reversa e Destinação Ambiental (Green IT): Como os ativos de
+hardware permanecem sob a propriedade e a responsabilidade da empresa contratada, esta
+assume integralmente o ônus pelo descarte ecológico final dos resíduos eletrônicos gerados,
+devendo comprovar a conformidade com as normas ambientais nacionais.
+4.2. Alinhamento com a Sustentabilidade e Logística Reversa
+Por se tratar de um modelo de Outsourcing (locação), a solução evita o acúmulo de lixo
+eletrônico nos depósitos da Prefeitura Municipal de Lins. A Contratada poderá,
+preferencialmente, comprovar a regularidade perante o Cadastro Técnico Federal (CTF) do
+IBAMA e a adesão/associação a entidades gestoras de logística reversa de eletroeletrônicos
+(como a Green Eletron ou equivalente nacional), garantindo que os componentes substituídos
+ou desmobilizados ao fim da vida útil recebam destinação final ambientalmente adequada, em
+estrita observância à Política Nacional de Resíduos Sólidos (Lei Federal nº 12.305/2010), ou
+medidas análogas, idôneas, auditáveis e equivalentes.
+SEÇÃO 5 — PARCELAMENTO DA SOLUÇÃO
+5.1 Viabilidade e Justificativa do Parcelamento (ou não) da Solução
+A modelagem da presente contratação foi avaliada sob a ótica da viabilidade técnica e
+econômica do parcelamento do objeto, conforme diretrizes da legislação de regência. Optou-se pela
+não divisão do objeto em itens isolados (como aquisição separada de hardware, licenciamento
+individual de software e contratação autônoma de suporte técnico), adotando-se o modelo de Lote
+Único para a solução integrada de Outsourcing de Tecnologia da Informação.
+Abaixo, estruturam-se os fundamentos que justificam a inviabilidade e a inadequação do
+parcelamento neste caso concreto:
+Nexo Funcional e Interdependência Tecnológica: Os elementos que compõem a solução
+(computadores, notebooks, sistemas operacionais, suporte técnico presencial e logística reversa)
+estão intrinsecamente interligados. A separação do objeto geraria um cenário de severa
+incompatibilidade técnica, onde o fornecedor do hardware poderia atribuir falhas ao fornecedor do
+sistema operacional, e ambos poderiam eximir-se de responsabilidade perante a empresa
+prestadora de suporte in loco.
+Risco de Solução Descontinuada e Perda de Sinergia: A segregação dos serviços
+quebraria a sinergia necessária para o cumprimento dos Acordos de Nível de Serviço (SLAs). Para
+garantir que um posto de trabalho retorne à operação em poucas horas após uma falha, é
+indispensável que a mesma empresa gerencie o fornecimento do ativo, a substituição de peças e o
+atendimento técnico.
+Economia de Escala e Custos de Gestão: Centralizar a contratação em um único parceiro
+tecnológico atrai grandes players do mercado de outsourcing, gerando economia de escala e preços
+unitários mais vantajosos para o Município de Lins/SP. O parcelamento, por outro lado, multiplicaria
+os custos administrativos de gerenciamento de múltiplos contratos e fiscais especializados.
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 6 de 23
+
+--- [pag. PDF 7] ---
+7
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Integração do Servidor à Solução: O servidor físico previsto constitui recurso de
+infraestrutura necessário à execução e sustentação do ambiente tecnológico, não representando
+objeto independente ou item autônomo. Sua contratação separada criaria interfaces adicionais de
+responsabilidade, elevaria os custos de gestão e poderia comprometer os níveis de serviço. Assim,
+seu fornecimento permanecerá incorporado ao lote único, com custos diluídos na proposta global.
+5.2. Divisão por Cotas (ME e EPP)
+Considerando que o objeto constitui uma solução tecnológica unificada e de alta
+complexidade logística — exigindo capacidade técnica centralizada para a substituição imediata de
+ativos, suporte em tempo real e assunção de riscos ambientais —, a divisão do lote em cotas
+reservadas (de até 25%) para Microempresas (ME) e Empresas de Pequeno Porte (EPP) resta
+prejudicada. A fragmentação do parque tecnológico comprometeria a padronização dos
+equipamentos e a uniformidade do suporte técnico nas Secretarias Municipais.
+SEÇÃO 6 — CONTRATAÇÕES CORRELATAS E INTERDEPENDENTES
+6.1 Levantamento de Contratações Correlatas e Interdependentes
+Para a plena execução e eficácia da solução de Outsourcing de Tecnologia da
+Informação, foi realizada a prospecção de outras contratações no âmbito da Administração
+Municipal que guardem relação de dependência, complementaridade ou que sofram impacto direto
+com o objeto planejado.
+Identificaram-se os seguintes cenários:
+• Contrato de Locação Vigente em Fase de Encerramento (Interdependente): A
+infraestrutura de hardware que atualmente atende as Secretarias decorre do Pregão nº
+023/2022 (Processo nº 169/2022). Sabendo-se que este contrato se encontra próximo ao
+término de seu ciclo temporal máximo de vigência regulamentar, há uma interdependência
+crítica de transição entre a atual contratada e a futura vencedora deste certame. O
+cronograma de instalação das novas máquinas e a execução do backup integral prévio estão
+diretamente condicionados ao prazo de recolhimento dos ativos velhos pela empresa atual.
+A transição posto a posto, sob o manto do princípio da infalibilidade dos dados, foi modelada
+justamente para amarrar a desativação dos itens do Contrato nº 023/2022 à homologação
+imediata dos novos itens locados, impedindo o desabastecimento tecnológico da
+municipalidade.
+• Serviços de Conectividade e Link de Internet (Existente/Correlato): O perfeito
+funcionamento das novas estações de trabalho depende diretamente da infraestrutura de
+rede lógica municipal. Os computadores locados utilizarão os links de internet e a
+infraestrutura de rede local (switches, roteadores e cabeamento estruturado) contratados de
+forma autônoma pela prefeitura. Não há interdependência de execução, mas há correlação
+de uso, visto que as máquinas demandam acesso à internet para validação do sistema
+operacional e uso dos sistemas web corporativos.
+• Licenciamento de Softwares de Produtividade e ERP Municipal (Existente/Correlato):
+O objeto da presente locação contempla especificamente o fornecimento do hardware com
+o Sistema Operacional Windows 11 Pro pré-instalado. As soluções de antivírus endpoint,
+suítes de escritório e os sistemas internos (arrecadação, RH, ERP municipal, sistemas de
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 7 de 23
+
+--- [pag. PDF 8] ---
+8
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+protocolo) pertencem a contratos ou licenças próprias da municipalidade. Existe uma
+correlação operacional de serviços, visto que caberá ao técnico residente da nova
+Contratada realizar a migração de perfis, senhas e históricos, além da instalação e replicação
+destes sistemas existentes da prefeitura nas novas máquinas, sem que isso gere custos
+adicionais de aquisição de software neste processo.
+Conclui-se que a presente contratação possui viabilidade autônoma para ser licitada de
+forma isolada, contudo, guarda estrita interdependência operacional e cronológica com o
+encerramento do contrato decorrente do Pregão nº 023/2022, exigindo coordenação minuciosa da
+Secretaria requisitante na gestão dos prazos de transição.
+SEÇÃO 7 — ESTIMATIVA DAS QUANTIDADES DA CONTRATAÇÃO
+7.1. Definição do Quantitativo da Solução
+A estimativa do quantitativo de ativos de Tecnologia da Informação a serem contratados na
+modalidade de outsourcing (computadores, notebooks e monitores) foi dimensionada para atender
+às reais necessidades operacionais das diversas Secretarias Municipais e órgãos do Município de
+Lins/SP. O levantamento reflete o quantitativo estimado necessário para a substituição programada
+do parque tecnológico atualmente locado e que se encontra em vias de encerramento contratual.
+A volumetria e a distribuição dos bens que compõem a solução estão consolidadas na tabela
+abaixo:
+Item Descrição Resumida do Ativo Unidade Quantidade
+Estimada Justificativa da Quantidade
+1
+Microcomputador Completo Tipo I
+(All in One / Gabinete Tiny): Gabinete
+ultra compacto, suporte VESA,
+processador de 10ª geração ou
+superior, 8GB RAM, SSD 240GB,
+monitor de 21,5” ou maior, teclado e
+mouse.
+Unid. 283
+Destinado ao atendimento das
+atividades administrativas padrão e
+rotineiras das secretarias, em postos
+fixos de trabalho.
+2
+Microcomputador Completo Tipo II
+(Gabinete SFF / Micro ATX): Gabinete
+SFF com trava física unificada, chipset
+com sensor de intrusão, 8GB RAM
+(expansível até 64GB em 4 slots
+DIMM), SSD 256GB M.2 NVMe,
+suporte vPro/AMD PRO para
+gerenciamento remoto por hardware
+nativo, monitor IPS de 23,8”.
+Unid. 54
+Destinado a setores críticos que
+exigem gerenciamento remoto
+centralizado e avançado por
+hardware pela equipe técnica de TI.
+3
+Microcomputador Completo
+Avançado Tipo I (Gabinete Torre):
+Processador de alto desempenho (12
+núcleos), chip TPM 2.0, 32GB RAM,
+SSD 1TB, placa de vídeo dedicada
+offboard de no mínimo 6GB GDDR6,
+monitor de no mínimo 23”.
+Unid. 11
+Destinado a postos de trabalho de
+engenharia, arquitetura,
+geoprocessamento e TI, que
+demandam processamento gráfico
+pesado.
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 8 de 23
+
+--- [pag. PDF 9] ---
+9
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+4
+Notebook Tipo I (Tela de 16”
+WUXGA): Processador de 13ª geração
+Intel ou AMD 5ª geração, 8GB RAM
+(não soldada), SSD 256GB NVMe, tela
+de 16” formato 16:10 WUXGA IPS,
+bateria de longa duração, peso
+máximo de 1,85 kg.
+Unid. 10
+Destinado a gestores, secretários e
+servidores em funções de
+representação ou teletrabalho que
+necessitam de alta mobilidade com
+grande área de tela de trabalho.
+5
+Notebook Tipo II (Tela de 14” FHD):
+Processador de 4 núcleos / 8 threads,
+8GB RAM, SSD 256GB M.2, tela LED
+de 14” Full HD, teclado ABNT2 com
+bloco numérico integrado (mínimo 105
+teclas).
+Unid. 40
+Destinado às equipes técnicas e
+operacionais em regime de campo,
+fiscalização externa e rotinas
+administrativas que exigem
+mobilidade.
+6
+Monitor de Vídeo de 21,5”: Tela
+LCD/LED de 21,5” ou superior,
+resolução Full HD (1920x1080),
+conexões digitais (HDMI e DisplayPort)
+e analógica (VGA), padrão de furação
+VESA.
+Unid. 61
+Destinado a compor estações de
+trabalho que necessitam de
+ampliação de tela para tarefas
+simultâneas.
+O servidor corporativo não integra a tabela de itens e quantitativos, pois não será objeto de disputa
+ou faturamento individualizado. Sua disponibilização será exigida como obrigação acessória da
+Contratada, vinculada à execução do lote único, devendo o respectivo custo estar integralmente
+contemplado e diluído nos preços ofertados para os itens licitados. Para fins operacionais, deverá
+ser disponibilizado 1 (um) servidor durante toda a vigência contratual, sem medição ou pagamento
+autônomo.
+7.2. Memória de Cálculo e Critérios de Dimensionamento
+Os quantitativos foram estabelecidos com base nos seguintes parâmetros de governança
+pública:
+• Inventário Histórico e Continuidade: Compatibilidade direta com as necessidades
+identificadas no contrato vigente garantindo que nenhum servidor ou posto de trabalho ativo
+fique desprovido de equipamento.
+• Segregação por Perfis e Economicidade: Diferente do modelo anterior, o planejamento
+atual expandiu o catálogo de soluções, adicionando mais opções de microcomputadores
+(Tipos I, II e III) e notebooks (Tipos I e II) de padrões distintos. A especificação de modelos
+básicos para rotinas administrativas comuns e de modelos mais robustos para atividades
+técnicas especializadas evita o superdimensionamento de gastos, assegurando a
+modicidade de custos e a estrita observância ao princípio da economicidade.
+• Reserva Técnica Embutida: O dimensionamento do parque de locação já contempla a
+capacidade de remanejamento por parte da Unidade de TI para suprir eventuais
+substituições temporárias decorrentes de manutenção preventiva ou corretiva executadas
+pela Contratada.
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 9 de 23
+
+--- [pag. PDF 10] ---
+10
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+SEÇÃO 8 — ESTIMATIVA DO VALOR DA CONTRATAÇÃO
+8.1. Parâmetro de Precificação e Base de Cálculo
+Para a definição do valor estimado preliminar da presente contratação de outsourcing de
+TI, utilizou-se como balizador prudencial e referencial metodológico o custo histórico e atualizado
+do órgão, tomando por base o último termo de aditivo do contrato vigente atualizado pelo IPCA
+acumulado dos ultimos 12 meses. Essa estratégia garante a previsibilidade orçamentária e a
+manutenção dos patamares econômicos já homologados e praticados pela Administração.
+8.2. Demonstrativo de Valores Estimados
+Os valores de referência para a execução dos serviços de manutenção e locação de ativos
+de tecnologia foram consolidados conforme o planejamento de desembolso mensal e anualizado:
+Os valores estimados e os preços a serem apresentados pelas licitantes deverão contemplar
+todos os custos diretos e indiretos decorrentes da disponibilização do servidor corporativo, inclusive
+aquisição ou locação do equipamento, licenças, transporte, instalação, configuração, manutenção,
+suporte, peças, substituições e desmobilização. Não haverá linha de preço, medição, faturamento
+ou pagamento específico para o servidor, cujo custo deverá permanecer diluído nos valores
+mensais dos itens que compõem o lote único.
+• Valor Estimado Mensal: R$ 144.069,55 (cento e quarenta e quatro mil e sessenta e nove
+reais e cinquenta e cinco centavos).
+• Valor Estimado Anual (Global): R$ 1.728.834,55 (um milhão, setecentos e vinte e oito mil,
+oitocentos e trinta e quatro reais e cinquenta e cinco centavos).
+8.2 Sigilo (ou não) do Valor Estimado
+Conforme diretrizes administrativas estabelecidas para a condução do certame e em
+consonância com o art. 24 da Lei nº 14.133/2021, o valor estimado da presente contratação não
+será mantido em sigilo.
+O preço global mensal de referência figurará de forma expressa, ostensiva e transparente
+no edital e seus anexos técnicos. A publicidade integral do valor estimado justifica-se pela
+complexidade operacional do objeto, que envolve custos logísticos de transição, suporte residente
+e atualização de hardware. O conhecimento prévio do teto orçamentário por parte do mercado
+licitante confere maior previsibilidade, auxiliando as empresas na formulação de propostas
+exequíveis, ampliando a disputa justa e reduzindo o risco de propostas fracassadas ou
+manifestamente desvantajosas para a Administração Pública.
+Os preços finais de mercado serão formalmente aferidos e validados por meio de pesquisa
+de preços definitiva em processo administrativo próprio.
+SEÇÃO 9 — RESULTADOS PRETENDIDOS
+9.1. Alinhamento com a Eficiência Administrativa e Metas Operacionais
+A presente contratação visa modernizar integralmente a infraestrutura computacional do
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 10 de 23
+
+--- [pag. PDF 11] ---
+11
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Município de Lins/SP, substituindo o modelo de parque tecnológico fragmentado por um
+ecossistema integrado e sustentável de outsourcing de TI (Lote Único). Os resultados finalísticos
+almejados pela Administração dividem-se em três macro-objetivos estratégicos:
+• Maximização da Disponibilidade (Uptime): Garantir a continuidade e a estabilidade das
+rotinas de trabalho das Secretarias Municipais. A disponibilização de hardware
+contemporâneo e softwares atualizados visa erradicar paradas técnicas e lentidões
+sistêmicas que obstruem o fluxo processual interno e geram ociosidade da força de trabalho
+pública.
+• Aprimoramento do Atendimento ao Cidadão: Assegurar que os balcões de atendimento
+à população, postos de saúde, unidades de assistência social e secretarias de arrecadação
+tenham ferramentas tecnológicas ágeis e seguras, eliminando filas decorrentes de
+travamentos de hardware ou sistemas fora de operação.
+• Otimização Estratégica da Equipe de TI: Transferir os encargos de suporte básico (troca
+de peças, formatação, instalação física de periféricos e diagnósticos de defeitos) para a
+empresa parceira, liberando o quadro técnico interno do Município para atuar nas atividades
+estratégicas e finalísticas de governança digital, fiscalização e segurança cibernética
+corporativa.
+• Continuidade da Infraestrutura de Servidor: Assegurar a disponibilidade de servidor físico
+corporativo, com redundância, gerenciamento remoto, suporte e substituição, preservando a
+estabilidade dos serviços tecnológicos dependentes dessa infraestrutura sem gerar
+contratação ou pagamento apartado.
+9.2. Economicidade e Modicidade de Gastos
+Em observância às diretrizes de responsabilidade fiscal e ao princípio da economicidade, a
+contratação busca estabilizar os dispêndios públicos, mantendo o estrito alinhamento financeiro com
+o histórico orçamentário consolidado do órgão.
+Os ganhos econômicos compreendem a eliminação de despesas flutuantes e imprevistas
+com aquisições de peças sobressalentes, custos com suporte terceirizado avulso e riscos
+associados à obsolescência de ativos permanentes.
+SEÇÃO 10 — PROVIDÊNCIAS A SEREM ADOTADAS PELA ADMINISTRAÇÃO
+10.1. Providências Prévias à Publicação do Edital
+Para garantir a perfeita execução da contratação e mitigar riscos de atraso na implantação
+da solução de outsourcing de TI, a Administração Municipal de Lins/SP deverá adotar as seguintes
+providências preparatórias:
+Indicação e Capacitação da Equipe de Fiscalização: Designação formal, por meio de
+portaria, dos servidores que atuarão como Fiscal Técnico, Fiscal Administrativo e Gestor do
+Contrato. A Unidade de TI deverá realizar um alinhamento prévio com a equipe indicada sobre as
+regras de aferição dos Acordos de Nível de Serviço (SLAs) e o preenchimento do Instrumento de
+Medição de Resultado (IMR).
+Mapeamento Físico e Logístico dos Postos de Trabalho: Levantamento prévio e
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 11 de 23
+
+--- [pag. PDF 12] ---
+12
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+detalhado, por parte de cada Secretaria solicitante, indicando os locais exatos onde os novos ativos
+(computadores tipo I, computadores tipo II, computadores tipo III, notebooks tipo I, notebooks tipo II
+e monitores adicionais) serão instalados. Essa listagem deve incluir a confirmação de que os pontos
+de rede lógica e tomadas elétricas estão ativos e operacionais.
+Planejamento do Cronograma de Transição e Backup: Elaboração conjunta entre a
+Unidade de TI e os responsáveis pelas Secretarias de um cronograma escalonado para a
+substituição das máquinas. Ficando estipulado o fluxo obrigatório em que a empresa contratada
+realizará o backup integral prévio de todos os dados públicos do equipamento antigo antes de
+instalar o novo hardware, garantindo o princípio da infalibilidade dos dados institucionais.
+Adequação da Infraestrutura Interna de Suporte: Reserva e liberação de um espaço físico
+estruturado (sala ou bancada técnica) nas dependências da Prefeitura para uso do técnico in loco
+que será disponibilizado pela contratada em horário comercial (segunda a sexta-feira, das 8h às
+18h), permitindo o armazenamento de ferramentas e de um lote mínimo de reserva técnica
+(backpax) para prontas substituições.
+Preparação da Infraestrutura para o Servidor: A Unidade de TI deverá indicar o rack, os
+pontos de energia, a conectividade de rede, os endereços lógicos e os parâmetros necessários à
+instalação. A Contratada será responsável pelo transporte, instalação física, configuração, testes de
+redundância, conectividade, RAID, gerenciamento remoto e entrega da documentação técnica do
+servidor.
+10.2. Providências Concomitantes e Posteriores à Contratação
+Acompanhamento do Encerramento do Vínculo Anterior: Monitoramento da execução e
+dos prazos de desmobilização do contrato de locação de informática atual. A Unidade de TI
+coordenará as agendas para que a retirada das máquinas antigas ocorra em perfeita sinergia com
+a instalação dos novos ativos pela empresa vencedora deste certame, impedindo qualquer
+interrupção nas atividades do funcionalismo público.
+Homologação por Posto de Trabalho: Implantação do fluxo de assinatura do Termo de
+Aceite Individual por posto de trabalho. Nenhum equipamento será computado como formalmente
+entregue e faturado se o servidor responsável pelo setor não atestar por escrito que a máquina está
+funcional, que todos os dados foram migrados com sucesso e que os sistemas de trabalho e
+periféricos locais (impressoras, scanners) foram configurados.
+SEÇÃO 11 — DESCRIÇÃO DE POSSÍVEIS IMPACTOS AMBIENTAIS E MEDIDAS
+MITIGADORAS
+11.1. Impactos Ambientais Identificados
+A contratação de solução de outsourcing de TI, embora voltada à eficiência operacional, gera
+pontos de atenção socioambiental que devem ser mitigados ao longo do ciclo de vida dos
+equipamentos (computadores, notebooks e monitores). Foram mapeados os seguintes impactos:
+• Geração de Resíduos Tecnológicos (Lixo Eletrônico): Potencial de descarte inadequado
+de componentes de hardware antigos, baterias e periféricos substituídos, que possuem
+metais pesados em sua composição.
+• Consumo de Recursos Naturais e Energia: Aumento da pegada de carbono decorrente
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 12 de 23
+
+--- [pag. PDF 13] ---
+13
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+do consumo continuado de energia elétrica pelos novos equipamentos ativos em toda a rede
+municipal.
+11.2. Medidas Mitigadoras e Critérios de Sustentabilidade
+Para anular ou minimizar os impactos descritos, a contratada deverá observar
+obrigatoriamente os seguintes critérios de sustentabilidade e logística reversa:
+• Logística Reversa Obrigatória: Toda e qualquer máquina desmobilizada ou substituída por
+defeito/obsolescência ao longo da execução contratual deverá ser recolhida pela empresa
+contratada. A empresa ficará integralmente responsável pelo descarte ecologicamente
+correto ou reciclagem do material, devendo apresentar à Diretoria de TI, semestralmente, os
+Certificados de Destinação Final de Resíduos Eletrônicos emitidos por órgãos ambientais
+competentes.
+• Certificações de Eficiência Energética: Os equipamentos fornecidos (computadores e
+notebooks) deverão possuir certificações que atestem o baixo consumo de energia em modo
+de espera e operação (como Energy Star, EPEAT ou equivalente internacional), minimizando
+o impacto no consumo elétrico do município.
+• Diretrizes de Desfazimento do Acervo Atual: A transição entre o parque tecnológico antigo
+e o novo priorizará a triagem do material municipal substituído. Bens de propriedade do
+município que forem inservíveis seguirão o fluxo de descarte sustentável interno da
+Prefeitura, enquanto os equipamentos locados anteriores serão devolvidos à respectiva
+empresa conforme as normas ambientais de transporte de carga eletrônica.
+SEÇÃO 12 — GERENCIAMENTO DE RISCOS DO PROCESSO LICITATÓRIO
+Em cumprimento ao Art. 18, inciso X, especifica-se que a análise de riscos do processo
+licitatório está elaborada no Apêndice I deste Estudo Técnico Preliminar.
+SEÇÃO 13 — JUSTIFICATIVA DAS EXIGÊNCIAS HABILITATÓRIAS E DE QUALIFICAÇÃO
+13.1. Justificativa dos Critérios de Qualificação Econômico-Financeira
+A exigência de índices financeiros mínimos e de patrimônio líquido visa garantir que a
+empresa adjudicatária possua saúde financeira suficiente para suportar os investimentos iniciais e
+o fluxo de caixa operacional da contratação.
+• Garantia de Fluxo de Caixa: No modelo de outsourcing de TI, a contratada deve adquirir,
+configurar e instalar o parque tecnológico antes do início do faturamento regular. A exigência
+de indicadores de liquidez e patrimônio demonstra a capacidade da empresa de arcar com
+esse aporte inicial sem depender exclusivamente dos primeiros pagamentos municipais.
+• Mitigação do Risco de Descontinuidade: A exigência de Índices de Liquidez Geral (LG),
+Liquidez Corrente (LC) e Solvência Geral (SG) superiores a 1,0 (um), combinada com a
+comprovação de patrimônio líquido de até 10% do valor total anual estimado da
+contratação (conforme os limites e parâmetros estabelecidos pela Lei nº 14.133/2021), evita
+a seleção de empresas em estado pré-falimentar ou sem estrutura de capital compatível,
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 13 de 23
+
+--- [pag. PDF 14] ---
+14
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+resguardando a Administração Municipal de eventuais paralisações na prestação dos
+serviços técnicos e no suporte local.
+• Justificativa da Garantia de Proposta (1%): A exigência de garantia de proposta no valor
+de 1% (um por cento) do valor total anual estimado para a contratação fundamenta-se na
+necessidade de assegurar a seriedade e a manutenção das propostas apresentadas pelas
+licitantes durante a fase competitiva do certame. Esse mecanismo resguarda a
+Administração Pública contra condutas imprevistas ou desistências infundadas que possam
+frustrar o procedimento licitatório, além de pré-avaliar a capacidade de mobilização
+financeira das empresas concorrentes antes da assinatura do termo contratual.
+• Garantia Contratual (5%): Justifica-se a exigência de prestação de garantia contratual no
+percentual de 5% (cinco por cento) sobre o valor total anual do contrato, nos moldes do art.
+96 e seguintes da Lei nº 14.133/2021. Esta exigência difere e não se confunde com a
+garantia de proposta (fase de licitação), tendo por finalidade precípua ressarcir a
+Administração Pública por eventuais multas aplicadas, prejuízos diretos causados pela
+contratada durante a execução contratual ou custos decorrentes de rescisão antecipada por
+inadimplemento.
+13.2. Justificativa dos Requisitos de Qualificação Técnica
+A qualificação técnica foi dimensionada para garantir a aptidão operativa e a experiência
+prévia da licitante na execução de escopos semelhantes, sem impor barreiras que restrinjam
+indevidamente a competitividade.
+• Capacidade Técnico-Operacional (Atestados de Pessoa Jurídica): Justifica-se a
+exigência de apresentação de um ou mais atestados de capacidade técnica, emitidos por
+pessoas jurídicas de direito público ou privado, destinados a demonstrar que a licitante
+possui experiência anterior e estrutura operacional compatíveis com a execução da solução
+pretendida. A contratação envolve não apenas a disponibilização de equipamentos, mas a
+operação integrada de parque tecnológico composto por microcomputadores, notebooks e
+monitores, incluindo instalação, configuração, migração de dados, manutenção preventiva e
+corretiva, substituição de equipamentos, suporte técnico local e gestão das licenças
+vinculadas à solução. O desempenho inadequado dessas atividades poderá ocasionar
+indisponibilidade dos postos de trabalho, perda de produtividade, comprometimento da
+continuidade dos serviços públicos e riscos à integridade dos dados institucionais,
+circunstâncias que tornam necessária a comprovação prévia de experiência operacional da
+futura contratada. Os atestados deverão comprovar a execução anterior de serviços
+similares, com complexidade tecnológica e operacional equivalente ou superior,
+especialmente quanto à locação, disponibilização ou gestão de ativos de tecnologia da
+informação acompanhada dos respectivos serviços de implantação, manutenção ou suporte
+técnico. Não será exigida identidade integral entre o objeto atestado e todas as
+especificações da contratação, sendo suficiente a demonstração de experiência pertinente
+e compatível com suas parcelas de maior relevância. Eventual quantitativo mínimo deverá
+limitar-se a até 50% da quantidade correspondente às parcelas de maior relevância técnica
+ou de valor significativo, conforme o art. 67, inciso II e §§ 1º e 2º, da Lei nº 14.133/2021.
+Será admitido o somatório de atestados, salvo se houver justificativa técnica específica
+demonstrando que a execução simultânea ou em maior escala eleva substancialmente a
+complexidade operacional da solução. A exigência não tem por finalidade restringir a
+participação de empresas, mas reduzir o risco de contratação de fornecedor sem capacidade
+de mobilização, logística, suporte e gerenciamento compatíveis com o porte do parque
+tecnológico municipal, preservando a continuidade dos serviços, a segurança operacional e
+a adequada execução contratual
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 14 de 23
+
+--- [pag. PDF 15] ---
+15
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+• Ficha Técnica dos Equipamentos: Justifica-se a apresentação de fichas técnicas,
+catálogos, manuais ou documentos oficiais do fabricante para permitir a verificação objetiva
+da marca, do modelo e da configuração dos equipamentos ofertados, assegurando sua
+compatibilidade com as especificações mínimas, os padrões de desempenho, as interfaces,
+as certificações e os requisitos de segurança definidos para a solução. A medida reduz o
+risco de aceitação de produtos inadequados, genéricos, descontinuados ou incompatíveis
+com o ambiente tecnológico municipal, além de subsidiar o julgamento técnico, a
+homologação e o posterior recebimento dos bens. A documentação deverá ser exigida de
+forma proporcional, preferencialmente do licitante provisoriamente vencedor, admitindo-se
+documentos equivalentes e diligências para confirmação de informações, sem
+direcionamento a marca específica nem restrição indevida à competitividade. A mesma
+exigência de comprovação técnica aplica-se ao servidor corporativo, devendo a licitante
+provisoriamente vencedora apresentar documentação oficial que permita verificar fabricante,
+modelo, processador, memória, armazenamento, controladora RAID, interfaces de rede,
+fontes redundantes, recursos de gerenciamento remoto, compatibilidade com o sistema
+operacional e certificações aplicáveis.
+• Comprovação da legitimidade de comercialização dos softwares exigidos: Justifica-se
+a exigência de comprovação, por meios idôneos, da origem e da regularidade das licenças
+de software fornecidas, considerando que a solução envolve sistema operacional profissional
+e demais programas cuja utilização depende de licenciamento válido. A medida visa impedir
+o fornecimento de licenças falsificadas, irregulares, reutilizadas em desacordo com os
+termos do fabricante ou provenientes de canais não autorizados, prevenindo riscos de
+desativação, indisponibilidade, vulnerabilidades de segurança, violação de direitos autorais
+e responsabilização da Administração. A comprovação poderá ocorrer por notas fiscais,
+contratos de licenciamento, declarações do fabricante ou distribuidor, registros em portais
+oficiais, chaves vinculadas aos equipamentos, documentação de parceiro autorizado ou
+outros meios equivalentes e verificáveis, sem imposição de documento exclusivo quando
+houver alternativas aptas a demonstrar a legitimidade.
+• Visita técnica ou declaração de pleno conhecimento: A possibilidade de realização de
+visita técnica justifica-se pela necessidade de a licitante conhecer as condições físicas,
+operacionais e logísticas dos locais de instalação, incluindo a distribuição das Secretarias,
+os pontos de rede e energia, as restrições de acesso, o planejamento da substituição
+escalonada dos equipamentos, as rotinas de backup e migração de dados e a estrutura
+destinada ao suporte técnico local. Esse conhecimento contribui para a elaboração de
+proposta exequível e para o correto dimensionamento da mobilização, da equipe, dos prazos
+e dos recursos necessários à transição sem interrupção dos serviços públicos. Contudo, em
+observância aos §§ 2º e 3º do art. 63 da Lei nº 14.133/2021, a visita não será obrigatória de
+forma absoluta: serão disponibilizadas datas e horários distintos aos interessados e será
+admitida, em substituição, declaração formal de pleno conhecimento das condições e
+peculiaridades da contratação, assinada pelo responsável técnico ou representante
+habilitado da licitante. Dessa forma, preservam-se a isonomia e a competitividade,
+atribuindo-se ao licitante a responsabilidade pela avaliação das condições de execução.
+SEÇÃO 14 - DECLARAÇÃO DE VIABILIDADE
+O presente ESTUDO TÉCNICO PRELIMINAR, elaborado em harmonia com o DECRETO Nº
+13.733, DE 15 DE JANEIRO DE 2024, e demais disposições da Lei Federal 14 133/2021,
+considerando a análise das necessidades elencadas pela área requisitante e os demais aspectos
+normativos, conclui pela VIABILIDADE DA CONTRATAÇÃO/AQUISIÇÃO, uma vez considerados
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 15 de 23
+
+--- [pag. PDF 16] ---
+16
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+os seus potenciais benefícios em termos de eficácia, eficiência, efetividade e economicidade. Em
+complemento aos requisitos listados RECOMENDAMOS o prosseguimento do processo de
+LICITAÇÃO não sendo possível observar óbices ao prosseguimento da presente
+aquisição/contratação no formato indicado.
+Equipe de Planejamento da Contratação
+Integrante Requisitante Integrantes de Apoio Técnico
+Luiz Henrique Paiva da Silva
+Agente Administrativo
+Área de Especialidade: Apoio Técnico
+João Pedro Vicente da Silva
+Agente Administrativo
+Área de Especialidade: Apoio na Formalização
+Outros requisitantes: Signatários das Solicitações de Compras/DFD
+Aprovo este Estudo Técnico Preliminar e atesto sua conformidade aos preceitos legais.
+Lins, 08 de julho de 2026.
+Autoridade (s) Competente (s)
+Fabiano Cristian Oliveira
+Secretário de Administração
+LuizHPSilva
+Assinado eletronicamente por
+Luiz Henrique Paiva Da Silva
+Data: 10/08/2026 16:04
+#478bae3794ee11f1818d42010a2b6021
+SIGNATÁRIO
+Fabiano O
+Assinado eletronicamente por
+Fabiano Cristian Oliveira
+Data: 11/08/2026 08:57
+#4791622e94ee11f1818d42010a2b6021
+SIGNATÁRIO
+João S
+Assinado eletronicamente por
+João Pedro Vicente da Silva
+Data: 10/08/2026 16:04
+#4797cf8994ee11f1818d42010a2b6021
+SIGNATÁRIO
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 16 de 23
+
+--- [pag. PDF 17] ---
+17
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+APÊNDICE I DO ESTUDO TÉCNICO PRELIMINAR– GERENCIAMENTO DE RISCOS DO
+PROCESSO LICITATÓRIO
+TABELA 1 – IDENTIFICAÇÃO DE RISCOS
+N° DESCRIÇÃO DOS RISCOS FASE PROBABILIDADE IMPACTO GRAVIDADE
+1
+Definição inadequada do
+objeto quanto à sua
+finalidade, abrangência e
+resultados esperados Planejamento Média Alto Alta
+2
+Especificação incompleta ou
+imprecisa dos requisitos
+técnicos, funcionais e
+operacionais Planejamento Média Alto Alta
+3
+Estimativa incorreta de
+quantitativos, prazos ou
+custos Planejamento Média Médio Média
+4
+Escolha inadequada da
+modalidade ou tipo de
+contratação Planejamento Baixa Alto Média
+5
+Fornecedores sem
+capacidade técnica,
+operacional ou financeira
+comprovada Processamento Médio Alto Crítica
+6
+Apresentação de
+documentação falsa ou
+informações inconsistentes Processamento Baixa Alto Moderada
+7
+Baixa competitividade ou
+propostas com preços
+inexequíveis Processamento Alta Médio Crítica
+8
+Atrasos no processo por
+impugnações, recursos ou
+falhas procedimentais Processamento Média Médio Moderada
+9
+Execução contratual em
+desacordo com as condições
+pactuadas, cronograma ou
+metodologia prevista Execução Média Alto Crítica
+10
+Ocorrência de acidentes de
+trabalho ou riscos à
+segurança Execução Média Alto Crítica
+11
+Entrega de produtos ou
+serviços em desacordo com
+padrões técnicos, normas ou
+especificações Execução Média Alto Crítica
+12
+Ausência de garantia,
+suporte ou assistência pós-
+entrega Execução Baixo Médio Leve
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 17 de 23
+
+--- [pag. PDF 18] ---
+18
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+TABELA 2 – DEFINIÇÕES DE IMPACTO E PROBABILIDADE
+2.1 - IMPACTO
+NÍVEL DESCRIÇÃO EXEMPLOS
+BAIXO
+Consequências leves.
+Não compromete o
+objeto, o prazo global,
+nem causa prejuízo à
+Administração. Correção
+simples e sem custo
+significativo.
+• Elaboração: Pequeno erro de digitação no edital,
+corrigível por errata sem afetar o entendimento do
+objeto.
+• Processamento: Necessidade de prorrogação de
+prazo para resposta a esclarecimentos, sem
+impactar o cronograma global.
+• Execução: Pequeno atraso na entrega de
+documentação complementar pelo contratado,
+sem paralisação do serviço.
+MÉDIO
+Prejuízo moderado.
+Afeta parcialmente a
+execução do curso ou
+exige ajustes na
+agenda. Pode gerar
+necessidade de
+notificação formal.
+• Elaboração: Deficiência na especificação técnica
+que exige a publicação de uma errata substantiva,
+adiando a licitação.
+• Processamento: Impugnação por parte de um
+licitante que resulta na anulação de parte do edital
+e reinício de etapa.
+• Execução: Atraso no fornecimento de insumos,
+impactando parcialmente o cronograma do
+contratado.
+ALTO
+Consequências graves.
+Compromete a entrega
+do objeto, causa
+prejuízo à
+Administração, pode
+gerar rescisão contratual
+ou responsabilização.
+• Elaboração: Vício insanável no projeto básico que
+leva à anulação total do processo licitatório após
+sua abertura.
+• Processamento: Identificação de cláusulas
+restritivas no edital, resultando em anulação com
+consequências jurídicas e danos à imagem.
+• Execução: Paralisação total dos serviços por falha
+grave do contratado, exigindo a aplicação de
+penalidades e rescisão contratual.
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 18 de 23
+
+--- [pag. PDF 19] ---
+19
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+2.2 - PROBABILIDADE
+NÍVEL DESCRIÇÃO EXEMPLOS
+BAIXA
+Pouco provável. Contrato com
+bom desempenho anterior,
+contrato bem planejado e com
+fiscalização ativa.
+• Elaboração: Utilização de modelo de edital
+padronizado e amplamente testado para
+objeto de baixa complexidade.
+• Processamento: Realização de pregão
+para material de consumo comum, com
+ampla disputa e poucas impugnações.
+• Execução: Contratação de empresa com
+histórico comprovado de cumprimento de
+prazos e qualidade em licitações anteriores.
+MÉDIA
+Pode ocorrer. Há indícios ou
+histórico intermediário de risco.
+Exige monitoramento constante.
+• Elaboração: Elaboração de termo de
+referência para objeto novo, sem
+parâmetros consolidados na administração.
+• Processamento: Licitação que depende de
+análise documental complexa ou de
+pareceres de vários setores.
+• Execução: Contrato cuja execução está
+sujeita a fatores externos, como condições
+climáticas ou fornecimento de materiais
+com cadeia global.
+ALTA
+Muito provável. Risco iminente,
+histórico negativo do
+contrato/contratado ou ausência
+de controles eficazes.
+• Elaboração: Estimativa de custo realizada
+de forma precária, com alta probabilidade
+de superação do valor orçado.
+• Processamento: Processo licitatório para
+objeto extremamente complexo ou
+inovador, com alta expectativa de recursos
+e impugnações.
+• Execução: Contratação emergencial sem a
+definição clara de metas e indicadores,
+dificultando a fiscalização e o controle.
+TABELA 3 – MATRIZ DE GRAVIDADE DOS RISCOS
+PROBABILIDADE IMPACTO
+BAIXA MÉDIA ALTA
+ALTA MODERADA CRÍTICA CRÍTICA
+MÉDIA LEVE MODERADA CRÍTICA
+BAIXA LEVE LEVE MODERADA
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 19 de 23
+
+--- [pag. PDF 20] ---
+20
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+TABELA 4 - CONSEQUÊNCIAS E MEDIDAS DE CONTINGÊNCIA DOS RISCOS
+N° DESCRIÇÃO DOS
+RISCOS
+CONSEQUÊNCIAS
+DO RISCO
+MEDIDA
+PREVENTIVA
+MEDIDA
+CORRETIVA
+1
+Definição inadequada
+do objeto quanto à
+sua finalidade,
+abrangência e
+resultados esperados
+Contratação
+incompatível; baixa
+efetividade;
+retrabalho
+Elaboração
+detalhada do ETP e
+TR; validação
+técnica prévia
+Revisão do escopo e
+readequação do
+Termo de Referência
+2
+Especificação
+incompleta ou
+imprecisa dos
+requisitos técnicos,
+funcionais e
+operacionais
+Entrega inadequada;
+falhas de
+desempenho;
+questionamentos
+Definição objetiva de
+requisitos e padrões
+de qualidade
+Ajuste dos requisitos
+e revisão contratual
+3
+Estimativa incorreta
+de quantitativos,
+prazos ou custos
+Aditivos; insuficiência
+orçamentária;
+atrasos
+Levantamento
+prévio; estudos de
+mercado; análise
+histórica
+Readequação dos
+quantitativos e
+replanejamento
+4
+Escolha inadequada
+da modalidade ou tipo
+de contratação
+Risco de nulidade;
+questionamentos;
+responsabilização
+Análise jurídica e
+técnica prévia
+Correção do
+procedimento e
+saneamento
+processual
+5
+Fornecedores sem
+capacidade técnica,
+operacional ou
+financeira
+Execução
+insatisfatória;
+paralisações;
+descumprimento
+Exigência de
+habilitação
+compatível e análise
+rigorosa
+Aplicação de sanções
+ou rescisão contratual
+6
+Apresentação de
+documentação falsa
+ou informações
+inconsistentes
+Prejuízo financeiro;
+anulação;
+responsabilização
+Checagem em
+bases oficiais;
+assinaturas digitais
+Anulação do ato e
+aplicação de
+penalidades
+7
+Baixa competitividade
+ou propostas
+inexequíveis
+Preços elevados;
+risco de inexecução;
+nova licitação
+Divulgação ampla;
+edital claro;
+pesquisa de preços
+Reanálise ou
+repetição do certame
+8
+Atrasos por
+impugnações,
+recursos ou falhas
+procedimentais
+Postergacão da
+contratação; impacto
+no planejamento
+Planejamento de
+prazos e equipe
+capacitada
+Reorganização do
+cronograma
+9
+Execução contratual
+em desacordo com as
+condições pactuadas,
+cronograma ou
+metodologia prevista
+Retrabalho; custos
+adicionais; baixa
+qualidade
+Fiscalização
+contínua e checklists
+técnicos
+Correção das falhas e
+penalidades
+10
+Ocorrência de
+acidentes de trabalho
+ou riscos à segurança
+Afastamentos;
+paralisação;
+responsabilização
+Cumprimento das
+NRs; EPC/EPI;
+treinamentos
+Apuração do
+incidente e reforço da
+segurança
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 20 de 23
+
+--- [pag. PDF 21] ---
+21
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+11
+Entrega de produtos
+ou serviços em
+desacordo com
+padrões técnicos,
+normas ou
+especificações
+Desempenho
+insatisfatório;
+rejeição; insatisfação
+Testes de aceitação
+e inspeções técnicas
+Substituição ou
+correção do objeto
+12
+Ausência de garantia,
+suporte ou
+assistência pós-
+entrega
+Interrupção de
+serviços; aumento de
+custos
+Cláusulas de
+garantia e SLA;
+validação do suporte
+Acionamento
+contratual e
+penalidades
+TABELA 5 – PARTES RESPONSÁVEIS E ATINGIDAS
+N° DESCRIÇÃO DOS
+RISCOS
+PARTE QUE DEU A
+CAUSA
+PARTE
+RESPONSÁVEL POR
+SANAR
+ATINGIDOS
+1
+Definição inadequada
+do objeto quanto à
+sua finalidade,
+abrangência e
+resultados esperados
+Administração
+Pública Administração Pública
+Usuários e
+Administração
+Pública
+2
+Especificação
+incompleta ou
+imprecisa dos
+requisitos técnicos,
+funcionais e
+operacionais
+Administração
+Pública Administração Pública Usuários e setores
+demandantes
+3
+Estimativa incorreta
+de quantitativos,
+prazos ou custos
+Administração
+Pública Administração Pública
+Usuários e
+Administração
+Pública
+4
+Escolha inadequada
+da modalidade ou
+tipo de contratação
+Administração
+Pública / Assessoria
+Jurídica
+Administração Pública
+/ Assessoria Jurídica
+Administração
+Pública / Gestores e
+Fiscais
+5
+Fornecedores sem
+capacidade técnica,
+operacional ou
+financeira
+Fornecedor Comissão de Licitação
+/ Fiscalização
+Usuários /
+Administração
+6
+Apresentação de
+documentação falsa
+ou informações
+inconsistentes
+Fornecedor Comissão de Licitação
+/ Órgãos de Controle
+Administração /
+Sociedade
+7
+Baixa competitividade
+ou propostas
+inexequíveis
+Mercado /
+Divulgação
+Comissão de Licitação
+/ Setor de Compras Administração
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 21 de 23
+
+--- [pag. PDF 22] ---
+22
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+‘‘
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+8
+Atrasos por
+impugnações,
+recursos ou falhas
+procedimentais
+Setor Processual /
+Partes Recorrentes
+Gestor / Assessoria
+Jurídica Administração
+9
+Execução contratual
+em desacordo com
+as condições
+pactuadas,
+cronograma ou
+metodologia prevista
+Fornecedor / Equipe
+Executora
+Fornecedor /
+Fiscalização
+Administração /
+Usuários
+10
+Ocorrência de
+acidentes de trabalho
+ou riscos à
+segurança
+Fornecedor / Equipe
+Executora
+Fornecedor /
+Segurança do
+Trabalho / Fiscalização
+Trabalhadores /
+Administração /
+Usuários
+11
+Entrega de produtos
+ou serviços em
+desacordo com
+padrões técnicos,
+normas ou
+especificações
+Fornecedor /
+Projetista
+Fornecedor /
+Fiscalização Técnica
+Usuários /
+Administração
+12
+Ausência de garantia,
+suporte ou
+assistência pós-
+entrega
+Fornecedor
+Fornecedor /
+Comissão de
+Contratação
+Administração /
+Usuários
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 22 de 23
+
+--- [pag. PDF 23] ---
+Identificador: 973d276d682feaed48ef73203ce744a4cce599dede8e66541
+Data/Hora em GMT -3:00 por Google Trusted Services
+Autenticação eletrônica por autentique.com.br
+Relatório de auditoria e validação de assinaturas eletrônicas
+e88dc02fb56b235fa712af26e01
+991a9b27e5fd63e854ce97449fa
+98b4ede895 Hash SHA256 do original
+URL pública de verificação de integridade e autenticidade
+https://valida.ae/973d276d682feaed48ef73203ce744a4cce599dede8e66541
+Assinaturas concluídas: 3 de 3
+Assinaturas eletrônicas realizadas em conformidade com a Lei nº 14.063/2020 e Regulamento (UE) nº 910/2014 (eIDAS)
+Como auditar e validar este documento
+Você está visualizando uma via para impressão do documento, ela possui os dados de auditoria, porém ela pode ser
+alterada. Para conferir a integridade do documento e das assinaturas, acesse a URL pública de validação ou
+escaneie o QRCode ao lado.
+Assinaturas presentes no documento
+LuizHPSilva
+Assinado eletronicamente por
+Luiz Henrique Paiva Da Silva
+Data: 10/08/2026 16:04
+#478bae3794ee11f1818d42010a2b6021
+SIGNATÁRIO
+Fabiano O
+Assinado eletronicamente por
+Fabiano Cristian Oliveira
+Data: 11/08/2026 08:57
+#4791622e94ee11f1818d42010a2b6021
+SIGNATÁRIO
+João S
+Assinado eletronicamente por
+João Pedro Vicente da Silva
+Data: 10/08/2026 16:04
+#4797cf8994ee11f1818d42010a2b6021
+SIGNATÁRIO
+Trilha de auditoria
+10/08/2026
+16:04
+Luiz Henrique Paiva Da Silva (luiz.silva@lins.sp.gov.br, CPF 328.977.258-69), PREFEITURA MUNICIPAL DE LINS - UNIDADE DE
+INFORMÁTICA E GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (44.531.788/0001-38), criou o documento
+Hash SHA256 do arquivo: e88dc02fb56b235fa712af26e01991a9b27e5fd63e854ce97449fa98b4ede895
+10/08/2026
+16:04
+Luiz Henrique Paiva Da Silva (luiz.silva@lins.sp.gov.br, CPF 328.977.258-69), PREFEITURA MUNICIPAL DE LINS - UNIDADE DE
+INFORMÁTICA E GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (44.531.788/0001-38), visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 54743
+10/08/2026
+16:04
+Luiz Henrique Paiva Da Silva (luiz.silva@lins.sp.gov.br, CPF 328.977.258-69), PREFEITURA MUNICIPAL DE LINS - UNIDADE DE
+INFORMÁTICA E GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (44.531.788/0001-38), assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Edge/151.0.0.0 Tipo de geolocalização: IP
+Porta: 54743 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko Latitude e longitude: -21.6675, -49.6972
+10/08/2026
+16:04
+João Pedro Vicente da Silva (telefone +5514999023235, CPF 417.777.138-46) visualizou o documento
+Endereço de IP: 191.26.148.92 Porta: 56458
+10/08/2026
+16:04
+João Pedro Vicente da Silva (telefone +5514999023235, CPF 417.777.138-46) assinou o documento
+Endereço de IP: 191.26.148.92 Navegador: Chrome/150.0.7871.181 Tipo de geolocalização: IP
+Porta: 56458 Arquitetura: ARM Precisão: 5km+
+SO: AndroidOS 16 Render engine: Gecko Latitude e longitude: -22.2635, -49.1364
+11/08/2026
+08:57
+Fabiano Cristian Oliveira (fabianocristian@hotmail.com, CPF 285.919.208-56) visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 61137
+11/08/2026
+08:57
+Fabiano Cristian Oliveira (fabianocristian@hotmail.com, CPF 285.919.208-56) assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Chrome/150.0.0.0 Tipo de geolocalização: IP
+Porta: 61137 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko Latitude e longitude: -21.6675, -49.6972
+autentique.com.br 973d276d682feaed48ef73203ce744a4cce599dede8e66541 pg. 23 de 23

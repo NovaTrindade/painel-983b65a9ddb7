@@ -1,0 +1,949 @@
+=== DOCUMENTO 1: EDITAL PE 083-2026 -CONTRATACAO DE EMPRESA ESPECIALIZADA PARA LOCACAO DE ATIVOS DE ===
+tipo: Edital | páginas: 22 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/44531788000138/compras/2026/168/arquivos/18
+
+--- [pag. PDF 1] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+1
+PREGÃO
+ELETRÔNICO
+083/2026
+CONTRATANTE: Município de Lins, através da Secretaria de
+Administração
+OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA
+LOCAÇÃO DE ATIVOS DE TECNOLOGIA DA INFORMAÇÃO.
+VALOR TOTAL ESTIMADO DA CONTRATAÇÃO: R$ 3.667.054,32 (Três
+Milhões, Seiscentos E Sessenta E Sete Mil, Cinquenta E Quatro Reais E
+Trinta E Dois Centavos).
+DATA DA SESSÃO PÚBLICA: Dia 10/09/2026 às 08H30MIN
+SESSÃO DE LANCES: INÍCIO ÀS 09H 30MIN. (HORÁRIO DE BRASÍLIA).
+CRITÉRIO DE JULGAMENTO: Menor preço global.
+MODO DE DISPUTA: aberto.
+EXCLUSIVIDADE/RESERVA ME/EPP/EQUIPARADAS: NÃO - LICITAÇÃO
+NÃO DIFERENCIADA.
+
+--- [pag. PDF 2] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+2
+PREGÃO ELETRÔNICO Nº 083/2026
+(Processo Administrativo N° 6842/2026)
+Torna-se público que o MUNICÍPIO DE LINS, por meio da SECRETARIA DE ADMINISTRAÇÃO sediada
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP, realizará licitação, na modalidade
+PREGÃO, na forma ELETRÔNICA, nos termos da Lei nº 14.133, de 1º de abril de 2021, e demais legislações
+aplicáveis e, ainda, de acordo com as condições estabelecidas neste Edital.
+Nas licitações exclusivas e/ou com reserva de cotas para Microempresa, Empresa de Pequeno Porte e
+Microempreendedor Individual, por lote, serão definidas através de indicação direta na Plataforma BLL, nos
+termos do parágrafo III do art. 48º da Lei Complementar n° 123/2006, com as alterações da Lei Complementar
+147/14, conforme descrição abaixo.
+OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA LOCAÇÃO DE ATIVOS DE
+TECNOLOGIA DA INFORMAÇÃO.
+1. DAS DISPOSIÇÕES PRELIMINARES
+1.1. O Pregão, na forma Eletrônica será realizado em sessão pública virtual, por meio da INTERNET,
+mediante condições de segurança - criptografia e autenticação - em todas as suas fases através do Sistema
+de Pregão, na Forma Eletrônica (licitações) da Bolsa de Licitações e Leilões.
+1.2. A utilização do sistema de pregão eletrônico da www.bll.org.br está consubstanciada nos dispositivos
+da Lei 14.133/2021.
+1.3. Os trabalhos serão conduzidos por funcionário da Prefeitura Municipal de Lins, denominado Pregoeiro,
+mediante a inserção e monitoramento de dados gerados ou transferidos para o aplicativo “Licitações” constante
+da página eletrônica da Bolsa de Licitações e Leilões (www.bll.org.br).
+1.4. O presente Edital se submete integralmente na legislação mencionada no seu preâmbulo,
+especialmente na Lei Complementar nº 123/2006, atendendo a prioridade para a microempresa e empresa de
+pequeno porte, para efeito do desempate quando verificado ao final da fase de lances.
+1.5. Será concedido tratamento favorecido para as microempresas e empresas de pequeno porte, para as
+sociedades cooperativas mencionadas no artigo 16 da Lei nº 14.133, de 2021 e para o microempreendedor
+individual - MEI, nos limites previstos da Lei Complementar nº 123, de 2006.
+1.6. Nas licitações exclusivas para ME, EPP e MEI, existe um dispositivo na Plataforma BLL, que impede
+a inclusão de documentação de outros enquadramentos, e é determinado pelo Pregoeiro e Equipe de Apoio
+diretamente na plataforma, tomando como base a estimativa de preços da contratação.
+1.7. Em se tratando de Obras ou serviços de engenharia, considerando o Plano Municipal de Gestão de
+Resíduos da Construção Civil (RCC), aprovado pelo Decreto n° 14.298/2025, todas as contratações de obras,
+reformas, ampliações ou demolições ficam obrigadas a:
+a) Elaboração e execução do Plano de Gerenciamento de Resíduos da Construção Civil (PGRCC) pelo
+contratado;
+b) Providenciar a destinação ambientalmente adequada dos resíduos, em conformidade com a legislação
+vigente;
+
+--- [pag. PDF 3] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+3
+c) Apresentar comprovantes de destinação final, tais como CTR, MTR, notas fiscais ou documentos
+equivalentes;
+d) A contratada deverá responsabilizar-se integralmente pela gestão dos resíduos gerados na obra;
+e) Ficam condicionadas as medições e os pagamentos à comprovação da destinação adequada dos
+resíduos da construção civil.
+1.8. Quando exigidas garantia de proposta ou garantia de contratação, deverão ser observados os art. 58
+e 96 da Lei 14.133/2021
+1.9. A proponente que optar pela prestação da garantia por caução em dinheiro em conformidade com o
+Inciso I do § 1° do art. 96 da Lei 14133/2021, deverá efetuar depósito bancário em nome da Prefeitura Municipal
+de Lins - CNPJ 44.531.788/0001-38 na Conta Bancária: Banco do (001), Agência 0058-2, Conta 26318-4.
+2. DA PARTICIPAÇÃO NA LICITAÇÃO
+2.1. Poderão participar deste Pregão os interessados que estiverem previamente credenciados na página
+eletrônica da Bolsa de Licitações e Leilões (www.bll.org.br).
+2.1.1. Os interessados deverão atender às condições exigidas no cadastramento na página eletrônica
+da Bolsa de Licitações e Leilões (www.bll.org.br) até o terceiro dia útil anterior à data prevista para
+recebimento das propostas.
+2.2. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu nome,
+assume como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou
+por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora
+da licitação por eventuais danos decorrentes de uso indevido das credenciais de acesso, ainda que por
+terceiros.
+2.3. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos Sistemas
+relacionados no item anterior e mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo
+proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique incorreção ou aqueles se
+tornem desatualizados.
+2.4. A não observância do disposto no item anterior poderá ensejar desclassificação no momento da
+habilitação.
+2.5. Quando houverem itens exclusivos para participação de microempresas e empresas de pequeno porte,
+a assinalação do campo “não” impedirá o prosseguimento no certame, para aquele item;
+2.6. Nos itens em que a participação não for exclusiva para microempresas e empresas de pequeno porte,
+a assinalação do campo “não” apenas produzirá o efeito de o licitante não ter direito ao tratamento favorecido
+previsto na Lei Complementar nº 123, de 2006, mesmo que microempresa, empresa de pequeno porte ou
+sociedade cooperativa.
+2.7. A falsidade da declaração de que trata os itens anteriores sujeitará o licitante às sanções previstas na
+Lei nº 14.133, de 2021, e neste Edital.
+2.7.1. A obtenção do benefício a que se refere o item anterior fica limitada às microempresas e às
+empresas de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado
+
+--- [pag. PDF 4] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+4
+contratos com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida
+para fins de enquadramento como empresa de pequeno porte.
+2.8. Será concedido tratamento favorecido para as microempresas e empresas de pequeno porte nos
+termos da Lei Complementar 123/2006.
+2.9. Não poderão disputar esta licitação:
+2.9.1. aquele que não atenda às condições deste Edital e seu(s) anexo(s);
+2.9.2. pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar
+da licitação em decorrência de sanção que lhe foi imposta;
+2.9.3. aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe
+função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge,
+companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau;
+2.9.4. empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de
+dezembro de 1976, concorrendo entre si;
+2.9.5. pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido
+condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de
+trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados
+pela legislação trabalhista;
+2.9.6. agente público do órgão ou entidade licitante;
+2.9.7. Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição;
+2.9.8. Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente
+público do órgão ou entidade contratante, devendo ser observadas as situações que possam configurar
+conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos termos da legislação que
+disciplina a matéria, conforme § 1º do art. 9º da Lei nº 14.133, de 2021.
+2.10. O impedimento de que trata o item 2.9.2 será também aplicado ao licitante que atue em substituição a
+outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive a sua
+controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta
+da personalidade jurídica do licitante.
+2.11. A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa a que se
+referem os itens 2.9.2 e 2.9.3 poderão participar no apoio das atividades de planejamento da contratação, de
+execução da licitação ou de gestão do contrato, desde que sob supervisão exclusiva de agentes públicos do
+órgão ou entidade.
+2.12. Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico.
+2.13. O disposto nos itens 2.9.2 e 2.9.3 não impede a licitação ou a contratação de serviço que inclua como
+encargo do contratado a elaboração do projeto básico e do projeto executivo, nas contratações integradas, e
+do projeto executivo, nos demais regimes de execução.
+2.14. Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados
+por agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do
+
+--- [pag. PDF 5] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+5
+financiamento ou da contrapartida nacional, não poderá participar pessoa física ou jurídica que integre o rol de
+pessoas sancionadas por essas entidades ou que seja declarada inidônea nos termos da Lei nº 14.133/2021.
+2.15. A vedação de que trata o item 2.9.6 estende-se a terceiro que auxilie a condução da contratação na
+qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de
+empresa que preste assessoria técnica.
+2.16. O custo de operacionalização e uso do sistema, ficará a cargo do Licitante vencedor do certame, que
+pagará a Bolsa de Licitações e Leilões, provedora do sistema eletrônico, o equivalente ao percentual
+estabelecido pela mesma sobre o valor contratual ajustado, a título de taxa pela utilização dos recursos de
+tecnologia da informação, em conformidade com o regulamento operacional da BLL – Bolsa de Licitações e
+Leilões.
+3. DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+3.1. Os licitantes encaminharão, exclusivamente por meio do sistema, proposta com a descrição do objeto
+ofertado e o preço ou desconto, dependendo do critério adotado, até a data e o horário estabelecidos para
+abertura da sessão pública, quando, então, encerrar-se-á automaticamente a etapa de envio dessa
+documentação.
+3.2. O envio da proposta, acompanhado dos documentos de habilitação exigidos neste Edital, ocorrerá por
+meio de acesso à plataforma BLL.
+3.3. Os documentos que compõem a proposta e a habilitação dos licitantes somente serão disponibilizados
+para avaliação do pregoeiro e para acesso público após o encerramento do envio de lances;
+3.4. Não há necessidade de autenticação de documentos emitidos pela internet ou com autenticação digital;
+3.5. A documentação apresentada para fins de habilitação da empresa vencedora fará parte dos autos do
+processo licitatório e ficarão disponibilizados na plataforma;
+3.6. Havendo divergência nos documentos solicitados no edital e na Bolsa de Licitações e Leilões,
+prevalecerá o do Edital/Termo de referência, sendo possível a inserção no campo “outros documentos” e
+mesmo em “documentos complementares”, pois não há como incluir documentos em local não disponibilizado
+na plataforma;
+3.7. O não cumprimento por parte da licitante do envio dos documentos de habilitação, na forma e prazos
+acima estabelecidos, acarretará nas penalidades previstas deste Edital, podendo o Pregoeiro convocar a
+empresa que estiver posicionada na classificação subsequente da oferta de lances;
+3.8. No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema, que:
+3.8.1. está ciente e concorda com as condições contidas no edital e seus anexos, bem como de que
+a proposta apresentada compreende a integralidade dos custos para atendimento dos direitos trabalhistas
+assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções
+coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de sua entrega em definitivo
+e que cumpre plenamente os requisitos de habilitação definidos no instrumento convocatório;
+
+--- [pag. PDF 6] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+6
+3.8.2. não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega
+menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°,
+XXXIII, da Constituição;
+3.8.3. não possui empregados executando trabalho degradante ou forçado, observando o disposto
+nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal;
+3.8.4. cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da
+Previdência Social, previstas em lei e em outras normas específicas.
+3.9. O fornecedor enquadrado como microempresa, empresa de pequeno porte ou sociedade cooperativa
+deverá declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os requisitos estabelecidos no
+artigo 3° da Lei Complementar nº 123, de 2006, estando apto a usufruir do tratamento favorecido estabelecido
+em seus arts. 42 a 49, observado o disposto nos §§ 1º ao 3º do art. 4º, da Lei n.º 14.133, de 2021.
+3.10. A falsidade da declaração de que trata os itens 3.8 ou 3.9 sujeitará o licitante às sanções previstas na
+Lei nº 14.133, de 2021, e neste Edital.
+3.11. Os licitantes poderão retirar ou substituir a proposta ou, na hipótese de a fase de habilitação anteceder
+as fases de apresentação de propostas e lances e de julgamento, os documentos de habilitação anteriormente
+inseridos no sistema, até a abertura da sessão pública.
+3.12. Não haverá ordem de classificação na etapa de apresentação da proposta e dos documentos de
+habilitação pelo licitante, o que ocorrerá somente após os procedimentos de abertura da sessão pública e da
+fase de envio de lances.
+3.13. Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes
+convocados para apresentação de propostas, após a fase de envio de lances.
+3.14. Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu valor final
+mínimo ou o seu percentual de desconto máximo quando do cadastramento da proposta e obedecerá às
+seguintes regras:
+3.14.1. a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que
+incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta;
+e
+3.14.2. os lances serão de envio automático pelo sistema, respeitado o valor final mínimo, caso
+estabelecido, e o intervalo de que trata o subitem acima.
+3.15. O valor final mínimo parametrizado no sistema poderá ser alterado pelo fornecedor durante a fase de
+disputa, sendo vedado:
+3.15.1. valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de
+julgamento por menor preço; e
+3.15.2. percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando
+adotado o critério de julgamento por maior desconto.
+3.16. O valor final mínimo ou o percentual de desconto final máximo parametrizado na forma do item 3.14
+possuirá caráter sigiloso para os demais fornecedores e para o órgão ou entidade promotora da licitação,
+podendo ser disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.
+
+--- [pag. PDF 7] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+7
+3.17. Caberá ao licitante interessado em participar da licitação acompanhar as operações no sistema
+eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente da perda de negócios diante
+da inobservância de mensagens emitidas pela Administração ou de sua desconexão.
+3.18. O licitante deverá comunicar imediatamente ao provedor do sistema qualquer acontecimento que
+possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+4. DO PREENCHIMENTO DA PROPOSTA
+4.1. O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos seguintes
+campos:
+4.1.1. No preenchimento da proposta deverão, obrigatoriamente, ser informadas as especificações
+conforme ANEXO I deste Edital e as MARCAS E/OU FABRICANTE dos itens ofertados;
+4.1.2. Descrição detalhada do objeto, contendo as informações similares à especificação do Termo
+de Referência: indicando, no que for aplicável, o modelo, prazo de validade ou de garantia, número do
+registro ou inscrição do bem no órgão competente, quando for o caso;
+4.2. Todas as especificações do objeto contidas na proposta vinculam o licitante.
+4.3. O licitante NÃO poderá oferecer proposta em quantitativo inferior ao máximo previsto para contratação.
+4.4. Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários,
+trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou indiretamente na execução do
+objeto.
+4.5. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de erro,
+omissão ou qualquer outro pretexto.
+4.6. Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais variáveis, a
+cotação adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos últimos doze
+meses.
+4.7. Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na fonte
+os percentuais estabelecidos na legislação vigente.
+4.8. A apresentação das propostas implica obrigatoriedade do cumprimento das disposições nelas
+contidas, em conformidade com o que dispõe o Termo de Referência, assumindo o proponente o compromisso
+de executar o objeto licitado nos seus termos, bem como de fornecer os materiais, equipamentos, ferramentas
+e utensílios necessários, em quantidades e qualidades adequadas à perfeita execução contratual,
+promovendo, quando requerido, sua substituição.
+4.8.1. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de
+sua apresentação.
+4.8.2. Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de
+contratações públicas federais, quando participarem de licitações públicas;
+4.9. O descumprimento das regras supramencionadas pela Administração por parte dos contratados pode
+ensejar a responsabilização pelo Tribunal de Contas da União e/ou Tribunal de Contas do Estado de São Paulo
+e, após o devido processo legal, gerar as seguintes consequências: assinatura de prazo para a adoção das
+
+--- [pag. PDF 8] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+8
+medidas necessárias ao exato cumprimento da lei, nos termos do art. 71, inciso IX, da Constituição; ou
+condenação dos agentes públicos responsáveis e da empresa contratada ao pagamento dos prejuízos ao
+erário, caso verificada a ocorrência de superfaturamento por sobrepreço na execução do contrato.
+5. DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE LANCES
+5.1. A abertura da presente licitação dar-se-á em sessão pública, por meio de sistema eletrônico, na data,
+horário e local indicados neste Edital.
+5.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação, quando for o
+caso, anteriormente inseridos no sistema, até a abertura da sessão pública.
+5.3. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes.
+5.4. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio de
+sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no registro.
+5.5. O lance deverá ser ofertado pelo menor preço global.
+5.6. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão
+e as regras estabelecidas no Edital.
+5.7. O licitante somente poderá oferecer lance de valor inferior ou percentual de desconto superior ao último
+por ele ofertado e registrado pelo sistema.
+5.8. O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto em
+relação aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta poderá variar
+conforme o pregão e objeto licitado, quando o pregoeiro(a) definir uma margem de lance.
+5.9. O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze segundos
+após o registro no sistema, na hipótese de lance inconsistente ou inexequível.
+5.10. O procedimento seguirá de acordo com o modo de disputa adotado.
+5.11. Quando adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto”, os licitantes
+apresentarão lances públicos e sucessivos, com prorrogações.
+5.11.1. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de
+duração da sessão pública.
+5.11.2. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois
+minutos e ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação,
+inclusive no caso de lances intermediários.
+5.11.3. Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública
+encerrar-se-á automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de
+classificação.
+5.11.4. Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo
+lugar for de pelo menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o
+reinício da disputa aberta, para a definição das demais colocações.
+
+--- [pag. PDF 9] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+9
+5.11.5. Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances
+intermediários.
+5.12. Quando adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto e fechado”,
+os licitantes apresentarão lances públicos e sucessivos, com lance final e fechado.
+5.12.1. A etapa de lances da sessão pública terá duração inicial de quinze minutos. Após esse prazo,
+o sistema encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá o período de até
+dez minutos, aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de
+lances;
+5.12.2. Encerrado o prazo previsto no subitem anterior, o sistema abrirá oportunidade para que o autor
+da oferta de valor mais baixo e os das ofertas com preços até 10% (dez por cento) superiores àquela
+possam ofertar um lance final e fechado em até cinco minutos, o qual será sigiloso até o encerramento
+deste prazo;
+5.12.3. No procedimento de que trata o subitem supra, o licitante poderá optar por manter o seu último
+lance da etapa aberta, ou por ofertar melhor lance;
+5.12.4. Não havendo pelo menos três ofertas nas condições definidas neste item, poderão os autores
+dos melhores lances subsequentes, na ordem de classificação, até o máximo de três, oferecer um lance
+final e fechado em até cinco minutos, o qual será sigiloso até o encerramento deste prazo;
+5.12.5. Após o término dos prazos estabelecidos nos itens anteriores, o sistema ordenará e divulgará
+os lances segundo a ordem crescente de valores;
+5.13. Quando adotado para o envio de lances no pregão eletrônico o modo de disputa “fechado e aberto”,
+poderão participar da etapa aberta somente os licitantes que apresentarem a proposta de menor preço/ maior
+percentual de desconto e os das propostas até 10% (dez por cento) superiores/inferiores àquela, em que os
+licitantes apresentarão lances públicos e sucessivos, até o encerramento da sessão e eventuais prorrogações.
+5.13.1. Não havendo pelo menos 3 (três) propostas nas condições definidas no item 5.13, poderão os
+licitantes que apresentaram as três melhores propostas, consideradas as empatadas, oferecer novos lances
+sucessivos;
+5.13.2. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de
+duração da sessão pública;
+5.13.3. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois
+minutos e ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação,
+inclusive no caso de lances intermediários;
+5.13.4. Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública
+encerrar-se-á automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de
+classificação;
+5.13.5. Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo
+lugar for de pelo menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o
+reinício da disputa aberta, para a definição das demais colocações;
+
+--- [pag. PDF 10] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+10
+5.13.6. Após o reinício previsto no subitem supra, os licitantes serão convocados para apresentar
+lances intermediários.
+5.14. Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e divulgará os
+lances segundo a ordem crescente de valores.
+5.15. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e
+registrado em primeiro lugar.
+5.16. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do
+menor lance registrado, vedada a identificação do licitante.
+5.17. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema
+eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances retornando o Pregoeiro,
+quando possível, sua atuação no certame, sem prejuízos dos atos realizados.
+5.18. Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo superior a dez
+minutos, a sessão pública será suspensa e reiniciada somente após decorridas vinte e quatro horas da
+comunicação do fato pelo Pregoeiro aos participantes, no sítio eletrônico utilizado para divulgação.
+5.19. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+5.20. Em relação a itens não exclusivos para participação de microempresas e empresas de pequeno porte,
+uma vez encerrada a etapa de lances, será efetivada a verificação automática, junto à Receita Federal, do
+porte da entidade empresarial. O sistema identificará em coluna própria as microempresas e empresas de
+pequeno porte participantes, procedendo à comparação com os valores da primeira colocada, se esta for
+empresa de maior porte, assim como das demais classificadas, para o fim de aplicar-se o disposto nos arts. 44
+e 45 da Lei Complementar nº 123, de 2006, regulamentada pelo Decreto nº 8.538, de 2015.
+5.20.1. Nessas condições, as propostas de microempresas e empresas de pequeno porte que se
+encontrarem na faixa de até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão
+consideradas empatadas com a primeira colocada.
+5.20.2. A melhor classificada nos termos do subitem anterior terá o direito de encaminhar uma última
+oferta para desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco)
+minutos controlados pelo sistema, contados após a comunicação automática para tanto.
+5.20.3. Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se
+manifeste no prazo estabelecido, serão convocadas as demais licitantes microempresa e empresa de
+pequeno porte que se encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação,
+para o exercício do mesmo direito, no prazo estabelecido no subitem anterior.
+5.20.4. No caso de equivalência dos valores apresentados pelas microempresas e empresas de
+pequeno porte que se encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado
+sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.
+5.21. Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da
+fase fechada do modo de disputa aberto e fechado.
+5.21.1. Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele
+previsto no art. 60 da Lei nº 14.133, de 2021, nesta ordem:
+
+--- [pag. PDF 11] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+11
+5.21.1.1. disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em
+ato contínuo à classificação;
+5.21.1.2. avaliação do desempenho contratual prévio dos licitantes, para a qual deverão
+preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações
+previstos nesta Lei;
+5.21.1.3. desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente
+de trabalho, conforme regulamento;
+5.21.1.4. desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos
+de controle.
+5.21.2. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços
+produzidos ou prestados por:
+5.21.2.1. empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou entidade da
+Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou
+entidade de Município, no território do Estado em que este se localize;
+5.21.2.2. empresas brasileiras;
+5.21.2.3. empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+5.21.2.4. empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de
+dezembro de 2009.
+5.22. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro colocado
+permanecer acima do preço máximo ou inferior ao desconto definido para a contratação, o pregoeiro poderá
+negociar condições mais vantajosas, após definido o resultado do julgamento.
+5.22.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação
+inicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado em
+razão de sua proposta permanecer acima do preço máximo definido pela Administração.
+5.22.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais
+licitantes.
+5.22.3. O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do
+processo licitatório.
+5.23. Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgamento da proposta.
+6. DA FASE DE JULGAMENTO
+6.1. Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente classificado em
+primeiro lugar atende às condições de participação no certame, conforme previsto no art. 14 da Lei nº
+14.133/2021, legislação correlata e no item 2.9 do edital, especialmente quanto à existência de sanção que
+impeça a participação no certame ou a futura contratação:
+6.2. A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio
+majoritário, por força da vedação de que trata o artigo 12 da Lei n° 8.429, de 1992.
+
+--- [pag. PDF 12] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+12
+6.2.1. A tentativa de burla será verificada por meio dos vínculos societários, linhas de fornecimento
+similares, dentre outros.
+6.2.2. O licitante será convocado para manifestação previamente a uma eventual desclassificação.
+6.2.3. Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de condição
+de participação.
+6.3. Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum tratamento
+favorecido às ME/EPPs, o pregoeiro verificará se faz jus ao benefício, em conformidade com os itens 2.7.1 e
+3.9 deste edital.
+6.4. Verificadas as condições de participação e de utilização do tratamento favorecido, o pregoeiro
+examinará a proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do
+preço em relação ao máximo estipulado para contratação neste Edital e em seus anexos.
+6.5. Será desclassificada a proposta vencedora que:
+6.5.1. contiver vícios insanáveis;
+6.5.2. não obedecer às especificações técnicas contidas no Termo de Referência;
+6.5.3. apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a
+contratação;
+6.5.4. não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+6.5.5. apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos,
+desde que insanável.
+6.6. No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos
+valores forem inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração, em
+conformidade com o § 4° do art. 59 da Lei 14.133/2021.
+6.6.1. Nas contratações de obras e serviços de engenharia, será exigida garantia adicional do licitante
+vencedor cuja proposta for inferior a 85% (oitenta e cinco por cento) do valor orçado pela Administração,
+equivalente à diferença entre este último e o valor da proposta, sem prejuízo das demais garantias exigíveis
+de acordo com esta Lei, em conformidade com o § 4° do art. 59 da Lei 14.133/2021.
+6.7. No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores a
+50% (cinquenta por cento) do valor orçado pela Administração.
+6.7.1. A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do
+pregoeiro, que comprove:
+6.7.1.1. que o custo do licitante ultrapassa o valor da proposta; e
+6.7.1.2. inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+6.8. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de
+esclarecimentos complementares, poderão ser efetuadas diligências, para que a empresa comprove a
+exequibilidade da proposta.
+
+--- [pag. PDF 13] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+13
+6.9. Erros no preenchimento da planilha não constituem motivo para a desclassificação da proposta. A
+planilha poderá́ ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja majoração
+do preço e que se comprove que este é o bastante para arcar com todos os custos da contratação;
+6.9.1. O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a
+substância das propostas;
+6.9.2. Considera-se erro no preenchimento da planilha passível de correção a indicação de
+recolhimento de impostos e contribuições na forma do Simples Nacional, quando não cabível esse regime.
+6.10. Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, poderá ser
+colhida a manifestação escrita do setor requisitante do serviço ou da área especializada no objeto.
+6.11. Caso o Termo de Referência exija a apresentação de amostra, o licitante classificado em primeiro lugar
+deverá apresentá-la, conforme disciplinado no Termo de Referência, sob pena de não aceitação da proposta.
+6.12. Por meio de mensagem no sistema, será divulgado o local e horário de realização do procedimento
+para a avaliação das amostras, cuja presença será facultada a todos os interessados, incluindo os demais
+licitantes.
+6.13. Os resultados das avaliações serão divulgados por meio de mensagem no sistema.
+6.14. No caso de não haver entrega da amostra ou ocorrer atraso na entrega, sem justificativa aceita pelo
+Pregoeiro, ou havendo entrega de amostra fora das especificações previstas neste Edital, a proposta do
+licitante será recusada.
+6.15. Se a(s) amostra(s) apresentada(s) pelo primeiro classificado não for(em) aceita(s), o Pregoeiro
+analisará a aceitabilidade da proposta ou lance ofertado pelo segundo classificado. Seguir-se-á com a
+verificação da(s) amostra(s) e, assim, sucessivamente, até a verificação de uma que atenda às especificações
+constantes no Termo de Referência.
+7. DA FASE DE HABILITAÇÃO
+7.1. Na presente licitação a fase de habilitação sucederá a fase de disputa por lances.
+7.2. Os documentos previstos no Termo de Referência, necessários e suficientes para demonstrar a
+capacidade do licitante de realizar o objeto da licitação, serão exigidos para fins de habilitação, nos termos dos
+arts. 62 a 70 da Lei nº 14.133, de 2021.
+7.2.1. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de 2 (duas) horas, envie
+a documentação relativa à habilitação elencada no Termo de Referência, acompanhada das declarações
+pertinentes ao objeto cujos modelos estão contidos nos anexos deste edital bem como proposta adequada
+ao último lance ofertado após a negociação realizada, acompanhada, se for o caso, dos documentos
+complementares, quando necessários à confirmação daqueles exigidos neste Edital e já apresentados.
+7.2.1.1. Em se tratando de serviços de engenharia deverá compor a proposta readequada a planilha
+orçamentária com indicação dos quantitativos e dos custos unitários, bem como com detalhamento das
+Bonificações e Despesas Indiretas (BDI) e dos Encargos Sociais (ES) com os respectivos valores
+adequados ao valor final da proposta vencedora, admitida a utilização dos preços unitários, no caso de
+empreitada por preço global, empreitada integral, contratação semi-integrada e contratação integrada,
+exclusivamente para eventuais adequações indispensáveis no cronograma físico-financeiro e para
+
+--- [pag. PDF 14] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+14
+balizar excepcional aditamento posterior do contrato, bem como cronograma físico-financeiro quando
+este contemplar o Termo de referência.
+7.2.1.2. A proposta readequada deverá seguir todos os parâmetros do item 4 deste edital e, no que
+couber, do estabelecido no Termo de Referência.
+7.2.2. É facultado ao pregoeiro prorrogar o prazo estabelecido, por igual período, a partir de
+solicitação fundamentada feita no chat pelo licitante, antes de findo o prazo.
+7.3. No caso de consórcio de empresas, a habilitação técnica, será feita por meio do somatório dos
+quantitativos de cada consorciado.
+7.4. Os documentos exigidos para fins de habilitação poderão ser apresentados em original, por cópia nos
+termos da LEI Nº 13.726, DE 8 DE OUTUBRO DE 2018.
+7.5. Os documentos exigidos para fins de habilitação poderão ser substituídos por registro cadastral emitido
+por órgão ou entidade pública, desde que o registro tenha sido feito em obediência ao disposto na Lei nº
+14.133/2021.
+7.6. Será verificado se o licitante apresentou declaração de que atende aos requisitos de habilitação, e o
+declarante responderá pela veracidade das informações prestadas, na forma da lei (art. 63, I, da Lei nº
+14.133/2021).
+7.7. Será verificado se o licitante apresentou no sistema, sob pena de inabilitação, a declaração de que
+cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência
+Social, previstas em lei e em outras normas específicas.
+7.8. O licitante deverá apresentar, sob pena de desclassificação, declaração de que suas propostas
+econômicas compreendem a integralidade dos custos para atendimento dos direitos trabalhistas assegurados
+na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e
+nos termos de ajustamento de conduta vigentes na data de entrega das propostas.
+7.9. A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões
+constitui meio legal de prova, para fins de habilitação.
+7.10. A verificação dos documentos somente será feita em relação ao licitante vencedor.
+7.10.1. Os documentos relativos à regularidade fiscal que constem do Termo de Referência somente
+serão exigidos, em qualquer caso, em momento posterior ao julgamento das propostas, e apenas do
+licitante mais bem classificado.
+7.10.2. Respeitada a exceção do subitem anterior, relativa à regularidade fiscal, quando a fase de
+habilitação anteceder as fases de apresentação de propostas e lances e de julgamento, a verificação ou
+exigência do presente subitem ocorrerá em relação a todos os licitantes.
+7.11. Após a entrega dos documentos para habilitação, não será permitida a substituição ou a apresentação
+de novos documentos, salvo em sede de diligência, para (Lei 14.133/21, art. 64,):
+7.11.1. complementação de informações acerca dos documentos já apresentados pelos licitantes e
+desde que necessária para apurar fatos existentes à época da abertura do certame; e
+7.11.2. atualização de documentos cuja validade tenha expirado após a data de recebimento das
+propostas;
+
+--- [pag. PDF 15] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+15
+7.12. Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou falhas,
+que não alterem a substância dos documentos e sua validade jurídica, mediante decisão fundamentada,
+registrada em ata e acessível a todos, atribuindo-lhes eficácia para fins de habilitação e classificação.
+7.13. Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro examinará a proposta
+subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda
+ao presente edital, observado o prazo disposto no subitem 8.3.1.
+7.14. Somente serão disponibilizados para acesso público os documentos de habilitação do licitante cuja
+proposta atenda ao edital de licitação, após concluídos os procedimentos de que trata o subitem anterior.
+7.15. A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno
+porte somente será exigida para efeito de contratação, e não como condição para participação na licitação (art.
+4º do Decreto nº 8.538/2015).
+8. DOS RECURSOS
+8.1. A interposição de recurso referente ao julgamento das propostas, à habilitação ou inabilitação de
+licitantes, à anulação ou revogação da licitação, observará o disposto no art. 165 da Lei nº 14.133, de 2021.
+8.2. O prazo recursal é de 3 (três) dias úteis, contados da data de intimação ou de lavratura da ata.
+8.3. Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de habilitação ou
+inabilitação do licitante:
+8.3.1. a intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão;
+8.3.2. o prazo para a manifestação da intenção de recorrer não será inferior a 10 (dez) minutos.
+8.3.3. o prazo para apresentação das razões recursais será iniciado na data de intimação ou de
+lavratura da ata de habilitação ou inabilitação;
+8.3.4. na hipótese de adoção da inversão de fases prevista no § 1º do art. 17 da Lei nº 14.133, de
+2021, o prazo para apresentação das razões recursais será iniciado na data de intimação da ata de
+julgamento.
+8.4. Os recursos deverão ser encaminhados em campo próprio do sistema.
+8.5. O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida, a qual
+poderá reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse mesmo prazo, encaminhar recurso
+para a autoridade superior, a qual deverá proferir sua decisão no prazo de 10 (dez) dias úteis, contado do
+recebimento dos autos.
+8.6. Os recursos interpostos fora do prazo não serão conhecidos.
+8.7. O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3 (três) dias
+úteis, contados da data da intimação pessoal ou da divulgação da interposição do recurso, assegurada a vista
+imediata dos elementos indispensáveis à defesa de seus interesses.
+8.8. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que
+sobrevenha decisão final da autoridade competente.
+8.9. O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+
+--- [pag. PDF 16] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+16
+8.10. Os autos do processo permanecerão com vista franqueada aos interessados no sítio eletrônico
+www.bll.org.br.
+9. DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES
+9.1 - A presente cláusula foi elaborada com fundamento na Lei Federal nº 14.133/2021 e na Resolução TCE-
+SP nº 11/2023, com as alterações promovidas pelas Resoluções TCE-SP nº 4/2026 e nº 7/2026.
+9.2. Esta Cláusula limita-se aos fatos ocorridos durante a execução do ajuste. Condutas próprias da seleção
+do fornecedor ou anteriores à formalização do vínculo executivo não integram esta matriz.
+9.3. O CONTRATADO executará fielmente o ajuste e responderá pelas consequências de sua inexecução total
+ou parcial, nos termos do art. 115 da Lei Federal nº 14.133/2021, sem prejuízo da reparação integral dos danos.
+9.3. A apuração das infrações e a aplicação das sanções competirão à autoridade definida na legislação e na
+regulamentação do CONTRATANTE, observadas a segregação de funções, a individualização das condutas,
+o contraditório, a ampla defesa, a motivação, a razoabilidade, a proporcionalidade e, quando exigida, a análise
+jurídica prévia.
+Das infrações administrativas de execução
+9.4. Constituem infrações administrativas relacionadas à execução, mantida a numeração dos incisos
+correspondentes do art. 155 da Lei Federal nº 14.133/2021:
+I - dar causa à inexecução parcial do contrato (art. 155, inciso I);
+II - dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos
+serviços públicos ou ao interesse coletivo (art. 155, inciso II);
+III - dar causa à inexecução total do contrato (art. 155, inciso III);
+VII - ensejar, sem motivo justificado, o retardamento da execução ou da entrega do objeto (art. 155, inciso VII);
+VIII - prestar declaração falsa durante a execução do contrato (art. 155, inciso VIII, exclusivamente na hipótese
+relacionada à execução);
+IX - praticar ato fraudulento na execução do contrato (art. 155, inciso IX, exclusivamente na hipótese
+relacionada à execução);
+X - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza durante a execução do ajuste (art.
+155, inciso X);
+XII - praticar ato lesivo previsto no art. 5º da Lei Federal nº 12.846, de 1º de agosto de 2013, relacionado à
+execução do ajuste (art. 155, inciso XII).
+9.5. Para os fins do inciso X, considera-se comportamento inidôneo, entre outras condutas de gravidade
+equivalente, a prática de ato destinado a prejudicar o bom andamento da execução, a fiscalização, a medição,
+o recebimento ou a aferição do objeto.
+
+--- [pag. PDF 17] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+17
+Das sanções e de sua duração
+9.7. Ao responsável pelas infrações do item 9.4 poderão ser aplicadas advertência, multa, impedimento de
+licitar e contratar e declaração de inidoneidade para licitar ou contratar, na forma do art. 156 da Lei Federal nº
+14.133/2021.
+9.6. A advertência será aplicada exclusivamente pela infração do art. 155, inciso I, quando não se justificar
+sanção mais grave.
+9.7. A multa poderá ser aplicada por qualquer das infrações do item 9.4 e poderá ser cumulada, quando cabível,
+com advertência, impedimento ou declaração de inidoneidade.
+9.8. O impedimento será aplicado pelas infrações dos incisos II, III e VII do art. 155, quando não couber sanção
+mais grave, e produzirá efeitos no âmbito da Administração Pública direta e indireta do ente federativo
+sancionador, pelo prazo máximo de 3 (três) anos.
+9.8.1. As penas-base do impedimento serão: 4 (quatro) meses para o inciso VII; 1 (um) ano para o inciso II; e
+2 (dois) anos para o inciso III.
+9.8.2. A pena-base será majorada em 50% (cinquenta por cento) por agravante, até o limite de 3 (três) anos,
+e poderá ser reduzida em 50% (cinquenta por cento), uma única vez, por atenuante, observado o mínimo de 1
+(um) mês.
+9.9. A declaração de inidoneidade será aplicada pelas infrações dos incisos VIII, IX, X e XII do art. 155 e,
+quando a gravidade justificar, pelas infrações dos incisos II, III e VII. A pena-base será de 4 (quatro) anos,
+observado o mínimo de 3 (três) e o máximo de 6 (seis) anos.
+9.9.1. A pena-base da declaração de inidoneidade será majorada em 50% (cinquenta por cento) por
+agravante, até 6 (seis) anos, e poderá ser reduzida em 50% (cinquenta por cento), uma única vez, observado
+o mínimo legal de 3 (três) anos.
+9.9.2.2. A declaração de inidoneidade será precedida de análise jurídica e aplicada pela autoridade indicada
+no art. 156, § 6º, da Lei Federal nº 14.133/2021 e na regulamentação do CONTRATANTE.
+Das multas, correção do objeto e repercussões contratuais
+9.10. As multas observarão o intervalo legal de 0,5% (cinco décimos por cento) a 30% (trinta por cento) do
+valor do Contrato e as bases de cálculo previstas nesta Cláusula.
+9.10.1. O atraso injustificado no cumprimento de prazo previsto na cláusula da execução e dos prazos ou na
+cláusula do recebimento poderá sujeitar o CONTRATADO a multa de mora calculada sobre o valor da
+obrigação não cumprida, a partir do primeiro dia útil seguinte ao término do prazo estipulado, observados os
+seguintes critérios:
+I - 0,5% (meio por cento) ao dia, para atraso de até 15 (quinze) dias;
+II - 1% (um por cento) ao dia, do 16º (décimo sexto) ao 30º (trigésimo) dia, aplicada em acréscimo à do inciso
+I;
+III - após 30 (trinta) dias, fica caracterizada a inexecução parcial ou total do contrato, conforme o caso.
+
+--- [pag. PDF 18] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+18
+9.10.1.1. Os prazos referidos nos incisos I a III serão contados em dias corridos.
+19.10.1.2. A aplicação da multa de mora deverá considerar as circunstâncias de cada caso, observados os
+princípios da razoabilidade e da proporcionalidade, mediante decisão devidamente fundamentada.
+9.11. O objeto recusado ou executado em desacordo deverá ser reparado, corrigido, removido, reconstruído
+ou substituído, às expensas do CONTRATADO, no prazo ali fixado ou, se não houver prazo expresso, em até
+15 (quinze) dias corridos do recebimento da comunicação.
+9.11.1. A prorrogação deverá ser requerida antes do término do prazo, mediante justificativa. A ausência de
+regularização ensejará as sanções cabíveis, considerando-se a mora a partir do primeiro dia útil seguinte ao
+término do prazo de correção ou substituição.
+9.11.2. As multas compensatórias terão as seguintes penas-base e bases de cálculo:
+Infração Pena-base Base de cálculo
+Art. 155, I - inexecução parcial sem grave dano 10% valor da obrigação ou parcela
+não cumprida
+Art. 155, II - inexecução parcial com grave
+dano
+20% valor da obrigação afetada; se o
+dano for global, valor total do
+Contrato
+Art. 155, III - inexecução total 30% valor total do Contrato
+Art. 155, VIII - declaração falsa na execução 20% valor total do Contrato
+Art. 155, IX, X ou XII - fraude, inidoneidade ou
+ato lesivo
+30% valor total do Contrato
+9.12. As penas-base poderão ser reduzidas ou majoradas por decisão motivada, conforme agravantes e
+atenuantes, respeitado o intervalo de 0,5% a 30% do valor total do Contrato.
+9.13. A multa de mora poderá ser convertida em compensatória, com a extinção unilateral prevista na cláusula
+da extinção contratual e a aplicação cumulada de outras sanções, nos termos do art. 162, parágrafo único, da
+Lei Federal nº 14.133/2021.
+9.14. O valor da mora será deduzido da multa compensatória referente ao mesmo atraso, vedada a dupla
+penalização. Para o mesmo núcleo fático, a soma das multas não excederá 30% do valor total do Contrato.
+9.15. Após decisão administrativa definitiva, as multas e indenizações poderão ser descontadas dos
+pagamentos, deduzidas da garantia quando prevista ou cobradas pelos meios legalmente admitidos. A
+aplicação de sanção não exclui a reparação integral do dano.
+Da dosimetria e do processo administrativo
+9.16. Na dosimetria serão considerados os critérios do art. 156, § 1º, da Lei Federal nº 14.133/2021,
+especialmente a natureza e a gravidade da infração, as peculiaridades do caso, as agravantes e atenuantes,
+os danos e o programa de integridade.
+
+--- [pag. PDF 19] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+19
+9.17. Serão consideradas agravantes, quando não integrarem o tipo, a existência de sanção definitiva em vigor
+relacionada a contratação pública nos 12 (doze) meses anteriores e a inércia deliberada diante de diligências
+de correção. Serão atenuantes a falha escusável e a adoção tempestiva de medidas efetivas de correção ou
+mitigação.
+9.18 A decisão individualizará a conduta, indicará a pena-base e os ajustes realizados e evitará a dupla
+valoração da mesma circunstância.
+9.18. O gestor ou fiscal comunicará a ocorrência à unidade competente, acompanhada dos documentos
+disponíveis e da individualização preliminar da conduta.
+9.19. Para advertência ou multa, será assegurada defesa escrita no prazo de 15 (quinze) dias úteis, contado
+da intimação, observado o art. 157 da Lei Federal nº 14.133/2021 e a regulamentação do CONTRATANTE.
+9.20. O impedimento e a declaração de inidoneidade exigirão processo de responsabilização conduzido por
+comissão de 2 (dois) ou mais servidores estáveis ou, na hipótese legal, empregados públicos do quadro
+permanente, nos termos do art. 158 da Lei Federal nº 14.133/2021, com prazo de 15 (quinze) dias úteis para
+defesa e, quando cabível, igual prazo para alegações finais.
+9.21. O emitente da garantia será notificado do início do processo administrativo, nos termos do art. 137, § 4º,
+da Lei Federal nº 14.133/2021.
+9.22. Da decisão que aplicar advertência, multa ou impedimento caberá recurso em 15 (quinze) dias úteis; da
+declaração de inidoneidade caberá pedido de reconsideração no mesmo prazo. Ambos terão efeito suspensivo
+até a decisão final, conforme os arts. 166 a 168 da Lei Federal nº 14.133/2021.
+9.23. A prescrição observará o prazo de 5 (cinco) anos e as causas de interrupção e suspensão do art. 158, §
+4º, da Lei Federal nº 14.133/2021.
+9.24. Aplicam-se, ainda, os arts. 159 a 161 e 163 da Lei Federal nº 14.133/2021 quanto à apuração conjunta
+de atos lesivos, à desconsideração da personalidade jurídica, aos registros das sanções e à reabilitação.
+10. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO
+10.1. Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na aplicação da Lei nº
+14.133, de 2021, devendo protocolar o pedido até 3 (três) dias úteis antes da data da abertura do certame.
+10.2. A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio eletrônico oficial no
+prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.
+10.3. A impugnação e o pedido de esclarecimento poderão ser realizados por forma eletrônica VIA
+PLATAFORMA www.bll.org.br, protocolado pessoalmente junto a esta Prefeitura Municipal de Lins ou através
+do e-mail esclarecimentos-impugnacoes@lins.sp.gov.br.
+10.4. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame.
+10.4.1. A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada
+pelo agente de contratação, nos autos do processo de licitação.
+10.5. Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+
+--- [pag. PDF 20] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+20
+11. DAS DISPOSIÇÕES GERAIS
+11.1. Será divulgada ata da sessão pública no sistema eletrônico.
+11.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do
+certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente, no
+mesmo horário anteriormente estabelecido, desde que não haja comunicação em contrário, pelo Pregoeiro.
+11.3. Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o horário de
+Brasília - DF.
+11.4. A homologação do resultado desta licitação não implicará direito à contratação.
+11.5. Homologado o resultado da licitação, o licitante mais bem classificado terá o prazo de 05 (cinco) dias
+úteis, contados a partir da data de sua convocação, para assinar o contrato, cujo prazo de validade encontra-
+se nela fixado, sob pena de decadência do direito à contratação, sem prejuízo das sanções previstas na Lei nº
+14.133, de 2021.
+11.5.1. O prazo de convocação poderá ser prorrogado uma vez, por igual período, mediante solicitação
+do licitante mais bem classificado ou do fornecedor convocado, desde que:
+11.5.1.1. a solicitação seja devidamente justificada e apresentada dentro do prazo; e
+11.5.1.2. a justificativa apresentada seja aceita pela Administração.
+11.5.2. Quando exigidas garantia de proposta ou garantia de contratação, deverão ser observados os
+art. 58 e 96 da Lei 14.133/2021.
+11.5.2.1. Em caso opção pelo seguro-garantia, a parte adjudicatária deverá apresentá-la, no prazo
+mínimo de 1 (um) mês, contado da data da homologação da licitação e anterior à assinatura do contrato;
+11.5.2.2. A garantia, nas modalidades caução e fiança bancária, deverá ser prestada antes da assinatura
+do contrato;
+11.5.2.3. Em caso de opção por depois bancário a proponente deverá formalizar o depósito na conta da
+prefeitura abaixo discriminada, a caução em depósito será devolvida em até 10 dias após a homologação
+do certame mediante pedido da proponente por e-mail indicando os dados bancários em nome da
+proponente:
+11.5.2.3.1. CC da prefeitura - Banco do Brasil (001) - Agência 0058-2 - Conta 26318-4 -
+CPNJ 44.531.788/0001-38.
+11.6. As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa
+entre os interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, a
+finalidade e a segurança da contratação.
+11.7. Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a
+Administração não será, em nenhum caso, responsável por esses custos, independentemente da condução
+ou do resultado do processo licitatório.
+11.8. Em caso de exigência de garantia de proposta serão consideradas as modalidades previstas no art.
+96 da Lei 14.133/2021;
+
+--- [pag. PDF 21] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+21
+11.9. Em caso de opção por depois bancário a proponente deverá formalizar o depósito na conta da
+prefeitura abaixo discriminada, a caução em depósito será devolvido em até 10 dias após a homologação do
+certame mediante pedido da proponente por e-mail indicando os dados bancários em nome da proponente:
+11.10. CC da prefeitura - Banco do Brasil (001) - Agência 0058-2 - Conta 26318-4 - CPNJ 44.531.788/0001-
+38.
+11.11. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e incluir-
+se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na Administração.
+11.12. O desatendimento de exigências formais não essenciais não importará o afastamento do licitante,
+desde que seja possível o aproveitamento do ato, observados os princípios da isonomia e do interesse público.
+11.13. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que
+compõem o processo, prevalecerá as deste Edital.
+11.14. O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações Públicas
+(PNCP) e endereço eletrônico www.lins.sp.gov.br e www.bll.org.br.
+11.15. Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+11.15.1. ANEXO I - Termo de Referência
+11.15.2. ANEXO II – Estudo Técnico Preliminar.
+11.15.3. ANEXO III – Minuta de Termo de Contrato
+11.15.4. ANEXO IV – Modelo da Carta Proposta;
+11.15.5. ANEXO V - Modelo de Declaração de Enquadramento- ME e EPP, LC 123/2006;
+11.15.6. ANEXO VI - Modelo de Declarações legais;
+11.15.7. Anexo VII – Termo de Adesão ao Sistema de Pregão Eletrônico da Bolsa de Licitações e
+Leilões do Brasil e de Intermediação de Operações; (VERIFICAR DIRETAMENTE COM A PLATAFORMA
+(41) 3149 -7255);
+11.15.8. Anexo VIII – Termo de Adesão ao Sistema Eletrônico de Licitações da Bolsa de Licitações e
+Leilões do Brasil – (Licitante Direto) de Licitações e Leilões do Brasil - (Licitante Direto) Indicação de Usuário
+do Sistema. (VERIFICAR DIRETAMENTE COM A PLATAFORMA (41) 3149 -7255);
+11.15.9. Anexo IX – Relatório de Custos pela Utilização do Sistema (VERIFICAR DIRETAMENTE COM
+A PLATAFORMA (41) 3149 -7255.
+11.15.10. ANEXO X – Modelo de atendimento a fase de habilitação
+11.15.11. ANEXO XI Modelo de renúncia em caso de exigência de visita técnica.
+Lins, 25 de agosto de 2026.
+
+--- [pag. PDF 22] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+Edital - Pregão Eletrônico Nº. 083/2026 Processo Nº. 6842/2026
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 – Vila Clélia - CEP: 16401-300 – Lins/SP Fone (14) 3533-4250 –
+CNPJ/MF 44.531.788/0001-38 e-mail: gabpref@lins.sp.gov.br home page: www.lins.sp.gov.br
+22
+JOÃO LUIS LOPES PANDOLFI
+PREFEITO DE LINS/SP
+Área solicitante: Secretaria de Administração
+De acordo: ____________________________________________________________________
+FABIANO CRISTIAN OLIVEIRA
+SECRETÁRIO DE ADMINISTRAÇÃO
+Registrado na Secretaria de Administração
+FABIANO CRISTIAN OLIVEIRA
+SECRETÁRIO DE ADMINISTRAÇÃO

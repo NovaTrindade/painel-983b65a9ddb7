@@ -1,0 +1,2576 @@
+=== DOCUMENTO 9: APENDICES ===
+tipo: Outros Documentos | páginas: 40 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/44531788000138/compras/2026/168/arquivos/26
+
+--- [pag. PDF 1] ---
+1
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+APÊNDICE I – ESPECIFICAÇÕES TÉCNICAS DOS EQUIPAMENTOS
+ITEM 1 – MICROCOMPUTADOR COMPLETO TIPO I
+1.1. Gabinete
+1.1.1. Gabinete tipo Tiny, com dimensões máximas de 178 × 178 × 34 mm (comprimento × largura
+× altura).
+1.1.2. O gabinete deverá possuir volume máximo de 1,10 litro.
+1.1.3. Não será aceito gabinete do tipo monobloco, integrado ao monitor.
+1.1.4. O gabinete deverá permitir sua abertura e fechamento, bem como a instalação e a remoção
+de unidades de armazenamento e componentes internos compatíveis.
+1.1.5. Todos os cabos internos deverão estar fixados de forma a evitar que permaneçam soltos,
+sobrepostos ou entrelaçados com as placas e demais componentes.
+1.1.6. Deverá possuir fonte de alimentação de 110/220 Vca, 50/60 Hz, com seleção automática de
+tensão, capacidade para suportar a configuração máxima do equipamento e potência máxima de 65
+W.
+1.1.7. Deverá possuir indicadores de atividade da unidade de armazenamento e de energia, bem
+como botão liga/desliga.
+1.1.8. Deverá acompanhar suporte para fixação do gabinete junto ao monitor, no padrão VESA, sem
+interferir nos ajustes de altura, inclinação e rotação mínima de 90°.
+1.2. Processador
+1.2.1. Processador de, no mínimo, 10ª geração ou equivalente.
+1.2.2. Frequência mínima de 2,0 GHz e frequência máxima em modo turbo de, no mínimo, 3,60
+GHz.
+1.2.3. Memória cache mínima de 12 MB.
+1.2.4. Mínimo de 6 núcleos físicos e 12 threads.
+1.2.5. Velocidade mínima da interface de mídia DMI de 8 GT/s ou tecnologia equivalente.
+1.2.6. Sistema de refrigeração compatível com as especificações do processador fornecido.
+1.2.7. Arquitetura com tecnologia de fabricação de 14 nanômetros ou tecnologia mais recente e
+equivalente.
+1.3. Placa-mãe
+1.3.1. Deverá ser de fabricação própria ou desenvolvida especificamente para o modelo ofertado.
+1.3.2. Deverá possuir, no mínimo, 1 conector M.2 2230 para módulo de rede sem fio.
+1.3.3. Deverá possuir, no mínimo, 1 conector M.2 2280 para unidade SSD, com suporte aos padrões
+AHCI e NVMe.
+1.3.4. Deverá possuir, no mínimo, 2 slots de memória, permitindo expansão para, no mínimo, 64
+GB.
+1.3.5. Deverá possuir, no mínimo, 8 portas USB integradas, sendo pelo menos 4 frontais.
+1.3.6. Pelo menos 4 portas USB deverão ser do padrão USB 3.1 ou superior.
+1.3.7. Deverá possuir, no mínimo, 1 porta USB 3.1 Geração 2 tipo C ou superior.
+1.3.8. Não serão aceitas portas obtidas por meio de placas PCI, hubs externos ou adaptadores.
+1.3.9. Deverá possuir 1 porta VGA integrada, com conector DB-15.
+1.3.10. Deverá possuir, no mínimo, 1 saída HDMI.
+1.3.11. Deverá possuir, no mínimo, 2 saídas DisplayPort.
+1.3.12. Deverá possuir conector para saída de áudio e conector para entrada de microfone, admitida
+solução combinada.
+1.3.13. Deverá possuir chip de criptografia TPM versão 2.0.
+1.3.14. Deverá possuir abertura para trava física do tipo Kensington.
+1.3.15. Deverá possuir anilha ou dispositivo para instalação de cadeado.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 1 de 35
+
+--- [pag. PDF 2] ---
+2
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+1.3.16. Deverá possuir sensor de intrusão do gabinete.
+1.4. BIOS
+1.4.1. BIOS em português ou inglês, desenvolvida pelo fabricante do equipamento ou sob regime
+OEM devidamente comprovado, em conformidade com a especificação UEFI.
+1.4.2. O fabricante deverá possuir compatibilidade com o padrão UEFI.
+1.4.3. A BIOS deverá permitir a inserção do número de patrimônio em campo gerenciável por
+software de gerenciamento remoto ou de controle de inventário.
+1.4.4. A BIOS deverá possuir campo com o número de série do equipamento.
+1.4.5. O equipamento deverá possuir indicadores de diagnóstico, por meio de LED, display, sinais
+sonoros ou tecnologia equivalente, que auxiliem na identificação de falhas de memória,
+processador, vídeo e demais componentes.
+1.5. Interfaces de rede
+1.5.1. Interface de rede sem fio compatível com o padrão IEEE 802.11ac ou superior.
+1.5.2. Conectividade Bluetooth versão 4.2 ou superior.
+1.5.3. Deverá possuir 2 antenas para comunicação sem fio.
+1.5.4. Interface de rede Ethernet 10/100/1000 Mbps, padrão Gigabit Ethernet.
+1.5.5. A interface de rede deverá suportar o padrão DASH 1.2 ou tecnologia equivalente.
+1.6. Memória RAM
+1.6.1. Mínimo de 8 GB de memória RAM DDR4, com frequência de 2.400 MHz ou superior.
+1.6.2. Suporte ao modo Dual Channel.
+1.7. Armazenamento
+1.7.1. Unidade de armazenamento SSD com capacidade mínima de 240 GB.
+1.7.2. Interface SATA III, NVMe ou tecnologia superior.
+1.8. Monitor
+1.8.1. Monitor LCD ou LED de 21,5 polegadas ou superior.
+1.8.2. Resolução mínima de 1920 × 1080 pixels.
+1.8.3. Brilho mínimo de 250 nits ou 250 cd/m².
+1.8.4. Razão de contraste mínima de 1.000:1.
+1.8.5. Deverá possuir, no mínimo, 1 conexão digital HDMI ou DisplayPort e 1 conexão VGA.
+1.8.6. Deverá possuir suporte ao padrão VESA.
+1.8.7. Deverá permitir ajuste de altura e rotação.
+1.8.8. O monitor deverá ser do mesmo fabricante do equipamento ofertado ou fornecido em regime
+OEM devidamente comprovado.
+1.9. Teclado
+1.9.1. Teclado padrão ABNT2.
+1.9.2. Conexão USB.
+1.9.3. Deverá possuir resistência a derramamento de líquidos.
+1.9.4. Deverá ser do mesmo fabricante e possuir a mesma cor predominante do equipamento.
+1.10. Mouse
+1.10.1. Mouse óptico, com resolução mínima de 1.000 DPI.
+1.10.2. Deverá possuir, no mínimo, 2 botões e botão de rolagem.
+1.10.3. Conexão USB.
+1.10.4. Deverá ser do mesmo fabricante e possuir a mesma cor predominante do equipamento.
+1.10.5. Monitor, gabinete, teclado e mouse deverão possuir o mesmo padrão visual e de cor.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 2 de 35
+
+--- [pag. PDF 3] ---
+3
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+1.11. Certificações do equipamento
+1.11.1. Compatibilidade de hardware com Microsoft Windows 10 de 64 bits ou superior, comprovada
+por certificação WHCK, HCL ou equivalente.
+1.11.2. Atendimento às normas aplicáveis de segurança, compatibilidade eletromagnética e
+eficiência energética estabelecidas pelo Inmetro.
+1.11.3. Compatibilidade com Energy Star ou certificação equivalente de eficiência energética.
+1.11.4. Atendimento às normas IEC 61000, CISPR 22 e CISPR 24 ou normas equivalentes vigentes.
+1.11.5. Atendimento à norma IEC 60950 ou norma técnica que a substitua.
+1.11.6. Atendimento aos parâmetros de ruído acústico da NBR 10152, ISO 7779 e ISO 9296 ou
+normas equivalentes.
+1.11.7. Certificação EPEAT Gold ou equivalente e conformidade com a diretiva RoHS.
+1.11.8. Compatibilidade com o padrão DMI 2.0 ou superior.
+1.12. Certificações e requisitos do fabricante
+1.12.1. Sistema de Gestão da Qualidade ISO 9001:2015 ou equivalente.
+1.12.2. Sistema de Gestão Ambiental ISO 14001:2015 ou equivalente.
+1.12.3. Sistema de Gestão de Segurança e Saúde Ocupacional ou certificação equivalente.
+1.12.4. Regularidade no Cadastro Técnico Federal do Ibama, quando aplicável.
+1.12.5. Participação em sistema de logística reversa de equipamentos eletroeletrônicos, como
+Green Eletron ou entidade equivalente.
+1.12.6. Participação no Unified Extensible Firmware Interface Forum, em categoria compatível, ou
+comprovação equivalente de compatibilidade UEFI.
+1.13. Segurança
+1.13.1. Solução TPM 2.0 integrada à placa-mãe.
+1.13.2. Recurso de limpeza segura dos dados por meio da BIOS, em conformidade com as diretrizes
+do NIST SP 800-88 Rev. 1 ou padrão equivalente.
+1.13.3. Anilha ou dispositivo para instalação de cadeado.
+1.13.4. Sensor de intrusão do gabinete.
+1.13.5. Suporte a solução de rastreamento e recuperação do equipamento, como Computrace ou
+equivalente.
+1.14. Softwares
+1.14.1. Sistema operacional Windows Professional ou superior, devidamente licenciado.
+1.14.2. Suíte de aplicativos de produtividade em versão profissional, contendo, no mínimo, editor de
+textos, planilhas eletrônicas, apresentações e aplicativo de anotações.
+1.14.3. Solução de proteção antimalware e antivírus, conforme especificações próprias.
+1.14.4. O sistema operacional, a suíte de produtividade, a solução de proteção e os drivers
+necessários deverão ser entregues instalados, configurados e ativados.
+1.15. Documentação complementar
+1.15.1. Caso a proponente não seja fabricante do equipamento, poderá ser exigida declaração do
+fabricante ou documento equivalente que comprove autorização, parceria comercial ou capacidade
+de fornecimento e suporte dos produtos ofertados.
+ITEM 2 – MICROCOMPUTADOR COMPLETO TIPO II
+2.1. Gabinete
+2.1.1. Gabinete compatível com o padrão Micro ATX ou equivalente.
+2.1.2. Deverá permitir utilização nas posições horizontal ou vertical sem comprometimento dos
+componentes internos, da ventilação ou do funcionamento.
+2.1.3. Deverá permitir a instalação de cadeado, lacre ou trava externa destinada a impedir sua
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 3 de 35
+
+--- [pag. PDF 4] ---
+4
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+abertura.
+2.1.4. Deverá possuir botão liga/desliga na parte frontal.
+2.1.5. Deverá possuir indicador luminoso de equipamento energizado.
+2.1.6. Deverá possuir slot para conexão de trava física do tipo Kensington ou equivalente.
+2.1.7. Deverá acompanhar trava destinada a impedir a abertura do equipamento e a retirada
+indevida de teclado, mouse e monitor.
+2.2. Fonte de alimentação
+2.2.1. Fonte de alimentação no padrão BTX, Micro ATX ou equivalente, com potência mínima de
+180 W.
+2.2.2. Tecnologia de correção ativa do fator de potência — PFC ativo.
+2.2.3. Faixa de tensão de entrada de 100 a 230 Vca, 50/60 Hz, com seleção automática de tensão.
+2.3. Processador
+2.3.1. Processador com, no mínimo, 6 núcleos físicos e 12 threads.
+2.3.2. Desempenho mínimo de 20.000 pontos no índice CPU Mark da PassMark Software, ou
+desempenho equivalente em índice público e reconhecido.
+2.3.3. Frequência mínima de 3,9 GHz e frequência máxima em modo turbo de, no mínimo, 4,4 GHz.
+2.4. Memória RAM
+2.4.1. Memória RAM DDR4 com frequência de 3.200 MHz ou superior.
+2.4.2. Mínimo de 8 GB de memória instalada.
+2.4.3. Deverá possuir, no mínimo, 4 slots de memória.
+2.4.4. Deverá permitir expansão para, no mínimo, 64 GB.
+2.5. Chipset e placa-mãe
+2.5.1. O chipset deverá ser do mesmo fabricante do processador.
+2.5.2. Deverá possuir, no mínimo, 1 slot PCI Express x16.
+2.5.3. Deverá possuir, no mínimo, 1 slot PCI Express x1 Geração 3 ou superior.
+2.5.4. Deverá possuir, no mínimo, 1 slot M.2 2280 PCIe Geração 3 x4 ou superior, com suporte a
+SSD AHCI e NVMe.
+2.5.5. Deverá possuir, no mínimo, 1 slot M.2 2230 para módulo de rede sem fio.
+2.5.6. Deverá possuir, no mínimo, 4 conexões Serial ATA de 6 Gb/s.
+2.5.7. A placa-mãe deverá possuir arquitetura BTX, Micro ATX ou equivalente, com adequado fluxo
+de ar e refrigeração.
+2.5.8. A placa-mãe deverá ser da mesma marca do fabricante do equipamento ou desenvolvida
+especificamente para o modelo ofertado.
+2.5.9. Não serão aceitas placas-mãe genéricas de livre comercialização que não tenham sido
+desenvolvidas ou homologadas para o equipamento.
+2.5.10. Chipset Intel Q670, AMD A520 ou equivalente de desempenho e funcionalidades iguais ou
+superiores.
+2.5.11. Deverá possuir sistema de detecção de intrusão do gabinete, sem adaptações.
+2.6. BIOS, segurança e gerenciamento
+2.6.1. BIOS desenvolvida pelo fabricante do equipamento, sobre a qual o fabricante detenha direitos
+de propriedade intelectual ou fornecida em regime OEM devidamente comprovado.
+2.6.2. BIOS em conformidade com a especificação UEFI 2.5 ou superior.
+2.6.3. As informações da BIOS deverão ser capturáveis por solução de inventário, como SCCM ou
+equivalente.
+2.6.4. O fabricante deverá comprovar compatibilidade com o padrão UEFI.
+2.6.5. A BIOS deverá possuir o número de série do equipamento.
+2.6.6. Deverá possuir campo editável para identificação patrimonial ou customizada, consultável por
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 4 de 35
+
+--- [pag. PDF 5] ---
+5
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+software de gerenciamento.
+2.6.7. Deverá suportar Wake on LAN — WoL.
+2.6.8. Deverá suportar PXE — Pre-Boot Execution Environment.
+2.6.9. Deverá possuir módulo TPM 2.0 ou superior, integrado à placa-mãe.
+2.6.10. O TPM deverá permitir o armazenamento de senhas, certificados digitais e chaves
+criptográficas.
+2.6.11. A BIOS deverá utilizar memória flash.
+2.6.12. Deverá estar em conformidade com a normativa NIST SP 800-147 ou padrão equivalente.
+2.6.13. Deverá utilizar métodos criptográficos robustos para verificação da integridade da BIOS.
+2.6.14. Deverá possuir software embarcado de diagnóstico que funcione independentemente do
+sistema operacional.
+2.6.15. O software de diagnóstico deverá ser inicializável pela UEFI ou pelo firmware do
+equipamento.
+2.6.16. O diagnóstico deverá informar, no mínimo, fabricante e modelo do equipamento,
+processador, memória RAM, firmware e capacidade da unidade de armazenamento.
+2.6.17. O equipamento deverá permitir gerenciamento remoto por hardware por meio de Intel vPro,
+AMD PRO ou tecnologia equivalente.
+2.6.18. Deverá ser aderente ao DASH 1.2, WS-Man ou padrão equivalente definido pela DMTF.
+2.6.19. Deverá permitir acesso remoto ao equipamento, inclusive quando desligado, com o sistema
+operacional travado ou inacessível.
+2.6.20. Deverá permitir formatação remota da unidade de armazenamento por meio da rede
+cabeada.
+2.6.21. A placa-mãe deverá possuir memória não volátil para armazenamento de informações de
+inventário de hardware.
+2.6.22. As informações de inventário deverão ser acessíveis remotamente, independentemente do
+estado do sistema operacional.
+2.6.23. As configurações de gerenciamento deverão ser acessíveis sem intervenção presencial.
+2.6.24. Deverá permitir inicialização remota a partir de mídia externa ou imagem ISO ou IMG
+disponibilizada em compartilhamento de rede.
+2.7. Portas de comunicação
+2.7.1. Todos os conectores de entrada e saída deverão ser identificados por nomes ou símbolos.
+2.7.2. Deverá possuir, no mínimo, 8 portas USB integradas.
+2.7.3. Pelo menos 4 portas USB deverão ser do padrão USB 3.2 ou superior.
+2.8. Interface de rede
+2.8.1. Controladora de rede Gigabit Ethernet integrada à placa-mãe, com conector RJ-45.
+2.8.2. Operação automática nas velocidades de 10/100/1000 Mbps.
+2.8.3. Suporte ao modo full-duplex.
+2.8.4. Suporte a Wake on LAN.
+2.8.5. Suporte a PXE 2.0 ou superior.
+2.9. Controladora de vídeo
+2.9.1. Controladora de vídeo integrada, com suporte ao DirectX 12 e OpenGL 4.6 ou versões
+superiores.
+2.9.2. Deverá possuir, no mínimo, 1 saída VGA e 2 saídas digitais, totalizando 3 saídas de vídeo.
+2.9.3. As saídas digitais poderão ser DisplayPort ou HDMI.
+2.9.4. A controladora de vídeo deverá ser integrada à placa-mãe ou ao processador.
+2.9.5. Os slots PCI Express x16 e x1 deverão permanecer livres.
+2.9.6. Deverá suportar a utilização simultânea de, no mínimo, 2 monitores.
+2.10. Controladora de áudio
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 5 de 35
+
+--- [pag. PDF 6] ---
+6
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+2.10.1. Interface de áudio integrada no padrão High Definition Audio.
+2.10.2. Deverá possuir conectores para microfone e fone de ouvido, admitida solução combinada.
+2.10.3. Controladora de áudio equivalente ou superior à Realtek ALC897, com áudio de alta
+definição.
+2.11. Armazenamento
+2.11.1. Deverá possuir, no mínimo, 1 unidade interna de armazenamento.
+2.11.2. Unidade SSD com capacidade mínima de 256 GB.
+2.11.3. Formato M.2 e interface NVMe.
+2.12. Teclado
+2.12.1. Teclado padrão ABNT2 com, no mínimo, 107 teclas.
+2.12.2. Deverá possuir bloco numérico e teclas de função.
+2.12.3. Conexão USB.
+2.12.4. Deverá ser do mesmo fabricante do microcomputador ou fornecido em regime OEM
+devidamente comprovado.
+2.12.5. Deverá possuir proteção contra derramamento de líquidos.
+2.13. Mouse
+2.13.1. Mouse óptico com resolução mínima de 1.000 DPI.
+2.13.2. Deverá possuir, no mínimo, 3 botões, sendo 2 de seleção e 1 botão de rolagem.
+2.13.3. Conexão USB.
+2.13.4. Deverá ser do mesmo fabricante do microcomputador ou fornecido em regime OEM
+devidamente comprovado.
+2.14. Monitor
+2.14.1. Monitor de vídeo com painel IPS e tela de, no mínimo, 23,8 polegadas.
+2.14.2. Resolução mínima de 1920 × 1080 pixels, com frequência de atualização mínima de 75 Hz.
+2.14.3. Ângulo de visão mínimo de 178° na vertical e 178° na horizontal.
+2.14.4. Brilho mínimo de 250 cd/m².
+2.14.5. Contraste mínimo de 1.000:1.
+2.14.6. Deverá possuir, no mínimo, 1 conector VGA e 1 conector HDMI.
+2.15. Sistema operacional e softwares
+2.15.1. Sistema operacional Windows 11 Pro ou superior, em português do Brasil, devidamente
+licenciado.
+2.15.2. O sistema operacional deverá estar pré-instalado em linha de produção.
+2.15.3. Todos os drivers necessários deverão ser entregues instalados.
+2.15.4. A chave da licença do Windows Pro deverá estar registrada permanentemente na BIOS,
+quando tecnicamente aplicável ao modelo de licenciamento.
+2.15.5. O sistema operacional deverá estar integralmente em português do Brasil.
+2.15.6. Deverá acompanhar solução de proteção conforme especificação própria.
+2.16. Certificações e documentos complementares
+2.16.1. Caso a proponente não seja fabricante do equipamento, poderá ser exigida declaração do
+fabricante ou documento equivalente que comprove autorização, parceria comercial ou capacidade
+de fornecimento e suporte.
+2.16.2. Sistema de Gestão da Qualidade ISO 9001:2015 ou equivalente.
+2.16.3. Sistema de Gestão Ambiental ISO 14001:2015 ou equivalente.
+2.16.4. Sistema de Gestão de Segurança e Saúde Ocupacional ou certificação equivalente.
+2.16.5. Certificação ou avaliação de responsabilidade social corporativa, como EcoVadis ou
+equivalente.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 6 de 35
+
+--- [pag. PDF 7] ---
+7
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+2.16.6. Regularidade perante o Cadastro Técnico Federal do Ibama, quando aplicável.
+2.16.7. Participação em programa de logística reversa de equipamentos eletroeletrônicos, como
+Green Eletron ou equivalente.
+ITEM 3 – MICROCOMPUTADOR COMPLETO AVANÇADO TIPO I
+3.1. Processador
+3.1.1. Processador com, no mínimo, 12 núcleos físicos e 20 threads.
+3.1.2. Frequência base mínima de 2,5 GHz.
+3.1.3. Memória cache mínima de 18 MB.
+3.1.4. Processador disponibilizado no mercado a partir do ano de 2022.
+3.1.5. Processador e chipset deverão ser do mesmo fabricante.
+3.2. BIOS
+3.2.1. BIOS Plug and Play, desenvolvida pelo fabricante do equipamento ou sobre a qual ele detenha
+direitos de propriedade intelectual.
+3.2.2. O número de série do equipamento deverá estar registrado na BIOS.
+3.2.3. A BIOS deverá possuir campo para cadastro do número de inventário ou patrimônio.
+3.2.4. A BIOS deverá permitir a apresentação do logotipo do órgão durante a inicialização do
+equipamento.
+3.2.5. A BIOS deverá estar em conformidade com a normativa NIST SP 800-147, ISO/IEC 19678 ou
+padrão equivalente.
+3.2.6. A BIOS deverá utilizar métodos criptográficos robustos para verificar sua integridade antes de
+transferir o controle de execução ao sistema operacional.
+3.2.7. BIOS em português ou inglês, em conformidade com a especificação UEFI 2.1 ou superior.
+3.2.8. O fabricante deverá comprovar compatibilidade com o padrão UEFI.
+3.3. Segurança e gerenciamento
+3.3.1. Chip de segurança TPM versão 2.0, acompanhado dos respectivos drivers e softwares de
+implementação e gerenciamento.
+3.3.2. O chip TPM deverá estar soldado ou integrado à placa-mãe, não sendo aceita solução
+baseada exclusivamente em software ou dispositivo removível.
+3.3.3. Registro detalhado de eventos relacionados a intrusão, alteração de memória, troca de
+processador, atualização de BIOS ou UEFI e alterações na unidade de armazenamento.
+3.3.4. Controle de acesso por senha de administrador e usuário.
+3.3.5. Possibilidade de definição de senha para proteção da unidade de armazenamento.
+3.3.6. Possibilidade de definição de senha para inicialização do equipamento.
+3.3.7. Atualização e inventário remoto de hardware por meio de software de gerenciamento.
+3.4. Memória RAM
+3.4.1. Mínimo de 32 GB de memória DDR4 SDRAM, com frequência de 3.200 MHz ou superior.
+3.4.2. Deverá possuir, no mínimo, 2 slots DIMM.
+3.4.3. Suporte ao modo Dual Channel.
+3.4.4. Capacidade de expansão para, no mínimo, 64 GB.
+3.5. Armazenamento
+3.5.1. Unidade de armazenamento em estado sólido SSD com capacidade mínima de 1 TB.
+3.5.2. Formato M.2, com interface PCIe NVMe, SATA ou tecnologia superior.
+3.6. Teclado e mouse
+3.6.1. Teclado USB padrão ABNT ou ABNT2, em português do Brasil, contendo os caracteres
+próprios da língua portuguesa.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 7 de 35
+
+--- [pag. PDF 8] ---
+8
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+3.6.2. O teclado deverá possuir bloco numérico destacado.
+3.6.3. Mouse óptico USB, com resolução mínima de 1.000 DPI.
+3.6.4. O mouse deverá possuir, no mínimo, 2 botões e botão de rolagem.
+3.7. Monitor
+3.7.1. Monitor de vídeo com tela mínima de 23,8 polegadas.
+3.8. Controladora gráfica
+3.8.1. Controladora gráfica dedicada do tipo offboard.
+3.8.2. Memória gráfica mínima de 6 GB no padrão GDDR6.
+3.8.3. Largura de banda mínima de 168 GB/s.
+3.8.4. Suporte ao DirectX 12 Ultimate, nível de recurso 12-2, ou superior.
+3.8.5. Suporte ao OpenGL 4.6 ou superior.
+3.8.6. Suporte ao OpenCL 3.0 ou superior.
+3.8.7. Suporte ao Vulkan 1.3 ou superior.
+3.8.8. Suporte à arquitetura de computação paralela CUDA 8.6 ou tecnologia equivalente.
+3.8.9. Suporte ao Shader Model 6.8 ou superior.
+3.9. Áudio
+3.9.1. Interface de áudio estéreo integrada.
+3.9.2. Conector frontal para áudio e microfone no padrão P2, sendo admitida conexão combinada.
+3.10. Portas USB
+3.10.1. Mínimo de 6 interfaces USB.
+3.10.2. Na parte traseira, deverão existir, no mínimo, 2 portas USB 2.0 e 2 portas USB 3.2.
+3.10.3. Na parte frontal, deverão existir, no mínimo, 2 portas USB 3.2.
+3.11. Interface de rede
+3.11.1. Interface de rede integrada à placa-mãe, compatível com o padrão IEEE 802.3.
+3.11.2. Compatibilidade com as velocidades 100/1000Base-T.
+3.12. Placa-mãe
+3.12.1. Controladora de periféricos integrada à placa-mãe.
+3.12.2. A placa-mãe deverá ser do mesmo fabricante do equipamento ou desenvolvida
+especificamente para o modelo ofertado.
+3.13. Gabinete
+3.13.1. Gabinete do tipo desktop ou torre.
+3.13.2. Volume máximo de 12 litros.
+3.13.3. Deverá possuir possibilidade de instalação de trava física do tipo Kensington.
+3.13.4. Deverá acompanhar trava destinada a impedir a abertura do gabinete e a retirada indevida
+do monitor, teclado e mouse.
+3.13.5. A abertura e o manuseio do gabinete deverão ser possíveis sem uso de ferramentas, no
+padrão tool-less.
+3.13.6. Gabinete, teclado, mouse, placa-mãe e monitor deverão ser do mesmo fabricante do
+equipamento ou fornecidos em regime OEM devidamente comprovado.
+3.13.7. Os componentes deverão possuir identificação original do fabricante, sendo vedada a
+utilização de etiquetas improvisadas para caracterização da marca.
+3.13.8. Monitor, gabinete, teclado e mouse deverão possuir o mesmo padrão visual e de cor.
+3.14. Fonte de alimentação
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 8 de 35
+
+--- [pag. PDF 9] ---
+9
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+3.14.1. Fonte de alimentação universal, com correção ativa do fator de potência — PFC ativo.
+3.14.2. Eficiência mínima de 85% em carga plena.
+3.14.3. Faixa de entrada de 100 a 240 Vca, 60 Hz, fase, neutro e terra.
+3.14.4. Certificação 80 Plus Bronze ou superior.
+3.15. Sistema operacional e aplicativos
+3.15.1. Sistema operacional Windows 11 Pro de 64 bits, em português do Brasil, ou versão superior.
+3.15.2. Licença OEM devidamente regularizada.
+3.15.3. O sistema operacional e os respectivos drivers deverão ser entregues instalados e ativados.
+3.15.4. Suíte de aplicativos de produtividade do tipo Office, em versão profissional.
+3.16. Certificações do equipamento
+3.16.1. Compatibilidade de hardware com Microsoft Windows 11 de 64 bits ou superior.
+3.16.2. Atendimento às normas aplicáveis de segurança, compatibilidade eletromagnética e
+eficiência energética estabelecidas pelo Inmetro.
+3.16.3. Atendimento às normas IEC 61000, CISPR 22 e CISPR 24 ou equivalentes.
+3.16.4. Atendimento aos parâmetros de ruído acústico da NBR 10152, ISO 7779 e ISO 9296 ou
+equivalentes.
+3.16.5. Atendimento à norma IEC 60950 ou norma técnica que a substitua.
+3.16.6. Certificação 80 Plus Bronze ou superior.
+3.16.7. Certificação EPEAT 2018 ou equivalente e conformidade RoHS.
+3.16.8. Compatibilidade com o padrão DMI 2.0 ou superior.
+3.17. Certificações e requisitos do fabricante
+3.17.1. Sistema de Gestão da Qualidade ISO 9001:2015 ou equivalente.
+3.17.2. Sistema de Gestão Ambiental ISO 14001:2015 ou equivalente.
+3.17.3. Regularidade perante o Cadastro Técnico Federal do Ibama, quando aplicável.
+3.17.4. Participação em programa de logística reversa de eletroeletrônicos, como Green Eletron ou
+equivalente.
+3.17.5. Participação no UEFI Forum ou comprovação equivalente de compatibilidade com o padrão
+UEFI.
+3.17.6. Participação na Distributed Management Task Force — DMTF ou comprovação equivalente
+de compatibilidade.
+3.17.7. Participação no Trusted Computing Group — TCG ou comprovação equivalente.
+3.17.8. Participação em entidade de responsabilidade empresarial, como Responsible Business
+Alliance — RBA ou equivalente.
+3.18. Documentação complementar
+3.18.1. Caso a proponente não seja fabricante do equipamento, poderá ser exigida declaração do
+fabricante ou documento equivalente que comprove autorização, parceria comercial ou capacidade
+de fornecimento e suporte dos produtos ofertados.
+ITEM 4 – NOTEBOOK TIPO I
+4.1. Processador
+4.1.1. Processador Intel de, no mínimo, 13ª geração, AMD de geração equivalente ou superior.
+4.1.2. Mínimo de 6 núcleos físicos e 12 threads.
+4.1.3. Frequência base mínima de 2,4 GHz.
+4.1.4. Frequência máxima em modo turbo de, no mínimo, 4,3 GHz.
+4.1.5. Memória cache mínima de 16 MB.
+4.1.6. Suporte às instruções SSE4.1, SSE4.2 e AVX2.
+4.1.7. TDP de referência de até 15 W ou configuração energeticamente equivalente.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 9 de 35
+
+--- [pag. PDF 10] ---
+10
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+4.1.8. Suporte ao DirectX 12.1, OpenGL 4.6 e OpenCL 3.0 ou versões superiores.
+4.2. BIOS
+4.2.1. BIOS Plug and Play desenvolvida pelo fabricante do equipamento ou sobre a qual ele possua
+direitos de propriedade intelectual.
+4.2.2. O número de série do equipamento deverá estar registrado na BIOS.
+4.2.3. Deverá possuir campo para cadastro do número de inventário ou patrimônio.
+4.2.4. Deverá permitir a apresentação do logotipo do órgão durante a inicialização.
+4.2.5. Deverá estar em conformidade com NIST SP 800-147, ISO/IEC 19678 ou padrão equivalente.
+4.2.6. Deverá utilizar métodos criptográficos para verificação da integridade da BIOS.
+4.2.7. BIOS em português ou inglês, em conformidade com UEFI 2.1 ou superior.
+4.2.8. O fabricante deverá comprovar compatibilidade com o padrão UEFI.
+4.2.9. Deverá registrar eventos relacionados a alteração de memória, atualização da BIOS ou UEFI,
+modificações na unidade de armazenamento e demais eventos relevantes.
+4.2.10. Deverá permitir controle de acesso por senha de administrador e usuário.
+4.2.11. Deverá permitir senha para proteção da unidade de armazenamento e para inicialização do
+equipamento.
+4.3. Placa principal e segurança
+4.3.1. Placa principal desenvolvida especificamente para o modelo ofertado.
+4.3.2. Chip de segurança TPM versão 2.0.
+4.3.3. Chipset do mesmo fabricante do processador, quando aplicável.
+4.3.4. Entrada para instalação de trava física do tipo Kensington ou equivalente.
+4.4. Memória RAM
+4.4.1. Memória RAM DDR4 com frequência de 3.200 MHz ou superior.
+4.4.2. Mínimo de 8 GB de memória instalada.
+4.4.3. Não será aceita solução em que toda a memória esteja permanentemente soldada à placa
+principal, devendo existir possibilidade de expansão.
+4.4.4. Capacidade de expansão para, no mínimo, 64 GB.
+4.5. Armazenamento
+4.5.1. Unidade interna SSD com capacidade mínima de 256 GB.
+4.5.2. Interface NVMe PCIe Geração 3 ou superior.
+4.5.3. Suporte a unidades SSD com capacidade de até, no mínimo, 1 TB.
+4.6. Interface de rede
+4.6.1. Interface de rede Gigabit Ethernet integrada.
+4.6.2. Conector RJ-45 com indicador luminoso de atividade.
+4.6.3. Bluetooth versão 5.1 ou superior.
+4.6.4. Rede sem fio compatível com o padrão IEEE 802.11ax ou superior.
+4.7. Controladora de vídeo
+4.7.1. Controladora gráfica integrada ao processador.
+4.7.2. Resolução mínima para a tela integrada de 1920 × 1200 pixels a 60 Hz.
+4.8. Áudio
+4.8.1. Áudio de alta definição.
+4.8.2. Microfone e alto-falantes estéreo integrados.
+4.9. Gabinete e dispositivos integrados
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 10 de 35
+
+--- [pag. PDF 11] ---
+11
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+4.9.1. Deverá possuir slot específico para instalação de cabo com trava antifurto.
+4.9.2. Teclado integrado no padrão ABNT2, em português do Brasil.
+4.9.3. Teclado com, no mínimo, 106 teclas e resistência a derramamento de líquidos.
+4.9.4. Deverá acompanhar trava destinada a impedir a retirada indevida do notebook e de seus
+acessórios.
+4.9.5. Deverá acompanhar teclado numérico separado, quando o teclado integrado não possuir
+bloco numérico.
+4.9.6. Touchpad com recurso multitoque e, no mínimo, 2 botões integrados ou funções equivalentes.
+4.9.7. Webcam HD integrada, com resolução mínima de 720p.
+4.9.8. O conjunto formado pelo notebook e pela bateria deverá pesar, no máximo, 1,85 kg.
+4.10. Adaptador de energia e bateria
+4.10.1. Adaptador de alimentação com entrada de 110/220 Vca e seleção automática de tensão.
+4.10.2. Tensão de saída compatível com o notebook.
+4.10.3. Bateria de polímero de lítio, íons de lítio prismático ou tecnologia superior.
+4.10.4. Autonomia de até 10 horas, conforme metodologia oficial do fabricante.
+4.10.5. Bateria com, no mínimo, 3 células e capacidade mínima de 55 Wh.
+4.10.6. A bateria não poderá exceder as dimensões físicas do gabinete.
+4.11. Portas de comunicação
+4.11.1. Mínimo de 1 conexão HDMI.
+4.11.2. Mínimo de 1 conexão USB 2.0.
+4.11.3. Mínimo de 2 conexões USB 3.0, USB 3.2 Geração 1 ou superior.
+4.11.4. Mínimo de 1 conexão USB 3.2 tipo C ou superior.
+4.11.5. Mínimo de 1 conexão combinada para microfone e fone de ouvido.
+4.12. Tela
+4.12.1. Tela mínima de 16 polegadas.
+4.12.2. Resolução mínima WUXGA de 1920 × 1200 pixels.
+4.12.3. Painel IPS ou tecnologia com ângulos de visão equivalentes ou superiores.
+4.12.4. Formato widescreen 16:10.
+4.12.5. Superfície antirreflexiva.
+4.12.6. Frequência de atualização mínima de 60 Hz.
+4.13. Sistema operacional
+4.13.1. Windows 11 Pro de 64 bits, em português do Brasil, ou versão superior.
+4.13.2. O sistema operacional e todos os drivers necessários deverão estar instalados.
+4.13.3. A contratada deverá disponibilizar, em página oficial, os drivers, BIOS e firmwares
+atualizados do modelo ofertado.
+4.14. Softwares
+4.14.1. Solução de proteção antimalware e antivírus conforme especificação própria.
+4.14.2. Suíte de aplicativos de produtividade destinada a ambientes corporativos, em versão
+profissional.
+4.15. Documentação comercial
+4.15.1. Caso a proponente não seja fabricante do equipamento, poderá ser exigida carta de revenda
+autorizada ou documento equivalente que comprove sua capacidade de comercialização, garantia
+e suporte.
+4.16. Certificações e requisitos do fabricante
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 11 de 35
+
+--- [pag. PDF 12] ---
+12
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+4.16.1. Sistema de Gestão da Qualidade ISO 9001:2015 ou equivalente.
+4.16.2. Sistema de Gestão Ambiental ISO 14001:2015 ou equivalente.
+4.16.3. Avaliação de responsabilidade social corporativa, como EcoVadis ou equivalente.
+4.16.4. Regularidade perante o Cadastro Técnico Federal do Ibama, quando aplicável.
+4.16.5. Participação no UEFI Forum ou comprovação equivalente de compatibilidade UEFI.
+4.16.6. Participação na DMTF ou comprovação equivalente.
+4.16.7. Participação no Trusted Computing Group ou comprovação equivalente.
+4.16.8. Participação em entidade de responsabilidade empresarial, como Responsible Business
+Alliance ou equivalente.
+ITEM 5 – NOTEBOOK TIPO II
+5.1. Processador
+5.1.1. Frequência mínima de 1,6 GHz.
+5.1.2. Frequência máxima em modo turbo de, no mínimo, 4,2 GHz.
+5.1.3. Memória cache mínima de 6 MB.
+5.1.4. Mínimo de 4 núcleos físicos e 8 threads.
+5.1.5. Processador gráfico integrado.
+5.1.6. Controladora gráfica Intel UHD Graphics ou equivalente.
+5.1.7. Suporte ao Microsoft DirectX 12 e OpenGL 4.5 ou versões superiores.
+5.2. Tela
+5.2.1. Tela LED de, no mínimo, 14 polegadas.
+5.2.2. Formato widescreen.
+5.2.3. Superfície antirreflexiva.
+5.2.4. Resolução mínima Full HD de 1920 × 1080 pixels.
+5.3. Armazenamento
+5.3.1. Unidade SSD com capacidade mínima de 256 GB.
+5.3.2. Formato M.2.
+5.4. Softwares
+5.4.1. Sistema operacional Windows 10 Pro em português do Brasil ou versão superior, devidamente
+licenciado.
+5.4.2. Suíte de aplicativos de produtividade em versão profissional, contendo, no mínimo, editor de
+textos, planilhas, apresentações e aplicativo de anotações.
+5.4.3. Solução de proteção antimalware e antivírus.
+5.4.4. O sistema operacional, a suíte de produtividade, a solução de proteção e todos os drivers
+necessários deverão ser entregues instalados e configurados.
+5.5. Conexões
+5.5.1. Mínimo de 2 portas USB 3.1 Geração 1 tipo A ou superior, com suporte a carregamento.
+5.5.2. Mínimo de 1 porta USB 3.1 Geração 1 tipo C ou superior.
+5.5.3. Mínimo de 1 porta USB 2.0.
+5.5.4. Mínimo de 1 saída HDMI.
+5.5.5. Mínimo de 1 conexão combinada para microfone e fone de ouvido.
+5.5.6. Mínimo de 1 interface RJ-45 Gigabit Ethernet.
+5.5.7. Conector para alimentação elétrica.
+5.6. Teclado
+5.6.1. Teclado em português do Brasil, padrão ABNT2.
+5.6.2. Deverá possuir bloco numérico integrado ou solução funcional equivalente.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 12 de 35
+
+--- [pag. PDF 13] ---
+13
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+5.6.3. Mínimo de 105 teclas.
+5.7. Memória RAM
+5.7.1. Mínimo de 8 GB de memória DDR4, com frequência de 2.400 MHz ou superior.
+5.7.2. Capacidade de expansão para, no mínimo, 32 GB.
+5.8. Bateria
+5.8.1. Bateria interna de polímero de íons de lítio ou tecnologia superior.
+5.8.2. Mínimo de 3 células.
+5.8.3. Capacidade mínima de 37 Wh.
+5.9. Segurança
+5.9.1. Entrada para trava física do tipo Kensington ou equivalente.
+5.9.2. Solução TPM 2.0, podendo ser implementada por firmware, desde que atenda integralmente
+às funcionalidades de segurança exigidas.
+5.10. Certificações do equipamento
+5.10.1. Compatibilidade de hardware com Windows 10 de 64 bits ou superior.
+5.10.2. Compatibilidade com o padrão DMI 2.0 ou superior.
+5.10.3. Certificação ambiental EPEAT ou equivalente.
+5.11. Certificações e requisitos do fabricante
+5.11.1. Sistema de Gestão da Qualidade ISO 9001:2015 ou equivalente.
+5.11.2. Sistema de Gestão Ambiental ISO 14001:2015 ou equivalente.
+5.11.3. Sistema de Gestão de Segurança e Saúde Ocupacional ou certificação equivalente.
+5.11.4. Avaliação de responsabilidade social corporativa, como EcoVadis ou equivalente.
+5.11.5. Regularidade perante o Cadastro Técnico Federal do Ibama, quando aplicável.
+5.11.6. Participação em programa de logística reversa de equipamentos eletroeletrônicos, como
+Green Eletron ou equivalente.
+5.11.7. Participação no UEFI Forum ou comprovação equivalente de compatibilidade UEFI.
+5.11.8. Participação na DMTF ou comprovação equivalente.
+5.11.9. Participação no Trusted Computing Group ou comprovação equivalente.
+5.11.10. Participação em entidade de responsabilidade empresarial, como Responsible Business
+Alliance ou equivalente.
+5.12. Solução de proteção
+5.12.1. O equipamento deverá possuir solução de proteção antimalware e antivírus conforme
+especificação própria.
+5.13. Documentação complementar
+5.13.1. Caso a proponente não seja fabricante do equipamento, poderá ser exigida declaração do
+fabricante ou documento equivalente que comprove autorização, parceria comercial ou capacidade
+de fornecimento e suporte.
+ITEM 6 – MONITOR DE VÍDEO DE 21,5 POLEGADAS OU SUPERIOR
+6.1. Especificações do monitor
+6.1.1. Monitor com tecnologia LCD ou LED e tela de 21,5 polegadas ou superior.
+6.1.2. Resolução mínima de 1920 × 1080 pixels.
+6.1.3. Brilho mínimo de 250 nits ou 250 cd/m².
+6.1.4. Razão de contraste mínima de 1.000:1.
+6.1.5. Deverá possuir suporte para fixação no padrão VESA.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 13 de 35
+
+--- [pag. PDF 14] ---
+14
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+6.1.6. Deverá possuir, no mínimo, 1 conexão HDMI.
+6.1.7. Deverá possuir, no mínimo, 1 conexão DisplayPort.
+6.1.8. Deverá possuir, no mínimo, 1 conexão analógica VGA.
+6.1.9. O monitor deverá ser do mesmo fabricante dos microcomputadores ofertados ou fornecido
+em regime OEM devidamente comprovado.
+ANEXO A - SISTEMA DE PROTEÇÃO PARA O NOTEBOOK
+A.1. Requisitos gerais da solução
+A.1.1. A solução deverá possuir todos os módulos fornecidos por um único fabricante, permitindo
+administração, instalação, configuração, monitoramento e atualização de forma centralizada.
+A.1.2. A solução deverá possuir console de gerenciamento centralizada.
+A.1.3. A console deverá permitir o gerenciamento de estações de trabalho, notebooks, servidores
+físicos ou virtuais, tablets e smartphones.
+A.1.4. A interface da console de gerenciamento deverá estar integralmente disponível em português.
+A.1.5. O software cliente instalado nos dispositivos protegidos deverá possuir interface em
+português.
+A.1.6. A solução deverá possuir manuais em português e inglês.
+A.1.7. O fabricante deverá disponibilizar documentação técnica em português em seu sítio eletrônico
+oficial.
+A.1.8. A solução deverá suportar sistemas operacionais com arquiteturas de 32 e 64 bits, quando
+aplicável.
+A.1.9. O cliente instalado deverá permanecer operacional mesmo quando não houver comunicação
+com o servidor de gerenciamento.
+A.2. Console de gerenciamento centralizada
+A.2.1. O acesso à console deverá ocorrer por meio de tecnologia web segura, utilizando HTTPS ou
+outro protocolo seguro equivalente.
+A.2.2. A console deverá ser compatível, no mínimo, com os navegadores Google Chrome, Mozilla
+Firefox, Microsoft Edge, Opera e Safari, em versões suportadas pelos respectivos fabricantes.
+A.2.3. A console deverá suportar múltiplas sessões simultâneas.
+A.2.4. O acesso à console deverá ser autenticado.
+A.2.5. A console deverá permitir autenticação multifator, sem necessidade de aquisição de módulo
+adicional.
+A.2.6. Deverá permitir a criação de contas de usuários com diferentes níveis de acesso,
+contemplando, no mínimo, os perfis de operador e administrador.
+A.2.7. Deverá possuir integração com LDAP e Active Directory para:
+a) importação da estrutura organizacional;
+b) autenticação dos administradores;
+c) criação de grupos e subgrupos baseados na estrutura organizacional.
+A.2.8. Deverá permitir o agrupamento dos dispositivos em sites, domínios, grupos e subgrupos.
+A.2.9. Deverá permitir administração individualizada por domínio, grupo, subgrupo, localização
+lógica, endereço IP ou outro identificador único.
+A.2.10. Deverá permitir a aplicação de políticas diferenciadas conforme a localização lógica da rede.
+A.2.11. Deverá permitir aplicar configurações a:
+a) um dispositivo específico;
+b) grupo de dispositivos;
+c) subgrupo de dispositivos;
+d) todos os dispositivos gerenciados.
+A.2.12. A console deverá poder ser disponibilizada em servidor físico, ambiente virtual ou appliance
+virtual fornecido pelo fabricante.
+A.2.13. Deverá permitir a realização de cópia de segurança da base de dados da console de
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 14 de 35
+
+--- [pag. PDF 15] ---
+15
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+gerenciamento.
+A.2.14. A console de administração de licenças deverá estar disponível em nuvem e permitir a
+consulta dos equipamentos que utilizam as licenças contratadas.
+A.3. Comunicação entre servidor e clientes
+A.3.1. A solução deverá possuir mecanismo de comunicação em tempo real, do tipo push, entre o
+servidor e os clientes, para distribuição de configurações, tarefas e assinaturas.
+A.3.2. Deverá possuir mecanismo de comunicação randômico, do tipo pull, para consulta de novas
+configurações e atualizações, evitando sobrecarga da rede e do servidor.
+A.3.3. A comunicação entre a console e os clientes deverá utilizar HTTPS ou outro protocolo seguro
+equivalente.
+A.3.4. As configurações deverão ser atualizadas e sincronizadas nos clientes em segundo plano,
+sem necessidade de reinicialização ou encerramento da sessão do usuário.
+A.3.5. A solução deverá permitir forçar nos clientes as configurações definidas pela Administração.
+A.3.6. O usuário do equipamento não poderá alterar as configurações, importar ou exportar políticas,
+interromper serviços, desinstalar o agente ou abrir a interface administrativa sem autorização ou
+senha definida pela console.
+A.4. Compatibilidade do servidor de gerenciamento
+A.4.1. O servidor de gerenciamento deverá ser compatível com instalação em ambiente físico ou
+virtual de 64 bits disponibilizado pela Contratante.
+A.4.2. O servidor de gerenciamento deverá possuir compatibilidade com sistemas operacionais
+Microsoft Windows e Windows Server suportados pelo fabricante da solução.
+A.4.3. Deverá possuir compatibilidade com distribuições Linux corporativas suportadas pelo
+fabricante, incluindo, no mínimo, Ubuntu, Red Hat Enterprise Linux, SUSE, Debian, Fedora ou
+distribuições equivalentes.
+A.4.4. Deverá possuir compatibilidade com ambientes de virtualização e hipervisores, incluindo, no
+mínimo:
+a) VMware vSphere ou ESXi;
+b) VMware Workstation ou Player;
+c) Microsoft Hyper-V;
+d) Oracle VirtualBox;
+e) Citrix ou solução equivalente.
+A.4.5. A comprovação de compatibilidade deverá considerar versões que estejam dentro do ciclo
+de suporte do fabricante do sistema operacional ou da plataforma de virtualização.
+A.5. Instalação, descoberta e distribuição dos agentes
+A.5.1. A solução deverá permitir a instalação dos clientes em estações e servidores físicos ou
+virtuais de forma remota e silenciosa, sem intervenção do usuário.
+A.5.2. Deverá permitir instalação remota por meio da console de gerenciamento.
+A.5.3. Deverá permitir instalação por meio de GPO, SCCM ou ferramenta equivalente.
+A.5.4. Deverá permitir instalação local por mídia, pacote de instalação ou arquivo gerado pela
+console.
+A.5.5. Deverá gerar pacotes de instalação específicos para cada sistema operacional existente no
+ambiente da Contratante.
+A.5.6. Deverá descobrir automaticamente os computadores da rede que não possuam o agente
+instalado.
+A.5.7. Deverá fornecer ferramenta de pesquisa de estações e servidores sem o agente, com opção
+de instalação remota.
+A.5.8. Deverá possibilitar a remoção automatizada de soluções de segurança anteriormente
+instaladas, quando tecnicamente suportado.
+A.5.9. Deverá permitir forçar a reinstalação do agente em caso de desinstalação, corrupção ou falha.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 15 de 35
+
+--- [pag. PDF 16] ---
+16
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+A.5.10. Deverá permitir instalação e desinstalação remota pela console.
+A.5.11. O cliente deverá permitir atualização de sua própria versão por meio do servidor de
+gerenciamento.
+A.6. Atualização da solução
+A.6.1. A atualização das assinaturas e definições de ameaças deverá ocorrer automaticamente,
+com periodicidade mínima diária.
+A.6.2. As atualizações deverão ser incrementais e realizadas on-line.
+A.6.3. As atualizações das vacinas, configurações e componentes deverão ocorrer sem
+necessidade de reinicialização do equipamento, sempre que tecnicamente possível.
+A.6.4. Deverá permitir programação de atualizações automáticas, com definição de frequência, data
+e horário.
+A.6.5. Deverá permitir atualização por:
+a) servidor local;
+b) sítio eletrônico ou nuvem do fabricante;
+c) servidor de distribuição escolhido pela Contratante;
+d) outra origem definida pelo administrador.
+A.6.6. Deverá permitir a eleição de um ou mais clientes gerenciados como servidores de distribuição
+das atualizações.
+A.6.7. Deverá permitir configurar a ordem de preferência das fontes de atualização.
+A.6.8. Deverá permitir utilização de serviço proxy.
+A.6.9. Equipamentos móveis ou externos à rede corporativa deverão conseguir atualizar-se
+diretamente pela internet.
+A.6.10. Quando o servidor de gerenciamento estiver indisponível, o agente deverá poder atualizar
+vacinas e componentes por meio da nuvem do fabricante.
+A.6.11. Não será admitido que a atualização dependa exclusivamente de scripts de logon, tarefas
+manuais ou módulos que não façam parte integrante da solução.
+A.6.12. A console deverá permitir rollback de versão da solução ou das definições de ameaças,
+quando tecnicamente suportado.
+A.7. Inventário, monitoramento e status
+A.7.1. A solução deverá coletar e armazenar, em base centralizada, informações de hardware e
+software dos dispositivos gerenciados.
+A.7.2. Deverá fornecer, em tempo real, o status atualizado dos dispositivos.
+A.7.3. O status deverá conter, no mínimo:
+a) nome do equipamento;
+b) endereço IP;
+c) situação da comunicação com a console;
+d) versão do agente;
+e) versão e data das definições de ameaças;
+f) ameaças detectadas e não removidas;
+g) sistema operacional;
+h) informações de hardware e software inventariadas.
+A.7.4. Deverá permitir exportação do inventário de hardware e software em PDF e CSV.
+A.8. Logs, alertas e relatórios
+A.8.1. Os logs deverão ser armazenados de forma centralizada.
+A.8.2. Os registros deverão conter, no mínimo:
+a) nome da ameaça;
+b) nome e caminho do arquivo infectado;
+c) data e hora da detecção;
+d) ação executada;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 16 de 35
+
+--- [pag. PDF 17] ---
+17
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+e) endereço IP do equipamento;
+f) usuário autenticado;
+g) origem da ameaça, quando identificável;
+h) nome ou endereço IP do equipamento de origem da propagação.
+A.8.3. A console deverá emitir alertas por correio eletrônico sobre infecções, ataques, falhas ou
+eventos críticos.
+A.8.4. Deverá permitir a geração de relatórios pré-configurados e personalizados.
+A.8.5. Os relatórios deverão admitir filtros e conjuntos de filtros.
+A.8.6. Deverá permitir exportação dos relatórios em, no mínimo, um dos seguintes formatos:
+a) HTML;
+b) CSV ou TXT;
+c) PDF.
+A.8.7. Os relatórios deverão contemplar, no mínimo:
+a) equipamentos com definições desatualizadas;
+b) versões do agente instaladas;
+c) ameaças mais detectadas;
+d) equipamentos com maior número de infecções;
+e) eventos de ameaças;
+f) status dos clientes;
+g) status das atualizações;
+h) softwares instalados;
+i) hardware inventariado;
+j) sítios eletrônicos acessados ou bloqueados;
+k) dispositivos removíveis utilizados ou bloqueados.
+A.9. Proteção antimalware
+A.9.1. A solução deverá oferecer proteção em tempo real contra, no mínimo:
+a) vírus;
+b) worms;
+c) trojans;
+d) ransomware;
+e) spyware;
+f) adware;
+g) rootkits;
+h) keyloggers;
+i) vírus de macro;
+j) ferramentas de administração remota maliciosas;
+k) programas de quebra de senha;
+l) ameaças persistentes e de dia zero;
+m) demais códigos maliciosos.
+A.9.2. Deverá possuir proteção em tempo real do sistema de arquivos.
+A.9.3. Deverá examinar arquivos quando forem abertos, criados, copiados, executados,
+renomeados, movidos ou modificados.
+A.9.4. Deverá realizar monitoramento dos processos em memória, inclusive de ameaças que não
+gravem arquivos no disco.
+A.9.5. Deverá possuir detecção por:
+a) assinaturas;
+b) heurística;
+c) análise comportamental;
+d) aprendizado de máquina;
+e) inteligência artificial;
+f) análise em nuvem;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 17 de 35
+
+--- [pag. PDF 18] ---
+18
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+g) análise estatística e dinâmica;
+h) introspecção de memória;
+i) reputação de arquivos.
+A.9.6. Deverá possuir proteção proativa contra ameaças desconhecidas durante sua propagação
+inicial.
+A.9.7. Deverá empregar proteção baseada em nuvem ligada aos laboratórios de pesquisa e
+desenvolvimento do fabricante.
+A.9.8. Deverá possuir módulo nativo de proteção contra ransomware.
+A.9.9. Deverá identificar alterações maliciosas nas configurações de DNS e no arquivo Hosts.
+A.9.10. Deverá identificar keyloggers, trojans e worms por comportamento dos processos em
+memória.
+A.9.11. Deverá permitir diferentes níveis de sensibilidade da detecção.
+A.9.12. Deverá permitir definir ações para ameaças detectadas, incluindo:
+a) reparar;
+b) excluir;
+c) bloquear;
+d) ignorar;
+e) mover para quarentena.
+A.9.13. Deverá encerrar processos e serviços maliciosos no momento da detecção.
+A.9.14. Não serão aceitas soluções cujo mecanismo principal de antimalware seja integralmente
+fornecido por terceiro, sem responsabilidade técnica do fabricante ofertado.
+A.10. Varreduras e quarentena
+A.10.1. A solução deverá permitir varreduras:
+a) manuais;
+b) agendadas;
+c) em tempo real;
+d) por linha de comando;
+e) em períodos de ociosidade do equipamento;
+f) na inicialização do sistema operacional.
+A.10.2. As varreduras deverão poder ser aplicadas a um dispositivo, grupo, subgrupo ou a todos os
+dispositivos.
+A.10.3. Deverá permitir configurar:
+a) todos os discos locais;
+b) discos específicos;
+c) pastas específicas;
+d) arquivos específicos;
+e) arquivos ou pastas excluídos da verificação.
+A.10.4. Deverá permitir configurar exclusões por:
+a) extensão;
+b) nome;
+c) caminho;
+d) pasta;
+e) hash do arquivo.
+A.10.5. Deverá possuir área segura de quarentena no equipamento protegido.
+A.10.6. A quarentena deverá impedir a execução dos arquivos isolados.
+A.10.7. Deverá permitir varreduras agendadas por grupos, com intervalos entre os dispositivos para
+reduzir impacto na rede e nos servidores.
+A.11. Arquivos compactados e compartilhamentos
+A.11.1. A solução deverá detectar, analisar e reparar arquivos contaminados que estejam
+compactados.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 18 de 35
+
+--- [pag. PDF 19] ---
+19
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+A.11.2. Deverá suportar, no mínimo, os seguintes formatos:
+a) CAB;
+b) ZIP;
+c) RAR;
+d) LHA;
+e) ARJ;
+f) TAR.
+A.11.3. Deverá suportar a análise de, no mínimo, 5 níveis de compactação.
+A.11.4. Em servidores Linux, deverá proteger os sistemas de arquivos e os arquivos disponibilizados
+por compartilhamentos SAMBA ou CIFS.
+A.11.5. Deverá permitir definir políticas específicas para verificação de unidades de rede mapeadas.
+A.12. Proteção web, correio eletrônico e antiphishing
+A.12.1. A solução deverá detectar e bloquear ameaças provenientes de downloads e da navegação
+web.
+A.12.2. Deverá utilizar sistema de reputação de URLs.
+A.12.3. Deverá permitir ajuste do nível de sensibilidade e criação de listas de exceções.
+A.12.4. Deverá permitir ativar ou desativar a inspeção em tempo real da navegação.
+A.12.5. Deverá possuir proteção antiphishing contra sítios eletrônicos fraudulentos.
+A.12.6. Deverá permitir controle de acesso a sítios eletrônicos.
+A.12.7. Deverá permitir políticas de bloqueio por:
+a) categoria;
+b) endereço ou lista de URL;
+c) reputação;
+d) regra definida pela Administração.
+A.12.8. Deverá permitir personalizar a mensagem apresentada ao usuário quando um sítio
+eletrônico for bloqueado.
+A.12.9. Deverá analisar mensagens e anexos de correio eletrônico.
+A.12.10. Deverá suportar, no mínimo, Microsoft Outlook ou clientes que utilizem POP3 e SMTP.
+A.12.11. Deverá permitir ativar ou desativar a inspeção de correio eletrônico.
+A.12.12. Quando disponibilizado módulo antispam, a inspeção deverá suportar comunicação segura
+por SSL ou tecnologia equivalente.
+A.13. Firewall e prevenção de intrusões
+A.13.1. A solução deverá possuir firewall bidirecional instalado no cliente.
+A.13.2. O firewall deverá ser gerenciado pela mesma console centralizada.
+A.13.3. Deverá permitir configuração, ativação e desativação remota.
+A.13.4. Deverá tratar de forma independente o tráfego de entrada e de saída.
+A.13.5. Deverá permitir criação de regras com base em:
+a) aplicação;
+b) executável;
+c) protocolo;
+d) endereço IP;
+e) faixa de endereços IP;
+f) rede;
+g) porta;
+h) faixa de portas;
+i) direção do tráfego.
+A.13.6. Deverá suportar os protocolos TCP e UDP.
+A.13.7. Deverá reconhecer tráfego DNS, DHCP e WINS, permitindo seu bloqueio ou liberação.
+A.13.8. Deverá possuir proteção contra:
+a) negação de serviço — DoS;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 19 de 35
+
+--- [pag. PDF 20] ---
+20
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+b) varredura de portas — Port Scan;
+c) spoofing;
+d) botnets;
+e) exploração de vulnerabilidades;
+f) exploits conhecidos ou desconhecidos.
+A.13.9. Deverá permitir criação de assinaturas personalizadas de detecção.
+A.13.10. Deverá permitir agendamento da ativação de novas regras.
+A.13.11. Deverá permitir regras específicas para diferentes aplicações.
+A.13.12. Deverá permitir bloquear todos os executáveis constantes de uma lista ou permitir somente
+os executáveis autorizados.
+A.13.13. Deverá possuir mecanismo de prevenção de intrusões — IPS ou tecnologia equivalente.
+A.14. Controle de dispositivos removíveis
+A.14.1. A solução deverá detectar e controlar dispositivos conectados por USB ou outras interfaces.
+A.14.2. Deverá permitir os seguintes níveis de acesso:
+a) acesso total;
+b) leitura e escrita;
+c) leitura e execução;
+d) somente leitura;
+e) bloqueio total.
+A.14.3. Deverá permitir bloqueio com base em:
+a) fabricante;
+b) modelo;
+c) número de série;
+d) classe do dispositivo.
+A.14.4. Deverá permitir bloquear o recurso Autorun.
+A.14.5. Deverá bloquear automaticamente a execução de ameaças em mídias removíveis.
+A.14.6. A proteção deverá abranger, no mínimo:
+a) pendrives;
+b) discos rígidos externos;
+c) celulares;
+d) tablets;
+e) CD e DVD;
+f) impressoras USB;
+g) dispositivos FireWire;
+h) dispositivos Bluetooth;
+i) leitores de cartão inteligente;
+j) dispositivos de imagem;
+k) modems;
+l) portas LPT e COM;
+m) demais dispositivos portáteis.
+A.15. Gerenciamento de dispositivos móveis
+A.15.1. A console deverá permitir o gerenciamento de dispositivos Android e iOS.
+A.15.2. O módulo deverá possuir arquitetura compatível com soluções de Mobile Device
+Management — MDM.
+A.15.3. O gerenciamento de dispositivos iOS deverá utilizar certificado do serviço de notificações
+push da Apple ou mecanismo oficial equivalente.
+A.15.4. A instalação da solução nos dispositivos móveis deverá poder ocorrer por:
+a) QR Code;
+b) link gerado pela console;
+c) correio eletrônico;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 20 de 35
+
+--- [pag. PDF 21] ---
+21
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+d) instalação manual autorizada.
+A.15.5. A base ou estrutura de gerenciamento dos dispositivos móveis deverá permitir segregação
+lógica em relação aos servidores e estações de trabalho.
+A.16. Proteção de servidores e ambientes virtuais
+A.16.1. A solução deverá possuir proteção para servidores físicos e virtuais.
+A.16.2. Deverá possuir mecanismo de cache ou otimização para evitar verificações repetidas do
+mesmo arquivo em ambientes virtuais.
+A.16.3. Deverá identificar ambientes Hyper-V e permitir varredura otimizada ou específica para esse
+hipervisor.
+A.16.4. Deverá permitir a verificação de arquivos armazenados no OneDrive for Business ou solução
+equivalente integrada ao ambiente de servidor, quando tecnicamente aplicável.
+A.16.5. A proteção de servidor deverá possuir detecção e bloqueio de intrusões.
+A.16.6. Deverá permitir adicionar a listas de bloqueio endereços identificados como fontes de
+comportamento malicioso.
+A.16.7. Deverá criar automaticamente exclusões recomendadas para aplicações críticas de
+servidor.
+A.16.8. Deverá otimizar ambientes mistos de hardware físico e virtual, evitando duplicação
+desnecessária de verificações.
+A.16.9. Deverá possibilitar atualização de correções do sistema operacional ou fornecer mecanismo
+integrado de gerenciamento de patches, quando esse módulo fizer parte da solução ofertada.
+A.17. Continuidade e proteção contra vulnerabilidades
+A.17.1. A solução deverá bloquear ameaças que explorem vulnerabilidades ainda não corrigidas no
+sistema operacional.
+A.17.2. Poderá utilizar mecanismos de IPS, análise heurística, análise comportamental, inteligência
+artificial ou aprendizado de máquina.
+A.17.3. Arquivos identificados como ameaças persistentes, desconhecidas ou de dia zero deverão
+ser analisados e bloqueados automaticamente.
+A.17.4. A solução deverá permitir análise de arquivos em ambiente isolado, por sandbox, nuvem ou
+tecnologia equivalente.
+A.17.5. A análise poderá utilizar:
+a) aprendizado de máquina;
+b) deep learning;
+c) análise estatística;
+d) análise dinâmica;
+e) detecção comportamental;
+f) introspecção de memória;
+g) identificação por características genéticas ou DNA do malware.
+A.18. Requisitos do fabricante e suporte
+A.18.1. O fabricante deverá possuir suporte técnico em português.
+A.18.2. O fabricante deverá possuir estrutura própria ou contratada para pesquisa, análise e
+resposta a ameaças.
+A.18.3. O fabricante deverá possuir laboratório próprio ou estrutura técnica equivalente para
+desenvolvimento de mecanismos de detecção, assinaturas, vacinas e atualizações.
+A.18.4. O fabricante deverá possuir estrutura de atendimento ou representação oficial no Brasil.
+A.18.5. O fabricante deverá oferecer serviços relacionados à segurança da informação, tais como:
+a) testes de penetração;
+b) avaliações de vulnerabilidade;
+c) análises de lacunas de segurança;
+d) resposta a incidentes ou serviços equivalentes.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 21 de 35
+
+--- [pag. PDF 22] ---
+22
+Prefeitura Municipal de Lins
+Av. Nicolau Zarvos, 754 – Vila Clélia – CEP: 16401-300 – Lins/SP – Fone (14) 3533-4250
+–	CNPJ/MF 44.531.788/0001-38 E-mail informatica@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+A.18.6. A comprovação das funcionalidades e da capacidade do fabricante poderá ser realizada por
+documentação oficial, manuais técnicos, páginas públicas, relatórios de testes independentes ou
+declaração formal do fabricante.
+A.18.7. A solução deverá possuir histórico de participação em avaliações independentes
+reconhecidas de proteção contra malware, detecção e falsos positivos.
+A.19. Comprovação de atendimento
+A.19.1. A licitante deverá apresentar documentação técnica que permita verificar o atendimento às
+características exigidas.
+A.19.2. A documentação poderá ser composta por:
+a) catálogo oficial;
+b) manual técnico;
+c) datasheet;
+d) página oficial do fabricante;
+e) relatório de testes independente;
+f) declaração técnica do fabricante;
+g) demonstração ou prova de conceito, quando solicitada.
+A.19.3. Documentos em língua estrangeira poderão ser aceitos, desde que acompanhados de
+tradução para o português quando necessária à adequada análise técnica.
+A.19.4. A Contratante poderá solicitar demonstração das funcionalidades da solução antes da
+adjudicação ou durante a implantação, conforme condições estabelecidas no edital.
+A.19.5. Todos os componentes, módulos, licenças, agentes e funcionalidades necessários ao
+atendimento integral deste Anexo deverão estar incluídos na proposta, não sendo admitida cobrança
+adicional durante a vigência contratual.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 22 de 35
+
+--- [pag. PDF 23] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Departamento Administrativo, Financeiro e Orçamentário
+Unidade de Informática e Gestão de Tecnologia de Informação
+APÊNDICE II - MATRIZ CONTRATUAL DE RISCOS AO EQUILÍBRIO ECONÔMICO-FINANCEIRO
+ID Evento superveniente e impacto Alocação
+dos efeitos Prevenção e mitigação Tratamento na ocorrência Justificativa da
+alocação
+R01
+Ocorrência de atraso, indisponibilidade
+ou descontinuação de fabricante,
+distribuidor, transportador ou
+fornecedor escolhido pela Contratada,
+com atraso de implantação, reposição
+ou continuidade do parque.
+Contratada
+Manter fornecedores
+alternativos; estoque
+mínimo de contingência;
+cronograma e rastreio de
+entrega.
+Contratada suporta custos de
+substituição, frete, estoque,
+equipamento provisório e atraso;
+aplicam-se glosa, multa e sanções,
+sem reequilíbrio.
+A cadeia de
+fornecimento e a
+logística são meios
+empresariais
+livremente
+organizados pela
+Contratada.
+R02
+Ocorrência de oscilação ordinária de
+preços, câmbio, juros, financiamento,
+mão de obra, licenças ou
+componentes, com aumento dos
+custos de execução.
+Contratada
+Formação de preço
+prudente; proteção
+comercial; diversificação;
+gestão de produtividade.
+Absorção pela Contratada; somente o
+reajuste contratual, após o interregno e
+nas condições previstas, poderá
+atualizar preços; sem revisão
+extraordinária pela álea ordinária.
+Variações
+previsíveis integram
+o risco empresarial
+e devem ser
+precificadas.
+R03
+Ocorrência de falha, irregularidade,
+expiração ou restrição de licenças de
+sistemas operacionais, suíte de
+produtividade ou antimalware
+fornecidas pela Contratada, com perda
+de uso, autuação ou paralisação.
+Contratada
+Inventário de licenças;
+comprovação de origem;
+alertas de validade;
+auditoria mensal simples.
+Regularização ou substituição imediata
+às expensas da Contratada;
+indenização por danos; glosa e
+sanção; sem reequilíbrio.
+A autenticidade,
+suficiência e
+continuidade do
+licenciamento
+integram o resultado
+contratado.
+R04
+Ocorrência de falha imputável à
+Contratada na instalação,
+configuração, backup, migração ou
+restauração, com perda, corrupção ou
+indisponibilidade relevante de dados e
+perfis.
+Contratada
+Plano de migração;
+backup validado; piloto;
+checklist e aceite por
+posto; registro de logs.
+Contratada executa restauração,
+retrabalho e suporte extraordinário;
+responde por danos comprovados;
+glosa, sanção e eventual seguro, sem
+reequilíbrio.
+A Contratada
+controla método,
+equipe, ferramentas
+e validações da
+migração.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 23 de 35
+
+--- [pag. PDF 24] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Departamento Administrativo, Financeiro e Orçamentário
+Unidade de Informática e Gestão de Tecnologia de Informação
+R05
+Ocorrência de defeitos, desgaste,
+indisponibilidade, atraso de
+atendimento ou descumprimento
+material dos SLAs de manutenção e
+suporte, com perda de produtividade
+ou continuidade.
+Contratada
+Estoque de reposição;
+técnico local; sistema de
+chamados; alertas por
+prazo; manutenção e
+substituição tempestivas.
+Substituição e correção sem custo;
+aplicação do IMR, glosas, multas e
+sanções; equipamentos indisponíveis
+não geram remuneração integral; sem
+reequilíbrio.
+Disponibilidade e
+suporte são
+obrigações centrais
+de resultado sob
+controle da
+Contratada.
+R06
+Ocorrência de incidente de segurança,
+malware, acesso indevido ou
+vazamento causado por falha dos
+produtos, configurações, credenciais
+técnicas ou procedimentos sob
+responsabilidade da Contratada.
+Contratada
+Hardening; antimalware
+oficial atualizado; menor
+privilégio; logs; resposta a
+incidentes; capacitação da
+equipe técnica.
+Contratada contém e corrige o
+incidente, restaura o serviço e indeniza
+danos comprovados; glosa, sanção e
+acionamento de seguro, sem
+reequilíbrio.
+A segurança do
+perímetro técnico e
+dos meios
+fornecidos é
+gerenciável pela
+Contratada.
+R07
+Ocorrência de obsolescência,
+descontinuação tecnológica ou
+incompatibilidade de
+hardware/software escolhido pela
+Contratada durante a vigência, com
+necessidade de troca ou atualização
+para manter os requisitos.
+Contratada
+Escolher linhas
+corporativas suportadas;
+acompanhar ciclos de
+vida; prever equivalentes e
+refresh.
+Contratada substitui ou atualiza sem
+custo adicional, preservando
+desempenho e compatibilidade; sem
+reequilíbrio.
+A escolha
+tecnológica e o risco
+de ciclo de vida
+pertencem à
+Contratada,
+respeitadas as
+especificações.
+R08
+Ocorrência de alteração unilateral de
+quantitativos, especificações,
+funcionalidades, níveis de serviço,
+unidades atendidas ou escopo por
+decisão da Administração, com
+aumento ou redução dos encargos.
+Administração
+Formalizar demanda;
+análise técnica e
+orçamentária; utilizar
+preços unitários e
+memória de cálculo.
+Alteração por termo aditivo;
+recomposição, para mais ou para
+menos, apenas da parcela modificada
+e dos efeitos líquidos comprovados;
+observância dos limites legais.
+A Administração
+controla a alteração
+do escopo e deve
+preservar a equação
+econômico-
+financeira.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 24 de 35
+
+--- [pag. PDF 25] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Departamento Administrativo, Financeiro e Orçamentário
+Unidade de Informática e Gestão de Tecnologia de Informação
+R09
+Ocorrência de atraso ou impedimento
+da Administração na liberação de
+locais, acessos, autorizações, agenda
+de usuários, informações,
+equipamentos antigos ou decisões
+necessárias à implantação e migração.
+Administração
+Plano de implantação
+pactuado; responsáveis
+por unidade; checklist de
+prontidão; registro de
+impedimentos.
+Prorrogação do marco afetado;
+suspensão da frente impedida;
+reconhecimento apenas de custos
+adicionais líquidos, inevitáveis e
+comprovados, com dedução dos
+custos evitados.
+As providências e
+decisões
+institucionais estão
+sob domínio da
+Administração.
+R10
+Constatação, após o início, de volume,
+formato, corrupção, criptografia,
+restrição ou condição oculta dos dados
+legados não informada e não
+razoavelmente detectável, com esforço
+material adicional de migração.
+Administração
+Inventário prévio;
+amostragem;
+disponibilização de
+informações; piloto e
+registro das exceções.
+Aditivo ou revisão limitada ao esforço
+adicional comprovado e não previsto;
+redefinição de prazo; excluem-se
+falhas de diligência ou método da
+Contratada.
+Dados legados e
+informações não
+acessíveis antes da
+contratação
+permanecem sob
+domínio público.
+R11
+Ocorrência de falha de energia, rede,
+internet, DNS, firewall, infraestrutura
+física ou política de acesso
+administrada pela Administração, fora
+do perímetro contratado, com
+indisponibilidade dos equipamentos ou
+suporte.
+Administração
+Checklist de infraestrutura;
+monitoramento simples;
+registro de
+indisponibilidade por
+origem; manutenção dos
+ambientes.
+Administração suporta os efeitos em
+sua esfera; período comprovadamente
+afetado não caracteriza
+inadimplemento da Contratada nem
+gera glosa de SLA por causa externa.
+A infraestrutura
+institucional não
+integra os meios
+controlados pela
+Contratada.
+R12
+Ocorrência de dano, perda, furto, uso
+indevido, violação física ou alteração
+não autorizada causada por usuário,
+agente público ou terceiro sob controle
+da Administração, com necessidade de
+reposição.
+Administração
+Termo de
+responsabilidade;
+inventário patrimonial;
+orientação aos usuários;
+registro de ocorrência.
+Administração ressarce o custo líquido
+de reposição ou reparo, limitado ao
+valor comprovado e deduzidas
+garantias, seguros, depreciação
+contratual e recuperações; sem multa
+à Contratada.
+A guarda e o uso
+cotidiano, quando
+entregues e aceitos,
+estão sob controle
+da Administração.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 25 de 35
+
+--- [pag. PDF 26] ---
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+Departamento Administrativo, Financeiro e Orçamentário
+Unidade de Informática e Gestão de Tecnologia de Informação
+R13
+Ocorrência de atraso de pagamento
+imputável à Administração, após
+regular liquidação, com custo
+financeiro e risco de suspensão da
+continuidade.
+Administração
+Calendário de liquidação;
+conferência por checklist;
+alerta de vencimento;
+pagamento da parcela
+incontroversa.
+Aplicação de atualização e encargos
+previstos; faculdade de suspensão ou
+extinção nos limites legais e
+contratuais; não há revisão geral do
+preço.
+O processamento e
+o pagamento são
+obrigações
+exclusivas da
+Administração.
+R14
+Superveniência de norma legal ou
+regulatória que imponha obrigação
+nova, material e extraescopo
+diretamente aplicável à solução,
+inclusive em segurança, proteção de
+dados, licenciamento ou
+interoperabilidade.
+Administração
+Monitorar normas; avaliar
+aplicabilidade; registrar
+impacto; priorizar
+adequação mínima
+necessária.
+Revisão ou aditivo somente pelo
+impacto líquido comprovado da
+obrigação nova; alterações tributárias
+diretamente incidentes serão tratadas
+na exata medida legal, para mais ou
+para menos.
+Obrigação legal
+nova e material não
+integra a álea
+ordinária;
+atualizações
+técnicas usuais
+permanecem com a
+Contratada.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 26 de 35
+
+--- [pag. PDF 27] ---
+1
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+APÊNDICE III - ESPECIFICAÇÕES TÉCNICAS DO SERVIDOR
+CORPORATIVO
+Natureza da obrigação: A Contratada deverá disponibilizar 1 (um) servidor físico
+corporativo durante toda a vigência contratual. O servidor não constitui item autônomo do
+pregão, não será objeto de medição ou faturamento individual e não ensejará pagamento
+específico. Todos os custos necessários ao seu fornecimento, transporte, instalação,
+licenciamento, configuração, operação, manutenção, suporte, substituição e desmobilização
+deverão estar integralmente incluídos e diluídos nos preços dos itens que compõem a proposta
+global do lote único.
+1. REQUISITOS GERAIS
+O equipamento ofertado deverá ser de linha corporativa, próprio para funcionamento
+contínuo, 24 horas por dia e 7 dias por semana, e atender, no mínimo, às especificações a
+seguir.
+2. GABINETE E CARACTERÍSTICAS FÍSICAS
+2.1. Servidor para instalação em rack padrão de 19 polegadas.
+2.2. Gabinete com fator de forma máximo de 2U.
+2.3. Deverá acompanhar kit completo de trilhos deslizantes, suportes, parafusos e
+demais acessórios necessários à instalação em rack.
+2.4. O gabinete deverá possuir identificação frontal dos principais componentes e
+permitir acesso facilitado aos discos, fontes e ventiladores.
+2.5. Deverá possuir tampa ou painel frontal com mecanismo que dificulte o acesso não
+autorizado aos discos, quando disponibilizado pelo fabricante.
+3. PROCESSAMENTO
+3.1. O servidor deverá ser fornecido com, no mínimo, 1 (um) processador instalado,
+pertencente à família Intel Xeon Scalable de 3ª geração ou superior, ou processador
+tecnicamente equivalente ou superior.
+3.2. O processador instalado deverá possuir, no mínimo:
+a) arquitetura x86-64;
+b) 12 núcleos físicos;
+c) 24 threads;
+d) frequência base mínima de 2,10 GHz;
+e) frequência máxima em modo turbo de, no mínimo, 3,30 GHz;
+f) memória cache mínima de 18 MB;
+g) suporte a memória DDR4 ECC com frequência de até 3.200 MT/s;
+h) suporte a virtualização por hardware;
+i) suporte a instruções de segurança e criptografia compatíveis com aplicações
+corporativas;
+j) data de lançamento no mercado mundial a partir de 2021.
+3.3. A placa-mãe deverá possuir 2 (dois) soquetes para processadores, permitindo futura
+expansão para até 2 (dois) processadores da mesma família.
+3.4. A solução térmica instalada deverá ser original ou homologada pelo fabricante do
+servidor e dimensionada para o processador fornecido.
+3.5. Não serão aceitos processadores destinados exclusivamente ao mercado
+doméstico ou estações de trabalho não corporativas.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 27 de 35
+
+--- [pag. PDF 28] ---
+2
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+4. MEMÓRIA
+4.1. O servidor deverá ser fornecido com, no mínimo, 32 GB de memória RAM instalada.
+4.2. A memória deverá possuir as seguintes características:
+a) tecnologia DDR4;
+b) frequência mínima de 3.200 MT/s, admitindo-se redução automática da frequência
+em função do processador instalado;
+c) tecnologia ECC;
+d) módulos do tipo RDIMM ou LRDIMM;
+e) módulos homologados ou certificados pelo fabricante do servidor.
+4.3. A placa-mãe deverá possuir, no mínimo, 16 slots DIMM.
+4.4. A arquitetura deverá permitir expansão para, no mínimo, 2 TB de memória RAM,
+sem substituição da placa-mãe.
+4.5. Os módulos instalados deverão ser distribuídos de forma a utilizar adequadamente
+os canais de memória disponibilizados pelo processador.
+5. ARMAZENAMENTO
+5.1. O servidor deverá ser fornecido com capacidade bruta mínima de armazenamento
+de 8 TB, composta por, no mínimo:
+a) 2 unidades de disco de 4 TB cada;
+b) discos de padrão corporativo ou enterprise;
+c) interface SATA III ou SAS;
+d) velocidade mínima de 7.200 RPM, quando utilizados discos rígidos;
+e) operação homologada para uso contínuo, 24 horas por dia e 7 dias por semana;
+f) tecnologia hot-swap.
+5.2. Os discos deverão ser configurados em RAID 1, resultando em capacidade útil
+mínima aproximada de 4 TB, com tolerância à falha de uma unidade.
+5.3. O servidor deverá possuir, no mínimo, 8 baias frontais hot-swap de 3,5 polegadas,
+compatíveis também com unidades de 2,5 polegadas mediante adaptador apropriado.
+5.4. Deverá possuir, no mínimo:
+a) 1 slot M.2 compatível com unidade NVMe nos formatos 2280 ou 22110; e
+b) 2 conectores compatíveis com módulos SATA DOM ou tecnologia equivalente.
+5.5. Todas as gavetas, bandejas, adaptadores, cabos e acessórios necessários à
+instalação dos discos deverão estar incluídos.
+6. CONTROLADORA DE ARMAZENAMENTO
+6.1. O servidor deverá possuir controladora de armazenamento integrada ou dedicada,
+compatível com todos os discos fornecidos.
+6.2. A controladora deverá suportar, no mínimo, os níveis de RAID 0, 1, 5 e 10.
+6.3. A controladora deverá permitir monitoramento do estado dos discos e do arranjo por
+meio da interface de gerenciamento remoto.
+6.4. Em caso de utilização de controladora dedicada, esta deverá ser homologada pelo
+fabricante do servidor.
+6.5. A contratada deverá entregar o equipamento com o arranjo RAID configurado,
+testado e em pleno funcionamento.
+7. PLACA-MÃE E CHIPSET
+7.1. A placa-mãe deverá ser desenvolvida ou homologada pelo fabricante do servidor.
+7.2. Deverá possuir chipset Intel C621A ou outro tecnicamente equivalente ou superior,
+compatível com todos os componentes ofertados.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 28 de 35
+
+--- [pag. PDF 29] ---
+3
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+7.3. A placa-mãe deverá possuir identificação permanente do fabricante e número de
+série.
+7.4. Não serão aceitas placas-mãe de livre comercialização destinadas a computadores
+domésticos, estações de trabalho convencionais ou equipamentos montados sem projeto
+corporativo integrado.
+8. SLOTS DE EXPANSÃO
+8.1. O servidor deverá disponibilizar, no mínimo:
+a) 4 slots PCI Express 4.0 x16, de perfil baixo; e
+b) 2 slots PCI Express 4.0 x8, de perfil baixo.
+8.2. Serão aceitas configurações superiores, desde que mantida a compatibilidade com
+placas de expansão corporativas.
+8.3. Deverão ser fornecidos os risers, tampas e componentes necessários para
+utilização dos slots especificados.
+9. CONECTIVIDADE DE REDE
+9.1. O servidor deverá possuir, no mínimo:
+a) 2 portas Ethernet RJ-45 de 1 GbE;
+b) controladora de rede Intel i350 ou equivalente ou superior;
+c) 1 porta Ethernet RJ-45 dedicada exclusivamente ao gerenciamento remoto.
+9.2. As interfaces de rede deverão suportar, no mínimo:
+a) velocidades de 10/100/1.000 Mbps;
+b) operação full duplex;
+c) Wake-on-LAN, quando suportado pelo sistema operacional;
+d) VLAN conforme padrão IEEE 802.1Q;
+e) agregação de links, quando suportada pelo sistema operacional.
+9.3. Todos os drivers necessários deverão ser fornecidos e instalados pela contratada.
+10. PORTAS DE ENTRADA E SAÍDA
+10.1. O equipamento deverá possuir, no mínimo:
+a) 1 porta VGA traseira;
+b) 1 porta serial traseira;
+c) 2 portas USB frontais;
+d) 4 portas USB traseiras;
+e) 2 portas RJ-45 de 1 GbE;
+f) 1 porta RJ-45 dedicada ao gerenciamento remoto.
+10.2. Serão aceitas portas e interfaces adicionais.
+11. BIOS, UEFI E SEGURANÇA
+11.1. O servidor deverá possuir firmware BIOS ou UEFI desenvolvido ou homologado
+pelo fabricante do equipamento.
+11.2. A BIOS deverá possuir memória flash com capacidade mínima de 32 MB.
+11.3. Deverá suportar, no mínimo:
+a) Secure Boot;
+b) atualização segura de firmware;
+c) restauração ou recuperação segura da BIOS;
+d) apagamento seguro de unidades de armazenamento;
+e) senha de administrador;
+f) senha de inicialização;
+g) definição da sequência de boot;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 29 de 35
+
+--- [pag. PDF 30] ---
+4
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+h) registro de número de série do equipamento;
+i) identificação dos componentes instalados;
+j) registro de eventos de hardware;
+k) atualização remota ou por mídia inicializável.
+11.4. O servidor deverá possuir recursos de proteção da integridade do firmware, tais
+como BIOS Root of Trust, Intel Boot Guard ou tecnologias equivalentes.
+11.5. O equipamento deverá ser compatível com as recomendações de segurança
+estabelecidas nas normas NIST SP 800-193, NIST SP 800-147B e NIST SP 800-88, ou normas
+posteriores equivalentes.
+11.6. Deverá possuir módulo TPM 2.0 instalado, habilitado e em pleno funcionamento.
+11.7. Não será aceita a indicação de TPM apenas como item opcional ou disponível para
+futura instalação.
+11.8. Deverá possuir mecanismo de detecção de abertura ou intrusão do gabinete.
+12. GERENCIAMENTO REMOTO
+12.1. O servidor deverá possuir controlador dedicado de gerenciamento remoto,
+independente do sistema operacional principal.
+12.2. O controlador deverá ser compatível com IPMI 2.0 ou tecnologia equivalente ou
+superior.
+12.3. O gerenciamento remoto deverá permitir, no mínimo:
+a) ligar, desligar e reiniciar o servidor remotamente;
+b) acesso remoto ao console por KVM-over-LAN;
+c) montagem remota de imagens ISO e mídias virtuais;
+d) monitoramento de processadores, memória, discos, fontes, ventiladores e
+temperaturas;
+e) consulta e exportação de registros de eventos;
+f) atualização remota de BIOS, firmware e controladores;
+g) configuração de alertas;
+h) gerenciamento fora de banda, independentemente do sistema operacional;
+i) autenticação segura;
+j) acesso por interface web utilizando protocolo HTTPS.
+12.4. Todas as licenças necessárias para habilitação integral das funcionalidades de
+KVM-over-LAN, mídia virtual e gerenciamento fora de banda deverão estar incluídas durante
+toda a vigência contratual.
+13. SISTEMA DE REFRIGERAÇÃO
+13.1. O servidor deverá possuir sistema de ventilação redundante ou dimensionado para
+manter a operação segura de todos os componentes instalados.
+13.2. Deverá possuir, no mínimo, 3 ventiladores internos.
+13.3. Os ventiladores deverão:
+a) possuir controle automático de velocidade por PWM ou tecnologia equivalente;
+b) ser monitorados pela interface de gerenciamento;
+c) possuir capacidade hot-swap, quando prevista na arquitetura do fabricante;
+d) ser dimensionados para a configuração máxima entregue.
+13.4. A falha de um ventilador deverá gerar alerta na interface de gerenciamento.
+14. PAINEL FRONTAL
+14.1. O painel frontal deverá possuir, no mínimo:
+a) botão liga e desliga;
+b) botão de reinicialização ou funcionalidade equivalente;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 30 de 35
+
+--- [pag. PDF 31] ---
+5
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+c) indicador do estado de alimentação;
+d) indicador de atividade dos discos;
+e) indicador de atividade de rede;
+f) indicador de falha ou informação do sistema;
+g) indicador ou botão de identificação da unidade — UID.
+15. FONTES DE ALIMENTAÇÃO
+15.1. O servidor deverá ser fornecido com 2 fontes de alimentação redundantes, hot-
+plug e hot-swap.
+15.2. Cada fonte deverá possuir potência suficiente para manter individualmente o
+funcionamento integral da configuração fornecida.
+15.3. Cada fonte deverá possuir potência nominal mínima de:
+a) 600 W para alimentação entre 100 V e 127 V; ou
+b) 650 W para alimentação entre 200 V e 240 V.
+15.4. Serão aceitas fontes de maior potência.
+15.5. As fontes deverão possuir:
+a) certificação mínima 80 Plus Platinum;
+b) correção ativa do fator de potência;
+c) compatibilidade com tensões de 100 V a 240 V;
+d) gerenciamento e monitoramento por PMBus 1.2 ou tecnologia equivalente;
+e) possibilidade de substituição sem desligamento do servidor.
+15.6. Deverão ser fornecidos 2 cabos de alimentação compatíveis com o padrão de
+tomadas utilizado pela Administração ou com a infraestrutura do rack.
+16. CONDIÇÕES AMBIENTAIS DE OPERAÇÃO
+16.1. O equipamento deverá operar, no mínimo, nas seguintes condições:
+a) temperatura entre 10 °C e 35 °C;
+b) umidade relativa entre 8% e 90%, sem condensação.
+16.2. O servidor deverá possuir sensores internos para monitoramento de temperatura
+e alerta de condições anormais.
+17. SISTEMA OPERACIONAL E LICENCIAMENTO
+17.1. O servidor deverá ser entregue com Microsoft Windows Server 2022 Standard,
+versão de 64 bits, ou versão mais recente que mantenha compatibilidade com os sistemas da
+Administração.
+17.2. O sistema operacional deverá ser:
+a) original;
+b) instalado e ativado;
+c) devidamente licenciado;
+d) fornecido em idioma português do Brasil, quando disponível;
+e) acompanhado da respectiva chave, comprovante de licenciamento ou registro
+eletrônico de titularidade;
+f) licenciado para a totalidade dos núcleos físicos instalados no equipamento,
+observadas as regras do fabricante do software.
+17.3. O licenciamento deverá permanecer válido durante toda a vigência da contratação.
+17.4. Quando necessárias ao ambiente da Administração, as licenças de acesso de
+usuários ou dispositivos — CALs — deverão ser fornecidas na quantidade definida neste Termo
+de Referência ou em planilha específica.
+17.5. A contratada deverá entregar o servidor com:
+a) sistema operacional atualizado;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 31 de 35
+
+--- [pag. PDF 32] ---
+6
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+b) drivers instalados;
+c) firmware atualizado para versão estável e homologada;
+d) arranjo RAID configurado;
+e) nome do equipamento, endereço de rede e demais parâmetros configurados
+conforme orientações da Administração;
+f) conta administrativa inicial entregue de maneira segura ao fiscal ou responsável
+técnico.
+17.6. Não serão aceitas licenças de avaliação, acadêmicas, temporárias, irregulares ou
+vinculadas a terceiros sem autorização de uso pela Administração.
+18. COMPATIBILIDADE COM SISTEMAS OPERACIONAIS E VIRTUALIZAÇÃO
+18.1. O equipamento deverá ser homologado pelo fabricante para operação com, no
+mínimo:
+a) Microsoft Windows Server 2022;
+b) distribuições corporativas Linux;
+c) plataforma de virtualização VMware ESXi ou solução equivalente.
+18.2. A comprovação poderá ser realizada por meio de ficha técnica, matriz de
+compatibilidade, página oficial do fabricante ou declaração técnica acompanhada da
+documentação pertinente.
+19. CERTIFICAÇÕES E CONFORMIDADES
+19.1. O equipamento deverá atender às normas de segurança elétrica, compatibilidade
+eletromagnética e proteção ambiental aplicáveis ao tipo de equipamento.
+19.2. Deverá possuir comprovação de atendimento, no mínimo, às seguintes normas ou
+às suas versões posteriores equivalentes:
+a) FCC Part 15, Subpart B;
+b) ICES-003;
+c) CISPR 32;
+d) CISPR 24 ou CISPR 35;
+e) EN 55032;
+f) EN 55035;
+g) EN 61000-3-2;
+h) EN 61000-3-3;
+i) série EN 61000-4;
+j) IEC 62368-1 ou UL/CSA 62368-1;
+k) Diretiva RoHS 2011/65/EU;
+l) Regulamento REACH EC 1907/2006;
+m) Diretiva WEEE 2012/19/EU.
+19.3. Serão aceitas certificações nacionais ou internacionais equivalentes, desde que
+comprovem níveis iguais ou superiores de segurança, compatibilidade eletromagnética e
+proteção ambiental.
+19.4. A Administração poderá solicitar catálogos, certificados, relatórios ou declarações
+emitidas pelo fabricante para comprovação das características.
+20. CONDIÇÕES DE FORNECIMENTO E INSTALAÇÃO
+20.1. A contratada deverá realizar:
+a) transporte do equipamento até o local indicado;
+b) instalação física no rack;
+c) instalação dos trilhos;
+d) conexão às fontes de energia e rede;
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 32 de 35
+
+--- [pag. PDF 33] ---
+7
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+e) instalação e configuração do sistema operacional;
+f) atualização de BIOS, firmware e drivers;
+g) configuração do arranjo RAID;
+h) configuração do gerenciamento remoto;
+i) testes de funcionamento, desempenho básico, redundância e conectividade;
+j) entrega da documentação da configuração instalada.
+20.2. A instalação deverá ser realizada por profissionais tecnicamente capacitados.
+20.3. Todos os custos com transporte, mão de obra, ferramentas, cabos, conectores,
+adaptadores, licenças e demais materiais necessários deverão estar incluídos no preço mensal
+da locação.
+21. DOCUMENTAÇÃO TÉCNICA
+21.1. A contratada deverá entregar documentação contendo, no mínimo:
+a) fabricante e modelo do servidor;
+b) número de série;
+c) modelo e quantidade de processadores;
+d) quantidade e distribuição dos módulos de memória;
+e) modelo, capacidade e número de série dos discos;
+f) configuração do RAID;
+g) modelo da controladora de armazenamento;
+h) versão da BIOS e dos firmwares;
+i) endereços MAC das interfaces de rede;
+j) informações de licenciamento do sistema operacional;
+k) relação dos componentes instalados;
+l) procedimentos básicos de acesso ao gerenciamento remoto.
+22. MANUTENÇÃO E SUPORTE TÉCNICO
+22.1. Durante toda a vigência contratual, a contratada será responsável pela
+manutenção preventiva e corretiva do servidor.
+22.2. O suporte deverá abranger, no mínimo:
+a) diagnóstico de falhas;
+b) substituição de peças e componentes;
+c) substituição de discos, memórias, fontes e ventiladores;
+d) correção de falhas de firmware e drivers;
+e) apoio à recuperação da configuração do equipamento;
+f) suporte ao gerenciamento remoto;
+g) reinstalação do sistema operacional quando a falha decorrer do hardware ou de
+serviço executado pela contratada.
+22.3. Todas as peças utilizadas deverão ser originais, homologadas ou tecnicamente
+compatíveis com o equipamento.
+22.4. A substituição de componentes não poderá reduzir a capacidade, o desempenho,
+a redundância ou a segurança inicialmente contratados.
+22.5. Os discos defeituosos que tenham armazenado dados da Administração não
+poderão ser retirados das dependências do órgão antes da realização de procedimento seguro
+de eliminação dos dados ou sem autorização formal da Administração.
+23. SUBSTITUIÇÃO DO EQUIPAMENTO
+23.1. Quando o reparo não puder ser concluído dentro do prazo definido no acordo de
+nível de serviço, a contratada deverá fornecer servidor substituto de capacidade igual ou
+superior.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 33 de 35
+
+--- [pag. PDF 34] ---
+8
+______
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+23.2. O equipamento substituto deverá:
+a) possuir configuração igual ou superior;
+b) ser compatível com o sistema operacional e as aplicações utilizadas;
+c) ser entregue com as licenças necessárias;
+d) preservar a configuração de armazenamento e conectividade;
+e) permanecer disponível até o restabelecimento definitivo do equipamento original.
+23.3. Não será admitida cobrança adicional pela substituição temporária ou definitiva.
+24. COMPROVAÇÃO TÉCNICA DA PROPOSTA
+24.1. A licitante classificada provisoriamente em primeiro lugar deverá apresentar ficha
+técnica oficial, catálogo, manual ou documento emitido pelo fabricante que permita verificar o
+atendimento às especificações.
+24.2. A documentação deverá identificar claramente:
+a) fabricante;
+b) modelo;
+c) processador ofertado;
+d) memória instalada;
+e) capacidade e tecnologia dos discos;
+f) controladora de armazenamento;
+g) interfaces de rede;
+h) fontes de alimentação;
+i) recursos de gerenciamento remoto;
+j) compatibilidade com o sistema operacional;
+k) certificações aplicáveis.
+24.3. As características que dependam de configuração específica deverão ser
+comprovadas mediante declaração da licitante, acompanhada da indicação dos componentes
+que serão instalados.
+24.4. A indicação de marca ou modelo na proposta não afasta a obrigação de
+comprovação de todos os requisitos deste Termo de Referência.
+25. REFERÊNCIA DE COMPATIBILIDADE
+25.1. Para fins exclusivamente referenciais de padrão de qualidade, arquitetura,
+capacidade de expansão e gerenciamento, considera-se compatível o servidor
+Positivo/Supermicro SYS-620P-TR-BR.
+25.2. A referência indicada não constitui exigência de marca ou modelo específico.
+25.3. Serão aceitos equipamentos de outros fabricantes, desde que comprovadamente
+atendam ou superem todas as especificações técnicas, funcionais, de desempenho, segurança,
+gerenciamento, expansão e suporte estabelecidas neste Termo de Referência.
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 34 de 35
+
+--- [pag. PDF 35] ---
+Identificador: 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec
+Data/Hora em GMT -3:00 por Google Trusted Services
+Autenticação eletrônica por autentique.com.br
+Relatório de auditoria e validação de assinaturas eletrônicas
+a685d269c940be75a1f5ae6c0c1
+542c9e3d314e0b4a4e39cc6dcfb
+869ee4add1 Hash SHA256 do original
+URL pública de verificação de integridade e autenticidade
+https://valida.ae/0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec
+Assinaturas concluídas: 3 de 3
+Assinaturas eletrônicas realizadas em conformidade com a Lei nº 14.063/2020 e Regulamento (UE) nº 910/2014 (eIDAS)
+Como auditar e validar este documento
+Você está visualizando uma via para impressão do documento, ela possui os dados de auditoria, porém ela pode ser
+alterada. Para conferir a integridade do documento e das assinaturas, acesse a URL pública de validação ou
+escaneie o QRCode ao lado.
+Assinaturas presentes no documento
+LuizHPSilva
+Assinado eletronicamente por
+Luiz Henrique Paiva Da Silva
+Data: 11/08/2026 14:06
+#fa56a1f095a611f1818d42010a2b6021
+SIGNATÁRIO
+Fabiano O
+Assinado eletronicamente por
+Fabiano Cristian Oliveira
+Data: 11/08/2026 18:43
+#fa5c5a4995a611f1818d42010a2b6021
+SIGNATÁRIO
+João S
+Assinado eletronicamente por
+João Pedro Vicente da Silva
+Data: 11/08/2026 14:06
+#fa6217b895a611f1818d42010a2b6021
+SIGNATÁRIO
+Trilha de auditoria
+11/08/2026
+14:06
+Luiz Henrique Paiva Da Silva (luiz.silva@lins.sp.gov.br, CPF 328.977.258-69), PREFEITURA MUNICIPAL DE LINS - UNIDADE DE
+INFORMÁTICA E GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (44.531.788/0001-38), criou o documento
+Hash SHA256 do arquivo: a685d269c940be75a1f5ae6c0c1542c9e3d314e0b4a4e39cc6dcfb869ee4add1
+11/08/2026
+14:06
+Luiz Henrique Paiva Da Silva (luiz.silva@lins.sp.gov.br, CPF 328.977.258-69), PREFEITURA MUNICIPAL DE LINS - UNIDADE DE
+INFORMÁTICA E GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (44.531.788/0001-38), visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 57215
+11/08/2026
+14:06
+Luiz Henrique Paiva Da Silva (luiz.silva@lins.sp.gov.br, CPF 328.977.258-69), PREFEITURA MUNICIPAL DE LINS - UNIDADE DE
+INFORMÁTICA E GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (44.531.788/0001-38), assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Edge/151.0.0.0 Tipo de geolocalização: IP
+Porta: 57215 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko Latitude e longitude: -21.6675, -49.6972
+11/08/2026
+14:06
+João Pedro Vicente da Silva (telefone +5514999023235, CPF 417.777.138-46) visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 60891
+11/08/2026
+14:06
+João Pedro Vicente da Silva (telefone +5514999023235, CPF 417.777.138-46) assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Chrome/151.0.0.0 Tipo de geolocalização: IP
+Porta: 60891 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko Latitude e longitude: -21.6675, -49.6972
+11/08/2026
+18:43
+Fabiano Cristian Oliveira (fabianocristian@hotmail.com, CPF 285.919.208-56) visualizou o documento
+Endereço de IP: 177.154.32.222 Porta: 57992
+11/08/2026
+18:43
+Fabiano Cristian Oliveira (fabianocristian@hotmail.com, CPF 285.919.208-56) assinou o documento
+Endereço de IP: 177.154.32.222 Navegador: Chrome/150.0.0.0 Tipo de geolocalização: IP
+Porta: 57992 Arquitetura: x64 Precisão: 5km+
+SO: Windows 10.0 Render engine: Gecko Latitude e longitude: -21.6675, -49.6972
+autentique.com.br 0c51a37a4b51b97cd09e4dbe96caeebc77957f6d7921278ec pg. 35 de 35
+
+--- [pag. PDF 36] ---
+1
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+______
+APÊNDICE IV – AMOSTRAS E TESTE DE CONFORMIDADES
+1. DA FINALIDADE E JUSTIFICATIVA.
+A exigência de amostra e de teste de conformidade tem por finalidade verificar, antes da
+contratação, a aderência operacional da solução efetivamente ofertada às condições de uso da
+Administração, complementando a análise documental da proposta, das fichas técnicas dos
+equipamentos e da documentação relativa à legitimidade e ao licenciamento dos softwares
+integrantes da solução.
+A ficha técnica é adequada para demonstrar características nominais de fabricação, tais
+como processador, memória, armazenamento, interfaces e demais especificações declaradas
+pelo fabricante. Todavia, esses documentos não evidenciam, por si sós, o comportamento da
+estação de trabalho quando submetida a situações práticas de uso, especialmente quanto ao
+tempo necessário para ficar efetivamente disponível ao usuário, à operação simultânea de
+aplicações administrativas, à estabilidade sob carga controlada, ao desempenho de
+comunicação em rede, ao funcionamento efetivo da solução de proteção e à compatibilidade
+com o ambiente corporativo da Administração.
+Considerando que a contratação compreende a disponibilização de equipamentos em
+regime de locação já configurados com sistema operacional, suíte de produtividade, solução
+antivírus e demais softwares previstos no Termo de Referência, a adequação pretendida não
+se limita à presença isolada dos componentes e programas especificados. Busca-se verificar o
+funcionamento integrado da estação como solução de trabalho, reduzindo o risco de
+contratação de equipamentos que, embora formalmente compatíveis com catálogos e fichas
+técnicas, apresentem limitações operacionais, de estabilidade ou de integração capazes de
+comprometer sua utilização cotidiana.
+A medida encontra fundamento nos arts. 17, § 3º, 41, inciso II e parágrafo único, e 42, §
+2º, da Lei Federal nº 14.133/2021 e observa a orientação do Tribunal de Contas do Estado de
+São Paulo no sentido de que amostras e provas de conceito, quando adotadas, sejam
+direcionadas ao licitante provisoriamente vencedor, contem com prazo razoável e sejam
+avaliadas por critérios técnicos previamente definidos, objetivos e relacionados a requisitos
+mínimos e essenciais.
+Os testes previstos neste Apêndice não se destinam a comparar subjetivamente marcas
+ou modelos, atribuir pontuação técnica ou repetir verificações suficientemente comprováveis
+por ficha técnica. Sua finalidade é exclusivamente confirmar, por cenários padronizados e
+resultados mensuráveis, que a solução ofertada atende às condições operacionais mínimas
+necessárias à Administração.
+2. DA CONVOCAÇÃO, ENTREGA E DISPONIBILIZAÇÃO DOS EQUIPAMENTOS.
+A exigência será dirigida exclusivamente ao licitante provisoriamente classificado em
+primeiro lugar, que deverá apresentar os equipamentos de demonstração correspondentes aos
+modelos ou configurações convocados pela Administração, idênticos aos ofertados e
+plenamente operantes, com sistema operacional, drivers, suíte de produtividade, solução
+antivírus e demais softwares integrantes da solução devidamente instalados e configurados
+para a realização dos testes.
+Os equipamentos deverão ser entregues no prazo de até 5 (cinco) dias úteis, contado da
+convocação oficial realizada pelo Pregoeiro no sistema eletrônico, no local e horário indicados
+na própria convocação.
+O prazo de entrega poderá ser prorrogado uma única vez, por igual período de 5 (cinco)
+dias úteis, mediante solicitação formal e devidamente justificada do licitante, apresentada antes
+do término do prazo originalmente concedido e condicionada à aceitação expressa da
+Administração. A ausência de solicitação tempestiva ou o indeferimento fundamentado da
+justificativa não suspenderá nem interromperá o prazo em curso.
+No recebimento, a Administração registrará, sempre que disponíveis, fabricante, modelo,
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 - Vila Clélia - CEP: 16.401-350 - Lins/SP - Fone/Fax (14)
+3533-4275
+CNPJ 44.531.788/0001-38 - E-mail: sena@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ db066a200c175316c4820e28ea79d4d059e8c9defb87ed9186b774388eeab002
+Link de validação:
+ https://valida.ae/f3edcd58f8dc776a5dd0311866a1ac97cf1af6fd4a56e3e8a
+Validador
+
+--- [pag. PDF 37] ---
+2
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+______
+número de série ou identificador equivalente, acessórios entregues, data e horário, bem como o
+estado aparente dos equipamentos, de modo a preservar a rastreabilidade da amostra durante
+todo o procedimento.
+Após a entrega e antes da conclusão da avaliação técnica, os equipamentos
+permanecerão disponíveis para avaliação pelos demais licitantes por período de até 3 (três)
+dias úteis, conforme local e horários divulgados pela Administração, asseguradas condições
+isonômicas de acesso.
+A avaliação pelos demais licitantes ocorrerá sob acompanhamento de servidor ou
+integrante da Comissão Técnica, sendo vedada qualquer intervenção capaz de alterar a
+configuração, instalar ou remover softwares, substituir componentes, modificar parâmetros de
+sistema, desconectar lacres ou causar dano ao equipamento. Eventuais observações deverão
+ser formalizadas pelos interessados e registradas no processo, para análise da Comissão.
+3. DA METODOLOGIA DE AVALIAÇÃO E DO REGISTRO DAS EVIDÊNCIAS.
+A avaliação será conduzida por Comissão Técnica ou equipe de Tecnologia da Informação
+designada pela Administração, que aplicará os mesmos procedimentos, arquivos, ferramentas,
+parâmetros e condições de teste a todos os licitantes que venham a ser convocados,
+preservando a isonomia e a reprodutibilidade dos resultados.
+Cada teste será classificado exclusivamente como “ATENDE” ou “NÃO ATENDE”,
+conforme os critérios constantes da Matriz de Avaliação deste Apêndice. Não serão atribuídas
+notas, conceitos de qualidade ou avaliações baseadas em percepção subjetiva dos
+avaliadores.
+Os arquivos e ferramentas utilizados nos testes serão previamente preparados pela
+equipe de TI e identificados no registro da sessão, inclusive, quando aplicável, por nome,
+versão, tamanho e hash SHA-256, de modo a permitir a reprodução e a verificação posterior
+dos procedimentos.
+A Comissão Técnica registrará as evidências pertinentes, incluindo capturas de tela,
+filmagens, fotografias, logs, tempos medidos, resultados produzidos pelas ferramentas e
+demais elementos necessários à comprovação objetiva do que foi executado. As evidências
+serão organizadas em pasta eletrônica na nuvem, e o respectivo link, em modo de consulta,
+será juntado ao processo e disponibilizado aos licitantes por meio do sistema eletrônico ou
+outro canal oficial definido pela Administração.
+A disponibilização das evidências observará a proteção de dados pessoais, credenciais,
+chaves, informações de segurança e demais conteúdos legalmente protegidos ou cuja
+divulgação possa comprometer o ambiente tecnológico da Administração. Quando necessário,
+tais elementos serão ocultados, anonimizados ou disponibilizados apenas no nível de acesso
+compatível com a finalidade de fiscalização do procedimento.
+A reprovação somente poderá decorrer de falha objetivamente atribuível ao equipamento,
+ao sistema operacional, aos drivers ou aos softwares integrantes da solução ofertada. Falhas
+comprovadamente decorrentes da infraestrutura de teste, rede, credenciais ou arquivos
+fornecidos pela Administração não ensejarão reprovação, devendo o teste ser repetido após o
+saneamento da ocorrência.
+Não constituirão motivo de reprovação percepções subjetivas relacionadas a aparência,
+preferência de interface, ruído, ergonomia ou sensação de velocidade, salvo quando existir
+parâmetro objetivo expressamente estabelecido no Termo de Referência ou nesta Matriz de
+Avaliação.
+Será considerada aprovada a amostra que obtiver resultado “ATENDE” em todos os testes
+obrigatórios aplicáveis à configuração avaliada. O não atendimento de qualquer requisito
+obrigatório, depois de confirmada a validade do procedimento e afastada falha imputável à
+infraestrutura da Administração, implicará a reprovação da amostra e a adoção das
+providências previstas no edital para convocação do próximo licitante classificado.
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 - Vila Clélia - CEP: 16.401-350 - Lins/SP - Fone/Fax (14)
+3533-4275
+CNPJ 44.531.788/0001-38 - E-mail: sena@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ db066a200c175316c4820e28ea79d4d059e8c9defb87ed9186b774388eeab002
+Link de validação:
+ https://valida.ae/f3edcd58f8dc776a5dd0311866a1ac97cf1af6fd4a56e3e8a
+Validador
+
+--- [pag. PDF 38] ---
+3
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+______
+4. MATRIZ DE AVALIAÇÃO.
+Os limites temporais e operacionais abaixo constituem parâmetros mínimos de
+aceitabilidade para a estação pronta para uso. A equipe de TI deverá validar previamente a
+infraestrutura de teste para assegurar que ela não seja o fator limitante das medições.
+Itens destacados em azul são obrigatórios.
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 - Vila Clélia - CEP: 16.401-350 - Lins/SP - Fone/Fax (14)
+3533-4275
+CNPJ 44.531.788/0001-38 - E-mail: sena@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ db066a200c175316c4820e28ea79d4d059e8c9defb87ed9186b774388eeab002
+Link de validação:
+ https://valida.ae/f3edcd58f8dc776a5dd0311866a1ac97cf1af6fd4a56e3e8a
+Validador
+
+--- [pag. PDF 39] ---
+4
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+______
+Nº TESTE /
+REQUISITO PROCEDIMENTO OBJETIVO CRITÉRIO DE
+APROVAÇÃO CENÁRIOS DE REPROVAÇÃO
+1
+Disponibilidade
+operacional após
+inicialização
+Com o equipamento totalmente
+desligado, iniciar o cronômetro ao
+acionar o botão de energia. Encerrar a
+medição quando o usuário de teste
+estiver autenticado e for possível abrir
+o navegador e o editor de textos e
+realizar entrada normal de dados.
+Realizar 3 (três) medições completas.
+ATENDE se as 3
+medições forem
+concluídas em até 60
+segundos, sem erro de
+inicialização ou
+intervenção técnica
+extraordinária.
+NÃO ATENDE se qualquer
+medição ultrapassar 60
+segundos; ocorrer reparo
+automático, falha de boot,
+travamento, reinicialização
+espontânea ou intervenção
+técnica para concluir o
+processo.
+2
+Carga simultânea
+do ambiente
+administrativo
+Abrir simultaneamente editor de
+textos, planilha eletrônica,
+apresentação, leitor de PDF e
+navegador com 15 abas previamente
+definidas pela Administração,
+utilizando os arquivos padronizados
+do pacote de teste.
+ATENDE se todos os
+aplicativos estiverem
+abertos e utilizáveis em
+até 60 segundos, sem
+encerramento
+inesperado ou
+travamento.
+NÃO ATENDE se não abrir
+qualquer aplicativo exigido;
+ultrapassar 60 segundos;
+ocorrer encerramento
+inesperado, reinicialização ou
+estado “não respondendo” por
+mais de 5 segundos.
+3
+Manipulação de
+planilha
+administrativa
+Abrir planilha XLSX padronizada pela
+Administração, contendo múltiplas
+abas, fórmulas, filtros e volume
+representativo de registros. Executar
+filtro, ordenação, alteração de dado,
+recálculo e salvamento.
+ATENDE se a abertura
+ocorrer em até 20
+segundos; filtro e
+ordenação em até 10
+segundos cada; e
+recálculo/salvamento
+em até 30 segundos,
+sem erro.
+NÃO ATENDE se qualquer
+operação exceder o respectivo
+limite; houver erro de cálculo,
+corrupção, perda das
+alterações, fechamento do
+aplicativo ou travamento
+superior a 5 segundos.
+4
+Operação
+integrada de
+documentos e
+softwares
+Com os aplicativos do teste anterior
+em execução, abrir documento de
+texto com imagens e tabelas, PDF de
+maior porte e apresentação. Realizar
+busca no PDF, editar e salvar
+documento, abrir apresentação e
+exportar documento para PDF.
+ATENDE se os
+comandos ordinários
+responderem em até 10
+segundos e a
+exportação para PDF for
+concluída em até 30
+segundos, sem erro ou
+perda de conteúdo.
+NÃO ATENDE se houver falha
+de abertura, edição, busca,
+salvamento ou exportação;
+perda de conteúdo;
+encerramento inesperado; ou
+extrapolação dos tempos
+definidos.
+5
+Desempenho da
+interface de rede
+cabeada
+Conectar o equipamento à
+infraestrutura de teste previamente
+validada e executar 3 (três) medições
+com ferramenta padronizada de
+tráfego local, como iperf3 ou
+equivalente, contra servidor
+controlado pela equipe de TI.
+Para interface Gigabit,
+ATENDE se a média
+das 3 medições
+alcançar ao menos 800
+Mbps e não houver
+interrupção da conexão.
+Para outra velocidade
+exigida no TR, será
+aplicado parâmetro
+proporcional
+previamente divulgado.
+NÃO ATENDE se a interface
+não negociar a velocidade
+prevista; a média ficar abaixo
+do mínimo; ocorrer perda
+recorrente de conexão ou falha
+de comunicação atribuível ao
+equipamento.
+6
+Transferência e
+integridade de
+arquivo
+Transferir arquivo padronizado de 5
+GB do servidor local da Administração
+para o equipamento e, em seguida, do
+equipamento para o servidor. Calcular
+o hash SHA-256 do arquivo de origem
+e das cópias resultantes.
+ATENDE se as duas
+transferências forem
+concluídas
+integralmente, sem
+interrupção, e os hashes
+SHA-256 forem
+idênticos aos do arquivo
+de origem.
+NÃO ATENDE se a
+transferência falhar ou for
+interrompida, o arquivo não
+puder ser lido após a cópia ou
+houver divergência entre os
+hashes de origem e destino.
+7 Proteção antivírus
+em tempo real
+Com a solução antivírus ofertada ativa
+e atualizada, utilizar o arquivo-padrão
+EICAR, destinado especificamente ao
+teste seguro de soluções antimalware,
+observando a resposta da proteção
+em tempo real.
+ATENDE se a solução
+detectar, bloquear ou
+colocar em quarentena
+o arquivo EICAR em até
+10 segundos e houver
+registro do evento na
+solução de proteção.
+NÃO ATENDE se o arquivo
+não for detectado; permanecer
+disponível sem ação da
+proteção; a proteção em tempo
+real estiver desabilitada; ou
+não houver registro verificável
+do tratamento do evento.
+8 Estabilidade sob
+carga controlada
+Executar ferramenta de carga
+previamente definida pela
+Administração, incidindo sobre CPU e
+memória durante 20 minutos,
+mantendo o sistema operacional e a
+solução antivírus ativos. Ao final,
+realizar operação normal de abertura
+e salvamento de arquivo.
+ATENDE se o
+equipamento concluir os
+20 minutos sem erro
+crítico e permanecer
+operacional ao final,
+sem necessidade de
+reinicialização.
+NÃO ATENDE se ocorrer tela
+azul, reinicialização,
+desligamento, congelamento
+do sistema, erro crítico de
+hardware, interrupção por
+instabilidade ou necessidade
+de reinicialização para retorno
+à operação normal.
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 - Vila Clélia - CEP: 16.401-350 - Lins/SP - Fone/Fax (14)
+3533-4275
+CNPJ 44.531.788/0001-38 - E-mail: sena@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ db066a200c175316c4820e28ea79d4d059e8c9defb87ed9186b774388eeab002
+Link de validação:
+ https://valida.ae/f3edcd58f8dc776a5dd0311866a1ac97cf1af6fd4a56e3e8a
+Validador
+
+--- [pag. PDF 40] ---
+5
+PREFEITURA MUNICIPAL DE LINS
+ESTADO DE SÃO PAULO
+SECRETARIA DE ADMINISTRAÇÃO
+______
+Nº TESTE /
+REQUISITO PROCEDIMENTO OBJETIVO CRITÉRIO DE
+APROVAÇÃO CENÁRIOS DE REPROVAÇÃO
+9
+Compatibilidade
+com o ambiente
+corporativo
+Em ambiente de teste da
+Administração, realizar os
+procedimentos corporativos
+previamente informados, tais como
+ingresso em domínio ou solução de
+gerenciamento, reinicialização,
+autenticação de usuário de teste e
+aplicação das políticas previstas.
+ATENDE se o ingresso
+ou registro, a
+autenticação e a
+aplicação das políticas
+previamente definidas
+forem concluídos sem
+erro impeditivo atribuível
+à estação.
+NÃO ATENDE se houver
+impossibilidade de ingresso ou
+registro, falha de autenticação
+atribuível ao equipamento, não
+aplicação das políticas
+previstas ou incompatibilidade
+impeditiva de driver ou
+software.
+10
+Operação
+simultânea com
+periféricos
+Conectar os periféricos previstos para
+o uso cotidiano da Administração,
+quando aplicáveis à configuração
+avaliada, incluindo monitores, teclado,
+mouse, headset ou webcam,
+dispositivo USB e impressora de rede.
+Utilizá-los simultaneamente e reiniciar
+a estação.
+ATENDE se todos os
+periféricos aplicáveis
+forem reconhecidos e
+permanecerem
+operacionais antes e
+depois da
+reinicialização, sem
+intervenção
+extraordinária.
+NÃO ATENDE se qualquer
+periférico obrigatório deixar de
+ser reconhecido, perder
+conexão de forma recorrente,
+apresentar incompatibilidade
+impeditiva de driver ou deixar
+de funcionar após a
+reinicialização.
+Observação 1. Os testes somente serão aplicados quando pertinentes à configuração ofertada e às
+funcionalidades exigidas no Termo de Referência.
+Observação 2. A equipe de TI deverá validar previamente o servidor, a rede, os periféricos e as
+ferramentas empregados na avaliação, registrando eventual condição que possa interferir no resultado.
+Observação 3. As medições e os resultados deverão integrar o relatório da Comissão Técnica,
+juntamente com o link da pasta eletrônica contendo as evidências produzidas.
+Prefeitura Municipal de Lins
+Avenida Nicolau Zarvos, 754 - Vila Clélia - CEP: 16.401-350 - Lins/SP - Fone/Fax (14)
+3533-4275
+CNPJ 44.531.788/0001-38 - E-mail: sena@lins.sp.gov.br Home Page: www.lins.sp.gov.br
+Assinado eletronicamente por
+Fabiano Cristian Oliveira
+Data: 26/08/2026 09:10
+#6792707ba14611f1818d42010a2b6021
+SIGNATÁRIO
+Assinado eletronicamente por
+Luiz Henrique Paiva da Silva
+Data: 26/08/2026 09:05
+#679ce74ea14611f1818d42010a2b6021
+SIGNATÁRIO
+Assinado eletronicamente por
+João Pedro Vicente da Silva
+Data: 26/08/2026 09:06
+#67ac7ffca14611f1818d42010a2b6021
+SIGNATÁRIO
+Assinado com Assinatura Eletrônica (Lei 14.063/2020 | Regulamento 910/2014/EC)
+	Hash SHA256 do original:
+ db066a200c175316c4820e28ea79d4d059e8c9defb87ed9186b774388eeab002
+Link de validação:
+ https://valida.ae/f3edcd58f8dc776a5dd0311866a1ac97cf1af6fd4a56e3e8a
+Validador

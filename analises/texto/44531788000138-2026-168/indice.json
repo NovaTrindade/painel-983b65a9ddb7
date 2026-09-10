@@ -1,0 +1,114 @@
+{
+ "id": "44531788000138-2026-168",
+ "extraidoEm": "2026-09-10T19:56:51.826Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/44531788000138/2026/168",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-PE-083-2026-CONTRATACAO-DE-EMPRESA-ESPECIALIZADA-PARA.txt",
+   "titulo": "EDITAL PE 083-2026 -CONTRATACAO DE EMPRESA ESPECIALIZADA PARA LOCACAO DE ATIVOS DE",
+   "tipo": "Edital",
+   "paginas": 22,
+   "caracteres": 67403
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ANEXO-III-MINUTA-DE-CONTRATO.txt",
+   "titulo": "ANEXO III - MINUTA DE CONTRATO",
+   "tipo": "Minuta do Contrato",
+   "paginas": 19,
+   "caracteres": 63637
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-ANEXO-I-TERMO-DE-REFERENCIA.txt",
+   "titulo": "ANEXO I - TERMO DE REFERENCIA",
+   "tipo": "Termo de Referência",
+   "paginas": 29,
+   "caracteres": 78728
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ANEXO-II-ESTUDO-TECNICO-PRELIMINAR.txt",
+   "titulo": "ANEXO II - ESTUDO TECNICO PRELIMINAR",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 23,
+   "caracteres": 68638
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-ANEXOS-IV-XI.txt",
+   "titulo": "ANEXOS IV - XI",
+   "tipo": "Outros Documentos",
+   "paginas": 9,
+   "caracteres": 16884
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-MAPA-DE-COTACAO.txt",
+   "titulo": "MAPA DE COTAÇÃO",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 4817
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-PARECER-JURIDICO.txt",
+   "titulo": "PARECER JURIDICO",
+   "tipo": "Outros Documentos",
+   "paginas": 5,
+   "caracteres": 13968
+  },
+  {
+   "ordem": 8,
+   "arquivo": "08-Autorizo-publicar-PE-083-2026-CONTRATACAO-DE-EMPRESA-ESPECIA.txt",
+   "titulo": "Autorizo publicar - PE 083-2026 -CONTRATACAO DE EMPRESA ESPECIALIZADA PARA LOCACAO",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1355
+  },
+  {
+   "ordem": 9,
+   "arquivo": "09-APENDICES.txt",
+   "titulo": "APENDICES",
+   "tipo": "Outros Documentos",
+   "paginas": 40,
+   "caracteres": 115815
+  },
+  {
+   "ordem": 10,
+   "arquivo": "10-ABERTURA-DOM.txt",
+   "titulo": "ABERTURA DOM",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 4843
+  },
+  {
+   "ordem": 11,
+   "arquivo": "11-ABERTURA-PHABRICA.txt",
+   "titulo": "ABERTURA PHABRICA",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 35420
+  },
+  {
+   "ordem": 12,
+   "arquivo": "12-RESPOSTA-Esclarecimentos-083-2026-MUNICIPIO-DE-LINS-BLLCOMPR.txt",
+   "titulo": "RESPOSTA - Esclarecimentos 083_2026 MUNICIPIO DE LINS - BLLCOMPRAS",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 802
+  },
+  {
+   "ordem": 13,
+   "arquivo": "13-REVOGACAO-DOM.txt",
+   "titulo": "REVOGACAO DOM",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 4264
+  }
+ ],
+ "totalPaginas": 155,
+ "totalCaracteres": 476574,
+ "comErro": 0
+}
