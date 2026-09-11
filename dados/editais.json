@@ -1,18 +1,18 @@
 {
- "gerado": "2026-09-10T05:15:25.468Z",
- "referencia": "2026-09-10",
+ "gerado": "2026-09-11T05:16:50.109Z",
+ "referencia": "2026-09-11",
  "criterioVersao": 3,
  "execucao": {
-  "universoAberto": 2928,
-  "descartados": 2896,
-  "candidatos": 32,
-  "itensObtidos": 32,
+  "universoAberto": 2924,
+  "descartados": 2893,
+  "candidatos": 31,
+  "itensObtidos": 31,
   "itensFalhou": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 642,
-    "novos": 632,
+    "total": 641,
+    "novos": 630,
     "paginasOk": 13,
     "paginasFalhas": 0,
     "parcial": false,
@@ -21,8 +21,8 @@
    },
    {
     "consulta": "gestao municipal",
-    "total": 779,
-    "novos": 336,
+    "total": 754,
+    "novos": 337,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -31,8 +31,8 @@
    },
    {
     "consulta": "sistema integrado",
-    "total": 1759,
-    "novos": 534,
+    "total": 1762,
+    "novos": 526,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -41,8 +41,8 @@
    },
    {
     "consulta": "licenciamento uso",
-    "total": 234,
-    "novos": 151,
+    "total": 230,
+    "novos": 153,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -52,7 +52,7 @@
    {
     "consulta": "software gestao",
     "total": 211,
-    "novos": 39,
+    "novos": 42,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -61,9 +61,9 @@
    },
    {
     "consulta": "locacao software",
-    "total": 200,
-    "novos": 95,
-    "paginasOk": 5,
+    "total": 189,
+    "novos": 91,
+    "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -71,8 +71,8 @@
    },
    {
     "consulta": "cessao uso",
-    "total": 125,
-    "novos": 67,
+    "total": 126,
+    "novos": 66,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -81,8 +81,8 @@
    },
    {
     "consulta": "arrecadacao",
-    "total": 298,
-    "novos": 247,
+    "total": 296,
+    "novos": 249,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -92,7 +92,7 @@
    {
     "consulta": "tributaria",
     "total": 309,
-    "novos": 73,
+    "novos": 78,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,8 +101,8 @@
    },
    {
     "consulta": "folha pagamento",
-    "total": 272,
-    "novos": 200,
+    "total": 271,
+    "novos": 199,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -111,7 +111,7 @@
    },
    {
     "consulta": "gestao educacional",
-    "total": 61,
+    "total": 59,
     "novos": 7,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -121,8 +121,8 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 135,
-    "novos": 20,
+    "total": 134,
+    "novos": 19,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -131,8 +131,8 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 911,
-    "novos": 506,
+    "total": 921,
+    "novos": 508,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -141,8 +141,8 @@
    },
    {
     "consulta": "conversao dados",
-    "total": 90,
-    "novos": 21,
+    "total": 89,
+    "novos": 19,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -155,16 +155,16 @@
   "paginasPerdidas": 0,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 5.5
+  "minutosBusca": 6.9
  },
  "resumo": {
-  "total": 32,
+  "total": 31,
   "prioridade": 2,
   "avaliar": 1,
-  "triar": 29,
+  "triar": 28,
   "urgentes7d": 8,
-  "valorTotal": 18513913.45,
-  "valorUrgentes": 5446167.17,
+  "valorTotal": 18323500.33,
+  "valorUrgentes": 5369639.34,
   "suspeitos": 6
  },
  "editais": [
@@ -176,7 +176,7 @@
    "objeto": "[LICITANET] - “Contratação de empresa especializada em Tecnologia da\nInformação para locação de licença de direito de uso não permanente\nde Sistema Integrado de Gestão Pública, em plataforma/arquitetura\nWEB, incluindo implantação, migração e conversão de dados,\ntreinamento, manutenção, suporte técnico, atualizações e demais\nserviços correlatos, para atender à Prefeitura Municipal, Câmara\nMunicipal e SAAE de Bela Vista/MS, conforme especificações do Termo\nde Referência”.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-22T08:30",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 292799.76,
    "qtdItens": 10,
    "modulos": [
@@ -204,7 +204,7 @@
    "objeto": "Contratação de empresa especializada na prestação de serviços continuados de disponibilização de solução tecnológica integrada de gestão pública, em ambiente web, no modelo SaaS – Software as a Service, mediante cessão temporária de direito de uso, sem limitação de usuários cadastrados ou simultâneos, incluindo hospedagem em nuvem, implantação, parametrização, migração e conversão das bases de dados, treinamento, operação assistida, suporte técnico, manutenção e atualização",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-23T08:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 196757.66,
    "qtdItens": 7,
    "modulos": [
@@ -235,7 +235,7 @@
    "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE SISTEMA WEB INTEGRADO DE GESTÃO PÚBLICA MUNICIPAL, EM AMBIENTE DE COMPUTAÇÃO EM NUVEM, CONTEMPLANDO SERVIÇOS DE IMPLANTAÇÃO, MANUTENÇÃO (CORRETIVA, ADAPTATIVA E EVOLUTIVA), SUPORTE TÉCNICO, TREINAMENTO DE SERVIDORES, BEM COMO ARMAZENAMENTO E SEGURANÇA DA INFORMAÇÃO, ATENDENDO DEMANDA DO MUNÍCIPIO DE CAMPOS NOVOS.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-25T00:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 216044.88,
    "qtdItens": 10,
    "modulos": [
@@ -254,30 +254,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/82939232000174/2026/333"
   },
   {
-   "id": "11222421000183-2026-15",
-   "orgao": "FUNDO MUNICIPAL DE SAUDE",
-   "municipio": "Balneário Arroio do Silva",
-   "uf": "SC",
-   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada em fornecimento de plataforma WEB com solução informatizada de Gestão Pública Municipal, com armazenamento em nuvem por conta da contratada e número de usuários ilimitados, incluindo os serviços de conversão de dados, implantação, treinamento, manutenção legal, corretiva e evolutiva, bem como suporte técnico, em atendimento das necessidades da Prefeitura Municipal, Fundo Municipal de Saúde e Samae de Balneário Arroio do Silva/SC, conforme especificações constantes do Anexo I - Termo de Referência que integra este edital.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-10T13:59",
-   "diasRestantes": 1,
-   "valorEstimado": 190413.12,
-   "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "implantacao",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 54,
-   "score": 74,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/11222421000183/2026/15"
-  },
-  {
    "id": "24996969000122-2026-93",
    "orgao": "MUNICIPIO DE SETE LAGOAS",
    "municipio": "Sete Lagoas",
@@ -285,7 +261,7 @@
    "objeto": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ATUALIZAÇÃO, MIGRAÇÃO, CUSTOMIZAÇÃO, CAPACITAÇÃO, MANUTENÇÃO E SUPORTE MENSAL NO SOFTWARE DE GESTÃO PÚBLICO E-CIDADE PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E TECNOLOGIA DA INFORMAÇÃO (SMATI),",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-11T08:30",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 3551666.67,
    "qtdItens": 1,
    "modulos": [
@@ -306,7 +282,7 @@
    "objeto": "Desenvolvimento de software para implantação de sistema integrado de gestão pública para atendimento das áreas de finanças, tributos, gestão de pessoas e administrativa pertinentes à esfera municipal, com acesso ilimitado de usuários.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-23T08:10",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 774517.2,
    "qtdItens": 10,
    "modulos": [
@@ -328,7 +304,7 @@
    "objeto": "Contratação de empresa especializada para disponibilização de solução tecnológica integrada de gestão educacional, na modalidade SaaS – Software como Serviço, destinada ao atendimento das necessidades da Secretaria Municipal da Educação e Cultura de Jacobina/BA",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-23T08:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 169964.82,
    "qtdItens": 3,
    "modulos": [
@@ -345,6 +321,69 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/14197586000130/2026/145"
   },
   {
+   "id": "19875020000134-2026-84",
+   "orgao": "MUNICIPIO DE TIMOTEO",
+   "municipio": "Timóteo",
+   "uf": "MG",
+   "objeto": "prestação de serviços por pessoa jurídica especializada em soluções de software em plataforma Web, visando a disponibilização de um Ecossistema de Gestão Pública Integrada (ERP), de acordo com as exigências estabelecidas no Termo de Referência e demais anexos deste Edital",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-25T13:00",
+   "diasRestantes": 15,
+   "valorEstimado": 3487687.27,
+   "qtdItens": 1,
+   "modulos": [
+    "gestao publica",
+    "erp",
+    "software"
+   ],
+   "ader": 40,
+   "score": 64,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/19875020000134/2026/84"
+  },
+  {
+   "id": "19875020000134-2026-85",
+   "orgao": "MUNICIPIO DE TIMOTEO",
+   "municipio": "Timóteo",
+   "uf": "MG",
+   "objeto": "prestação de serviços por pessoa jurídica especializada em soluções de software em plataforma Web, visando a disponibilização de um Ecossistema de Gestão Pública Integrada (ERP), de acordo com as exigências estabelecidas no Termo de Referência e demais anexos deste Edital",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-25T13:00",
+   "diasRestantes": 15,
+   "valorEstimado": 3487687.27,
+   "qtdItens": 1,
+   "modulos": [
+    "gestao publica",
+    "erp",
+    "software"
+   ],
+   "ader": 40,
+   "score": 64,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/19875020000134/2026/85"
+  },
+  {
+   "id": "14195358000121-2026-81",
+   "orgao": "MUNICIPIO DE GANDU",
+   "municipio": "Gandu",
+   "uf": "BA",
+   "objeto": "[LICITANET] - Eventual contratação de empresa especializada na prestação de serviços de sistema integrado de informática destinado a informatização do sistema de gestão educacional para a Secretaria Municipal de Educação",
+   "modalidade": "Pregão - Eletrônico",
+   "fimVigencia": "2026-09-18T09:00",
+   "diasRestantes": 7,
+   "valorEstimado": 113885.29,
+   "qtdItens": 1,
+   "modulos": [
+    "sistema integrado",
+    "gestao educacional",
+    "educacional"
+   ],
+   "ader": 44,
+   "score": 64,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/14195358000121/2026/81"
+  },
+  {
    "id": "39467292000102-2026-66",
    "orgao": "SECRETARIA DE GESTAO E GOVERNO DIGITAL",
    "municipio": "São Paulo",
@@ -352,7 +391,7 @@
    "objeto": "Contratação de plataforma de Software de Gestão de Recursos Humanos (HCM), na modalidade Software as a Service (SaaS), pelo prazo de 60 (sessenta) meses, incluindo os serviços de implantação e parametrização, migração de dados, treinamento dos usuários, suporte técnico, manutenção, atualização, hospedagem e evolução da solução.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-23T10:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 1521261.52,
    "qtdItens": 1,
    "modulos": [
@@ -377,7 +416,7 @@
    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE CONSULTORIA E ASSESSORIA TRIBUTÁRIA MUNICIPAL, COMPREENDENDO O APOIO TÉCNICO À APURAÇÃO, AO MONITORAMENTO E AO ACOMPANHAMENTO DO VALOR ADICIONADO FISCAL – VAF, COM UTILIZAÇÃO DE SOLUÇÃO TECNOLÓGICA PARA LEITURA E PROCESSAMENTO DE INFORMAÇÕES FISCAIS, BEM COMO O SUPORTE À GESTÃO, AO PLANEJAMENTO E AOS PROCEDIMENTOS ADMINISTRATIVOS DE FISCALIZAÇÃO E ARRECADAÇÃO DOS TRIBUTOS DE COMPETÊNCIA DO MUNICÍPIO...",
    "modalidade": "Concorrência - Eletrônica",
    "fimVigencia": "2026-09-22T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 168588,
    "qtdItens": 2,
    "modulos": [
@@ -397,7 +436,7 @@
    "objeto": "Contratação de empresa especializada para implantação de sistema integrado de arrecadação e data center (servidor em nuvem), para atender às necessidades da Secretaria Municipal de Gestão e Orçamento de Coelho Neto – MA.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-21T07:59",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 29127.6,
    "qtdItens": 1,
    "modulos": [
@@ -412,67 +451,28 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/05281738000198/2026/102"
   },
   {
-   "id": "19875020000134-2026-84",
-   "orgao": "MUNICIPIO DE TIMOTEO",
-   "municipio": "Timóteo",
-   "uf": "MG",
-   "objeto": "prestação de serviços por pessoa jurídica especializada em soluções de software em plataforma Web, visando a disponibilização de um Ecossistema de Gestão Pública Integrada (ERP), de acordo com as exigências estabelecidas no Termo de Referência e demais anexos deste Edital",
+   "id": "91618439000138-2026-854",
+   "orgao": "MUNICIPIO DE NOVA PRATA",
+   "municipio": "Nova Prata",
+   "uf": "RS",
+   "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SOFTWARE PARA SISTEMAS DE GESTÃO PÚBLICA, COM IMPLANTAÇÃO, LOCAÇÃO, MIGRAÇÃO DE DADOS, SUPORTE TÉCNICO E ACOMPANHAMENTO PERMANENTE E LICENCIAMENTO DE PROGRAMAS PARA A PREFEITURA MUNICIPAL DE NOVA PRATA/RS, CÂMARA DE VEREADORES DE NOVA PRATA/RS, INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS MUNICIPAIS DE NOVA PRATA/RS.",
    "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-25T13:00",
-   "diasRestantes": 16,
-   "valorEstimado": 3487687.27,
-   "qtdItens": 1,
+   "fimVigencia": "2026-09-14T08:55",
+   "diasRestantes": 3,
+   "valorEstimado": 274618.2,
+   "qtdItens": 10,
    "modulos": [
     "gestao publica",
-    "erp",
-    "software"
+    "implantacao",
+    "migracao",
+    "almoxarifado",
+    "software",
+    "suporte tecnico"
    ],
-   "ader": 40,
-   "score": 59,
+   "ader": 12,
+   "score": 55,
    "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/19875020000134/2026/84"
-  },
-  {
-   "id": "19875020000134-2026-85",
-   "orgao": "MUNICIPIO DE TIMOTEO",
-   "municipio": "Timóteo",
-   "uf": "MG",
-   "objeto": "prestação de serviços por pessoa jurídica especializada em soluções de software em plataforma Web, visando a disponibilização de um Ecossistema de Gestão Pública Integrada (ERP), de acordo com as exigências estabelecidas no Termo de Referência e demais anexos deste Edital",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-25T13:00",
-   "diasRestantes": 16,
-   "valorEstimado": 3487687.27,
-   "qtdItens": 1,
-   "modulos": [
-    "gestao publica",
-    "erp",
-    "software"
-   ],
-   "ader": 40,
-   "score": 59,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/19875020000134/2026/85"
-  },
-  {
-   "id": "14195358000121-2026-81",
-   "orgao": "MUNICIPIO DE GANDU",
-   "municipio": "Gandu",
-   "uf": "BA",
-   "objeto": "[LICITANET] - Eventual contratação de empresa especializada na prestação de serviços de sistema integrado de informática destinado a informatização do sistema de gestão educacional para a Secretaria Municipal de Educação",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-18T09:00",
-   "diasRestantes": 8,
-   "valorEstimado": 113885.29,
-   "qtdItens": 1,
-   "modulos": [
-    "sistema integrado",
-    "gestao educacional",
-    "educacional"
-   ],
-   "ader": 44,
-   "score": 59,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/14195358000121/2026/81"
+   "pncpUrl": "https://pncp.gov.br/app/editais/91618439000138/2026/854"
   },
   {
    "id": "13646005000138-2025-223",
@@ -482,7 +482,7 @@
    "objeto": "CREDENCIAMENTO DE INSTITUIÇÕES FINANCEIRAS PARA QUE EM NOME E POR CONTA DO MUNICÍPIO DE ALAGOINHAS-BA, REALIZEM O RECEBIMENTO DOS TRIBUTOS E DEMAIS RECEITAS MUNICIPAIS, TRIBUTÁRIAS OU NÃO, ATRAVÉS DE DOCUMENTOS DE ARRECADAÇÃO EMITIDOS OBRIGATORIAMENTE EM PADRÃO FEBRABAN E/OU QR CODE PIX, COM PRESTAÇÃO DE CONTAS POR MEIO MAGNÉTICO DOS VALORES ARRECADADOS.",
    "modalidade": "Credenciamento",
    "fimVigencia": "2026-10-31T13:00",
-   "diasRestantes": 52,
+   "diasRestantes": 51,
    "valorEstimado": 644940,
    "qtdItens": 2,
    "modulos": [
@@ -495,30 +495,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/13646005000138/2025/223"
   },
   {
-   "id": "91618439000138-2026-854",
-   "orgao": "MUNICIPIO DE NOVA PRATA",
-   "municipio": "Nova Prata",
-   "uf": "RS",
-   "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SOFTWARE PARA SISTEMAS DE GESTÃO PÚBLICA, COM IMPLANTAÇÃO, LOCAÇÃO, MIGRAÇÃO DE DADOS, SUPORTE TÉCNICO E ACOMPANHAMENTO PERMANENTE E LICENCIAMENTO DE PROGRAMAS PARA A PREFEITURA MUNICIPAL DE NOVA PRATA/RS, CÂMARA DE VEREADORES DE NOVA PRATA/RS, INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS MUNICIPAIS DE NOVA PRATA/RS.",
-   "modalidade": "Pregão - Eletrônico",
-   "fimVigencia": "2026-09-14T08:55",
-   "diasRestantes": 4,
-   "valorEstimado": 274618.2,
-   "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "implantacao",
-    "migracao",
-    "almoxarifado",
-    "software",
-    "suporte tecnico"
-   ],
-   "ader": 12,
-   "score": 52,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/91618439000138/2026/854"
-  },
-  {
    "id": "94309291000148-2026-175",
    "orgao": "MUNICIPIO DE NOVA SANTA RITA",
    "municipio": "Nova Santa Rita",
@@ -526,7 +502,7 @@
    "objeto": "Constitui objeto da presente licitação a contratação de empresa especializada para prestação de serviços técnicos de modernização cadastral, territorial e tributária, mediante implantação, licenciamento e operacionalização de Sistema de Informação Geográfica - SIGWEB, em ambiente web e integrado às bases municipais, contemplando serviços de aerolevantamento, aerofotogrametria, imageamento terrestre, atualização cadastral imobiliária urbana e rural, georreferenciamento, revisão da Planta Genérica de Valores - PGV, integração de bases de dados, suporte técnico, manutenção e treinamento, destinados à modernização da gestão territorial, tributária e fiscal do Município de Nova Santa Rita/RS.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-11T09:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 580941.51,
    "qtdItens": 7,
    "modulos": [
@@ -550,7 +526,7 @@
    "objeto": "Constitui objeto da presente licitação a contratação de empresa especializada para prestação de serviços técnicos de modernização cadastral, territorial e tributária, mediante implantação, licenciamento e operacionalização de Sistema de Informação Geográfica - SIGWEB, em ambiente web e integrado às bases municipais, contemplando serviços de aerolevantamento, aerofotogrametria, imageamento terrestre, atualização cadastral imobiliária urbana e rural, georreferenciamento, revisão da Planta Genérica de Valores - PGV, integração de bases de dados, suporte técnico, manutenção e treinamento, destinados à modernização da gestão territorial, tributária e fiscal do Município de Nova Santa Rita/RS.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-11T09:01",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 580941.46,
    "qtdItens": 7,
    "modulos": [
@@ -574,7 +550,7 @@
    "objeto": "A presente licitação tem por objeto a CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA LOCAÇÃO DE LICENÇA DE DIREITO DE USO DE SISTEMA WEB DE GESTÃO PÚBLICA DESTINADO A SECRETARIA MUNICIPAL DE SAÚDE E SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE QUEDAS DO IGUAÇU, ESTADO DO PARANÁ, INCLUINDO OS SERVIÇOS DE IMPLANTAÇÃO, MIGRAÇÃO DE DADOS, HOSPEDAGEM, MANUTENÇÕES, ATUALIZAÇÕES, TREINAMENTO E SUPORTE TÉCNICO, conforme especificações e condições estabelecidas neste Edital e seus anexos.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-17T08:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 267586.21,
    "qtdItens": 10,
    "modulos": [
@@ -597,7 +573,7 @@
    "objeto": "contratação de solução tecnológica de gestão de frequência escolar e de informações gerenciais educacionais, em modelo de software como serviço (SaaS) ou equivalente, compreendendo a disponibilização, implantação, configuração, operação assistida, capacitação, suporte técnico, manutenção e atualização da plataforma, com geração de indicadores gerenciais agregados para apoio à gestão educacional municipal",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-15T08:50",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -622,7 +598,7 @@
    "objeto": "Contratação de empresa especializada em Consultoria Técnica Tributária, operacionalização do sistema tributário (software) e capacitação dos fiscais municipais para melhoria da arrecadação interna dos tributos, mediante aplicação da metodologia \"Como Aumentar a Arrecadação Interna Municipal\", da Fundação Getúlio Vargas – FGV.",
    "modalidade": "Dispensa",
    "fimVigencia": "2026-09-14T14:00",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -643,7 +619,7 @@
    "objeto": "Registro de Preços para Contratação de empresa especializada para o fornecimento de solução integrada de software de gestão pública, na modalidade SaaS – Software as a Service (ambiente web), com acesso simultâneo ilimitado de usuários e hospedagem em nuvem, incluindo os serviços correlatos de implantação, migração de dados, parametrização, treinamento, suporte técnico e manutenção corretiva, legal e evolutiva, destinada a atender às demandas administrativas, contábeis, financeiras, patrimoniais",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-23T10:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 1045666.86,
    "qtdItens": 10,
    "modulos": [
@@ -669,7 +645,7 @@
    "objeto": "Contratação de empresa especializada na prestação de serviços técnicos integrados de diagnóstico, estruturação, atualização e consolidação de bases e instrumentos de gestão territorial, cadastral e tributária, destinados à modernização da gestão municipal, incluindo a implantação do Cadastro Territorial Multifinalitário (CTM) e de soluções tecnológicas de apoio à gestão territorial e tributária, conforme condições e especificações a serem definidas no Estudo Técnico Preliminar e no Termo de Refe",
    "modalidade": "Concorrência - Eletrônica",
    "fimVigencia": "2026-10-22T08:59",
-   "diasRestantes": 42,
+   "diasRestantes": 41,
    "valorEstimado": 618816.91,
    "qtdItens": 10,
    "modulos": [
@@ -690,7 +666,7 @@
    "objeto": "Contratação de Instituição Financeira Pública ou Privada, inclusive sob a forma de Cooperativa de Crédito, autorizada a funcionar pelo Banco Central do Brasil, para a prestação de serviços de centralização, processamento e gerenciamento, pelo período de 60 meses, de créditos da folha de pagamento dos servidores públicos ativos e inativos da administração direta e indireta do município de Esperança/PB a centralização da arrecadação das receitas municipais.",
    "modalidade": "Pregão - Eletrônico",
    "fimVigencia": "2026-09-22T09:30",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 300000,
    "qtdItens": 1,
    "modulos": [
@@ -710,7 +686,7 @@
    "objeto": "CREDENCIAMENTO de empresas ou instituições para implantação e gestão de soluções tecnológicas de integração de sistemas tributários/arrecadação do Município, possibilitando o pagamento de guias de arrecadação municipal por meio do uso de CARTÕES DE CRÉDITO, em atendimento a demanda da Secretaria Municipal de Administração e Finanças, nos termos do Termo de referência e demais anexos, e ainda, conforme condições e exigências estabelecidas neste instrumento.",
    "modalidade": "Credenciamento",
    "fimVigencia": "2027-05-18T17:00",
-   "diasRestantes": 251,
+   "diasRestantes": 250,
    "valorEstimado": 1,
    "qtdItens": 1,
    "modulos": [
@@ -733,7 +709,7 @@
    "objeto": "Credenciamento de empresa(s) ou instituições financeiras para implantação e gestão de solução(ões) tecnológica(s) de integração de sistemas tributários/arrecadação do município, possibilitando o pagamento de guias de arrecadação municipal por meio do uso de cartões de crédito, de forma à vista ou parcelada, visando oferecer aos contribuintes mais uma alternativa de pagamento.",
    "modalidade": "Credenciamento",
    "fimVigencia": "2030-12-30T00:00",
-   "diasRestantes": 1572,
+   "diasRestantes": 1571,
    "valorEstimado": 1,
    "qtdItens": 1,
    "modulos": [
@@ -757,7 +733,7 @@
    "objeto": "Credenciamento de empresas ou instituições para implantação e gestão de soluções tecnológicas de integração dos sistemas tributários e de arrecadação do Município de Guaramirim/SC, possibilitando o pagamento de guias de arrecadação municipal por meio de uso de cartões de crédito, de forma à vista ou\nparcelada, sem ônus financeiro para o Município.",
    "modalidade": "Credenciamento",
    "fimVigencia": "2027-05-03T17:00",
-   "diasRestantes": 236,
+   "diasRestantes": 235,
    "valorEstimado": 0.01,
    "qtdItens": 1,
    "modulos": [
@@ -773,30 +749,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83102475000116/2026/46"
   },
   {
-   "id": "83102756000179-2024-23",
-   "orgao": "MUNICIPIO DE RIO NEGRINHO",
-   "municipio": "Rio Negrinho",
-   "uf": "SC",
-   "objeto": "CREDENCIAMENTO DE EMPRESA(S) OU INSTITUIÇÃO(ÕES) PARA IMPLANTAÇÃO E GESTÃO DE SOLUÇÃO(ÕES) TECNOLÓGICA(S) DE INTEGRAÇÃO DE SISTEMAS TRIBUTÁRIOS/ARRECADAÇÃO DO MUNICÍPIO, POSSIBILITANDO O PAGAMENTO DE GUIAS DE ARRECADAÇÃO MUNICIPAL POR MEIO DO USO DE CARTÕES DE CRÉDITO, DE FORMA À VISTA OU PARCELADA, VISANDO OFERECER AOS CONTRIBUINTES MAIS UMA ALTERNATIVA DE PAGAMENTO, SEM ÔNUS PARA O MUNICÍPIO",
-   "modalidade": "Credenciamento",
-   "fimVigencia": "2030-04-01T11:20",
-   "diasRestantes": 1299,
-   "valorEstimado": 0.01,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 32,
-   "suspeito": [
-    "valor irrisorio",
-    "data de encerramento implausivel"
-   ],
-   "pncpUrl": "https://pncp.gov.br/app/editais/83102756000179/2024/23"
-  },
-  {
    "id": "83102574000106-2023-199",
    "orgao": "MUNICIPIO DE RIO DO SUL",
    "municipio": "Rio do Sul",
@@ -804,7 +756,7 @@
    "objeto": "CREDENCIAMENTO DE EMPRESAS OU INSTITUIÇÕES PARA IMPLANTAÇÃO E GESTÃO DE SOLUÇÕES TECNOLÓGICAS DE INTEGRAÇÃO DE SISTEMAS TRIBUTÁRIOS/ARRECADAÇÃO DO MUNICÍPIO, POSSIBILITANDO O PAGAMENTO DE GUIAS DE ARRECADAÇÃO MUNICIPAL POR MEIO DO USO DE CARTÕES DE CRÉDITO.",
    "modalidade": "Credenciamento",
    "fimVigencia": "2050-12-30T23:59",
-   "diasRestantes": 8878,
+   "diasRestantes": 8877,
    "valorEstimado": 0.01,
    "qtdItens": 1,
    "modulos": [
@@ -821,6 +773,30 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83102574000106/2023/199"
   },
   {
+   "id": "83102756000179-2024-23",
+   "orgao": "MUNICIPIO DE RIO NEGRINHO",
+   "municipio": "Rio Negrinho",
+   "uf": "SC",
+   "objeto": "CREDENCIAMENTO DE EMPRESA(S) OU INSTITUIÇÃO(ÕES) PARA IMPLANTAÇÃO E GESTÃO DE SOLUÇÃO(ÕES) TECNOLÓGICA(S) DE INTEGRAÇÃO DE SISTEMAS TRIBUTÁRIOS/ARRECADAÇÃO DO MUNICÍPIO, POSSIBILITANDO O PAGAMENTO DE GUIAS DE ARRECADAÇÃO MUNICIPAL POR MEIO DO USO DE CARTÕES DE CRÉDITO, DE FORMA À VISTA OU PARCELADA, VISANDO OFERECER AOS CONTRIBUINTES MAIS UMA ALTERNATIVA DE PAGAMENTO, SEM ÔNUS PARA O MUNICÍPIO",
+   "modalidade": "Credenciamento",
+   "fimVigencia": "2030-04-01T11:20",
+   "diasRestantes": 1298,
+   "valorEstimado": 0.01,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "tributar",
+    "implantacao"
+   ],
+   "ader": 58,
+   "score": 32,
+   "suspeito": [
+    "valor irrisorio",
+    "data de encerramento implausivel"
+   ],
+   "pncpUrl": "https://pncp.gov.br/app/editais/83102756000179/2024/23"
+  },
+  {
    "id": "88775390000112-2025-566",
    "orgao": "MUNICIPIO DE CRUZ ALTA",
    "municipio": "Cruz Alta",
@@ -828,7 +804,7 @@
    "objeto": "Contratação de empresa para implementação e gestão de solução tecnológica de integração de sistemas tributários/arrecadação Municipal, que possibilite o pagamento de guias de arrecadação por meio de cartões de crédito e débito, nas modalidades à vista e parcelada.",
    "modalidade": "Credenciamento",
    "fimVigencia": "2030-12-18T00:00",
-   "diasRestantes": 1560,
+   "diasRestantes": 1559,
    "valorEstimado": 0.1,
    "qtdItens": 1,
    "modulos": [
@@ -851,7 +827,7 @@
    "objeto": "Credenciamento de pessoa jurídica que atenda às demandas da arrecadação tributária estadual no sentido de tornar eficiente e seguro o procedimento de recolhimento da exação tributária",
    "modalidade": "Credenciamento",
    "fimVigencia": "2027-06-16T09:00",
-   "diasRestantes": 279,
+   "diasRestantes": 278,
    "valorEstimado": 1.24,
    "qtdItens": 1,
    "modulos": [
@@ -871,7 +847,7 @@
    "objeto": "[Portal de Compras Públicas] - Credenciamento de instituição financeira autorizada a funcionar pelo Banco Central do Brasil, com agência física instalada e em pleno funcionamento no Município de Riacho dos Machados/MG, para a prestação continuada dos serviços de gerenciamento e processamento da folha de pagamento dos servidores públicos municipais, agentes políticos, aposentados e pensionistas, sem ônus financeiro direto para o Município e para a arrecadação de tributos municipais, conforme condições, requisitos técnicos e operacionais estabelecidos no Termo de referência no Edital e demais documentos do processo.",
    "modalidade": "Credenciamento",
    "fimVigencia": "2027-09-08T23:59",
-   "diasRestantes": 364,
+   "diasRestantes": 363,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -891,7 +867,7 @@
    "objeto": "Credenciamento de empresas ou instituições para implantação e gestão de solução tecnológica de integração de sistemas tributários/arrecadação do município, possibilitando o pagamento de tributos e preços públicos municipais por meio do uso de cartões de crédito, de forma à vista ou parcelada, sem custos para o Município de Maripá/PR",
    "modalidade": "Credenciamento",
    "fimVigencia": "2027-02-04T15:55",
-   "diasRestantes": 148,
+   "diasRestantes": 147,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
