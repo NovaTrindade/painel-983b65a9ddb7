@@ -1,0 +1,26 @@
+{
+ "id": "18303156000107-2026-221",
+ "extraidoEm": "2026-09-11T11:33:47.333Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/18303156000107/2026/221",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL.txt",
+   "titulo": "EDITAL.pdf",
+   "tipo": "Edital",
+   "paginas": 75,
+   "caracteres": 231975
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-EDITAL-RETIFICADO-I.txt",
+   "titulo": "EDITAL-RETIFICADO I.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 75,
+   "caracteres": 231957
+  }
+ ],
+ "totalPaginas": 150,
+ "totalCaracteres": 463932,
+ "comErro": 0
+}

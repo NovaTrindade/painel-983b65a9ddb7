@@ -1,0 +1,42 @@
+{
+ "id": "07974082000114-2026-126",
+ "extraidoEm": "2026-09-11T11:34:11.389Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/07974082000114/2026/126",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-P-E-2026-07-21-1-Locao-de-Equip-de-Informtica-DIV.txt",
+   "titulo": "Edital__P_E_2026.07.21.1__Locao_de_Equip_de_Informtica__DIV",
+   "tipo": "Edital",
+   "paginas": 60,
+   "caracteres": 203929
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Edital-Convocatrio-PE-2026-07-21-1-Melhor-Resoluo.txt",
+   "titulo": "Edital_Convocatrio__PE_2026.07.21.1__Melhor_Resoluo",
+   "tipo": "Outros Documentos",
+   "paginas": 18,
+   "caracteres": 61618
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Termo-de-Referncia-PE-2026-07-21-1-Melhor-Resoluo.txt",
+   "titulo": "Termo_de_Referncia__PE_2026.07.21.1__Melhor_Resoluo",
+   "tipo": "Outros Documentos",
+   "paginas": 16,
+   "caracteres": 58300
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-Edital-retificado-P-E-2026-07-21-1-Locao-de-Equip-de-Informt.txt",
+   "titulo": "Edital_retificado_P_E_2026.07.21.1_Locao_de_Equip_de_Informtica__DIV",
+   "tipo": "Edital",
+   "paginas": 60,
+   "caracteres": 222312
+  }
+ ],
+ "totalPaginas": 154,
+ "totalCaracteres": 546159,
+ "comErro": 0
+}

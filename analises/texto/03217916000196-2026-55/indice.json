@@ -1,0 +1,35 @@
+{
+ "id": "03217916000196-2026-55",
+ "extraidoEm": "2026-09-11T11:34:42.799Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/03217916000196/2026/55",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-Sistema.txt",
+   "titulo": "Edital Sistema.pdf",
+   "tipo": "Edital",
+   "paginas": 41,
+   "caracteres": 86052
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-TR.txt",
+   "titulo": "TR--.pdf",
+   "tipo": "Edital",
+   "paginas": 82,
+   "caracteres": 235338
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Pre-Publicacao-da-Licitacao-000070.txt",
+   "titulo": "Pré Publicação da Licitação 000070.docx",
+   "tipo": "Edital",
+   "paginas": 0,
+   "caracteres": 415,
+   "aviso": "DOCX sem paginação: citar por seção, não por página"
+  }
+ ],
+ "totalPaginas": 123,
+ "totalCaracteres": 321805,
+ "comErro": 0
+}
