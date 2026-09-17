@@ -1,0 +1,1017 @@
+=== DOCUMENTO 40: Termo_de_Referencia_-_Contratacao_de_Solucao_PCaaS.pdf ===
+tipo: Termo de Referência | páginas: 19 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/40
+
+--- [pag. PDF 1] ---
+Termo de Referência - Solução PCaaS | Página 1 de 19
+TERMO DE REFERÊNCIA
+PRESTAÇÃO DE SERVIÇOS COMUNS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+Contratação de solução integrada de estações de trabalho como serviço (PCaaS), incluindo microcomputadores,
+notebooks, monitores, licenciamento, implantação, gestão do ciclo de vida, suporte e manutenção
+1 - DA DEFINIÇÃO DO OBJETO
+1.1 - Constitui objeto deste Termo de Referência a contratação de empresa especializada para a prestação
+contínua e sob demanda de solução integrada de estações de trabalho como serviço (PCaaS - PC as a
+Service), abrangendo a disponibilização e a gestão de microcomputadores, notebooks e monitores novos,
+com sistema operacional e pacote de escritório devidamente licenciados, bem como implantação,
+configuração, inventário, monitoramento operacional, suporte remoto e presencial, manutenção preventiva
+e corretiva, substituição de peças e equipamentos, continuidade operacional, atualização tecnológica
+autorizada, segurança da informação, proteção de dados pessoais, desmobilização e logística reversa,
+conforme as condições deste documento e de seus apêndices. Para fins de escopo, proposta, medição e
+pagamento, cada unidade de Microcomputador Tipo I e de Microcomputador Tipo II constitui conjunto
+funcional completo, formado por 1 (um) microcomputador, 1 (um) monitor e os periféricos e acessórios
+integrantes da respectiva configuração; cada Notebook corresponde à unidade completa prevista no
+Apêndice 1; e os 320 (trezentos e vinte) monitores adicionais constituem item autônomo, solicitado e
+faturado separadamente. A solução compreende ainda, se formalizada prorrogação que ultrapasse os 60
+(sessenta) meses iniciais, a renovação tecnológica condicionada e controlada dos Microcomputadores Tipo
+I, Microcomputadores Tipo II e Notebooks, sem descaracterização do modelo PCaaS.
+1.2 - ITENS DE CATALOGAÇÃO, UNIDADES DE MEDIÇÃO E QUANTITATIVOS
+ITEM CÓD. DESCRIÇÃO UN. QNT.
+01 023.0020
+6
+PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS - MICROCOMPUTADOR TIPO I,
+INCLUINDO 1 (UM) MONITOR, PERIFÉRICOS E SERVIÇOS ASSOCIADOS,
+CONFORME APÊNDICE 1.
+SV 01
+02 023.0020
+7
+PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS - MICROCOMPUTADOR TIPO II,
+INCLUINDO 1 (UM) MONITOR, PERIFÉRICOS E SERVIÇOS ASSOCIADOS,
+CONFORME APÊNDICE 1.
+SV 01
+03 043.0013
+0
+PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS - NOTEBOOK, INCLUINDO
+SERVIÇOS ASSOCIADOS, CONFORME APÊNDICE 1. SV 01
+04 043.0013
+1
+PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS - MONITOR ADICIONAL,
+INCLUINDO SERVIÇOS ASSOCIADOS, CONFORME APÊNDICE 1. SV 01
+1.2.1 - QUANTITATIVO CONSOLIDADO DE EQUIPAMENTOS
+ITEM DESCRIÇÃO QTD
+01 Microcomputador Tipo I, incluindo 1 (um) monitor, periféricos, Sistema Operacional e pacote de
+programas (planilhas, texto e apresentação) 2.299
+02 Microcomputador Tipo II, incluindo 1 (um) monitor, periféricos, Sistema Operacional e pacote de
+programas (planilhas, texto e apresentação) 403
+03 Notebooks com Sistema Operacional e pacote de programas (planilhas, texto e apresentação) 155
+04 Monitor adicional com tela mínima de 21 polegadas 320
+1.2.2 - A unidade SV e a quantidade 01 indicadas na tabela de catalogação serão mantidas exclusivamente
+para identificação no catálogo e não substituem os quantitativos físicos da solução. Sem alteração dos
+códigos e das unidades SV do catálogo, a unidade contratual de medição e faturamento será o item
+PCaaS/mês, apurado por unidade efetivamente instalada, recebida, aceita e ativa, com
+proporcionalidade por dias corridos nas hipóteses do item 7.2.2. Para os Microcomputadores Tipo I e
+Tipo II, cada item PCaaS/mês corresponderá ao conjunto funcional completo formado por 1 (um)
+microcomputador, 1 (um) monitor e os periféricos e acessórios integrantes da configuração; para o
+Notebook, corresponderá a 1 (uma) unidade completa, incluindo os acessórios obrigatórios; e, para o
+Monitor Adicional, corresponderá a 1 (um) monitor solicitado e faturado separadamente. Para formação
+
+--- [pag. PDF 2] ---
+Termo de Referência - Solução PCaaS | Página 2 de 19
+da proposta, execução, medição e pagamento, serão considerados os quantitativos consolidados do item
+1.2.1 e o detalhamento do Apêndice 2.
+1.2.3 - A planilha de proposta deverá apresentar, para cada tipo de equipamento, o preço mensal unitário, a
+quantidade máxima, o subtotal mensal máximo e o subtotal para 60 (sessenta) meses, além do valor
+global do grupo único. Nenhum preço unitário poderá superar o respectivo valor máximo aceitável,
+vedada a compensação de item acima do limite por desconto oferecido em outro item.
+1.3 - Os serviços são classificados como comuns e contínuos de tecnologia da informação e comunicação,
+sem dedicação exclusiva de mão de obra, pois seus padrões de desempenho e qualidade podem ser
+objetivamente definidos por especificações usuais de mercado, indicadores e critérios de aceite, conforme
+a Lei nº 14.133/2021, o Decreto Municipal nº 3.815/2023 e a motivação constante do Estudo Técnico
+Preliminar.
+1.4 - O prazo inicial de vigência será de 60 (sessenta) meses, contado da assinatura do contrato, observadas
+a fundamentação e as condições estabelecidas no item 2.6.
+1.5 - Integram este Termo de Referência, com igual força vinculante e sem prejuízo do edital e do contrato,
+os Apêndices 1 a 6, devendo cada documento ser aplicado no âmbito de sua finalidade específica.
+ITEM DOCUMENTO FINALIDADE
+1.5.1 Apêndice 1 - Especificações Técnicas e
+Critérios de Equivalência
+Especificações mínimas, critérios de equivalência e
+comprovação técnica.
+1.5.2 Apêndice 2 - Quantitativos, Distribuição Inicial e
+Locais Estimados
+Quantitativos, distribuição inicial, saldo sob demanda e
+locais estimados.
+1.5.3 Apêndice 3 - Procedimentos de Implantação,
+Transição e Segurança dos Dados
+Implantação, transição, migração autorizada, proteção e
+tratamento seguro dos dados.
+1.5.4 Apêndice 4 - Requisitos de Manutenção, Central
+de Chamados e Níveis de Serviço
+Manutenção, suporte, central de chamados, prazos e níveis
+de serviço.
+1.5.5 Apêndice 5 - Instrumentos de Recebimento,
+Inspeção e Modelos Operacionais
+Recebimento, inspeção, testes, aceite e registros
+operacionais.
+1.5.6 Apêndice 6 - Instrumento de Medição de
+Resultado (IMR), Glosas e Relatórios
+Indicadores, aferição, glosas, memória de cálculo e
+relatórios de medição.
+1.6 - DEFINIÇÕES E REGRAS DE INTERPRETAÇÃO
+1.6.1 - Para este Termo de Referência, considera-se PCaaS (PC as a Service) a modalidade de prestação em
+que a CONTRATADA disponibiliza estações de trabalho configuradas e gerenciadas, com os serviços
+associados necessários ao seu ciclo de vida, mediante remuneração mensal vinculada às unidades
+efetivamente instaladas, aceitas e disponíveis, sem transferência de propriedade à CONTRATANTE. O
+PCaaS não se confunde com Desktop as a Service (DaaS), baseado em desktop virtualizado, nem com
+a mera locação de equipamentos desacompanhada de gestão, suporte e manutenção integrados.
+1.6.2 - Considera-se equipamento disponibilizado, aceito e ativo aquele efetivamente instalado, configurado,
+licenciado, testado, formalmente recebido e apto ao uso. Equipamento em trânsito, estoque,
+configuração, recusa ou reserva técnica não integra a base faturável. Ordem de Serviço é o documento
+formal que autoriza e delimita a execução; restabelecimento é a retomada provisória ou definitiva da
+operação; e solução definitiva é a correção que elimina a causa da falha sem dependência de
+contingência temporária.
+1.6.3 - Considera-se dia útil aquele em que houver expediente administrativo no Município de Uberaba;
+indisponibilidade computável, o período atribuível à CONTRATADA segundo o Apêndice 4; glosa, o
+redimensionamento do pagamento por serviço não prestado ou prestado abaixo do nível contratado; e
+sanção, a consequência administrativa aplicada em processo próprio.
+1.6.4 - Os prazos serão contados com exclusão do dia do começo e inclusão do dia do vencimento, salvo regra
+específica expressa. Registros da central de chamados, Ordens de Serviço, termos de aceite,
+inventários, relatórios e comunicações institucionais constituem as fontes primárias de evidência da
+execução.
+1.6.5 - Os Apêndices 1 a 6 complementam este Termo de Referência. Repetição resumida de requisito não
+afasta a disciplina detalhada do documento específico, e qualquer alteração de obrigação dependerá de
+formalização pela autoridade competente.
+
+--- [pag. PDF 3] ---
+Termo de Referência - Solução PCaaS | Página 3 de 19
+1.7 - FORMA E CRITÉRIO DE SELEÇÃO DO FORNECEDOR
+1.7.1 - O fornecedor será selecionado por pregão eletrônico, com critério de julgamento pelo menor preço global
+do grupo único, cuja justificativa técnica e econômica consta do Estudo Técnico Preliminar, mantida a
+discriminação dos preços mensais unitários de cada tipo de equipamento e a observância dos
+respectivos valores máximos aceitáveis.
+1.7.2 - A proposta deverá contemplar todos os itens do grupo único. A adjudicação global não transforma os
+preços unitários em meramente referenciais: eles permanecerão vinculantes para ordens de serviço,
+medição, reajuste, alterações quantitativas, glosas e pagamento, observados os limites e quantitativos
+máximos da contratação.
+2 - DA FUNDAMENTAÇÃO DA CONTRATAÇÃO
+2.1 - Delimitação entre ETP e TR. Nos termos dos arts. 6º, inciso XXIII, alínea “b”, e 18, incisos I a III, da Lei
+nº 14.133/2021, e dos arts. 33, 34, 36 e 39 do Decreto Municipal nº 3.815/2023, este Termo de Referência
+materializa a solução cuja necessidade de interesse público, viabilidade e escolha foram examinadas no
+Estudo Técnico Preliminar. Permanecem no ETP o diagnóstico do problema, a memória dos quantitativos,
+o levantamento de mercado, a comparação das alternativas e a justificativa da solução escolhida; ao TR
+cabe converter essa decisão de planejamento em objeto, requisitos, execução, fiscalização, recebimento,
+medição e pagamento objetivamente verificáveis.
+2.2 - Necessidade administrativa. A necessidade administrativa decorre do uso permanente de estações
+de trabalho para acesso aos sistemas corporativos, produção e tramitação de documentos, atendimento
+ao cidadão, comunicação institucional e execução das atividades finalísticas e de apoio das unidades
+municipais. Falha, indisponibilidade, insuficiência de desempenho, licenciamento irregular ou ausência de
+reposição tempestiva podem interromper processos públicos, reduzir a produtividade, ampliar riscos de
+segurança da informação e consumir capacidade interna com manutenção reativa. O inventário, a
+distribuição e as evidências quantitativas que dimensionam essa necessidade constam do ETP e do
+Apêndice 2.
+2.3 - Resultado necessário e abrangência do PCaaS. A necessidade não se limita à entrega de
+equipamentos. Para produzir o resultado público pretendido, a solução deve assegurar disponibilidade
+durante o ciclo de vida, configuração padronizada, licenciamento regular, inventário, monitoramento,
+suporte, manutenção, reposição, continuidade operacional, proteção dos dados, desmobilização e logística
+reversa. Por essa razão, o objeto foi estruturado como serviço integrado de estações de trabalho no modelo
+PCaaS, e não como aquisição isolada ou mera locação desacompanhada dos serviços necessários ao
+funcionamento continuado.
+2.4 - Responsabilidade operacional e remuneração por disponibilidade. Conforme a alternativa
+selecionada no ETP, o PCaaS concentra na CONTRATADA a responsabilidade operacional pelo ciclo de
+vida dos ativos disponibilizados, mantendo a Administração responsável pelas decisões, autorizações,
+fiscalização e condições de infraestrutura que lhe forem atribuídas. A remuneração mensal somente
+alcança equipamentos instalados, aceitos e efetivamente disponíveis, o que vincula o pagamento ao
+resultado entregue e permite ajustar a implantação às Ordens de Serviço, sem obrigação de consumo
+integral do saldo destinado a demandas futuras.
+2.5 - Objetivos e controles da modelagem. A modelagem busca os objetivos dos arts. 5º e 11 da Lei nº
+14.133/2021: resultado de contratação mais vantajoso considerado o ciclo de vida, tratamento isonômico,
+justa competição, prevenção de sobrepreço e de inexequibilidade, eficiência, eficácia, economicidade,
+segurança jurídica, inovação e desenvolvimento sustentável. Esses objetivos são operacionalizados por
+especificações mensuráveis, critérios de equivalência, preços unitários, níveis de serviço, evidências de
+aceite, glosas vinculadas ao serviço não disponibilizado e separação entre medição e sanção.
+2.6 - Natureza contínua e prazo. A prestação enquadra-se como serviço contínuo de tecnologia da
+informação e comunicação, sem dedicação exclusiva de mão de obra, por atender necessidade
+permanente ou prolongada da Administração, na forma do art. 6º, inciso XV, da Lei nº 14.133/2021.
+O prazo inicial será de 60 (sessenta) meses, observados os arts. 105 e 106 da mesma Lei, o
+planejamento orçamentário e as verificações anuais aplicáveis. Eventual prorrogação, por segundo
+ciclo de referência de até 60 (sessenta) meses e prazo total potencial de até 120 (cento e vinte)
+meses, dependerá de demonstração atualizada de vantajosidade, disponibilidade orçamentária,
+interesse da Administração, regularidade da execução, atendimento aos requisitos legais e
+
+--- [pag. PDF 4] ---
+Termo de Referência - Solução PCaaS | Página 4 de 19
+contratuais e decisão administrativa formal, nos termos do art. 107, sem direito adquirido da
+CONTRATADA. A contratação poderá encerrar-se normalmente ao final do primeiro ciclo.
+2.7 - Quantitativos e demanda. Os quantitativos globais decorrem da memória de cálculo e da distribuição
+registradas no ETP e no Apêndice 2 e compreendem implantação inicial estimada e saldo máximo para
+demandas futuras. Ordem de Serviço, instalação, teste e aceite são condições para disponibilização e
+faturamento. Essa disciplina evita pagamento por capacidade ociosa não solicitada, preserva flexibilidade
+para alterações de demanda e mantém rastreabilidade entre quantitativo planejado, equipamento instalado
+e despesa liquidada.
+2.8 - Grupo único e parcelamento. A adoção de grupo único deverá estar apoiada em justificativa específica
+do Estudo Técnico Preliminar capaz de demonstrar, para o caso concreto, que a integração técnica, a
+padronização, a responsabilidade operacional única, a interoperabilidade, a economia de escala e a
+redução do custo de gestão superam os benefícios do parcelamento. A modelagem observa o art. 47 da
+Lei nº 14.133/2021 e preserva a competitividade pela admissão de consórcio, subcontratação acessória,
+equivalência técnica e somatório de atestados, sem dispensar preços unitários máximos, memória de
+quantidades e controles individualizados de execução, medição e pagamento.
+2.9 - Competitividade e proporcionalidade. A competitividade é preservada pela descrição do desempenho
+e do resultado, sem indicação de marca de hardware, pela admissão de equivalência técnica, pela
+comprovação documental objetiva, pelo somatório de atestados nos limites definidos, pela vistoria
+facultativa e pela possibilidade de utilização de rede autorizada sob responsabilidade integral da
+CONTRATADA. As exigências de capacidade e qualificação devem permanecer vinculadas às parcelas de
+maior relevância, à escala e aos riscos efetivos da execução, em observância à proporcionalidade, ao
+julgamento objetivo e à justa competição previstos nos arts. 5º, 11, inciso II, e 18, inciso IX, da Lei nº
+14.133/2021.
+2.10 - Competência e coerência documental. Este Termo de Referência disciplina o objeto, os requisitos, a
+execução, a gestão, o recebimento, a medição e o pagamento. O Estudo Técnico Preliminar, a análise e a
+matriz de riscos, o orçamento estimado, o edital, a minuta contratual, a análise jurídica e as decisões da
+autoridade competente permanecem em seus instrumentos próprios. As remissões realizadas neste
+documento não substituem esses artefatos e deverão preservar a identidade de objeto, quantitativos, prazo,
+níveis de serviço, critério de seleção e unidade de remuneração.
+3 - DA DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+3.1 - Componentes da solução. A solução compreende a disponibilização e a gestão continuada, por
+demanda, de microcomputadores, notebooks e monitores novos no modelo PCaaS, acompanhados dos
+softwares licenciados e dos serviços necessários à implantação, configuração, inventário, operação
+assistida, monitoramento, manutenção, suporte, substituição, desmobilização e retirada. A eventual
+continuidade após o primeiro ciclo observará a renovação tecnológica condicionada prevista no item próprio
+deste Termo de Referência.
+3.2 - Ciclo de vida. O ciclo de vida da solução abrange entrega, instalação, aceite, inventário, suporte remoto
+e presencial, manutenção preventiva e corretiva, continuidade operacional, atualização da configuração
+contratada, transição e logística reversa. Durante os 60 (sessenta) meses iniciais, os Microcomputadores
+Tipo I, os Microcomputadores Tipo II e os Notebooks observarão os mesmos critérios objetivos de
+desempenho, compatibilidade, segurança, suporte e capacidade operacional, sem substituição integral
+automática fundada exclusivamente no tempo de uso, preservadas todas as obrigações ordinárias de
+correção, atualização, upgrade, reparo e substituição. Essa regra não impede a renovação tecnológica
+condicionada à formalização de prorrogação posterior ao primeiro ciclo. Os monitores não integram a
+renovação automática do segundo ciclo e serão avaliados, reparados ou substituídos quando deixarem de
+atender aos requisitos contratados.
+3.3 - Distribuição documental. A localização das especificações e dos controles técnicos e operacionais
+observa o mapa documental do item 1.5, devendo cada Apêndice ser aplicado no âmbito de sua finalidade.
+3.4 - Contribuições da solução. A solução deverá contribuir para a continuidade dos serviços públicos, a
+redução de falhas, a previsibilidade operacional, a segurança da informação e a destinação ambientalmente
+adequada dos equipamentos e componentes ao final de seu ciclo de utilização.
+3.5 - Resultados operacionais esperados. A solução deverá assegurar disponibilidade mensurável,
+desempenho suficiente para as tarefas institucionais, redução do tempo de interrupção, padronização do
+
+--- [pag. PDF 5] ---
+Termo de Referência - Solução PCaaS | Página 5 de 19
+atendimento, rastreabilidade do inventário e dos chamados, previsibilidade operacional, atualização de
+segurança e retirada ambientalmente adequada. Durante os 60 (sessenta) meses iniciais, não haverá
+renovação integral automática de geração fundada exclusivamente no decurso do tempo, mas nenhum
+equipamento poderá permanecer ativo se deixar de cumprir os níveis de desempenho, segurança,
+compatibilidade, capacidade ou suporte contratados. Se formalizada prorrogação posterior ao primeiro
+ciclo, aplicar-se-á a renovação tecnológica prevista neste Termo de Referência e em seus Apêndices.
+3.6 - Ativação, aceite e remuneração. A emissão da demanda, a instalação, o aceite, a disponibilização e
+os efeitos sobre a medição e o pagamento observarão os itens 5.1, 5.3, 7.1 e 7.2 e os Apêndices 2, 5 e 6.
+4 - DOS REQUISITOS DA CONTRATAÇÃO
+4.1 - REQUISITOS GERAIS E REGIME DE PRESTAÇÃO
+4.1.1 - A contratação caracteriza-se como serviço comum e contínuo de tecnologia da informação e
+comunicação, sem dedicação exclusiva de mão de obra, estruturado no modelo PCaaS e remunerado
+pela disponibilização mensal dos equipamentos efetivamente instalados, aceitos e mantidos em
+operação nos níveis de serviço definidos.
+4.1.2 - A solução deverá ser prestada de forma integrada, com responsabilidade única da CONTRATADA pela
+entrega, instalação, licenciamento, inventário, manutenção, suporte, substituição, atualização
+autorizada, transição e retirada dos equipamentos, independentemente de garantias ou contratos
+mantidos com fabricantes, distribuidores ou terceiros. A responsabilidade única abrange também o
+planejamento e a execução da renovação tecnológica quando acionada por prorrogação juridicamente
+formalizada.
+4.1.3 - Todos os equipamentos, componentes e licenças deverão permanecer regulares, rastreáveis e
+compatíveis com as especificações do Apêndice 1 durante o período em que estiverem disponibilizados,
+vedada a redução de configuração, capacidade, desempenho, segurança ou funcionalidade sem
+autorização formal da CONTRATANTE.
+4.1.4 - A CONTRATADA deverá manter inventário atualizado por número de série e patrimônio lógico,
+relacionando equipamento, configuração, garantia, licença, unidade, usuário ou setor estritamente
+necessário, data de instalação, aceite, movimentações, intervenções, substituições e retirada. A
+Administração terá acesso de consulta, exportação em formato aberto, conciliação eletrônica mensal e
+inventário físico anual, observados os Apêndices 3, 4 e 5.
+4.2 - A plataforma de gestão do PCaaS deverá manter, para os Microcomputadores Tipo I,
+Microcomputadores Tipo II e Notebooks, cadastro da localização prevista, linha de base homologada de
+hardware, histórico de movimentações autorizadas e registros de alterações relevantes de configuração.
+Para os Microcomputadores Tipo I e Tipo II, deverá também coletar e tratar os eventos do sensor eletrônico
+de abertura ou intrusão do gabinete exigido no Apêndice 1. O sensor detectará a abertura ou remoção da
+tampa; a classificação do evento como autorizado ou não autorizado caberá à CONTRATANTE, após
+confronto com Ordem de Serviço e registros de manutenção, movimentação ou mudança.
+4.3 - A solução deverá comparar a localização prevista com as evidências lógicas de conexão e a
+configuração atual com a linha de base, gerando alertas auditáveis de movimentação ou alteração não
+autorizada quando houver divergência confirmada e inexistir Ordem de Serviço ou autorização
+correspondente. Rastreabilidade lógica não se confunde com geolocalização por GPS e somente indicará
+a última evidência observada, com data, hora, fonte e limitações técnicas.
+4.4 - Os alertas constituirão evidência para fiscalização e investigação, mas não caracterizarão
+automaticamente irregularidade, autoria ou responsabilidade. O detalhamento dos campos, condições de
+funcionamento, retenção, tratamento, testes e evidências constará dos Apêndices 1, 3, 4, 5 e 6.
+4.4.1 - Os requisitos de segurança da informação, proteção de dados, controle de acesso técnico, cadeia de
+custódia, telemetria, armazenamento em nuvem, transferência internacional, tratamento de mídias e
+resposta a incidentes observarão o Apêndice 3 e as políticas institucionais formalmente comunicadas. A
+coleta ficará limitada ao necessário à gestão do parque, vedados conteúdo de arquivos, mensagens,
+credenciais, capturas de tela, digitação e histórico de navegação.
+4.4.2 - O atendimento de cada requisito técnico ou operacional deverá ser demonstrado pelo documento,
+registro de sistema, evidência ou teste indicado neste Termo de Referência e em seus apêndices.
+Declaração unilateral será suficiente somente quando expressamente admitida e quando o requisito não
+comportar verificação objetiva por outro meio.
+
+--- [pag. PDF 6] ---
+Termo de Referência - Solução PCaaS | Página 6 de 19
+4.5 - INDICAÇÃO DE MARCAS, MODELOS E REFERÊNCIAS TÉCNICAS
+4.5.1 - Não se estabelece marca ou modelo de fabricante para os equipamentos de hardware. A conformidade
+será aferida pelos requisitos objetivos e pelos critérios de equivalência previstos no Apêndice 1.
+4.5.2 - As referências nominativas de software e licenciamento constam do Apêndice 1 e deverão ser
+interpretadas em conjunto com a motivação registrada no Estudo Técnico Preliminar, sem extensão a
+marcas de hardware ou a requisitos não expressamente previstos.
+4.5.3 - Não há marcas de hardware previamente vedadas. A rejeição dependerá da demonstração objetiva de
+desconformidade com os requisitos da contratação.
+4.6 - SUBCONTRATAÇÃO
+4.6.1 - É vedada a subcontratação da parcela principal correspondente à governança e à gestão integrada da
+solução PCaaS, permanecendo sob responsabilidade direta e indelegável da CONTRATADA a gestão
+da solução, a coordenação da central de chamados, a interlocução com a Administração, o
+gerenciamento dos níveis de serviço, o controle da execução e a responsabilidade pelo integral
+cumprimento das obrigações contratuais.
+4.6.2 - É vedada a subcontratação total do objeto, bem como a transferência a terceiros da governança da
+solução, da gestão contratual, da central de coordenação dos chamados, da interlocução com a
+CONTRATANTE ou da responsabilidade pelos níveis de serviço e pelos resultados da contratação.
+4.6.3 - Será admitida, mediante prévia autorização da Administração, a subcontratação de até 30% (trinta por
+cento) do valor total contratado para parcelas acessórias e atividades operacionais de apoio, inclusive
+atividades de campo, logística, transporte, armazenamento, descarte sustentável, assistência técnica
+autorizada, serviços de nuvem e apoio de fabricantes ou distribuidores, podendo tais atividades
+compreender intervenções operacionais de manutenção, suporte e substituição de componentes ou
+equipamentos, desde que não haja transferência da gestão, da coordenação, da responsabilidade
+contratual ou dos níveis de serviço atribuídos à CONTRATADA.
+4.6.4 - A utilização de subcontratadas, rede de assistência técnica autorizada, fabricantes, distribuidores ou
+outros terceiros não estabelecerá vínculo destes com o MUNICÍPIO e não reduzirá, limitará ou excluirá
+a responsabilidade integral da CONTRATADA pela qualidade, tempestividade, segurança, continuidade
+e conformidade dos serviços executados.
+4.7 - PARTICIPAÇÃO EM CONSÓRCIO
+4.7.1 - É admitida a participação de empresas em consórcio, observada a motivação constante do processo e
+as regras do art. 15 da Lei nº 14.133/2021. O edital disciplinará a documentação, a empresa líder, a
+responsabilidade solidária, os critérios de somatório e o acréscimo de habilitação econômico-financeira,
+sem criar exigências além das autorizadas em lei.
+4.7.2 - A constituição definitiva do consórcio será exigida somente do vencedor e antes da celebração do
+contrato. A substituição de consorciado dependerá de autorização da Administração e da demonstração
+de capacidade técnica e econômico-financeira equivalente ou superior à do integrante substituído.
+4.8 - GARANTIA CONTRATUAL DA EXECUÇÃO
+4.8.1 - Será exigida garantia contratual correspondente a 5% (cinco por cento) do valor anual do contrato, nos
+termos dos arts. 96 a 100, especialmente do art. 98, parágrafo único, da Lei nº 14.133/2021. O percentual
+se justifica pela vigência de 60 meses, pelo valor e pela dispersão do parque, pela obrigação contínua
+de manter disponibilidade, reserva técnica, licenças, segurança, substituições e transição e pelo risco de
+inadimplemento com impacto em serviços públicos. A base anual observa a regra legal dos serviços e
+fornecimentos contínuos e evita garantia desproporcional sobre todo o valor plurianual. A garantia
+financeira não substitui a cobertura operacional integral nem seguro eventualmente contratado e não
+condiciona o atendimento de dano, furto, roubo, extravio ou falha. A CONTRATADA poderá optar por
+modalidade legalmente admitida, e o edital observará o prazo específico do seguro-garantia.
+4.8.2 - A garantia deverá permanecer válida durante toda a execução, sem período descoberto, acompanhar
+as alterações do valor anual do contrato e permanecer disponível pelo período necessário à apuração e
+à satisfação de obrigações remanescentes. Sua liberação ou restituição ocorrerá após o cumprimento
+integral das obrigações, nos termos da lei, do edital e do contrato.
+4.8.3 - O percentual de 5% justifica-se pela vigência prolongada, pela implantação distribuída em múltiplas
+unidades, pela dependência operacional dos equipamentos e pela necessidade de assegurar recursos
+
+--- [pag. PDF 7] ---
+Termo de Referência - Solução PCaaS | Página 7 de 19
+para cobertura de inadimplentes, sem adoção do percentual excepcional de 10%. A garantia não substitui
+a obrigação de executar, corrigir, substituir ou indenizar e somente poderá ser utilizada mediante
+apuração e decisão da autoridade competente.
+4.9 - MANUTENÇÃO, SUPORTE E CONTINUIDADE OPERACIONAL
+4.9.1 - A CONTRATADA responderá pela cobertura integral de manutenção e manterá reserva técnica de 2%
+(dois por cento) por tipo de equipamento, calculada mensalmente sobre as unidades efetivamente
+instaladas, recebidas, aceitas e ativas, com arredondamento para cima e mínimo de uma unidade
+quando houver equipamento ativo da categoria. A reserva não será faturada, ficará em local que permita
+o SLA, será recomposta em até 5 (cinco) dias úteis e poderá restabelecer o serviço provisoriamente;
+somente permanecerá como substituição definitiva se for nova, de linha ativa, garantida, compatível e
+equivalente ou superior.
+4.9.2 - Os prazos de atendimento, restabelecimento e solução definitiva, as prioridades P1 a P4, a operação
+24x7, a recorrência, a reserva, o monitoramento de desempenho, as evidências, as exclusões de
+contagem e os efeitos sobre a medição observarão os Apêndices 4 e 6. A garantia do fabricante será
+complementar e não poderá ser oposta à CONTRATANTE para limitar a responsabilidade da
+CONTRATADA.
+4.9.3 - Para fins de continuidade do serviço, a cobertura operacional compreenderá, quanto aos equipamentos,
+acessórios e baterias integrantes do PCaaS, os danos acidentais ocorridos durante o uso regular,
+inclusive queda, impacto, quebra involuntária e contato ou derramamento de líquido; furto simples ou
+qualificado; roubo; e os eventos elétricos definidos neste item. Nos eventos cobertos, a CONTRATADA
+deverá, sem franquia, coparticipação, cobrança adicional ou repasse de custo à CONTRATANTE,
+registrar o chamado, avaliar e remover o equipamento afetado, disponibilizar equipamento substituto e
+realizar o reparo ou a substituição definitiva nos prazos estabelecidos nos Apêndices 4 e 6.
+4.9.4 - O equipamento substituto deverá possuir especificações iguais ou superiores às contratadas, com
+preservação ou recomposição das configurações e licenças sob responsabilidade da CONTRATADA,
+bem como atualização do inventário e manutenção da rastreabilidade. A recuperação de dados
+observará as responsabilidades e as fontes de cópia de segurança definidas no Apêndice 3. O
+atendimento e a reposição não poderão ser condicionados à apuração prévia de responsabilidade nem
+à existência, à análise ou à regulação de eventual seguro contratado pela CONTRATADA. Eventual dolo
+ou fraude somente produzirá efeitos após apuração em processo próprio, com contraditório e ampla
+defesa.
+4.9.5 - Incêndio, fumaça, fuligem, vazamento, infiltração, alagamento e ações do tempo não integram a
+cobertura operacional, independentemente de sua extensão, salvo quando o dano decorrer
+comprovadamente de ação ou omissão da CONTRATADA. A alocação de responsabilidades por esses
+eventos será disciplinada pela matriz de riscos, pelo edital e pelo contrato, mediante análise do nexo
+causal e das circunstâncias comprovadas.
+4.9.6 - Na ocorrência dos eventos referidos no item 4.9.5, permanecerão exigíveis as medidas de contenção,
+segurança, comunicação, preservação de evidências e continuidade materialmente possíveis. Os efeitos
+sobre os níveis de serviço, os custos e a responsabilidade financeira observarão a matriz de riscos, o
+edital e o contrato, sem transferência automática de riscos entre as partes.
+4.9.7 - A comunicação formal de furto ou roubo iniciará imediatamente a contagem do SLA e a obrigação de
+restabelecimento, sem necessidade de aguardar boletim de ocorrência, regulação de seguro ou
+conclusão da apuração. O boletim de ocorrência deverá ser apresentado pela CONTRATANTE em até
+2 (dois) dias úteis, ressalvada impossibilidade comprovada perante a autoridade competente.
+4.9.8 - A alegação de fraude, dolo, participação intencional ou mau uso não suspenderá o atendimento nem
+autorizará cobrança antecipada. A CONTRATADA suportará o ônus da demonstração por laudo técnico
+qualificado, emitido pelo fabricante, assistência técnica autorizada, seguradora ou entidade técnica
+independente, com identificação e número de série, registros fotográficos e técnicos, diagnóstico, causa
+provável, nexo causal, possibilidade de reparo e valor demonstrado. A responsabilidade será decidida
+em procedimento próprio, com contraditório e ampla defesa.
+4.9.9 - Eventual ressarcimento somente será exigível após decisão administrativa e ficará limitado ao dano
+direto comprovado e ao menor valor entre o reparo e a reposição por equipamento equivalente,
+considerados o tempo de uso, o estado de conservação e a depreciação. Não serão admitidos lucros
+cessantes, custos administrativos, franquias, taxas ou cobranças acessórias.
+
+--- [pag. PDF 8] ---
+Termo de Referência - Solução PCaaS | Página 8 de 19
+4.9.10 - A cobertura contra danos elétricos abrangerá oscilação de tensão, sobretensão, subtensão,
+curto-circuito, transientes, falha de aterramento, rompimento de neutro, descarga atmosférica e eventos
+decorrentes da interrupção ou do restabelecimento de energia. Alcançará equipamentos e acessórios
+fornecidos, inclusive fontes, placas, armazenamento, monitores, carregadores, adaptadores e
+periféricos. A CONTRATADA realizará diagnóstico, reparo, substituição de componentes ou reposição
+integral, sem franquia ou cobrança adicional, fornecerá contingência quando necessária ao SLA e
+restaurará sistema operacional, licenças, drivers, configurações e inventário. Eventual irregularidade da
+infraestrutura será registrada em laudo com medições, causa provável e recomendações, sem
+suspender automaticamente a cobertura; a obrigação não inclui a manutenção ou a reparação da rede
+elétrica municipal.
+4.10 - VISTORIA FACULTATIVA
+4.10.1 - A vistoria é facultativa e destina-se ao conhecimento das condições ostensivas dos locais de
+instalação. Poderá ser realizada por representante credenciado, mediante agendamento pelo telefone
+(34) 3318-0914, com o Departamento de Tecnologia da Informação, em dias úteis, das 8h às 12h e das
+14h às 18h.
+4.10.2 - A licitante que não realizar a vistoria apresentará declaração de que conhece as informações e
+condições disponibilizadas para a execução. A opção pela declaração não transfere à CONTRATADA
+riscos decorrentes de omissão da Administração, vício oculto, alteração superveniente ou infraestrutura
+que permaneça sob responsabilidade da CONTRATANTE. Ressalvam-se as obrigações de cobertura e
+continuidade expressamente assumidas nos itens 4.9.3, 4.9.4 e 4.9.10, cuja execução não implica
+transferência à CONTRATADA da responsabilidade por reparar a infraestrutura predial, hidráulica ou
+elétrica da CONTRATANTE. Os eventos excluídos da cobertura observarão os itens 4.9.5 e 4.9.6.
+4.11 - CRITÉRIOS DE ACEITABILIDADE DA PROPOSTA
+4.11.1 - A proposta será aceitável quando atender integralmente às especificações, apresentar preços
+global e unitários iguais ou inferiores aos valores máximos definidos a partir do orçamento estimado e
+coerência entre os componentes de custo e ausência de vantagem baseada em desconformidade
+técnica.
+4.11.2 - A comprovação das características ocorrerá prioritariamente por documentação oficial verificável
+do fabricante e pelos meios do Apêndice 1, sem exigência de carta comercial exclusiva quando houver
+fonte oficial suficiente. A análise documental será a regra.
+4.11.3 - A análise de aceitabilidade verificará separadamente cada preço mensal unitário, o subtotal
+mensal máximo, o valor correspondente aos 60 (sessenta) meses e o valor global do grupo, inclusive a
+coerência dos custos de equipamentos, licenciamento, implantação, suporte, manutenção, substituições,
+logística, riscos e desmobilização necessários à execução integral do PCaaS.
+4.12 - QUALIFICAÇÃO TÉCNICO-OPERACIONAL
+4.12.1 - A qualificação técnico-operacional será comprovada por certidões, atestados ou outros
+documentos admitidos em lei que demonstrem execução satisfatória de solução PCaaS ou de serviço
+gerenciado de disponibilização ou gestão continuada de estações de trabalho, desktops e/ou notebooks.
+Para fins de julgamento objetivo, será considerada de complexidade tecnológica e operacional
+equivalente ou superior a experiência que demonstre, no conjunto dos documentos apresentados, os
+seguintes elementos mínimos:
+4.12.1.1 - disponibilização, locação gerenciada ou gestão continuada de parque de desktops, notebooks
+ou combinação de ambos;
+4.12.1.2 - atendimento e suporte técnico aos equipamentos ou aos respectivos usuários;
+4.12.1.3 - quantitativo acumulado mínimo definido no item 4.12.2;
+4.12.1.4 - A nomenclatura utilizada pelo emitente não precisará coincidir com a deste Termo de Referência.
+A equivalência será avaliada pelo conteúdo e pelos resultados das atividades comprovadas, vedada
+exigência de identidade de marca, modelo, ambiente tecnológico, sistema operacional, arquitetura, prazo
+de SLA ou forma de remuneração.
+4.12.2 - Considera-se parcela de maior relevância técnica a gestão continuada das 2.857 (duas mil
+oitocentas e cinquenta e sete) estações de trabalho constituídas pelos microcomputadores e notebooks.
+Será exigida experiência mínima correspondente a 1.428 (mil quatrocentos e vinte e oito) equipamentos,
+
+--- [pag. PDF 9] ---
+Termo de Referência - Solução PCaaS | Página 9 de 19
+equivalente a 49,98% da parcela relevante e, portanto, inferior ao limite de 50% previsto no art. 67, § 2º,
+da Lei nº 14.133/2021. A exigência demonstra experiência operacional acumulada compatível com a
+escala, a logística de manutenção e a continuidade do serviço, sem impor identidade de marca, modelo
+ou ambiente tecnológico.
+4.12.3 - Será admitido o somatório de atestados, sem limitação de número, época ou local específico e
+sem exigência de concomitância, para alcançar o quantitativo mínimo e, quando necessário, demonstrar
+conjuntamente os elementos dos itens 4.12.1.1 a 4.12.1.4. Não será exigido que um único documento
+reúna isoladamente todos os elementos, desde que o conjunto apresentado comprove a experiência
+mínima exigida. A experiência poderá abranger desktops, notebooks ou combinação de ambos.
+4.12.4 - Os documentos deverão permitir identificar o emitente, o contratado, o objeto, o período, os
+quantitativos e os serviços executados. A avaliação será registrada em quadro de conformidade que
+identifique os documentos utilizados, o quantitativo reconhecido e a correspondência com cada elemento
+dos itens 4.12.1.1 a 4.12.1.5. A ausência de informação não essencial poderá ser objeto de diligência
+mediante apresentação de contrato, notas fiscais, relatórios, declaração do emitente, contatos para
+confirmação ou outro elemento idôneo relativo a condição preexistente, vedada a criação posterior de
+experiência não demonstrada na documentação originalmente apresentada.
+4.12.5 - Serão aceitos atestados em nome da matriz ou da filial e documentos emitidos por entidade
+estrangeira acompanhados de tradução para o português, salvo se demonstrada sua inidoneidade. Não
+será exigida identidade de marca, modelo, sistema operacional, arquitetura ou local de execução.
+4.13 - SUSTENTABILIDADE
+4.13.1 - A eficiência energética, a logística reversa e a destinação de embalagens, peças, baterias,
+mídias e equipamentos observarão a legislação ambiental aplicável e o ciclo de vida do objeto. A
+CONTRATADA apresentará rastreabilidade por número de série e comprovantes de operador habilitado
+quando houver resíduo; reutilização ou recondicionamento de bem de sua propriedade dependerá de
+sanitização certificada.
+5 - DO MODELO DE EXECUÇÃO DO OBJETO
+5.1 - CONDIÇÕES DE EXECUÇÃO, ORDENS DE SERVIÇO E MOBILIZAÇÃO
+5.1.1 - A execução dependerá de Ordem de Serviço emitida por autoridade ou servidor competente. Cada
+Ordem de Serviço deverá identificar, no mínimo, o tipo e a quantidade de equipamentos, a unidade e o
+endereço de instalação, o responsável local, o prazo aplicável, as condições de acesso e as providências
+prévias atribuídas a cada parte.
+5.1.2 - O prazo de execução começará no primeiro dia corrido seguinte ao recebimento válido da Ordem de
+Serviço, desde que estejam disponíveis as informações, acessos e condições sob responsabilidade da
+CONTRATANTE. Impedimentos comprovadamente imputáveis à Administração serão registrados e
+produzirão apenas os efeitos proporcionais ao período afetado.
+5.1.3 - A implantação inicial deverá ser concluída em até 60 (sessenta) dias corridos. As demandas futuras
+deverão ser atendidas em até 30 (trinta) dias corridos, admitida uma única prorrogação por igual período
+somente diante de fato superveniente comprovado, pedido apresentado antes do vencimento e decisão
+expressa e motivada da Administração.
+5.1.4 - A CONTRATADA apresentará, em até 5 (cinco) dias úteis contados da assinatura do contrato, Plano de
+Implantação com piloto representativo, ondas, unidades, quantitativos, responsáveis, checklist de
+prontidão, contingência, estabilização, critérios de aceite e tratamento de riscos. A implantação em
+massa dependerá da aprovação formal do piloto, e falha relevante poderá suspender a onda seguinte.
+5.1.5 - Antes da primeira implantação, o plano será validado em reunião registrada em ata, com definição de
+contatos, escalonamento, fluxo de Ordens de Serviço, imagem homologada, licenciamento, acessos,
+integração de chamados, inventário, testes, aceite, medição, continuidade e reversão. A validação
+organiza a execução e não autoriza alteração de escopo, prazo, preço ou responsabilidade.
+5.2 - LOCAIS E HORÁRIOS DE EXECUÇÃO
+5.2.1 - Os serviços serão executados nas unidades municipais indicadas nas Ordens de Serviço, observados
+os locais estimados do Apêndice 2 e os horários, procedimentos de agendamento e condições de acesso
+previstos no Apêndice 3.
+
+--- [pag. PDF 10] ---
+Termo de Referência - Solução PCaaS | Página 10 de 19
+5.3 - ROTINAS DE ENTREGA, INSTALAÇÃO, ACEITE E CONTROLE DE MUDANÇAS
+5.3.1 - A entrega física, por si só, não caracteriza disponibilização nem faturamento. O equipamento será
+considerado ativo após instalação, configuração, imagem homologada, atualização, identificação,
+licenciamento, inventário, linha de base, teste funcional e aceite formal, conforme os Apêndices 3 e 5.
+5.3.2 - Equipamento rejeitado, incompleto ou em desconformidade não será incluído na medição até sua
+regularização e novo aceite, sem prejuízo da correção, substituição e demais consequências previstas
+nos documentos da contratação.
+5.3.3 - A substituição de marca, modelo ou componente somente será admitida mediante solicitação
+fundamentada, comprovação oficial de equivalência ou superioridade requisito por requisito e
+autorização prévia da fiscalização. Para restabelecimento emergencial, a reserva poderá ser usada sem
+autorização prévia, com registro. A permanência definitiva exigirá equipamento novo, de fabricação ou
+comercialização ativa, garantia pelo período remanescente, compatibilidade, segurança, licenças e
+desempenho iguais ou superiores, sem cobrança adicional.
+5.3.4 - Chamados, intervenções, movimentações, substituições, indisponibilidades e mudanças deverão ser
+registrados na ferramenta indicada pela Administração ou em portal próprio integrado bidirecionalmente,
+com identificador único, horários originais, trilha de auditoria, exportação aberta e vedação de
+encerramento ou reclassificação unilateral. Toda movimentação autorizada deverá indicar equipamento,
+origem, destino, motivo, data e hora, Ordem de Serviço ou autorização, executor e responsável pelo
+aceite na nova unidade, com atualização do inventário.
+5.3.5 - Nenhuma alteração que afete arquitetura, imagem, BIOS, firmware, drivers, credenciais, segurança,
+licenciamento, integração, agente ou dados poderá ser executada sem o processo de gestão de
+mudanças do Apêndice 3. Mudanças emergenciais destinadas à contenção imediata serão registradas,
+comunicadas e submetidas a revisão e ratificação.
+5.4 - EQUIPAMENTOS, LICENÇAS E RECURSOS A SEREM DISPONIBILIZADOS
+5.4.1 - Os equipamentos, as licenças, os documentos, as ferramentas e os demais recursos necessários à
+execução observarão as especificações do Apêndice 1 e as obrigações previstas no item 6.5.
+5.4.2 - A alocação dos custos diretos e indiretos da execução observará o item 6.5.4 e as responsabilidades
+expressamente atribuídas à CONTRATANTE, sem criação de cobrança não prevista.
+5.5 - ATUALIZAÇÃO, UPGRADE, SUBSTITUIÇÃO E RENOVAÇÃO TECNOLÓGICA CONDICIONADA À
+PRORROGAÇÃO
+5.5.1 - A CONTRATADA deverá assegurar que os microcomputadores Tipo I, os microcomputadores Tipo II, os
+notebooks e os monitores permaneçam adequados, eficientes, seguros, compatíveis e plenamente
+funcionais durante toda a vigência contratual, observados os requisitos técnicos, os sistemas
+institucionais abrangidos e os níveis de serviço estabelecidos.
+5.5.2 - Durante os 60 (sessenta) meses iniciais, não haverá renovação integral automática de geração
+tecnológica vinculada exclusivamente ao tempo de uso. Todos os Microcomputadores Tipo I,
+Microcomputadores Tipo II e Notebooks continuarão submetidos aos critérios objetivos de desempenho,
+compatibilidade, segurança, suporte e capacidade operacional, sem prejuízo das intervenções ordinárias
+obrigatórias. A vedação temporal deste item não alcança a renovação tecnológica condicionada à
+formalização de prorrogação posterior ao primeiro ciclo.
+5.5.3 - A necessidade de intervenção poderá decorrer, entre outras situações tecnicamente comprovadas, de:
+5.5.3.1 - degradação persistente de desempenho;
+5.5.3.2 - insuficiência de capacidade operacional;
+5.5.3.3 - incompatibilidade com os sistemas institucionais abrangidos;
+5.5.3.4 - impossibilidade de executar atualizações, novas versões, módulos ou substitutos institucionais
+oficialmente homologados;
+5.5.3.5 - vulnerabilidade de segurança sem correção disponível;
+5.5.3.6 - encerramento de suporte, firmware, drivers ou atualizações necessárias;
+5.5.3.7 - descontinuação acompanhada de impossibilidade de manutenção adequada;
+5.5.3.8 - falhas recorrentes ou descumprimento dos níveis de serviço;
+5.5.3.9 - gargalos persistentes de processamento, memória, armazenamento, vídeo ou conectividade.
+
+--- [pag. PDF 11] ---
+Termo de Referência - Solução PCaaS | Página 11 de 19
+5.5.4 - Confirmada a insuficiência conforme os procedimentos dos apêndices, a CONTRATADA deverá, sem
+cobrança adicional:
+5.5.4.1 - realizar correções, atualizações e otimizações;
+5.5.4.2 - promover upgrade de componentes;
+5.5.4.3 - substituir integralmente o equipamento, quando as medidas anteriores forem insuficientes,
+inadequadas ou incompatíveis com sua arquitetura.
+5.5.5 - O upgrade ou a substituição deverá eliminar a causa da insuficiência, restabelecer ou superar a linha de
+base homologada e permitir a execução adequada dos sistemas institucionais abrangidos em suas
+versões vigentes.
+5.5.6 - Toda intervenção dependerá de aprovação da Administração e deverá preservar:
+5.5.6.1 - desempenho;
+5.5.6.2 - compatibilidade;
+5.5.6.3 - segurança;
+5.5.6.4 - licenciamento;
+5.5.6.5 - garantia;
+5.5.6.6 - suporte;
+5.5.6.7 - inventário;
+5.5.6.8 - configurações institucionais;
+5.5.6.9 - níveis de serviço;
+5.5.6.10 - continuidade operacional.
+5.5.7 - Os equipamentos instalados poderão permanecer em operação após sua descontinuação comercial,
+desde que continuem recebendo suporte adequado e atendendo integralmente aos requisitos
+contratuais. Novas entregas e substituições deverão utilizar equipamentos novos, de linha ativa, com
+características iguais ou superiores.
+5.5.8 - A equivalência ou superioridade de novo modelo, geração ou configuração deverá ser demonstrada
+requisito por requisito, inclusive por documentação oficial, testes e benchmarks aplicáveis, e dependerá
+de aprovação prévia da Administração.
+5.5.9 - Os upgrades obrigatórios necessários para preservar os requisitos originalmente contratados e
+acompanhar a evolução regular dos sistemas institucionais abrangidos estarão incluídos no preço
+mensal, sem cobrança adicional.
+5.5.10 - Necessidades completamente novas, não abrangidas pelo objeto original, dependerão de
+justificativa técnica, análise de compatibilidade, pesquisa de preços e instrumento contratual
+juridicamente cabível.
+5.5.11 - As obrigações de atualização, upgrade, reparo e substituição permanecerão exigíveis até o
+último dia da vigência contratual, independentemente do período restante.
+5.5.12 - Os critérios técnicos de avaliação constarão do Apêndice 1; os procedimentos de atendimento e
+intervenção, do Apêndice 4; e os prazos, indicadores, evidências e consequências pelo descumprimento,
+do Apêndice 6.
+5.5.13 - DA RENOVAÇÃO TECNOLÓGICA CONDICIONADA À PRORROGAÇÃO
+5.5.13.1 - Caso seja formalizada prorrogação contratual que resulte na continuidade da solução PCaaS
+após os 60 (sessenta) meses iniciais de vigência, a CONTRATADA deverá promover a renovação
+tecnológica dos Microcomputadores Tipo I, Microcomputadores Tipo II e Notebooks abrangidos pela
+contratação, observadas as condições deste Termo de Referência e de seus Apêndices.
+5.5.13.2 - A obrigação de renovação somente será acionada mediante formalização juridicamente válida
+da prorrogação, não constituindo direito da CONTRATADA à continuidade contratual.
+5.5.13.3 - A comunicação administrativa acerca da intenção de avaliar ou promover a prorrogação poderá
+iniciar as atividades de planejamento, análise técnica e elaboração do Plano de Renovação Tecnológica,
+sem produzir direito adquirido, indenização, faturamento antecipado ou obrigação da CONTRATANTE
+de efetivamente prorrogar o contrato.
+
+--- [pag. PDF 12] ---
+Termo de Referência - Solução PCaaS | Página 12 de 19
+5.5.13.4 - Não sendo formalizada a prorrogação, não haverá obrigação de renovação integral do parque
+fundada exclusivamente no término dos 60 (sessenta) meses iniciais, permanecendo exigíveis até o
+encerramento todas as obrigações ordinárias de manutenção, suporte, segurança, atualização, upgrade,
+reparo e substituição.
+5.5.13.5 - A renovação tecnológica decorrente da prorrogação deverá ser realizada sem qualquer ônus
+adicional para a CONTRATANTE.
+5.5.13.6 - Não será admitida cobrança específica, extraordinária ou apartada decorrente da renovação,
+inclusive por disponibilização dos equipamentos substitutos, transporte, instalação, configuração,
+aplicação de imagem, migração autorizada, licenciamento necessário, testes, estabilização, retirada,
+sanitização, logística reversa, mão de obra ou demais atividades necessárias à renovação.
+5.5.13.7 - A renovação não produzirá duplicidade de faturamento, aumento do quantitativo contratado nem
+consumo do saldo destinado às demandas futuras.
+5.5.13.8 - A renovação abrangerá 100% dos Microcomputadores Tipo I, Microcomputadores Tipo II e
+Notebooks que integrem a base elegível no início do período prorrogado, ressalvados os equipamentos
+reconhecidos como já renovados nos termos deste Termo de Referência.
+5.5.13.9 - Poderá ser considerado já renovado o equipamento integralmente substituído e definitivamente
+aceito nos 12 (doze) meses anteriores ao início do segundo ciclo, desde que atenda integralmente aos
+critérios tecnológicos definidos para o período prorrogado e seja expressamente aprovado pela
+fiscalização.
+5.5.13.10 - A mera substituição recente não dispensará a renovação quando o equipamento não atender
+integralmente aos requisitos tecnológicos aplicáveis ao segundo ciclo.
+5.5.13.11 - Os equipamentos destinados à renovação deverão ser novos de fábrica, sem uso anterior, não
+recondicionados, não remanufaturados, não provenientes de mostruário, pertencentes a linha
+corporativa ativa e dotados de suporte oficial compatível com a continuidade da contratação.
+5.5.13.12 - A configuração tecnológica dos equipamentos renovados será determinada mediante
+metodologia objetiva previamente estabelecida no Apêndice 1, considerando o mercado e o ambiente
+tecnológico existentes no período da renovação, vedado downgrade de qualquer requisito originalmente
+exigido.
+5.5.13.13 - A CONTRATADA deverá demonstrar a adequação dos equipamentos por meio de matriz
+comparativa, documentação oficial, benchmarks, testes e demais evidências objetivas definidas no
+Apêndice 1.
+5.5.13.14 - A substituição em massa dependerá de aprovação técnica prévia dos modelos pela
+Administração.
+5.5.13.15 - Os monitores, inclusive aqueles vinculados aos Microcomputadores Tipo I e Tipo II, não serão
+automaticamente substituídos exclusivamente em decorrência da prorrogação contratual, podendo
+permanecer no segundo ciclo enquanto atenderem integralmente aos requisitos contratuais.
+5.5.13.16 - Os monitores que apresentarem perda de conformidade, falha, degradação, incompatibilidade
+ou insuficiência deverão ser reparados ou substituídos pela CONTRATADA, sem ônus adicional para a
+CONTRATANTE, conforme os níveis de serviço aplicáveis.
+5.5.13.17 - O planejamento da renovação deverá ser iniciado preferencialmente com antecedência de 180
+(cento e oitenta) dias do encerramento do primeiro ciclo.
+5.5.13.18 - A CONTRATADA deverá apresentar Plano de Renovação Tecnológica contendo inventário,
+modelos, matriz de evolução, piloto, ondas, cronograma, logística, instalação, configuração, migração
+autorizada, testes, contingência, estabilização, retirada, sanitização, logística reversa e demais
+elementos definidos nos Apêndices.
+5.5.13.19 - Formalizada a prorrogação, a renovação deverá ser executada mediante piloto e ondas
+sucessivas e concluída integralmente em até 90 (noventa) dias corridos contados do início do período
+prorrogado.
+5.5.13.20 - O equipamento anterior somente poderá ser retirado após o equipamento substituto estar
+instalado, configurado, atualizado, devidamente licenciado, conectado, inventariado, testado, com
+migração autorizada concluída quando aplicável e apto à continuidade da operação.
+
+--- [pag. PDF 13] ---
+Termo de Referência - Solução PCaaS | Página 13 de 19
+5.5.13.21 - A renovação de cada unidade somente será considerada concluída após atendimento dos
+critérios técnicos, atualização do inventário, registro da substituição, estabelecimento de nova linha de
+base, período de estabilização e aceite definitivo.
+5.5.13.22 - O acompanhamento da renovação será realizado pelo Índice de Renovação Aceita - IRA,
+observados os marcos mínimos de 25% até D+30, 60% até D+60 e 100% até D+90.
+5.5.13.23 - O descumprimento dos marcos será tratado conforme os mecanismos de medição e glosa
+existentes no Instrumento de Medição de Resultado, observada a vedação à dupla incidência sobre o
+mesmo fato.
+5.5.13.24 - A renovação tecnológica prevista nesta seção não afasta, suspende ou reduz qualquer obrigação
+ordinária de manutenção, atualização, correção, upgrade, segurança ou substituição durante os
+primeiros 60 meses ou durante o período prorrogado.
+5.5.13.25 - A prorrogação permanecerá condicionada à demonstração de vantajosidade para a
+Administração, não sendo a obrigação de renovação, isoladamente considerada, fundamento suficiente
+para justificar a continuidade do contrato.
+5.6 - INFORMAÇÕES RELEVANTES PARA O DIMENSIONAMENTO DA PROPOSTA
+5.6.1 - Para o dimensionamento da proposta, deverão ser considerados os quantitativos máximos, a distribuição
+inicial, o saldo sob demanda e os locais estimados do Apêndice 2, juntamente com as especificações,
+os níveis de serviço, os prazos e as demais condições dos apêndices. A pesquisa de mercado e a
+proposta deverão refletir ciência inequívoca da obrigação eventual de renovação sem prever preço,
+tarifa, taxa ou parcela específica decorrente dessa obrigação.
+5.6.2 - A ativação da demanda e os efeitos sobre disponibilização, medição e pagamento observarão os itens
+1.2.2, 5.1, 5.3 e 7.2, inexistindo faturamento antes do atendimento das respectivas condições. A
+renovação da base elegível não constituirá nova demanda, não consumirá o saldo de demanda futura e
+não produzirá duplicidade de faturamento.
+5.7 - TRANSIÇÃO E ENCERRAMENTO
+5.7.1 - A implantação, a convivência com o parque atual, a migração autorizada e a proteção dos dados
+observarão o Apêndice 3. A CONTRATADA apresentará Plano de Saída com antecedência mínima de
+120 (cento e vinte) dias do término, ou tão logo cientificada de encerramento antecipado, contemplando
+inventário, exportação em formato aberto, migração, sanitização, retirada faseada e cooperação com
+eventual sucessora, sem retenção de dados ou dependência exclusiva do fornecedor. Na hipótese de
+segundo ciclo, a transição observará o planejamento iniciado preferencialmente em T-180, o Plano de
+Renovação, o piloto, as ondas e a conclusão integral até D+90.
+5.7.2 - Ao término de cada disponibilização ou do contrato, a retirada ocorrerá mediante agendamento,
+inventário, cadeia de custódia, sanitização certificada e logística reversa rastreável. Nenhum
+equipamento será retirado antes da validação da transição pela Administração, observado o período de
+vigência e a formalização cabível para qualquer necessidade superveniente.
+6 - DO MODELO DE GESTÃO DO CONTRATO
+6.1 - GOVERNANÇA E SEGREGAÇÃO DE FUNÇÕES
+6.1.1 - A gestão e a fiscalização serão exercidas por agentes formalmente designados em ato próprio da
+autoridade competente, com definição de titulares, substitutos e atribuições, observados os arts. 18, 24
+e 25 do Decreto Municipal nº 3.815/2023 e o art. 117 da Lei nº 14.133/2021.
+6.1.2 - A indicação de nomes neste Termo de Referência possui caráter informativo e não substitui o ato formal
+de designação. Alterações de responsáveis serão registradas no processo e comunicadas à
+CONTRATADA, sem necessidade de alteração deste documento quando não modificarem as atribuições
+estabelecidas.
+6.1.3 - Compete ao gestor coordenar os registros da execução, encaminhar decisões e alterações à autoridade
+competente, acompanhar vigência, garantias, habilitação, riscos, medição e pagamento e consolidar as
+informações fornecidas pelos fiscais. Na hipótese de renovação, caberá ainda consolidar a base elegível,
+o cronograma, os aceites definitivos e os resultados do IRA, sem afastar as competências dos fiscais e
+da autoridade competente.
+6.1.4 - Compete à fiscalização técnica acompanhar quantidade, qualidade, prazos, aceite, disponibilidade,
+níveis de serviço e conformidade dos equipamentos e serviços. Compete à fiscalização administrativa
+
+--- [pag. PDF 14] ---
+Termo de Referência - Solução PCaaS | Página 14 de 19
+acompanhar documentação, regularidade, garantia, faturamento, glosas, apostilamentos e demais
+aspectos administrativos.
+6.1.5 - Quando a execução ocorrer em unidades distintas, poderão ser designados fiscais setoriais para
+registrar fatos locais e subsidiar os fiscais técnico e administrativo, sem fragmentar a responsabilidade
+de coordenação do gestor.
+6.1.6 - Após a assinatura e antes da primeira Ordem de Serviço, haverá reunião inicial. Durante a implantação
+ocorrerá acompanhamento semanal; na operação, reunião mensal; e, trimestralmente, reunião
+executiva, sem prejuízo de encontros extraordinários. As atas registrarão indicadores, riscos, decisões,
+responsáveis e prazos, sem substituir atos formais de fiscalização.
+6.2 - EQUIPE INICIALMENTE INDICADA
+6.2.1 - Gestor técnico indicado: Lucas Oliveira de Paula, SAD, matrícula 51197.
+6.2.2 - Gestora administrativa indicada: Ana Angélica Resende de Sousa, SAD, matrícula 40189.
+6.2.3 - Fiscais indicados: João Martins da Silveira Neto, SAD, matrícula 57750; Eder Leonard Oliveira e Silva,
+SEMED, matrícula 17679; Gabriel Araújo Castro, SEDS, matrícula 57743; Manoel Severino dos Santos
+Filho, SMS, matrícula 58372; Fabiano Henrique de Sene, FETI, matrícula 537; Marcelo de Sales Gomes,
+FUNEL, matrícula 42075-1; e José Junqueira Neto, FCU, matrícula 400.
+6.3 - COMUNICAÇÕES, EVIDÊNCIAS E NÃO CONFORMIDADES
+6.3.1 - As comunicações que produzam efeitos sobre prazo, escopo, aceite, medição, pagamento, glosa,
+sanção ou responsabilidade deverão ser formalizadas no processo, na central de chamados ou em canal
+eletrônico institucional que permita comprovar autoria, conteúdo, data e recebimento.
+6.3.2 - A fiscalização manterá histórico de ocorrências e evidências e poderá realizar auditorias programadas
+ou motivadas sobre inventário, SLA, telemetria, acessos, segurança, licenças, garantias, reserva,
+faturamento e destinação ambiental. A CONTRATADA fornecerá acesso de consulta e exportação e
+cooperará sem custo adicional nas auditorias ordinárias, preservados dados de terceiros e segredos
+comerciais legítimos. A auditoria poderá abranger linhas de base, localizações previstas e observadas,
+eventos de abertura de gabinete, alterações de componentes, alertas, autorizações e trilhas de
+tratamento.
+6.3.3 - Identificada não conformidade, a fiscalização registrará o requisito descumprido, a evidência, o
+equipamento ou serviço afetado, o prazo de correção e a consequência operacional. A CONTRATADA
+poderá apresentar justificativa e evidências, sem prejuízo de medidas urgentes destinadas a evitar
+indisponibilidade ou risco à segurança.
+6.3.4 - O aceite de justificativa, a suspensão de contagem ou a exclusão de responsabilidade dependerão de
+comprovação do nexo causal e de decisão motivada da fiscalização. A mera alegação de dependência
+de fabricante, fornecedor ou subcontratada não afasta a responsabilidade da CONTRATADA.
+6.3.5 - A não conformidade somente será encerrada após o registro da ação corretiva, da evidência de execução
+e, quando aplicável, do novo teste ou aceite pelo responsável competente. O encerramento unilateral de
+chamado pela CONTRATADA não comprova regularização nem interrompe automaticamente os efeitos
+de indisponibilidade.
+6.4 - AFERIÇÃO, GLOSA E RESPONSABILIZAÇÃO
+6.4.1 - A qualidade será aferida pelos indicadores do Apêndice 6, com base nos registros do Apêndice 4. A
+avaliação não poderá ser atribuída exclusivamente à própria CONTRATADA, e eventual divergência será
+decidida pela fiscalização com motivação e preservação da parcela incontroversa.
+6.4.2 - A glosa representa redimensionamento do pagamento por serviço não disponibilizado ou prestado em
+nível inferior ao contratado e não se confunde com sanção administrativa. A aplicação de sanção exige
+procedimento próprio, tipificação, competência, motivação, contraditório, ampla defesa e
+proporcionalidade.
+6.4.3 - A fiscalização não exclui nem reduz a responsabilidade da CONTRATADA. Apoio eventual da área
+municipal de tecnologia da informação ou de outra unidade não transfere a execução nem cria
+corresponsabilidade pelo objeto.
+6.4.4 - Gestores e fiscais deverão observar o Manual de Fiscalização e Gestão de Contratos da Controladoria-
+Geral do Município e encaminhar à autoridade competente as situações que ultrapassem suas
+atribuições.
+
+--- [pag. PDF 15] ---
+Termo de Referência - Solução PCaaS | Página 15 de 19
+6.5 - OBRIGAÇÕES DA CONTRATADA
+6.5.1 - Executar integralmente o objeto conforme este Termo de Referência, os Apêndices 1 a 6, o edital, o
+contrato, a proposta aceita e as Ordens de Serviço, observando a legislação e as normas técnicas
+aplicáveis.
+6.5.2 - Designar preposto com poderes para receber comunicações e coordenar a execução, mantendo
+atualizados os contatos da central de chamados, da equipe técnica e dos responsáveis por
+escalonamento.
+6.5.3 - Fornecer equipamentos novos, componentes, licenças, documentação, embalagens quando
+necessárias, ferramentas e demais recursos exigidos, com identificação e rastreabilidade suficientes
+para inspeção e inventário.
+6.5.4 - Arcar com todos os custos diretos e indiretos da execução, inclusive tributos, encargos, pessoal,
+deslocamento, frete, seguro, instalação, manutenção, peças, equipamentos substitutos, retirada e
+logística reversa, ressalvados apenas os itens expressamente atribuídos à CONTRATANTE.
+6.5.5 - Manter pessoal capacitado, identificado e credenciado, com relação de funções, experiência e
+treinamentos compatíveis. O acesso físico observará registro de entrada e saída, confidencialidade,
+proteção de dados e regras da unidade; o dimensionamento da equipe e dos plantões será demonstrado
+em plano de capacidade vinculado aos SLAs, inclusive para saúde, serviços essenciais, funções
+governamentais críticas e operação 24x7.
+6.5.6 - Manter durante a execução as condições de habilitação, a regularidade exigida, a garantia contratual e
+as autorizações necessárias, comunicando imediatamente qualquer fato que possa comprometer o
+cumprimento do contrato.
+6.5.7 - Executar manutenção e suporte com peças novas, originais ou compatíveis previamente autorizadas
+pela Administração. A compatibilidade deverá ser comprovada, não poderá reduzir desempenho,
+confiabilidade, garantia, segurança ou vida útil e deverá resultar em condição igual ou superior à
+contratada.
+6.5.8 - Registrar de forma completa e tempestiva as Ordens de Serviço, chamados, intervenções,
+indisponibilidades, movimentações e aceites e apresentar os relatórios técnicos, operacionais e de
+medição nos formatos definidos pela fiscalização. Preservar e disponibilizar os registros de integridade
+física e lógica nos prazos e formatos definidos nos Apêndices, sem apagamento ou alteração unilateral
+desprovida de trilha de auditoria.
+6.5.9 - Proteger credenciais, dados, mídias e informações acessadas e comunicar incidente ou suspeita em até
+2 (duas) horas da detecção, com relatório preliminar em até 24 (vinte e quatro) horas, atualizações a
+cada 24 horas enquanto ativo e relatório conclusivo em até 5 (cinco) dias úteis após a contenção. A
+comunicação externa caberá à Administração, ressalvada obrigação legal própria.
+6.5.10 - Corrigir, reparar, refazer ou substituir, às suas expensas e nos prazos aplicáveis, o objeto
+executado com vício, defeito, incorreção ou desconformidade que lhe seja imputável. Essa obrigação
+não limita a cobertura operacional prevista nos itens 4.9.3 e 4.9.4, a qual deverá ser prestada antes da
+definição de eventual responsabilidade financeira.
+6.5.11 - Responder pelos danos diretos comprovadamente causados à Administração ou a terceiros por
+ação ou omissão na execução, assegurada a apuração do nexo causal e sem prejuízo das
+responsabilidades previstas em lei.
+6.5.12 - Não alterar configuração, marca, modelo, local, equipe crítica, método de execução ou
+subcontratação sem a autorização exigida e não utilizar dados, ativos ou recursos da CONTRATANTE
+para finalidade estranha ao contrato.
+6.5.13 - Facilitar a fiscalização, prestar esclarecimentos, disponibilizar evidências e cumprir
+determinações regulares emitidas dentro da competência dos agentes designados.
+6.6 - OBRIGAÇÕES DA CONTRATANTE
+6.6.1 - Emitir Ordens de Serviço completas, disponibilizar as informações e acessos necessários e assegurar,
+nos locais indicados, as condições de infraestrutura que lhe tenham sido atribuídas nos documentos da
+contratação.
+6.6.2 - Designar gestor, fiscais e substitutos, comunicar os responsáveis à CONTRATADA e fornecer os meios
+institucionais necessários ao acompanhamento da execução.
+
+--- [pag. PDF 16] ---
+Termo de Referência - Solução PCaaS | Página 16 de 19
+6.6.3 - Receber, inspecionar, testar, aceitar ou rejeitar o objeto com base em critérios documentados,
+comunicando as não conformidades com indicação do requisito, da evidência e do prazo aplicável.
+6.6.4 - Controlar credenciais e autorizações de acesso, orientar os usuários e comunicar alterações de unidade,
+infraestrutura, agenda ou política institucional que afetem a execução.
+6.6.5 - Preservar os equipamentos sob sua guarda contra uso indevido, interromper sua utilização quando
+houver risco à segurança e comunicar tempestivamente as ocorrências de dano, incêndio, fumaça,
+vazamento, infiltração, alagamento, furto, roubo ou extravio, adotando as medidas de contenção e
+preservação de evidências que forem materialmente possíveis. A comunicação e o registro não
+caracterizam, por si sós, reconhecimento de cobertura ou responsabilidade financeira. A apuração
+ocorrerá sem presunção automática de culpa de qualquer das partes e não suspenderá a cobertura, o
+restabelecimento ou a substituição dos eventos abrangidos pelos itens 4.9.3, 4.9.4 e 4.9.10; os eventos
+excluídos observarão os itens 4.9.5 e 4.9.6, a matriz de riscos, o edital e o contrato.
+6.6.6 - Analisar as medições, atestar a parcela regularmente executada e efetuar os pagamentos devidos nos
+prazos estabelecidos, preservando a parcela incontroversa em caso de divergência.
+6.6.7 - Decidir de forma motivada os pedidos, justificativas e ocorrências submetidos pela CONTRATADA e
+promover, quando cabível, alteração, reequilíbrio, glosa ou responsabilização pelo procedimento
+competente.
+6.6.8 - Aplicar sanções somente por autoridade competente e mediante processo que assegure contraditório e
+ampla defesa, sem confundir penalidade com redimensionamento do pagamento.
+6.7 - INTERPRETAÇÃO E CONTROLE DOCUMENTAL
+6.7.1 - Dúvida ou aparente divergência documental será submetida à Administração. O TR conterá regras
+gerais; o Apêndice 1, requisitos técnicos; o Apêndice 2, quantitativos; o Apêndice 3, implantação,
+transição e segurança; o Apêndice 4, manutenção e SLA; o Apêndice 5, recebimento; e o Apêndice 6,
+medição e glosas. O edital estabelecerá a ordem formal de prevalência, e matriz de rastreabilidade
+controlará referências, evidências e critérios de aceite.
+6.7.2 - A tolerância quanto a descumprimento pontual não implica novação, renúncia ou alteração contratual. O
+exercício de direitos, a correção de omissões e qualquer modificação de escopo, prazo, preço ou
+responsabilidade dependerão de motivação, competência e formalização adequada.
+6.7.3 - A gestão da contratação caberá às unidades formalmente designadas pela Secretaria Municipal de
+Administração. As avaliações técnicas serão realizadas pelos profissionais competentes da
+Administração, com apoio das áreas institucionais formalmente indicadas.
+7 - DOS CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+7.1 - CRITÉRIOS PARA O RECEBIMENTO DOS SERVIÇOS
+7.1.1 - O recebimento provisório e o recebimento definitivo observarão os critérios objetivos, os testes, os
+registros e os instrumentos previstos nos Apêndices 3 e 5, sem que o aceite provisório ou definitivo
+exclua a responsabilidade da CONTRATADA pela perfeita execução. Para a renovação, a conclusão de
+cada unidade e sua contabilização no IRA dependerão do aceite definitivo e dos registros previstos nos
+Apêndices 3 e 5.
+7.1.2 - Para o recebimento, a fiscalização verificará o cumprimento cumulativo das condições de
+disponibilização estabelecidas no item 5.3.1 e dos instrumentos previstos nos Apêndices 3 e 5.
+7.1.3 - A rejeição, a regularização e o novo aceite observarão o item 5.3.2 e serão documentados conforme o
+item 7.1.4, sem inclusão do equipamento na medição enquanto persistir a desconformidade.
+7.1.4 - O recebimento será formalizado nos instrumentos próprios, com identificação do objeto examinado,
+requisitos verificados, evidências, ressalvas e responsáveis. A rejeição total ou parcial deverá indicar a
+desconformidade e a providência necessária, e o uso emergencial de equipamento não implicará aceite
+tácito nem renúncia à correção.
+7.2 - MEDIÇÃO E ATESTE
+7.2.1 - A medição mensal considerará os equipamentos efetivamente instalados, recebidos, aceitos e ativos, os
+dias corridos de disponibilização, as movimentações, os chamados, a disponibilidade e os resultados do
+Apêndice 6. Reserva, estoque, trânsito, configuração e equipamentos recusados não integrarão a base
+
+--- [pag. PDF 17] ---
+Termo de Referência - Solução PCaaS | Página 17 de 19
+faturável. Equipamento renovado substituirá a unidade anterior na mesma base contratual, sem
+sobreposição faturável, e somente integrará o IRA após o aceite definitivo.
+7.2.2 - No primeiro e no último mês de disponibilização, o valor será calculado proporcionalmente aos dias de
+operação, adotado o número de dias corridos do respectivo mês. Não haverá pagamento por
+equipamento entregue mas não aceito, mantido em estoque ou solicitado sem Ordem de Serviço válida.
+7.2.3 - A CONTRATADA apresentará prévia de medição até o 3º (terceiro) dia útil, com inventário, dias ativos,
+movimentações, chamados, SLAs, disponibilidade, reserva de 2%, desempenho, incidentes,
+atualizações, glosas e memória de cálculo. A Administração analisará em até 5 (cinco) dias úteis e a
+CONTRATADA corrigirá divergências em até 2 (dois) dias úteis, emitindo a nota somente após
+autorização. Durante a renovação, o relatório mensal incluirá base elegível, unidades renovadas e
+pendentes, IRA, séries anterior e nova, datas de substituição e aceite, estabilização e pendências.
+7.2.4 - A fiscalização conciliará Ordens de Serviço, termos de aceite, inventário, chamados, telemetria, logs e
+documentos de movimentação. Nenhuma fonte unilateral terá presunção absoluta; divergências serão
+decididas motivadamente, preservadas a manifestação da CONTRATADA e a parcela incontroversa.
+7.2.5 - As glosas observarão exclusivamente os critérios objetivos, fórmulas, bases de incidência, regras de
+precedência e limites do Apêndice 6. Os percentuais de 2%, 5%, 10% e 20% somente incidirão quando
+houver regra expressa para o indicador e sobre a base remanescente da parcela efetivamente afetada,
+após eventual parcela suspensa. Permanecem os limites de 50% da BR da unidade faturável afetada e
+de 20% da medição mensal após as suspensões. O mesmo núcleo fático e o mesmo efeito operacional
+não produzirão dupla glosa, e eventual sanção dependerá de fundamento autônomo e processo próprio.
+7.2.6 - A memória de medição deverá ser reprodutível e rastreável por equipamento, período, Ordem de Serviço,
+termo de aceite, valor unitário, evento de indisponibilidade e regra de glosa aplicada. Parcela sem suporte
+documental suficiente permanecerá pendente de liquidação, preservado o pagamento da parcela
+incontroversa.
+7.3 - FATURAMENTO E PAGAMENTO
+7.3.1 - Após a aprovação da medição, a CONTRATADA emitirá notas fiscais eletrônicas separadas por
+secretaria, em conformidade com o valor atestado e com os requisitos fiscais e contratuais. Não será
+admitida nota fiscal, parcela ou cobrança apartada especificamente decorrente da renovação
+tecnológica.
+7.3.2 - Os documentos fiscais serão encaminhados ao canal eletrônico institucional indicado por cada unidade
+participante no início da execução e mantido atualizado pela fiscalização. A alteração do endereço
+eletrônico, quando não modificar prazo, responsabilidade ou condição de pagamento, será formalmente
+comunicada à CONTRATADA e registrada no processo, dispensada a alteração deste Termo de
+Referência.
+7.3.3 - O pagamento será efetuado em até 30 (trinta) dias do mês subsequente ao da prestação
+dos serviços, condicionado à apresentação da documentação fiscal e liquidação da despesa,
+o qual será processado na Secretaria da Fazenda (SEFAZ).
+7.3.4 - Em caso de controvérsia sobre dimensão, qualidade ou quantidade, será observado o art. 143 da Lei nº
+14.133/2021, com liquidação e pagamento da parcela incontroversa no prazo regular.
+7.3.5 - Multas definitivamente aplicadas após processo administrativo poderão ser descontadas de créditos da
+CONTRATADA ou cobradas pelos meios legalmente admitidos. Glosas de medição serão deduzidas no
+próprio período ou no subsequente, com memória de cálculo.
+7.3.6 - Não haverá antecipação de pagamento. Incidirão as retenções tributárias legalmente exigíveis, e
+eventual atraso imputável à Administração será atualizado pelo INPC entre a data de vencimento e a do
+efetivo pagamento, conforme disciplina do edital e do contrato.
+7.4 - DOTAÇÃO ORÇAMENTÁRIA
+7.4.1 - As despesas correrão pelas dotações abaixo ou por suas correspondentes nos exercícios subsequentes,
+condicionada a contratação à certificação de disponibilidade orçamentária e financeira no processo:
+Nº ÓRGÃO DOTAÇÃO E FONTE
+1 SAD 02.07.10.04.122.0401.8001.3.3.9.0.40.00.1.500-164 (Recurso Próprio).
+2 SEMED 02.14.20.12.365.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+
+--- [pag. PDF 18] ---
+Termo de Referência - Solução PCaaS | Página 18 de 19
+Nº ÓRGÃO DOTAÇÃO E FONTE
+3 SEMED 02.14.20.12.361.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+4 SEMED 02.14.60.13.122.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+5 SEMED 02.14.20.12.122.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+6 SEDS 02.18.10.08.244.0114.2077.3.3.90.40.00, Fonte 1660 (Transferência de Recursos do Fundo
+Nacional de Assistência Social – FNAS).
+7 SEDS 02.18.10.08.245.0115.2113.3.3.90.40.00, Fonte 1660 (Transferência de Recursos do Fundo
+Nacional de Assistência Social – FNAS).
+8 SEDS 02.18.10.08.245.0120.2117.3.3.90.40.00, Fonte 1660 (Transferência de Recursos do Fundo
+Nacional de Assistência Social – FNAS).
+9 SEDS 02.18.10.08.122.0401.8001.3.3.90.40.00, Fonte 1500 (Recurso Próprio).
+10 SAÚDE 02.15.10.10.122.0101.2035.3.3.90.40.1500 (Recurso Próprio).
+11 SAÚDE 02.15.10.10.302.0101.2035.3.3.90.40.1500 (Recurso Próprio).
+12 SAÚDE 02.15.10.10.302.0101.2037.3.3.90.40.1500 (Recurso Próprio).
+13 SAÚDE 02.15.10.10.302.0101.2049.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+14 SAÚDE 02.15.10.10.301.0101.2031.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+15 SAÚDE 02.15.10.10.305.0102.2043.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+16 SAÚDE 02.15.10.10.305.0102.2044.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+17 SAÚDE 02.15.10.10.305.0102.2046.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+18 SAÚDE 02.15.10.10.304.0102.2030.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+7.4.2 - A utilização das dotações vinculadas às normas de repasse juntadas ao processo sob os IDs 480463 e
+480779 ficará condicionada à confirmação, pelo setor orçamentário competente, de sua vigência,
+pertinência e compatibilidade com a despesa.
+8 - DA ESTIMATIVA DE PREÇOS E PREÇOS REFERENCIAIS
+8.1 - Formação da estimativa. A estimativa do valor da contratação deverá constar de documento separado
+elaborado pelo Departamento de Pesquisa Mercadológica, com preços mensais unitários referenciais,
+memória de cálculo, fontes, data-base, tratamento dos dados e metodologia, nos termos dos arts. 6º, inciso
+XXIII, alínea “i”, e 23 da Lei nº 14.133/2021.
+8.2 - Fontes e tratamento dos dados. A instrução deverá registrar as fontes efetivamente utilizadas, os
+dados comparáveis, o quadro comparativo, o tratamento dos valores discrepantes e o histórico das
+diligências realizadas, sem presumir fonte, cotação ou resultado que não esteja documentado no processo.
+8.3 - Juntada e divulgação. O orçamento estimado e seus documentos de suporte deverão ser juntados ao
+processo. A decisão sobre o momento de sua divulgação deverá constar do instrumento competente,
+preservadas as informações necessárias à formulação das propostas e observada a publicidade no
+momento legalmente exigido.
+8.4 - Compatibilidade com o objeto. O orçamento estimado deverá adotar o mesmo objeto, as mesmas
+configurações, os quantitativos físicos, a unidade mensal de remuneração, o período de 60 (sessenta)
+meses, os níveis de serviço, o licenciamento e a alocação de custos definidos neste Termo de Referência
+e em seus apêndices, com reconciliação entre valores unitários, subtotal mensal máximo e valor global
+máximo da contratação. A pesquisa anterior à licitação deverá informar integralmente a obrigação de
+renovação condicionada, sem ônus adicional decorrente da renovação, e colher manifestação inequívoca
+dos fornecedores quanto à ciência e à exequibilidade geral da solução.
+
+--- [pag. PDF 19] ---
+Termo de Referência - Solução PCaaS | Página 19 de 19
+Uberaba/MG, data da última assinatura eletrônica.
+Elaboração:
+João Martins da Silveira Neto
+Chefe de Departamento de Tecnologia da Informação
+Aprovação:
+Ernani Neri dos Santos Junior
+Secretário Municipal de Administração
+Secretaria requisitante: Secretaria Municipal de Administração
+Código: 2a2db760-7598-47fe-82d4-28d000480923
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52
+Assinado digitalmente por Ernani Neri dos Santos Junior, Data: 14/09/2026 11:01

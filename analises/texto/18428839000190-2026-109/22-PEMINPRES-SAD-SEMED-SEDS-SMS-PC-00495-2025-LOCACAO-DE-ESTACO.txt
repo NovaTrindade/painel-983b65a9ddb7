@@ -1,0 +1,1140 @@
+=== DOCUMENTO 22: PEMINPRES_-_SAD__SEMED__SEDS__SMS_(PC_00495.2025_-_LOCACAO_DE_ESTACOES_DE_TRABALHO_-_MICROCOMPUTADORES_COMPLETOS)_ATUALIZADA.pdf ===
+tipo: Minuta do Contrato | páginas: 26 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/22
+
+--- [pag. PDF 1] ---
+1	Minuta
+TERMO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS Nº
+O MUNICÍPIO DE UBERABA, pessoa jurídica de direito público
+interno, inscrito no CNPJ sob o nº 18.428.839/0001-90, com sede nesta cidade, na Rua Dom Luís
+Maria Santana, nº 141, Bairro Mercês, neste ato representado pelo Secretário de Administração
+Ernani Neri dos Santos Júnior, brasileiro, graduado em Ciências Econômicas, inscrito no CPF sob
+o nº 040.079.496-97 e portador do RG nº MG-10.236.586- SSP/MG., residente e domiciliado nesta
+cidade de Uberaba/MG., conforme delegação ínsita no Decreto nº 2.185/2026, ora denominado
+MUNICÍPIO e _____________________________, ora denominada CONTRATADA, tendo em vista o ato
+autorizativo do Sr. Secretário, datado de ___/___/____, no Processo de Licitação – Pregão
+Eletrônico nº ______/2026, ajustam o presente contrato, sujeitando-se os contratantes às normas
+da Lei Federal nº 14.133/2021; e Decreto Municipal nº 3.815/2023, demais normas aplicáveis à
+espécie, e às seguintes cláusulas e condições:
+CLÁUSULA I - DO OBJETO
+1.1 - Constitui objeto do presente instrumento a contratação de empresa especializada para a
+prestação contínua e sob demanda de solução integrada de estações de trabalho como
+serviço (PCaaS - PC as a Service), abrangendo a disponibilização e a gestão de
+microcomputadores, notebooks e monitores novos, com sistema operacional e pacote
+de escritório devidamente licenciados, bem como implantação, configuração,
+inventário, monitoramento operacional, suporte remoto e presencial, manutenção
+preventiva e corretiva, substituição de peças e equipamentos, continuidade
+operacional, atualização tecnológica autorizada, segurança da informação, proteção de
+dados pessoais, desmobilização e logística reversa, integrando este Contrato,
+independentemente de transcrição, os Apêndices 1 a 6; as Fichas Técnicas 1 a 4 do
+Apêndice 1 e os instrumentos 1 a 4 do Apêndice 5, que complementam as especificações
+e condições de execução do objeto, em atendimento aos órgãos e entidades municipais
+relacionados no Apêndice 2, observada a distribuição inicial e futura nele estabelecida e de
+acordo com o abaixo discriminado:
+1.2 - Itens de Catalogação, Unidades de Medição e Quantitativos:
+ITENS CÓD. DESCRIÇÃO QUANT./UN.
+01 023.0020 6 PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS
+- MICROCOMPUTADOR TIPO I, INCLUINDO 1 (UM) MONITOR,
+PERIFÉRICOS E SERVIÇOS ASSOCIADOS, CONFORME APÊNDICE 1.
+01 SV
+02 023.0020 7 PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS
+- MICROCOMPUTADOR TIPO II, INCLUINDO 1 (UM) MONITOR,
+PERIFÉRICOS E SERVIÇOS ASSOCIADOS, CONFORME APÊNDICE 1.
+01 SV
+03 043.0013 0 PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS
+- NOTEBOOK, INCLUINDO SERVIÇOS ASSOCIADOS, CONFORME
+APÊNDICE 1.
+01 SV
+04 043.00131 PRESTAÇÃO CONTÍNUA DE SOLUÇÃO PCaaS
+- MONITOR ADICIONAL, INCLUINDO SERVIÇOS ASSOCIADOS,
+CONFORME APÊNDICE 1.
+01 SV
+
+--- [pag. PDF 2] ---
+2
+1.2.1 – Quantitativo Consolidado de Equipamentos:
+ITENS DESCRIÇÃO QUANT./UN.
+01 Microcomputador Tipo I, incluindo 1 (um) monitor, periféricos, Sistema Operacional e
+pacote de programas (planilhas, texto e apresentação).
+2.299
+02 Microcomputador Tipo II, incluindo 1 (um) monitor, periféricos, Sistema Operacional e
+pacote de programas (planilhas, texto e apresentação).
+403
+03 Notebooks com Sistema Operacional e pacote de programas (planilhas, texto e
+apresentação).
+155
+04 Monitor adicional com tela mínima de 21 polegadas. 320
+1.2.2 - A unidade SV e a quantidade 01 indicadas na tabela de catalogação serão mantidas
+exclusivamente para identificação no catálogo e não substituem os quantitativos físicos da
+solução. Sem alteração dos códigos e das unidades SV do catálogo, a unidade contratual de
+medição e faturamento será o item PCaaS/mês, apurado por unidade efetivamente instalada,
+recebida, aceita e ativa, com proporcionalidade por dias corridos nas hipóteses do item 4.2.2
+Para os Microcomputadores Tipo I e Tipo II, cada item PCaaS/mês corresponderá ao
+conjunto funcional completo formado por 1 (um) microcomputador, 1 (um) monitor e os
+periféricos e acessórios integrantes da configuração; para o Notebook, corresponderá a 1
+(uma) unidade completa, incluindo os acessórios obrigatórios; e, para o Monitor Adicional,
+corresponderá a 1 (um) monitor solicitado e faturado separadamente. Para a execução,
+medição e pagamento, serão considerados os quantitativos consolidados do item 1.2.1 e o
+detalhamento do Apêndice 2.
+1.3 - Os serviços são classificados como comuns e contínuos de tecnologia da informação e
+comunicação, sem dedicação exclusiva de mão de obra, pois seus padrões de
+desempenho e qualidade podem ser objetivamente definidos por especificações usuais
+de mercado, indicadores e critérios de aceite, conforme a Lei nº 14.133/2021, o Decreto
+Municipal nº 3.815/2023 e a motivação constante do Estudo Técnico Preliminar.
+1.4 - Integram o presente Termo de Contrato, independentemente de transcrição e para todos os
+fins, o Edital, o Termo de Referência os Apêndices 1 a 6 e a proposta da CONTRATADA,
+observadas as finalidades específicas e a ordem de prevalência estabelecida no instrumento
+convocatório, devendo cada documento ser aplicado no âmbito de sua respectiva finalidade.
+ITENS DOCUMENTO FINALIDADE
+1.4.1 Apêndice 1 - Especificações Técnicas e
+Critérios de Equivalência
+Especificações mínimas, critérios de equivalência e
+comprovação técnica.
+1.4.2 Apêndice 2 - Quantitativos, Distribuição
+Inicial e Locais Estimados
+Quantitativos, distribuição inicial, saldo sob demanda e locais
+estimados.
+1.4.3 Apêndice 3 - Procedimentos de
+Implantação, Transição e Segurança dos
+Dados
+Implantação, transição, migração autorizada, proteção e
+tratamento seguro dos dados.
+1.4.4 Apêndice 4 - Requisitos de Manutenção,
+Central de Chamados e Níveis de Serviço
+Manutenção, suporte, central de chamados, prazos e níveis de
+serviço.
+1.4.5 Apêndice 5 - Instrumentos de
+Recebimento, Inspeção e Modelos
+Operacionais
+Recebimento, inspeção, testes, aceite e registros operacionais.
+1.4.6 Apêndice 6 - Instrumento de Medição de
+Resultado (IMR), Glosas e Relatórios
+Indicadores, aferição, glosas, memória de cálculo e relatórios
+de medição.
+1.5 – Definições de Regras de Interpretação:
+
+--- [pag. PDF 3] ---
+3
+1.5.1 - Para este Termo de Contrato, considera-se PCaaS (PC as a Service) a modalidade de
+prestação em que a CONTRATADA disponibiliza estações de trabalho configuradas e
+gerenciadas, com os serviços associados necessários ao seu ciclo de vida, mediante
+remuneração mensal vinculada às unidades efetivamente instaladas, aceitas e disponíveis,
+sem transferência de propriedade à CONTRATANTE. O PCaaS não se confunde com Desktop
+as a Service (DaaS), baseado em desktop virtualizado, nem com a mera locação de
+equipamentos desacompanhada de gestão, suporte e manutenção integrados.
+1.5.2 - Considera-se equipamento disponibilizado, aceito e ativo aquele efetivamente
+instalado, configurado, licenciado, testado, formalmente recebido e apto ao uso.
+Equipamento em trânsito, estoque, configuração, recusa ou reserva técnica não integra a
+base faturável. Ordem de Serviço é o documento formal que autoriza e delimita a execução;
+restabelecimento é a retomada provisória ou definitiva da operação; e solução definitiva é a
+correção que elimina a causa da falha sem dependência de contingência temporária.
+1.5.3 - Considera-se dia útil aquele em que houver expediente administrativo no Município
+de Uberaba; indisponibilidade computável, o período atribuível à CONTRATADA segundo o
+Apêndice 4; glosa, o redimensionamento do pagamento por serviço não prestado ou
+prestado abaixo do nível contratado; e sanção, a consequência administrativa aplicada em
+processo próprio.
+1.5.4 - Os prazos serão contados com exclusão do dia do começo e inclusão do dia do
+vencimento, salvo regra específica expressa. Registros da central de chamados, Ordens de
+Serviço, termos de aceite, inventários, relatórios e comunicações institucionais constituem as
+fontes primárias de evidência da execução.
+1.5.5 - Os Apêndices 1 a 6 do Termo de Referência complementam este Termo de Contrato
+e contêm o detalhamento técnico e operacional necessário à execução do objeto. A
+repetição resumida de requisito neste instrumento não afasta a disciplina detalhada
+constante do respectivo Apêndice, e qualquer alteração de obrigação dependerá de
+formalização pela autoridade competente.
+1.5.6- Os documentos integrantes deste contrato serão interpretados de forma integrada e
+complementar, cada qual no âmbito de sua finalidade específica, sem que a ausência de
+reprodução integral de seu conteúdo neste instrumento implique limitação, redução ou
+afastamento de sua eficácia ou das obrigações, requisitos, procedimentos e critérios neles
+estabelecidos.
+1.6 – Dos Requisitos da Contratação:
+1.6.1 – Requisitos Gerais e Regime de Prestação:
+1.6.1.1 - A contratação caracteriza-se como serviço comum e contínuo de tecnologia
+da informação e comunicação, sem dedicação exclusiva de mão de obra, estruturado
+no modelo PCaaS e remunerado pela disponibilização mensal dos equipamentos
+efetivamente instalados, aceitos e mantidos em operação nos níveis de serviço
+definidos.
+1.6.1.2 - A solução deverá ser prestada de forma integrada, com responsabilidade
+única da CONTRATADA pela entrega, instalação, licenciamento, inventário,
+manutenção, suporte, substituição, atualização autorizada, transição e retirada dos
+equipamentos, independentemente de garantias ou contratos mantidos com
+
+--- [pag. PDF 4] ---
+4
+fabricantes, distribuidores ou terceiros. A responsabilidade única abrange também o
+planejamento e a execução da renovação tecnológica quando acionada por
+prorrogação juridicamente formalizada.
+1.6.1.3 - Todos os equipamentos, componentes e licenças deverão permanecer
+regulares, rastreáveis e compatíveis com as especificações do Apêndice 1 durante o
+período em que estiverem disponibilizados, vedada a redução de configuração,
+capacidade, desempenho, segurança ou funcionalidade sem autorização formal do
+MUNICÍPIO.
+1.6.1.4 - A CONTRATADA deverá manter inventário atualizado por número de série
+e patrimônio lógico, relacionando equipamento, configuração, garantia, licença,
+unidade, usuário ou setor estritamente necessário, data de instalação, aceite,
+movimentações, intervenções, substituições e retirada. A Administração terá acesso
+de consulta, exportação em formato aberto, conciliação eletrônica mensal e
+inventário físico anual, observados os Apêndices 3, 4 e 5.
+1.6.2 - A plataforma de gestão do PCaaS deverá manter, para os Microcomputadores Tipo I,
+Microcomputadores Tipo II e Notebooks, cadastro da localização prevista, linha de base
+homologada de hardware, histórico de movimentações autorizadas e registros de alterações
+relevantes de configuração. Para os Microcomputadores Tipo I e Tipo II, deverá também
+coletar e tratar os eventos do sensor eletrônico de abertura ou intrusão do gabinete exigido
+no Apêndice 1. O sensor detectará a abertura ou remoção da tampa; a classificação do
+evento como autorizado ou não autorizado caberá ao MUNICÍPIO, após confronto com
+Ordem de Serviço e registros de manutenção, movimentação ou mudança.
+1.6.3 - A solução deverá comparar a localização prevista com as evidências lógicas de
+conexão e a configuração atual com a linha de base, gerando alertas auditáveis de
+movimentação ou alteração não autorizada quando houver divergência confirmada e
+inexistir Ordem de Serviço ou autorização correspondente. Rastreabilidade lógica não se
+confunde com geolocalização por GPS e somente indicará a última evidência observada, com
+data, hora, fonte e limitações técnicas.
+1.6.4 - Os alertas constituirão evidência para fiscalização e investigação, mas não
+caracterizarão automaticamente irregularidade, autoria ou responsabilidade. O detalhamento
+dos campos, condições de funcionamento, retenção, tratamento, testes e evidências constará
+dos Apêndices 1, 3, 4, 5 e 6.
+1.6.4.1 - Os requisitos de segurança da informação, proteção de dados, controle de
+acesso técnico, cadeia de custódia, telemetria, armazenamento em nuvem,
+transferência internacional, tratamento de mídias e resposta a incidentes observarão
+o Apêndice 3 e as políticas institucionais formalmente comunicadas. A coleta ficará
+limitada ao necessário à gestão do parque, vedados conteúdo de arquivos,
+mensagens, credenciais, capturas de tela, digitação e histórico de navegação.
+1.6.4.2 - O atendimento de cada requisito técnico ou operacional deverá ser
+demonstrado pelo documento, registro de sistema, evidência ou teste indicado neste
+Termo de Contrato e em seus apêndices. Declaração unilateral será suficiente
+somente quando expressamente admitida e quando o requisito não comportar
+verificação objetiva por outro meio.
+1.6.5 – Indicação de Marcas, Modelos e Referências Técnicas:
+
+--- [pag. PDF 5] ---
+51.6.5.1 - Não se estabelece marca ou modelo de fabricante para os equipamentos
+de hardware. A conformidade será aferida pelos requisitos objetivos e pelos critérios
+de equivalência previstos no Apêndice 1.
+1.6.5.2 - As referências nominativas de software e licenciamento constam do
+Apêndice 1 e deverão ser interpretadas em conjunto com a motivação registrada no
+Estudo Técnico Preliminar, sem extensão a marcas de hardware ou a requisitos não
+expressamente previstos.
+1.6.5.3 - Não há marcas de hardware previamente vedadas. A rejeição dependerá da
+demonstração objetiva de desconformidade com os requisitos da contratação.
+1.6.6 – Subcontratação:
+1.6.6.1 - É vedada a subcontratação da parcela principal correspondente à
+governança e à gestão integrada da solução PCaaS, permanecendo sob
+responsabilidade direta e indelegável da CONTRATADA a gestão da solução, a
+coordenação da central de chamados, a interlocução com a Administração, o
+gerenciamento dos níveis de serviço, o controle da execução e a responsabilidade
+pelo integral cumprimento das obrigações contratuais.
+1.6.6.2 - É vedada a subcontratação total do objeto, bem como a transferência a
+terceiros da governança da solução, da gestão contratual, da central de coordenação
+dos chamados, da interlocução com o MUNICÍPIO ou da responsabilidade pelos
+níveis de serviço e pelos resultados da contratação.
+1.6.6.3 - Será admitida, mediante prévia autorização da Administração, a
+subcontratação de até 30% (trinta por cento) do valor total contratado para parcelas
+acessórias e atividades operacionais de apoio, inclusive atividades de campo,
+logística, transporte, armazenamento, descarte sustentável, assistência técnica
+autorizada, serviços de nuvem e apoio de fabricantes ou distribuidores, podendo tais
+atividades compreender intervenções operacionais de manutenção, suporte e
+substituição de componentes ou equipamentos, desde que não haja transferência da
+gestão, da coordenação, da responsabilidade contratual ou dos níveis de serviço
+atribuídos à CONTRATADA.
+1.6.6.4 - A utilização de subcontratadas, rede de assistência técnica autorizada,
+fabricantes, distribuidores ou outros terceiros não estabelecerá vínculo destes com o
+MUNICÍPIO e não reduzirá, limitará ou excluirá a responsabilidade integral da
+CONTRATADA pela qualidade, tempestividade, segurança, continuidade e
+conformidade dos serviços executados.
+1.7 – Manutenção, suporte e Continuidade Operacional:
+1.7.1 - A CONTRATADA responderá pela cobertura integral de manutenção e manterá
+reserva técnica de 2% (dois por cento) por tipo de equipamento, calculada mensalmente
+sobre as unidades efetivamente instaladas, recebidas, aceitas e ativas, com arredondamento
+para cima e mínimo de uma unidade quando houver equipamento ativo da categoria. A
+reserva não será faturada, ficará em local que permita o SLA, será recomposta em até 5
+(cinco) dias úteis e poderá restabelecer o serviço provisoriamente; somente permanecerá
+
+--- [pag. PDF 6] ---
+6
+como substituição definitiva se for nova, de linha ativa, garantida, compatível e equivalente
+ou superior.
+1.7.2 - Os prazos de atendimento, restabelecimento e solução definitiva, as prioridades P1 a
+P4, a operação 24x7, a recorrência, a reserva, o monitoramento de desempenho, as
+evidências, as exclusões de contagem e os efeitos sobre a medição observarão os Apêndices
+4 e 6. A garantia do fabricante será complementar e não poderá ser oposta ao MUNICÍPIO
+para limitar a responsabilidade da CONTRATADA.
+1.7.3 - Para fins de continuidade do serviço, a cobertura operacional compreenderá, quanto
+aos equipamentos, acessórios e baterias integrantes do PCaaS, os danos acidentais ocorridos
+durante o uso regular, inclusive queda, impacto, quebra involuntária e contato ou
+derramamento de líquido; furto simples ou qualificado; roubo; e os eventos elétricos
+definidos neste item. Nos eventos cobertos, a CONTRATADA deverá, sem franquia,
+coparticipação, cobrança adicional ou repasse de custo ao MUNICÍPIO, registrar o chamado,
+avaliar e remover o equipamento afetado, disponibilizar equipamento substituto e realizar o
+reparo ou a substituição definitiva nos prazos estabelecidos nos Apêndices 4 e 6.
+1.7.4 - O equipamento substituto deverá possuir especificações iguais ou superiores às
+contratadas, com preservação ou recomposição das configurações e licenças sob
+responsabilidade da CONTRATADA, bem como atualização do inventário e manutenção da
+rastreabilidade. A recuperação de dados observará as responsabilidades e as fontes de cópia
+de segurança definidas no Apêndice 3. O atendimento e a reposição não poderão ser
+condicionados à apuração prévia de responsabilidade nem à existência, à análise ou à
+regulação de eventual seguro contratado pela CONTRATADA. Eventual dolo ou fraude
+somente produzirá efeitos após apuração em processo próprio, com contraditório e ampla
+defesa.
+1.7.5 - Incêndio, fumaça, fuligem, vazamento, infiltração, alagamento e ações do tempo não
+integram a cobertura operacional, independentemente de sua extensão, salvo quando o
+dano decorrer comprovadamente de ação ou omissão da CONTRATADA. A alocação de
+responsabilidades por esses eventos será disciplinada pela matriz de riscos, pelo edital e pelo
+contrato, mediante análise do nexo causal e das circunstâncias comprovadas.
+1.7.6 - Na ocorrência dos eventos referidos no item 1.7.5, permanecerão exigíveis as
+medidas de contenção, segurança, comunicação, preservação de evidências e continuidade
+materialmente possíveis. Os efeitos sobre os níveis de serviço, os custos e a responsabilidade
+financeira observarão a matriz de riscos, o edital e o contrato, sem transferência automática
+de riscos entre as partes.
+1.7.7 - A comunicação formal de furto ou roubo iniciará imediatamente a contagem do SLA
+e a obrigação de restabelecimento, sem necessidade de aguardar boletim de ocorrência,
+regulação de seguro ou conclusão da apuração. O boletim de ocorrência deverá ser
+apresentado pelo MUNICÍPIO em até 2 (dois) dias úteis, ressalvada impossibilidade
+comprovada perante a autoridade competente.
+1.7.8 - A alegação de fraude, dolo, participação intencional ou mau uso não suspenderá o
+atendimento nem autorizará cobrança antecipada. A CONTRATADA suportará o ônus da
+demonstração por laudo técnico qualificado, emitido pelo fabricante, assistência técnica
+autorizada, seguradora ou entidade técnica independente, com identificação e número de
+série, registros fotográficos e técnicos, diagnóstico, causa provável, nexo causal,
+possibilidade de reparo e valor demonstrado. A responsabilidade será decidida em
+procedimento próprio, com contraditório e ampla defesa.
+
+--- [pag. PDF 7] ---
+71.7.9 - Eventual ressarcimento somente será exigível após decisão administrativa e ficará
+limitado ao dano direto comprovado e ao menor valor entre o reparo e a reposição por
+equipamento equivalente, considerados o tempo de uso, o estado de conservação e a
+depreciação. Não serão admitidos lucros cessantes, custos administrativos, franquias, taxas
+ou cobranças acessórias.
+1.7.10 - A cobertura contra danos elétricos abrangerá oscilação de tensão, sobretensão,
+subtensão, curto-circuito, transientes, falha de aterramento, rompimento de neutro, descarga
+atmosférica e eventos decorrentes da interrupção ou do restabelecimento de energia.
+Alcançará equipamentos e acessórios fornecidos, inclusive fontes, placas, armazenamento,
+monitores, carregadores, adaptadores e periféricos. A CONTRATADA realizará diagnóstico,
+reparo, substituição de componentes ou reposição integral, sem franquia ou cobrança
+adicional, fornecerá contingência quando necessária ao SLA e restaurará sistema operacional,
+licenças, drivers, configurações e inventário. Eventual irregularidade da infraestrutura será
+registrada em laudo com medições, causa provável e recomendações, sem suspender
+automaticamente a cobertura; a obrigação não inclui a manutenção ou a reparação da rede
+elétrica municipal.
+1.8 – Sustentabilidade:
+1.8.1 - A eficiência energética, a logística reversa e a destinação de embalagens, peças,
+baterias, mídias e equipamentos observarão a legislação ambiental aplicável e o ciclo de vida
+do objeto. A CONTRATADA apresentará rastreabilidade por número de série e comprovantes
+de operador habilitado quando houver resíduo; reutilização ou recondicionamento de bem
+de sua propriedade dependerá de sanitização certificada.
+CLÁUSULA II – DO PRAZO, CONDIÇÕES E DA PRESTAÇÃO DOS SERVIÇOS
+2.1 - O prazo inicial de vigência do contrato será de 60 (sessenta) meses, com início a partir da
+data da última assinatura eletrônica das partes contratantes, podendo ser prorrogado se
+houver interesse da Administração Pública e em observância a fundamentação e as
+condições estabelecidas a seguir:
+2.1.1 - Eventual prorrogação, por segundo ciclo de referência de até 60 (sessenta) meses e
+prazo total potencial de até 120 (cento e vinte) meses, dependerá de demonstração
+atualizada de vantajosidade, disponibilidade orçamentária, interesse da Administração,
+regularidade da execução, atendimento aos requisitos legais contratuais e decisão
+administrativa formal, nos termos do art. 107, sem direito adquirido da CONTRATADA. A
+contratação poderá encerrar-se normalmente ao final do primeiro ciclo.
+2.2 – Condições de Execução, Ordens de Serviço e Mobilização:
+2.2.1 - A execução dependerá de Ordem de Serviço emitida por autoridade ou servidor
+competente. Cada Ordem de Serviço deverá identificar, no mínimo, o tipo e a quantidade de
+equipamentos, a unidade e o endereço de instalação, o responsável local, o prazo aplicável,
+as condições de acesso e as providências prévias atribuídas a cada parte.
+2.2.2 - O prazo de execução começará no primeiro dia corrido seguinte ao recebimento
+válido da Ordem de Serviço, desde que estejam disponíveis as informações, acessos e
+condições sob responsabilidade do MUNICÍPIO. Impedimentos comprovadamente
+
+--- [pag. PDF 8] ---
+8
+imputáveis à Administração serão registrados e produzirão apenas os efeitos proporcionais
+ao período afetado.
+2.2.3 - A implantação inicial deverá ser concluída em até 60 (sessenta) dias corridos. As
+demandas futuras deverão ser atendidas em até 30 (trinta) dias corridos, admitida uma única
+prorrogação por igual período somente diante de fato superveniente comprovado, pedido
+apresentado antes do vencimento e decisão expressa e motivada da Administração.
+2.2.4 - A CONTRATADA apresentará, em até 5 (cinco) dias úteis contados da assinatura do
+contrato, Plano de Implantação com piloto representativo, ondas, unidades, quantitativos,
+responsáveis, checklist de prontidão, contingência, estabilização, critérios de aceite e
+tratamento de riscos. A implantação em massa dependerá da aprovação formal do piloto, e
+falha relevante poderá suspender a onda seguinte.
+2.2.5 - Antes da primeira implantação, o plano será validado em reunião registrada em ata,
+com definição de contatos, escalonamento, fluxo de Ordens de Serviço, imagem
+homologada, licenciamento, acessos, integração de chamados, inventário, testes, aceite,
+medição, continuidade e reversão. A validação organiza a execução e não autoriza alteração
+de escopo, prazo, preço ou responsabilidade.
+2.2.6. Para fins de leitura e controle, os quantitativos estão segregados entre implantação
+imediata e demanda futura, conforme o quadro a seguir:
+Categoria Quantitativo
+máximo
+Implantação
+imediata
+Demanda futura
+Microcomputador
+Tipo I
+2.299 1.115 1.184
+Microcomputador
+Tipo II
+403 316 87
+Notebook 155 115 40
+Monitor adicional 320 0 320
+Total de
+computadores e
+notebooks
+2.857 1.546 1.311
+Total de itens
+faturáveis
+3.177 1.546 1.631
+2.2.7. Os quantitativos da implantação imediata constituem teto acionável por Ordem de
+Serviço inicial, enquanto a demanda futura dependerá de Ordens de Serviço posteriores. Em
+ambos os casos, a instalação efetiva dependerá de cronograma aprovado pela fiscalização,
+sem obrigação de consumo de quantidades não incluídas na respectiva Ordem de Serviço.
+2.3 – Locais e Horários de Execução:
+2.3.1 - Os serviços serão executados nas unidades municipais indicadas nas Ordens de
+Serviço, observados os locais estimados do Apêndice 2 e os horários, procedimentos de
+agendamento e condições de acesso previstos no Apêndice 3.
+2.4 – Rotinas de Entrega, Instalação, Aceite e Controle de Mudanças:
+
+--- [pag. PDF 9] ---
+9
+2.4.1 - A entrega física, por si só, não caracteriza disponibilização nem faturamento. O
+equipamento será considerado ativo após instalação, configuração, imagem homologada,
+atualização, identificação, licenciamento, inventário, linha de base, teste funcional e aceite
+formal, conforme os Apêndices 3 e 5.
+2.4.2 - Equipamento rejeitado, incompleto ou em desconformidade não será incluído na
+medição até sua regularização e novo aceite, sem prejuízo da correção, substituição e demais
+consequências previstas nos documentos da contratação.
+2.4.3 - A substituição de marca, modelo ou componente somente será admitida mediante
+solicitação fundamentada, comprovação oficial de equivalência ou superioridade requisito
+por requisito e autorização prévia da fiscalização. Para restabelecimento emergencial, a
+reserva poderá ser usada sem autorização prévia, com registro. A permanência definitiva
+exigirá equipamento novo, de fabricação ou comercialização ativa, garantia pelo período
+remanescente, compatibilidade, segurança, licenças e desempenho iguais ou superiores, sem
+cobrança adicional.
+2.4.4 - Chamados, intervenções, movimentações, substituições, indisponibilidades e
+mudanças deverão ser registrados na ferramenta indicada pela Administração ou em portal
+próprio integrado bidirecionalmente, com identificador único, horários originais, trilha de
+auditoria, exportação aberta e vedação de encerramento ou reclassificação unilateral. Toda
+movimentação autorizada deverá indicar equipamento, origem, destino, motivo, data e hora,
+Ordem de Serviço ou autorização, executor e responsável pelo aceite na nova unidade, com
+atualização do inventário.
+2.4.5 - Nenhuma alteração que afete arquitetura, imagem, BIOS, firmware, drivers,
+credenciais, segurança, licenciamento, integração, agente ou dados poderá ser executada
+sem o processo de gestão de mudanças do Apêndice 3. Mudanças emergenciais destinadas
+à contenção imediata serão registradas, comunicadas e submetidas a revisão e ratificação.
+2.5 – Equipamentos, Licenças e Recursos a serem Disponibilizados:
+2.5.1 - Os equipamentos, as licenças, os documentos, as ferramentas e os demais recursos
+necessários à execução observarão as especificações do Apêndice 1 e as obrigações previstas
+no cláusula 9 deste contrato.
+2.5.2 - A alocação dos custos diretos e indiretos da execução observará o item 9.44 e as
+responsabilidades expressamente atribuídas ao MUNICÍPIO, sem criação de cobrança não
+prevista.
+2.6 – Atualização, Upgrade, Substituição e Renovação Tecnológica condicionada à
+Prorrogação:
+2.6.1 - A CONTRATADA deverá assegurar que os microcomputadores Tipo I, os
+microcomputadores Tipo II, os notebooks e os monitores permaneçam adequados,
+eficientes, seguros, compatíveis e plenamente funcionais durante toda a vigência contratual,
+observados os requisitos técnicos, os sistemas institucionais abrangidos e os níveis de serviço
+estabelecidos.
+2.6.2 - Durante os 60 (sessenta) meses iniciais, não haverá renovação integral automática de
+geração tecnológica vinculada exclusivamente ao tempo de uso. Todos os
+Microcomputadores Tipo I, Microcomputadores Tipo II e Notebooks continuarão submetidos
+aos critérios objetivos de desempenho, compatibilidade, segurança, suporte e capacidade
+
+--- [pag. PDF 10] ---
+10
+operacional, sem prejuízo das intervenções ordinárias obrigatórias. A vedação temporal
+deste item não alcança a renovação tecnológica condicionada à formalização de prorrogação
+posterior ao primeiro ciclo.
+2.6.3 - A necessidade de intervenção poderá decorrer, entre outras situações tecnicamente
+comprovadas, de:
+2.6.3.1 - degradação persistente de desempenho;
+2.6.3.2 – insuficiência de capacidade operacional;
+2.6.3.3 – incompatibilidade com os sistemas institucionais abrangidos;
+2.6.3.4 - impossibilidade de executar atualizações, novas versões, módulos ou
+substitutos institucionais oficialmente homologados;
+2.6.3.5 - vulnerabilidade de segurança sem correção disponível;
+2.6.3.6 – encerramento de suporte, firmware, drivers ou atualizações necessárias;
+2.6.3.7 – descontinuação acompanhada de impossibilidade de manutenção
+adequada;
+2.6.3.8 – falhas recorrentes ou descumprimento dos níveis de serviço;
+2.6.3.9 - gargalos persistentes de processamento, memória, armazenamento, vídeo
+ou conectividade.
+2.6.4 - Confirmada a insuficiência conforme os procedimentos dos apêndices, a
+CONTRATADA deverá, sem cobrança adicional:
+2.6.4.1 – realizar correções, atualizações e otimizações
+2.6.4.2 – promover upgrade de componentes;
+2.6.4.3 - substituir integralmente o equipamento, quando as medidas anteriores
+forem insuficientes, inadequadas ou incompatíveis com sua arquitetura.
+2.6.5 - O upgrade ou a substituição deverá eliminar a causa da insuficiência, restabelecer ou
+superar a linha de base homologada e permitir a execução adequada dos sistemas
+institucionais abrangidos em suas versões vigentes.
+2.6.6 - Toda intervenção dependerá de aprovação da Administração e deverá preservar:
+2.6.6.1 – desempenho;
+2.6.6.2 – compatibilidade;
+2.6.6.3 – segurança;
+2.6.6.4 – licenciamento;
+2.6.6.5 – garantia;
+2.6.6.6 – suporte;
+2.6.6.7 – inventário;
+2.6.6.8 – configurações institucionais;
+2.6.6.9 – níveis de serviço;
+2.6.6.10 – continuidade operacional.
+2.6.7 - Os equipamentos instalados poderão permanecer em operação após sua
+descontinuação comercial, desde que continuem recebendo suporte adequado e atendendo
+integralmente aos requisitos contratuais. Novas entregas e substituições deverão utilizar
+equipamentos novos, de linha ativa, com características iguais ou superiores.
+
+--- [pag. PDF 11] ---
+11
+2.6.8 - A equivalência ou superioridade de novo modelo, geração ou configuração deverá
+ser demonstrada requisito por requisito, inclusive por documentação oficial, testes e
+benchmarks aplicáveis, e dependerá de aprovação prévia da Administração.
+2.6.9 - Os upgrades obrigatórios necessários para preservar os requisitos originalmente
+contratados e acompanhar a evolução regular dos sistemas institucionais abrangidos estarão
+incluídos no preço mensal, sem cobrança adicional.
+2.6.10 - Necessidades completamente novas, não abrangidas pelo objeto original,
+dependerão de justificativa técnica, análise de compatibilidade, pesquisa de preços e
+instrumento contratual juridicamente cabível.
+2.6.11 - As obrigações de atualização, upgrade, reparo e substituição permanecerão
+exigíveis até o último dia da vigência contratual, independentemente do período restante.
+2.6.12 - Os critérios técnicos de avaliação constarão do Apêndice 1; os procedimentos de
+atendimento e intervenção, do Apêndice 4; e os prazos, indicadores, evidências e
+consequências pelo descumprimento, do Apêndice 6.
+2.6.13 – Da Renovação Tecnológica Condicionada à Prorrogação:
+2.6.13.1 - Caso seja formalizada prorrogação contratual que resulte na continuidade
+da solução PCaaS após os 60 (sessenta) meses iniciais de vigência, a CONTRATADA
+deverá promover a renovação tecnológica dos Microcomputadores Tipo I,
+Microcomputadores Tipo II e Notebooks abrangidos pela contratação, observadas as
+condições deste contrato, do Termo de Referência e de seus Apêndices.
+2.6.13.2 - A obrigação de renovação somente será acionada mediante formalização
+juridicamente válida da prorrogação, não constituindo direito da CONTRATADA à
+continuidade contratual.
+2.6.13.3 - A comunicação administrativa acerca da intenção de avaliar ou promover
+a prorrogação poderá iniciar as atividades de planejamento, análise técnica e
+elaboração do Plano de Renovação Tecnológica, sem produzir direito adquirido,
+indenização, faturamento antecipado ou obrigação do MUNICÍPIO de efetivamente
+prorrogar o contrato.
+2.6.13.4 - Não sendo formalizada a prorrogação, não haverá obrigação de
+renovação integral do parque fundada exclusivamente no término dos 60 (sessenta)
+meses iniciais, permanecendo exigíveis até o encerramento todas as obrigações
+ordinárias de manutenção, suporte, segurança, atualização, upgrade, reparo e
+substituição.
+2.6.13.5 - A renovação tecnológica decorrente da prorrogação deverá ser realizada
+sem qualquer ônus adicional para o MUNICÍPIO.
+2.6.13.6 - Não será admitida cobrança específica, extraordinária ou apartada
+decorrente da renovação, inclusive por disponibilização dos equipamentos
+substitutos, transporte, instalação, configuração, aplicação de imagem, migração
+autorizada, licenciamento necessário, testes, estabilização, retirada, sanitização,
+logística reversa, mão de obra ou demais atividades necessárias à renovação.
+
+--- [pag. PDF 12] ---
+12
+2.6.13.7 – A renovação não produzirá duplicidade de faturamento, aumento do
+quantitativo contratado nem consumo do saldo destinado às demandas futuras.
+2.6.13.8 – A renovação abrangerá 100% dos Microcomputadores Tipo I,
+Microcomputadores Tipo II e Notebooks que integrem a base elegível no início do
+período prorrogado, ressalvados os equipamentos reconhecidos como já renovados
+nos termos deste Termo de Contrato.
+2.6.13.9 – Poderá ser considerado já renovado o equipamento integralmente
+substituído e definitivamente aceito nos 12 (doze) meses anteriores ao início do
+segundo ciclo, desde que atenda integralmente aos critérios tecnológicos definidos
+para o período prorrogado e seja expressamente aprovado pela fiscalização.
+2.6.13.10 – A mera substituição recente não dispensará a renovação quando o
+equipamento não atender integralmente aos requisitos tecnológicos aplicáveis ao
+segundo ciclo.
+2.6.13.11 – Os equipamentos destinados à renovação deverão ser novos de fábrica,
+sem uso anterior, não recondicionados, não remanufaturados, não provenientes de
+mostruário, pertencentes a linha corporativa ativa e dotados de suporte oficial
+compatível com a continuidade da contratação.
+2.6.13.12 – A configuração tecnológica dos equipamentos renovados será
+determinada mediante metodologia objetiva previamente estabelecida no Apêndice
+1, considerando o mercado e o ambiente tecnológico existentes no período da
+renovação, vedado downgrade de qualquer requisito originalmente exigido.
+2.6.13.13 – A CONTRATADA deverá demonstrar a adequação dos equipamentos por
+meio de matriz comparativa, documentação oficial, benchmarks, testes e demais
+evidências objetivas definidas no Apêndice 1.
+2.6.13.14 – A substituição em massa dependerá de aprovação técnica prévia dos
+modelos pela Administração.
+2.6.13. 15 - Os monitores, inclusive aqueles vinculados aos Microcomputadores Tipo
+I e Tipo II, não serão automaticamente substituídos exclusivamente em decorrência
+da prorrogação contratual, podendo permanecer no segundo ciclo enquanto
+atenderem integralmente aos requisitos contratuais.
+2.6.13.16 – Os monitores que apresentarem perda de conformidade, falha,
+degradação, incompatibilidade ou insuficiência deverão ser reparados ou
+substituídos pela CONTRATADA, sem ônus adicional para o MUNICÍPIO, conforme os
+níveis de serviço aplicáveis.
+2.6.13.17 – O planejamento da renovação deverá ser iniciado preferencialmente
+com antecedência de 180 (cento e oitenta) dias do encerramento do primeiro ciclo.
+2.6.13.18 – A CONTRATADA deverá apresentar Plano de Renovação Tecnológica
+contendo inventário, modelos, matriz de evolução, piloto, ondas, cronograma,
+logística, instalação, configuração, migração autorizada, testes, contingência,
+estabilização, retirada, sanitização, logística reversa e demais elementos definidos
+nos Apêndices.
+
+--- [pag. PDF 13] ---
+132.6.13.19 – Formalizada a prorrogação, a renovação deverá ser executada mediante
+piloto e ondas sucessivas e concluída integralmente em até 90 (noventa) dias
+corridos contados do início do período prorrogado.
+2.6.13.20 – O equipamento anterior somente poderá ser retirado após o
+equipamento substituto estar instalado, configurado, atualizado, devidamente
+licenciado, conectado, inventariado, testado, com migração autorizada concluída
+quando aplicável e apto à continuidade da operação.
+2.6.13.21 – A renovação de cada unidade somente será considerada concluída após
+atendimento dos critérios técnicos, atualização do inventário, registro da
+substituição, estabelecimento de nova linha de base, período de estabilização e
+aceite definitivo.
+2.6.13.22 – O acompanhamento da renovação será realizado pelo Índice de
+Renovação Aceita - IRA, observados os marcos mínimos de 25% até D+30, 60% até
+D+60 e 100% até D+90.
+2.6.13. 23 – O descumprimento dos marcos será tratado conforme os mecanismos
+de medição e glosa existentes no Instrumento de Medição de Resultado, observada
+a vedação à dupla incidência sobre o mesmo fato.
+2.6.13.24 – A renovação tecnológica prevista nesta seção não afasta, suspende ou
+reduz qualquer obrigação ordinária de manutenção, atualização, correção, upgrade,
+segurança ou substituição durante os primeiros 60 meses ou durante o período
+prorrogado.
+2.6.13.25 - A prorrogação permanecerá condicionada à demonstração de
+vantajosidade para a Administração, não sendo a obrigação de renovação,
+isoladamente considerada, fundamento suficiente para justificar a continuidade do
+contrato.
+2.7 – Transição e Encerramento:
+2.7.1 - A implantação, a convivência com o parque atual, a migração autorizada e a proteção
+dos dados observarão o Apêndice 3. A CONTRATADA apresentará Plano de Saída com
+antecedência mínima de 120 (cento e vinte) dias do término, ou tão logo cientificada de
+encerramento antecipado, contemplando inventário, exportação em formato aberto,
+migração, sanitização, retirada faseada e cooperação com eventual sucessora, sem retenção
+de dados ou dependência exclusiva do fornecedor. Na hipótese de segundo ciclo, a transição
+observará o planejamento iniciado preferencialmente em T-180, o Plano de Renovação, o
+piloto, as ondas e a conclusão integral até D+90.
+2.7.2 - Ao término de cada disponibilização ou do contrato, a retirada ocorrerá mediante
+agendamento, inventário, cadeia de custódia, sanitização certificada e logística reversa
+rastreável. Nenhum equipamento será retirado antes da validação da transição pela
+Administração, observado o período de vigência e a formalização cabível para qualquer
+necessidade superveniente.
+CLÁUSULA III – DO VALOR
+3.1 – O MUNICIPIO pagará à CONTRATADA o valor total de R$ _________ (_________), sendo os
+valores unitários de R$ ________ (_________).
+
+--- [pag. PDF 14] ---
+143.2 - Deverão estar incluídas, no preço do objeto, todas as despesas, sem quaisquer ônus para a
+Administração Pública, tais como frete, carga, descarga, tributos e quaisquer outros que
+incidam sobre a avença.
+CLÁUSULA IV – DOS CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+4.1 – Critérios para o Recebimento dos Serviços:
+4.1.1 – O recebimento provisório e o recebimento definitivo observarão os critérios
+objetivos, os testes, os registros e os instrumentos previstos nos Apêndices 3 e 5, sem que o
+aceite provisório ou definitivo exclua a responsabilidade da CONTRATADA pela perfeita
+execução. Para a renovação, a conclusão de cada unidade e sua contabilização no IRA
+dependerão do aceite definitivo e dos registros previstos nos Apêndices 3 e 5.
+4.1.2 – Para o recebimento, a fiscalização verificará o cumprimento cumulativo das
+condições de disponibilização estabelecidas no item 2.4.1 e dos instrumentos previstos nos
+Apêndices 3 e 5.
+4.1.3 – A rejeição, a regularização e o novo aceite observarão o item 2.4.2 e serão
+documentados conforme o item 4.1.4, sem inclusão do equipamento na medição enquanto
+persistir a desconformidade.
+4.1.4 - O recebimento será formalizado nos instrumentos próprios, com identificação do
+objeto examinado, requisitos verificados, evidências, ressalvas e responsáveis. A rejeição total
+ou parcial deverá indicar a desconformidade e a providência necessária, e o uso emergencial
+de equipamento não implicará aceite tácito nem renúncia à correção.
+4.2 – Medição e Ateste:
+4.2.1 - A medição mensal considerará os equipamentos efetivamente instalados, recebidos,
+aceitos e ativos, os dias corridos de disponibilização, as movimentações, os chamados, a
+disponibilidade e os resultados do Apêndice 6. Reserva, estoque, trânsito, configuração e
+equipamentos recusados não integrarão a base faturável. Equipamento renovado substituirá
+a unidade anterior na mesma base contratual, sem sobreposição faturável, e somente
+integrará o IRA após o aceite definitivo.
+4.2.2 – No primeiro e no último mês de disponibilização, o valor será calculado
+proporcionalmente aos dias de operação, adotado o número de dias corridos do respectivo
+mês. Não haverá pagamento por equipamento entregue, mas não aceito, mantido em
+estoque ou solicitado sem Ordem de Serviço válida.
+4.2.3 – A CONTRATADA apresentará prévia de medição até o 3º (terceiro) dia útil, com
+inventário, dias ativos, movimentações, chamados, SLAs, disponibilidade, reserva de 2%,
+desempenho, incidentes, atualizações, glosas e memória de cálculo. A Administração
+analisará em até 5 (cinco) dias úteis e a CONTRATADA corrigirá divergências em até 2 (dois)
+dias úteis, emitindo a nota somente após autorização. Durante a renovação, o relatório
+mensal incluirá base elegível, unidades renovadas e pendentes, IRA, séries anterior e nova,
+datas de substituição e aceite, estabilização e pendências.
+4.2.4 – A fiscalização conciliará Ordens de Serviço, termos de aceite, inventário, chamados,
+telemetria, logs e documentos de movimentação. Nenhuma fonte unilateral terá presunção
+
+--- [pag. PDF 15] ---
+15
+absoluta; divergências serão decididas motivadamente, preservadas a manifestação da
+CONTRATADA e a parcela incontroversa.
+4.2.5 – As glosas observarão exclusivamente os critérios objetivos, fórmulas, bases de
+incidência, regras de precedência e limites do Apêndice 6. Os percentuais de 2%, 5%, 10% e
+20% somente incidirão quando houver regra expressa para o indicador e sobre a base
+remanescente da parcela efetivamente afetada, após eventual parcela suspensa.
+Permanecem os limites de 50% da BR da unidade faturável afetada e de 20% da medição
+mensal após as suspensões. O mesmo núcleo fático e o mesmo efeito operacional não
+produzirão dupla glosa, e eventual sanção dependerá de fundamento autônomo e processo
+próprio.
+4.2.6 - A memória de medição deverá ser reprodutível e rastreável por equipamento,
+período, Ordem de Serviço, termo de aceite, valor unitário, evento de indisponibilidade e
+regra de glosa aplicada. Parcela sem suporte documental suficiente permanecerá pendente
+de liquidação, preservado o pagamento da parcela incontroversa.
+4.3 – Faturamento e Pagamento:
+4.3.1 – Após a aprovação da medição, a CONTRATADA emitirá notas fiscais eletrônicas
+separadas por secretaria, em conformidade com o valor atestado e com os requisitos fiscais
+e contratuais. Não será admitida nota fiscal, parcela ou cobrança apartada especificamente
+decorrente da renovação tecnológica.
+4.3.2 – Os documentos fiscais serão encaminhados ao canal eletrônico institucional indicado
+por cada unidade participante no início da execução e mantido atualizado pela fiscalização. A
+alteração do endereço eletrônico, quando não modificar prazo, responsabilidade ou
+condição de pagamento, será formalmente comunicada à CONTRATADA e registrada no
+processo, dispensada a alteração deste Termo de Contrato.
+4.3.3 – O pagamento será efetuado em até 30 (trinta) dias do mês subsequente ao da
+prestação dos serviços, condicionado à apresentação da documentação fiscal e liquidação
+da despesa, o qual será processado na Secretaria da Fazenda (SEFAZ).
+4.3.4 – Em caso de controvérsia sobre dimensão, qualidade ou quantidade, será observado o
+art. 143 da Lei nº 14.133/2021, com liquidação e pagamento da parcela incontroversa no
+prazo regular.
+4.3.5 – Multas definitivamente aplicadas após processo administrativo poderão ser
+descontadas de créditos da CONTRATADA ou cobradas pelos meios legalmente admitidos.
+Glosas de medição serão deduzidas no próprio período ou no subsequente, com memória
+de cálculo.
+4.3.6 - Não haverá antecipação de pagamento. Incidirão as retenções tributárias legalmente
+exigíveis, e eventual atraso imputável à Administração será atualizado pelo INPC entre a data
+de vencimento e a do efetivo pagamento, conforme disciplina do edital e do contrato.
+CLÁUSULA V – DO REAJUSTE E REEQUILÍBRIO ECONÔMICO-FINANCEIRO
+5.1 - Os preços contratados poderão ser reajustados monetariamente com base no INPC,
+observado o intervalo mínimo de 12 meses, contados da data do orçamento estimado,
+
+--- [pag. PDF 16] ---
+16
+conforme disposto nos artigos 25, § 7º e 92, § 3º da Lei Federal nº 14.133/2021,
+exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+5.2 - Na falta do índice apontado, deverá ser eleito outro índice, oficial, considerando o que seja
+mais benéfico para a Administração Pública.
+5.3 - Para direito ao reajuste deve a contratada requerer, de forma escrita e fundamentada, o
+direito aqui disposto, vedada a concessão de oficio pela Administração.
+5.4 - Os efeitos financeiros retroagem à data do pedido apresentado pela contratada.
+5.5 - O reajuste poderá ser registrado por simples apostila, dispensando a celebração de
+aditamento, nos termos do artigo 136 da Lei Federal nº 14.133/2021.
+5.6 - A data-base de possível reajustamento de preços está vinculada à data expressa no Quadro
+Comparativo de Prévias, elaborado pela equipe técnica do Departamento de Pesquisa
+Mercadológica/SAD, em 19/03/2026 (ar (artigo 25, §7º de Lei Federal nº 14.133/2021).
+5.7- O valor poderá ainda ser revisto mediante acordo entre as partes, com vistas à manutenção do
+equilíbrio contratual, na forma do artigo 124, inciso II, alíneas “a”, “b”, “c” e “d”, ou de forma
+unilateral pela Administração nos termos do artigo 124, inciso I, alíneas “a” e “b”, da Lei
+Federal nº 14.133/2021, quando aplicáveis.
+5.8 - A eventual solicitação de reequilíbrio econômico-financeira deverá fazer-se acompanhar de
+comprovação de superveniência do fato imprevisível ou se previsível, de consequências
+incalculáveis, bem como da demonstração analítica de seu impacto nos custos do contrato
+5.9 - A Administração deverá responder a solicitação de reequilíbrio econômico-financeiro,
+preferencialmente, em até 01 (um) mês, admitida a prorrogação, desde que motivada, por
+igual período.
+5.10 - O prazo referido no subitem anterior ficará suspenso enquanto a contratada não cumprir os
+atos ou apresentar a documentação solicitada pelo MUNICÍPIO para a comprovação da
+variação dos custos.
+CLÁUSULA VI – DOS RECURSOS FINANCEIROS
+6.1 - As despesas correrão pelas dotações abaixo ou por suas correspondentes nos exercícios
+subsequentes, condicionada a contratação à certificação de disponibilidade orçamentária e
+financeira no processo:
+ SECRETARIA DE ADMINISTRAÇÃO [SAD]:
+02.07.10.04.122.0401.8001.3.3.9.0.40.00.1.500-164 (Recurso Próprio).
+ SECRETARIA DE EDUCAÇÃO – [SEMED:]
+02.14.20.12.365.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+02.14.20.12.361.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+02.14.60.13.122.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+02.14.20.12.122.0505.2088.3.3.90.40.00, Fonte 1500.000.1001 (Recurso Próprio).
+ SECRETARIA DE DESENVOLVIMENTO SOCIAL [SEDS]:
+
+--- [pag. PDF 17] ---
+17
+02.18.10.08.244.0114.2077.3.3.90.40.00, Fonte 1660 (Transferência de Recursos do Fundo
+Nacional de Assistência Social – FNAS).
+02.18.10.08.245.0115.2113.3.3.90.40.00, Fonte 1660 (Transferência de Recursos do Fundo
+Nacional de Assistência Social – FNAS).
+02.18.10.08.245.0120.2117.3.3.90.40.00, Fonte 1660 (Transferência de Recursos do Fundo
+Nacional de Assistência Social – FNAS).
+02.18.10.08.122.0401.8001.3.3.90.40.00, Fonte 1500 (Recurso Próprio).
+ SECRETARIA DA SAÚDE [SAÚDE]:
+02.15.10.10.122.0101.2035.3.3.90.40.1500 (Recurso Próprio).
+02.15.10.10.302.0101.2035.3.3.90.40.1500 (Recurso Próprio).
+02.15.10.10.302.0101.2037.3.3.90.40.1500 (Recurso Próprio).
+02.15.10.10.302.0101.2049.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+02.15.10.10.301.0101.2031.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+02.15.10.10.305.0102.2043.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+02.15.10.10.305.0102.2044.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+02.15.10.10.305.0102.2046.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+02.15.10.10.304.0102.2030.3.3.90.40.1600 (Transferências Fundo a Fundo de Recursos do SUS
+provenientes do Governo Federal).
+6.1.1 – A utilização das dotações vinculadas às normas de repasse juntadas ao processo sob
+os IDs 480463 e 480779 ficará condicionada à confirmação, pelo setor orçamentário
+competente, de sua vigência, pertinência e compatibilidade com a despesa.
+CLÁUSULA VII – DO MODELO DE GESTÃO DE CONTRATO
+7.1 – Governança e Segregação de Funções:
+7.1.1 – A gestão e a fiscalização serão exercidas por agentes formalmente designados em
+ato próprio da autoridade competente, com definição de titulares, substitutos e atribuições,
+observados os arts. 18, 24 e 25 do Decreto Municipal nº 3.815/2023 e o art. 117 da Lei nº
+14.133/2021.
+7.1.2 – A indicação de nomes neste Termo de Contrato possui caráter informativo e não
+substitui o ato formal de designação. Alterações de responsáveis serão registradas no
+processo e comunicadas à CONTRATADA, sem necessidade de alteração deste documento
+quando não modificarem as atribuições estabelecidas.
+7.1.3 – Compete ao gestor coordenar os registros da execução, encaminhar decisões e
+alterações à autoridade competente, acompanhar vigência, garantias, habilitação, riscos,
+medição e pagamento e consolidar as informações fornecidas pelos fiscais. Na hipótese de
+renovação, caberá ainda consolidar a base elegível, o cronograma, os aceites definitivos e os
+resultados do IRA, sem afastar as competências dos fiscais e da autoridade competente.
+7.1.4 - Compete à fiscalização técnica acompanhar quantidade, qualidade, prazos, aceite,
+disponibilidade, níveis de serviço e conformidade dos equipamentos e serviços. Compete à
+
+--- [pag. PDF 18] ---
+18
+fiscalização administrativa acompanhar documentação, regularidade, garantia, faturamento,
+glosas, apostilamentos e demais aspectos administrativos.
+7.1.5 – Quando a execução ocorrer em unidades distintas, poderão ser designados fiscais
+setoriais para registrar fatos locais e subsidiar os fiscais técnico e administrativo, sem
+fragmentar a responsabilidade de coordenação do gestor.
+7.1.6 - Após a assinatura e antes da primeira Ordem de Serviço, haverá reunião inicial.
+Durante a implantação ocorrerá acompanhamento semanal; na operação, reunião mensal; e,
+trimestralmente, reunião executiva, sem prejuízo de encontros extraordinários. As atas
+registrarão indicadores, riscos, decisões, responsáveis e prazos, sem substituir atos formais
+de fiscalização.
+7.2 – Equipe Inicialmente Indicada:
+7.2.1 – Gestor técnico indicado: Lucas Oliveira de Paula, SAD, matrícula 51197.
+7.2.2 – Gestora administrativa indicada: Ana Angélica Resende de Sousa, SAD, matrícula
+40189.
+7.2.3 - Fiscais indicados: João Martins da Silveira Neto, SAD, matrícula 57750; Eder Leonard
+Oliveira e Silva, SEMED, matrícula 17679; Gabriel Araújo Castro, SEDS, matrícula 57743;
+Manoel Severino dos Santos Filho, SMS, matrícula 58372; Fabiano Henrique de Sene, FETI,
+matrícula 537; Marcelo de Sales Gomes, FUNEL, matrícula 42075-1; e José Junqueira Neto,
+FCU, matrícula 400.
+7.3 – Comunicações, Evidências e não Conformidades:
+7.3.1 - As comunicações que produzam efeitos sobre prazo, escopo, aceite, medição,
+pagamento, glosa, sanção ou responsabilidade deverão ser formalizadas no processo, na
+central de chamados ou em canal eletrônico institucional que permita comprovar autoria,
+conteúdo, data e recebimento.
+7.3.2 - A fiscalização manterá histórico de ocorrências e evidências e poderá realizar
+auditorias programadas ou motivadas sobre inventário, SLA, telemetria, acessos, segurança,
+licenças, garantias, reserva, faturamento e destinação ambiental. A CONTRATADA fornecerá
+acesso de consulta e exportação e cooperará sem custo adicional nas auditorias ordinárias,
+preservados dados de terceiros e segredos comerciais legítimos. A auditoria poderá abranger
+linhas de base, localizações previstas e observadas, eventos de abertura de gabinete,
+alterações de componentes, alertas, autorizações e trilhas de tratamento.
+7.3.3 - Identificada não conformidade, a fiscalização registrará o requisito descumprido, a
+evidência, o equipamento ou serviço afetado, o prazo de correção e a consequência
+operacional. A CONTRATADA poderá apresentar justificativa e evidências, sem prejuízo de
+medidas urgentes destinadas a evitar indisponibilidade ou risco à segurança.
+7.3.4 - O aceite de justificativa, a suspensão de contagem ou a exclusão de responsabilidade
+dependerão de comprovação do nexo causal e de decisão motivada da fiscalização. A mera
+alegação de dependência de fabricante, fornecedor ou subcontratada não afasta a
+responsabilidade da CONTRATADA.
+7.3.5 - A não conformidade somente será encerrada após o registro da ação corretiva, da
+evidência de execução e, quando aplicável, do novo teste ou aceite pelo responsável
+competente. O encerramento unilateral de chamado pela CONTRATADA não comprova
+regularização nem interrompe automaticamente os efeitos de indisponibilidade.
+
+--- [pag. PDF 19] ---
+197.4 – Aferição, Glosa e Responsabilização:
+7.4.1 - A qualidade será aferida pelos indicadores do Apêndice 6, com base nos registros do
+Apêndice 4. A avaliação não poderá ser atribuída exclusivamente à própria CONTRATADA, e
+eventual divergência será decidida pela fiscalização com motivação e preservação da parcela
+incontroversa.
+7.4.2 - A glosa representa redimensionamento do pagamento por serviço não
+disponibilizado ou prestado em nível inferior ao contratado e não se confunde com sanção
+administrativa. A aplicação de sanção exige procedimento próprio, tipificação, competência,
+motivação, contraditório, ampla defesa e proporcionalidade.
+7.4.3 - A fiscalização não exclui nem reduz a responsabilidade da CONTRATADA. Apoio
+eventual da área municipal de tecnologia da informação ou de outra unidade não transfere a
+execução nem cria corresponsabilidade pelo objeto.
+7.4.4 - Gestores e fiscais deverão observar o Manual de Fiscalização e Gestão de Contratos
+da Controladoria Geral do Município e encaminhar à autoridade competente as situações
+que ultrapassem suas atribuições.
+CLÁUSULA VIII – DAS PRERROGATIVAS E OBRIGAÇÕES DO MUNICÍPIO
+8.1 - Emitir Ordens de Serviço completas, disponibilizar as informações e acessos necessários e
+assegurar, nos locais indicados, as condições de infraestrutura que lhe tenham sido atribuídas nos
+documentos da contratação.
+8.2 - Designar gestor, fiscais e substitutos, comunicar os responsáveis à CONTRATADA e fornecer
+os meios institucionais necessários ao acompanhamento da execução.
+8.3 - Receber, inspecionar, testar, aceitar ou rejeitar o objeto com base em critérios documentados,
+comunicando as não conformidades com indicação do requisito, da evidência e do prazo aplicável.
+8.4 - Controlar credenciais e autorizações de acesso, orientar os usuários e comunicar alterações de
+unidade, infraestrutura, agenda ou política institucional que afetem a execução.
+8.5 - Preservar os equipamentos sob sua guarda contra uso indevido, interromper sua utilização
+quando houver risco à segurança e comunicar tempestivamente as ocorrências de dano, incêndio,
+fumaça, vazamento, infiltração, alagamento, furto, roubo ou extravio, adotando as medidas de
+contenção e preservação de evidências que forem materialmente possíveis. A comunicação e o
+registro não caracterizam, por si sós, reconhecimento de cobertura ou responsabilidade financeira.
+A apuração ocorrerá sem presunção automática de culpa de qualquer das partes e não suspenderá
+a cobertura, o restabelecimento ou a substituição dos eventos abrangidos pelos itens 1.7.3, 1.7.4 e
+1.7.10; os eventos excluídos observarão os itens 1.7.5 e 1.7.6, a matriz de riscos, o edital e o
+contrato.
+8.6 - Analisar as medições, atestar a parcela regularmente executada e efetuar os pagamentos
+devidos nos prazos estabelecidos, preservando a parcela incontroversa em caso de divergência.
+8.7 - Decidir de forma motivada os pedidos, justificativas e ocorrências submetidos pela
+CONTRATADA e promover, quando cabível, alteração, reequilíbrio, glosa ou responsabilização pelo
+procedimento competente.
+
+--- [pag. PDF 20] ---
+208.8 - Aplicar sanções somente por autoridade competente e mediante processo que assegure
+contraditório e ampla defesa, sem confundir penalidade com redimensionamento do pagamento.
+CLÁUSULA IX - DAS OBRIGAÇÕES DA CONTRATADA
+9.1 - Executar integralmente o objeto conforme este Termo de Referência, os Apêndices 1 a 6, o
+edital, o contrato, a proposta e as Ordens de Serviço, observando a legislação e as normas
+técnicas aplicáveis.
+9.2 - Designar preposto com poderes para receber comunicações e coordenar a execução,
+mantendo atualizados os contatos da central de chamados, da equipe técnica e dos
+responsáveis por escalonamento.
+9.3 - Fornecer equipamentos novos, componentes, licenças, documentação, embalagens quando
+necessárias, ferramentas e demais recursos exigidos, com identificação e rastreabilidade
+suficientes para inspeção e inventário.
+9.4 - Arcar com todos os custos diretos e indiretos da execução, inclusive tributos, encargos,
+pessoal, deslocamento, frete, seguro, instalação, manutenção, peças, equipamentos
+substitutos, retirada e logística reversa, ressalvados apenas os itens expressamente atribuídos
+ao MUNICÍPIO.
+9.5 - Manter pessoal capacitado, identificado e credenciado, com relação de funções, experiência e
+treinamentos compatíveis. O acesso físico observará registro de entrada e saída,
+confidencialidade, proteção de dados e regras da unidade; o dimensionamento da equipe e
+dos plantões será demonstrado em plano de capacidade vinculado aos SLAs, inclusive para
+saúde, serviços essenciais, funções governamentais críticas e operação 24x7.
+9.6 - Manter durante a execução as condições de habilitação, a regularidade exigida, a garantia
+contratual e as autorizações necessárias, comunicando imediatamente qualquer fato que
+possa comprometer o cumprimento do contrato.
+9.7 - Executar manutenção e suporte com peças novas, originais ou compatíveis previamente
+autorizadas pela Administração. A compatibilidade deverá ser comprovada, não poderá
+reduzir desempenho, confiabilidade, garantia, segurança ou vida útil e deverá resultar em
+condição igual ou superior à CONTRATADA.
+9.8 - Registrar de forma completa e tempestiva as Ordens de Serviço, chamados, intervenções,
+indisponibilidades, movimentações e aceites e apresentar os relatórios técnicos, operacionais
+e de medição nos formatos definidos pela fiscalização. Preservar e disponibilizar os registros
+de integridade física e lógica nos prazos e formatos definidos nos Apêndices, sem
+apagamento ou alteração unilateral desprovida de trilha de auditoria.
+9.9 - Proteger credenciais, dados, mídias e informações acessadas e comunicar incidente ou
+suspeita em até 2 (duas) horas da detecção, com relatório preliminar em até 24 (vinte e
+quatro) horas, atualizações a cada 24 horas enquanto ativo e relatório conclusivo em até 5
+(cinco) dias úteis após a contenção. A comunicação externa caberá à Administração,
+ressalvada obrigação legal própria.
+9.10 - Corrigir, reparar, refazer ou substituir, às suas expensas e nos prazos aplicáveis, o objeto
+executado com vício, defeito, incorreção ou desconformidade que lhe seja imputável. Essa
+
+--- [pag. PDF 21] ---
+21
+obrigação não limita a cobertura operacional prevista nos itens 1.7.3 e 1.7.4, a qual deverá
+ser prestada antes da definição de eventual responsabilidade financeira.
+9.11 - Responder pelos danos diretos comprovadamente causados à Administração ou a terceiros
+por ação ou omissão na execução, assegurada a apuração do nexo causal e sem prejuízo das
+responsabilidades previstas em lei.
+9.12 - Não alterar configuração, marca, modelo, local, equipe crítica, método de execução ou
+subcontratação sem a autorização exigida e não utilizar dados, ativos ou recursos do
+MUNICÍPIO para finalidade estranha ao contrato.
+9.13 - Facilitar a fiscalização, prestar esclarecimentos, disponibilizar evidências e cumprir
+determinações regulares emitidas dentro da competência dos agentes designados.
+CLÁUSULA X - DAS PENALIDADES E SANÇÕES
+10.1 - Na aplicação de penalidades/sanções serão observadas as disposições constantes na Lei
+Federal, além das previstas nas legislações pertinentes.
+10.2 - As infrações administrativas passíveis de responsabilização são aquelas elencadas no artigo
+155 da Lei Federal nº 14.133/2021.
+10.3 - Serão aplicadas ao responsável pelas infrações administrativas as seguintes sanções:
+a) - Advertência;
+b) - Multa;
+c) - Impedimento de licitar e contratar;
+d) - Declaração de inidoneidade para licitar ou contratar.
+10.3.1 - A sanção de advertência prevista na alínea “a” do item 11.3, será aplicada quando
+houver a inexecução parcial do contrato e/ou instrumento equivalente, de pequena
+relevância e a critério do MUNICÍPIO, quando não se justificar a imposição de penalidade
+mais grave.
+10.3.2 - A multa de que trata a alínea “b” do item 11.3, poderá ser aplicada em qualquer
+uma das infrações descritas no artigo 155 da Lei Federal nº 14.133/2021, e não poderá ser
+inferior a 0,5% (cinco décimos por cento) nem superior a 30% (trinta por cento) do valor
+do contrato e/ou instrumento equivalente.
+10.3.3 - O impedimento de licitar e contratar previsto na alínea “c” do item 11.3, será
+aplicada ao responsável pelas infrações administrativas previstas nos incisos II, III, IV, V, VI
+e VII do caput do artigo 155 da Lei Federal nº 14.133/2021, quando não se justificar a
+imposição de penalidade mais grave.
+10.3.3.1 - Aplicada a penalidade de que trata o subitem anterior, ficará o
+responsável impedido de licitar ou contratar com a Administração Direta e Indireta
+do MUNICÍPIO, pelo prazo máximo de 03 (três) anos.
+10.3.4 - A declaração de inidoneidade para licitar ou contratar - alínea “d” do item 11.3
+será aplicada ao responsável pelas infrações administrativas previstas nos incisos VIII, IX,
+X, XI e XII do caput do artigo 155 da Lei Federal, bem como pelas infrações
+administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do referido artigo, que
+
+--- [pag. PDF 22] ---
+22
+justifiquem a imposição de penalidade mais grave que a sanção referida no subitem
+11.3.3 deste Contrato.
+10.3.4.1 - Aplicada a penalidade de que trata o subitem anterior ficará o
+responsável impedido de licitar ou contratar com a Administração Direta e Indireta
+de todos os entes federativos, pelo prazo mínimo de 03 (três) anos e máximo de 06
+(seis) anos.
+10.4 - A sanção estabelecida na alínea d, subitem 10.3, será precedida de análise jurídica da
+Procuradoria Geral deste MUNICIPIO, nos termos do artigo 156, § 6º, da Lei Federal nº
+14.133/2021.
+10.5 - As sanções previstas nas alíneas “a”, “c” e “d” do item 10.3, poderão ser aplicadas
+cumulativamente com a sanção de multa prevista na alínea “b” deste Contrato.
+10.5.1 - A multa que se refere a alínea “b” do item 10.3, uma vez aplicada e para efeito de
+cobrança, serão automaticamente deduzidas do pagamento a que fizer jus o licitante
+penalizado.
+10.5.2 - Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de
+pagamento eventualmente devido pelo MUNICÍPO à CONTRATADA, além da perda desse
+valor, a diferença será descontada da garantia prestada, quando essa existir, ou será
+cobrada judicialmente.
+10.5.3 - A aplicação das sanções previstas nas alíneas “b”, “c” e “d” do item 10.3, previstas
+no artigo 270 do Decreto Municipal nº 3.815/2023, requererá a instauração de processo
+de responsabilização, de que trata o artigo 158 da Lei Federal nº 14.133/2021, a ser
+conduzido pela Comissão Processante.
+10.6 – A aplicação das sanções previstas no item 10.3, não exclui, em hipótese alguma, a obrigação
+de reparação integral do dano causado ao MUNICÍPIO.
+10.7 - O atraso injustificado na execução do objeto sujeitará o contrato a multa de mora, na forma
+prevista neste Termo de contrato.
+10.7.1 - A aplicação de multa de mora não impedirá que o MUNICÍPIO a converta em
+compensatória e promova a extinção unilateral do contrato ou instrumento equivalente
+com a aplicação cumulada de outras sanções previstas na Lei Federal nº 14.133/2021.
+10.8 - É admitida a reabilitação do licitante ou contratado perante o MUNICÍPIO, quando da
+aplicação de penalidade, desde que atenda o determinado no artigo 163 da Lei Federal nº
+14.133/2021.
+10.9 - A competência para determinar a instauração do processo administrativo, julgamento e
+aplicação das sanções administrativas encontra-se disciplinada no artigo 271 do Decreto
+Municipal nº 3.815/2023.
+CLÁUSULA XI – DA AVALIAÇÃO DE RISCO DE INTEGRIDADE
+11.1 – Objetivando afirmar a aderência da CONTRATADA aos padrões éticos e de integridade
+exigidos pelo MUNICÍPIO:
+
+--- [pag. PDF 23] ---
+2311.1.1 - A CONTRATADA se compromete a se orientar pelos princípios do Código de Ética
+do Agente Público Municipal e da Alta Administração, insertos na Lei 12.827, de 2018;
+atentando-se para a aplicação das sanções previstas na Lei nº 12.846/2013.
+11.1.2 - A CONTRATADA fica ciente de que é vedada a contratação de pessoa física ou
+jurídica, se aquela ou os dirigentes e empregados desta mantiverem vínculo de natureza
+técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou
+entidade contratante ou com agente público que desempenhe função na contratação ou
+atue na fiscalização ou na gestão do contrato, ou se deles forem cônjuge, companheiro ou
+parente em linha reta, colateral, ou por afinidade, até o terceiro grau.
+11.1.3 - A CONTRATADA deverá assegurar que seus colaboradores, empregados,
+subcontratados e agentes estejam cientes e cumpram as referidas diretrizes durante a
+execução do contrato.
+11.1.4 - O descumprimento de quaisquer das diretrizes mencionadas poderá acarretar a
+aplicação de penalidades contratuais, sem prejuízo das demais sanções cabíveis.
+11.1.5 – Na hipótese de execução de obra ou serviço de engenharia com valor superior a R$
+800.000,00 (oitocentos mil reais) e de serviços ou compras com valor superior a R$
+1.000.000,00 (um milhão de reais), a CONTRATADA deverá se submeter ao procedimento de
+avaliação de integridade, nos termos do Decreto nº 6.165/2024.
+11.1.5.1 – A avaliação será realizada mediante o preenchimento do Formulário de
+DueDiligence, nos termos do modelo disponibilizado no “link”
+https://portal.uberaba.mg.gov.br/integridade, cujo resultado gerará o Relatório de
+Avaliação de Integridade – RAI.
+11.1.5.2 – A CONTRATADA deverá possuir conta google para a viabilização do
+preenchimento do Formulário de DueDiligence.
+11.1.5.3 – Nos procedimentos de avaliação de integridade será observado o
+disposto na Lei Federal nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de
+Dados Pessoais).
+11.1.6 – Fica dispensada a avaliação de integridade nas contratações em que, antes da
+entrada em vigor do Decreto nº 6.165/2024, já tenha ocorrido a assinatura do instrumento
+contratual, publicação de edital ou o início do processo de contratação por dispensa ou
+inexigibilidade.
+11.1.6.1 – Nos casos previstos no subitem 11.1.6, a avaliação de integridade se
+realizará quando da celebração de aditivo contratual.
+CLÁUSULA XII – DA GARANTIA
+12.1 – Garantia Contratual da Execução:
+12.1.1 - Será exigida garantia contratual correspondente a 5% (cinco por cento) do
+valor anual do contrato, nos termos dos arts. 96 a 100, especialmente do art. 98,
+parágrafo único, da Lei nº 14.133/2021.
+
+--- [pag. PDF 24] ---
+24
+12.1.1.1 - A garantia financeira não substitui a cobertura operacional integral
+nem seguro eventualmente contratado e não condiciona o atendimento de dano,
+furto, roubo, extravio ou falha. A CONTRATADA poderá optar por modalidade
+legalmente admitida, e o edital observará o prazo específico do seguro-garantia.
+12.1.2 - A garantia deverá permanecer válida durante toda a execução, sem período
+descoberto, acompanhar as alterações do valor anual do contrato e permanecer
+disponível pelo período necessário à apuração e à satisfação de obrigações
+remanescentes. Sua liberação ou restituição ocorrerá após o cumprimento integral
+das obrigações, nos termos da lei, do edital e do contrato.
+12.1.3 - A garantia não substitui a obrigação de executar, corrigir, substituir ou
+indenizar e somente poderá ser utilizada mediante apuração e decisão da autoridade
+competente.
+CLÁUSULA XIII – DA RESCISÃO
+13.1 - O MUNICÍPIO poderá considerar rescindido o contrato, unilateralmente, sem que caiba à
+CONTRATADA qualquer direito de indenização ou retenção, se esta:
+a) - não cumprimento ou cumprimento irregular de normas editalícias ou de cláusulas
+contratuais, de especificações, de projetos ou de prazos;
+b) - desatendimento das determinações regulares emitidas pela autoridade designada para
+acompanhar e fiscalizar sua execução ou por autoridade superior;
+c) - alteração social ou modificação da finalidade ou da estrutura da CONTRATADA que
+restrinja sua capacidade de concluir o contrato;
+d) - decretação de falência ou de insolvência civil, dissolução da sociedade ou falecimento
+do representante da CONTRATADA;
+e) - caso fortuito ou força maior, regularmente comprovados, impeditivos da execução do
+contrato;
+f) - razões de interesse público, justificadas pela autoridade máxima do órgão ou do
+MUNICÍPIO;
+g) - não cumprimento das obrigações relativas à reserva de cargos prevista em lei, bem
+como em outras normas específicas, para pessoa com deficiência, para reabilitado da
+Previdência Social ou para aprendiz.
+h) - Infringir qualquer cláusula do contrato.
+i) - Recusar-se a executar qualquer serviço, desde que suas razões não tenham sido prévia e
+devidamente aceitas pela fiscalização.
+j) - Deixar de cumprir as exigências da fiscalização relativas aos serviços a serem executados.
+k) - Não cumprir os prazos de execução dos serviços fixados no cronograma.
+
+--- [pag. PDF 25] ---
+25
+13.2 - Rescindido o contrato por culpa ou por qualquer um dos motivos do subitem 13.1, a
+CONTRATADA indenizará o MUNICÍPIO de todos os prejuízos.
+13.3 - Rescindido o contrato, a CONTRATADA não terá direito a qualquer indenização por serviços
+não realizados, retendo o MUNICÍPIO as importâncias porventura devidas por serviços já
+executados, e ainda não pagas, para cobertura das multas, juros e demais encargos que
+couberem pela rescisão a que houver dado motivo.
+CLÁUSULA XIV – DA PROTEÇÃO DE DADOS PESSOAIS (LGPD)
+14.1 – O tratamento de dados pessoais realizado em decorrência da execução deste contrato
+deverá observar a Lei Federal nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais –
+LGPD), as normas e orientações aplicáveis da Autoridade Nacional de Proteção de Dados –
+ANPD, as políticas institucionais formalmente comunicadas pelo MUNICÍPIO e,
+especialmente, as disposições do Apêndice 3 – Procedimentos de Implantação, Transição e
+Segurança dos Dados, que integra este contrato para todos os fins. A CONTRATADA deverá
+realizar o tratamento dos dados pessoais exclusivamente para as finalidades relacionadas à
+execução do objeto e de acordo com as instruções do MUNICÍPIO, abstendo-se de utilizar,
+compartilhar, copiar, transferir ou conservar dados para finalidade diversa da contratada,
+ressalvadas as hipóteses legalmente autorizadas.
+14.2 – A CONTRATADA deverá cooperar com o Encarregado pelo Tratamento de Dados Pessoais
+do MUNICÍPIO, bem como com os agentes responsáveis pela gestão e fiscalização contratual
+e pela segurança da informação, fornecendo, quando solicitado, as informações, registros e
+evidências necessários à demonstração da conformidade com a legislação de proteção de
+dados, ao atendimento dos direitos dos titulares, à apuração e ao tratamento de incidentes
+de segurança, à elaboração de avaliações ou relatórios relacionados à proteção de dados e
+ao atendimento de determinações ou solicitações da ANPD ou de outras autoridades
+competentes.
+14.3 – A CONTRATADA deverá comunicar ao MUNICÍPIO, pelos canais institucionais definidos para
+esse fim, a ocorrência ou suspeita de incidente de segurança envolvendo dados pessoais ou
+informações tratadas no âmbito da contratação, observando os prazos, procedimentos,
+requisitos de comunicação, atualização das informações, preservação de evidências e demais
+providências estabelecidos no Apêndice 3, sem prejuízo das obrigações diretamente
+impostas pela legislação aplicável.
+14.4 – A CONTRATADA deverá assegurar que seus empregados, prepostos, subcontratados e
+terceiros que, em razão da execução contratual, tenham acesso a dados pessoais ou a
+informações do MUNICÍPIO observem as obrigações de proteção de dados e de segurança
+da informação previstas neste contrato e em seus anexos, permanecendo a CONTRATADA
+responsável pelo cumprimento das obrigações que lhe sejam contratualmente ou
+legalmente atribuídas.
+CLÁUSULA XV - DAS DISPOSIÇÕES FINAIS
+15.1 - Integram este contrato, independentemente de transcrição, todos os documentos
+vinculados ao Processo de Licitação – Pregão Eletrônico nº ____/2026, observados, no que
+couberem, os disciplinamentos ditados na Lei Federal nº 14.133/2021; e Decreto Municipal
+
+--- [pag. PDF 26] ---
+26
+nº 3.815/2023.
+15.2 - Os casos omissos serão resolvidos com base na legislação em vigor.
+15.3 - As alterações posteriores, que se façam necessárias no presente instrumento, serão
+efetuadas por “Termos Aditivos”, que integrarão o contrato, para todos os fins e efeitos de
+direito.
+CLÁUSULA XVI - DO FORO
+16.1 - As partes elegem o Foro de Uberaba (MG), para dirimir quaisquer conflitos oriundos deste
+contrato, renunciando a qualquer outro especial ou de exceção.
+E, por estarem assim contratadas, as partes assinam este
+contrato, na presença de 02 (duas) testemunhas.
+Uberaba (MG), data da última assinatura eletrônica das partes contratantes.
+Ernani Neri dos Santos Júnior
+Secretário de Administração
+MUNICÍPIO
+CONTRATADA
+TESTEMUNHAS:
+1) _________________________________________
+2) _________________________________________
+G\PROGER\DCA\MAZE 2026\MINUTAS-SAD\PEMINPRES – SAD, SEMED, SEDS, SMS (PC 00495.2026 – LOCAÇÃO DE ESTAÇÕES DE TRABALHO –
+MICRORCOMPUTADORES COMPLETOS) ATUALIZADA

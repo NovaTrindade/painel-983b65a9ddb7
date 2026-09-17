@@ -1,0 +1,97 @@
+=== DOCUMENTO 25: Ficha_Tecnica_3_do_Apendice_1_-_Notebook_Corporativo.pdf ===
+tipo: Outros Documentos | páginas: 2 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/25
+
+--- [pag. PDF 1] ---
+Ficha Técnica 3 do Apêndice 1 - Notebook | Página 1 de 2
+FICHA TÉCNICA 3 DO APÊNDICE 1 – NOTEBOOK CORPORATIVO
+Documento de síntese para consulta rápida. Os requisitos técnicos completos e vinculantes constam do Apêndice 1.
+1 - IDENTIFICAÇÃO DO ITEM
+CAMPO IDENTIFICAÇÃO
+Item 03
+Código 043.00130
+Denominação Prestação contínua de solução PCaaS - Notebook, incluindo serviços associados
+Modelo de contratação Prestação contínua de solução PCaaS, com serviços associados
+Requisitos detalhados Apêndice 1, seção 5.5 e respectivas subseções
+Documento de
+verificação Instrumento 3 do Apêndice 5 – Checklist de Conformidade do Notebook
+2 - FUNÇÃO E REGRA DE CONSULTA
+2.1 - Esta Ficha apresenta somente a síntese dos parâmetros essenciais do item, para facilitar identificação e
+consulta. Ela não substitui, reproduz integralmente nem limita os requisitos técnicos detalhados do
+Apêndice 1.
+2.2 - Em caso de dúvida sobre interpretação, equivalência, comprovação, teste, aceite, manutenção ou
+substituição, deverá ser consultada a seção 5.5 do Apêndice 1 e respectivas subseções.
+2.3 - Eventual divergência material deverá ser formalmente saneada pela Administração antes do julgamento
+ou do recebimento, conforme a fase em que for identificada. A síntese não poderá ser utilizada para
+dispensar requisito detalhado.
+3 - SÍNTESE DA CONFIGURAÇÃO
+ASPECTO SÍNTESE
+Processador
+Processador móvel x86-64; PassMark CPU Mark mínimo de 14.700 pontos; cache L2+L3 mínimo
+de 12 MB; multithread; plataforma móvel corporativa em linha ativa, não formalmente
+descontinuada e com suporte oficial de firmware, drivers e correções de segurança.
+Memória
+Uma das seguintes rotas: I - 16 GB DDR5 em 1 x 16 GB, dois slots SO-DIMM, um slot livre,
+mínimo de 4.800 MT/s e expansão para 32 GB mediante adição de módulo; ou II - 32 GB
+LPDDR5, LPDDR5x ou tecnologia posterior, integrados de fábrica, mínimo de 4.800 MT/s e
+arquitetura de múltiplos canais, sem exigência de slot ou expansão.
+Armazenamento SSD M.2 NVMe mínimo de 512 GB; PCIe 3.0 x4 ou superior; leitura de 3.200 MB/s e gravação de
+2.100 MB/s; S.M.A.R.T./NVMe Health.
+Tela e câmera Tela mínima de 14 polegadas, Full HD, 16:9, antirreflexo, IPS ou superior e 250 cd/m²; câmera
+RGB mínima de 5 MP, infravermelho, Windows Hello e obturador físico.
+Vídeo e áudio Vídeo integrado com tela interna e monitor externo simultâneos em Full HD a 60 Hz; DirectX 12 e
+OpenGL 4.5; áudio HD e alto-falantes estéreos com potência total mínima de 2 W.
+Rede e portas
+Wi-Fi 6E 2 x 2; Ethernet Gigabit RJ45 com WOL e PXE; Bluetooth 5.3; HDMI 2.1; duas USB-A a
+5 Gb/s e duas USB-C a 20 Gb/s; adaptador ativo HDMI para VGA, com cabos e acessórios
+necessários, fornecido sem custo quando formalmente solicitado pela CONTRATANTE.
+Entrada
+Touchpad multitoque; teclado ABNT2 retroiluminado e resistente a derramamento; mouse
+externo com fio, ambidestro e mínimo de 1.200 DPI, preferencialmente da mesma marca
+comercial do equipamento principal, admitida marca distinta nos termos do item 2.15 do Apêndice
+1, com compatibilidade integral, documentação oficial, garantia e suporte centralizados pela
+CONTRATADA.
+Bateria e mobilidade Bateria interna substituível por assistência, mínimo de 50 Wh e autonomia nominal mínima de 6
+horas; carregador mínimo de 45 W; peso máximo de 1,6 kg.
+
+--- [pag. PDF 2] ---
+Ficha Técnica 3 do Apêndice 1 - Notebook | Página 2 de 2
+ASPECTO SÍNTESE
+Resistência e
+segurança
+MIL-STD-810H Change 1 ou posterior; leitor de impressão digital; trava de segurança; TPM 2.0
+em hardware; UEFI, Secure Boot e sanitização NIST SP 800-88.
+Software Windows 11 Professional 64 bits e Office LTSC 2024 perpétuo, por dispositivo, com Word, Excel,
+PowerPoint e Outlook, conforme regras de licenciamento do Apêndice 1.
+Gestão e proteção Gerenciamento Out-of-Band, inclusive por rede sem fio, KVM remoto, inventário persistente,
+isolamento de navegação e anexos e proteção antimalware centralizada com operação offline.
+Conformidade
+ENERGY STAR; EPEAT Gold, TCO Certified ou certificação ambiental Tipo I baseada na ISO
+14024, não cumulativas; IEC 62368-1; ISO 7779/9296; RoHS; Windows CPL; implementação
+funcional dos padrões DMTF e comprovação alternativa, conforme o Apêndice 1; EcoVadis Silver
+ou superior, avaliação ESG independente equivalente ou conjunto documental corporativo
+auditável, abrangendo meio ambiente, práticas trabalhistas e direitos humanos, ética e
+integridade e compras sustentáveis, conforme o Apêndice 1; requisitos ambientais aplicáveis.
+Rastreabilidade e
+integridade
+Linha de base versionada; rastreabilidade lógica; detecção de alterações relevantes de hardware;
+alertas, correlação, histórico e exportação. O sensor de abertura não é requisito desta categoria.
+Requisitos e testes completos no Apêndice 1 e nos Apêndices 3 a 5.
+4 - LOCALIZAÇÃO DOS REQUISITOS DETALHADOS
+4.1 - Os requisitos completos do item estão organizados no Apêndice 1, na seção 5.5 e respectivas subseções.
+As regras transversais permanecem nas seções 1 a 4 e 6 a 10 do mesmo Apêndice.
+4.2 - O recebimento e a inspeção utilizarão o Instrumento 3 do Apêndice 5 – Checklist de Conformidade do
+Notebook, que deverá ser lido em conjunto com o Apêndice 1 e não substitui a especificação detalhada.
+5 - COMPROVAÇÃO E ACEITAÇÃO
+5.1 - A comprovação observará os meios, critérios de equivalência e regras de diligência estabelecidos no
+Apêndice 1. Documentos, testes e evidências deverão corresponder inequivocamente à marca, ao modelo,
+à configuração e à unidade ou ao lote verificado.
+5.2 - O checklist constitui instrumento de registro da verificação e não reduz o dever de atendimento integral
+aos requisitos do Apêndice 1, do Termo de Referência e das demais obrigações aplicáveis.
+6 - REGRA PARA O SEGUNDO CICLO
+6.1 - Se formalizada prorrogação posterior aos 60 (sessenta) meses iniciais, este item integrará a renovação
+tecnológica da base elegível, sem ônus adicional decorrente da renovação e conforme a metodologia
+dinâmica, a matriz comparativa, as evidências e a aprovação técnica previstas na seção CRITÉRIOS DE
+EVOLUÇÃO TECNOLÓGICA PARA O SEGUNDO CICLO do Apêndice 1. Esta síntese não fixa
+configuração futura nem substitui os requisitos detalhados.
+Código: 2950e43c-704b-4cbc-be8f-7347d1a01194
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

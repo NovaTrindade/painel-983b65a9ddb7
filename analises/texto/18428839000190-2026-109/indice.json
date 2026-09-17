@@ -1,0 +1,332 @@
+{
+ "id": "18428839000190-2026-109",
+ "extraidoEm": "2026-09-17T11:53:45.989Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/18428839000190/2026/109",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-PE-039-2026-PC-495-2025.txt",
+   "titulo": "EDITAL_-_PE_039-2026_-_PC_495-2025.pdf",
+   "tipo": "Edital",
+   "paginas": 35,
+   "caracteres": 88684
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-1-IMPUGNACAO-LEONARDO.txt",
+   "titulo": "1_IMPUGNACAO_LEONARDO.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 7099
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-FID-Pregao-Eletronico-039-2026-questionamento-2-SIMPRESS.txt",
+   "titulo": "FID_-_Pregao_Eletronico_039-2026_-_questionamento_2_SIMPRESS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 2357
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-1-ESCLARECIMENTO-SIMPRESS.txt",
+   "titulo": "1_ESCLARECIMENTO_SIMPRESS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 8,
+   "caracteres": 22477
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-FID-Pregao-Eletronico-039-2026-questionamento-SIMPRESS.txt",
+   "titulo": "FID_-_Pregao_Eletronico_039-2026_-_questionamento_SIMPRESS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 4,
+   "caracteres": 8476
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-OFICIO-2552026-SURICATO-TCEMG.txt",
+   "titulo": "OFICIO_2552026_SURICATO_TCEMG.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 8249
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-3-IMPUGNACAO-INTELIGENCIA-ARTIFICIAL.txt",
+   "titulo": "3_IMPUGNACAO_INTELIGENCIA_ARTIFICIAL.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 4,
+   "caracteres": 10973
+  },
+  {
+   "ordem": 8,
+   "arquivo": "08-2-IMPUGNACAO-SIMPRESS.txt",
+   "titulo": "2__IMPUGNACAO_SIMPRESS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 7,
+   "caracteres": 14093
+  },
+  {
+   "ordem": 9,
+   "arquivo": "09-2-ESCLARECIMENTO-SIMPRESS.txt",
+   "titulo": "2_ESCLARECIMENTO_SIMPRESS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 6605
+  },
+  {
+   "ordem": 10,
+   "arquivo": "10-FID-Pregao-Eletronico-039-2026-impugnacao-SIMPRESS.txt",
+   "titulo": "FID_-_Pregao_Eletronico_039-2026_-_impugnacao_SIMPRESS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 4992
+  },
+  {
+   "ordem": 11,
+   "arquivo": "11-FID-Pregao-Eletronico-039-2026-impugnacao-Leonardo-Barbosa-A.txt",
+   "titulo": "FID_-_Pregao_Eletronico_039-2026_-_impugnacao_-_Leonardo_Barbosa_Alves.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 855
+  },
+  {
+   "ordem": 12,
+   "arquivo": "12-ESCALRECIMENTO-IMPUGNACAO-FUNDAMENTAL-TELECOM.txt",
+   "titulo": "ESCALRECIMENTO_IMPUGNACAO_FUNDAMENTAL_TELECOM.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 44,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 13,
+   "arquivo": "13-FID-Pregao-Eletronico-039-2026-esclarecimento-impugnacao-Fun.txt",
+   "titulo": "FID_-_Pregao_Eletronico_039-2026_-_esclarecimento_-_impugnacao_Fundamental_Eventos.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1407
+  },
+  {
+   "ordem": 14,
+   "arquivo": "14-PUBLICACAO-DA-SUSPENSAO.txt",
+   "titulo": "PUBLICACAO DA SUSPENSAO.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 21,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 15,
+   "arquivo": "15-AVISO-DE-SUSPENSAO-9-2026-COMPUTADORES-assinado.txt",
+   "titulo": "AVISO_DE_SUSPENSAO_-_9-2026_-_COMPUTADORES_assinado.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1360
+  },
+  {
+   "ordem": 16,
+   "arquivo": "16-OFICIO-020-2026-RESPONDE-AO-OFICIO-255-2026-TCE-MG-SURICATO.txt",
+   "titulo": "OFICIO_020-2026_-_RESPONDE_AO_OFICIO_255_2026_-_TCE_MG_SURICATO.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 3937
+  },
+  {
+   "ordem": 17,
+   "arquivo": "17-OFICIO-RESPONDE-PEDIDO-DE-IMPUGNACAO-PE-039-2026-INTELIGENCI.txt",
+   "titulo": "OFICIO_RESPONDE_PEDIDO_DE_IMPUGNACAO_PE_039-2026_-_INTELIGENCIA_ARTIFICIAL_assinado.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1859
+  },
+  {
+   "ordem": 18,
+   "arquivo": "18-OFICIO-024-2026-RESPONDE-PEDIDO-DE-IMPUGNACAO-PE-039-2026-LE.txt",
+   "titulo": "OFICIO_024-2026_-_RESPONDE_PEDIDO_DE_IMPUGNACAO_PE_039-2026_-_LEONARDO_assinado.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1637
+  },
+  {
+   "ordem": 19,
+   "arquivo": "19-OFICIO-RESPONDE-IMPUGNACAO-SIMPRESS-assinado.txt",
+   "titulo": "OFICIO_RESPONDE_IMPUGNACAO_SIMPRESS_assinado.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 4,
+   "caracteres": 7070
+  },
+  {
+   "ordem": 20,
+   "arquivo": "20-EDITAL-III-P-E-039-2026-P-C-495-2025-LOCACAO-DE-COMPUTADORES.txt",
+   "titulo": "EDITAL_III_-_P.E._039-2026_-_P.C._495-2025_-_LOCACAO_DE_COMPUTADORES__NOTEBOOK REPUBLICADO.pdf",
+   "tipo": "Edital",
+   "paginas": 39,
+   "caracteres": 104939
+  },
+  {
+   "ordem": 21,
+   "arquivo": "21-ETP-III-CONTRATACAO-DE-EMPRESA-PARA-LOCACAO-DE-COMPUTADORES.txt",
+   "titulo": "ETP_III_-_CONTRATACAO_DE_EMPRESA_PARA_LOCACAO_DE_COMPUTADORES.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 80,
+   "caracteres": 170425
+  },
+  {
+   "ordem": 22,
+   "arquivo": "22-PEMINPRES-SAD-SEMED-SEDS-SMS-PC-00495-2025-LOCACAO-DE-ESTACO.txt",
+   "titulo": "PEMINPRES_-_SAD__SEMED__SEDS__SMS_(PC_00495.2025_-_LOCACAO_DE_ESTACOES_DE_TRABALHO_-_MICROCOMPUTADORES_COMPLETOS)_ATUALIZADA.pdf",
+   "tipo": "Minuta do Contrato",
+   "paginas": 26,
+   "caracteres": 75209
+  },
+  {
+   "ordem": 23,
+   "arquivo": "23-Instrumento-4-do-Apendice-5-Checklist-de-Conformidade-do-Mon.txt",
+   "titulo": "Instrumento_4_do_Apendice_5_-_Checklist_de_Conformidade_do_Monitor_Adicional.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 19,
+   "caracteres": 35746
+  },
+  {
+   "ordem": 24,
+   "arquivo": "24-Matriz-de-Riscos-PCaaS.txt",
+   "titulo": "Matriz_de_Riscos_PCaaS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 15,
+   "caracteres": 34307
+  },
+  {
+   "ordem": 25,
+   "arquivo": "25-Ficha-Tecnica-3-do-Apendice-1-Notebook-Corporativo.txt",
+   "titulo": "Ficha_Tecnica_3_do_Apendice_1_-_Notebook_Corporativo.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 6313
+  },
+  {
+   "ordem": 26,
+   "arquivo": "26-Apendice-5-Instrumentos-de-Recebimento-Inspecao-e-Modelos-Op.txt",
+   "titulo": "Apendice_5_-_Instrumentos_de_Recebimento__Inspecao_e_Modelos_Operacionais.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 7,
+   "caracteres": 19386
+  },
+  {
+   "ordem": 27,
+   "arquivo": "27-Apendice-2-Quantitativos-Distribuicao-Inicial-e-Locais-Estim.txt",
+   "titulo": "Apendice_2_-_Quantitativos__Distribuicao_Inicial_e_Locais_Estimados.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 19,
+   "caracteres": 33307
+  },
+  {
+   "ordem": 28,
+   "arquivo": "28-OFICIO-028-2026-RESPONDE-PEDIDO-DE-IMPUGNACAO-PE-039-2026-OM.txt",
+   "titulo": "OFICIO_028-2026_-_RESPONDE_PEDIDO_DE_IMPUGNACAO_PE_039-2026_-_OMNI_INFORMATICA.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 4600
+  },
+  {
+   "ordem": 29,
+   "arquivo": "29-Instrumento-3-do-Apendice-5-Checklist-de-Conformidade-do-Not.txt",
+   "titulo": "Instrumento_3_do_Apendice_5_-_Checklist_de_Conformidade_do_Notebook.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 41,
+   "caracteres": 77520
+  },
+  {
+   "ordem": 30,
+   "arquivo": "30-Ficha-Tecnica-2-do-Apendice-1-Microcomputador-Corporativo-Ti.txt",
+   "titulo": "Ficha_Tecnica_2_do_Apendice_1_-_Microcomputador_Corporativo_Tipo_II.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 6476
+  },
+  {
+   "ordem": 31,
+   "arquivo": "31-Instrumento-1-do-Apendice-5-Checklist-de-Conformidade-do-Com.txt",
+   "titulo": "Instrumento_1_do_Apendice_5_-_Checklist_de_Conformidade_do_Computador_Tipo_I.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 42,
+   "caracteres": 88259
+  },
+  {
+   "ordem": 32,
+   "arquivo": "32-Apendice-4-Requisitos-de-Manutencao-Central-de-Chamados-e-Ni.txt",
+   "titulo": "Apendice_4_-_Requisitos_de_Manutencao__Central_de_Chamados_e_Niveis_de_Servico.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 13,
+   "caracteres": 54738
+  },
+  {
+   "ordem": 33,
+   "arquivo": "33-Apendice-3-Procedimentos-de-Implantacao-Transicao-e-Seguranc.txt",
+   "titulo": "Apendice_3_-_Procedimentos_de_Implantacao__Transicao_e_Seguranca_dos_Dados.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 10,
+   "caracteres": 42827
+  },
+  {
+   "ordem": 34,
+   "arquivo": "34-Apendice-1-Especificacoes-Tecnicas-e-Criterios-de-Equivalenc.txt",
+   "titulo": "Apendice_1_-_Especificacoes_Tecnicas_e_Criterios_de_Equivalencia.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 36,
+   "caracteres": 161414
+  },
+  {
+   "ordem": 35,
+   "arquivo": "35-Instrumento-2-do-Apendice-5-Checklist-de-Conformidade-do-Com.txt",
+   "titulo": "Instrumento_2_do_Apendice_5_-_Checklist_de_Conformidade_do_Computador_Tipo_II.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 44,
+   "caracteres": 93394
+  },
+  {
+   "ordem": 36,
+   "arquivo": "36-Ficha-Tecnica-4-do-Apendice-1-Monitor-Adicional.txt",
+   "titulo": "Ficha_Tecnica_4_do_Apendice_1_-_Monitor_Adicional.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 4696
+  },
+  {
+   "ordem": 37,
+   "arquivo": "37-Apendice-6-Instrumento-de-Medicao-de-Resultado-IMR-Glosas-e-.txt",
+   "titulo": "Apendice_6_-_Instrumento_de_Medicao_de_Resultado_(IMR)__Glosas_e_Relatorios.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 10,
+   "caracteres": 37765
+  },
+  {
+   "ordem": 38,
+   "arquivo": "38-IMPUGNACAO-OMINI-POS-PRIMEIRA-SUSPENSAO.txt",
+   "titulo": "IMPUGNACAO_OMINI_POS_PRIMEIRA_SUSPENSAO.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 34,
+   "caracteres": 87139
+  },
+  {
+   "ordem": 39,
+   "arquivo": "39-Ficha-Tecnica-1-do-Apendice-1-Microcomputador-Corporativo-Ti.txt",
+   "titulo": "Ficha_Tecnica_1_do_Apendice_1_-_Microcomputador_Corporativo_Tipo_I.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 6548
+  },
+  {
+   "ordem": 40,
+   "arquivo": "40-Termo-de-Referencia-Contratacao-de-Solucao-PCaaS.txt",
+   "titulo": "Termo_de_Referencia_-_Contratacao_de_Solucao_PCaaS.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 19,
+   "caracteres": 79954
+  }
+ ],
+ "totalPaginas": 551,
+ "totalCaracteres": 1417157,
+ "comErro": 0
+}

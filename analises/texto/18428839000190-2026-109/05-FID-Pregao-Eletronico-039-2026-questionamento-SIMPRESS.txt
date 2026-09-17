@@ -1,0 +1,141 @@
+=== DOCUMENTO 5: FID_-_Pregao_Eletronico_039-2026_-_questionamento_SIMPRESS.pdf ===
+tipo: Outros Documentos | páginas: 4 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/5
+
+--- [pag. PDF 1] ---
+SECRETARIA DE ADMINISTRAÇÃO
+PE 39/2026 	2026
+Av. Dom Luiz Maria de Santana, 141 – CEP 38061-180 – (34) 3318-2000 – www.uberaba.mg.gov.br
+À Superintendente de Planejamento e Compras Governamentais,
+Prezados (as),
+Em atenção ao pedido de esclarecimento solicitado pela empresa A SIMPRESS COMERCIO,
+LOCAÇÃO E SERVIÇOS LTDA, inscrita no CNPJ nº 07.432.517/0001-07, segue respostas do
+questionamento apresentados:
+Para Item 1:
+1. O mesmo será alterado. A respectiva retificação será publicada nos canais oficiais do
+certame dentro do prazo legal;
+2. O mesmo será alterado. A respectiva retificação será publicada nos canais oficiais do
+certame dentro do prazo legal;
+3. No TR o equipamento Tipo I é exigido 2 slots para permitir a expansão de até 64GB de
+RAM durante a vigência de 60 meses, sem necessidade de substituição completa da
+placa-mãe.
+4. Não. As especificações de cache (256MB), suporte a S.M.A.R.T e velocidades mínimas
+(7.000/6.000 MB/s) garantem desempenho consistente para o Windows 11 e para a
+gravação de logs, arquivos temporários e virtualização eventual. Unidades com
+3.500/1.600 MB/s são inferiores e comprometeriam a performance.
+5. Não. O TR estabelece critérios técnicos mínimos como referência para a avaliação da
+qualidade de imagem. A taxa de 15.000.000:1 de contraste dinâmico é um parâmetro
+objetivo, sendo a adoção de contraste estático (1.000:1) uma redução do padrão exigido,
+não sendo aceita. O mercado de monitores corporativos de 21,5" Full HD é vasto e
+competitivo. A exigência de contraste dinâmico de 15.000.000:1 é um parâmetro que não
+restringe a participação, pois é uma característica presente em uma ampla gama de
+produtos. Exigir essa especificação é uma prática de padronização que assegura que a
+Administração receba um equipamento que atende aos padrões de qualidade e
+desempenho visual atuais, sem incorrer em custos excessivos.
+6. Não. O TR exige distribuição mínima específica entre USB 2.0 e 3.0 para garantir
+compatibilidade com dispositivos legados (USB 2.0) e periféricos de alta velocidade
+
+--- [pag. PDF 2] ---
+SECRETARIA DE ADMINISTRAÇÃO
+PE 39/2026 	2026
+Av. Dom Luiz Maria de Santana, 141 – CEP 38061-180 – (34) 3318-2000 – www.uberaba.mg.gov.br
+(USB 3.0). A substituição por USB 3.2/C não é equivalente, pois elimina portas USB 2.0
+que podem ser necessárias para periféricos mais antigos ainda em uso no Município.
+7. Não. A fonte de 450W é dimensionada para suportar a configuração completa do
+computador com margem de segurança, incluindo futuros upgrades. Uma fonte de
+180W é insuficiente e representa redução do padrão exigido.
+8. O mesmo será alterado.
+9. O TR exige a entrega de 1 (uma) licença por unidade (microcomputador).
+10. O TR exige a entrega de 1 (uma) licença por unidade (microcomputador).
+Para Item 2:
+1. O mesmo será alterado. A respectiva retificação será publicada nos canais oficiais do
+certame dentro do prazo legal;
+2. O mesmo será alterado. A respectiva retificação será publicada nos canais oficiais do
+certame dentro do prazo legal;
+3. Não. O TR exige 4 slots para permitir a expansão de até 128GB de RAM durante a
+vigência de 60 meses, sem necessidade de substituição completa da placa-mãe. A
+capacidade de 128GB é justificada pela previsão de upgrades periódicos e pela demanda
+de secretarias como Planejamento, Fazenda, Saúde e Controle Interno, que operam com
+grandes bases de dados, geoprocessamento e virtualização, todos sob Windows 11.
+Não. O TR exige "no mínimo 4 portas SATA 6.0" para garantir a expansibilidade do
+armazenamento ao longo do contrato.
+4. O TR exige "no mínimo 4 portas controlador SATA 6.0 ou versão superior" por razões
+técnicas consistentes: Expansibilidade durante a vigência de 60 meses;
+Flexibilidade operacional; Padrão de mercado: Equipamentos corporativos de
+marcas como Dell, HP e Lenovo, em suas linhas voltadas a estações de trabalho
+(OptiPlex, EliteDesk, ThinkStation), mantêm múltiplas portas SATA mesmo
+com predominância de NVMe, justamente para atender cenários de expansão.
+5. Não há necessidade de flexibilização adicional, pois a especificação atual já contempla
+exatamente o que a empresa propõe.
+6. Não. As especificações de cache (256MB), suporte a S.M.A.R.T e velocidades mínimas
+(7.000/6.000 MB/s) garantem desempenho consistente para o Windows 11 e para a
+
+--- [pag. PDF 3] ---
+SECRETARIA DE ADMINISTRAÇÃO
+PE 39/2026 	2026
+Av. Dom Luiz Maria de Santana, 141 – CEP 38061-180 – (34) 3318-2000 – www.uberaba.mg.gov.br
+gravação de logs, arquivos temporários e virtualização eventual. Unidades com
+3.500/1.600 MB/s são inferiores e comprometeriam a performance.
+7. Não. O TR estabelece critérios técnicos mínimos como referência para a avaliação da
+qualidade de imagem. A taxa de 15.000.000:1 de contraste dinâmico é um parâmetro
+objetivo, sendo a adoção de contraste estático (1.000:1) uma redução do padrão exigido,
+não sendo aceita. O mercado de monitores corporativos de 21,5" Full HD é vasto e
+competitivo. A exigência de contraste dinâmico de 15.000.000:1 é um parâmetro que não
+restringe a participação, pois é uma característica presente em uma ampla gama de
+produtos. Exigir essa especificação é uma prática de padronização que assegura que a
+Administração receba um equipamento que atende aos padrões de qualidade e
+desempenho visual atuais, sem incorrer em custos excessivos.
+8. Não. O TR exige distribuição mínima específica entre USB 2.0 e 3.0 para garantir
+compatibilidade com dispositivos legados (USB 2.0) e periféricos de alta velocidade
+(USB 3.0). A substituição por USB 3.2/C não é equivalente, pois elimina portas USB 2.0
+que podem ser necessárias para periféricos mais antigos ainda em uso no Município.
+9. Não. A fonte de 450W é dimensionada para suportar a configuração completa do
+computador com margem de segurança, incluindo futuros upgrades. Uma fonte de
+180W é insuficiente e representa redução do padrão exigido.
+10. O mesmo será alterado.
+11. O TR exige a entrega de 1 (uma) licença por unidade (microcomputador).
+12. Sim, com ressalva. Comprovação eletrônica é aceitável, desde que garanta a
+rastreabilidade e a legitimidade de cada licença.
+Para Item 3:
+1. Comunicamos que o Termo de Referência será modificado. A exigência passará a
+constar de forma clara, estabelecendo que a especificação de frequência será aferida com
+base na frequência máxima (modo turbo) do processador, aceitando-se modelos que
+atinjam ou superem o valor estipulado;
+2. O mesmo será alterado;
+3. O mesmo será alterado;
+4. O texto do TR será alterado para melhor entendimento;
+
+--- [pag. PDF 4] ---
+SECRETARIA DE ADMINISTRAÇÃO
+PE 39/2026 	2026
+Av. Dom Luiz Maria de Santana, 141 – CEP 38061-180 – (34) 3318-2000 – www.uberaba.mg.gov.br
+5. Não. As especificações de cache (256MB), suporte a S.M.A.R.T e velocidades mínimas
+(7.000/6.000 MB/s) garantem desempenho consistente para o Windows 11 e para a
+gravação de logs, arquivos temporários e virtualização eventual. Unidades com
+3.500/1.600 MB/s são inferiores e comprometeriam a performance.
+6. Deve atender o TR;
+7. Não. O TR exige explicitamente "bateria de Lithium-Ion, com no mínimo 6 (seis)
+células", o que garante autonomia para jornada de trabalho de 8h. Baterias de 3WHr são
+inferiores e não atendem.
+8. O mesmo será alterado;
+9. O TR exige a entrega de 1 (uma) licença por unidade (microcomputador).
+10. Sim, a licença deverá ser entregue em atendimento ao TR.
+Para Item 4:
+1. Não. O TR estabelece critérios técnicos mínimos como referência para a avaliação da
+qualidade de imagem. A taxa de 15.000.000:1 de contraste dinâmico é um parâmetro
+objetivo, sendo a adoção de contraste estático (1.000:1) uma redução do padrão exigido,
+não sendo aceita. O mercado de monitores corporativos de 21,5" Full HD é vasto e
+competitivo. A exigência de contraste dinâmico de 15.000.000:1 é um parâmetro que não
+restringe a participação, pois é uma característica presente em uma ampla gama de
+produtos. Exigir essa especificação é uma prática de padronização que assegura que a
+Administração receba um equipamento que atende aos padrões de qualidade e
+desempenho visual atuais, sem incorrer em custos excessivos.
+Sem mais para o momento, nos colocamos a disposição para quaisquer esclarecimentos
+adicionais.
+Atenciosamente,
+UBERABA, 22 de junho de 2026
+JOÃO MARTINS DA SILVEIRA NETO
+Chefe do Depto de Tecnologia da Informação
+Decreto nº 0.054/2025
+JMDSN
+Código: 15f79515-f1e9-460a-b8b7-c1ebaba8bc99
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 24/06/2026 09:55

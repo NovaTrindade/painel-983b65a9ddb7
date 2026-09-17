@@ -1,0 +1,107 @@
+=== DOCUMENTO 2: 1_IMPUGNACAO_LEONARDO.pdf ===
+tipo: Outros Documentos | páginas: 3 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/2
+
+--- [pag. PDF 1] ---
+AO SENHOR PREGOEIRO E EQUIPE DE APOIO DO MUNICÍPIO DE
+UBERABA – MG SUPERINTENDÊNCIA DE PLANEJAMENTO E COMPRAS
+GOVERNAMENTAIS SECRETARIA DE ADMINISTRAÇÃO
+Ref.: IMPUGNAÇÃO AO EDITAL DO PREGÃO ELETRÔNICO Nº 039/2026
+LEONARDO BARBOSA ALVES, inscrito no CNPJ sob o nº 66.302.032/0001-50, com
+sede no Município de Pitangui-MG, atuando neste ato no exercício do direito de controle
+e transparência social nas contratações públicas, com fulcro no art. 164 da Lei nº
+14.133/2021, vem, tempestiva e respeitosamente, apresentar IMPUGNAÇÃO AO
+EDITAL em epígrafe, pelas razões de fato e de direito expostas a seguir.
+1. DA TEMPESTIVIDADE E DA LEGITIMIDADE
+O presente edital estabelece a data de 26/06/2026, às 09h, para o início da sessão pública.
+O item 13.2 do instrumento convocatório estabelece o prazo de impugnação de até 03
+(três) dias úteis anteriores à data de abertura. Protocolada a presente manifestação na data
+de hoje, evidencia-se sua manifesta tempestividade. Nos termos do art. 164 do novo
+marco de licitações, “qualquer pessoa é parte legítima para impugnar edital de licitação”.
+2. DA SÍNTESE DO OBJETO
+O Município de Uberaba-MG visa à contratação de serviços contínuos de locação de
+estações de trabalho, notebooks e monitores (outsourcing onshore), no valor global
+estimado de R$ 62.652.951,60. Não obstante a relevância do certame, a leitura detalhada
+das especificações técnicas (Anexo II - TR) revelou severos vícios que restringem a ampla
+competitividade, oneram injustificadamente a proposta e conduzem a um inegável
+direcionamento tecnológico.
+3. EXPOSIÇÃO DETALHADA DAS IRREGULARIDADES E
+FUNDAMENTAÇÃO LEGAL
+3.1. Direcionamento Abusivo: Exigência de Quantitativo Físico de Núcleos e Threads em
+Detrimento de Desempenho (Benchmarks)
+O Termo de Referência, ao delinear as exigências para o "COMPUTADOR TIPO I", fixou
+como requisito mínimo "14 núcleos e 20 threads" (itens 1.6.2.2.6 e 1.6.2.2.7), aliado a um
+"TDP mínimo de 125W". Para o "COMPUTADOR TIPO II", a exigência salta para "16
+núcleos e 24 threads" (itens 1.6.3.1.6 e 1.6.3.1.7).
+Tal amarração descreve exclusivamente a estrutura híbrida de processadores Intel
+(big.LITTLE), marginalizando sumariamente plataformas de fabricantes concorrentes
+(como os processadores AMD), que operam com topologias simétricas eficientes e
+alcançam desempenho de processamento equivalente ou superior para as rotinas típicas
+de estações de trabalho de órgãos públicos.
+
+--- [pag. PDF 2] ---
+Conforme vasta e consolidada jurisprudência do Tribunal de Contas da União (vide
+Acórdãos nº 2383/2014-Plenário, nº 2829/2015-Plenário e nº 2300/2023-Plenário), a
+métrica adequada para avaliar a capacidade de processamento de computadores em
+compras públicas não reside no engessamento de características físicas internas do silício
+(número de núcleos, clock, threads ou tamanho de cache), mas sim na exigência de
+aferições objetivas de desempenho por meio de benchmarks homologados no mercado
+(como SYSmark, PassMark ou equivalentes). Exigir arquitetura física específica
+configura burla ao art. 9º, inciso I, "a" e ao art. 41 da Lei nº 14.133/2021.
+3.2. Exigência Excludente e Obsoleta: Fixação da Litografia Semicondutora (14nm)
+Ainda na especificação dos Computadores Tipo I e II, os itens 1.6.2.2.4 e 1.6.3.1.4 cravam
+que a tecnologia do semicondutor deve ser estritamente de "14nm".
+Ao estabelecer essa litografia específica, o edital impede que equipamentos fabricados
+em litografias inferiores (e, portanto, mais modernos, como 10nm, 7nm e 5nm) sejam
+ofertados. Além de se tratar de especificação excessivamente restritiva – outrora já
+condenada pelo TCU no Acórdão nº 3086/2010-Plenário e Acórdão nº 1934/2018-
+Plenário –, a exigência obriga o licitante a buscar processadores de gerações sabidamente
+defasadas, opondo-se ao princípio constitucional da eficiência e da vantajosidade. 3.3.
+Exigências Antieconômicas: Licenciamento Físico e Lacre VOID
+O item 1.6.2.14.1 exige, para a entrega do sistema operacional, "licenças com lacre void"
+e "fornecimento de mídias externas (DVDs)".
+No cenário corporativo vigente de TI e outsourcing, as licenças padrão (OEM) emitidas
+pelos grandes fabricantes globais (Dell, HP, Lenovo) são ativadas em nível de BIOS/UEFI
+através da arquitetura OA 3.0 (OEM Activation 3.0). Exigir adesivos físicos (lacre void)
+e discos ópticos (DVDs) não traz incremento algum de segurança para a Administração,
+mas impõe um aumento desproporcional do custo à contratada, que será obrigada a
+adquirir licenças de varejo (FPP) isoladas do hardware ou a embutir o custo de aquisições
+de mídias obsoletas em sua formação de preços. O entendimento consubstanciado do
+TCU no Acórdão nº 1521/2015 - Plenário repele o excesso de formalismo em
+licenciamentos, prestigiando a modernização tecnológica.
+4. DO PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO
+Ante a gravidade das nulidades expostas – notadamente os fortes indícios de
+direcionamento do certame e a iminência do recebimento de propostas na data agendada
+para o leilão –, faz-se medida de estrita justiça a concessão de efeito suspensivo a esta
+impugnação, na forma do item 13.4 do Edital, impedindo-se o avanço para a etapa
+competitiva até a completa retificação do instrumento convocatório, resguardando o
+erário e o interesse público contra restrições indevidas em uma contratação de altíssima
+materialidade (mais de 62 milhões de reais).
+5. REQUERIMENTOS FINAIS
+
+--- [pag. PDF 3] ---
+Diante de todo o exposto, pautado na legalidade, moralidade e busca da eficiência
+pretendidas pela Administração Pública, requer:
+A. O conhecimento desta impugnação, em razão de sua inequívoca tempestividade;
+B. A atribuição de efeito suspensivo à presente peça, obstando o andamento processual
+do Pregão Eletrônico nº 039/2026;
+C. No mérito, o ACOLHIMENTO INTEGRAL da impugnação, para determinar a
+imediata retificação do Termo de Referência, devendo a Administração:
+C.1. Excluir os requisitos engessados de "quantidade mínima de núcleos", "quantidade
+mínima de threads" e "TDP" (itens 1.6.2.2.6, 1.6.2.2.7, 1.6.3.1.6, 1.6.3.1.7, 1.6.4.1.7,
+1.6.4.1.8 e correlatos), substituindo-os por métricas objetivas de desempenho
+computacional através da estipulação de índice benchmark (ex: PassMark ou SYSmark);
+C.2. Excluir a exigência taxativa da litografia em "14nm" (itens 1.6.2.2.4 e 1.6.3.1.4),
+visando acolher processadores modernos e eficientes;
+C.3. Alterar os itens 1.6.2.14.1.1 e 1.6.2.14.1.3 (e equivalentes para todos os lotes) a fim
+de aceitar o formato padrão OEM de ativação digital em BIOS (sem a obrigatoriedade de
+adesivo “void” e de mídias físicas em DVDs);
+D. Após a adequação, a respectiva republicação do instrumento convocatório com a
+consequente reabertura do prazo de disputa, garantindo a lisura do certame em
+conformidade legal;
+E. Por fim, requer-se manifestação expressa, pontual e motivada acerca de todos os pontos
+guerreados na presente impugnação, em homenagem aos princípios da publicidade,
+motivação e da vinculação ao edital.
+Nestes termos, pede deferimento.
+Pitangui-MG, 21 de junho de 2026.
+LEONARDO BARBOSA ALVES
+CNPJ: 66.302.032/0001-50

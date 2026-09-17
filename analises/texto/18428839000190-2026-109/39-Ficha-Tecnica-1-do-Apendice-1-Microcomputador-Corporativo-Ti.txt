@@ -1,0 +1,99 @@
+=== DOCUMENTO 39: Ficha_Tecnica_1_do_Apendice_1_-_Microcomputador_Corporativo_Tipo_I.pdf ===
+tipo: Outros Documentos | páginas: 2 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/39
+
+--- [pag. PDF 1] ---
+Ficha Técnica 1 do Apêndice 1 - Tipo I | Página 1 de 2
+FICHA TÉCNICA 1 DO APÊNDICE 1 – MICROCOMPUTADOR CORPORATIVO
+TIPO I
+Documento de síntese para consulta rápida. Os requisitos técnicos completos e vinculantes constam do Apêndice 1.
+1 - IDENTIFICAÇÃO DO ITEM
+CAMPO IDENTIFICAÇÃO
+Item 01
+Código 023.00206
+Denominação Prestação contínua de solução PCaaS - Microcomputador Tipo I, incluindo 1 (um) monitor,
+periféricos e serviços associados
+Modelo de contratação Prestação contínua de solução PCaaS, com serviços associados
+Requisitos detalhados Apêndice 1, seções 5.1 e 5.2 e respectivas subseções
+Documento de
+verificação Instrumento 1 do Apêndice 5 – Checklist de Conformidade do Computador Tipo I
+2 - FUNÇÃO E REGRA DE CONSULTA
+2.1 - Esta Ficha apresenta somente a síntese dos parâmetros essenciais do item, para facilitar identificação e
+consulta. Ela não substitui, reproduz integralmente nem limita os requisitos técnicos detalhados do
+Apêndice 1.
+2.2 - Em caso de dúvida sobre interpretação, equivalência, comprovação, teste, aceite, manutenção ou
+substituição, deverão ser consultadas as seções 5.1 e 5.2 do Apêndice 1 e respectivas subseções.
+2.3 - Eventual divergência material deverá ser formalmente saneada pela Administração antes do julgamento
+ou do recebimento, conforme a fase em que for identificada. A síntese não poderá ser utilizada para
+dispensar requisito detalhado.
+3 - SÍNTESE DA CONFIGURAÇÃO
+ASPECTO SÍNTESE
+Perfil Microcomputador corporativo compacto Small Form Factor, de plataforma única, com suporte
+centralizado e serviços PCaaS.
+Processador
+x86-64; PassMark CPU Mark mínimo de 38.000 pontos; cache L2+L3 mínimo de 24 MB; NPU
+dedicada; multithread; plataforma corporativa em linha ativa, não formalmente descontinuada e
+com suporte oficial de firmware, drivers e correções de segurança.
+Memória 16 GB DDR5 em 1 x 16 GB; mínimo de dois slots; pelo menos um slot livre; 4.400 MT/s ou
+superior; expansão mínima para 64 GB e suporte a dual channel.
+Armazenamento SSD M.2 NVMe mínimo de 480 GB; PCIe 3.0 x4 ou superior; leitura de 3.200 MB/s e gravação de
+2.100 MB/s; S.M.A.R.T.; sanitização NIST SP 800-88.
+Vídeo e monitor
+Vídeo integrado; fornecimento de 1 (um) monitor por computador; suporte a dois monitores
+simultâneos em modo estendido, sendo um integrante do fornecimento e o segundo quando
+existente na unidade ou fornecido como monitor adicional; monitor incluído com no mínimo 21
+polegadas, Full HD a 60 Hz, DisplayPort e HDMI; adaptador ativo HDMI para VGA, com cabos e
+acessórios necessários, fornecido sem custo quando formalmente solicitado pela
+CONTRATANTE; monitor preferencialmente da mesma marca comercial do equipamento
+principal, admitida marca distinta nos termos do item 2.15 do Apêndice 1, com compatibilidade
+integral, documentação oficial, garantia e suporte centralizados pela CONTRATADA.
+Rede e portas Wi-Fi 6E 2 x 2; Ethernet Gigabit com WOL e PXE; Bluetooth 5.3; mínimo de sete USB-A e uma
+USB-C; DisplayPort e HDMI.
+Gabinete e fonte SFF com volume máximo de 10,5 litros; abertura sem ferramentas; fonte mínima de 240 W,
+Active PFC e 80 PLUS Platinum ou equivalente.
+
+--- [pag. PDF 2] ---
+Ficha Técnica 1 do Apêndice 1 - Tipo I | Página 2 de 2
+ASPECTO SÍNTESE
+Periféricos
+Teclado ABNT2 e mouse óptico com fio, ambos novos, identificáveis, suportados e cobertos pela
+solução, preferencialmente da mesma marca comercial do equipamento principal, admitida marca
+distinta nos termos do item 2.15 do Apêndice 1, com compatibilidade integral, documentação
+oficial, garantia e suporte centralizados pela CONTRATADA; mouse pad incluído.
+Software Windows 11 Professional 64 bits e Office LTSC 2024 perpétuo, por dispositivo, com Word, Excel,
+PowerPoint e Outlook, conforme regras de licenciamento do Apêndice 1.
+Gestão e segurança TPM 2.0 em hardware; UEFI e Secure Boot; gerenciamento Out-of-Band, inclusive por rede sem
+fio, KVM remoto, inventário persistente, isolamento de conteúdo e proteção antimalware.
+Conformidade
+ENERGY STAR; EPEAT Gold, TCO Certified ou certificação ambiental Tipo I baseada na ISO
+14024, não cumulativas; IEC 62368-1; ISO 7779/9296; RoHS; Windows CPL; implementação
+funcional dos padrões DMTF e comprovação alternativa, conforme o Apêndice 1; EcoVadis Silver
+ou superior, avaliação ESG independente equivalente ou conjunto documental corporativo
+auditável, abrangendo meio ambiente, práticas trabalhistas e direitos humanos, ética e
+integridade e compras sustentáveis, conforme o Apêndice 1; requisitos ambientais aplicáveis.
+Rastreabilidade e
+integridade
+Sensor eletrônico de abertura ou intrusão integrado ao projeto original ou oficialmente
+homologado, instalado, conectado e habilitado; detecção da abertura ou remoção da tampa;
+estado persistente após o fechamento; associação ao número de série; consulta e coleta central;
+classificação da autorização pela CONTRATANTE mediante Ordem de Serviço. Controles físicos
+não substituem o sensor. Requisitos e testes completos no Apêndice 1 e nos Apêndices 3 a 5.
+4 - LOCALIZAÇÃO DOS REQUISITOS DETALHADOS
+4.1 - Os requisitos completos do item estão organizados no Apêndice 1, nas seções 5.1 e 5.2 e respectivas
+subseções. As regras transversais permanecem nas seções 1 a 4 e 6 a 10 do mesmo Apêndice.
+4.2 - O recebimento e a inspeção utilizarão o Instrumento 1 do Apêndice 5 – Checklist de Conformidade do
+Computador Tipo I, que deverá ser lido em conjunto com o Apêndice 1 e não substitui a especificação
+detalhada.
+5 - COMPROVAÇÃO E ACEITAÇÃO
+5.1 - A comprovação observará os meios, critérios de equivalência e regras de diligência estabelecidos no
+Apêndice 1. Documentos, testes e evidências deverão corresponder inequivocamente à marca, ao modelo,
+à configuração e à unidade ou ao lote verificado.
+5.2 - O checklist constitui instrumento de registro da verificação e não reduz o dever de atendimento integral
+aos requisitos do Apêndice 1, do Termo de Referência e das demais obrigações aplicáveis.
+6 - REGRA PARA O SEGUNDO CICLO
+6.1 - Se formalizada prorrogação posterior aos 60 (sessenta) meses iniciais, este item integrará a renovação
+tecnológica da base elegível, sem ônus adicional decorrente da renovação e conforme a metodologia
+dinâmica, a matriz comparativa, as evidências e a aprovação técnica previstas na seção CRITÉRIOS DE
+EVOLUÇÃO TECNOLÓGICA PARA O SEGUNDO CICLO do Apêndice 1. Esta síntese não fixa
+configuração futura nem substitui os requisitos detalhados.
+Código: 1f409189-4854-4fd2-8676-e317fa045535
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

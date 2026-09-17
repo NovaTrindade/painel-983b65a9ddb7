@@ -1,0 +1,144 @@
+=== DOCUMENTO 19: OFICIO_RESPONDE_IMPUGNACAO_SIMPRESS_assinado.pdf ===
+tipo: Outros Documentos | páginas: 4 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/19
+
+--- [pag. PDF 1] ---
+PREFEITURA MUNICIPAL DE UBERABA/MG
+SECRETARIA DE ADMINISTRAÇÃO
+Superintendência de Planejamento e Compras Governamentais
+OFÍCIO Nº 022/2026 Uberaba/MG, 26 de junho de 2026
+À
+SIMPRESS COMERCIO, LOCAÇÃO E SERVIÇOS LTDA.
+Assunto: Responde Pedido de Impugnação – PE nº. 039/2026
+Prezados Senhores,
+Cumprimentando-os cordialmente, reportamo-nos à Impugnação
+tempestivamente apresentada por essa empresa contra os termos do instrumento
+convocatório do Pregão Eletrônico nº 039/2026, cujo objeto consiste na Contratação
+de empresa especializada para prestação de serviços contínuos de locação de
+estações de trabalho (microcomputadores completos), notebooks e monitores,
+em modelo de outsourcing onshore, com fornecimento de sistema operacional e
+pacote de escritório, incluindo garantia integral, manutenção preventiva e
+corretiva, substituição de peças e equipamentos, atualização tecnológica
+(upgrades), suporte técnico onsite e remoto, bem como o atendimento às
+exigências legais de segurança da informação, proteção de dados pessoais
+(LGPD), acessibilidade digital e logística reversa dos equipamentos ao final do
+contrato, em atendimento às Secretarias de Administração (SAD), de Educação
+(SEMED), de Desenvolvimento Social (SEDS) e da Saúde (SMS).
+Após criteriosa análise dos argumentos técnicos apresentados pelo Impugnante,
+bem como das manifestações formais exaradas pela Secretaria Requisitante (SAD), que
+fundamentaram a decisão deste Agente de Contratação, emitimos o posicionamento
+oficial. Considerando a complexidade dos questionamentos e respectivas respostas,
+recomenda-se a leitura integral das manifestações da Secretaria Requisitante,
+disponíveis na área de documentos complementares desta plataforma e/ou ao final
+deste.
+Ressalte-se que, não obstante as alegações do Impugnante, foram acolhidos os
+questionamentos de nº 1 e nº 6.
+Diante do exposto, a autoridade competente conhece da impugnação, por ser
+tempestiva, e, no mérito, decide DEFERI-LA PARCIALMENTE.
+Atenciosamente,
+Ronnie Peterson Finzi Oliveira
+Agente de Contratações/Pregoeiro
+
+--- [pag. PDF 2] ---
+SECRETARIA DE ADMINISTRAÇÃO
+PE 39/2026 	2026
+Av. Dom Luiz Maria de Santana, 141 – CEP 38061-180 – (34) 3318-2000 – www.uberaba.mg.gov.br
+À Superintendente de Planejamento e Compras Governamentais,
+Prezados (as),
+Em atenção ao pedido de impugnação solicitado pela empresa A SIMPRESS COMERCIO,
+LOCAÇÃO E SERVIÇOS LTDA, inscrita no CNPJ nº 07.432.517/0001-07, segue respostas do
+questionamento apresentados:
+1. Já forma realizadas as alterações questionadas no item 1 no TR para melhor
+competitividade.
+2. Questionamento não procede:
+a. A especificação de 128GB de RAM para o Computador Tipo II é tecnicamente
+justificada por:
+ Vigência de 60 meses: O contrato prevê upgrades periódicos sem
+substituição de hardware. A capacidade máxima de 128GB, associada a 4
+slots físicos, garante que o equipamento possa ser expandido durante
+toda a vigência contratual.
+ Demandas específicas das Secretarias: O Tipo II destina-se a secretarias
+com alta demanda computacional:
+o Secretaria de Fazenda: Processamento de bases de dados fiscais
+(IPTU, ISS) com milhões de registros.
+o Secretaria de Planejamento: Geoprocessamento (QGIS/ArcGIS)
+e análise espacial.
+o Secretaria de Saúde: Análise de dados epidemiológicos e sistemas
+de regulação.
+o Controladoria Geral: Auditoria de grandes volumes de dados.
+o Secretaria de Desenvolvimento Social: Gestão de bases de dados
+de programas sociais.
+ Virtualização: O Windows 11 Pro com recursos de segurança baseados
+em virtualização (VBS, Hyper-V) demanda memória adicional.
+b. Viabilidade de Mercado – Exemplos de Equipamentos que Atendem:
+
+--- [pag. PDF 3] ---
+SECRETARIA DE ADMINISTRAÇÃO
+PE 39/2026 	2026
+Av. Dom Luiz Maria de Santana, 141 – CEP 38061-180 – (34) 3318-2000 – www.uberaba.mg.gov.br
+Fabricante 	Modelo 	Capacidade Máxima Slots
+Dell 	Pro Torre Plus Até 128GB DDR5 4 slots
+Dell 	Precision 3680
+Tower
+Até 128GB DDR5 4 slots
+HP 	Z2 Tower G1i Até 128GB DDR5 4 slots
+Lenovo 	ThinkStation
+P2 Tower
+Até 128GB DDR5 4 slots
+A exigência de 128GB e 4 slots é padrão para estações de trabalho de alto
+desempenho, sendo amplamente atendida por fabricantes como Dell, HP e Lenovo.
+3. Questionamento não procede:
+a. Expansibilidade: As 4 portas SATA permitem a instalação de discos adicionais
+para armazenamento de dados, backups locais e arquivos de grande volume
+durante os 60 meses de contrato.
+b. Padrão de mercado: Equipamentos corporativos de marcas como Dell mantêm
+múltiplas portas SATA mesmo com predominância de NVMe, justamente para
+atender cenários de expansão -2.
+c. Compatibilidade: O TR já especifica SSD NVMe como unidade principal. As
+portas SATA são complementares.
+4. Questionamento não procede:
+a. Distinção Técnica: Contraste dinâmico e estático são métricas fundamentalmente
+distintas. O contraste dinâmico é uma tecnologia de ajuste do brilho da luz de
+fundo que melhora a percepção de pretos em cenas escuras, enquanto o
+contraste estático é uma característica física do painel. Não são comparáveis nem
+substitutíveis.
+b. Padrão de mercado: A taxa de 15.000.000:1 (contraste dinâmico) é um padrão
+consolidado para monitores corporativos de marcas como Samsung, LG, AOC,
+Dell, HP e Lenovo. Não se trata de exigência excepcional.
+5. Questionamento não procede:
+a. Interfaces USB:
+ Compatibilidade com dispositivos legados: O município possui diversos
+
+--- [pag. PDF 4] ---
+SECRETARIA DE ADMINISTRAÇÃO
+PE 39/2026 	2026
+Av. Dom Luiz Maria de Santana, 141 – CEP 38061-180 – (34) 3318-2000 – www.uberaba.mg.gov.br
+periféricos (teclados, mouses, leitores biométricos, equipamentos de
+autenticação) que operam em USB 2.0. Portas USB 2.0 dedicadas
+garantem compatibilidade sem necessidade de adaptadores ou hubs. A
+prática de separar periféricos em USB 2.0 e dispositivos de alta
+velocidade em USB 3.0 é comum em equipamentos corporativos -12-13.
+ Portas frontais: A exigência de portas frontais é essencial para
+acessibilidade dos usuários, evitando que precisem acessar a parte traseira
+do gabinete para conexões rápidas.
+ Padrão de mercado: Equipamentos Dell, HP e Lenovo mantêm
+distribuição semelhante de portas USB.
+b. Potência de Fonte (450W):
+ Margem para upgrades: A fonte de 450W garante capacidade para
+expansões futuras (memória, armazenamento, placas) durante os 60
+meses de vigência.
+ Proteções elétricas: O TR exige proteções OCP, OVP, SCP, UVP e OTP,
+padrão em fontes de qualidade como Cooler Master e XPG.
+ Padrão de mercado: Fontes de 450W com certificação 80 Plus Bronze são
+amplamente ofertadas por fabricantes como Corsair e Cooler Master
+6. Já forma realizadas as alterações questionadas no item 6 no TR para melhor
+competitividade.
+Sem mais para o momento, nos colocamos a disposição para quaisquer esclarecimentos
+adicionais.
+Atenciosamente,
+UBERABA, 22 de junho de 2026
+JOÃO MARTINS DA SILVEIRA NETO
+Chefe do Depto de Tecnologia da Informação
+Decreto nº 0.054/2025
+JMDSN
+Código: 997304a7-1fa9-45ea-8fd8-aed2768a4ab9
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 24/06/2026 09:55

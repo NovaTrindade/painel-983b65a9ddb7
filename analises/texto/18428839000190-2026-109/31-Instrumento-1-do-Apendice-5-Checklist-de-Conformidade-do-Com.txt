@@ -1,0 +1,2868 @@
+=== DOCUMENTO 31: Instrumento_1_do_Apendice_5_-_Checklist_de_Conformidade_do_Computador_Tipo_I.pdf ===
+tipo: Outros Documentos | páginas: 42 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/31
+
+--- [pag. PDF 1] ---
+Apêndice 5 - Recebimento e Inspeção | Página 1 de 42
+INSTRUMENTO 1 DO APÊNDICE 5 – CHECKLIST DE CONFORMIDADE DO COMPUTADOR TIPO I
+1 - IDENTIFICAÇÃO DA VERIFICAÇÃO
+Processo administrativo nº: ________________________________________________
+Contrato, ata ou instrumento equivalente nº: _________________________________
+Contratada: _______________________________________________________________
+Fabricante, modelo e configuração: __________________________________________
+Número de série, patrimônio ou lote: _________________________________________
+Unidade e local da verificação: ______________________________________________
+Data e horário: ____/____/________, das ______ às ______ horas.
+Responsáveis pela verificação: ______________________________________________
+Aplicação à renovação tecnológica: ☐ Não aplicável ☐ Piloto ☐ Onda nº ______ ☐ Aceite técnico inicial ☐ Aceite definitivo
+Equipamento anterior - fabricante/modelo/série: ____________________________________________________________________
+Equipamento substituto - fabricante/modelo/série: _________________________________________________________________
+Matriz técnica aprovada em: ____/____/________ Imagem/versão/hash: _______________________________________________
+Migração autorizada: ☐ Não aplicável ☐ Concluída Testes: ☐ Conformes Estabilização até: ____/____/________ Nova linha de base: ☐ Registrada
+Inventário atualizado: ☐ Sim Retirada/cadeia de custódia: ☐ Registrada Sanitização: ☐ Certificada Data de inclusão no IRA: ____/____/________
+2 - INSTRUÇÕES DE PREENCHIMENTO
+Este instrumento integra o Apêndice 5 e deverá ser utilizado em conjunto com o Termo de Referência e com o Apêndice 1, especialmente as seções 5.1 e 5.2
+e suas subseções. Os critérios da tabela apoiam a verificação e não substituem a redação técnica integral do Apêndice 1.
+A conformidade será indicada somente quando o equipamento atender integralmente ao critério e a forma de comprovação apresentar correspondência
+inequívoca com o fabricante, o modelo, a configuração e a unidade verificada.
+A diligência poderá esclarecer ou confirmar informação preexistente, sem admitir troca do modelo, criação posterior de característica material ou redução da
+exigência.
+Cada desconformidade deverá registrar o requisito, a evidência, o impacto, a providência, o responsável e o prazo de saneamento, sem prejuízo da rejeição
+quando o desvio afetar requisito obrigatório.
+3 - CHECKLIST DE CONFORMIDADE
+Cada linha deverá receber uma única conclusão. A opção Diligência não equivale à conformidade e deverá permanecer vinculada à evidência e ao prazo de
+conclusão.
+
+--- [pag. PDF 2] ---
+Apêndice 5 - Recebimento e Inspeção | Página 2 de 42
+Regra transversal de registro da evidência: nas consultas a portais eletrônicos de conteúdo dinâmico, a verificação deverá registrar data e hora, URL, país ou
+mercado aplicável, fabricante, modelo, família e configuração e, quando pertinente, potência, versão, categoria e prazo de validade. A evidência deverá ser
+preservada nos autos em PDF ou captura integral que identifique a fonte e permita reproduzir o estado do cadastro na data relevante. Campo não
+disponibilizado pelo próprio portal será registrado como não aplicável, sem prejuízo da identificação inequívoca do produto e do requisito.
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos gerais 1.1 - Equipamento novo de
+fábrica
+Sem uso prévio; não recondicionado, remanufaturado ou
+de mostruário; caixa ou embalagem original e respectivo
+lacre íntegros, sem sinais de violação.
+Inspeção visual do equipamento, da caixa ou
+embalagem e do lacre; conferência de etiqueta,
+número de série e condição física.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos gerais 1.2 - Identificação Marca, modelo e número de série correspondentes à
+proposta Etiqueta/BIOS/documentação
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.1 - Apêndice 1, 5.1.1.1
+Processador de arquitetura x86-64, compatível com o
+equipamento ofertado e com o sistema operacional
+Microsoft Windows 11 Professional de 64 bits.
+Documentação oficial do processador e do modelo
+ofertado, identificação no BIOS/UEFI e validação
+no Windows 11 Professional de 64 bits.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 3] ---
+Apêndice 5 - Recebimento e Inspeção | Página 3 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.2 - Apêndice 1, 5.1.1.2
+Sistema de dissipação térmica original ou oficialmente
+homologado para o modelo, dimensionado para manter o
+processador dentro da faixa ambiental e térmica
+especificada pelo fabricante em operação contínua de
+até 10 horas diárias, sem adaptações.
+Manual de manutenção ou documentação oficial
+do modelo e teste controlado de estabilidade e
+temperatura em carga.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.3 - Apêndice 1, 5.1.1.3
+O processador deverá alcançar índice mínimo de 38.000
+pontos no PassMark CPU Mark, sem overclock ou ajuste
+fora das condições homologadas pelo fabricante, tendo
+como referência http://www.cpubenchmark.net; A
+Administração registrará nos autos o modelo exato, a
+URL, a data e o horário da consulta. Os modelos
+comparados na mesma rodada serão consultados na
+mesma data. Turbo ou boost automático dentro dos
+limites oficiais de fábrica não caracteriza overclock.
+Benchmark público alternativo somente será aceito com
+memória técnica reproduzível que demonstre
+equivalência ou superioridade ao patamar exigido.
+Consulta ao endereço indicado no Apêndice 1,
+registrada com URL, data e horário; identificação
+do modelo exato; comparação na mesma data;
+BIOS em configuração oficial; memória técnica
+reproduzível para benchmark alternativo.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.4 - Apêndice 1, 5.1.1.4
+O processador deverá possuir, no mínimo, 24 MB de
+memória cache total, considerada a soma das memórias
+cache L2 e L3 informadas na documentação oficial do
+fabricante, excluída a cache L1 e vedada a contagem
+repetida de cache compartilhada.
+Ficha oficial do processador com identificação
+separada das caches L2 e L3 e memória de
+cálculo sem dupla contagem.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 4] ---
+Apêndice 5 - Recebimento e Inspeção | Página 4 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.5 - Apêndice 1, 5.1.2.8
+A plataforma, considerada a combinação de processador,
+chipset, firmware/BIOS e interfaces de rede, deverá
+suportar gerenciamento remoto Out-of-Band baseado em
+hardware, inclusive por rede sem fio mediante interface
+compatível e homologada, independentemente do estado
+do sistema operacional. Deverá permitir controle de
+energia, inventário de hardware, diagnóstico e acesso
+remoto ao processo de inicialização. Console, firmware,
+certificados, componentes e licenças necessários
+deverão integrar a solução PCaaS.
+Documentação oficial da plataforma e teste OOB
+sem fio com Ethernet desconectada e sistema
+operacional indisponível; console, licenças e logs.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.6 - Apêndice 1, 5.1.1.5
+O processador ou SoC deverá possuir NPU dedicada,
+habilitada e reconhecida pelo sistema operacional, apta à
+aceleração por hardware de cargas de inteligência
+artificial, inclusive inferência de redes neurais e
+aprendizado de máquina. Não será fixado patamar
+mínimo de TOPS nesta contratação.
+Documentação oficial do processador e do
+equipamento; identificação da NPU no BIOS/UEFI,
+sistema operacional ou ferramenta oficial.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos
+2.7 - Linha ativa, ciclo de
+vida e suporte oficial do
+processador (Apêndice 1,
+5.1.1.6)
+Plataforma corporativa em linha de fabricação e
+comercialização, não formalmente descontinuada, com
+documentação e suporte oficial de BIOS/UEFI, firmware,
+drivers, microcódigo e correções de segurança. A data de
+lançamento não constitui critério eliminatório.
+Página oficial do processador e do equipamento,
+portal oficial de suporte, documentação de produto,
+aviso de ciclo de vida ou declaração oficial do
+fabricante.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 5] ---
+Apêndice 5 - Recebimento e Inspeção | Página 5 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.8 - Apêndice 1, 5.1.1.7 O processador deverá suportar processamento
+multithread.
+Documentação oficial do processador e verificação
+no BIOS/UEFI ou sistema operacional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.9 - Apêndice 1, 5.1.4.1 O equipamento deverá possuir capacidade mínima
+instalada de 16 GB de memória RAM.
+Documentação oficial do fabricante ou
+componente, inspeção e teste funcional da unidade
+selecionada, com identificação inequívoca de
+marca, modelo, versão e número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.10 - Apêndice 1, 5.1.4.2
+O equipamento deverá possuir, no mínimo, dois slots
+físicos para memória RAM. A capacidade mínima de 16
+GB deverá ser instalada em um módulo de 16 GB,
+permanecendo pelo menos um slot livre para expansão.
+A plataforma deverá suportar dual-channel após a
+instalação de módulo adicional compatível.
+Documentação oficial, inspeção física dos slots e
+verificação de um módulo de 16 GB instalado e um
+slot livre.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 6] ---
+Apêndice 5 - Recebimento e Inspeção | Página 6 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.11 - Apêndice 1, 5.1.4.3
+A memória instalada deverá ser DDR5 e operar
+efetivamente, na configuração entregue, com taxa de
+transferência de 4.400 MT/s ou superior.
+BIOS/UEFI e ferramenta de inventário confirmando
+DDR5 e operação efetiva mínima de 4.400 MT/s.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.12 - Apêndice 1, 5.1.4.4
+A combinação de processador, placa principal e
+BIOS/UEFI deverá suportar capacidade total de memória
+RAM de, no mínimo, 64 GB.
+Documentação oficial do fabricante ou
+componente, inspeção e teste funcional da unidade
+selecionada, com identificação inequívoca de
+marca, modelo, versão e número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.13 - Apêndice 1, 5.1.3.1
+A presença de interface SATA não será requisito
+eliminatório quando a configuração utilizar
+exclusivamente armazenamento M.2 NVMe e não houver
+periférico SATA exigido. Havendo interface SATA, deverá
+ser integrada ou homologada e operar a 6,0 Gb/s ou
+superior.
+Documentação oficial do modelo e inspeção da
+configuração entregue, com identificação das
+interfaces de armazenamento aplicáveis.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 7] ---
+Apêndice 5 - Recebimento e Inspeção | Página 7 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.14 - Apêndice 1, 5.1.3.2
+Possuir, no mínimo, um slot M.2 NVMe operando em
+PCIe 3.0 x4 ou tecnologia superior, compatível com a
+unidade ofertada, e permitir inicialização por dispositivo
+USB.
+Manual ou ficha técnica oficial, inspeção física ou
+por inventário e teste de inicialização por
+dispositivo USB.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.15 - Apêndice 1, 5.1.3.3
+A expansão interna deverá ser compatível com o projeto
+original, sem adaptações e sem exigência de quantidade
+fixa de slots PCIe além das interfaces necessárias à
+configuração contratada.
+Manual de manutenção e documentação oficial da
+configuração, complementados por inspeção física
+quando necessária.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.16 - Apêndice 1, 5.1.3.4
+A unidade de armazenamento interna deverá ser SSD
+M.2 NVMe com capacidade mínima de 480 GB, suporte a
+S.M.A.R.T. e desempenho nominal mínimo de 3.200
+MB/s para leitura sequencial e 2.100 MB/s para gravação
+sequencial, comprovado para a capacidade exata
+ofertada. Não será exigida cache dedicada quando a
+arquitetura atender aos requisitos de desempenho,
+confiabilidade e monitoramento.
+Ficha técnica oficial da capacidade exata,
+inventário S.M.A.R.T., BIOS ou sistema
+operacional e teste complementar de desempenho
+quando necessário.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 8] ---
+Apêndice 5 - Recebimento e Inspeção | Página 8 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.17 - Apêndice 1, 5.1.2.1
+A placa principal deverá integrar o projeto original do
+modelo ofertado e ser fabricada, fornecida ou
+oficialmente homologada pelo fabricante responsável
+pelo equipamento, sua garantia e seu suporte. Serão
+aceitos projetos próprios, OEM ou ODM com
+documentação oficial, rastreabilidade de marca, modelo e
+revisão. Não serão aceitas placas de varejo adaptadas,
+remarcadas pela licitante ou sem identificação técnica
+verificável.
+Manual de serviço, identificação da placa, SMBIOS
+e declaração ou portal oficial que demonstre
+projeto próprio, OEM ou ODM homologado e
+rastreável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.18 - Apêndice 1, 5.1.2.2
+Atualizações, correções de segurança e avisos do
+BIOS/UEFI deverão estar disponíveis em portal oficial de
+suporte, com identificação do modelo, versão, data, notas
+de versão e mecanismo de verificação de autenticidade e
+integridade. A aplicação pela contratada dependerá de
+autorização e programação da Administração.
+Portal oficial do modelo, notas de versão,
+assinatura ou hash e procedimento controlado de
+atualização.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.19 - Apêndice 1, 5.1.2.3
+O BIOS/UEFI deverá permitir credenciais independentes
+para inicialização e para acesso administrativo às
+configurações, com alteração e restauração controladas.
+Não serão aceitas credenciais administrativas imutáveis
+ou mantidas no padrão de fábrica.
+Teste no BIOS/UEFI das credenciais
+independentes e do fluxo autorizado de alteração e
+recuperação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 9] ---
+Apêndice 5 - Recebimento e Inspeção | Página 9 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.20 - Apêndice 1, 5.1.4.5
+A plataforma deverá suportar operação da memória em
+dois canais. O requisito representa capacidade da
+plataforma e será efetivado após a instalação de módulo
+adicional compatível, sem alterar a entrega inicial
+aprovada em 1 x 16 GB.
+Documentação oficial do fabricante ou
+componente, inspeção e teste funcional da unidade
+selecionada, com identificação inequívoca de
+marca, modelo, versão e número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.21 - Apêndice 1, 5.1.2.4
+Deverão ser registrados e consultáveis por SMBIOS/DMI,
+ou mecanismo equivalente, fabricante responsável,
+modelo exato, número de série único, UUID e campo de
+patrimônio, em correspondência com a identificação
+física e preservados após reinstalação do sistema
+operacional.
+Comparação entre etiquetas, SMBIOS/DMI,
+BIOS/UEFI, UUID, série, modelo e campo de
+patrimônio.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.22 - Apêndice 1, 5.1.2.5
+O inventário de placa principal, processador, memória,
+armazenamento, interfaces de rede e firmware deverá
+permanecer em repositório persistente da plataforma e
+ser consultável localmente e pela solução de
+gerenciamento remoto, inclusive quando o sistema
+operacional estiver indisponível.
+Consulta de inventário local e remota com o
+sistema operacional indisponível e exportação de
+evidência.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 10] ---
+Apêndice 5 - Recebimento e Inspeção | Página 10 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.23 - Apêndice 1, 5.1.2.9
+Por conexão Ethernet, a plataforma deverá permitir
+acesso remoto a vídeo, teclado e mouse durante POST,
+BIOS/UEFI, inicialização e sistema operacional. Durante
+sessão interativa deverá existir indicação local visível e
+persistente; em POST ou BIOS/UEFI, a atividade deverá
+ser indicada no console e registrada em log.
+Teste KVM por Ethernet em POST, BIOS/UEFI,
+inicialização e sistema operacional; indicação local
+e logs da sessão.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.24 - Apêndice 1, 5.1.2.6
+O equipamento deverá possuir TPM 2.0 habilitado no
+BIOS/UEFI e reconhecido pelo sistema operacional,
+implementado em hardware por componente discreto
+soldado à placa principal ou integrado ao chipset ou SoC.
+Não serão aceitas implementações exclusivamente por
+firmware, módulos removíveis, dispositivos externos ou
+adaptadores instalados posteriormente apenas para
+atender ao requisito.
+Documentação da arquitetura TPM e inspeção do
+BIOS/UEFI e do sistema operacional, excluídas
+implementações exclusivamente por firmware ou
+módulos removíveis.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.25 - Apêndice 1, 5.1.2.10
+A plataforma deverá permitir, por TCP/IP e sem
+dependência do sistema operacional, ligar, desligar e
+reiniciar o equipamento, consultar inventário e
+diagnóstico e acessar as configurações de hardware
+durante POST.
+Teste em rede segregada de energia,
+reinicialização e acesso ao POST por TCP/IP com
+o sistema operacional indisponível.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 11] ---
+Apêndice 5 - Recebimento e Inspeção | Página 11 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.26 - Apêndice 1, 5.1.2.11
+O gerenciamento remoto deverá integrar a arquitetura do
+processador e da plataforma, estar habilitado no
+BIOS/UEFI e permanecer disponível mesmo em caso de
+falha do sistema operacional. Soluções exclusivamente
+baseadas em agente instalado no sistema operacional
+não atenderão isoladamente ao requisito.
+Documentação da plataforma e teste funcional que
+demonstre gerenciamento integrado à arquitetura e
+habilitado no BIOS/UEFI.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.27 - Apêndice 1, 5.1.2.12
+A comunicação de gerenciamento remoto deverá ser
+criptografada, utilizar credenciais individualizadas e
+controle de acesso por função e gerar registros
+auditáveis de equipamento, operador, origem, início,
+término, ações e resultado, observados os controles do
+Apêndice 3.
+Configuração da console, certificados ou
+protocolos criptográficos, contas individualizadas,
+perfis de acesso e exportação de registros
+auditáveis de sessão.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.28 - Apêndice 1, 5.1.3.5
+A solução deverá permitir sanitização das unidades
+independentemente do sistema operacional, por
+firmware, menu de inicialização ou ambiente inicializável
+confiável e oficialmente suportado, em conformidade com
+a NIST SP 800-88 Rev. 2 ou referência superveniente
+reconhecida. O procedimento deverá gerar evidência e
+Certificado de Sanitização.
+Documentação da ferramenta oficial e teste
+autorizado em unidade com dados sintéticos;
+relatório e Certificado de Sanitização conforme o
+Apêndice 3.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 12] ---
+Apêndice 5 - Recebimento e Inspeção | Página 12 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.29 - Apêndice 1, 5.1.2.7
+O equipamento deverá utilizar UEFI em modo nativo,
+compatível com Windows 11 Professional, Secure Boot e
+firmware assinado, homologado e suportado pelo
+fabricante. Não será exigido desenvolvimento exclusivo
+do código-base pelo fabricante nem filiação a categoria
+específica do UEFI Forum.
+Tela do BIOS/UEFI, Secure Boot, assinatura do
+firmware, portal de suporte e teste de inicialização
+nativa do Windows.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.30 - Apêndice 1, 5.2.6.1
+Conteúdo não confiável de navegação e anexos
+abrangidos pela política da Administração deverão ser
+processados em ambiente isolado e descartável. Serão
+aceitas microvirtualização, containerização, sandbox
+segura, RBI ou tecnologia equivalente. O ensaio deverá
+verificar ausência de persistência, acesso indevido a
+arquivos, credenciais ou sessões, comunicação lateral
+não autorizada e transferências fora dos canais
+permitidos.
+Arquitetura, política e licenças; ensaio benigno
+controlado de conteúdo web e anexo; verificação
+de persistência, acesso ao hospedeiro,
+comunicação lateral, transferências e logs.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.31 - Apêndice 1, 5.2.6.2
+A solução deverá proteger em tempo real download,
+criação, gravação, abertura e execução de arquivos,
+combinando assinatura ou reputação com heurística,
+inteligência artificial, aprendizado de máquina, análise
+comportamental ou equivalente. Deverá bloquear,
+colocar em quarentena ou conter artefato benigno
+reconhecido, possuir proteção contra adulteração,
+registros auditáveis e manter proteção offline com o
+último conjunto válido. Licenças e consoles cobrirão
+todos os equipamentos instalados e ativos, sem
+degradação que viole desempenho, estabilidade,
+funcionalidade ou SLA.
+Console, política e licenças; teste benigno
+reconhecido conectado e offline; bloqueio ou
+contenção, quarentena, logs, antiviolação,
+atualização após reconexão e comparação de
+desempenho.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 13] ---
+Apêndice 5 - Recebimento e Inspeção | Página 13 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.32 - Apêndice 1, 5.1.5.1
+A controladora gráfica deverá ser integrada ao
+processador, utilizar memória RAM compartilhada e
+realizar alocação dinâmica.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.33 - Apêndice 1, 5.1.5.2
+A solução gráfica deverá operar cada monitor em
+resolução mínima Full HD, 1920 x 1080 pixels, a 60 Hz
+ou superior.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.34 - Apêndice 1, 5.1.5.3 A controladora deverá ser compatível com DirectX 12 e
+OpenGL 4.5 ou superior.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 14] ---
+Apêndice 5 - Recebimento e Inspeção | Página 14 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.35 - Apêndice 1, 5.1.5.4
+O equipamento deverá suportar simultaneamente dois
+monitores em modo estendido, com imagens
+independentes.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.36 - Apêndice 1, 5.1.5.5
+Interfaces, drivers e eventuais adaptadores oficialmente
+homologados deverão ser integralmente compatíveis
+com os monitores e o sistema operacional ofertados, sem
+redução da resolução, frequência ou operação
+simultânea exigidas.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.37 - Apêndice 1, 5.1.6.1
+Monitor com tela de, no mínimo, 21 polegadas, resolução
+nativa de 1920 x 1080 pixels, frequência mínima de 60
+Hz, formato 16:9, ângulos de visualização de 178 graus
+na horizontal e na vertical ou tecnologia equivalente ou
+superior, contraste estático mínimo de 1.000:1 e tempo
+de resposta máximo de 5 ms. O monitor deverá ser,
+preferencialmente, da mesma marca comercial do
+computador, admitida marca distinta nos termos do item
+2.15 do Apêndice 1.
+Documentação oficial do fabricante e do modelo,
+identificação da marca, catálogo ou ficha técnica,
+garantia e suporte; para marca distinta,
+comprovação de compatibilidade integral, inspeção
+física e teste funcional com o equipamento
+principal.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 15] ---
+Apêndice 5 - Recebimento e Inspeção | Página 15 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.38 - Apêndice 1, 5.1.6.2
+O monitor deverá possuir, no mínimo, uma entrada
+DisplayPort e uma entrada HDMI, compatíveis com as
+saídas digitais do microcomputador, e ser entregue com
+todos os cabos necessários ao funcionamento
+simultâneo e integral.
+Documentação oficial, inspeção das entradas e
+dos cabos entregues e teste simultâneo com o
+microcomputador.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.39 - Apêndice 1, 5.1.7.1
+A controladora de áudio deverá ser integrada à placa
+principal, sem utilização de dispositivo externo, adaptador
+ou interface USB instalada exclusivamente para atender
+ao requisito.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.40 - Apêndice 1, 5.1.7.2
+A controladora deverá ser compatível com High Definition
+Audio Codec ou tecnologia equivalente ou superior e
+possuir drivers oficiais para o sistema operacional
+fornecido.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 16] ---
+Apêndice 5 - Recebimento e Inspeção | Página 16 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.41 - Apêndice 1, 5.1.7.3
+O gabinete deverá possuir ao menos um alto-falante
+integrado, com potência nominal ou média mínima de 1
+W, apto à reprodução de áudio do sistema. Sinalizador
+sonoro utilizado apenas para diagnóstico não será aceito
+como alto-falante.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.42 - Apêndice 1, 5.1.7.4
+Caixas de som externas, soundbar, alto-falantes do
+monitor ou dispositivos USB não poderão ser utilizados
+para atender ao requisito de alto-falante integrado. O uso
+posterior de headset autorizado pela Administração
+permanece permitido.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.43 - Apêndice 1, 5.1.8.1
+O equipamento deverá possuir interface interna Wi-Fi 6E
+ou superior, IEEE 802.11ax, configuração 2 x 2,
+operação nas faixas de 2,4 GHz, 5 GHz e 6 GHz,
+antenas integradas e drivers oficiais. Não serão aceitos
+adaptadores USB externos. A homologação Anatel
+deverá estar válida quando exigível.
+Ficha oficial do módulo, identificação no sistema,
+conexão nas faixas de 2,4, 5 e 6 GHz e certificado
+de homologação da Anatel aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 17] ---
+Apêndice 5 - Recebimento e Inspeção | Página 17 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.44 - Apêndice 1, 5.1.8.2
+A interface Ethernet deverá ser integrada, operar em
+10/100/1000 Mb/s com detecção automática, full-duplex e
+conector RJ45, possuir Wake-on-LAN e não depender de
+adaptador externo. Interface 2,5 Gb/s será aceita como
+superior, mas não será obrigatória.
+Inspeção do RJ45 integrado, documentação oficial
+e teste de negociação automática em 10/100/1000
+Mb/s.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.45 - Apêndice 1, 5.1.8.3
+A interface deverá suportar Wake-on-LAN e inicialização
+UEFI PXE, no mínimo por IPv4, configuráveis no
+BIOS/UEFI e suportadas por firmware e drivers oficiais.
+Teste de Wake-on-LAN e inicialização UEFI PXE
+por IPv4, com evidências do BIOS/UEFI e da
+infraestrutura de teste.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.46 - Apêndice 1, 5.1.8.4
+O equipamento deverá possuir Bluetooth 5.3 ou superior,
+integrado ao equipamento ou ao módulo WLAN, com
+drivers oficiais e homologação aplicável. Não serão
+aceitos adaptadores USB externos. O recurso poderá ser
+desabilitado por política administrativa.
+Documentação do módulo interno, identificação da
+versão e homologação da Anatel; teste de
+pareamento sem adaptador USB.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 18] ---
+Apêndice 5 - Recebimento e Inspeção | Página 18 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.47 - Apêndice 1, 5.1.9.1
+Todas as portas externas de entrada e saída deverão
+possuir identificação permanente por nome, símbolo ou
+cor aplicada originalmente pelo fabricante. Não serão
+aceitas etiquetas temporárias ou marcações manuais.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.48 - Apêndice 1, 5.1.9.2 A interface Ethernet deverá possuir conector RJ45 nativo
+e integrado ao equipamento, sem adaptadores externos.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.49 - Apêndice 1, 5.1.9.3
+O equipamento deverá possuir ao menos uma interface
+frontal ou lateral de áudio de 3,5 mm do tipo combo ou
+universal, compatível simultaneamente com fone de
+ouvido e microfone de headset. Portas adicionais serão
+aceitas. Adaptadores USB não poderão atender ao
+requisito.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 19] ---
+Apêndice 5 - Recebimento e Inspeção | Página 19 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.50 - Apêndice 1, 5.1.9.4
+O equipamento deverá possuir no mínimo oito portas
+USB externas, sendo ao menos sete USB-A e uma USB-
+C. Pelo menos quatro portas USB-A deverão operar a 5
+Gb/s ou mais e ao menos duas USB-A deverão estar na
+parte frontal. Hubs externos não poderão compor o
+quantitativo.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.51 - Apêndice 1, 5.1.9.5
+A porta USB-C deverá suportar transferência de dados a,
+no mínimo, 5 Gb/s e não poderá ser exclusivamente
+destinada a carregamento. Velocidade de 10 Gb/s ou
+superior será considerada característica desejável, sem
+efeito eliminatório. Adaptadores e hubs não poderão
+atender ao requisito.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 20] ---
+Apêndice 5 - Recebimento e Inspeção | Página 20 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.52 - Apêndice 1, itens
+5.1.9.6 e 2.14
+O equipamento deverá disponibilizar DisplayPort e HDMI
+capazes de operar em dois monitores simultâneos, sendo
+um integrante do fornecimento e o segundo quando
+existente na unidade ou fornecido como monitor
+adicional. Não será fixada versão específica de HDMI ou
+DisplayPort quando a interface atender integralmente à
+resolução, frequência e simultaneidade previstas. A
+CONTRATADA deverá fornecer, sem custo adicional,
+adaptadores ativos HDMI para VGA, acompanhados dos
+cabos e acessórios necessários ao funcionamento,
+sempre que formalmente solicitado pela
+CONTRATANTE, em quantitativo compatível com os
+equipamentos indicados na solicitação. Os adaptadores
+deverão ser novos, suportar resolução mínima Full HD
+(1920 x 1080) a 60 Hz, possuir compatibilidade
+oficialmente declarada e permanecer cobertos pela
+garantia e pelo suporte da solução PCaaS durante toda a
+vigência contratual. Os adaptadores não poderão ser
+utilizados para substituir ou compor as interfaces nativas
+mínimas exigidas para os equipamentos.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+Solicitação formal da CONTRATANTE;
+documentação técnica do adaptador; registro de
+entrega vinculado aos equipamentos indicados; e
+teste funcional da conversão HDMI para VGA em
+Full HD a 60 Hz.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.53 - Apêndice 1, 5.1.9.7
+O gabinete deverá possuir encaixe original e integrado
+para cabo ou trava de segurança padronizada, ou
+solução equivalente oficialmente homologada, sem
+adaptações. A licitante deverá identificar o padrão
+utilizado. Cabo e trava somente serão incluídos se
+previstos separadamente.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 21] ---
+Apêndice 5 - Recebimento e Inspeção | Página 21 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.54 - Apêndice 1, 5.1.10.1
+O microcomputador deverá constituir produto corporativo
+completo, de uma única marca, modelo e número de
+série, com suporte centralizado. Gabinete, placa
+principal, BIOS/UEFI, fonte, refrigeração e peças
+estruturais deverão integrar a configuração original ou
+opções oficialmente homologadas pelo fabricante da
+plataforma.
+Manuais, etiquetas, SMBIOS, números de peça e
+garantia; inspeção de gabinete, placa, BIOS, fonte
+e refrigeração; comprovação de homologação de
+componentes instalados após a fabricação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.55 - Apêndice 1, 5.1.10.2
+Os equipamentos de um mesmo tipo deverão manter
+padrão técnico e operacional homogêneo e, em cada
+lote, utilizar a mesma marca, modelo e configuração
+homologada. Alteração superveniente dependerá de
+comprovação, aprovação prévia da fiscalização e
+equivalência ou superioridade requisito por requisito, sem
+redução de desempenho, garantia, segurança,
+compatibilidade ou suporte.
+Relação do lote com marca, modelo, configuração
+e números de série, acompanhada de registro de
+aprovação prévia para eventual alteração
+superveniente.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.56 - Apêndice 1, 5.1.10.3
+A documentação técnica deverá identificar
+inequivocamente o equipamento e os componentes
+relevantes. Poderão ser aceitos datasheet, manual,
+página oficial, ficha técnica, declaração do fabricante,
+relatório de conformidade ou documento oficial
+equivalente, admitida diligência para informação
+preexistente sem troca material da solução ofertada.
+Conferência do modelo e dos componentes em
+datasheet, manual, página oficial, declaração do
+fabricante ou relatório de conformidade, admitida
+diligência nos limites previstos.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 22] ---
+Apêndice 5 - Recebimento e Inspeção | Página 22 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.57 - Apêndice 1, 5.1.11.1
+A tampa do gabinete deverá permitir abertura sem
+ferramentas por mecanismo original de fábrica. Memória,
+armazenamento e slots deverão ser acessíveis sem
+desmontagem da placa principal. Será admitido uso de
+ferramenta para parafusos de M.2, placa principal, fonte
+ou componentes cujo manual oficial assim determine,
+inclusive parafusos cativos ou de aperto manual de
+fábrica.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.58 - Apêndice 1, 5.1.11.2
+O gabinete deverá possuir formato corporativo compacto
+Small Form Factor, ou denominação equivalente do
+fabricante. Não serão aceitos tower, minitower ou mid-
+tower.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.59 - Apêndice 1, 5.1.11.3
+O gabinete deverá possuir volume máximo de 10,5 litros,
+calculado pelas maiores dimensões oficiais externas
+mediante a fórmula altura em milímetros x largura em
+milímetros x profundidade em milímetros / 1.000.000.
+Embalagem e acessórios externos removíveis não
+integrarão o cálculo. Em caso de divergência,
+prevalecerá o resultado calculado.
+Medição externa de altura, largura e profundidade
+e memória de cálculo H x L x P / 1.000.000, em
+milímetros.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 23] ---
+Apêndice 5 - Recebimento e Inspeção | Página 23 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.60 - Apêndice 1, 5.2.2.1
+A fonte deverá possuir correção ativa do fator de
+potência, Active PFC ou tecnologia tecnicamente
+equivalente, integrada ao projeto original. Não será aceita
+solução externa adicionada posteriormente.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.61 - Apêndice 1, 5.2.2.2
+A fonte deverá possuir potência nominal contínua mínima
+de 240 W e estar oficialmente dimensionada para a
+configuração entregue e para as expansões admitidas.
+Caso 240 W sejam insuficientes, deverá ser fornecida
+fonte de maior potência sem custo adicional. Não serão
+aceitos valores de pico, temporários ou estimados sem
+respaldo oficial.
+Etiqueta e documentação oficial da fonte, potência
+contínua nominal e declaração de
+dimensionamento para a configuração máxima.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.62 - Apêndice 1, 5.2.2.3
+A fonte interna não redundante deverá possuir
+certificação 80 PLUS Platinum ou superior, vinculada ao
+modelo e à potência exatos, ou comprovação
+tecnicamente equivalente por relatório de laboratório
+ISO/IEC 17025 que demonstre os mesmos patamares
+objetivos de eficiência. Certificado de família ou de
+potência diferente não será aceito isoladamente.
+Certificado 80 PLUS Platinum do modelo e
+potência exatos ou relatório equivalente de
+laboratório acreditado ISO/IEC 17025 com
+resultados objetivos.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 24] ---
+Apêndice 5 - Recebimento e Inspeção | Página 24 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.63 - Apêndice 1, 5.2.2.4
+A fonte deverá possuir proteções contra sobrecorrente,
+sobretensão, curto-circuito, subtensão e
+sobreaquecimento, ou conjunto funcionalmente
+equivalente oficialmente documentado para o modelo
+ofertado.
+Documentação oficial da fonte ou do equipamento,
+ou relatório técnico equivalente que identifique as
+proteções implementadas no modelo ofertado.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.64 - Apêndice 1, 5.1.11.4
+O equipamento deverá possuir mecanismo visual frontal,
+por LED, botão iluminado ou equivalente, capaz de
+apresentar códigos de diagnóstico em POST ou antes do
+sistema operacional para falhas de processador, placa
+principal ou chipset, BIOS/UEFI, memória, alimentação e
+vídeo, quando aplicável. O armazenamento poderá ser
+diagnosticado pelo mesmo mecanismo ou por ferramenta
+oficial de pré-inicialização. Não será exigido LED
+individual para cada componente.
+Inspeção e simulação controlada ou ferramenta
+oficial de diagnóstico em pré-inicialização, com
+identificação dos subsistemas exigidos.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.65 - Apêndice 1, 5.1.11.5
+O gabinete deverá possuir acabamento original
+predominantemente preto, cinza ou combinação dessas
+cores, mantendo o mesmo padrão em todos os
+equipamentos Tipo I. Não serão aceitos pintura posterior,
+película ou adesivos, ressalvadas etiquetas patrimoniais.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 25] ---
+Apêndice 5 - Recebimento e Inspeção | Página 25 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.66 - Apêndice 1, 5.1.11.6
+O acabamento deverá ser uniforme, durável e de baixo
+brilho, resistente ao uso, limpeza e transporte habituais.
+Partes metálicas deverão possuir tratamento
+anticorrosivo. Não serão aceitos descascamento,
+oxidação, rebarbas ou arestas cortantes. A proteção
+eletrostática deverá decorrer do projeto elétrico e de
+compatibilidade eletromagnética, não apenas da pintura.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.67 - Apêndice 1, 5.1.11.7
+Deverá ser fornecido cabo de alimentação novo, tripolar,
+com capacidade compatível, plugue 2P+T conforme
+ABNT NBR 14136 e conformidade Inmetro quando
+aplicável. Não serão aceitos adaptadores, conversores,
+emendas ou cabos reutilizados.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.68 - Apêndice 1, 5.1.11.8
+O gabinete deverá possuir botão frontal de alimentação
+com iluminação própria ou adjacente que indique os
+estados ligado, desligado e suspensão. O mesmo
+mecanismo poderá apresentar códigos de diagnóstico.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 26] ---
+Apêndice 5 - Recebimento e Inspeção | Página 26 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos
+2.69 - Apêndice 1, itens
+5.2.1 e 3.10 a 3.13 —
+Sensor eletrônico:
+presença e funcionamento
+local
+O equipamento deverá possuir sensor eletrônico de
+abertura ou intrusão integrado ao projeto original ou
+oficialmente homologado para o modelo, instalado,
+conectado e habilitado. Esta verificação ficará limitada à
+presença e à homologação do componente, à detecção
+da abertura ou remoção da tampa, à persistência do
+estado após o fechamento, à associação ao número de
+série e à consulta local pela BIOS/UEFI, ferramenta
+oficial ou mecanismo funcionalmente equivalente. A
+ingestão central, a correlação, o alerta e a classificação
+administrativa serão verificados exclusivamente no
+controle 4.8.
+Documentação oficial do modelo, inspeção física,
+confirmação da instalação e habilitação e teste
+local de abertura, fechamento, persistência,
+associação ao número de série e consulta pela
+BIOS/UEFI ou ferramenta oficial. Não utilizar nesta
+linha a ingestão central como critério de conclusão.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.70 - Apêndice 1, 5.2.5.1
+O equipamento deverá ser entregue com Microsoft
+Windows 11 Professional de 64 bits, ou versão posterior
+oficialmente compatível, original, licenciado por
+dispositivo e ativado ou apto à ativação por mecanismo
+oficial. Serão admitidos OA3, licenciamento por volume
+ou modalidade oficial equivalente, desde que exista
+direito de disponibilização no modelo PCaaS. A
+contratada fornecerá meios oficiais de reinstalação e
+recuperação.
+Identificação da edição, arquitetura, ativação
+oficial, licença por dispositivo, direitos para PCaaS
+e teste do mecanismo de recuperação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.71 - Apêndice 1, 5.2.5.2
+O fabricante deverá manter portal oficial para o modelo e
+número de série, com BIOS, firmware, drivers, utilitários,
+detecção e atualização, diagnósticos no sistema
+operacional e em pré-inicialização, consulta de
+configuração, garantia e suporte. Os recursos deverão
+permanecer disponíveis durante toda a vigência do
+PCaaS, com atualização controlada e autorizada pela
+Administração.
+Navegação no portal oficial pelo modelo e número
+de série; download de BIOS, firmware, drivers,
+utilitários e execução de diagnósticos.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 27] ---
+Apêndice 5 - Recebimento e Inspeção | Página 27 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.72 - Apêndice 1, 5.2.5.3
+Todos os componentes e recursos do equipamento
+deverão ser oficialmente suportados no Windows 11
+Professional de 64 bits, sem dispositivos desconhecidos,
+drivers improvisados ou perda de funcionalidade após
+instalação da imagem corporativa.
+Gerenciador de Dispositivos sem itens
+desconhecidos ou com erro; relatório de drivers e
+teste funcional das interfaces.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.73 - Apêndice 1, 5.2.5.4
+O equipamento deverá ser fornecido com Microsoft Office
+LTSC 2024, em edição oficial que contenha no mínimo
+Word, Excel, PowerPoint e Outlook, ou versão perpétua
+posterior equivalente, instalada localmente, em 64 bits e
+PT-BR. O licenciamento será por dispositivo e deverá ser
+compatível com o PCaaS.
+Tela de produto e execução local de Word, Excel,
+PowerPoint e Outlook em 64 bits e PT-BR;
+identificação da edição LTSC.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.74 - Apêndice 1, 5.2.5.5
+Antes do recebimento definitivo, a contratada deverá
+comprovar autenticidade, quantidade, edição,
+modalidade, perpetuidade, vínculo por dispositivo e
+direito de disponibilização no PCaaS, inclusive Rental
+Rights ou direito oficial equivalente quando aplicável.
+Instrumento de licenciamento, fatura ou declaração
+oficial, vínculo por dispositivo e comprovação do
+direito de disponibilização no PCaaS; ativação
+isolada não será suficiente.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 28] ---
+Apêndice 5 - Recebimento e Inspeção | Página 28 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.75 - Apêndice 1, 5.2.5.6
+A suíte deverá possuir licença comercial perpétua,
+instalada localmente e atribuída ao dispositivo. Não serão
+aceitos Microsoft 365 Apps, assinatura mensal ou anual,
+licença exclusivamente vinculada a usuário, edição
+doméstica, educacional, temporária, de avaliação, uso
+apenas via web ou compartilhamento acima da
+quantidade permitida. A substituição do equipamento
+deverá incluir regularização, reatribuição ou nova licença
+sem custo e sem interrupção.
+Termos oficiais da licença, vínculo ao dispositivo e
+procedimento de reatribuição em substituição do
+equipamento.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.76 - Apêndice 1, 5.2.3.1
+O teclado deverá ser novo, de linha ativa, com fabricante
+e modelo identificáveis e compatibilidade integral. Deverá
+ser, preferencialmente, da mesma marca comercial do
+computador, admitida marca distinta segundo os critérios
+do item 2.15 do Apêndice 1. Não serão aceitos produto
+genérico sem identificação, remarcação pela licitante ou
+alteração de marca posterior. A CONTRATADA
+responderá integralmente pelo periférico.
+Documentação oficial com fabricante, marca,
+modelo e código de peça, garantia e suporte; para
+marca distinta, comprovação de compatibilidade
+integral e teste funcional com o equipamento
+principal, sem adaptações não homologadas.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.77 - Apêndice 1, 5.2.3.2
+O teclado deverá possuir layout físico nativo Português
+do Brasil ABNT2, QWERTY, com tecla Ç, acentuação e
+caracteres próprios do idioma. As legendas deverão ser
+originais de fábrica, permanentes e legíveis. Não serão
+aceitos adesivos, sobreposições ou adaptações de
+teclado estrangeiro. Não será fixada quantidade exata de
+teclas.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 29] ---
+Apêndice 5 - Recebimento e Inspeção | Página 29 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.78 - Apêndice 1, 5.2.3.3
+O teclado deverá possuir conexão com fio, cabo
+integrado e conector USB-A nativo, compatível com USB
+2.0 ou superior, Plug and Play e sem necessidade de
+driver não oficial. Não serão aceitos adaptadores,
+conversores, extensores, hubs, PS/2 ou receptor sem fio.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.79 - Apêndice 1, 5.2.3.4
+O teclado deverá possuir mecanismo original para
+utilização em posição normal e elevada, com
+estabilidade, resistência corporativa e pontos de apoio
+antiderrapantes. Não serão aceitos suportes externos ou
+adaptações.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.80 - Apêndice 1, 5.2.3.5
+O teclado deverá possuir bloco numérico físico dedicado
+e integrado, com teclas numéricas, operações
+aritméticas, Enter e Num Lock, além de indicação visual
+do estado do Num Lock. Não serão aceitos bloco virtual,
+sobreposição por função ou dispositivo numérico externo.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 30] ---
+Apêndice 5 - Recebimento e Inspeção | Página 30 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.81 - Apêndice 1, 5.2.3.6
+O teclado deverá possuir projeto resistente a
+derramamentos acidentais, por membrana, canais de
+drenagem ou tecnologia equivalente original de fábrica,
+comprovada em documentação oficial. O requisito não
+implica resistência a imersão, lavagem ou exposição
+contínua e não poderá ser atendido por capa ou película
+externa.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.82 - Apêndice 1, 5.2.3.7
+O teclado deverá possuir acabamento original
+predominantemente preto, cinza-escuro ou combinação
+dessas cores, compatível com o microcomputador. Todos
+os teclados Tipo I deverão manter o mesmo padrão. Não
+serão aceitas pintura, película, envelopamento ou
+adesivos decorativos posteriores.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.83 - Apêndice 1, 5.2.4.1
+O mouse deverá ser novo, de linha ativa, com fabricante
+e modelo identificáveis e compatibilidade integral. Deverá
+ser, preferencialmente, da mesma marca comercial do
+computador, admitida marca distinta segundo os critérios
+do item 2.15 do Apêndice 1. Não serão aceitos produto
+genérico sem identificação, remarcação pela licitante ou
+alteração de marca posterior. A CONTRATADA
+responderá integralmente pelo periférico.
+Documentação oficial com fabricante, marca,
+modelo e código de peça, garantia e suporte; para
+marca distinta, comprovação de compatibilidade
+integral e teste funcional com o equipamento
+principal, sem adaptações não homologadas.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 31] ---
+Apêndice 5 - Recebimento e Inspeção | Página 31 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.84 - Apêndice 1, 5.2.4.5
+O mouse deverá possuir conformação ambidestra,
+botões esquerdo e direito, botão central com rolagem e
+ser acompanhado de mouse pad adequado, sem custo
+adicional.
+Documentação oficial, inspeção física e teste dos
+botões e da rolagem, com conferência do mouse
+pad fornecido.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.85 - Apêndice 1, 5.2.4.2
+O mouse deverá possuir sensor óptico com resolução
+nativa mínima de 1.000 DPI ou superior. Se houver
+ajuste, ao menos uma configuração deverá atingir esse
+patamar. Não será aceito atendimento exclusivamente
+por interpolação de software.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.86 - Apêndice 1, 5.2.4.3
+O mouse deverá possuir conexão com fio, cabo integrado
+e conector USB-A nativo, compatível com USB 2.0 ou
+superior, Plug and Play e sem necessidade de driver não
+oficial. Não serão aceitos adaptadores, conversores,
+extensores, hubs, PS/2 ou receptor sem fio.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 32] ---
+Apêndice 5 - Recebimento e Inspeção | Página 32 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.87 - Apêndice 1, 5.2.4.4
+O mouse deverá possuir acabamento original
+predominantemente preto, cinza-escuro ou combinação
+dessas cores, compatível com gabinete e teclado. Todos
+os mouses Tipo I deverão manter o mesmo padrão. Não
+serão aceitas alterações posteriores de cor.
+Documentação oficial do modelo, inspeção física
+da unidade selecionada e teste funcional
+correspondente, com registro fotográfico ou
+eletrônico e identificação do número de série.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.88 - Apêndice 1, 5.2.7.1
+O microcomputador deverá atender à especificação
+ENERGY STAR para computadores vigente na data de
+publicação do edital. A comprovação ocorrerá por
+registro do modelo, família ou configuração no ENERGY
+STAR Product Finder ou por relatório do modelo ofertado
+emitido por laboratório ISO/IEC 17025 acreditado pela
+Cgcre/Inmetro ou reconhecido pelo ILAC, demonstrando
+atendimento aos métodos e limites aplicáveis. Certificado
+genérico do fabricante ou de outro modelo não será
+aceito.
+Registro ENERGY STAR vigente na data definida
+ou relatório equivalente de laboratório acreditado
+ISO/IEC 17025 para o modelo exato.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.89 - Apêndice 1, 5.2.7.2
+O microcomputador deverá possuir, para a categoria
+Desktop, uma das seguintes comprovações ambientais,
+não cumulativas: 1. registro EPEAT Gold ativo e válido
+para o Brasil; 2. certificação TCO Certified ativa e
+aplicável à categoria Desktop; ou 3. certificação
+ambiental Tipo I baseada na ISO 14024, emitida ou
+verificada por terceira parte independente e
+acompanhada de matriz de equivalência.
+Registro oficial ou certificado ativo correspondente
+à categoria, ao modelo ou à família ofertada. Para
+certificação de família, apresentar vínculo oficial da
+configuração; para certificação equivalente
+baseada na ISO 14024, apresentar matriz de
+equivalência emitida ou verificada por terceira
+parte independente.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 33] ---
+Apêndice 5 - Recebimento e Inspeção | Página 33 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.90 - Apêndice 1, 5.2.7.3
+O microcomputador completo, incluindo a fonte, deverá
+atender à IEC 62368-1 ou adoção nacional ou regional
+equivalente, como ABNT NBR IEC 62368-1, EN IEC
+62368-1 ou UL 62368-1. Será aceita edição vigente ou
+reconhecida pelo esquema de avaliação na emissão. A
+comprovação ocorrerá por IECEE CB Scheme,
+organismo ISO/IEC 17065 ou laboratório ISO/IEC 17025.
+Certificado CB ou documento emitido por
+organismo ISO/IEC 17065 ou laboratório ISO/IEC
+17025 relativo à IEC 62368-1 ou norma
+equivalente.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.91 - Apêndice 1, 5.2.7.4
+A emissão sonora deverá ser medida conforme ISO 7779
+e declarada conforme ISO 9296. Em estado ocioso,
+LWA,d deverá ser de até 4,0 bels e LpA,m de até 30
+dB(A) na posição do operador. Em operação no modo de
+ensaio aplicável, LWA,d deverá ser de até 5,0 bels e
+LpA,m de até 40 dB(A). A comprovação identificará
+modelo, configuração, estados, valores e normas;
+expressões genéricas de baixo ruído não serão
+suficientes.
+Relatório de medição ISO 7779 e declaração ISO
+9296, com identificação da configuração e valores
+de LWA,d e LpA,m em repouso e operação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.92 - Apêndice 1, 5.2.7.5
+Microcomputador e periféricos deverão cumprir a Diretiva
+RoHS 2011/65/UE, suas alterações e versão consolidada
+aplicável, incluindo a Diretiva 2015/863. Os limites serão
+0,1% para chumbo, mercúrio, cromo hexavalente, PBB,
+PBDE, DEHP, BBP, DBP e DIBP e 0,01% para cádmio. A
+comprovação poderá ocorrer por declaração oficial do
+fabricante, documentação IEC 63000, relatório ISO/IEC
+17025 ou certificação independente. Exceções
+normativas deverão ser identificadas. Peças de reposição
+manterão a mesma conformidade.
+Declaração técnica IEC 63000, relatório de
+laboratório ou documento do fabricante
+demonstrando limites RoHS da Diretiva
+2011/65/UE e 2015/863.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 34] ---
+Apêndice 5 - Recebimento e Inspeção | Página 34 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.93 - Apêndice 1, 5.2.7.6
+O modelo ou família deverá constar na Windows
+Compatible Products List da Microsoft, com certificação
+para Windows 11 de 64 bits. A comprovação será o
+Verification Report oficial, com fabricante, produto,
+sistema, tipo e identificação da certificação. Certificação
+de família exigirá demonstração oficial da
+correspondência. Não serão aceitos isoladamente
+declaração da licitante, captura sem verificação, ativação
+do Windows ou parceria comercial com a Microsoft.
+Registro no Windows Compatible Products List e
+relatório oficial de verificação correspondente ao
+modelo e sistema operacional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 35] ---
+Apêndice 5 - Recebimento e Inspeção | Página 35 de 42
+Requisitos técnicos 2.94 - Apêndice 1, 5.2.7.7
+(parte 1 de 2)
+O equipamento deverá implementar os padrões DMTF
+aplicáveis aos recursos de identificação, inventário e
+gerenciamento de hardware exigidos neste Apêndice,
+especialmente o padrão SMBIOS, independentemente de
+o fabricante possuir filiação à DMTF.
+A implementação deverá permitir identificar, no mínimo:
+1. Fabricante e modelo do equipamento;
+2. Número de série e identificador patrimonial, quando
+suportado;
+3. Fabricante, modelo e versão da placa-mãe;
+4. Versão e data da BIOS/UEFI;
+5. Modelo do processador;
+6. Quantidade, capacidade e disposição dos módulos
+de memória;
+7. Identificação e capacidade das unidades de
+armazenamento.
+A comprovação ocorrerá mediante uma das seguintes
+alternativas, não cumulativas:
+1. Filiação empresarial ativa do fabricante à DMTF nas
+categorias Board, Leadership ou Participation,
+acompanhada de documentação oficial do modelo e
+demonstração funcional dos recursos exigidos; ou
+2. Documentação técnica oficial do fabricante, relatório
+técnico independente, consulta executada no
+equipamento, inspeção, amostra que demonstre a
+implementação funcional dos padrões e campos de
+inventário exigidos.
+Quando a filiação estiver registrada em nome de
+controladora, grupo econômico ou entidade jurídica
+diferente, deverá ser apresentada comprovação oficial de
+que a entidade fabricante está abrangida. Na ausência
+dessa comprovação, será utilizada a segunda alternativa
+de comprovação acima descrita, baseada em
+documentação técnica oficial, relatório técnico
+independente, consulta executada no equipamento,
+inspeção ou amostra.
+A filiação à DMTF, isoladamente, não comprovará a
+conformidade do equipamento. Durante a inspeção, a
+Administração poderá verificar as informações por meio
+da BIOS/UEFI, sistema operacional, ferramenta de
+inventário ou console de gerenciamento. Havendo
+divergência entre a filiação apresentada e o
+funcionamento efetivo, prevalecerá o resultado da
+verificação funcional.
+Apresentar uma das seguintes formas de
+comprovação, de maneira não cumulativa:
+3. Filiação DMTF: consulta à lista oficial,
+identificação da entidade e categoria ativa,
+documentação oficial do modelo e registro da
+verificação funcional; ou
+4. Sem filiação DMTF: documentação técnica
+oficial, relatório independente ou registro de
+consulta, inspeção, amostra que demonstre
+SMBIOS, inventário e gerenciamento exigidos.
+Resultado: registrar na
+parte 2 de 2.
+
+--- [pag. PDF 36] ---
+Apêndice 5 - Recebimento e Inspeção | Página 36 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos
+(continuação)
+2.94 - Apêndice 1, 5.2.7.7
+(parte 2 de 2)
+Não será exigida tecnologia proprietária, marca
+específica ou participação em categoria determinada da
+DMTF, desde que os requisitos funcionais e de
+comprovação sejam integralmente atendidos.
+Se a entidade listada for diferente do fabricante,
+apresentar documento oficial de abrangência; na
+ausência, utilizar a segunda alternativa de
+comprovação do requisito, baseada em
+documentação técnica oficial ou verificação
+funcional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controle
+operacional
+transversal
+2.95 - Termo de
+Referência, item 6.5.5;
+Apêndice 4, itens 5.14.1 a
+5.14.3
+Verificar exclusivamente se os profissionais indicados
+pela CONTRATADA para atividades de entrega,
+instalação, movimentação, manutenção, substituição e
+retirada são capacitados, identificados e atuam em
+conformidade com o item 6.5.5 do Termo de Referência,
+com os itens 5.14.1 a 5.14.3 do Apêndice 4 e com a
+legislação aplicável. Esta linha constitui controle
+operacional transversal e não requisito técnico do
+equipamento. Não será exigida certificação ISO 45001
+para proposta, habilitação ou aceitação, podendo
+eventual certificação válida constituir somente evidência
+complementar facultativa.
+Relação dos profissionais responsáveis,
+identificação, função, comprovação de capacitação
+exigível para a atividade e registros operacionais
+correspondentes, limitados ao Termo de
+Referência, ao Apêndice 4 e à legislação aplicável.
+Não exigir ISO 45001, plano autônomo ou
+certificação não prevista no conjunto convocatório.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 37] ---
+Apêndice 5 - Recebimento e Inspeção | Página 37 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos
+2.96 - Comprovação ESG
+por meios alternativos
+(Apêndice 1, 5.2.7.8)
+O fabricante deverá demonstrar práticas estruturadas de
+sustentabilidade corporativa mediante uma das seguintes
+alternativas, não cumulativas: 1. EcoVadis Silver, Gold ou
+Platinum válida; 2. avaliação ESG independente
+equivalente, com metodologia pública, documentada,
+rastreável e auditável; ou 3. conjunto documental
+corporativo auditável. As alternativas 2 e 3 deverão
+abranger meio ambiente, práticas trabalhistas e direitos
+humanos, ética e integridade e compras sustentáveis;
+identificar a entidade abrangida; apresentar metodologia,
+políticas, governança, metas, indicadores, resultados ou
+controles; não apresentar classificação crítica ou
+insuficiente nas quatro dimensões quando houver
+classificação qualitativa; observar vigência ou período de
+relato; permitir verificação de autenticidade; e incluir
+matriz de correspondência. Não será exigido percentil,
+ranking, dois níveis superiores nem identidade de
+metodologia com a EcoVadis.
+Apresentar, de forma não cumulativa: página oficial
+da Medalha EcoVadis Silver, Gold ou Platinum;
+relatório de avaliação ESG independente
+equivalente; ou conjunto documental corporativo
+auditável. Para as duas últimas rotas, incluir
+metodologia ou políticas aplicáveis, identificação
+da entidade abrangida, evidências das quatro
+dimensões, vigência ou período de relato, meio de
+autenticação e matriz de correspondência, sujeitos
+a diligência.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.97 - Apêndice 1, 5.2.7.9
+Quando o equipamento for fabricado ou montado no
+Brasil por estabelecimento enquadrado, o fabricante ou
+montador deverá possuir CTF/APP ativo na atividade 5-2
+e Certificado de Regularidade do Ibama válido e
+autenticável. Para produto fabricado no exterior, não será
+exigido CTF/APP do fabricante estrangeiro; deverão ser
+identificados origem, importador ou responsável no Brasil
+e as obrigações ambientais aplicáveis. A contratada
+apresentará declaração de aplicabilidade. O certificado,
+válido por três meses, deverá ser atualizado durante
+entrega e recebimento enquanto aplicável.
+Declaração de aplicabilidade e origem. Quando
+houver fabricação ou montagem nacional
+enquadrada, Certificado de Regularidade do
+CTF/APP categoria 5-2 válido e autenticável; para
+produto estrangeiro, identificação do importador e
+responsáveis legais no Brasil.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 38] ---
+Apêndice 5 - Recebimento e Inspeção | Página 38 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos técnicos 2.98 - Apêndice 1, 5.2.7.10
+A certificação deverá corresponder ao modelo ou à
+família ofertada. Quando emitida para uma família, a
+licitante deverá demonstrar, por documentação oficial,
+que a configuração proposta está efetivamente
+abrangida. A equivalência deverá contemplar, no mínimo,
+eficiência energética, controle de substâncias perigosas,
+durabilidade, reparabilidade, materiais, reciclagem,
+embalagem e responsabilidade ambiental da cadeia
+produtiva. A comprovação será individualizada por
+categoria: a certificação do microcomputador não
+abrangerá automaticamente monitor, teclado, mouse ou
+demais periféricos. Não será exigida a apresentação
+simultânea de EPEAT Gold, TCO Certified e certificação
+equivalente.
+Documentação oficial que identifique categoria,
+fabricante, modelo ou família, configuração
+abrangida, vigência e organismo emissor ou
+verificador, suficiente para confirmar a não
+cumulatividade e os limites de abrangência da
+certificação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.99 - Apêndice 1, 5.2.5.7
+O fabricante deverá disponibilizar recursos corporativos
+para implantação, atualização e manutenção no Microsoft
+Configuration Manager, anteriormente SCCM.
+URLs oficiais, download e validação do pacote
+consolidado de drivers Windows 11 x64, drivers
+WinPE quando aplicáveis e catálogo assinado ou
+integração oficial; teste de distribuição silenciosa,
+logs e licenças.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos técnicos 2.100 - Apêndice 1, 5.2.8.1
+Todos os cabos, conectores, acessórios, componentes,
+firmwares, drivers, utilitários, consoles e licenças
+necessários ao funcionamento, gerenciamento,
+segurança e comprovação da solução deverão ser
+fornecidos sem custo adicional.
+Relação de fornecimento e inventário de todos os
+cabos, conectores, acessórios, componentes,
+firmwares, drivers, utilitários, consoles e licenças,
+com inspeção e teste funcional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 39] ---
+Apêndice 5 - Recebimento e Inspeção | Página 39 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Testes funcionais 3.1 - Inicialização e
+estabilidade
+Inicialização sem erro; reconhecimento de
+CPU/RAM/SSD; ausência de alertas críticos Teste de inicialização/diagnóstico
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Testes funcionais 3.2 - Interfaces e
+periféricos
+USB, vídeo, áudio, LAN/Wi‑ Fi/Bluetooth quando
+aplicável, teclado, mouse, touchpad e câmera
+operacionais
+Teste funcional
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais
+4.1 - Segurança de
+inicialização
+TPM 2.0, Secure Boot e firmware assinado habilitados
+conforme a imagem homologada BIOS/UEFI, política e teste
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 40] ---
+Apêndice 5 - Recebimento e Inspeção | Página 40 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Controles
+operacionais 4.2 - Criptografia Armazenamento integralmente criptografado antes da
+produção; chave de recuperação protegida Console, política e teste de recuperação
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.3 - Eficiência energética Certificação reconhecida, relatório técnico ou
+comprovação oficial equivalente ou superior Certificado, laudo ou documento oficial
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.4 - Linha de base
+Registro individual, versionado e íntegro da configuração,
+componentes, identificadores disponíveis, BIOS/UEFI e
+firmwares, com origem, data, responsáveis e aprovação.
+Termo de Linha de Base, consulta técnica,
+exportação bruta, versão/hash e aceite.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 41] ---
+Apêndice 5 - Recebimento e Inspeção | Página 41 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Controles
+operacionais
+4.5 - Inventário e
+rastreabilidade lógica
+Número de série, configuração, unidade, localização
+prevista, última evidência lógica, movimentações
+autorizadas, agente ativo, status de atualização e
+exportação para a Administração.
+Painel, inventário, Ordem de Serviço, teste de
+movimentação lógica, histórico e relatório aberto.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.6 - Imagem homologada Versão aprovada, sem software promocional, com
+políticas, drivers e licenças validados Hash, versão, checklist e teste
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.7 - Acessibilidade Compatibilidade com tecnologias assistivas e recursos de
+acessibilidade do sistema operacional Teste funcional e documentação
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 42] ---
+Apêndice 5 - Recebimento e Inspeção | Página 42 de 42
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Controles
+operacionais
+4.8 - Apêndice 1, itens 3.9
+a 3.13 — Sensor
+eletrônico: integração,
+ingestão e correlação
+operacional
+Verificar exclusivamente a coleta central do estado ou
+evento de abertura, o horário de ingestão, a associação
+ao número de série, a geração de alerta, o confronto com
+Ordem de Serviço e registros de manutenção ou
+movimentação, a classificação administrativa como
+evento autorizado ou não autorizado, o histórico, a
+exportação e a trilha de auditoria. A presença física, a
+homologação, a instalação e o funcionamento local do
+sensor serão verificados no item 2.69. A
+desconformidade relativa ao mesmo núcleo físico já
+registrada no item 2.69 não será registrada novamente
+como segunda não conformidade. O item 4.8 avaliará
+exclusivamente a camada de integração e tratamento
+operacional.
+Teste de ingestão e correlação na plataforma,
+alerta, consulta do histórico, confronto com Ordem
+de Serviço, classificação administrativa,
+exportação e trilha de auditoria, utilizando sensor
+previamente aprovado no item 2.69.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.9 - Alertas e correlação
+Detecção de divergência de localização e de alteração
+relevante de hardware, confronto com autorização,
+correlação de eventos, notificação e histórico exportável.
+Testes controlados de memória, armazenamento e
+movimentação lógica; painel, e-mail, chamado
+quando configurado e exportação auditável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+4 - CONCLUSÃO DA INSPEÇÃO TÉCNICA
+Resultado da inspeção do equipamento ou lote: ☐ CONFORME – apto a subsidiar o recebimento, mediante emissão do termo correspondente. ☐ CONFORME
+COM PENDÊNCIAS FORMAIS OU IMATERIAIS – apto condicionadamente, desde que as pendências não afetem segurança, funcionamento, desempenho,
+compatibilidade, licenciamento, integridade, inventário ou requisito obrigatório. As pendências deverão ser identificadas e corrigidas em até 5 (cinco) dias
+úteis. Essa condição não autoriza faturamento nem equivale ao recebimento definitivo. ☐ NÃO CONFORME – não apto ao recebimento, devendo ser
+identificados os requisitos descumpridos e as providências de correção ou substituição.
+Natureza da conclusão: A conclusão deste checklist possui natureza técnica e subsidiará a emissão do Termo de Recebimento Provisório e, após a
+comprovação do cumprimento integral das obrigações, do Termo de Recebimento Definitivo. Este checklist não substitui os referidos termos.
+Não conformidades e providências: ____________________________________________________________________________________________
+Responsável técnico pela inspeção: ____________________________________________ Data: ____/____/________
+Fiscal do contrato: ____________________________________________________________ Data: ____/____/________
+Código: 960dd358-547a-4a8e-9fb5-ae5e6191bb53
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

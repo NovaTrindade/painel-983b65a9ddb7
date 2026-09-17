@@ -1,0 +1,1961 @@
+=== DOCUMENTO 34: Apendice_1_-_Especificacoes_Tecnicas_e_Criterios_de_Equivalencia.pdf ===
+tipo: Outros Documentos | páginas: 36 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/34
+
+--- [pag. PDF 1] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 1 de 36
+APÊNDICE 1 – ESPECIFICAÇÕES TÉCNICAS E CRITÉRIOS DE EQUIVALÊNCIA
+1 - FINALIDADE, ESCOPO E INTERPRETAÇÃO
+1.1 - Este Apêndice integra o Termo de Referência e constitui a fonte técnica detalhada e vinculante para os
+equipamentos, componentes, softwares e serviços associados disponibilizados na solução PCaaS. As Fichas
+Técnicas 1 a 4 apresentam síntese para consulta rápida e não substituem os requisitos completos deste
+Apêndice.
+1.2 - Os requisitos deste Apêndice são mínimos e serão aferidos pelo conjunto de desempenho, funcionalidade,
+compatibilidade, segurança, durabilidade e suporte. Nomenclatura comercial, frequência-base ou turbo, número
+de núcleos ou threads, potência térmica de projeto (TDP) e processo de fabricação do semicondutor não
+constituirão, isoladamente, critérios eliminatórios quando o equipamento atender ao desempenho mínimo e às
+demais funções exigidas, salvo requisito expressamente motivado nos autos. A interpretação observará os
+princípios da motivação, competitividade, proporcionalidade e julgamento objetivo previstos nos arts. 5º e 9º da
+Lei nº 14.133/2021.
+1.3 - A licitante poderá demonstrar equivalência ou superioridade por documentação oficial do fabricante,
+ensaio, certificação, benchmark público ou outro meio tecnicamente idôneo relacionado ao requisito. A
+Administração poderá realizar diligência para esclarecer informação preexistente à proposta, vedada a
+substituição material do equipamento ofertado ou a criação posterior de condição de conformidade.
+1.4 - Em caso de dúvida sobre interpretação, comprovação, equivalência, teste, recebimento ou substituição,
+deverão ser consultadas as disposições detalhadas deste Apêndice. A síntese constante das Fichas Técnicas
+não poderá reduzir, ampliar ou afastar requisito aqui estabelecido.
+2 - REQUISITOS GERAIS DA SOLUÇÃO PCaaS E DOS EQUIPAMENTOS
+2.1 - Todos os equipamentos deverão ser novos de fábrica, sem uso prévio, não sendo aceitos equipamentos
+recondicionados, remanufaturados, de mostruário ou com caixas violadas;
+2.2 - No ato da entrega, todos os equipamentos estarão sujeitos à verificação de conformidade documental,
+física e funcional. A conferência deverá contemplar, no mínimo: identificação do fabricante, modelo e número
+de série; integridade física; inicialização; memória; armazenamento; interfaces (USB, HDMI/DisplayPort/VGA,
+quando aplicável, e LAN); vídeo; áudio; periféricos; sistema operacional; pacote de escritório e demais
+requisitos previstos neste Termo de Referência. A fiscalização poderá realizar testes aprofundados em
+amostras selecionadas dentre os equipamentos entregues, sem prejuízo da possibilidade de inspeção integral
+quando houver indício de não conformidade.
+2.3 - Os testes de aceitação deverão observar, conforme a categoria verificada, os seguintes instrumentos
+constantes do Apêndice 5: Instrumento 1 do Apêndice 5 – Checklist de Conformidade do Computador Tipo I;
+Instrumento 2 do Apêndice 5 – Checklist de Conformidade do Computador Tipo II; Instrumento 3 do Apêndice
+5 – Checklist de Conformidade do Notebook; e Instrumento 4 do Apêndice 5 – Checklist de Conformidade do
+Monitor Adicional. A constatação de não conformidade em equipamento testado autoriza a ampliação da
+verificação para outras unidades do mesmo modelo ou lote de entrega e a exigência de correção ou
+substituição, preservado o contraditório técnico quanto aos resultados dos ensaios.
+2.4 - É vedada a entrega de equipamentos com configurações alteradas fora dos padrões de fábrica, tais como
+overclock de processadores, modificações em discos ou memórias, utilização de adaptadores ou drivers não
+homologados pelo fabricante, ou qualquer outro expediente que comprometa a cobertura operacional ou o
+desempenho.
+2.5 - A CONTRATADA deverá garantir, durante toda a vigência contratual, que os equipamentos permaneçam
+em conformidade com as especificações de fábrica. A constatação de alteração indevida implicará rejeição do
+lote ou, se o equipamento já estiver instalado, sua substituição em até 5 (cinco) dias úteis, sem ônus adicional,
+sem prejuízo das consequências previstas no contrato e na Lei nº 14.133/2021.
+2.6 - A CONTRATADA deverá instalar os equipamentos nos prédios públicos e nas demais unidades da
+Administração Municipal indicadas em Ordem de Serviço, observados os quantitativos, os locais estimados e
+os procedimentos previstos nos Apêndices 2, 3 e 5.
+2.7 - A disponibilização dos microcomputadores, notebooks e monitores ocorrerá por demanda da
+Administração no modelo PCaaS, como prestação integrada de equipamentos configurados e gerenciados,
+com suporte, manutenção e gestão do ciclo de vida, não se caracterizando como mera locação
+desacompanhada de serviços associados.
+
+--- [pag. PDF 2] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 2 de 36
+2.8 - Sem prejuízo do prazo específico da implantação inicial previsto no item 5.1.3 do Termo de Referência,
+cada demanda futura formalizada por Ordem de Serviço deverá ser atendida em até 30 (trinta) dias corridos,
+contados do recebimento da respectiva Ordem de Serviço, admitida a prorrogação excepcional prevista no
+modelo de execução, mediante justificativa formal e aceite da Administração.
+2.9 - Todos os equipamentos deverão ser entregues prontos para uso, com o sistema operacional Microsoft
+Windows 11 Professional 64 bits ou versão posterior compatível com o ambiente corporativo da Administração
+e com o pacote Microsoft Office LTSC 2024, ou versão perpétua posterior, 64 bits, em Português (Brasil),
+contendo no mínimo Word, Excel, PowerPoint e Outlook, devidamente licenciados por dispositivo, além dos
+demais softwares e configurações previstos neste Termo de Referência. O conjunto deverá estar em estrita
+conformidade com as especificações mínimas e com o respectivo instrumento aplicável do Apêndice 5:
+Instrumento 1 do Apêndice 5 – Checklist de Conformidade do Computador Tipo I; Instrumento 2 do Apêndice 5
+– Checklist de Conformidade do Computador Tipo II; Instrumento 3 do Apêndice 5 – Checklist de Conformidade
+do Notebook; ou Instrumento 4 do Apêndice 5 – Checklist de Conformidade do Monitor Adicional.
+2.10 - No modelo PCaaS, a mera instalação ou ativação do software não comprova, por si só, a regularidade
+do direito de uso. Quando as licenças forem fornecidas pela CONTRATADA, deverão existir, para cada
+dispositivo, a licença subjacente válida e o direito de disponibilização, locação, cessão de uso por terceiro ou
+modalidade oficial equivalente admitida pelo titular dos direitos, inclusive Rental Rights quando aplicável aos
+produtos Microsoft. Alternativamente, admitir-se-á licenciamento adquirido ou formalmente atribuído à
+CONTRATANTE, desde que compatível com o modelo de uso.
+2.11 - A comprovação do licenciamento deverá identificar produto, edição, quantidade, modalidade, vigência
+ou perpetuidade, titularidade e vínculo com os dispositivos, mediante documentos comerciais e de
+licenciamento emitidos pelo fabricante, distribuidor ou revendedor autorizado. Chaves de ativação isoladas,
+capturas de tela sem origem verificável ou lacres físicos não substituirão a prova do direito de uso.
+Reinstalações e reativações necessárias durante a disponibilização estarão incluídas no preço.
+2.12 - O descumprimento das condições estabelecidas ensejará a rejeição do lote e a aplicação das
+consequências previstas neste Termo de Referência, no edital e no contrato, observada a Lei nº 14.133/2021
+e o procedimento cabível.
+2.13 - A CONTRATADA deverá manter, sem cobrança adicional, a configuração mínima contratada durante
+toda a disponibilização, incluindo atualizações de firmware, BIOS, drivers e substituições por componentes
+equivalentes ou superiores quando necessárias à correção de falha, segurança, compatibilidade ou
+descontinuação do componente originalmente aceito. Expansões de capacidade motivadas por nova
+necessidade da Administração não constituem obrigação automática nem gratuita.
+2.14 - A CONTRATADA deverá fornecer, sem custo adicional, adaptadores ativos HDMI para VGA,
+acompanhados dos cabos e acessórios necessários ao funcionamento, sempre que formalmente solicitado pela
+CONTRATANTE, em quantitativo compatível com os equipamentos indicados na solicitação. Os adaptadores
+deverão ser novos, suportar resolução mínima Full HD (1920 x 1080) a 60 Hz, possuir compatibilidade
+oficialmente declarada e permanecer cobertos pela garantia e pelo suporte da solução PCaaS durante toda a
+vigência contratual. Os adaptadores não poderão ser utilizados para substituir ou compor as interfaces nativas
+mínimas exigidas para os equipamentos.
+2.15 - Os monitores e periféricos externos, incluindo teclado e mouse, deverão ser, preferencialmente, da
+mesma marca comercial do equipamento principal ao qual estejam vinculados, quando isso favorecer a
+padronização operacional, a compatibilidade, a rastreabilidade e a centralização do suporte. Será admitido o
+fornecimento de marca distinta, desde que os itens sejam novos, de linha ativa, possuam fabricante e modelo
+identificáveis e apresentem compatibilidade integral com o equipamento principal e com a solução contratada,
+comprovada por documentação oficial. A marca distinta deverá possuir garantia e suporte técnico compatíveis
+e não poderá exigir adaptações não homologadas, reduzir funcionalidades, desempenho, segurança,
+durabilidade ou SLA, nem transferir responsabilidades a terceiros. A preferência de marca não constituirá
+condição de habilitação, classificação, pontuação, desempate ou aceitabilidade e não autorizará a
+desclassificação de solução de marca distinta que atenda integralmente aos requisitos. A CONTRATADA
+permanecerá responsável única pela garantia, manutenção, substituição e suporte de todo o conjunto.
+2.16 - Para toda certificação, registro ou consulta em portal eletrônico de conteúdo dinâmico exigida neste
+Apêndice, a verificação deverá registrar, no mínimo, data e hora da consulta, URL, país ou mercado aplicável,
+fabricante, modelo, família e configuração ofertada e, quando pertinente, potência, versão, categoria e prazo
+de validade. A evidência deverá ser preservada nos autos em PDF ou captura integral que identifique a fonte e
+permita reproduzir o estado do cadastro na data relevante. Campo não disponibilizado pelo próprio portal não
+
+--- [pag. PDF 3] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 3 de 36
+invalidará a prova quando a correspondência do produto e o atendimento do requisito permanecerem
+inequívocos. Alteração ou expiração posterior do cadastro não invalidará automaticamente a situação
+regularmente comprovada na data exigida, ressalvadas as obrigações de manutenção de validade
+expressamente previstas para a execução contratual.
+3 - RASTREABILIDADE, INTEGRIDADE FÍSICA E LINHA DE BASE
+3.1 - A solução deverá manter rastreabilidade eletrônica dos Microcomputadores Tipo I, Microcomputadores
+Tipo II e Notebooks mediante inventário centralizado, localização prevista, linha de base homologada de
+hardware, histórico de movimentações, comparação periódica da configuração e alertas auditáveis. Os
+controles serão descritos por capacidade, sem vinculação a fabricante, marca ou tecnologia proprietária.
+3.2 - O cadastro da localização prevista deverá relacionar, no mínimo, número de série, identificador patrimonial
+ou lógico, tipo do equipamento, secretaria, unidade administrativa, setor, sala ou localização lógica quando
+utilizada, endereço da unidade, perfil de rede tecnicamente necessário, data da última movimentação
+autorizada e usuário ou função apenas quando aplicável e estritamente necessário.
+3.3 - A localização lógica observada poderá utilizar, isolada ou conjuntamente, endereço IP, sub-rede, VLAN,
+gateway, domínio, site de rede, ponto de acesso Wi-Fi, identificador de rede, conexão corporativa ou outro
+elemento idôneo previamente documentado. As regras deverão considerar DHCP, VPN, redes sem fio,
+mobilidade autorizada e demais condições capazes de gerar falso positivo.
+3.4 - Rastreabilidade lógica não constitui GPS nem localização física em tempo real. Para equipamento
+desligado, sem alimentação, sem conectividade ou fora dos mecanismos de comunicação abrangidos, a
+plataforma exibirá somente a última observação disponível, com respectiva data, hora, fonte e condição de
+atualização, vedada afirmação de localização atual não comprovada.
+3.5 - No recebimento definitivo será criada linha de base de hardware individual por equipamento, contendo
+fabricante, modelo, número de série, UUID quando disponível, placa principal, processador, quantidade e
+disposição dos módulos de memória, capacidade dos módulos, unidade de armazenamento, modelo,
+capacidade e identificador disponível, GPU dedicada quando aplicável, interfaces de rede, BIOS/UEFI,
+firmwares relevantes e demais componentes sujeitos a controle.
+3.6 - Não será exigido número de série individual de componente quando a arquitetura ou o fabricante não o
+disponibilizar de forma confiável. Nessa hipótese, serão utilizados os melhores identificadores técnicos
+disponíveis, com registro da limitação e combinação suficiente de fabricante, modelo, capacidade, slot, firmware
+ou identificador equivalente.
+3.7 - A linha de base deverá possuir versão, data e hora, responsável pela coleta, responsável pelo aceite,
+origem dos dados e resumo criptográfico ou mecanismo equivalente de integridade. Alteração autorizada
+deverá estar vinculada a Ordem de Serviço, registrar os valores anterior e posterior e gerar nova versão da
+linha de base sem apagar o histórico.
+3.8 - A plataforma deverá comparar o inventário atual com a linha de base e identificar, quando tecnicamente
+detectáveis, retirada, adição ou substituição de memória, redução de capacidade, remoção ou substituição da
+unidade de armazenamento, alteração da GPU, placa principal, processador, interfaces relevantes, BIOS ou
+firmware e demais mudanças materiais de configuração.
+3.9 - Divergência de localização ou de hardware somente será classificada como não autorizada após confronto
+com Ordens de Serviço, movimentações e mudanças previamente registradas. O alerta deverá identificar
+equipamento, série, unidade, situação anterior, situação observada, data e hora, evidência, autorização
+localizada ou inexistente, status, histórico e providência.
+3.10 - Para os Microcomputadores Corporativos Tipo I e Tipo II, o sensor eletrônico de abertura ou intrusão do
+gabinete deverá integrar o projeto original do equipamento ou constituir opção oficialmente homologada pelo
+fabricante para o modelo, devendo ser fornecido instalado, conectado e habilitado. Quando o funcionamento
+depender de licença, esta deverá estar incluída e permanecer válida durante todo o período de disponibilização
+do equipamento.
+3.11 - O sensor deverá detectar a abertura ou remoção da tampa e registrar ou preservar o respectivo estado
+de intrusão após o fechamento, até sua consulta e reconhecimento por usuário autorizado. O evento deverá
+ser associado inequivocamente ao número de série do equipamento e consultável pela BIOS/UEFI, por
+ferramenta oficial de gerenciamento ou por mecanismo funcionalmente equivalente. A plataforma deverá coletar
+o estado ou evento e registrar o horário de ingestão; data e hora originadas no próprio hardware serão exigidas
+somente quando suportadas pela arquitetura.
+
+--- [pag. PDF 4] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 4 de 36
+3.12 - A classificação da abertura como autorizada ou não autorizada será realizada pela CONTRATANTE
+mediante confronto com Ordem de Serviço e registros de manutenção, movimentação ou mudança. O simples
+evento de abertura não caracterizará automaticamente irregularidade, autoria ou responsabilidade.
+3.13 - Não serão aceitos lacres, etiquetas, selos, sensores externos improvisados ou soluções sem
+homologação oficial do fabricante como substitutos do sensor eletrônico exigido. A comprovação ocorrerá por
+documentação oficial do modelo e da configuração ofertada, lista de materiais, página de suporte, manual de
+serviço, declaração do fabricante ou evidência oficial equivalente, complementada por inspeção física e teste
+funcional de abertura, fechamento, persistência, associação à série e consulta do evento, conforme o Apêndice
+5.
+4 - REQUISITOS MÍNIMOS PARA UPGRADES
+ASPECTO DESCRIÇÃO
+O QUE É CONSIDERADO
+UPGRADE
+Correção, atualização, otimização, substituição ou expansão de componente necessária para
+manter desempenho, capacidade, compatibilidade, segurança, suporte, linha de base e execução
+dos sistemas institucionais abrangidos. Expansão destinada exclusivamente a necessidade
+completamente nova será tratada como alteração de escopo.
+CONDIÇÕES PARA
+SOLICITAÇÃO
+As providências incluídas no preço ocorrerão quando necessárias à manutenção dos requisitos
+contratados ou à evolução regular dos sistemas institucionais abrangidos. Necessidades
+completamente novas dependerão de solicitação formal, justificativa técnica, definição de
+quantidades, pesquisa de preços e instrumento juridicamente cabível.
+PERIODICIDADE
+Durante os 60 meses iniciais, não existe periodicidade automática de renovação integral fundada
+apenas no tempo de uso; a configuração e o desempenho contratados deverão ser preservados
+continuamente. Formalizada prorrogação posterior ao primeiro ciclo, será aplicada a renovação
+tecnológica conforme a seção de critérios de evolução tecnológica para o segundo ciclo.
+PRAZO DE EXECUÇÃO Para manutenção da configuração, aplicam-se os prazos de suporte. Para expansão formalmente
+contratada, o instrumento correspondente definirá cronograma, aceite e efeitos financeiros.
+GARANTIA Toda intervenção deverá manter ou elevar o desempenho mínimo, preservar licenciamento,
+compatibilidade, segurança e cobertura operacional e ser registrada no inventário.
+SANÇÕES
+O descumprimento de obrigação de manutenção ou de alteração formalmente contratada será
+registrado e apurado conforme o IMR e as regras deste Termo de Referência. Eventual sanção
+dependerá de tipificação no edital ou no contrato e de processo próprio, sem aplicação automática
+por solicitação de expansão ainda não formalizada.
+RENOVAÇÃO NO
+SEGUNDO CICLO
+Condicionada à prorrogação formal posterior aos 60 meses iniciais, com configuração dinâmica,
+matriz comparativa, aprovação técnica e aplicação integral da seção de critérios de evolução
+tecnológica para o segundo ciclo.
+4.1 - Durante os 60 (sessenta) meses iniciais, não haverá atualização periódica automática integral do parque
+fundada exclusivamente no decurso do tempo. Correções, upgrades ou substituições necessários à
+manutenção do desempenho, da capacidade, da compatibilidade, da segurança, do suporte e das
+funcionalidades contratadas permanecerão sujeitos às regras ordinárias deste Apêndice. Essa vedação não
+impede a renovação tecnológica condicionada à prorrogação posterior ao primeiro ciclo, disciplinada em seção
+específica.
+5 - ESPECIFICAÇÕES TÉCNICAS DETALHADAS DOS ITENS
+As especificações detalhadas abaixo são obrigatórias e prevalecem como referência técnica para proposta,
+comprovação, fornecimento, recebimento, fiscalização, manutenção e substituição. As Fichas Técnicas
+vinculadas apresentam apenas os parâmetros essenciais para consulta rápida.
+Divergência material, omissão ou referência cruzada inconsistente deverá ser saneada formalmente pela
+Administração antes do julgamento ou do recebimento, conforme a fase em que for identificada, vedada a
+criação posterior de requisito não previsto na documentação publicada.
+FICHA ITEM / CÓDIGO DOCUMENTO DE SÍNTESE
+1 01 / 023.00206 Ficha Técnica 1 do Apêndice 1 – Microcomputador Corporativo Tipo I
+2 02 / 023.00207 Ficha Técnica 2 do Apêndice 1 – Microcomputador Corporativo Tipo II
+
+--- [pag. PDF 5] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 5 de 36
+FICHA ITEM / CÓDIGO DOCUMENTO DE SÍNTESE
+3 03 / 043.00130 Ficha Técnica 3 do Apêndice 1 – Notebook Corporativo
+4 04 / 043.00131 Ficha Técnica 4 do Apêndice 1 – Monitor Adicional
+5.1 - Microcomputador Corporativo Tipo I
+5.1.1 - Processador
+5.1.1.1 - Processador de arquitetura x86-64, compatível com o equipamento ofertado e com o sistema
+operacional Microsoft Windows 11 Professional de 64 bits.
+5.1.1.2 - Sistema de dissipação térmica original ou oficialmente homologado para o modelo, dimensionado para
+manter o processador dentro da faixa ambiental e térmica especificada pelo fabricante em operação contínua
+de até 10 horas diárias, sem adaptações.
+5.1.1.3 - O processador deverá alcançar índice mínimo de 38.000 pontos no PassMark CPU Mark, sem
+overclock ou ajuste fora das condições homologadas pelo fabricante, tendo como referência
+http://www.cpubenchmark.net; A Administração registrará nos autos o modelo exato, a URL, a data e o horário
+da consulta. Os modelos comparados na mesma rodada serão consultados na mesma data. Turbo ou boost
+automático dentro dos limites oficiais de fábrica não caracteriza overclock. Benchmark público alternativo
+somente será aceito com memória técnica reproduzível que demonstre equivalência ou superioridade ao
+patamar exigido.
+5.1.1.4 - O processador deverá possuir, no mínimo, 24 MB de memória cache total, considerada a soma das
+memórias cache L2 e L3 informadas na documentação oficial do fabricante, excluída a cache L1 e vedada a
+contagem repetida de cache compartilhada.
+5.1.1.5 - O processador ou SoC deverá possuir NPU dedicada, habilitada e reconhecida pelo sistema
+operacional, apta à aceleração por hardware de cargas de inteligência artificial, inclusive inferência de redes
+neurais e aprendizado de máquina. Não será fixado patamar mínimo de TOPS nesta contratação.
+5.1.1.6 - O processador deverá integrar plataforma corporativa em linha de fabricação e comercialização na
+data da apresentação da proposta e não estar formalmente descontinuado pelo fabricante. O processador e o
+modelo de equipamento ofertado deverão possuir documentação oficial, portal de suporte e disponibilidade de
+BIOS/UEFI, firmware, drivers, microcódigo e correções de segurança aplicáveis à plataforma. A data de
+lançamento do processador, isoladamente, não constituirá critério eliminatório. Permanecem obrigatórios os
+requisitos de desempenho, cache, NPU, compatibilidade e processamento multithread previstos nesta seção.
+A comprovação ocorrerá por página oficial, documentação do produto, portal de suporte, aviso de ciclo de vida
+ou declaração oficial equivalente do fabricante.
+5.1.1.7 - O processador deverá suportar processamento multithread.
+5.1.2 - Placa principal, BIOS/UEFI e gerenciamento remoto
+5.1.2.1 - A placa principal deverá integrar o projeto original do modelo ofertado e ser fabricada, fornecida ou
+oficialmente homologada pelo fabricante responsável pelo equipamento, sua garantia e seu suporte. Serão
+aceitos projetos próprios, OEM ou ODM com documentação oficial, rastreabilidade de marca, modelo e revisão.
+Não serão aceitas placas de varejo adaptadas, remarcadas pela licitante ou sem identificação técnica
+verificável.
+5.1.2.2 - Atualizações, correções de segurança e avisos do BIOS/UEFI deverão estar disponíveis em portal
+oficial de suporte, com identificação do modelo, versão, data, notas de versão e mecanismo de verificação de
+autenticidade e integridade. A aplicação pela contratada dependerá de autorização e programação da
+Administração.
+5.1.2.3 - O BIOS/UEFI deverá permitir credenciais independentes para inicialização e para acesso
+administrativo às configurações, com alteração e restauração controladas. Não serão aceitas credenciais
+administrativas imutáveis ou mantidas no padrão de fábrica.
+5.1.2.4 - Deverão ser registrados e consultáveis por SMBIOS/DMI, ou mecanismo equivalente, fabricante
+responsável, modelo exato, número de série único, UUID e campo de patrimônio, em correspondência com a
+identificação física e preservados após reinstalação do sistema operacional.
+5.1.2.5 - O inventário de placa principal, processador, memória, armazenamento, interfaces de rede e firmware
+deverá permanecer em repositório persistente da plataforma e ser consultável localmente e pela solução de
+gerenciamento remoto, inclusive quando o sistema operacional estiver indisponível.
+
+--- [pag. PDF 6] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 6 de 36
+5.1.2.6 - O equipamento deverá possuir TPM 2.0 habilitado no BIOS/UEFI e reconhecido pelo sistema
+operacional, implementado em hardware por componente discreto soldado à placa principal ou integrado ao
+chipset ou SoC. Não serão aceitas implementações exclusivamente por firmware, módulos removíveis,
+dispositivos externos ou adaptadores instalados posteriormente apenas para atender ao requisito.
+5.1.2.7 - O equipamento deverá utilizar UEFI em modo nativo, compatível com Windows 11 Professional,
+Secure Boot e firmware assinado, homologado e suportado pelo fabricante. Não será exigido desenvolvimento
+exclusivo do código-base pelo fabricante nem filiação a categoria específica do UEFI Forum.
+5.1.2.8 - A plataforma, considerada a combinação de processador, chipset, firmware/BIOS e interfaces de rede,
+deverá suportar gerenciamento remoto Out-of-Band baseado em hardware, inclusive por rede sem fio mediante
+interface compatível e homologada, independentemente do estado do sistema operacional. Deverá permitir
+controle de energia, inventário de hardware, diagnóstico e acesso remoto ao processo de inicialização. Console,
+firmware, certificados, componentes e licenças necessários deverão integrar a solução PCaaS.
+5.1.2.9 - Por conexão Ethernet, a plataforma deverá permitir acesso remoto a vídeo, teclado e mouse durante
+POST, BIOS/UEFI, inicialização e sistema operacional. Durante sessão interativa deverá existir indicação local
+visível e persistente; em POST ou BIOS/UEFI, a atividade deverá ser indicada no console e registrada em log.
+5.1.2.10 - A plataforma deverá permitir, por TCP/IP e sem dependência do sistema operacional, ligar, desligar
+e reiniciar o equipamento, consultar inventário e diagnóstico e acessar as configurações de hardware durante
+POST.
+5.1.2.11 - O gerenciamento remoto deverá integrar a arquitetura do processador e da plataforma, estar
+habilitado no BIOS/UEFI e permanecer disponível mesmo em caso de falha do sistema operacional. Soluções
+exclusivamente baseadas em agente instalado no sistema operacional não atenderão isoladamente ao
+requisito.
+5.1.2.12 - A comunicação de gerenciamento remoto deverá ser criptografada, utilizar credenciais
+individualizadas e controle de acesso por função e gerar registros auditáveis de equipamento, operador, origem,
+início, término, ações e resultado, observados os controles do Apêndice 3.
+5.1.3 - Expansão e armazenamento
+5.1.3.1 - A presença de interface SATA não será requisito eliminatório quando a configuração utilizar
+exclusivamente armazenamento M.2 NVMe e não houver periférico SATA exigido. Havendo interface SATA,
+deverá ser integrada ou homologada e operar a 6,0 Gb/s ou superior.
+5.1.3.2 - Possuir, no mínimo, um slot M.2 NVMe operando em PCIe 3.0 x4 ou tecnologia superior, compatível
+com a unidade ofertada, e permitir inicialização por dispositivo USB.
+5.1.3.3 - A expansão interna deverá ser compatível com o projeto original, sem adaptações e sem exigência de
+quantidade fixa de slots PCIe além das interfaces necessárias à configuração contratada.
+5.1.3.4 - A unidade de armazenamento interna deverá ser SSD M.2 NVMe com capacidade mínima de 480 GB,
+suporte a S.M.A.R.T. e desempenho nominal mínimo de 3.200 MB/s para leitura sequencial e 2.100 MB/s para
+gravação sequencial, comprovado para a capacidade exata ofertada. Não será exigida cache dedicada quando
+a arquitetura atender aos requisitos de desempenho, confiabilidade e monitoramento.
+5.1.3.5 - A solução deverá permitir sanitização das unidades independentemente do sistema operacional, por
+firmware, menu de inicialização ou ambiente inicializável confiável e oficialmente suportado, em conformidade
+com a NIST SP 800-88 Rev. 2 ou referência superveniente reconhecida. O procedimento deverá gerar evidência
+e Certificado de Sanitização.
+5.1.4 - Memória RAM
+5.1.4.1 - O equipamento deverá possuir capacidade mínima instalada de 16 GB de memória RAM.
+5.1.4.2 - O equipamento deverá possuir, no mínimo, dois slots físicos para memória RAM. A capacidade mínima
+de 16 GB deverá ser instalada em um módulo de 16 GB, permanecendo pelo menos um slot livre para
+expansão. A plataforma deverá suportar dual-channel após a instalação de módulo adicional compatível.
+5.1.4.3 - A memória instalada deverá ser DDR5 e operar efetivamente, na configuração entregue, com taxa de
+transferência de 4.400 MT/s ou superior.
+5.1.4.4 - A combinação de processador, placa principal e BIOS/UEFI deverá suportar capacidade total de
+memória RAM de, no mínimo, 64 GB.
+
+--- [pag. PDF 7] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 7 de 36
+5.1.4.5 - A plataforma deverá suportar operação da memória em dois canais. O requisito representa capacidade
+da plataforma e será efetivado após a instalação de módulo adicional compatível, sem alterar a entrega inicial
+aprovada em 1 x 16 GB.
+5.1.5 - Controladora de vídeo
+5.1.5.1 - A controladora gráfica deverá ser integrada ao processador, utilizar memória RAM compartilhada e
+realizar alocação dinâmica.
+5.1.5.2 - A solução gráfica deverá operar cada monitor em resolução mínima Full HD, 1920 x 1080 pixels, a 60
+Hz ou superior.
+5.1.5.3 - A controladora deverá ser compatível com DirectX 12 e OpenGL 4.5 ou superior.
+5.1.5.4 - Deverá ser fornecido 1 (um) monitor por Microcomputador Tipo I. O equipamento deverá suportar dois
+monitores simultâneos em modo estendido, com imagens independentes, sendo um integrante do fornecimento
+e o segundo quando existente na unidade ou fornecido como monitor adicional.
+5.1.5.5 - Interfaces, drivers e eventuais adaptadores oficialmente homologados deverão ser integralmente
+compatíveis com os monitores e o sistema operacional ofertados, sem redução da resolução, frequência ou
+operação simultânea exigidas.
+5.1.6 - Monitor
+5.1.6.1 - Monitor com tela de, no mínimo, 21 polegadas, resolução nativa de 1920 x 1080 pixels, frequência
+mínima de 60 Hz, formato 16:9, ângulos de visualização de 178 graus na horizontal e na vertical ou tecnologia
+equivalente ou superior, contraste estático mínimo de 1.000:1 e tempo de resposta máximo de 5 ms. O monitor
+deverá ser, preferencialmente, da mesma marca comercial do computador, admitida marca distinta nos termos
+do item 2.15.
+5.1.6.2 - O monitor deverá possuir, no mínimo, uma entrada DisplayPort e uma entrada HDMI, compatíveis com
+as saídas digitais do microcomputador, e ser entregue com todos os cabos necessários ao funcionamento
+simultâneo e integral.
+5.1.7 - Áudio
+5.1.7.1 - A controladora de áudio deverá ser integrada à placa principal, sem utilização de dispositivo externo,
+adaptador ou interface USB instalada exclusivamente para atender ao requisito.
+5.1.7.2 - A controladora deverá ser compatível com High Definition Audio Codec ou tecnologia equivalente ou
+superior e possuir drivers oficiais para o sistema operacional fornecido.
+5.1.7.3 - O gabinete deverá possuir ao menos um alto-falante integrado, com potência nominal ou média mínima
+de 1 W, apto à reprodução de áudio do sistema. Sinalizador sonoro utilizado apenas para diagnóstico não será
+aceito como alto-falante.
+5.1.7.4 - Caixas de som externas, soundbar, alto-falantes do monitor ou dispositivos USB não poderão ser
+utilizados para atender ao requisito de alto-falante integrado. O uso posterior de headset autorizado pela
+Administração permanece permitido.
+5.1.8 - Interfaces de rede e comunicação sem fio
+5.1.8.1 - O equipamento deverá possuir interface interna Wi-Fi 6E ou superior, IEEE 802.11ax, configuração 2
+x 2, operação nas faixas de 2,4 GHz, 5 GHz e 6 GHz, antenas integradas e drivers oficiais. Não serão aceitos
+adaptadores USB externos. A homologação Anatel deverá estar válida quando exigível.
+5.1.8.2 - A interface Ethernet deverá ser integrada, operar em 10/100/1000 Mb/s com detecção automática, full-
+duplex e conector RJ45, possuir Wake-on-LAN e não depender de adaptador externo. Interface 2,5 Gb/s será
+aceita como superior, mas não será obrigatória.
+5.1.8.3 - A interface deverá suportar Wake-on-LAN e inicialização UEFI PXE, no mínimo por IPv4, configuráveis
+no BIOS/UEFI e suportadas por firmware e drivers oficiais.
+5.1.8.4 - O equipamento deverá possuir Bluetooth 5.3 ou superior, integrado ao equipamento ou ao módulo
+WLAN, com drivers oficiais e homologação aplicável. Não serão aceitos adaptadores USB externos. O recurso
+poderá ser desabilitado por política administrativa.
+
+--- [pag. PDF 8] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 8 de 36
+5.1.9 - Portas e conectores
+5.1.9.1 - Todas as portas externas de entrada e saída deverão possuir identificação permanente por nome,
+símbolo ou cor aplicada originalmente pelo fabricante. Não serão aceitas etiquetas temporárias ou marcações
+manuais.
+5.1.9.2 - A interface Ethernet deverá possuir conector RJ45 nativo e integrado ao equipamento, sem
+adaptadores externos.
+5.1.9.3 - O equipamento deverá possuir ao menos uma interface frontal ou lateral de áudio de 3,5 mm do tipo
+combo ou universal, compatível simultaneamente com fone de ouvido e microfone de headset. Portas adicionais
+serão aceitas. Adaptadores USB não poderão atender ao requisito.
+5.1.9.4 - O equipamento deverá possuir no mínimo oito portas USB externas, sendo ao menos sete USB-A e
+uma USB-C. Pelo menos quatro portas USB-A deverão operar a 5 Gb/s ou mais e ao menos duas USB-A
+deverão estar na parte frontal. Hubs externos não poderão compor o quantitativo.
+5.1.9.5 - A porta USB-C deverá suportar transferência de dados a, no mínimo, 5 Gb/s e não poderá ser
+exclusivamente destinada a carregamento. Velocidade de 10 Gb/s ou superior será considerada característica
+desejável, sem efeito eliminatório. Adaptadores e hubs não poderão atender ao requisito.
+5.1.9.6 - O equipamento deverá disponibilizar DisplayPort e HDMI capazes de operar em dois monitores
+simultâneos, sendo um integrante do fornecimento e o segundo quando existente na unidade ou fornecido como
+monitor adicional. Não será fixada versão específica de HDMI ou DisplayPort quando a interface atender
+integralmente à resolução, frequência e simultaneidade previstas.
+5.1.9.7 - O gabinete deverá possuir encaixe original e integrado para cabo ou trava de segurança padronizada,
+ou solução equivalente oficialmente homologada, sem adaptações. A licitante deverá identificar o padrão
+utilizado. Cabo e trava somente serão incluídos se previstos separadamente.
+5.1.10 - Integração da plataforma e responsabilidade do fabricante
+5.1.10.1 - O microcomputador deverá constituir produto corporativo completo, de uma única marca, modelo e
+número de série, com suporte centralizado. Gabinete, placa principal, BIOS/UEFI, fonte, refrigeração e peças
+estruturais deverão integrar a configuração original ou opções oficialmente homologadas pelo fabricante da
+plataforma.
+5.1.10.2 - Os equipamentos de um mesmo tipo deverão manter padrão técnico e operacional homogêneo e,
+em cada lote, utilizar a mesma marca, modelo e configuração homologada. Alteração superveniente dependerá
+de comprovação, aprovação prévia da fiscalização e equivalência ou superioridade requisito por requisito, sem
+redução de desempenho, garantia, segurança, compatibilidade ou suporte.
+5.1.10.3 - A documentação técnica deverá identificar inequivocamente o equipamento e os componentes
+relevantes. Poderão ser aceitos datasheet, manual, página oficial, ficha técnica, declaração do fabricante,
+relatório de conformidade ou documento oficial equivalente, admitida diligência para informação preexistente
+sem troca material da solução ofertada.
+5.1.11 - Gabinete
+5.1.11.1 - A tampa do gabinete deverá permitir abertura sem ferramentas por mecanismo original de fábrica.
+Memória, armazenamento e slots deverão ser acessíveis sem desmontagem da placa principal. Será admitido
+uso de ferramenta para parafusos de M.2, placa principal, fonte ou componentes cujo manual oficial assim
+determine, inclusive parafusos cativos ou de aperto manual de fábrica.
+5.1.11.2 - O gabinete deverá possuir formato corporativo compacto Small Form Factor, ou denominação
+equivalente do fabricante. Não serão aceitos tower, minitower ou mid-tower.
+5.1.11.3 - O gabinete deverá possuir volume máximo de 10,5 litros, calculado pelas maiores dimensões oficiais
+externas mediante a fórmula altura em milímetros x largura em milímetros x profundidade em milímetros /
+1.000.000. Embalagem e acessórios externos removíveis não integrarão o cálculo. Em caso de divergência,
+prevalecerá o resultado calculado.
+5.1.11.4 - O equipamento deverá possuir mecanismo visual frontal, por LED, botão iluminado ou equivalente,
+capaz de apresentar códigos de diagnóstico em POST ou antes do sistema operacional para falhas de
+processador, placa principal ou chipset, BIOS/UEFI, memória, alimentação e vídeo, quando aplicável. O
+armazenamento poderá ser diagnosticado pelo mesmo mecanismo ou por ferramenta oficial de pré-
+inicialização. Não será exigido LED individual para cada componente.
+
+--- [pag. PDF 9] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 9 de 36
+5.1.11.5 - O gabinete deverá possuir acabamento original predominantemente preto, cinza ou combinação
+dessas cores, mantendo o mesmo padrão em todos os equipamentos Tipo I. Não serão aceitos pintura
+posterior, película ou adesivos, ressalvadas etiquetas patrimoniais.
+5.1.11.6 - O acabamento deverá ser uniforme, durável e de baixo brilho, resistente ao uso, limpeza e transporte
+habituais. Partes metálicas deverão possuir tratamento anticorrosivo. Não serão aceitos descascamento,
+oxidação, rebarbas ou arestas cortantes. A proteção eletrostática deverá decorrer do projeto elétrico e de
+compatibilidade eletromagnética, não apenas da pintura.
+5.1.11.7 - Deverá ser fornecido cabo de alimentação novo, tripolar, com capacidade compatível, plugue 2P+T
+conforme ABNT NBR 14136 e conformidade Inmetro quando aplicável. Não serão aceitos adaptadores,
+conversores, emendas ou cabos reutilizados.
+5.1.11.8 - O gabinete deverá possuir botão frontal de alimentação com iluminação própria ou adjacente que
+indique os estados ligado, desligado e suspensão. O mesmo mecanismo poderá apresentar códigos de
+diagnóstico.
+5.2 - Requisitos complementares do Microcomputador Corporativo Tipo I
+5.2.1 - O equipamento deverá ser fornecido com sensor eletrônico de abertura ou intrusão do gabinete,
+integrado ao projeto original ou oficialmente homologado pelo fabricante para o modelo, instalado, conectado e
+habilitado. O mecanismo deverá detectar a abertura ou remoção da tampa, registrar ou preservar indicação
+persistente após o fechamento, permitir associação ao número de série e consulta e coleta central, em
+conformidade com a seção Rastreabilidade, Integridade Física e Linha de Base deste Apêndice. Lacres,
+etiquetas, selos e demais controles físicos poderão complementar a proteção, mas não substituirão o sensor
+eletrônico.
+5.2.2 - Fonte de alimentação
+5.2.2.1 - A fonte deverá possuir correção ativa do fator de potência, Active PFC ou tecnologia tecnicamente
+equivalente, integrada ao projeto original. Não será aceita solução externa adicionada posteriormente.
+5.2.2.2 - A fonte deverá possuir potência nominal contínua mínima de 240 W e estar oficialmente dimensionada
+para a configuração entregue e para as expansões admitidas. Caso 240 W sejam insuficientes, deverá ser
+fornecida fonte de maior potência sem custo adicional. Não serão aceitos valores de pico, temporários ou
+estimados sem respaldo oficial.
+5.2.2.3 - A fonte interna não redundante deverá possuir certificação 80 PLUS Platinum ou superior, vinculada
+ao modelo e à potência exatos, ou comprovação tecnicamente equivalente por relatório de laboratório ISO/IEC
+17025 que demonstre os mesmos patamares objetivos de eficiência. Certificado de família ou de potência
+diferente não será aceito isoladamente.
+5.2.2.4 - A fonte deverá possuir proteções contra sobrecorrente, sobretensão, curto-circuito, subtensão e
+sobreaquecimento, ou conjunto funcionalmente equivalente oficialmente documentado para o modelo ofertado.
+5.2.3 - Teclado
+5.2.3.1 - O teclado deverá ser novo, de linha ativa, com fabricante e modelo identificáveis e compatibilidade
+integral. Deverá ser, preferencialmente, da mesma marca comercial do computador, admitida marca distinta
+segundo os critérios do item 2.15. Não serão aceitos produto genérico sem identificação, remarcação pela
+licitante ou alteração de marca posterior. A CONTRATADA responderá integralmente pelo periférico.
+5.2.3.2 - O teclado deverá possuir layout físico nativo Português do Brasil ABNT2, QWERTY, com tecla Ç,
+acentuação e caracteres próprios do idioma. As legendas deverão ser originais de fábrica, permanentes e
+legíveis. Não serão aceitos adesivos, sobreposições ou adaptações de teclado estrangeiro. Não será fixada
+quantidade exata de teclas.
+5.2.3.3 - O teclado deverá possuir conexão com fio, cabo integrado e conector USB-A nativo, compatível com
+USB 2.0 ou superior, Plug and Play e sem necessidade de driver não oficial. Não serão aceitos adaptadores,
+conversores, extensores, hubs, PS/2 ou receptor sem fio.
+5.2.3.4 - O teclado deverá possuir mecanismo original para utilização em posição normal e elevada, com
+estabilidade, resistência corporativa e pontos de apoio antiderrapantes. Não serão aceitos suportes externos
+ou adaptações.
+5.2.3.5 - O teclado deverá possuir bloco numérico físico dedicado e integrado, com teclas numéricas, operações
+aritméticas, Enter e Num Lock, além de indicação visual do estado do Num Lock. Não serão aceitos bloco
+virtual, sobreposição por função ou dispositivo numérico externo.
+
+--- [pag. PDF 10] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 10 de 36
+5.2.3.6 - O teclado deverá possuir projeto resistente a derramamentos acidentais, por membrana, canais de
+drenagem ou tecnologia equivalente original de fábrica, comprovada em documentação oficial. O requisito não
+implica resistência a imersão, lavagem ou exposição contínua e não poderá ser atendido por capa ou película
+externa.
+5.2.3.7 - O teclado deverá possuir acabamento original predominantemente preto, cinza-escuro ou combinação
+dessas cores, compatível com o microcomputador. Todos os teclados Tipo I deverão manter o mesmo padrão.
+Não serão aceitas pintura, película, envelopamento ou adesivos decorativos posteriores.
+5.2.4 - Mouse
+5.2.4.1 - O mouse deverá ser novo, de linha ativa, com fabricante e modelo identificáveis e compatibilidade
+integral. Deverá ser, preferencialmente, da mesma marca comercial do computador, admitida marca distinta
+segundo os critérios do item 2.15. Não serão aceitos produto genérico sem identificação, remarcação pela
+licitante ou alteração de marca posterior. A CONTRATADA responderá integralmente pelo periférico.
+5.2.4.2 - O mouse deverá possuir sensor óptico com resolução nativa mínima de 1.000 DPI ou superior. Se
+houver ajuste, ao menos uma configuração deverá atingir esse patamar. Não será aceito atendimento
+exclusivamente por interpolação de software.
+5.2.4.3 - O mouse deverá possuir conexão com fio, cabo integrado e conector USB-A nativo, compatível com
+USB 2.0 ou superior, Plug and Play e sem necessidade de driver não oficial. Não serão aceitos adaptadores,
+conversores, extensores, hubs, PS/2 ou receptor sem fio.
+5.2.4.4 - O mouse deverá possuir acabamento original predominantemente preto, cinza-escuro ou combinação
+dessas cores, compatível com gabinete e teclado. Todos os mouses Tipo I deverão manter o mesmo padrão.
+Não serão aceitas alterações posteriores de cor.
+5.2.4.5 - O mouse deverá possuir conformação ambidestra, botões esquerdo e direito, botão central com
+rolagem e ser acompanhado de mouse pad adequado, sem custo adicional.
+5.2.5 - Sistema operacional, aplicativos e suporte corporativo
+5.2.5.1 - O equipamento deverá ser entregue com Microsoft Windows 11 Professional de 64 bits, ou versão
+posterior oficialmente compatível, original, licenciado por dispositivo e ativado ou apto à ativação por
+mecanismo oficial. Serão admitidos OA3, licenciamento por volume ou modalidade oficial equivalente, desde
+que exista direito de disponibilização no modelo PCaaS. A contratada fornecerá meios oficiais de reinstalação
+e recuperação.
+5.2.5.2 - O fabricante deverá manter portal oficial para o modelo e número de série, com BIOS, firmware,
+drivers, utilitários, detecção e atualização, diagnósticos no sistema operacional e em pré-inicialização, consulta
+de configuração, garantia e suporte. Os recursos deverão permanecer disponíveis durante toda a vigência do
+PCaaS, com atualização controlada e autorizada pela Administração.
+5.2.5.3 - Todos os componentes e recursos do equipamento deverão ser oficialmente suportados no Windows
+11 Professional de 64 bits, sem dispositivos desconhecidos, drivers improvisados ou perda de funcionalidade
+após instalação da imagem corporativa.
+5.2.5.4 - O equipamento deverá ser fornecido com Microsoft Office LTSC 2024, em edição oficial que contenha
+no mínimo Word, Excel, PowerPoint e Outlook, ou versão perpétua posterior equivalente, instalada localmente,
+em 64 bits e PT-BR. O licenciamento será por dispositivo e deverá ser compatível com o PCaaS.
+5.2.5.5 - Antes do recebimento definitivo, a contratada deverá comprovar autenticidade, quantidade, edição,
+modalidade, perpetuidade, vínculo por dispositivo e direito de disponibilização no PCaaS, inclusive Rental
+Rights ou direito oficial equivalente quando aplicável.
+5.2.5.6 - A suíte deverá possuir licença comercial perpétua, instalada localmente e atribuída ao dispositivo. Não
+serão aceitos Microsoft 365 Apps, assinatura mensal ou anual, licença exclusivamente vinculada a usuário,
+edição doméstica, educacional, temporária, de avaliação, uso apenas via web ou compartilhamento acima da
+quantidade permitida. A substituição do equipamento deverá incluir regularização, reatribuição ou nova licença
+sem custo e sem interrupção.
+5.2.5.7 - O fabricante deverá disponibilizar recursos corporativos para implantação, atualização e manutenção
+no Microsoft Configuration Manager, anteriormente SCCM.
+5.2.6 - Segurança do endpoint
+5.2.6.1 - Conteúdo não confiável de navegação e anexos abrangidos pela política da Administração deverão
+ser processados em ambiente isolado e descartável. Serão aceitas microvirtualização, containerização,
+
+--- [pag. PDF 11] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 11 de 36
+sandbox segura, RBI ou tecnologia equivalente. O ensaio deverá verificar ausência de persistência, acesso
+indevido a arquivos, credenciais ou sessões, comunicação lateral não autorizada e transferências fora dos
+canais permitidos.
+5.2.6.2 - A solução deverá proteger em tempo real download, criação, gravação, abertura e execução de
+arquivos, combinando assinatura ou reputação com heurística, inteligência artificial, aprendizado de máquina,
+análise comportamental ou equivalente. Deverá bloquear, colocar em quarentena ou conter artefato benigno
+reconhecido, possuir proteção contra adulteração, registros auditáveis e manter proteção offline com o último
+conjunto válido. Licenças e consoles cobrirão todos os equipamentos instalados e ativos, sem degradação que
+viole desempenho, estabilidade, funcionalidade ou SLA.
+5.2.7 - Certificações, sustentabilidade e conformidade
+5.2.7.1 - O microcomputador deverá atender à especificação ENERGY STAR para computadores vigente na
+data de publicação do edital. A comprovação ocorrerá por registro do modelo, família ou configuração no
+ENERGY STAR Product Finder ou por relatório do modelo ofertado emitido por laboratório ISO/IEC 17025
+acreditado pela Cgcre/Inmetro ou reconhecido pelo ILAC, demonstrando atendimento aos métodos e limites
+aplicáveis. Certificado genérico do fabricante ou de outro modelo não será aceito.
+5.2.7.2 - O microcomputador deverá possuir, para a categoria Desktop, uma das seguintes comprovações
+ambientais, não cumulativas: 1. registro EPEAT Gold ativo e válido para o Brasil; 2. certificação TCO Certified
+ativa e aplicável à categoria Desktop; ou 3. certificação ambiental Tipo I baseada na ISO 14024, emitida ou
+verificada por terceira parte independente e acompanhada de matriz de equivalência.
+5.2.7.3 - O microcomputador completo, incluindo a fonte, deverá atender à IEC 62368-1 ou adoção nacional ou
+regional equivalente, como ABNT NBR IEC 62368-1, EN IEC 62368-1 ou UL 62368-1. Será aceita edição
+vigente ou reconhecida pelo esquema de avaliação na emissão. A comprovação ocorrerá por IECEE CB
+Scheme, organismo ISO/IEC 17065 ou laboratório ISO/IEC 17025.
+5.2.7.4 - A emissão sonora deverá ser medida conforme ISO 7779 e declarada conforme ISO 9296. Em estado
+ocioso, LWA,d deverá ser de até 4,0 bels e LpA,m de até 30 dB(A) na posição do operador. Em operação no
+modo de ensaio aplicável, LWA,d deverá ser de até 5,0 bels e LpA,m de até 40 dB(A). A comprovação
+identificará modelo, configuração, estados, valores e normas; expressões genéricas de baixo ruído não serão
+suficientes.
+5.2.7.5 - Microcomputador e periféricos deverão cumprir a Diretiva RoHS 2011/65/UE, suas alterações e versão
+consolidada aplicável, incluindo a Diretiva 2015/863. Os limites serão 0,1% para chumbo, mercúrio, cromo
+hexavalente, PBB, PBDE, DEHP, BBP, DBP e DIBP e 0,01% para cádmio. A comprovação poderá ocorrer por
+declaração oficial do fabricante, documentação IEC 63000, relatório ISO/IEC 17025 ou certificação
+independente. Exceções normativas deverão ser identificadas. Peças de reposição manterão a mesma
+conformidade.
+5.2.7.6 - O modelo ou família deverá constar na Windows Compatible Products List da Microsoft, com
+certificação para Windows 11 de 64 bits. A comprovação será o Verification Report oficial, com fabricante,
+produto, sistema, tipo e identificação da certificação. Certificação de família exigirá demonstração oficial da
+correspondência. Não serão aceitos isoladamente declaração da licitante, captura sem verificação, ativação do
+Windows ou parceria comercial com a Microsoft.
+5.2.7.7 - O equipamento deverá implementar os padrões DMTF aplicáveis aos recursos de identificação,
+inventário e gerenciamento de hardware exigidos neste Apêndice, especialmente o padrão SMBIOS,
+independentemente de o fabricante possuir filiação à DMTF.
+A implementação deverá permitir identificar, no mínimo:
+1. Fabricante e modelo do equipamento;
+2. Número de série e identificador patrimonial, quando suportado;
+3. Fabricante, modelo e versão da placa-mãe;
+4. Versão e data da BIOS/UEFI;
+5. Modelo do processador;
+6. Quantidade, capacidade e disposição dos módulos de memória;
+7. Identificação e capacidade das unidades de armazenamento.
+A comprovação ocorrerá mediante uma das seguintes alternativas, não cumulativas:
+
+--- [pag. PDF 12] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 12 de 36
+1. Filiação empresarial ativa do fabricante à DMTF nas categorias Board, Leadership ou Participation,
+acompanhada de documentação oficial do modelo e demonstração funcional dos recursos exigidos; ou
+2. Documentação técnica oficial do fabricante, relatório técnico independente, consulta executada no
+equipamento, inspeção ou amostra que demonstre a implementação funcional dos padrões e campos
+de inventário exigidos.
+Quando a filiação estiver registrada em nome de controladora, grupo econômico ou entidade jurídica
+diferente, deverá ser apresentada comprovação oficial de que a entidade fabricante está abrangida. Na
+ausência dessa comprovação, será utilizada a segunda alternativa de comprovação acima descrita,
+baseada em documentação técnica oficial, relatório técnico independente, consulta executada no
+equipamento, inspeção ou amostra.
+A filiação à DMTF, isoladamente, não comprovará a conformidade do equipamento. Durante a inspeção,
+a Administração poderá verificar as informações por meio da BIOS/UEFI, sistema operacional,
+ferramenta de inventário ou console de gerenciamento. Havendo divergência entre a filiação
+apresentada e o funcionamento efetivo, prevalecerá o resultado da verificação funcional.
+Não será exigida tecnologia proprietária, marca específica ou participação em categoria determinada
+da DMTF, desde que os requisitos funcionais e de comprovação sejam integralmente atendidos.
+5.2.7.8 - O fabricante dos equipamentos deverá demonstrar a existência de práticas estruturadas de
+sustentabilidade corporativa mediante um dos seguintes meios de comprovação, não cumulativos:
+1. Medalha EcoVadis Silver, Gold ou Platinum, válida na data da apresentação da proposta;
+2. Avaliação ESG equivalente, emitida por entidade independente e especializada, com metodologia
+pública, documentada, rastreável e passível de auditoria; ou
+3. Conjunto documental corporativo auditável que demonstre políticas, responsabilidades, governança,
+metas, indicadores e resultados nas dimensões exigidas, acompanhado de matriz de correspondência
+e sujeito à diligência da Administração.
+Para aceitação das alternativas 2 e 3, a comprovação deverá:
+1. Abranger, no mínimo, meio ambiente, práticas trabalhistas e direitos humanos, ética e integridade e
+compras sustentáveis;
+2. Identificar a entidade avaliada e demonstrar que alcança o fabricante ou o grupo econômico controlador,
+desde que a entidade fabricante esteja expressamente incluída no escopo;
+3. Apresentar metodologia, políticas, governança, metas, indicadores, resultados ou controles
+materialmente relacionados às quatro dimensões;
+4. Quando a metodologia utilizar classificação qualitativa, não apresentar classificação crítica ou
+insuficiente nas quatro dimensões, sem exigência de posição em percentil, ranking ou nos dois níveis
+superiores;
+5. Estar vigente ou ter sido emitida há, no máximo, 12 meses, quando se tratar de avaliação sem prazo
+de validade expresso; no caso de documentação corporativa, deverá corresponder ao último período
+de relato encerrado e conter políticas vigentes;
+6. Permitir verificação de autenticidade por endereço eletrônico oficial, código de validação, assinatura,
+publicação corporativa ou confirmação da entidade emissora;
+7. Ser acompanhada de matriz de correspondência demonstrando o atendimento às quatro dimensões
+exigidas.
+Não será exigido que a avaliação ou o conjunto documental equivalente utilize a mesma nomenclatura,
+pontuação, plataforma, percentil ou metodologia da EcoVadis. A EcoVadis constitui meio alternativo de
+comprovação, não certificação exclusiva ou obrigatória.
+5.2.7.9 - Quando o equipamento for fabricado ou montado no Brasil por estabelecimento enquadrado, o
+fabricante ou montador deverá possuir CTF/APP ativo na atividade 5-2 e Certificado de Regularidade do Ibama
+válido e autenticável. Para produto fabricado no exterior, não será exigido CTF/APP do fabricante estrangeiro;
+deverão ser identificados origem, importador ou responsável no Brasil e as obrigações ambientais aplicáveis.
+A contratada apresentará declaração de aplicabilidade. O certificado, válido por três meses, deverá ser
+atualizado durante entrega e recebimento enquanto aplicável.
+5.2.7.10 - A certificação deverá corresponder ao modelo ou à família ofertada. Quando emitida para uma
+família, a licitante deverá demonstrar, por documentação oficial, que a configuração proposta está efetivamente
+
+--- [pag. PDF 13] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 13 de 36
+abrangida. A equivalência deverá contemplar, no mínimo, eficiência energética, controle de substâncias
+perigosas, durabilidade, reparabilidade, materiais, reciclagem, embalagem e responsabilidade ambiental da
+cadeia produtiva. A comprovação será individualizada por categoria: a certificação do microcomputador não
+abrangerá automaticamente monitor, teclado, mouse ou demais periféricos. Não será exigida a apresentação
+simultânea de EPEAT Gold, TCO Certified e certificação equivalente.
+5.2.8 - Fornecimento completo
+5.2.8.1 - Todos os cabos, conectores, acessórios, componentes, firmwares, drivers, utilitários, consoles e
+licenças necessários ao funcionamento, gerenciamento, segurança e comprovação da solução deverão ser
+fornecidos sem custo adicional.
+5.3 - Microcomputador Corporativo Tipo II
+5.3.1 - Processador
+5.3.1.1 - O processador deverá possuir arquitetura x86-64, suportar processamento multithread e ser
+oficialmente compatível com o equipamento ofertado e com o Microsoft Windows 11 Professional de 64 bits.
+5.3.1.2 - O sistema de dissipação térmica deverá ser original ou oficialmente homologado para o modelo,
+possuir controle automático de rotação e manter o processador dentro das faixas ambientais e térmicas
+especificadas pelo fabricante durante operação contínua de até 10 horas diárias, sem adaptações e sem
+redução de desempenho que viole os requisitos contratados.
+5.3.1.3 - O processador deverá alcançar índice mínimo de 48.000 (quarenta e oito mil) pontos no PassMark
+CPU Mark, sem overclock ou ajuste fora das condições homologadas pelo fabricante, tendo como referência
+http://www.cpubenchmark.net; A Administração registrará nos autos o modelo exato, a URL, a data e o horário
+da consulta. Os modelos comparados na mesma rodada serão consultados na mesma data. Turbo ou boost
+automático dentro dos limites oficiais de fábrica não caracteriza overclock. Benchmark público alternativo
+somente será aceito mediante memória técnica reproduzível que demonstre equivalência ou superioridade ao
+patamar exigido.
+5.3.1.4 - O processador deverá possuir memória cache de 30 MB ou superior.
+5.3.1.5 - A plataforma, considerada a combinação de processador, chipset, firmware/BIOS e interfaces de rede,
+deverá suportar gerenciamento remoto Out-of-Band baseado em hardware, inclusive por rede sem fio mediante
+interface compatível e homologada, independentemente do estado do sistema operacional. Deverá permitir
+controle de energia, inventário de hardware, diagnóstico e acesso remoto ao processo de inicialização. Console,
+firmware, certificados, componentes e licenças necessários deverão integrar a solução PCaaS.
+5.3.1.6 - O processador deverá possuir unidade de processamento neural dedicada (NPU), integrada ao
+processador ou à plataforma ofertada, com capacidade de aceleração por hardware de tarefas relacionadas a
+inteligência artificial, incluindo inferência de redes neurais e aprendizado de máquina. Não será aceita,
+isoladamente, a utilização da CPU ou da controladora gráfica como substituta da NPU dedicada. Não será
+fixado patamar mínimo de TOPS.
+5.3.1.7 - O processador deverá integrar plataforma corporativa em linha de fabricação e comercialização na
+data da apresentação da proposta e não estar formalmente descontinuado pelo fabricante. O processador e o
+modelo de equipamento ofertado deverão possuir documentação oficial, portal de suporte e disponibilidade de
+BIOS/UEFI, firmware, drivers, microcódigo e correções de segurança aplicáveis à plataforma. A data de
+lançamento do processador, isoladamente, não constituirá critério eliminatório. Permanecem obrigatórios os
+requisitos de desempenho, cache, NPU, compatibilidade e processamento multithread previstos nesta seção.
+A comprovação ocorrerá por página oficial, documentação do produto, portal de suporte, aviso de ciclo de vida
+ou declaração oficial equivalente do fabricante.
+5.3.2 - Memória RAM
+5.3.2.1 - O equipamento deverá ser fornecido com, no mínimo, 32 GB de memória RAM DDR5, instalados em
+um módulo de 32 GB.
+5.3.2.2 - A placa-mãe deverá possuir, no mínimo, dois slots físicos para memória RAM DDR5, permanecendo
+pelo menos um slot livre na configuração entregue. Não serão aceitos adaptadores para atingir a quantidade
+mínima.
+5.3.2.3 - A memória instalada deverá ser DDR5-4400 ou superior e operar efetivamente à taxa mínima de 4.400
+MT/s, sem overclock ou configuração fora dos limites homologados pelo fabricante.
+
+--- [pag. PDF 14] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 14 de 36
+5.3.2.4 - A plataforma deverá suportar operação da memória em dois canais (dual channel). A configuração
+inicial será fornecida com um módulo de 32 GB, e a instalação futura de módulo compatível no canal
+correspondente deverá permitir a ativação do dual channel, conforme especificações oficiais do fabricante.
+5.3.2.5 - O equipamento deverá suportar expansão para, no mínimo, 128 GB de memória RAM DDR5, sem
+substituição da placa-mãe e sem adaptadores. Nos modelos com apenas dois slots, cada slot deverá suportar
+módulo de 64 GB. A capacidade deverá constar na documentação oficial do modelo exato ofertado.
+5.3.3 - Placa-mãe, BIOS/UEFI e gerenciamento remoto
+5.3.3.1 - A placa-mãe deverá integrar o projeto original do modelo exato ofertado e ser fabricada, fornecida ou
+oficialmente homologada pelo fabricante responsável pelo equipamento, pelo BIOS/UEFI, pela garantia e pelo
+suporte técnico. Serão admitidos projetos próprios ou fabricação OEM/ODM, desde que a placa-mãe esteja
+incorporada ao projeto oficial e possua rastreabilidade de fabricante responsável, modelo e revisão. Não serão
+aceitas placas de varejo adaptadas, placas genéricas, remarcações realizadas pela licitante ou customizações
+que ocultem a identificação técnica, impeçam atualizações oficiais ou comprometam compatibilidade,
+segurança, manutenção, garantia ou suporte.
+5.3.3.2 - As atualizações, correções de segurança e avisos relativos ao BIOS/UEFI deverão ser disponibilizados
+em portal oficial de suporte do fabricante, público ou autenticado, com identificação do modelo exato, versão,
+data, notas de versão e mecanismo de verificação de autenticidade e integridade. A aplicação das atualizações
+será realizada pela contratada quando necessária, mediante autorização e programação da Administração.
+5.3.3.3 - O BIOS/UEFI deverá permitir credenciais independentes: uma destinada à inicialização do
+equipamento e outra destinada ao acesso administrativo e à alteração de suas configurações. A definição,
+alteração, recuperação e restauração deverão ser controladas por pessoal autorizado. Não serão admitidas
+credenciais administrativas imutáveis ou mantidas no padrão de fábrica.
+5.3.3.4 - Deverão estar registrados e disponíveis para consulta por SMBIOS/DMI, ou mecanismo equivalente,
+o fabricante responsável, o modelo exato, o número de série único, o UUID e o campo de patrimônio. As
+informações deverão corresponder à identificação física e permanecer preservadas após reinstalação ou
+substituição do sistema operacional.
+5.3.3.5 - O inventário da placa-mãe, processador, memória, unidades de armazenamento, interfaces de rede e
+versão do firmware deverá permanecer em repositório não volátil da plataforma e ser consultável localmente e
+pela solução de gerenciamento remoto, inclusive quando o sistema operacional estiver indisponível. A consulta
+deverá permitir vinculação ao número de série e ao patrimônio correspondente.
+5.3.3.6 - Por conexão Ethernet, a plataforma deverá permitir acesso remoto a vídeo, teclado e mouse durante
+POST, BIOS/UEFI, inicialização e funcionamento do sistema operacional, sem depender exclusivamente de
+agente instalado no sistema operacional. Durante a sessão remota interativa, deverá existir indicação local
+visível e persistente. Nas etapas de POST ou BIOS/UEFI, a atividade deverá ser indicada no console e
+registrada em log, contendo, no mínimo, equipamento, operador, início, término e resultado. Componentes,
+firmwares e licenças necessários deverão integrar a solução PCaaS.
+5.3.3.7 - O equipamento deverá possuir TPM (Trusted Platform Module) versão 2.0 ou superior, integrado à
+placa-mãe ou à plataforma, implementado em hardware dedicado, habilitado no BIOS/UEFI e reconhecido pelo
+sistema operacional. Não serão aceitas soluções instaladas em slot, módulos removíveis ou implementações
+exclusivamente baseadas em firmware.
+5.3.3.8 - A plataforma deverá permitir, por protocolo TCP/IP e sem dependência do sistema operacional, ligar,
+desligar e reiniciar o equipamento, consultar inventário e informações de diagnóstico e acessar remotamente
+as configurações de hardware durante o POST. Os recursos deverão permanecer disponíveis quando o sistema
+operacional estiver indisponível, desde que o equipamento esteja conectado à alimentação elétrica e à rede de
+gerenciamento.
+5.3.3.9 - O gerenciamento remoto deverá integrar a arquitetura do processador e da plataforma, estar habilitado
+no BIOS/UEFI e permanecer disponível mesmo em caso de falha ou indisponibilidade do sistema operacional.
+Soluções exclusivamente baseadas em agente instalado no sistema operacional não atenderão isoladamente.
+Todos os componentes, firmwares, consoles e licenças necessários deverão integrar a solução PCaaS durante
+toda a vigência contratual.
+5.3.3.10 - A comunicação de gerenciamento remoto deverá ser criptografada, utilizar credenciais
+individualizadas e controle de acesso por função e gerar registros auditáveis de equipamento, operador, origem,
+início, término, ações executadas e resultado, observados os controles de segurança do Apêndice 3.
+
+--- [pag. PDF 15] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 15 de 36
+5.3.3.11 - A solução deverá permitir a sanitização das unidades de armazenamento independentemente do
+sistema operacional instalado, por recurso de firmware, menu de inicialização ou ambiente inicializavel confiável
+e oficialmente suportado. O método será definido e autorizado pela Administração conforme o Plano de
+Sanitização do Apêndice 3 e a NIST SP 800-88 Rev. 2, ou referência superveniente expressamente
+reconhecida pela Administração. O procedimento deverá gerar evidência técnica e Certificado de Sanitização
+individualizado.
+5.3.3.12 - O equipamento deverá utilizar firmware UEFI em modo nativo, compatível com Windows 11
+Professional, Secure Boot e firmware assinado, homologado e suportado pelo fabricante responsável. Não será
+aceita inicialização exclusivamente em modo Legacy/CSM. Não será exigido que o código-base seja
+desenvolvido exclusivamente pelo fabricante nem que o fabricante pertença a categoria específica do UEFI
+Forum.
+5.3.3.13 - O equipamento deverá permitir inicialização por dispositivo conectado à porta USB. A expansão
+interna deverá ser compatível com o projeto original do fabricante e com a configuração contratada, sem
+adaptações que prejudiquem segurança, refrigeração, garantia ou suporte.
+5.3.4 - Segurança do endpoint
+5.3.4.1 - O conteúdo não confiável proveniente de navegação na internet e de anexos de correio eletrônico
+abrangidos pela política da Administração deverá ser processado em ambiente isolado e descartável. Serão
+aceitas microvirtualização, containerização, sandbox segura, virtualização remota do navegador (RBI) ou
+tecnologia funcionalmente equivalente. A solução deverá impedir persistência não autorizada, acesso indevido
+a arquivos, credenciais ou sessões do hospedeiro, comunicação lateral não autorizada e transferência de dados
+fora dos canais permitidos. Deverá permitir gerenciamento centralizado de políticas, registros de eventos e
+atualização dos componentes. Todos os componentes e licenças necessários deverão integrar a solução
+PCaaS durante toda a vigência.
+5.3.4.2 - A solução deverá proteger em tempo real download, criação, gravação, abertura e execução de
+arquivos, combinando assinatura ou reputação com heurística, inteligência artificial, aprendizado de máquina,
+análise comportamental ou tecnologia equivalente. Deverá permitir bloqueio, contenção e quarentena, possuir
+proteção contra adulteração, gerenciamento centralizado e registros auditáveis. Quando desconectada, deverá
+manter a proteção com o último conjunto válido de mecanismos, modelos, políticas e informações disponíveis,
+realizando atualização após o restabelecimento da conexão. As licenças e o console deverão abranger todos
+os equipamentos efetivamente instalados e ativos, sem degradação que comprometa desempenho,
+estabilidade, funcionalidade ou SLA.
+5.3.5 - Armazenamento
+5.3.5.1 - O equipamento deverá possuir uma unidade interna SSD M.2 NVMe, nova e de primeiro uso, com
+capacidade nominal mínima de 480 GB e interface PCIe 3.0 x4 ou superior. A capacidade deverá estar
+concentrada em uma única unidade, sem adaptadores, armazenamento externo ou soma de dispositivos para
+atingir o mínimo.
+5.3.5.2 - A unidade SSD deverá possuir velocidade nominal mínima de leitura sequencial de 3.200 MB/s,
+comprovada por documentação oficial correspondente ao modelo e à capacidade exata. Resultado de outra
+capacidade ou apenas da mesma família não será aceito isoladamente.
+5.3.5.3 - A unidade SSD deverá possuir velocidade nominal mínima de gravação sequencial de 2.100 MB/s,
+comprovada por documentação oficial correspondente ao modelo e à capacidade exata. Não será aceita
+comprovação baseada exclusivamente em cache temporário, unidade de capacidade diferente ou modelo não
+ofertado.
+5.3.5.4 - A unidade SSD deverá suportar S.M.A.R.T. ou mecanismo equivalente de informações de saúde do
+padrão NVMe, permanecendo habilitado e acessível por ferramenta oficial de diagnóstico. Deverá permitir,
+quando suportado, consulta de integridade, temperatura, vida útil consumida, alertas críticos e falhas
+registradas.
+5.3.5.5 - A presença de interface SATA não será requisito eliminatório quando o equipamento utilizar
+exclusivamente armazenamento M.2 NVMe e não houver periférico SATA exigido. Havendo interface SATA no
+projeto ofertado, deverá ser integrada ou homologada pelo fabricante e operar a 6,0 Gb/s ou superior.
+5.3.6 - Controladora gráfica dedicada
+5.3.6.1 - O equipamento deverá possuir controladora gráfica dedicada de classe profissional, homologada pelo
+fabricante do equipamento, com no mínimo 6 GB de memória gráfica dedicada GDDR6, dotada de mecanismo
+
+--- [pag. PDF 16] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 16 de 36
+de correção de erros ECC. Não será computada memória RAM compartilhada ou alocada dinamicamente como
+memória gráfica dedicada.
+5.3.6.2 - A controladora gráfica deverá suportar resolução mínima de 4096 x 2160 pixels a 120 Hz em pelo
+menos uma saída digital. Será admitido Display Stream Compression (DSC) quando previsto no padrão da
+interface e oficialmente suportado.
+5.3.6.3 - A controladora gráfica deverá possuir largura de banda nominal da memória gráfica dedicada de, no
+mínimo, 192 GB/s. Não serão considerados ganhos estimados decorrentes de cache, compressão de dados,
+memória compartilhada ou métricas comerciais de largura de banda efetiva.
+5.3.6.4 - A controladora gráfica deverá possuir interface física de memória de, no mínimo, 128 bits,
+correspondente à memória GDDR6 dedicada instalada. Cache, compressão ou memória compartilhada não
+serão aceitos como equivalentes a largura física.
+5.3.6.5 - A controladora gráfica deverá apresentar desempenho teórico de precisão simples (FP32) de, no
+mínimo, 8 TFLOPS, conforme documentação oficial do fabricante, e suportar aceleração de processamento
+paralelo por API compatível com as cargas de trabalho da Administração.
+5.3.6.6 - A controladora gráfica dedicada deverá possuir, no mínimo, quatro saídas digitais físicas DisplayPort
+ou HDMI, capazes de operar simultaneamente com imagens independentes em resolução mínima de 4096 x
+2160 pixels a 120 Hz em cada saída, admitido DSC. Serão aceitas saídas Mini DisplayPort desde que sejam
+fornecidos quatro adaptadores compatíveis para DisplayPort convencional, homologados ou recomendados e
+capazes de preservar a resolução e a frequência. Não serão contabilizadas saídas da placa-mãe, controladora
+integrada, replicadores, hubs, divisores ou estações de acoplamento.
+5.3.6.7 - A controladora gráfica deverá ser compatível com DirectX 12 e OpenGL 4.5 ou superior, com drivers
+oficiais para o sistema operacional fornecido.
+5.3.6.8 - Interfaces, drivers, cabos e adaptadores oficialmente homologados deverão ser integralmente
+compatíveis com os monitores e com o sistema operacional ofertados, sem redução da resolução, frequência
+ou operação simultânea exigidas.
+5.3.7 - Áudio
+5.3.7.1 - A controladora de áudio deverá ser integrada à placa-mãe, sem dispositivo externo, adaptador, placa
+adicional ou interface USB instalada exclusivamente para atender ao requisito. Deverá possuir drivers oficiais
+compatíveis com o sistema operacional.
+5.3.7.2 - A controladora deverá ser compatível com High Definition Áudio Codec, ou tecnologia equivalente ou
+superior, e possuir drivers oficiais compatíveis com o sistema operacional fornecido.
+5.3.7.3 - O gabinete deverá possuir pelo menos um alto-falante integrado, com potência nominal ou média
+mínima de 1 W, apto à reprodução de áudio do sistema e das aplicações. Sinalizador sonoro utilizado
+exclusivamente para diagnóstico não será aceito.
+5.3.7.4 - Caixas de som externas, soundbar, alto-falantes do monitor ou dispositivos USB não poderão ser
+utilizados para atender ao requisito de alto-falante integrado. A vedação não impedirá o uso posterior de
+headset ou dispositivo de áudio autorizado pela Administração.
+5.3.8 - Interfaces de rede e conectividade
+5.3.8.1 - O equipamento deverá possuir interface interna Wi-Fi 6E ou superior, compatível com IEEE 802.11ax
+ou padrão posterior retrocompatível, configuração 2 x 2, operação nas faixas de 2,4 GHz, 5 GHz e 6 GHz,
+antenas integradas e drivers oficiais. Não serão aceitos adaptadores USB externos. A interface deverá possuir
+homologação válida da Anatel quando exigível.
+5.3.8.2 - O equipamento deverá possuir interface Ethernet integrada, com conector físico RJ45, operação em
+10/100/1000 Mb/s, detecção e negociação automática de velocidade e full-duplex. Não serão aceitos
+adaptadores externos ou USB. Interface de 2,5 Gb/s ou superior será aceita desde que mantenha
+compatibilidade com 10/100/1000 Mb/s.
+5.3.8.3 - A interface Ethernet deverá suportar Wake-on-LAN (WOL) e inicialização em rede UEFI PXE, no
+mínimo por IPv4, configuráveis no BIOS/UEFI e suportadas por firmwares e drivers oficiais, sem adaptadores
+externos.
+5.3.8.4 - O equipamento deverá possuir Bluetooth 5.3 ou superior, integrado ao equipamento ou ao módulo
+WLAN, com drivers oficiais e homologação Anatel quando aplicável. Não serão aceitos adaptadores USB
+externos. O recurso deverá permitir desativação por BIOS/UEFI, sistema operacional ou política administrativa.
+
+--- [pag. PDF 17] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 17 de 36
+5.3.9 - Portas e conectores
+5.3.9.1 - Todas as portas externas de entrada e saída deverão possuir identificação permanente por nome,
+símbolo ou cor, aplicada originalmente pelo fabricante. Não serão aceitas etiquetas temporárias, marcações
+manuais ou identificações adicionadas exclusivamente para atender ao requisito.
+5.3.9.2 - O equipamento deverá possuir pelo menos um conector físico RJ45 integrado, correspondente à
+interface Ethernet especificada neste Apêndice. Não serão aceitos adaptadores USB, conversores ou módulos
+externos.
+5.3.9.3 - O equipamento deverá possuir pelo menos uma interface frontal ou lateral de áudio de 3,5 mm, do tipo
+combo ou universal, compatível simultaneamente com fone de ouvido e microfone de headset. Portas adicionais
+serão aceitas. Adaptadores USB não poderão atender ao requisito.
+5.3.9.4 - O equipamento deverá possuir, no mínimo, oito portas USB-A externas integradas a configuração
+original. Pelo menos quatro deverão operar a 5 Gb/s ou mais, e pelo menos duas USB-A deverão estar na parte
+frontal. Hubs, divisores, estações de acoplamento ou adaptadores externos não poderão compor o quantitativo.
+5.3.9.5 - O equipamento deverá possuir, no mínimo, uma porta USB-C externa integrada à configuração
+original, com transferência de dados à velocidade mínima de 10 Gb/s. A porta não poderá ser destinada
+exclusivamente ao carregamento. Serão aceitas USB4 ou Thunderbolt compatíveis como superiores. Hubs e
+adaptadores externos não poderão atender ao requisito.
+5.3.9.6 - O gabinete deverá possuir encaixe original e integrado para cabo ou trava de segurança padronizada,
+ou solução equivalente oficialmente homologada, sem adaptações. A licitante deverá identificar o padrão
+utilizado. Cabo e trava somente serão incluídos se previstos separadamente.
+5.3.10 - Integração da plataforma e responsabilidade
+5.3.10.1 - O microcomputador deverá constituir produto corporativo completo, de uma única marca, modelo e
+número de série, com suporte centralizado. Gabinete, placa-mãe, BIOS/UEFI, fonte, refrigeração e peças
+estruturais deverão integrar a configuração original ou opções oficialmente homologadas. Componentes
+OEM/ODM serão aceitos quando integrados ou homologados de fábrica e cobertos pela mesma garantia.
+Memória, SSD, WLAN e GPU deverão ser novos, compatíveis, homologados para a configuração e
+integralmente cobertos pela garantia. A contratada responderá pela solução completa, sem transferir
+responsabilidade a fabricantes de componentes.
+5.3.10.2 - Todos os equipamentos Tipo II deverão manter padrão técnico e operacional homogêneo e, em cada
+lote, utilizar a mesma marca, modelo e configuração homologada. Alteração por descontinuação, revisão fabril
+ou indisponibilidade superveniente dependerá de comprovação documental, aprovação previa da fiscalização
+e equivalência ou superioridade requisito por requisito, sem redução de desempenho, garantia, segurança,
+compatibilidade ou suporte.
+5.3.10.3 - A documentação técnica deverá identificar inequivocamente o equipamento e os componentes
+relevantes. Serão admitidos datasheet, manual, página oficial, ficha técnica, declaração do fabricante, relatório
+de conformidade ou documento oficial equivalente. Informação preexistente poderá ser objeto de diligência,
+desde que não implique troca do modelo ou criação posterior de característica material.
+5.3.10.4 - Todos os cabos, conectores, acessórios, componentes, firmwares, drivers, utilitários, consoles,
+adaptadores e licenças necessários ao funcionamento, gerenciamento, segurança, instalação e comprovação
+da solução deverão ser fornecidos sem custo adicional, observadas as limitações quantitativas expressamente
+previstas.
+5.3.11 - Gabinete
+5.3.11.1 - O gabinete deverá integrar o projeto original do modelo ofertado, possuir identificação permanente
+da mesma marca do equipamento e ser fabricado, fornecido ou oficialmente homologado pelo fabricante
+responsável pela plataforma, garantia e suporte. Será admitida fabricação OEM/ODM quando compuser a
+configuração oficial e estiver integralmente coberta pela garantia. Não serão aceitos gabinetes genéricos de
+varejo, remarcações pela licitante, adaptações posteriores ou componentes sem rastreabilidade.
+5.3.11.2 - A tampa do gabinete deverá permitir abertura sem ferramentas por mecanismo original de fábrica.
+Memória, armazenamento e slots deverão ser acessíveis sem desmontagem da placa-mãe. Será admitido uso
+de ferramenta para parafusos de M.2, placa-mãe, fonte ou componentes cujo manual oficial assim determine,
+inclusive parafusos cativos ou de aperto manual de fábrica. Não serão aceitas adaptações posteriores.
+
+--- [pag. PDF 18] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 18 de 36
+5.3.11.3 - O gabinete deverá possuir formato corporativo Small Form Factor (SFF) ou Torre, conforme
+denominação oficial do fabricante, e ser integralmente compatível com GPU dedicada, fonte, refrigeração e
+demais componentes. Todos os equipamentos Tipo II deverão ser entregues com o mesmo modelo e formato.
+Não serão aceitos gabinetes montados ou adaptados posteriormente.
+5.3.11.4 - O equipamento deverá possuir mecanismo visual frontal, por LED, botão iluminado ou tecnologia
+equivalente, capaz de apresentar códigos de diagnóstico durante o POST ou antes da inicialização para falhas
+de processador, placa-mãe ou chipset, BIOS/UEFI, memória, alimentação e vídeo, quando aplicável. O
+armazenamento poderá ser diagnosticado pelo mesmo mecanismo ou por ferramenta oficial de pré-
+inicialização. Não será exigido LED individual. Os códigos deverão constar em documentação oficial.
+5.3.11.5 - O gabinete deverá possuir acabamento original predominantemente preto, cinza ou combinação
+dessas cores, mantendo o mesmo padrão visual em todos os equipamentos Tipo II. Não serão aceitos pintura
+posterior, película, envelopamento ou adesivos destinados a alterar a cor original, ressalvadas etiquetas
+patrimoniais e institucionais.
+5.3.11.6 - O acabamento deverá ser original, uniforme, durável e de baixo brilho, resistente ao uso, limpeza e
+transporte habituais. Partes metálicas deverão possuir tratamento anticorrosivo. Não serão aceitos
+descascamento, oxidação, rebarbas ou arestas cortantes. A proteção contra descargas eletrostáticas deverá
+decorrer do projeto elétrico e de compatibilidade eletromagnética, não apenas da pintura.
+5.3.11.7 - O gabinete deverá possuir botão frontal de alimentação com iluminação própria ou indicador luminoso
+adjacente, capaz de informar os estados ligado, desligado e suspensão. O mesmo mecanismo poderá
+apresentar os códigos de diagnóstico.
+5.4 - Requisitos complementares do Microcomputador Corporativo Tipo II
+5.4.1 - O equipamento deverá ser fornecido com sensor eletrônico de abertura ou intrusão do gabinete,
+integrado ao projeto original ou oficialmente homologado pelo fabricante para o modelo, instalado, conectado e
+habilitado. O mecanismo deverá detectar a abertura ou remoção da tampa, registrar ou preservar indicação
+persistente após o fechamento, permitir associação ao número de série e consulta e coleta central, em
+conformidade com a seção Rastreabilidade, Integridade Física e Linha de Base deste Apêndice. Lacres,
+etiquetas, selos e demais controles físicos poderão complementar a proteção, mas não substituirão o sensor
+eletrônico.
+5.4.2 - Fonte de alimentação
+5.4.2.1 - A fonte deverá possuir correção ativa do fator de potência, denominada Active PFC, ou tecnologia
+tecnicamente equivalente, integrada ao projeto original. Não será aceita solução externa ou adicionada
+posteriormente.
+5.4.2.2 - A fonte deverá possuir potência nominal contínua mínima de 280 W e estar oficialmente dimensionada
+para a configuração completa, incluindo processador, GPU dedicada, armazenamento, memória e expansões
+previstas. Quando 280 W forem insuficientes, deverá ser fornecida fonte de maior potência sem custo adicional.
+Não serão aceitos valores de pico, temporários ou estimados sem documentação oficial.
+5.4.2.3 - A fonte deverá possuir entrada de 100 a 240 VCA, 50 a 60 Hz, seleção automática e proteções contra
+sobrecorrente (OCP), sobretensão (OVP), curto-circuito (SCP), subtensão (UVP) e sobreaquecimento (OTP),
+ou conjunto funcionalmente equivalente oficialmente documentado para o modelo.
+5.4.2.4 - A fonte interna não redundante deverá possuir certificação 80 PLUS Platinum ou superior,
+correspondente à tensão de ensaio aplicável e vinculada ao modelo e à potência exatos. Será aceita
+comprovação equivalente por relatório de laboratório ISO/IEC 17025 que demonstre os mesmos patamares
+objetivos de eficiência e fator de potência. Certificado de família, modelo ou potência diferente não será aceito
+isoladamente.
+5.4.2.5 - O equipamento deverá ser acompanhado de cabo de alimentação novo, tripolar, com capacidade
+compatível com a fonte e plugue 2P+T conforme a ABNT NBR 14136, com certificação ou conformidade do
+Inmetro quando aplicável. Não serão aceitos adaptadores, conversores, emendas ou cabos reutilizados.
+5.4.3 - Monitor
+5.4.3.1 - Deverá ser fornecido um monitor por computador Tipo II, com tela de, no mínimo, 21 polegadas e
+conexão compatível com a GPU ofertada. O monitor deverá ser, preferencialmente, da mesma marca comercial
+do computador, admitida marca distinta nos termos do item 2.15.
+
+--- [pag. PDF 19] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 19 de 36
+5.4.3.2 - O monitor deverá possuir resolução nativa mínima de 1920 x 1080 pixels (Full HD), frequência mínima
+de 60 Hz e formato widescreen 16:9. Relação de aspecto equivalente ou superior será aceita quando mantiver
+integralmente resolução, área útil e compatibilidade exigidas.
+5.4.3.3 - O monitor deverá possuir ângulo de visualização mínimo de 178 graus na horizontal e 178 graus na
+vertical, ou especificação oficialmente declarada como equivalente ou superior, sem inversão relevante de cores
+ou perda que inviabilize a visualização normal.
+5.4.3.4 - O monitor deverá possuir relação de contraste estático ou nativo mínima de 1.000:1. Valores de
+contraste dinâmico, aprimorado por software ou denominações comerciais equivalentes não poderão substituir
+o contraste estático exigido.
+5.4.3.5 - O monitor deverá possuir tempo de resposta nominal máximo de 5 ms, medido em cinza a cinza (GtG)
+ou metodologia técnica equivalente declarada pelo fabricante. A documentação deverá identificar o modo
+utilizado; não serão aceitos valores obtidos exclusivamente por interpolação de software.
+5.4.3.6 - O monitor deverá possuir, no mínimo, uma entrada DisplayPort e uma entrada HDMI nativas e
+plenamente funcionais. Entrada VGA poderá ser oferecida adicionalmente, sem caráter obrigatório. As
+interfaces deverão ser compatíveis com GPU, cabos e adaptadores fornecidos, sem redução da resolução ou
+frequência exigidas.
+5.4.3.7 - A obrigação de fornecimento de adaptadores ativos HDMI para VGA observará integralmente a regra
+transversal do item 2.14 deste Apêndice, inclusive quanto à solicitação formal, ao quantitativo, à
+compatibilidade, à garantia, ao suporte e à vedação de utilização para compor as interfaces nativas mínimas
+exigidas.
+5.4.3.8 - Cada monitor deverá ser acompanhado de todos os cabos novos necessários ao funcionamento,
+incluindo cabo de alimentação conforme o padrão brasileiro e pelo menos um cabo digital compatível com a
+GPU. Cabos e adaptadores deverão preservar resolução e frequência e permanecer cobertos pela garantia.
+Não haverá cobrança adicional pelos itens necessários a instalação inicial.
+5.4.4 - Teclado
+5.4.4.1 - O teclado deverá ser novo, de linha ativa, possuir fabricante, modelo e código de peça identificáveis e
+compatibilidade integral. Deverá ser, preferencialmente, da mesma marca comercial do computador, admitida
+marca distinta segundo os critérios do item 2.15. Produto oficialmente fornecido ou fabricado em regime
+OEM/ODM deverá constar em catálogo, documentação ou relação oficial de acessórios compatíveis e
+permanecer coberto pela garantia e pelo suporte da solução PCaaS. Não serão aceitos produtos genéricos ou
+remarcações pela licitante.
+5.4.4.2 - O teclado deverá possuir layout físico nativo Português do Brasil ABNT2, QWERTY, com tecla Cedilha,
+acentuação e caracteres próprios do idioma. As legendas deverão ser originais de fábrica, permanentes e
+legíveis. Não serão aceitos adesivos, sobreposições ou adaptações de teclado estrangeiro. Não será fixada
+quantidade exata de teclas.
+5.4.4.3 - O teclado deverá possuir conexão com fio, cabo integrado e conector USB-A nativo, compatível com
+USB 2.0 ou superior, Plug and Play e sem necessidade de driver não oficial. Não serão aceitos adaptadores,
+conversores, extensores, hubs, PS/2 ou receptor sem fio.
+5.4.4.4 - O teclado deverá possuir mecanismo original para utilização em posição normal e elevada, com
+estabilidade, resistência para uso corporativo e pontos de apoio antiderrapantes. Não serão aceitos suportes
+externos ou adaptações.
+5.4.4.5 - O teclado deverá possuir bloco numérico físico dedicado e integrado, com teclas numéricas, operações
+aritméticas, Enter e Num Lock, além de indicação visual do estado do Num Lock. Não serão aceitos bloco
+virtual, sobreposição por função ou dispositivo numérico externo.
+5.4.4.6 - O teclado deverá possuir projeto resistente a derramamentos acidentais, por membrana, canais de
+drenagem ou tecnologia equivalente original de fábrica, comprovada por documentação oficial. O requisito não
+implica resistência a imersão, lavagem ou exposição contínua e não poderá ser atendido por capa, película ou
+proteção externa.
+5.4.4.7 - O teclado deverá possuir acabamento original predominantemente preto, cinza-escuro ou combinação
+dessas cores, compatível com o gabinete. Todos os teclados Tipo II deverão manter o mesmo padrão visual.
+Não serão aceitas pintura, película, envelopamento ou adesivos decorativos posteriores.
+
+--- [pag. PDF 20] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 20 de 36
+5.4.5 - Mouse
+5.4.5.1 - O mouse deverá ser novo, de linha ativa, possuir fabricante, modelo e código de peça identificáveis e
+compatibilidade integral. Deverá ser, preferencialmente, da mesma marca comercial do computador, admitida
+marca distinta segundo os critérios do item 2.15. Produto oficialmente fornecido ou fabricado em regime
+OEM/ODM deverá constar em catálogo, documentação ou relação oficial de acessórios compatíveis e
+permanecer coberto pela garantia e pelo suporte da solução PCaaS. Não serão aceitos produtos genéricos ou
+remarcações pela licitante.
+5.4.5.2 - O mouse deverá possuir sensor óptico com resolução nativa mínima de 1.200 DPI. Caso possua
+resolução ajustável, pelo menos uma configuração deverá atingir esse patamar. Não será aceito atendimento
+exclusivamente por interpolação de software.
+5.4.5.3 - O mouse deverá possuir conexão com fio, cabo integrado e conector USB-A nativo, compatível com
+USB 2.0 ou superior, Plug and Play e sem necessidade de driver não oficial. Não serão aceitos adaptadores,
+conversores, extensores, hubs, PS/2 ou receptor sem fio.
+5.4.5.4 - O mouse deverá possuir acabamento original predominantemente preto, cinza-escuro ou combinação
+dessas cores, compatível com gabinete e teclado. Todos os mouses Tipo II deverão manter o mesmo padrão
+visual. Não serão aceitas alterações posteriores de cor.
+5.4.5.5 - O mouse deverá possuir conformação ambidestra, botões esquerdo e direito e botão central com
+função de rolagem. Cada unidade deverá ser acompanhada de mouse pad adequado ao sensor óptico, novo e
+sem custo adicional.
+5.4.6 - Sistema operacional, aplicativos e suporte corporativo
+5.4.6.1 - O equipamento deverá ser entregue com Microsoft Windows 11 Professional de 64 bits, ou versão
+posterior oficialmente compatível, original, licenciado por dispositivo e ativado ou apto à ativação por
+mecanismo oficial. Serão admitidos OA3, licenciamento por volume ou modalidade oficial equivalente, desde
+que exista direito de disponibilização no modelo PCaaS. A contratada fornecerá meios oficiais de reinstalação
+e recuperação.
+5.4.6.2 - O fabricante deverá manter portal oficial para o modelo e número de série, com BIOS, firmware,
+drivers, utilitários, detecção e atualização, diagnósticos no sistema operacional e em pré-inicialização, consulta
+de configuração, garantia e suporte. Os recursos deverão permanecer disponíveis durante toda a vigência do
+PCaaS, com atualização controlada e autorizada pela Administração.
+5.4.6.3 - Todos os componentes e recursos deverão ser oficialmente suportados no Windows 11 Professional
+de 64 bits, sem dispositivos desconhecidos, drivers improvisados ou perda de funcionalidade após instalação
+da imagem corporativa.
+5.4.6.4 - O equipamento deverá ser fornecido com Microsoft Office LTSC 2024, em edição oficial que contenha
+no mínimo Word, Excel, PowerPoint e Outlook, ou versão perpétua posterior equivalente, instalada localmente,
+em 64 bits e Português do Brasil. O licenciamento será por dispositivo e deverá ser compatível com o PCaaS.
+5.4.6.5 - Antes do recebimento definitivo, a contratada deverá comprovar autenticidade, quantidade, edição,
+modalidade, perpetuidade, vínculo por dispositivo e direito de disponibilização no PCaaS, inclusive Rental
+Rights ou direito oficial equivalente quando aplicável. Serão aceitos instrumentos oficiais de licenciamento,
+confirmação de pedido, extrato de portal, nota fiscal vinculada ao programa ou declaração da Microsoft ou
+parceiro autorizado. Mera ativação, chave, captura de tela, etiqueta ou declaração unilateral não serão aceitas
+isoladamente. Licença irregular ou insuficiente deverá ser regularizada ou substituída sem custo.
+5.4.6.6 - A suíte deverá possuir licença comercial perpétua, instalada localmente e atribuída ao dispositivo. Não
+serão aceitos Microsoft 365 Apps, assinatura mensal ou anual, licença exclusivamente vinculada a usuário,
+edição doméstica, educacional, temporária, de avaliação, uso apenas via web ou compartilhamento acima da
+quantidade permitida. A substituição do equipamento deverá incluir regularização, reatribuição ou nova licença
+sem custo e sem interrupção.
+5.4.6.7 - O fabricante deverá disponibilizar recursos corporativos para implantação, atualização e manutenção
+no Microsoft Configuration Manager: pacote consolidado oficial de drivers Windows 11 x64 para o modelo ou
+família; drivers para Windows PE quando aplicáveis; catálogo oficial assinado ou integração oficial equivalente
+para drivers, BIOS, firmware e utilitários; e método oficial de instalação silenciosa, identificação do modelo e
+geração de logs. Licenças necessárias deverão ser fornecidas sem custo adicional. Não serão aceitos
+repositórios não oficiais ou pacotes produzidos exclusivamente pela licitante.
+
+--- [pag. PDF 21] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 21 de 36
+5.4.7 - Certificações, sustentabilidade e conformidade
+5.4.7.1 - O microcomputador deverá atender à especificação ENERGY STAR para computadores vigente na
+data de publicação do edital. A comprovação ocorrerá por registro do modelo, família ou configuração no
+ENERGY STAR Product Finder ou por relatório do modelo ofertado emitido por laboratório ISO/IEC 17025
+acreditado pela Cgcre/Inmetro ou reconhecido pelo ILAC. Certificado genérico do fabricante ou de outro modelo
+não será aceito.
+5.4.7.2 - O microcomputador deverá possuir, para a categoria Desktop, uma das seguintes comprovações
+ambientais, não cumulativas: 1. registro EPEAT Gold ativo e válido para o Brasil; 2. certificação TCO Certified
+ativa e aplicável à categoria Desktop; ou 3. certificação ambiental Tipo I baseada na ISO 14024, emitida ou
+verificada por terceira parte independente e acompanhada de matriz de equivalência.
+5.4.7.3 - O microcomputador completo, incluindo a fonte, deverá atender à IEC 62368-1 ou adoção nacional ou
+regional equivalente, como ABNT NBR IEC 62368-1, EN IEC 62368-1 ou UL 62368-1. Será aceita edição
+vigente ou reconhecida pelo esquema de avaliação na emissão. A comprovação ocorrerá por IECEE CB
+Scheme, organismo ISO/IEC 17065 ou laboratório ISO/IEC 17025.
+5.4.7.4 - A emissão sonora deverá ser medida conforme ISO 7779 e declarada conforme ISO 9296. Em estado
+ocioso, LWA,d deverá ser de até 4,0 bels e LpA,m de até 30 dB(A) na posição do operador. Em operação no
+modo de ensaio aplicável, LWA,d deverá ser de até 5,0 bels e LpA,m de até 40 dB(A). A comprovação
+identificará modelo, configuração, estados, valores e normas; expressões genéricas de baixo ruído não serão
+suficientes.
+5.4.7.5 - Microcomputador e periféricos deverão cumprir a Diretiva RoHS 2011/65/UE, suas alterações e versão
+consolidada aplicável, incluindo a Diretiva 2015/863. Os limites serão 0,1% para chumbo, mercúrio, cromo
+hexavalente, PBB, PBDE, DEHP, BBP, DBP e DIBP e 0,01% para cádmio. A comprovação poderá ocorrer por
+declaração oficial do fabricante, documentação IEC 63000, relatório ISO/IEC 17025 ou certificação
+independente. Exceções normativas deverão ser identificadas, e peças de reposição manterão a conformidade.
+5.4.7.6 - O modelo ou família deverá constar na Windows Compatible Products List da Microsoft, com
+certificação para Windows 11 de 64 bits. A comprovação será o Verification Report oficial, com fabricante,
+produto, sistema, tipo e identificação da certificação. Certificação de família exigirá demonstração oficial da
+correspondência. Não serão aceitos isoladamente declaração da licitante, captura sem verificação, ativação do
+Windows ou parceria comercial com a Microsoft.
+5.4.7.7 - O equipamento deverá implementar os padrões DMTF aplicáveis aos recursos de identificação,
+inventário e gerenciamento de hardware exigidos neste Apêndice, especialmente o padrão SMBIOS,
+independentemente de o fabricante possuir filiação à DMTF.
+A implementação deverá permitir identificar, no mínimo:
+1. Fabricante e modelo do equipamento;
+2. Número de série e identificador patrimonial, quando suportado;
+3. Fabricante, modelo e versão da placa-mãe;
+4. Versão e data da BIOS/UEFI;
+5. Modelo do processador;
+6. Quantidade, capacidade e disposição dos módulos de memória;
+7. Identificação e capacidade das unidades de armazenamento.
+A comprovação ocorrerá mediante uma das seguintes alternativas, não cumulativas:
+1. Filiação empresarial ativa do fabricante à DMTF nas categorias Board, Leadership ou Participation,
+acompanhada de documentação oficial do modelo e demonstração funcional dos recursos exigidos; ou
+2. Documentação técnica oficial do fabricante, relatório técnico independente, consulta executada no
+equipamento, inspeção ou amostra que demonstre a implementação funcional dos padrões e campos
+de inventário exigidos.
+Quando a filiação estiver registrada em nome de controladora, grupo econômico ou entidade jurídica
+diferente, deverá ser apresentada comprovação oficial de que a entidade fabricante está abrangida. Na
+ausência dessa comprovação, será utilizada a segunda alternativa de comprovação acima descrita,
+baseada em documentação técnica oficial, relatório técnico independente, consulta executada no
+equipamento, inspeção ou amostra.
+
+--- [pag. PDF 22] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 22 de 36
+A filiação à DMTF, isoladamente, não comprovará a conformidade do equipamento. Durante a inspeção,
+a Administração poderá verificar as informações por meio da BIOS/UEFI, sistema operacional,
+ferramenta de inventário ou console de gerenciamento. Havendo divergência entre a filiação
+apresentada e o funcionamento efetivo, prevalecerá o resultado da verificação funcional.
+Não será exigida tecnologia proprietária, marca específica ou participação em categoria determinada
+da DMTF, desde que os requisitos funcionais e de comprovação sejam integralmente atendidos.
+5.4.7.8 - O fabricante dos equipamentos deverá demonstrar a existência de práticas estruturadas de
+sustentabilidade corporativa mediante um dos seguintes meios de comprovação, não cumulativos:
+1. Medalha EcoVadis Silver, Gold ou Platinum, válida na data da apresentação da proposta;
+2. Avaliação ESG equivalente, emitida por entidade independente e especializada, com metodologia
+pública, documentada, rastreável e passível de auditoria; ou
+3. Conjunto documental corporativo auditável que demonstre políticas, responsabilidades, governança,
+metas, indicadores e resultados nas dimensões exigidas, acompanhado de matriz de correspondência
+e sujeito à diligência da Administração.
+Para aceitação das alternativas 2 e 3, a comprovação deverá:
+1. Abranger, no mínimo, meio ambiente, práticas trabalhistas e direitos humanos, ética e integridade e
+compras sustentáveis;
+2. Identificar a entidade avaliada e demonstrar que alcança o fabricante ou o grupo econômico controlador,
+desde que a entidade fabricante esteja expressamente incluída no escopo;
+3. Apresentar metodologia, políticas, governança, metas, indicadores, resultados ou controles
+materialmente relacionados às quatro dimensões;
+4. Quando a metodologia utilizar classificação qualitativa, não apresentar classificação crítica ou
+insuficiente nas quatro dimensões, sem exigência de posição em percentil, ranking ou nos dois níveis
+superiores;
+5. Estar vigente ou ter sido emitida há, no máximo, 12 meses, quando se tratar de avaliação sem prazo
+de validade expresso; no caso de documentação corporativa, deverá corresponder ao último período
+de relato encerrado e conter políticas vigentes;
+6. Permitir verificação de autenticidade por endereço eletrônico oficial, código de validação, assinatura,
+publicação corporativa ou confirmação da entidade emissora;
+7. Ser acompanhada de matriz de correspondência demonstrando o atendimento às quatro dimensões
+exigidas.
+Não será exigido que a avaliação ou o conjunto documental equivalente utilize a mesma nomenclatura,
+pontuação, plataforma, percentil ou metodologia da EcoVadis. A EcoVadis constitui meio alternativo de
+comprovação, não certificação exclusiva ou obrigatória.
+5.4.7.9 - Quando o equipamento for fabricado ou montado no Brasil por estabelecimento enquadrado, o
+fabricante ou montador deverá possuir CTF/APP ativo na atividade 5-2 e Certificado de Regularidade do Ibama
+válido e autenticável. Para produto fabricado no exterior, não será exigido CTF/APP do fabricante estrangeiro;
+deverão ser identificados origem, importador ou responsável no Brasil e as obrigações ambientais aplicáveis.
+A contratada apresentará declaração de aplicabilidade, e o certificado deverá ser atualizado durante entrega e
+recebimento enquanto aplicável.
+5.4.7.10 - A certificação deverá corresponder ao modelo ou à família ofertada. Quando emitida para uma
+família, a licitante deverá demonstrar, por documentação oficial, que a configuração proposta está efetivamente
+abrangida. A equivalência deverá contemplar, no mínimo, eficiência energética, controle de substâncias
+perigosas, durabilidade, reparabilidade, materiais, reciclagem, embalagem e responsabilidade ambiental da
+cadeia produtiva. A comprovação será individualizada por categoria: a certificação do microcomputador não
+abrangerá automaticamente monitor, teclado, mouse ou demais periféricos. Não será exigida a apresentação
+simultânea de EPEAT Gold, TCO Certified e certificação equivalente.
+5.5 - Notebook Corporativo
+5.5.1 - Processador
+5.5.1.1 - O processador deverá ser desenvolvido para plataforma móvel, não sendo aceito processador
+destinado a desktop ou servidor adaptado ao notebook.
+
+--- [pag. PDF 23] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 23 de 36
+5.5.1.2 - O processador deverá possuir arquitetura x86-64, suportar processamento multithread e ser
+oficialmente compatível com o equipamento e com o Microsoft Windows 11 Professional de 64 bits.
+5.5.1.3 - O sistema de dissipação térmica deverá integrar o projeto original ou ser oficialmente homologado
+para o modelo, possuir controle automático e manter o processador dentro das faixas térmicas do fabricante
+durante operação contínua de até 10 horas diárias, sem adaptações ou redução de desempenho que viole os
+requisitos contratados.
+5.5.1.4 - O processador deverá alcançar índice mínimo de 14.700 pontos no PassMark CPU Mark, sem
+overclock ou ajuste fora das condições homologadas pelo fabricante, tendo como referência
+http://www.cpubenchmark.net. A Administração registrará o modelo exato, a URL, a data e o horário da
+consulta; modelos comparados na mesma rodada serão consultados na mesma data. Turbo ou boost
+automático dentro dos limites oficiais não caracteriza overclock. Benchmark público alternativo somente será
+aceito mediante memória técnica reproduzível que demonstre equivalência ou superioridade.
+5.5.1.5 - O processador deverá possuir, no mínimo, 12 MB de memória cache total, considerada a soma das
+caches L2 e L3 informadas oficialmente, excluída a cache L1 e vedada a contagem repetida de cache
+compartilhada.
+5.5.1.6 - O processador deverá integrar plataforma móvel corporativa em linha de fabricação e comercialização
+na data da apresentação da proposta e não estar formalmente descontinuado pelo fabricante. O processador
+e o modelo de notebook ofertado deverão possuir documentação oficial, portal de suporte e disponibilidade de
+BIOS/UEFI, firmware, drivers, microcódigo e correções de segurança aplicáveis à plataforma. A data de
+lançamento do processador, isoladamente, não constituirá critério eliminatório. Permanecem obrigatórios os
+requisitos de desempenho, cache, compatibilidade e processamento multithread previstos nesta seção. A
+comprovação ocorrerá por página oficial, documentação do produto, portal de suporte, aviso de ciclo de vida
+ou declaração oficial equivalente do fabricante.
+5.5.2 - Memória RAM
+5.5.2.1 - O notebook deverá ser fornecido em uma das seguintes configurações de memória, não cumulativas:
+I - configuração modular: mínimo de 16 GB de memória RAM DDR5, instalados em um módulo de 16 GB,
+observados os requisitos de slots, velocidade e expansão dos subitens seguintes; ou II - configuração integrada:
+mínimo de 32 GB de memória LPDDR5, LPDDR5x ou tecnologia posterior, instalados de fábrica, operando em
+arquitetura de múltiplos canais oficialmente suportada pelo fabricante.
+5.5.2.2 - Na configuração modular, a plataforma deverá possuir, no mínimo, dois slots físicos SO-DIMM DDR5
+oficialmente suportados, permanecendo pelo menos um slot livre na configuração entregue. Não serão aceitos
+adaptadores para atingir a quantidade mínima. Na configuração integrada prevista no inciso II do item 5.5.2.1,
+não será exigida a existência de slot físico.
+5.5.2.3 - Na configuração modular, a memória instalada deverá operar a 4.800 MT/s ou velocidade superior. Na
+configuração integrada, a memória deverá possuir taxa efetiva oficialmente suportada igual ou superior a 4.800
+MT/s. Em ambas as rotas, não serão admitidos overclock ou configuração fora dos limites homologados pelo
+fabricante.
+5.5.2.4 - A configuração modular deverá permitir expansão total para, no mínimo, 32 GB mediante adição de
+módulo compatível no slot livre, sem substituição do módulo inicialmente fornecido, e deverá ativar operação
+em dual channel quando instalados módulos compatíveis. A configuração integrada estará dispensada de
+expansão posterior e de slot físico por ser entregue, desde a origem, com no mínimo 32 GB e arquitetura de
+múltiplos canais.
+5.5.3 - Placa principal, BIOS/UEFI e gerenciamento remoto
+5.5.3.1 - A placa principal deverá integrar o projeto original do modelo ofertado e ser fabricada, fornecida ou
+oficialmente homologada pelo fabricante responsável pelo equipamento, BIOS/UEFI, garantia e suporte. Serão
+admitidos projetos próprios ou fabricação OEM/ODM documentada. Não serão aceitas placas de varejo
+adaptadas, genéricas, remarcadas pela licitante ou sem rastreabilidade técnica.
+5.5.3.2 - Atualizações, correções de segurança e avisos do BIOS/UEFI deverão estar disponíveis em portal
+oficial, com identificação do modelo, versão, data, notas de versão e mecanismo de verificação de autenticidade
+e integridade. A aplicação pela contratada dependerá de autorização e programação da Administração.
+5.5.3.3 - O BIOS/UEFI deverá permitir credenciais independentes para inicialização e para acesso
+administrativo às configurações, com definição, alteração, recuperação e restauração controladas. Não serão
+aceitas credenciais administrativas imutáveis ou mantidas no padrão de fábrica.
+
+--- [pag. PDF 24] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 24 de 36
+5.5.3.4 - Deverão ser registrados e consultáveis por SMBIOS/DMI, ou mecanismo equivalente, fabricante
+responsável, modelo exato, número de série único, UUID e campo de patrimônio, em correspondência com a
+identificação física e preservados após reinstalação do sistema operacional.
+5.5.3.5 - O inventário de placa principal, processador, memória, armazenamento, interfaces de rede e firmware
+deverá permanecer em repositório persistente e ser consultável localmente e pela solução de gerenciamento
+remoto, inclusive quando o sistema operacional estiver indisponível.
+5.5.3.6 - O equipamento deverá possuir TPM 2.0 habilitado e reconhecido pelo sistema operacional,
+implementado em hardware por componente discreto soldado à placa principal ou integrado ao chipset ou SoC.
+Não serão aceitas implementações exclusivamente por firmware, módulos removíveis, dispositivos externos ou
+adaptadores.
+5.5.3.7 - O equipamento deverá utilizar UEFI em modo nativo, compatível com Windows 11 Professional,
+Secure Boot e firmware assinado, homologado e suportado pelo fabricante. Não será exigido desenvolvimento
+exclusivo do código-base nem categoria específica de filiação ao UEFI Forum.
+5.5.3.8 - A inicialização por dispositivo USB deverá ser suportada e administrativamente controlável, sem
+impedir a ativação de Secure Boot e das políticas de segurança definidas pela Administração.
+5.5.3.9 - A solução deverá permitir sanitização das unidades independentemente do sistema operacional, por
+firmware, menu de inicialização ou ambiente inicializável confiável e oficialmente suportado, em conformidade
+com a NIST SP 800-88 Rev. 2 ou referência superveniente reconhecida. O procedimento deverá gerar evidência
+e Certificado de Sanitização individualizado.
+5.5.3.10 - A plataforma, considerada a combinação de processador, chipset, firmware/BIOS e interfaces de
+rede, deverá suportar gerenciamento remoto Out-of-Band baseado em hardware, inclusive por rede sem fio
+mediante interface compatível e homologada, independentemente do estado do sistema operacional.
+5.5.3.11 - Por conexão Ethernet, a plataforma deverá permitir acesso remoto a vídeo, teclado e mouse durante
+POST, BIOS/UEFI, inicialização e sistema operacional, com indicação local visível durante sessão interativa e
+registro auditável da atividade.
+5.5.3.12 - A plataforma deverá permitir, por TCP/IP e sem dependência do sistema operacional, ligar, desligar
+e reiniciar o equipamento, consultar inventário e diagnóstico e acessar configurações de hardware durante
+POST.
+5.5.3.13 - A comunicação de gerenciamento remoto deverá ser criptografada, utilizar credenciais
+individualizadas e controle de acesso por função e gerar registros de equipamento, operador, origem, início,
+término, ações e resultado, observados os controles do Apêndice 3.
+5.5.3.14 - As antenas Wi-Fi deverão integrar o projeto original. O equipamento deverá possuir gerenciamento
+automático de energia e refrigeração sem perda de estabilidade ou descumprimento dos requisitos de
+desempenho.
+5.5.3.15 - Não será exigida interface SATA quando o notebook utilizar exclusivamente armazenamento M.2
+NVMe. Havendo interface SATA, ela deverá integrar o projeto original ou ser oficialmente homologada.
+5.5.3.16 - O notebook deverá possuir pelo menos um slot físico M.2 NVMe ocupado pela unidade ofertada. O
+SSD deverá ser removível para manutenção por equipe autorizada, não sendo aceita solução exclusivamente
+soldada à placa principal.
+5.5.4 - Unidade de armazenamento
+5.5.4.1 - O notebook deverá possuir uma unidade interna SSD M.2 NVMe, nova e de primeiro uso, com
+capacidade nominal mínima de 512 GB. Não serão aceitos soma de dispositivos, armazenamento externo,
+cartão ou serviço em nuvem para atingir a capacidade.
+5.5.4.2 - A interface deverá ser PCIe NVMe M.2 3.0 x4 ou superior, sem adaptador utilizado apenas para
+atendimento do requisito.
+5.5.4.3 - A unidade deverá suportar S.M.A.R.T., NVMe Health ou mecanismo equivalente, permitindo consulta
+de integridade, temperatura, vida útil consumida, alertas críticos e falhas registradas.
+5.5.4.4 - A velocidade nominal mínima de leitura sequencial será de 3.200 MB/s, comprovada por
+documentação oficial correspondente ao modelo e à capacidade exata ofertados.
+5.5.4.5 - A velocidade nominal mínima de gravação sequencial será de 2.100 MB/s, comprovada por
+documentação oficial correspondente ao modelo e à capacidade exata ofertados.
+
+--- [pag. PDF 25] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 25 de 36
+5.5.4.6 - Serão aceitas arquiteturas com DRAM própria, Host Memory Buffer ou tecnologia equivalente, desde
+que atendidos desempenho, confiabilidade e monitoramento. Não será exigida cache dedicada específica.
+5.5.5 - Tela, webcam e microfone
+5.5.5.1 - A tela integrada deverá possuir área visível diagonal mínima de 14 polegadas, sendo aceitas
+dimensões superiores.
+5.5.5.2 - A resolução nativa mínima deverá ser 1920 x 1080 pixels, Full HD, formato 16:9 ou superior
+compatível, sem interpolação para atingir o mínimo.
+5.5.5.3 - A superfície deverá possuir tratamento antirreflexo original de fábrica, não sendo aceita película
+aplicada posteriormente.
+5.5.5.4 - O painel deverá utilizar tecnologia IPS ou equivalente ou superior, com ampla visualização e
+preservação de cores adequada ao uso corporativo, e brilho típico ou nominal mínimo de 250 cd/m².
+5.5.5.5 - O notebook deverá possuir webcam integrada ao gabinete, com sensor infravermelho compatível com
+Windows Hello. Não serão aceitas câmeras externas ou adaptações.
+5.5.5.6 - A câmera RGB deverá possuir resolução nativa mínima de 5 MP, sem interpolação por software e sem
+utilização da resolução do sensor infravermelho para compor o valor.
+5.5.5.7 - A câmera deverá possuir obturador físico de privacidade integrado, e o notebook deverá possuir
+microfone integrado compatível com aplicações corporativas de videoconferência.
+5.5.6 - Vídeo e áudio
+5.5.6.1 - A controladora gráfica deverá ser integrada ao processador ou SoC, utilizar memória RAM
+compartilhada e realizar alocação dinâmica. Controladora dedicada adicional será aceita.
+5.5.6.2 - A solução gráfica deverá operar simultaneamente a tela interna e pelo menos um monitor externo,
+ambos em resolução mínima de 1920 x 1080 pixels a 60 Hz ou superior, em modo estendido com imagens
+independentes.
+5.5.6.3 - A controladora deverá ser compatível com DirectX 12 e OpenGL 4.5 ou superior por hardware e drivers
+oficiais, não sendo aceita compatibilidade obtida exclusivamente por emulação.
+5.5.6.4 - A controladora de áudio deverá integrar a placa principal ou o projeto original do notebook, sem
+dispositivo externo instalado apenas para atender ao requisito.
+5.5.6.5 - A solução de áudio deverá ser compatível com High Definition Audio Codec ou tecnologia superior e
+possuir drivers oficiais.
+5.5.6.6 - O notebook deverá possuir alto-falantes estéreos integrados, com potência nominal ou média total
+mínima de 2 W.
+5.5.6.7 - Caixas de som externas, soundbar ou dispositivos USB não poderão atender ao requisito de áudio
+integrado.
+5.5.6.8 - O equipamento deverá possuir pelo menos uma interface de áudio de 3,5 mm do tipo combo ou
+universal, compatível com fone de ouvido e microfone de headset.
+5.5.7 - Rede e portas de comunicação
+5.5.7.1 - O notebook deverá possuir interface interna Wi-Fi 6E ou superior, IEEE 802.11ax, configuração 2 x 2,
+operação em 2,4 GHz, 5 GHz e 6 GHz, antenas integradas e drivers oficiais. Não serão aceitos adaptadores
+USB. A homologação Anatel deverá estar válida quando exigível.
+5.5.7.2 - A interface Ethernet deverá ser nativa e integrada, operar em 10/100/1000 Mb/s com detecção
+automática e full-duplex e possuir conector físico RJ45, sem adaptador externo.
+5.5.7.3 - A interface Ethernet deverá suportar Wake-on-LAN e inicialização UEFI PXE, configuráveis no
+BIOS/UEFI e suportadas por firmware e drivers oficiais. Não será exigido Wake-on-LAN por rede sem fio.
+5.5.7.4 - O equipamento deverá possuir Bluetooth 5.3 ou superior, integrado, com drivers oficiais e
+homologação Anatel quando aplicável. Não serão aceitos adaptadores externos.
+5.5.7.5 - As portas deverão integrar o projeto original do notebook, admitidas placas auxiliares internas originais
+de entrada e saída. Deverão possuir identificação por nome ou símbolo. Não serão aceitos hubs ou adaptadores
+externos para compor os quantitativos mínimos.
+5.5.7.6 - O equipamento deverá possuir uma saída HDMI 2.1 ou superior, nativa, capaz de operar
+simultaneamente com a tela interna em modo duplicado ou estendido.
+
+--- [pag. PDF 26] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 26 de 36
+5.5.7.7 - O equipamento deverá possuir, no mínimo, duas portas USB-A, cada uma com velocidade mínima de
+5 Gb/s.
+5.5.7.8 - O equipamento deverá possuir, no mínimo, duas portas USB-C, cada uma com velocidade máxima
+suportada de 20 Gb/s ou superior, por USB 3.2 Gen 2x2, USB4, Thunderbolt ou tecnologia equivalente. As
+portas deverão ser nativas e não poderão ser constituídas por hub.
+5.5.8 - Dispositivo apontador, teclado e mouse externo
+5.5.8.1 - O notebook deverá possuir dispositivo apontador integrado do tipo touchpad, incorporado ao gabinete.
+5.5.8.2 - O touchpad deverá suportar gestos multitoque, incluindo rolagem com dois dedos e gesto de
+aproximação ou afastamento.
+5.5.8.3 - O touchpad deverá possuir dois botões físicos ou duas zonas de clique integradas e permitir rolagem
+por área dedicada ou função multitoque, sem depender de software não oficial.
+5.5.8.4 - O teclado deverá possuir layout físico nativo Português do Brasil ABNT2, QWERTY, com tecla Ç e
+caracteres próprios do idioma. Não serão aceitos adesivos, remapeamentos ou adaptadores.
+5.5.8.5 - As legendas das teclas deverão ser originais de fábrica e permanentes, por gravação a laser, dupla
+injeção ou tecnologia equivalente, mantendo legibilidade durante o uso normal. Desgaste que prejudique a
+identificação deverá ser corrigido pela contratada.
+5.5.8.6 - O teclado deverá possuir retroiluminação original de fábrica, com possibilidade de ativação e
+desativação.
+5.5.8.7 - O teclado deverá possuir proteção contra derramamento acidental de líquidos comprovada por
+documentação oficial. O requisito não implica resistência à imersão ou lavagem.
+5.5.8.8 - O teclado deverá possuir teclas de função ou combinações com Fn para controle de brilho, economia
+de energia e comutação de tela externa.
+5.5.8.9 - Cada notebook deverá ser acompanhado de mouse óptico com fio, novo, de linha ativa, com fabricante
+e modelo identificáveis. O mouse deverá ser, preferencialmente, da mesma marca comercial do notebook,
+admitida marca distinta segundo os critérios do item 2.15. Produto OEM/ODM será aceito quando oficialmente
+fornecido, identificado, garantido e suportado pelo fabricante responsável.
+5.5.8.10 - O mouse deverá possuir conector USB-A nativo, sem adaptador, funcionamento Plug and Play e
+compatibilidade com o sistema operacional ofertado.
+5.5.8.11 - O mouse deverá possuir formato ambidestro, botões esquerdo e direito e botão central com rolagem
+vertical.
+5.5.8.12 - O sensor deverá possuir resolução nativa mínima de 1.200 DPI, não sendo aceita interpolação de
+software como único meio de atendimento.
+5.5.9 - Bateria, carregador e gabinete
+5.5.9.1 - A bateria deverá ser de íons de lítio, polímero de lítio ou tecnologia superior, interna e não removível
+pelo usuário, mas substituível por assistência autorizada.
+5.5.9.2 - A capacidade nominal total mínima da bateria será de 50 Wh. A quantidade de células não constituirá
+critério eliminatório, desde que sejam atendidos os requisitos de capacidade, autonomia, segurança,
+carregamento e vida útil.
+5.5.9.3 - A autonomia nominal mínima será de 6 (seis) horas, comprovada por documentação oficial do
+fabricante que identifique o modelo ou a família, a configuração testada, a metodologia, as condições do ensaio
+e o resultado obtido.
+5.5.9.4 - O carregador deverá ser original ou oficialmente homologado pelo fabricante, operar entre 100 e 240
+VCA, em 50/60 Hz, e utilizar conector USB-C ou proprietário oficialmente suportado.
+5.5.9.5 - O carregador deverá possuir potência nominal mínima de 45 W e sustentar a configuração máxima
+entregue e o carregamento simultâneo sem limitação incompatível de desempenho.
+5.5.9.6 - O cabo e o plugue de alimentação deverão atender à ABNT NBR 14136, com dois ou três pinos
+conforme o projeto original e a classe de isolação. Não serão aceitos adaptadores ou emendas para
+atendimento regular.
+5.5.9.7 - O modelo deverá possuir evidência de ensaios segundo MIL-STD-810H Change 1 ou edição posterior,
+abrangendo, no mínimo, alta temperatura, baixa temperatura, choque térmico, umidade, vibração e choque
+
+--- [pag. PDF 27] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 27 de 36
+mecânico. A evidência identificará modelo, métodos, procedimentos, condições e resultados e será emitida por
+laboratório competente ou pelo fabricante com documentação técnica verificável.
+5.5.9.8 - O notebook deverá possuir leitor de impressão digital integrado ao gabinete, botão de alimentação ou
+teclado, compatível com Windows Hello e drivers oficiais. Não serão aceitos leitores USB externos.
+5.5.9.9 - O equipamento deverá possuir botão físico de alimentação integrado e indicador luminoso visível do
+estado ligado.
+5.5.9.10 - O acabamento original deverá ser predominantemente preto, cinza, prata ou combinação dessas
+cores. Logos, portas e teclas poderão possuir tonalidades distintas. Não serão aceitas pintura ou película
+posterior.
+5.5.9.11 - O peso máximo será de 1,6 kg com a bateria instalada, excluídos carregador, cabos, mouse,
+embalagem e acessórios removíveis, comprovado para a configuração ofertada.
+5.5.9.12 - O notebook deverá possuir encaixe integrado para trava de segurança Kensington, Noble ou
+equivalente oficialmente documentado. O cabo de segurança não integra o fornecimento salvo previsão
+específica.
+5.5.10 - Sistema operacional, aplicativos e suporte corporativo
+5.5.10.1 - O notebook deverá ser entregue com Microsoft Windows 11 Professional de 64 bits, original,
+licenciado por dispositivo e ativado ou apto à ativação oficial. Será aceita versão corporativa posterior ou
+equivalente, desde que oficialmente compatível e previamente aprovada, com direito de uso durante o período
+do PCaaS.
+5.5.10.2 - Todos os componentes, interfaces e periféricos deverão possuir suporte e drivers oficiais para o
+sistema operacional, preservando funcionalidade, desempenho, segurança e gerenciamento.
+5.5.10.3 - A contratada deverá disponibilizar à Administração, durante toda a implantação, meios oficiais de
+instalação, reinstalação e recuperação do sistema operacional, drivers, firmware e utilitários, por portal, imagem
+corporativa, partição de recuperação ou repositório autorizado, com as credenciais e permissões necessárias.
+5.5.10.4 - O equipamento deverá ser fornecido com Microsoft Office LTSC 2024 de 64 bits, ou versão perpétua
+posterior equivalente, instalado localmente, em Português do Brasil e contendo Word, Excel, PowerPoint e
+Outlook. Não serão aceitas assinaturas ou licenças exclusivamente vinculadas ao usuário.
+5.5.10.5 - A comprovação do Office deverá ser oficial ou comercial, emitida pela Microsoft, distribuidor ou
+revendedor autorizado, e identificar produto, edição, quantidade, modalidade, perpetuidade, titularidade e
+vínculo com os dispositivos. Contratos, certificados, declarações, relatórios e documentos fiscais poderão
+compor a prova; chaves, capturas de tela ou etiquetas não serão suficientes isoladamente.
+5.5.10.6 - A licença será perpétua, local e atribuída ao dispositivo. Quando o equipamento pertencer à
+contratada, deverão ser comprovados a licença subjacente e o direito de locação, disponibilização ou uso por
+terceiro, inclusive Rental Rights quando aplicável ou direito oficial equivalente. Alternativamente, a licença
+poderá ser adquirida ou atribuída à Administração.
+5.5.11 - Segurança do endpoint
+5.5.11.1 - Conteúdo não confiável de navegação na internet e anexos de correio eletrônico abrangidos pela
+política da Administração deverá ser processado em ambiente isolado e descartável. Serão aceitas
+microvirtualização, containerização, sandbox segura, virtualização remota do navegador ou tecnologia
+equivalente. A solução deverá impedir persistência não autorizada, acesso indevido a arquivos, credenciais ou
+sessões do hospedeiro, comunicação lateral não autorizada e transferência de dados fora dos canais
+permitidos, com gerenciamento centralizado, registros e atualização. Todos os componentes e licenças deverão
+integrar o PCaaS.
+5.5.11.2 - A solução antimalware deverá proteger em tempo real download, criação, gravação, abertura e
+execução de arquivos, combinando assinatura ou reputação com heurística, inteligência artificial, aprendizado
+de máquina, análise comportamental ou tecnologia equivalente. Deverá permitir bloqueio, contenção e
+quarentena, proteção contra adulteração, gerenciamento centralizado e registros auditáveis. Desconectada,
+manterá a proteção com o último conjunto válido e atualizará após reconexão. As licenças abrangerão todos
+os notebooks instalados e ativos sem comprometer desempenho ou SLA.
+
+--- [pag. PDF 28] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 28 de 36
+5.5.12 - Certificações, sustentabilidade e conformidade
+5.5.12.1 - O notebook deverá atender à especificação ENERGY STAR para computadores vigente na
+publicação do edital, comprovada por registro do modelo, família ou configuração no Product Finder ou por
+relatório do modelo ofertado emitido por laboratório ISO/IEC 17025 acreditado ou reconhecido pelo ILAC.
+5.5.12.2 - O notebook deverá possuir, para a categoria Notebook, uma das seguintes comprovações
+ambientais, não cumulativas: 1. registro EPEAT Gold ativo e válido para o Brasil; 2. certificação TCO Certified
+ativa e aplicável à categoria Notebook; ou 3. certificação ambiental Tipo I baseada na ISO 14024, emitida ou
+verificada por terceira parte independente e acompanhada de matriz de equivalência.
+5.5.12.3 - A certificação deverá corresponder ao modelo ou à família ofertada. Quando emitida para uma
+família, a licitante deverá demonstrar, por documentação oficial, que a configuração proposta está efetivamente
+abrangida. A equivalência deverá contemplar, no mínimo, eficiência energética, controle de substâncias
+perigosas, durabilidade, reparabilidade, materiais, reciclagem, embalagem e responsabilidade ambiental da
+cadeia produtiva. A comprovação será individualizada por categoria e não abrangerá automaticamente mouse,
+monitor ou acessórios externos. Não será exigida a apresentação simultânea de EPEAT Gold, TCO Certified e
+certificação equivalente.
+5.5.12.4 - O notebook completo, incluindo carregador, deverá atender à IEC 62368-1 ou adoção nacional ou
+regional equivalente. A comprovação ocorrerá por IECEE CB Scheme, organismo ISO/IEC 17065 ou laboratório
+ISO/IEC 17025, com identificação do modelo ou família correspondente.
+5.5.12.5 - A emissão sonora deverá ser medida conforme ISO 7779 e declarada conforme ISO 9296, com
+identificação de modelo, configuração, estados e valores. Em estado ocioso, LWA,d deverá ser de até 4,0 bels
+e LpA,m de até 30 dB(A); em operação, LWA,d de até 5,0 bels e LpA,m de até 40 dB(A).
+5.5.12.6 - Notebook e periféricos deverão cumprir a Diretiva RoHS 2011/65/UE e alterações consolidadas,
+incluindo a Diretiva 2015/863. A comprovação poderá ocorrer por declaração oficial, documentação IEC 63000,
+relatório ISO/IEC 17025 ou certificação independente, com identificação das exceções aplicáveis.
+5.5.12.7 - O modelo ou família deverá constar na Windows Compatible Products List da Microsoft para Windows
+11 de 64 bits, comprovado por Verification Report oficial e correspondência com a configuração ofertada.
+5.5.12.8 - O equipamento deverá implementar os padrões DMTF aplicáveis aos recursos de identificação,
+inventário e gerenciamento de hardware exigidos neste Apêndice, especialmente o padrão SMBIOS,
+independentemente de o fabricante possuir filiação à DMTF.
+A implementação deverá permitir identificar, no mínimo:
+1. Fabricante e modelo do equipamento;
+2. Número de série e identificador patrimonial, quando suportado;
+3. Fabricante, modelo e versão da placa-mãe;
+4. Versão e data da BIOS/UEFI;
+5. Modelo do processador;
+6. Quantidade, capacidade e disposição dos módulos de memória;
+7. Identificação e capacidade das unidades de armazenamento.
+A comprovação ocorrerá mediante uma das seguintes alternativas, não cumulativas:
+1. Filiação empresarial ativa do fabricante à DMTF nas categorias Board, Leadership ou Participation,
+acompanhada de documentação oficial do modelo e demonstração funcional dos recursos exigidos; ou
+2. Documentação técnica oficial do fabricante, relatório técnico independente, consulta executada no
+equipamento, inspeção ou amostra que demonstre a implementação funcional dos padrões e campos
+de inventário exigidos.
+Quando a filiação estiver registrada em nome de controladora, grupo econômico ou entidade jurídica
+diferente, deverá ser apresentada comprovação oficial de que a entidade fabricante está abrangida. Na
+ausência dessa comprovação, será utilizada a segunda alternativa de comprovação acima descrita,
+baseada em documentação técnica oficial, relatório técnico independente, consulta executada no
+equipamento, inspeção ou amostra.
+A filiação à DMTF, isoladamente, não comprovará a conformidade do equipamento. Durante a inspeção,
+a Administração poderá verificar as informações por meio da BIOS/UEFI, sistema operacional,
+
+--- [pag. PDF 29] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 29 de 36
+ferramenta de inventário ou console de gerenciamento. Havendo divergência entre a filiação
+apresentada e o funcionamento efetivo, prevalecerá o resultado da verificação funcional.
+Não será exigida tecnologia proprietária, marca específica ou participação em categoria determinada
+da DMTF, desde que os requisitos funcionais e de comprovação sejam integralmente atendidos.
+5.5.12.9 - O fabricante dos equipamentos deverá demonstrar a existência de práticas estruturadas de
+sustentabilidade corporativa mediante um dos seguintes meios de comprovação, não cumulativos:
+1. Medalha EcoVadis Silver, Gold ou Platinum, válida na data da apresentação da proposta;
+2. Avaliação ESG equivalente, emitida por entidade independente e especializada, com metodologia
+pública, documentada, rastreável e passível de auditoria; ou
+3. Conjunto documental corporativo auditável que demonstre políticas, responsabilidades, governança,
+metas, indicadores e resultados nas dimensões exigidas, acompanhado de matriz de correspondência
+e sujeito à diligência da Administração.
+Para aceitação das alternativas 2 e 3, a comprovação deverá:
+1. Abranger, no mínimo, meio ambiente, práticas trabalhistas e direitos humanos, ética e integridade e
+compras sustentáveis;
+2. Identificar a entidade avaliada e demonstrar que alcança o fabricante ou o grupo econômico controlador,
+desde que a entidade fabricante esteja expressamente incluída no escopo;
+3. Apresentar metodologia, políticas, governança, metas, indicadores, resultados ou controles
+materialmente relacionados às quatro dimensões;
+4. Quando a metodologia utilizar classificação qualitativa, não apresentar classificação crítica ou
+insuficiente nas quatro dimensões, sem exigência de posição em percentil, ranking ou nos dois níveis
+superiores;
+5. Estar vigente ou ter sido emitida há, no máximo, 12 meses, quando se tratar de avaliação sem prazo
+de validade expresso; no caso de documentação corporativa, deverá corresponder ao último período
+de relato encerrado e conter políticas vigentes;
+6. Permitir verificação de autenticidade por endereço eletrônico oficial, código de validação, assinatura,
+publicação corporativa ou confirmação da entidade emissora;
+7. Ser acompanhada de matriz de correspondência demonstrando o atendimento às quatro dimensões
+exigidas.
+Não será exigido que a avaliação ou o conjunto documental equivalente utilize a mesma nomenclatura,
+pontuação, plataforma, percentil ou metodologia da EcoVadis. A EcoVadis constitui meio alternativo de
+comprovação, não certificação exclusiva ou obrigatória.
+5.5.12.10 - Quando o equipamento for fabricado ou montado no Brasil por estabelecimento enquadrado, o
+fabricante ou montador deverá possuir CTF/APP ativo na atividade 5-2 e Certificado de Regularidade do Ibama
+válido. Para produto fabricado no exterior, deverão ser identificados origem, importador ou responsável no Brasil
+e as obrigações ambientais aplicáveis, sem exigir CTF/APP do fabricante estrangeiro.
+5.5.12.11 - O fabricante deverá disponibilizar recursos oficiais para implantação e manutenção no Microsoft
+Configuration Manager, incluindo pacote consolidado de drivers Windows 11 x64, drivers Windows PE quando
+aplicáveis, catálogo assinado ou integração equivalente para drivers, BIOS, firmware e utilitários, instalação
+silenciosa, detecção de modelo e geração de logs. Não serão aceitos repositórios não oficiais produzidos
+exclusivamente pela licitante.
+5.6 - Monitor Adicional
+5.6.1 - Tela e imagem
+5.6.1.1 - O monitor deverá possuir painel LCD com retroiluminação LED, superfície antirreflexo, formato
+widescreen 16:9 e área visível diagonal mínima de 21 polegadas.
+5.6.1.2 - O painel deverá utilizar tecnologia IPS, WVA, UWVA ou equivalente ou superior e apresentar ângulo
+de visualização mínimo de 178 graus na horizontal e 178 graus na vertical, sem inversão relevante de cores ou
+perda que inviabilize a visualização normal.
+5.6.1.3 - A resolução nativa mínima será de 1920 x 1080 pixels, Full HD progressivo, com frequência mínima
+de 60 Hz. Não serão aceitas interpolação ou simulação por software para atingir os valores.
+
+--- [pag. PDF 30] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 30 de 36
+5.6.1.4 - O brilho típico ou nominal será de, no mínimo, 250 cd/m². Não serão considerados valores máximos
+momentâneos ou picos obtidos exclusivamente em modo HDR.
+5.6.1.5 - A relação de contraste estático ou nativo será de, no mínimo, 1.000:1. Contraste dinâmico, adaptativo
+ou aprimorado por software não será considerado.
+5.6.1.6 - O tempo de resposta nominal será de, no máximo, 5 ms, medido em cinza a cinza (GtG) ou por
+metodologia técnica equivalente declarada pelo fabricante. Não serão aceitos valores obtidos exclusivamente
+por interpolação ou modo incompatível com uso contínuo.
+5.6.1.7 - O painel deverá reproduzir, no mínimo, 16,7 milhões de cores, admitindo processamento nativo de 8
+bits por canal ou 6 bits com FRC oficialmente declarado.
+5.6.1.8 - O monitor deverá possuir tecnologia de redução de cintilação, Flicker-Free ou equivalente, e recurso
+de redução da emissão de luz azul, oficialmente documentados e sem impedir a resolução e a frequência
+contratadas.
+5.6.1.9 - O monitor deverá permitir ajuste de brilho, contraste e parâmetros de cor por controles integrados e
+menu OSD, sem dependência exclusiva de software adicional.
+5.6.2 - Política de pixels e qualidade visual
+5.6.2.1 - Não será admitido qualquer pixel ou subpixel permanentemente brilhante, apagado, preso em
+determinada cor, intermitente ou com funcionamento irregular durante o recebimento e toda a execução
+contratual, independentemente da posição na tela.
+5.6.2.2 - A identificação de um único pixel ou subpixel defeituoso obrigará a contratada a substituir o monitor,
+sem custo adicional e dentro do SLA aplicável. Política de tolerância do fabricante não limitará a obrigação
+contratual.
+5.6.2.3 - A verificação utilizará imagens uniformes nas cores branca, preta, vermelha, verde e azul e será
+registrada no checklist de recebimento ou manutenção.
+5.6.2.4 - Mancha, linha permanente, vazamento de luz anormal, cintilação irregular ou anomalia que prejudique
+leitura ou visualização também caracterizará não conformidade.
+5.6.3 - Alimentação elétrica
+5.6.3.1 - A fonte deverá operar automaticamente entre 100 e 240 VCA, em 50/60 Hz, e ser dimensionada para
+o funcionamento integral do monitor.
+5.6.3.2 - A fonte poderá ser interna ou externa, desde que original, fornecida ou oficialmente homologada pelo
+fabricante e coberta pela garantia da solução PCaaS.
+5.6.3.3 - O cabo de alimentação será novo, sem emendas, com plugue de dois ou três pinos conforme o projeto
+original, a classe de isolação e a ABNT NBR 14136.
+5.6.3.4 - Quando solicitado pela Administração e após verificação da compatibilidade elétrica, a contratada
+fornecerá, sem custo adicional, adaptador apropriado para conexão a tomada de padrão antigo. O adaptador
+deverá possuir conformidade aplicável perante o Inmetro, capacidade compatível e preservar o aterramento
+quando existente.
+5.6.3.5 - O adaptador não poderá eliminar o condutor de proteção, corrigir defeito da instalação elétrica ou
+substituir a necessária adequação do ponto de energia.
+5.6.4 - Conectividade e cabos
+5.6.4.1 - O monitor deverá possuir conexão digital nativamente compatível com os microcomputadores Tipo I e
+Tipo II. Monitor, controladora, portas, cabos, drivers e adaptadores expressamente admitidos deverão permitir
+Full HD a 60 Hz ou superior, sem perda de qualidade ou limitação do uso simultâneo em modo estendido.
+5.6.4.2 - O monitor deverá possuir, no mínimo, uma entrada HDMI e uma entrada DisplayPort, ambas nativas,
+independentes e plenamente funcionais. Entrada VGA poderá ser oferecida adicionalmente, sem caráter
+obrigatório.
+5.6.4.3 - Não serão aceitos hubs, divisores ou adaptadores para constituir as entradas HDMI e DisplayPort
+obrigatórias.
+5.6.4.4 - Cada monitor será acompanhado de um cabo HDMI, um cabo DisplayPort e um cabo de alimentação,
+todos novos, com comprimento mínimo de 1,5 m e capacidade compatível com a resolução e a frequência
+contratadas.
+
+--- [pag. PDF 31] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 31 de 36
+5.6.4.5 - Não serão aceitos cabos com emendas, extensões permanentes ou conectores montados
+artesanalmente. Cabos e adaptadores fornecidos permanecerão cobertos pela garantia do PCaaS.
+5.6.5 - Pedestal, instalação e segurança física
+5.6.5.1 - O pedestal deverá ser original, estável, removível e possuir ajuste de inclinação, permitindo
+posicionamento adequado da tela.
+5.6.5.2 - O monitor deverá possuir interface de montagem VESA de 75 x 75 mm ou 100 x 100 mm, integrada
+ao projeto original e acessível após a remoção do pedestal, sem perfurações ou adaptações não homologadas.
+5.6.5.3 - Parafusos específicos necessários à fixação deverão acompanhar o monitor. Suporte articulado ou de
+parede não integra o fornecimento, salvo previsão em item próprio.
+5.6.5.4 - O monitor deverá possuir encaixe original para trava de segurança compatível com padrão Kensington,
+Noble Wedge ou equivalente oficialmente documentado. O cabo de segurança não integra o fornecimento,
+salvo previsão específica.
+5.6.6 - Padronização, fabricante e rastreabilidade
+5.6.6.1 - O acabamento do monitor e do pedestal deverá ser original e predominantemente preto, cinza, prata
+ou combinação dessas cores, mantendo padrão visual compatível com o gabinete do computador. Serão
+aceitas diferenças decorrentes de material, logotipo, controles e detalhes construtivos. Não serão aceitas
+pintura, envelopamento ou alteração posterior.
+5.6.6.2 - O monitor deverá possuir fabricante, modelo e código de produto identificáveis, com suporte, garantia
+e consulta por número de série. Deverá ser, preferencialmente, da mesma marca comercial do
+microcomputador ao qual será vinculado, admitida marca distinta segundo os critérios do item 2.15.
+5.6.6.3 - Será admitida fabricação OEM ou ODM quando o monitor for oficialmente comercializado, identificado,
+garantido e suportado pelo fabricante responsável pela marca. Não serão aceitos produtos genéricos, marca
+própria da licitante ou remarcação posterior.
+5.6.6.4 - Todos os monitores adicionais fornecidos em uma mesma etapa deverão manter, preferencialmente,
+a mesma marca e o mesmo modelo, além de configuração, interfaces e padrão de acabamento homogêneos.
+Serão admitidos marca ou modelo distintos nos termos do item 2.15, desde que não haja redução de
+desempenho, compatibilidade, garantia, suporte ou SLA.
+5.6.6.5 - Modelo diferente somente será admitido em caso de descontinuação, indisponibilidade definitiva ou
+necessidade técnica comprovada, mediante autorização prévia. O substituto será novo, de linha ativa e igual
+ou superior requisito por requisito, sem reduzir desempenho, ergonomia, certificações, compatibilidade,
+garantia ou SLA.
+5.6.6.6 - Cada monitor possuirá etiqueta original permanente e legível com marca, modelo e número de série
+único, correspondente à embalagem, documentação de entrega, inventário do PCaaS e portal oficial de suporte
+quando disponível.
+5.6.6.7 - A etiqueta patrimonial poderá ser acrescentada sem ocultar a identificação original. Substituições
+registrarão equipamento retirado e instalado, números de série, motivo, data, local e responsável.
+5.6.7 - Certificações, energia e conformidade
+5.6.7.1 - O monitor deverá possuir, para a categoria Monitor, uma das seguintes comprovações ambientais, não
+cumulativas: 1. registro EPEAT Gold ativo e válido para o Brasil; 2. certificação TCO Certified ativa e aplicável
+à categoria Monitor; ou 3. certificação ambiental Tipo I baseada na ISO 14024, emitida ou verificada por terceira
+parte independente e acompanhada de matriz de equivalência. A certificação deverá corresponder ao modelo
+ou à família ofertada; quando emitida para uma família, a licitante deverá demonstrar, por documentação oficial,
+que o modelo proposto está efetivamente abrangido. A equivalência deverá contemplar, no mínimo, eficiência
+energética, controle de substâncias perigosas, durabilidade, reparabilidade, materiais, reciclagem, embalagem
+e responsabilidade ambiental da cadeia produtiva. A certificação do monitor não substituirá a comprovação
+ambiental do microcomputador correspondente, nem será exigida cumulativamente com outra certificação
+admitida neste item.
+5.6.7.2 - A expiração posterior do certificado não invalidará automaticamente equipamento regularmente
+recebido. Novo modelo de ampliação, reposição definitiva ou substituição tecnológica deverá possuir
+certificação ativa na data de aprovação e fornecimento.
+5.6.7.3 - O monitor deverá possuir gerenciamento automático de energia, entrando em repouso ou baixo
+consumo quando não houver sinal ou após o período configurado, sem perda das configurações.
+
+--- [pag. PDF 32] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 32 de 36
+5.6.7.4 - O modelo deverá possuir certificação ENERGY STAR aplicável e vigente ou comprovação equivalente
+por certificação reconhecida ou relatório de laboratório ISO/IEC 17025 que identifique o modelo e o consumo
+nos modos ligado, repouso e desligado.
+5.6.7.5 - O monitor e a fonte deverão atender à IEC 62368-1 ou norma nacional ou regional equivalente
+reconhecida para o produto.
+5.6.7.6 - O equipamento deverá atender à CISPR 32, Classe B, e à CISPR 35, ou normas equivalentes de
+emissão e imunidade eletromagnética para ambiente administrativo.
+5.6.7.7 - A comprovação de segurança e compatibilidade eletromagnética ocorrerá por certificado, relatório de
+ensaio, relatório CB ou declaração oficial de conformidade que identifique o modelo e as normas. Relatório de
+ensaio deverá ser emitido por laboratório ISO/IEC 17025. Certificação voluntária válida do Inmetro poderá ser
+aceita quando abranger os requisitos.
+5.6.7.8 - O monitor deverá cumprir a Diretiva RoHS 2011/65/UE e alterações consolidadas, incluindo a Diretiva
+Delegada 2015/863, ou regulamentação ambiental equivalente. A prova identificará fabricante e modelo ou
+família e poderá utilizar declaração oficial, IEC 63000, certificado ou relatório ISO/IEC 17025, com identificação
+das exceções aplicáveis.
+5.6.8 - Linha ativa, cobertura PCaaS e aceite
+5.6.8.1 - O monitor deverá ser novo de fábrica, sem uso anterior, não recondicionado, não remanufaturado e
+não proveniente de mostruário. O modelo deverá estar em linha ativa de fabricação ou comercialização oficial
+na proposta e na primeira implantação.
+5.6.8.2 - O fabricante deverá manter página oficial de suporte para o modelo ou família, contendo, conforme
+aplicável, ficha técnica, manual, identificação, firmware, diagnóstico e informações de garantia.
+5.6.8.3 - A posterior descontinuação não afastará as obrigações da contratada. Substituição observará a regra
+de modelo novo, linha ativa, aprovação prévia e equivalência integral.
+5.6.8.4 - Durante toda a vigência do PCaaS, a contratada responderá pelo painel, retroiluminação, placa
+eletrônica, fonte, pedestal, controles, portas, cabo de alimentação, cabos de vídeo e adaptadores fornecidos.
+5.6.8.5 - A garantia comercial do fabricante não limitará as obrigações contratuais. Defeitos de imagem,
+instabilidade, perda anormal de brilho, linhas, manchas, cintilação, falha de interfaces e pixels ou subpixels
+defeituosos serão corrigidos por reparo ou substituição conforme o Apêndice de Manutenção, Suporte e SLA.
+5.6.8.6 - O reparo não poderá reduzir características contratadas, segurança, certificações, compatibilidade ou
+vida útil esperada.
+5.6.8.7 - Não serão exigidos alto-falantes integrados. Quando presentes, não substituirão o requisito de áudio
+do microcomputador nem gerarão cobrança adicional.
+5.6.8.8 - A inspeção e o aceite observarão a metodologia estabelecida no Instrumento 4 do Apêndice 5. Cada
+requisito receberá conclusão Conforme, Não conforme ou Diligência; a diligência não equivalerá à conformidade
+nem permitirá troca do modelo, criação posterior de característica essencial ou redução do requisito.
+6 - SOFTWARE A SER DISPONIBILIZADO NOS MICROCOMPUTADORES E NOTEBOOKS
+6.1 - Sistema Operacional:
+6.1.1 - Microsoft Windows 11 Professional ou superior
+6.1.2 - Versão 64 bits;
+6.1.3 - Licença de uso;
+6.1.4 - Idioma: Português (Brasil).
+6.2 - Pacote de software:
+6.2.1 - Microsoft Office LTSC 2024 ou versão perpétua posterior, 64 bits, em Português (Brasil), licenciada por
+dispositivo e contendo no mínimo Word, Excel, PowerPoint e Outlook:
+6.2.2 - Tecnologia 64 bits
+6.2.3 - Idioma Português BR;
+6.2.4 - O pacote deve incluir no mínimo: Word, Excel, PowerPoint e Outlook;
+6.2.5 - Licença de uso;
+6.2.6 - Idioma: Português (Brasil);
+
+--- [pag. PDF 33] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 33 de 36
+6.2.7 - Meio oficial de reinstalação, admitidos download no portal do fabricante, ferramenta de implantação,
+partição de recuperação ou mídia física, com as credenciais e autorizações necessárias à CONTRATANTE
+durante a disponibilização.
+7 - CRITÉRIOS TÉCNICOS PARA AVALIAÇÃO E UPGRADE
+7.1 - Na implantação, deverá ser estabelecida linha de base individual ou por configuração homogênea,
+abrangendo microcomputadores Tipo I, microcomputadores Tipo II, notebooks e monitores.
+7.2 - A linha de base deverá registrar, quando aplicável:
+7.2.1 - configuração de hardware e firmware;
+7.2.2 - versões de BIOS, drivers e sistema operacional;
+7.2.3 - desempenho de processador, memória, armazenamento e GPU;
+7.2.4 - tempo de inicialização e autenticação;
+7.2.5 - abertura e execução dos sistemas institucionais representativos;
+7.2.6 - estabilidade, conectividade e utilização de recursos;
+7.2.7 - capacidade e integridade da bateria;
+7.2.8 - identificação das ferramentas e versões utilizadas;
+7.2.9 - resultados, data, responsável e evidências.
+7.3 - A Administração definirá, no Plano de Implantação, os sistemas e fluxos institucionais representativos de
+cada perfil de equipamento, sem alterar as especificações mínimas contratadas.
+7.4 - Serão realizadas:
+7.4.1 - telemetria e acompanhamento de 100% dos equipamentos ativos;
+7.4.2 - avaliações controladas trimestrais em amostra mínima de 5% por tipo e perfil;
+7.4.3 - avaliações formais no 36º e no 48º mês;
+7.4.4 - avaliações extraordinárias diante de indícios de insuficiência;
+7.4.5 - avaliações individuais dos equipamentos com falhas ou chamados recorrentes.
+7.5 - A amostra será ampliada quando forem identificadas falhas, degradação relevante ou comportamento
+comum em equipamentos do mesmo modelo ou configuração.
+7.6 - A avaliação combinará:
+7.6.1 - benchmarks técnicos;
+7.6.2 - consumo e saturação de recursos;
+7.6.3 - desempenho dos sistemas institucionais;
+7.6.4 - tempos de resposta;
+7.6.5 - estabilidade;
+7.6.6 - compatibilidade;
+7.6.7 - segurança;
+7.6.8 - recorrência de chamados;
+7.6.9 - disponibilidade;
+7.6.10 - cumprimento do SLA.
+7.7 - A percepção de lentidão do usuário constituirá indício para diagnóstico, mas a determinação do upgrade
+será fundamentada em evidências técnicas reproduzíveis.
+7.8 - Caracterizará degradação de desempenho a redução igual ou superior a 20% em relação à linha de base
+aplicável, confirmada em duas avaliações consecutivas após correção, atualização e otimização.
+7.9 - Independentemente do percentual de degradação, uma ocorrência crítica confirmada poderá determinar
+upgrade ou substituição quando houver:
+7.9.1 - incompatibilidade impeditiva;
+7.9.2 - vulnerabilidade sem correção;
+7.9.3 - encerramento de suporte necessário;
+7.9.4 - incapacidade de executar sistema institucional abrangido;
+
+--- [pag. PDF 34] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 34 de 36
+7.9.5 - risco à continuidade ou à segurança do serviço.
+7.10 - A CONTRATADA comunicará o encerramento de suporte ou a descontinuação relevante com
+antecedência mínima de 180 dias, quando a informação estiver oficialmente disponível, e apresentará plano de
+atualização ou substituição sem custo adicional.
+7.11 - Os testes deverão possuir, no mínimo, três execuções, utilizando-se a mediana dos resultados.
+7.12 - Os testes comparativos deverão observar condições equivalentes de:
+7.12.1 - configuração;
+7.12.2 - versão de sistema e ferramenta;
+7.12.3 - perfil de energia;
+7.12.4 - processos em segundo plano;
+7.12.5 - conectividade;
+7.12.6 - temperatura;
+7.12.7 - carga de trabalho;
+7.12.8 - horário e ambiente, quando relevantes.
+7.13 - Poderão ser utilizadas ferramentas da Administração, do fabricante ou de terceiros, desde que
+previamente aprovadas, identificadas, licenciadas, reproduzíveis e passíveis de verificação independente.
+7.14 - A necessidade de upgrade poderá ser atendida por otimização, atualização, expansão de memória,
+substituição de armazenamento, evolução da GPU ou outra intervenção homologada.
+7.15 - A substituição integral será obrigatória quando:
+7.15.1 - o upgrade não eliminar a insuficiência;
+7.15.2 - houver necessidade de troca de plataforma, placa-mãe ou processador;
+7.15.3 - forem necessárias adaptações não homologadas;
+7.15.4 - a intervenção comprometer garantia, suporte, segurança ou compatibilidade;
+7.15.5 - houver reincidência após intervenção anterior.
+7.16 - Após o upgrade, o equipamento deverá cumulativamente:
+7.16.1 - atender às especificações contratadas;
+7.16.2 - alcançar desempenho igual ou superior à linha de base homologada;
+7.16.3 - executar os sistemas institucionais abrangidos em suas versões vigentes;
+7.16.4 - eliminar os gargalos persistentes identificados;
+7.16.5 - manter segurança, estabilidade e compatibilidade.
+7.17 - Nos notebooks, a bateria será substituída quando a relação entre a capacidade máxima de carga e a
+capacidade de projeto ficar abaixo de 80%, confirmada por diagnóstico e duas medições.
+7.18 - Nos monitores, insuficiências de desempenho, compatibilidade ou funcionalidade serão solucionadas por
+reparo homologado ou substituição integral.
+7.19 - Após cada upgrade ou substituição, será criada nova linha de base versionada, mantendo-se o histórico
+das configurações e resultados anteriores.
+7.20 - A nova linha de base não poderá validar desempenho inferior aos requisitos contratuais ou ocultar
+degradação anteriormente identificada.
+7.21 - Confirmada causa comum em determinado modelo ou configuração, a avaliação será ampliada e poderá
+resultar em upgrade ou substituição de toda a população afetada.
+8 - CRITÉRIOS DE EVOLUÇÃO TECNOLÓGICA PARA O SEGUNDO CICLO
+8.1 - Esta seção aplica-se exclusivamente se houver formalização juridicamente válida de prorrogação que
+mantenha a solução PCaaS após os 60 (sessenta) meses iniciais. Ela não reduz as obrigações ordinárias de
+desempenho, segurança, atualização, upgrade, reparo e substituição exigíveis no primeiro ciclo.
+8.2 - A renovação abrangerá os Microcomputadores Tipo I, Microcomputadores Tipo II e Notebooks integrantes
+da base elegível em D0. Os monitores adicionais e os vinculados aos Microcomputadores Tipo I e Tipo II não
+serão automaticamente renovados pelo simples início do segundo ciclo.
+
+--- [pag. PDF 35] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 35 de 36
+8.3 - A configuração definitiva dos equipamentos do segundo ciclo será definida próximo à renovação, durante
+a análise técnica prevista entre T-150 e T-90, mediante aplicação desta metodologia ao mercado, aos sistemas
+institucionais e aos requisitos de segurança e gerenciamento então vigentes. Não ficam antecipadamente
+congelados valores futuros de benchmark, memória, armazenamento, GPU, NPU ou geração nominal.
+8.4 - Cada equipamento proposto deverá ser novo de fábrica, sem uso anterior, não recondicionado, não
+remanufaturado, não proveniente de mostruário, integrante de linha corporativa ativa e dotado de suporte oficial
+compatível com todo o período remanescente da contratação.
+8.5 - A proposta para o segundo ciclo não poderá apresentar downgrade de requisito. A comparação será
+realizada requisito por requisito, tomando como referências cumulativas a configuração originalmente
+contratada, a configuração efetivamente instalada e a linha de base válida do equipamento substituído.
+8.6 - O desempenho global do equipamento proposto deverá ser igual ou superior ao do parque substituído e
+suficiente para executar, com estabilidade e sem gargalo material, os sistemas institucionais, rotinas de
+segurança, gerenciamento, videoconferência, produtividade e demais cargas de trabalho vigentes. A avaliação
+considerará, conforme a categoria, processamento, memória, armazenamento, vídeo, NPU, conectividade,
+interfaces, eficiência energética, resposta das aplicações, estabilidade térmica e compatibilidade.
+8.7 - A contemporaneidade tecnológica será demonstrada pela combinação objetiva de lançamento,
+comercialização ativa, ciclo de suporte, disponibilidade de firmware e drivers, compatibilidade com sistemas
+atuais, segurança, eficiência e presença regular na linha corporativa do fabricante. A simples indicação de
+geração, ano ou nomenclatura comercial não comprovará, isoladamente, evolução tecnológica.
+8.8 - A CONTRATADA apresentará matriz comparativa contendo, no mínimo: configuração originalmente
+contratada; configuração efetivamente instalada; configuração proposta; processador; memória;
+armazenamento; GPU, quando aplicável; NPU, quando aplicável; segurança; gerenciamento remoto;
+conectividade; interfaces; eficiência energética; compatibilidade; suporte; certificações aplicáveis; e demais
+requisitos relevantes.
+8.9 - Cada linha da matriz indicará o requisito, a evidência oficial, a fonte verificável, a data da consulta, o
+resultado da comparação e a conclusão de atendimento, equivalência ou superioridade. Informações de família
+somente serão aceitas quando houver demonstração de que abrangem a configuração exata proposta.
+8.10 - A comprovação utilizará documentação oficial do fabricante, certificações válidas, benchmarks públicos
+reproduzíveis, testes funcionais e outras evidências tecnicamente idôneas. Quando empregado benchmark,
+deverão ser informados ferramenta e versão, condições de teste, configuração, energia, sistema operacional,
+drivers, número de execuções e resultado consolidado, permitindo reprodução pela Administração.
+8.11 - Os testes comparativos serão executados em condições equivalentes. Salvo impossibilidade técnica
+justificada, serão realizadas ao menos três execuções válidas e será adotada a mediana, com registro dos
+resultados brutos, das condições do ambiente e de qualquer descarte motivado.
+8.12 - A Administração poderá realizar diligência, validação documental, teste de compatibilidade e piloto
+representativo. A implantação em massa somente ocorrerá após aprovação técnica expressa dos modelos e
+da matriz comparativa, sem que a aprovação afaste a responsabilidade da CONTRATADA pela conformidade
+durante a execução.
+8.13 - Equipamento integralmente substituído e definitivamente aceito nos 12 (doze) meses anteriores a D0
+somente poderá ser reconhecido como já renovado se atender integralmente à linha tecnológica aprovada para
+o segundo ciclo, não apresentar downgrade, possuir suporte compatível com o período remanescente e receber
+aprovação expressa da fiscalização.
+8.14 - Antes do segundo ciclo, os monitores serão avaliados quanto à integridade do painel, pixels e subpixels,
+resolução, brilho, contraste, conectividade, estabilidade, compatibilidade, segurança elétrica, eficiência
+energética, ergonomia, suporte, histórico de falhas e níveis de serviço. Unidade não conforme será reparada
+ou substituída sem ônus adicional para a CONTRATANTE.
+8.15 - Após a renovação e o aceite definitivo, será criada nova linha de base versionada para cada unidade ou
+configuração homogênea, preservando o histórico da configuração substituída, dos testes, da matriz
+comparativa e das evidências de aprovação.
+9 - SEGURANÇA, EFICIÊNCIA ENERGÉTICA E ACESSIBILIDADE
+9.1 - Os equipamentos deverão suportar e permitir a ativação de TPM 2.0, Secure Boot, firmware assinado e
+criptografia integral de armazenamento, sem perda dos requisitos de desempenho e compatibilidade.
+
+--- [pag. PDF 36] ---
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência
+Apêndice 1 - Especificações Técnicas e Critérios de Equivalência | Página 36 de 36
+9.2 - A eficiência energética será comprovada por EPEAT, Energy Star, rótulo aplicável, relatório técnico ou
+documentação oficial equivalente ou superior. A equivalência será demonstrada objetivamente para o modelo
+fornecido.
+9.3 - O gerenciamento de energia deverá permitir suspensão e redução de consumo configuráveis, sem impedir
+monitoramento, atualizações, segurança ou operação 24x7.
+9.4 - Os equipamentos e o sistema operacional deverão manter compatibilidade com tecnologias assistivas e
+recursos de acessibilidade adotados pela Administração, sem exigir fornecimento de quantitativos não previstos
+de dispositivos assistivos.
+9.5 - Portas físicas exigidas permanecerão disponíveis. O controle de mídias removíveis será realizado por
+política, preservando periféricos administrativos e assistenciais autorizados.
+10 - COMPROVAÇÃO OFICIAL, EQUIVALÊNCIA E AMOSTRA CONDICIONADA
+10.1 - Marca, modelo, componentes, linha ativa, garantia e suporte serão comprovados por catálogo, ficha
+técnica, manual, portal oficial, consulta por número de série, certificado, relatório técnico ou outro documento
+oficial verificável correspondente ao modelo entregue.
+10.2 - Não será exigida carta comercial exclusiva ou autorização especial do fabricante quando a informação
+puder ser validada por fonte oficial. Documento específico poderá ser solicitado somente para requisito não
+comprovável por outro meio e mediante justificativa.
+10.3 - A análise documental será a regra. A amostra, quando prevista no edital e motivadamente solicitada,
+será apresentada somente pelo licitante provisoriamente vencedor para verificação de característica não
+suficientemente demonstrável por documento.
+10.4 - Na verificação da amostra, todos os requisitos classificados como obrigatórios deverão ser atendidos.
+Teste informativo não causará reprovação isolada; resultado inconclusivo poderá ser repetido nas mesmas
+condições, sem troca de modelo ou alteração substancial da proposta.
+Código: 15dd5ccd-ef9d-4664-ac32-e445364376f6
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

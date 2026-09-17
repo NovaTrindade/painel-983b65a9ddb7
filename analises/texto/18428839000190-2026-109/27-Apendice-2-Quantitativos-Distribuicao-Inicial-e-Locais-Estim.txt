@@ -1,0 +1,562 @@
+=== DOCUMENTO 27: Apendice_2_-_Quantitativos__Distribuicao_Inicial_e_Locais_Estimados.pdf ===
+tipo: Outros Documentos | páginas: 19 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/27
+
+--- [pag. PDF 1] ---
+Apêndice 2 - Quantitativos e Locais | Página 1 de 19
+APÊNDICE 2 – QUANTITATIVOS, DISTRIBUIÇÃO INICIAL E LOCAIS ESTIMADOS
+Este Apêndice apresenta os quantitativos máximos da solução PCaaS, a distribuição imediata e futura por secretaria e os locais estimados de atendimento. Os
+quantitativos da implantação imediata constituem teto acionável por Ordem de Serviço inicial, enquanto a demanda futura dependerá de Ordens de Serviço posteriores.
+Em ambos os casos, a instalação efetiva dependerá de cronograma aprovado pela fiscalização, sem obrigação de consumo de quantidades não incluídas na respectiva
+Ordem de Serviço.
+1 - QUADRO CONSOLIDADO DOS QUANTITATIVOS
+Para fins de leitura e controle, os quantitativos estão segregados entre implantação imediata e demanda futura, conforme o quadro a seguir.
+Quadro 1 - Síntese dos quantitativos máximos
+Categoria Quantitativo máximo Implantação imediata Demanda futura
+Microcomputador Tipo I 2.299 1.115 1.184
+Microcomputador Tipo II 403 316 87
+Notebook 155 115 40
+Monitor adicional 320 0 320
+Total de computadores e notebooks 2.857 1.546 1.311
+Total de itens faturáveis 3.177 1.546 1.631
+1.1 - REGRAS DE LEITURA E MEDIÇÃO
+1.1.1 - Os quantitativos indicados como implantação imediata constituem teto acionável por Ordem de Serviço inicial. A CONTRATADA deverá entregar, instalar
+e disponibilizar somente as quantidades expressamente incluídas nessa Ordem de Serviço, observado o cronograma aprovado, sem consumo mínimo
+garantido quanto à parcela não acionada.
+1.1.2 - A demanda futura somente poderá ser acionada mediante Ordem de Serviço posterior, confirmação da necessidade e cronograma aprovado, sem
+obrigação de consumo, instalação ou pagamento antecipados.
+1.1.3 - Somente serão faturáveis os equipamentos efetivamente solicitados, instalados, recebidos, aceitos e ativos. Os 320 (trezentos e vinte) monitores adicionais
+integram a demanda futura da Secretaria de Administração — SAD, dependem de Ordem de Serviço posterior e somente serão faturáveis após sua efetiva
+solicitação, instalação, recebimento, aceite e ativação.
+1.1.4 - A reserva técnica de 2% prevista no Apêndice 4 será calculada separadamente por categoria sobre as unidades efetivamente instaladas, recebidas, aceitas
+e ativas, com arredondamento para cima e mínimo de uma unidade quando houver equipamento ativo da categoria. Para os Microcomputadores Tipo I e
+Tipo II, cada unidade da reserva corresponderá ao conjunto funcional completo definido no item 1.2.2 do Termo de Referência, formado pelo
+microcomputador, 1 (um) monitor e todos os periféricos e acessórios integrantes da respectiva configuração contratada. Para o Notebook, a reserva
+corresponderá à unidade completa, incluindo carregador, mouse externo e demais acessórios obrigatórios. Para o Monitor Adicional, a reserva
+
+--- [pag. PDF 2] ---
+Apêndice 2 - Quantitativos e Locais | Página 2 de 19
+corresponderá à unidade completa, incluindo fonte, pedestal e cabos obrigatórios. A reserva técnica e todos os seus componentes não integrarão os
+quantitativos faturáveis, não serão objeto de cobrança e não criarão obrigação de consumo da demanda futura.
+1.1.5 - As unidades ou funções com janela de atendimento 24x7 deverão ser formalmente classificadas na Ordem de Serviço e no inventário, conforme impacto
+e urgência, sem classificação automática baseada apenas no cargo do usuário.
+2 - DISTRIBUIÇÃO IMEDIATA POR SECRETARIA
+A distribuição imediata abrange os órgãos e entidades indicados no Quadro 2, com atendimento a unidades das zonas urbana e rural do Município de Uberaba.
+Os quantitativos serão detalhados nas respectivas Ordens de Serviço.
+Quadro 2 - Distribuição imediata por secretaria e tipo de equipamento
+Sigla Secretaria Comp Tipo I Comp Tipo II Notebooks
+Total de
+microcomputadores
+(Tipo I + Tipo II)
+Total de estações (Tipo I +
+Tipo II + notebooks) Monitores adicionais
+SAD Secretaria de
+Administração 154 55 12 209 221 0
+SECOM Secretaria de
+Comunicação 11 10 5 21 26 0
+SAGRI Secretaria de Agronegócio 9 0 0 9 9 0
+SEFAZ Secretaria de Fazenda 37 10 30 47 77 0
+CGM Controladoria Geral 13 32 2 45 47 0
+SEGOV Secretaria de Governo 25 2 3 27 30 0
+SEDEC
+Secretaria de
+Desenvolvimento
+Econômico, Turismo e
+Inovação
+15 25 6 40 46 0
+
+--- [pag. PDF 3] ---
+Apêndice 2 - Quantitativos e Locais | Página 3 de 19
+Sigla Secretaria Comp Tipo I Comp Tipo II Notebooks
+Total de
+microcomputadores
+(Tipo I + Tipo II)
+Total de estações (Tipo I +
+Tipo II + notebooks) Monitores adicionais
+SEPLAN Secretaria de
+Planejamento 15 12 2 27 29 0
+SEMAM Secretaria de Meio
+Ambiente 10 5 0 15 15 0
+FUNEL Fundação Municipal de
+Esporte e Lazer 35 0 1 35 36 0
+SDS Secretaria de Defesa
+Social 60 17 6 77 83 0
+FETI
+Fundação de Ensino
+Técnico Intensivo "Dr.
+Renê Barsam"
+73 4 3 77 80 0
+PROGER Procuradoria Geral 51 0 0 51 51 0
+SMS Secretaria de Saúde 218 11 10 229 239 0
+CHEGAB Chefia de Gabinete 36 0 5 36 41 0
+SESURB Secretaria de Serviços
+Urbanos e Obras 31 21 3 52 55 0
+SEMED Secretaria de Educação 167 42 7 209 216 0
+SEDS Secretaria de
+Desenvolvimento Social 130 70 20 200 220 0
+
+--- [pag. PDF 4] ---
+Apêndice 2 - Quantitativos e Locais | Página 4 de 19
+Sigla Secretaria Comp Tipo I Comp Tipo II Notebooks
+Total de
+microcomputadores
+(Tipo I + Tipo II)
+Total de estações (Tipo I +
+Tipo II + notebooks) Monitores adicionais
+FCU Fundação Cultural 25 0 0 25 25 0
+Totais Gerais 1115 316 115 1431 1546 0
+2.1 - PARTICIPAÇÃO PERCENTUAL DA DISTRIBUIÇÃO IMEDIATA
+Os percentuais representam a participação de cada órgão no total da implantação imediata, por categoria de equipamento.
+Quadro 3 - Participação percentual por órgão
+Órgão % do Tipo I % do Tipo II % de notebooks % de microcomputadores % do total de estações
+Secretaria de Administração 13,81% 17,41% 10,43% 14,61% 14,29%
+Secretaria de Comunicação 0,99% 3,16% 4,35% 1,47% 1,68%
+Secretaria de Agronegócio 0,81% 0,00% 0,00% 0,63% 0,58%
+Secretaria de Fazenda 3,32% 3,16% 26,09% 3,28% 4,98%
+Controladoria Geral 1,17% 10,13% 1,74% 3,14% 3,04%
+Secretaria de Governo 2,24% 0,63% 2,61% 1,89% 1,94%
+Secretaria de Desenvolvimento Econômico, Turismo e
+Inovação 1,35% 7,91% 5,22% 2,80% 2,98%
+Secretaria de Planejamento 1,35% 3,80% 1,74% 1,89% 1,88%
+Secretaria de Meio Ambiente 0,90% 1,58% 0,00% 1,05% 0,97%
+Fundação Municipal de Esporte e Lazer 3,14% 0,00% 0,87% 2,45% 2,33%
+Secretaria de Defesa Social 5,38% 5,38% 5,22% 5,38% 5,37%
+
+--- [pag. PDF 5] ---
+Apêndice 2 - Quantitativos e Locais | Página 5 de 19
+Órgão % do Tipo I % do Tipo II % de notebooks % de microcomputadores % do total de estações
+Fundação de Ensino Técnico Intensivo "Dr. Renê Barsam" 6,55% 1,27% 2,61% 5,38% 5,17%
+Procuradoria Geral 4,57% 0,00% 0,00% 3,56% 3,30%
+Secretaria de Saúde 19,55% 3,48% 8,70% 16,00% 15,46%
+Chefia de Gabinete 3,23% 0,00% 4,35% 2,52% 2,65%
+Secretaria de Serviços Urbanos e Obras 2,78% 6,65% 2,61% 3,63% 3,56%
+Secretaria de Educação 14,98% 13,29% 6,09% 14,61% 13,97%
+Secretaria de Desenvolvimento Social 11,66% 22,15% 17,39% 13,98% 14,23%
+Fundação Cultural 2,24% 0,00% 0,00% 1,75% 1,62%
+TOTAIS 100,00% 100,00% 100,00% 100,00% 100,00%
+Nota: os percentuais do Quadro 3 foram calculados sobre os quantitativos inteiros da implantação imediata e arredondados individualmente a duas casas decimais.
+Em razão do arredondamento, a soma visual de determinadas colunas poderá atingir 100,02%, sem alterar os quantitativos, a distribuição ou o total material de
+100%.
+
+--- [pag. PDF 6] ---
+Apêndice 2 - Quantitativos e Locais | Página 6 de 19
+3 - DEMANDA FUTURA POR SECRETARIA
+A demanda futura está distribuída entre a Secretaria de Administração e a Secretaria Municipal de Saúde. Seu acionamento observará as regras
+previstas no item 1.1 deste Apêndice.
+Quadro 4 - Distribuição da demanda futura por secretaria
+Sigla Secretaria Comp Tipo I Comp Tipo II Notebooks
+Total de
+microcomputadores
+(Tipo I + Tipo II)
+Total de estações (Tipo I +
+Tipo II + notebooks) Monitores adicionais
+SAD Secretaria de
+Administração 427 78 30 505 535 320
+SMS Secretaria Municipal de
+Saúde 757 9 10 766 776 0
+Totais Gerais 1184 87 40 1271 1311 320
+4 - LOCAIS ESTIMADOS
+A relação a seguir identifica os locais estimados de atendimento. A instalação efetiva e os quantitativos por unidade serão definidos nas Ordens de Serviço e no
+cronograma aprovado pela fiscalização.
+Quadro 5 - Locais estimados de atendimento
+Secretaria Unidade Endereço CEP
+Administração Centro Administrativo Jornalista Ataliba Guaritá Neto Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Educação CEMEI Ângela Beatriz Bonádio Alves Rua Arnaldo Waldomiro Bernardes, 75, Bairro Chica Ferreira 38037-700
+Educação CEMEI Aparecida Conceição Ferreira Rua Topazio, 191, Bairro Costa Teles 38035-220
+Educação CEMEI Cláudia Aparecida Vilela Mesquita Rua Praia do Forte, 845, Bairro Parque dos Girassóis 38048-402
+Educação CEMEI Diego José Ferreira Lima Rua Luiz Manuel Alves Gomes, 91, Bairro Residencial 2000 38038-358
+Educação CEMEI Francisca Valias Wenceslau Rua Ronan Ferreira Maluf, 450, Bairro Beija Flor II 38051-407
+Educação CEMEI Gervásio Pedro Alves Rua José Geraldo Moura, 70, Bairro Parque das Gameleiras 38037-180
+
+--- [pag. PDF 7] ---
+Apêndice 2 - Quantitativos e Locais | Página 7 de 19
+Secretaria Unidade Endereço CEP
+Educação CEMEI Hildo Toti Rua Sebastião Gomes da Silva, 231, Bairro Residencial Rio de Janeiro 38041-340
+Educação CEMEI Integração Rua Coronel Bruno da Silva, 546, Bairro Jardim Induberaba 38040-170
+Educação CEMEI João Gilberto Ripposati Rua Munir Facure, 335, Bairro Conjunto Alfredo Freire II 38056-683
+Educação CEMEI João Miguel Hueb Rua João Miguel Hueb, 200, Bairro Cidade Jardim 38030-010
+Educação CEMEI Juscelino Kubitscheck Rua Carla Beatriz Venâncio da Silva, 12, Bairro Costa Teles II 38036-390
+Educação CEMEI Luciano Portelinha Mota Rua França, 848, Bairro Boa Vista 38070-480
+Educação CEMEI Márcio Eurípedes Martins dos Santos Rua Capitão João Araújo Silva, 79, Bairro Costa Teles I 38035-530
+Educação CEMEI Maria Assis Rezende Estrada Municipal da Serrinha 020 - KM 14, Bairro Comunidade da Serrinha 38100-000
+Educação CEMEI Maria de Lourdes Vasques Martins Marino Rua Helios Francisco Riccioppo, 60, Bairro Parque São José 38082-068
+Educação CEMEI Maria de Nazaré Rua Caldeira Junior, 395, Bairro Abadia 38026-470
+Educação CEMEI Maria Eduarda Farnezi Caetano Av. Juca Pato, 809, Bairro Residencial Cândida Borges 38051-548
+Educação CEMEI Maria Eduarda Farnezi Caetano - Anexo Rua Jacira Mercedes de Paiva, 49, Bairro Residencial Nova Era 38051-506
+Educação CEMEI Maria Elisabete Salge Melo Rua Zaida Facure Dib, 290, Bairro Morumbi 38051-112
+Educação CEMEI Maria Rosa de Oliveira - Unidade 1 - denominação
+a confirmar Rua Dom Pedro I, 22, Bairro Parque das Américas 38045-050
+Educação CEMEI Maria Rosa de Oliveira - Unidade 2 - denominação
+a confirmar Rua Antônio Alves Fontes, 541, Bairro Parque das Américas 38045-400
+Educação CEMEI Michelle Flávia Martins Pires Av. Alfredo de Faria, 1243, Bairro Jardim Uberaba 38057-000
+Educação CEMEI Mônica Machiyama Rua Carolina Pucci Molinar, 419, Bairro Conjunto Alfredo Freire 38056-080
+Educação CEMEI Monsenhor Juvenal Arduini Rua Eva Das Graças Oliveira Silva, 1025, Bairro Residencial Antônia
+Cândida 38073-086
+
+--- [pag. PDF 8] ---
+Apêndice 2 - Quantitativos e Locais | Página 8 de 19
+Secretaria Unidade Endereço CEP
+Educação CEMEI Nicanor Pedro da Silveira Praça Dr. Augusto Barreto, 360, Bairro Ponte Alta 38106-000
+Educação CEMEI Nossa Senhora de Lourdes Rua das Açucenas, 340, Bairro Nossa Senhora de Lourdes 38035-130
+Educação CEMEI Octávia Alves Lopes Rua Sheila Vieira Magalhães, 310, Bairro São Cristovão 38040-365
+Educação CEMEI Paraíso Av Reynaldo Boareto, 90, Bairro Conjunto Uberaba I 38073-139
+Educação CEMEI Prof. João Wilson de Freitas Rua Hamilton Batista Freitas, 580, Bairro Residencial 2000 38038-381
+Educação CEMEI Professor Raimundo Edmundo de Freitas Rua Maria Aparecida da Cunha Sousa, 450, Bairro Jardim Maracanã 38041-050
+Educação CEMEI Profª. Beatriz Faustino Monteiro Rua 40, 138, Bairro Residencial Marajo 38000-100
+Educação CEMEI Prof.ª Dirce Miziara Av. Bittencourt Leon Denis de Oliveira, 464, Bairro Loteamento Isabel do
+Nascimento 38041-302
+Educação CEMEI Prof.ª Eunice de Sousa Pühler Rua Tenente Coronel João Vieira da Silva, 300, Bairro Residencial Tancredo
+Neves 38066-542
+Educação CEMEI Prof.ª Joana Darc Campos Oliveira Rua Engenheiro Nilton Alves do Nascimento, 290, Bairro Recreio dos
+Bandeirantes 38040-700
+Educação CEMEI Prof.ª Maria Emerenciana Cardoso Rua João Rodrigues de Andrade, 131, Bairro Jardim Maracanã 38041-006
+Educação CEMEI Prof.ª Marília Barbosa Pacheco Silva Av. Nabor Abadia de Oliveira, 340, Bairro Jardim California 38057-000
+Educação CEMEI Prof.ª Natalya Dayrell de Carvalho Rua José Coli, 50, Bairro Jardim Eldorado 38071-652
+Educação CEMEI Prof.ª Zita Therezinha Capuço Rua Maria Eugênia dos Reis, 241, Bairro Comunidade Rural Santa Fé II 38079-754
+Educação CEMEI Solange Aparecida Cardoso da Silva Rua Dona Marat Pontes, 280, Bairro Volta Grande 38045-630
+Educação CEMEI Tutunas Av. Tutunas, 1197, Bairro Tutunas 38061-500
+Educação CEMEI Vovó Adelina Rua Otávio Barbosa, 201, Bairro Conjunto Silvério Cartafina 38036-880
+Educação CEMEI Vovó Tiana Rua Conceição Souza Araújo, 285, Bairro Jardim Primavera 38073-185
+
+--- [pag. PDF 9] ---
+Apêndice 2 - Quantitativos e Locais | Página 9 de 19
+Secretaria Unidade Endereço CEP
+Educação CEMEA Eurídice Ferreira de Melo Av. Djalma Castro Alves, 340, Bairro Amoroso Costa 38073-010
+Educação Centro de Artes e Esportes Unificados (CEU das Artes) Avenida Lourival Pedro Couto, 80, Bairro Residencial 2000 38038-364
+Educação E. M. Adolfo Bezerra de Menezes Rua Patos, 391, Bairro Nossa Senhora da Abadia 38025-360
+Educação E. M. Adolfo Bezerra de Menezes - Anexo I Rua Patos, 406, Bairro Nossa Senhora da Abadia 38025-360
+Educação E. M. Adolfo Bezerra de Menezes - Anexo II Rua Vigário Carlos, 1300, Bairro Nossa Senhora da Abadia 38025-350
+Educação E. M. Arthur de Mello Teixeira Rua Sebastião Firmino de Abreu, 120, Bairro Conjunto Uberaba I 38073-141
+Educação E. M. Boa Vista Av. Elias Cruvinel, 1045, Bairro Boa Vista 38070-100
+Educação E. M. Celina Soares de Paiva Rodovia MG 427 – Km 04 38046-427
+Educação E. M. Doutor Aluízio Rosa Prata Rua Sebastião Gomes da Silva, 231, Bairro Residencial Rio de Janeiro 38041-340
+Educação E. M. Frederico Peiró Rua Estanislau Collenghi, 297, Bairro Peirópolis 38039-761
+Educação E. M. Gastão Mesquita Filho Rua Santo Antônio, 60, Bairro Ponte Alta 38106-000
+Educação E. M. Joãozinho e Maria Rua Dr. José Sebastião da Costa, 192, Bairro Conjunto Morada do Sol 38071-610
+Educação E. M. José Marcus Cherém Rua Rodolfo Costa Junior, 112, Bairro Capelinha do Barreiro 38049-768
+Educação E. M. Joubert de Carvalho Rua Adelino José Pinheiro, 120, Bairro Valim de Mello 38037-835
+Educação E. M. Madre Maria Georgina Rua Theodomira Chaves Mendes, 285, Bairro Margarida Rosa Azevedo 38045-800
+Educação E. M. Maria Carolina Mendes Rodovia BR 050 - km 124 38055-010
+Educação E. M. Maria Lourencina Palmério Av. Santa Hermínia, 232, Bairro Jardim Uberaba 38057-640
+Educação E. M. Monteiro Lobato Rua Abílio Monteiro, 598, Bairro Recreio dos Bandeirantes 38040-520
+Educação E. M. Norma Sueli Borges Rua Ana da Silva Campos, 35, Bairro Cidade Ozanan 38045-759
+
+--- [pag. PDF 10] ---
+Apêndice 2 - Quantitativos e Locais | Página 10 de 19
+Secretaria Unidade Endereço CEP
+Educação E. M. Padre Eddie Bernardes Rua Bruno Martinelli, 268, Bairro Cartafina 38036-530
+Educação E. M. Pequeno Príncipe Alameda Granada, 681, Bairro Leblon 38030-310
+Educação E. M. Pequeno Príncipe - Anexo Rua São José, 1344, Bairro Parque São Geraldo 38031-110
+Educação E. M. Prof. Anísio Teixeira Rua Aristides Abreu, 65, Bairro Jardim Triângulo 38072-655
+Educação E. M. Prof. José Geraldo Guimarães Av. Orlando Rodrigues da Silva, 25, Bairro Pacaembu 38051-124
+Educação E. M. Prof. José Macciotti Rua Topázio, 645, Bairro de Lourdes 38035-220
+Educação E. M. Prof. Paulo Rodrigues Rua Mato Grosso, 1257, Bairro Santa Maria 38050-050
+Educação E. M. Prof. Paulo Rodrigues - Anexo Rua Mato Grosso, 1330, Bairro Santa Maria 38050-050
+Educação E. M. Prof.ª Esther Limírio Brigagão Av. Dra. Maria Teresinha Rocha, 600, Bairro Residencial 2000 38038-357
+Educação E. M. Prof.ª Geni Chaves Rua São Mateus, 486, Bairro Nossa Senhora da Abadia 38026-170
+Educação E. M. Prof.ª Jane Luce Araújo Rua José Paulo Cury, 305, Bairro Parque São José 38082-043
+Educação E. M. Prof.ª Luciene Aparecida do Carmo Rua Renato Manfredini Júnior, 200, Bairro Jardim Itália II 38038-096
+Educação E. M. Prof.ª Niza Marquez Guaritá Rua Donaldo Silvestre Cicci, 628, Bairro Conjunto Manoel Mendes 38082-166
+Educação E. M. Prof.ª Olga de Oliveira Rua José Kahtalian, 195, Bairro Parque das Américas 38045-060
+Educação E. M. Prof.ª Stella Chaves Rua Alfredo Peghini Netto, 150, Bairro Conjunto Alfredo Freire 38056-400
+Educação E. M. Prof.ª Terezinha Hueb de Menezes Av. Francisco Diógenes de Sá, 459, Bairro Jardim Copacabana 38046-732
+Educação E. M. Reis Júnior Praça Vitória, 401, Bairro Jardim Espírito Santo 38067-440
+Educação E. M. Ricardo Misson Rua Dr. Jesuíno Felicíssimo, 58, Bairro Quinta da Boa Esperança 38017-190
+Educação E. M. Santa Maria Rua Marcos Lombardi, 140, Bairro Santos Dumont 38050-170
+
+--- [pag. PDF 11] ---
+Apêndice 2 - Quantitativos e Locais | Página 11 de 19
+Secretaria Unidade Endereço CEP
+Educação E. M. São Judas Tadeu Rua Argentina, 392, Bairro Fabrício 38067-180
+Educação E. M. Sebastião Antônio Leal Rua Bazílio Eugênio dos Santos, 140, Bairro Rural Baixa 38040-410
+Educação E. M. Sítio do Pica-Pau Amarelo Praça Evandro Pereira, 22, Bairro Tutunas 38001-970
+Educação E. M. Totonho de Morais Rodovia BR 050 - km 151, Bairro Estância Três Irmãs 38037-050
+Educação E. M. Uberaba Praça Estevão Pucci, 340, Bairro Fabrício 38065-230
+Educação E. M. Urbana Frei Eugênio Rua Marechal Deodoro, 95, Bairro São Benedito 38022-170
+Educação E. M. Vicente Alves Trindade Rodovia MG 190 – km 13, Bairro Santa Rosa 38071-480
+Saúde USF Dr. João Francisco Naves Junqueira Rua Dr. Vivaldo Silveira, 357, Bairro Rio de Janeiro A confirmar na
+Ordem de Serviço
+Saúde UBS Dr. Edson Reis Lopes Rua José Jorge Pena, 160, Bairro São Cristóvão A confirmar na
+Ordem de Serviço
+Saúde UBS Julieta Andrade Rua Abílio Monteiro, 505, Bairro Recreio dos Bandeirantes A confirmar na
+Ordem de Serviço
+Saúde USF Virlânea Augusta de Lima Rua Ivan Donizeti Carvalho, 26, Bairro Jardim Maracanã A confirmar na
+Ordem de Serviço
+Saúde UMS Maria Teresa de Freitas Rua das Rosas, s/n, Bairro Lourdes A confirmar na
+Ordem de Serviço
+Saúde UMS Álvaro Guaritá Av. Umuarama, 520, Bairro Conjunto José Vallim de Mello A confirmar na
+Ordem de Serviço
+Saúde UBS Dona Aparecida Conceição Ferreira Av. Orlando Rod. Cunha, 502, Bairro Parque São Geraldo A confirmar na
+Ordem de Serviço
+Saúde USF Jardim Copacabana Rua Angra dos Reis, 158, Bairro Copacabana A confirmar na
+Ordem de Serviço
+Saúde USF Lecir Nunes Ramos Av. Maria Rodrigues Cunha Rezende, 481, Bairro Parque das Américas A confirmar na
+Ordem de Serviço
+Saúde UBS Juca Inácio Rua Sinei Higa, 162, Bairro Santa Maria A confirmar na
+Ordem de Serviço
+
+--- [pag. PDF 12] ---
+Apêndice 2 - Quantitativos e Locais | Página 12 de 19
+Secretaria Unidade Endereço CEP
+Saúde USF Dr. Edson Luiz Fernandes Rua Lourival P. de Couto, 234, Bairro Residencial 2000 A confirmar na
+Ordem de Serviço
+Saúde USF Beija-Flor Rua Ronan Ferreira Maluf, 490, Bairro Beija-Flor A confirmar na
+Ordem de Serviço
+Saúde UBS Lázaro Moreno Rua Otaviano Francisco da Silva, 51, Bairro Parque dos Girassóis IV A confirmar na
+Ordem de Serviço
+Saúde USF Jacob José Pinto Av. Dr. José Maria dos Réis, 640, Bairro Cássio Rezende A confirmar na
+Ordem de Serviço
+Saúde USF Inimá Baroni Rua José Olímpio Gomes, 347, Bairro Jardim Triângulo A confirmar na
+Ordem de Serviço
+Saúde UMS Ézio de Martino Rua Pres. Venceslau Braz, 33, Bairro Boa Vista A confirmar na
+Ordem de Serviço
+Saúde UBS Valdemar Hial Junior Av. Ivalnilda Delduque de Sousa, 222, Bairro Tancredo Neves A confirmar na
+Ordem de Serviço
+Saúde USF Planalto Rua Asa Norte, 215, Bairro Planalto A confirmar na
+Ordem de Serviço
+Saúde USF Dr. Romes Cecílio Rua Orlando Rodrigues da Silva, 520, Bairro Morumbi A confirmar na
+Ordem de Serviço
+Saúde USF Israel José da Silva Rua João Feliciano Sobrinho, 127, Bairro Tita Rezende A confirmar na
+Ordem de Serviço
+Saúde USF Francisco José Silva Rua Sinhá Teodoro, 557, Bairro Ponte Alta A confirmar na
+Ordem de Serviço
+Saúde USF Dona Naná Rua Dinossauros, 200, Bairro Peirópolis A confirmar na
+Ordem de Serviço
+Saúde USF Palmira Conceição BR 190, km 21, Bairro Santa Rosa A confirmar na
+Ordem de Serviço
+Saúde USF Maria Bárbara de Oliveira Av. Reinaldo Boareto, 1063, Bairro Jardim Primavera A confirmar na
+Ordem de Serviço
+Saúde UMS Prof. Aluísio Prata Rua Profa. Maria da Paz B. de Almeida, 305, Bairro Elza Amuí A confirmar na
+Ordem de Serviço
+
+--- [pag. PDF 13] ---
+Apêndice 2 - Quantitativos e Locais | Página 13 de 19
+Secretaria Unidade Endereço CEP
+Saúde USF Norberto de Oliveira Ferreira Rua Francisco Assis Brito, 30, Bairro Morada do Sol A confirmar na
+Ordem de Serviço
+Saúde USF Tita Rezende Rua João Feliciano Sobrinho, 116, Bairro Jardim Belo Horizonte A confirmar na
+Ordem de Serviço
+Saúde UMS Roberto Árabe Abdanour Rua Dr. Edelweiss Teixeira, 60, Bairro Mercês A confirmar na
+Ordem de Serviço
+Saúde UMS George Chiree Rua Francisco Munhoz Lopes, 499, Bairro Alfredo Freire I e II A confirmar na
+Ordem de Serviço
+Saúde USF Rosa Maria Rua Catulino Nunes Santos, 135, Bairro Silvério Cartafina A confirmar na
+Ordem de Serviço
+Saúde UMS Tibúrcio Teixeira Santos - Clínica da Família Av. Orlando Rod. Cunha, 2.223, Bairro Abadia A confirmar na
+Ordem de Serviço
+Saúde URS Terezinha da Graça Girão - URS Boa Vista Rua Dr. Adilson Resende Facure, 321, Bairro Boa Vista A confirmar na
+Ordem de Serviço
+Saúde URS Dr. Lineu Miziara - São Cristóvão Rua Comendador Gomes, 840, Bairro Vila São Cristóvão A confirmar na
+Ordem de Serviço
+Saúde UBS São Benedito Av. Apolônio Sales, 223, Bairro São Benedito A confirmar na
+Ordem de Serviço
+Saúde UBS Jardim Itália Rua Renato Manfredine Jr., Bairro Jardim Itália A confirmar na
+Ordem de Serviço
+Saúde UBS Marajó Rua Geraldo de Souza s/n, Bairro Jardim Marajó A confirmar na
+Ordem de Serviço
+Saúde Farmácia do CTA Av. Orlando Rodrigues da Cunha, 2.223, Bairro Abadia A confirmar na
+Ordem de Serviço
+Saúde Farmácia do CAPS AD Dr. Elias Barbosa Rua Renato José Prudêncio, 270, Bairro Josa Bernardino I A confirmar na
+Ordem de Serviço
+Saúde Farmácia do Cais Abadia Avenida Orlando Rodrigues da Cunha, 2123, Bairro Abadia A confirmar na
+Ordem de Serviço
+Saúde Farmácia UMS Alfredo Freire Rua Francisco Munhoz Lopes, 499, Bairro Alfredo Freire A confirmar na
+Ordem de Serviço
+
+--- [pag. PDF 14] ---
+Apêndice 2 - Quantitativos e Locais | Página 14 de 19
+Secretaria Unidade Endereço CEP
+Saúde Farmácia Central Rua Governador Valadares, 376, Bairro Centro A confirmar na
+Ordem de Serviço
+Saúde Farmácia Básica Residencial 2000 Rua Lourival Pedro de Couto, 234, Bairro Residencial 2000 A confirmar na
+Ordem de Serviço
+Saúde Farmácia Básica Residencial Rio de Janeiro Rua Dr. Vivaldo Silveira, 357, Bairro Rio de Janeiro A confirmar na
+Ordem de Serviço
+Saúde Farmácia de Minas Sebastião Silveira Rua Orlando Rodrigues Silva, 520, Bairro Morumbi A confirmar na
+Ordem de Serviço
+Saúde Farmácia da URS São Cristóvão Rua Comendador Gomes, 840, Bairro Jardim Induberaba A confirmar na
+Ordem de Serviço
+Saúde Farmácia da URS Boa Vista Rua Doutor Adilson Resende Facure, 250, Bairro Vila Arquelau A confirmar na
+Ordem de Serviço
+Saúde Farmácia Solidária Praça Augusto Lempp, 750, Bairro Mercês A confirmar na
+Ordem de Serviço
+Saúde Farmácia Básica da UPA São Benedito Rua Major Eustáquio, 1030, Bairro São Benedito A confirmar na
+Ordem de Serviço
+Saúde Farmácia do CAPS Dr Inácio Ferreira Rua Renato José Prudêncio, 270, Bairro Josa Bernardino I A confirmar na
+Ordem de Serviço
+Saúde Farmácia do CAPS CAPSi Rua Rubéns Martins, 96, Bairro Josa Bernardino II A confirmar na
+Ordem de Serviço
+Saúde Centro de Testagem e Acolhimento - CTA Av. Orlando Rodrigues Cunha, 2.223, Bairro Abadia A confirmar na
+Ordem de Serviço
+Saúde Departamento de Vigilância Sanitária Av. Guilherme Ferreira, 1539 A confirmar na
+Ordem de Serviço
+Saúde Departamento de Controle de Zoonoses e Endemias Av. Tutunas, 658, Bairro Vila Celeste A confirmar na
+Ordem de Serviço
+Saúde CAISM Av. Leopoldino de Oliveira, 1160, Bairro Parque do Mirante A confirmar na
+Ordem de Serviço
+Saúde Departamento de Regulação, Gabinete e Aquisições Av. Guilherme Ferreira, 1539, Bairro Cidade Jardim A confirmar na
+Ordem de Serviço
+
+--- [pag. PDF 15] ---
+Apêndice 2 - Quantitativos e Locais | Página 15 de 19
+Secretaria Unidade Endereço CEP
+Saúde Serviço NEVAS e SIAP Av. Santos Dumont, 945, Bairro Centro A confirmar na
+Ordem de Serviço
+Saúde CAPS AD Rua Renato José Prudêncio, 270, Bairro Josa Bernardino I A confirmar na
+Ordem de Serviço
+Saúde CAPS I Rua Rubéns Martins, 96, Bairro Josa Bernardino II A confirmar na
+Ordem de Serviço
+Saúde CAPS Dr. Inácio Ferreira Rua Rubéns Martins, 85, Bairro Josa Bernardino II A confirmar na
+Ordem de Serviço
+Saúde CEO Rinaldo Mattar Praça Augusto Lemp, 750, Bairro Mercês A confirmar na
+Ordem de Serviço
+Saúde CER II Rua Guaçuí, 195, Bairro Vila Militar A confirmar na
+Ordem de Serviço
+Saúde CEREST Rua Gov. Valadares, 1130, Bairro Vila Olímpica A confirmar na
+Ordem de Serviço
+Saúde Central de Vacinas Av. Orlando Rodrigues da Cunha, 2123, Bairro Abadia A confirmar na
+Ordem de Serviço
+Saúde Departamento de Manutenção CPD Av. Guilherme Ferreira, 1539, Bairro Cidade Jardim A confirmar na
+Ordem de Serviço
+Saúde UBS Alvorada Em Construção A confirmar na
+Ordem de Serviço
+Saúde UBS Laranjeiras Em Construção A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social
+DEPARTAMENTO DE PROTEÇÃO SOCIAL ESPECIAL -
+DPSE Rua Lauro Borges, 97 38010-060
+Desenvolvimento
+Social CENTRO POP Rua Pássaro Preto, 59/Pontal A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social SERVIÇO DE ACOLHIMENTO FAMILIAR - SAF Rua Marcos Lombardi, 257 – Bairro Santos Dumont A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CENTRO INTEGRADO DA MULHER - CIM Rua Luiz Próspero, 242 - Parque das Américas A confirmar na
+Ordem de Serviço
+
+--- [pag. PDF 16] ---
+Apêndice 2 - Quantitativos e Locais | Página 16 de 19
+Secretaria Unidade Endereço CEP
+Desenvolvimento
+Social CONSELHO TUTELAR 1 - CT1 Rua Hantero Augusto França, 80 Bairro Olinda A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CONSELHO TUTELAR 2 /3 - CT2/3 Rua São Mateus, 675 Bairro São Vicente A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social POP RUA (MIGRANTES - ITINERANTES) Terminal Rodoviário – Praça Dr. Carlos Terra, 291 Bairro São Benedito A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CASA DE PROTEÇÃO (0 A 7 ANOS) Rua João Severiano Rodrigues da Cunha, 240, Bairro Guanabara A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CASA DOS CONSELHOS Rua Arthur Machado, 553 - Centro A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CASA DE PASSAGEM Rua Pássaro Preto, 55/Pontal A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social SEÇÃO DE APOIO ÀS ONGS Rua Lauro Borges,97 A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CREAS Rua Lauro Borges, 139 Bairro EEUU A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CASA DO ADOLESCENTE (13 A 18 ANOS) Avenida Elias Cruvinel, 1608 Boa Vista A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social
+UNIDADE DE ACOLHIMENTO CATARINA SOUTO (7 A
+13 ANOS) Rua Pires de Campos, 190 - EEUU A confirmar na
+Ordem de Serviço
+Desenvolvimento
+Social CRAS ABADIA Rua São Mateus, 544, Abadia 38026-170
+Desenvolvimento
+Social CRAS BOA VISTA Rua Trinidad, 125, Boa Vista 38072-110
+Desenvolvimento
+Social CRAS Dr. Décio Moreira Av. Guilherme Capucci, 65, Elza Amuí 38082-257
+Desenvolvimento
+Social CRAS Morumbi “Maria Helena Silva Reis Rua Zaida Facure Dib, 280, Morumbi 38051-112
+Desenvolvimento
+Social CRAS Polo I “Luci Caxeta da Silva Av. José Valim de Melo, 2635, Chica Ferreira 38010-030
+
+--- [pag. PDF 17] ---
+Apêndice 2 - Quantitativos e Locais | Página 17 de 19
+Secretaria Unidade Endereço CEP
+Desenvolvimento
+Social CRAS Residencial 2000 “Ione Aparecida da Silva” Residencial 2000 38010-030
+Desenvolvimento
+Social CRAS Tutunas “Suzana da Graça Maia Stamato Bérgamo Av. Orlando Luís Vieira, 298, Recanto da Terra 38057-760
+Desenvolvimento
+Social CRAS Vila Paulista “Maria Aparecida da Silva” Rua Rodolfo Machado Borges, 299, São Benedito 38022-050
+Desenvolvimento
+Social CRAS Girassóis “Viviane Ribeiro Fontes” Rua Otaviano Francisco da Silva, 145 – Girassóis IV 38048-344
+Desenvolvimento
+Social Unidade de Atenção ao Idoso - UAI Av. Leopoldino de Oliveira, 1254 38015-000
+Desenvolvimento
+Social Banco de Alimentos Rua Itália, 640 38070-350
+Desenvolvimento
+Social Restaurante Popular Av. Nelson Freire, 980, Leblon 38030-000
+Desenvolvimento
+Social Núcleo de Socialização “Zoé Naves Botelho Alves” Programa, Residencial 2000 38038-382
+Desenvolvimento
+Social Programa Criança Feliz – SEDS Rua Lauro Borges, 97 38010-060
+Desenvolvimento
+Social ADMINISTRATIVO SEDS Rua Lauro Borges, 97 38010-060
+Desenvolvimento
+Social
+DEPARTAMENTO DE PROTEÇÃO SOCIAL BASICA -
+DPSB Rua Lauro Borges, 97 38010-060
+Desenvolvimento
+Social Seção de Apoio A Pessoa Com Deficiência Rua Lauro Borges, 97 38010-060
+Desenvolvimento
+Social Seção de Apoio a Juventude Rua Lauro Borges, 97 38010-060
+Desenvolvimento
+Social Seção de Apoio ao Idoso Rua Lauro Borges, 97 38010-060
+Comunicação Secretaria Municipal de Comunicação Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Agronegócio Secretaria Municipal de Agronegócio Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+
+--- [pag. PDF 18] ---
+Apêndice 2 - Quantitativos e Locais | Página 18 de 19
+Secretaria Unidade Endereço CEP
+Fazenda Secretaria Municipal de Fazenda Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Controladoria
+Geral Controladoria Geral do Município Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Governo Secretaria Municipal de Governo Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Desenvolvimento
+Econômico
+Secretaria Municipal de Desenvolvimento Econômico,
+Turismo e Inovação Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Planejamento Secretaria Municipal de Planejamento Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Meio Ambiente Secretaria Municipal de Meio Ambiente Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Defesa Social Secretaria Municipal de Defesa Social Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Procuradoria
+Geral Procuradoria Geral Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Gabinete Chefia de Gabinete Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+Serviços Urbanos
+e Obras Secretaria Municipal de Serviços Urbanos e Obras Av. Dom Luís Maria Santana, 141, Bairro Santa Maria 38061-080
+FUNEL Fundação Municipal de Esporte e Lazer Av. Orlando Rodrigues da Cunha, 1853, Bairro Abadia 38026-502
+FETI Fundação de Ensino Técnico Intensivo "Dr. Renê Barsam" Rua Major Eustáquio, 790, Bairro Centro 38022-000
+FCU Fundação Cultural de Uberaba Praça Rui Barbosa, 356, Bairro Centro 38010-240
+5 - BASE ELEGÍVEL PARA RENOVAÇÃO NO SEGUNDO CICLO
+5.1 - D0 corresponde ao primeiro dia de vigência do período prorrogado que ultrapasse os 60 (sessenta) meses iniciais.
+5.2 - A base elegível para renovação será formada, cumulativamente, pelos Microcomputadores Tipo I, Microcomputadores Tipo II e Notebooks efetivamente
+solicitados, instalados, definitivamente aceitos, ativos e integrantes da base contratual em D0.
+5.3 - Os monitores adicionais e os monitores vinculados aos Microcomputadores Tipo I e Tipo II não integrarão a base de renovação automática. Sua permanência
+dependerá da avaliação de conformidade prevista no Apêndice 1, sem prejuízo de reparo ou substituição quando exigível.
+5.4 - A base elegível será consolidada por categoria, secretaria, unidade, número de série, data de instalação, data do aceite definitivo, condição de atividade e
+situação quanto à exceção dos 12 (doze) meses, com validação da fiscalização.
+
+--- [pag. PDF 19] ---
+Apêndice 2 - Quantitativos e Locais | Página 19 de 19
+5.5 - A renovação substituirá unidades da própria base contratual e não constituirá nova demanda, não consumirá demanda futura, não aumentará os quantitativos
+máximos, não alterará o perfil de distribuição e não produzirá duplicidade de faturamento.
+5.6 - Equipamento integralmente substituído e definitivamente aceito nos 12 (doze) meses anteriores a D0 somente será excluído do saldo a renovar após
+comprovação de atendimento integral aos critérios do segundo ciclo e aprovação expressa da fiscalização. A simples data recente de instalação não será
+suficiente.
+5.7 - O denominador do IRA será a quantidade total da base elegível validada em D0, deduzidas exclusivamente as unidades reconhecidas como já renovadas
+na forma do item anterior. Inclusão, exclusão ou correção posterior dependerá de justificativa, evidência e aprovação formal, preservada a rastreabilidade do
+cálculo.
+Código: bd77865e-c7e8-4422-b2c6-9cabe89fc35f
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

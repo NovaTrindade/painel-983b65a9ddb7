@@ -1,0 +1,344 @@
+=== DOCUMENTO 4: 1_ESCLARECIMENTO_SIMPRESS.pdf ===
+tipo: Outros Documentos | páginas: 8 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/4
+
+--- [pag. PDF 1] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+PEDIDO DE ESCLARECIMENTO
+À Comissão de Licitação da MUNICÍPIO DE UBERABA/MG
+SECRETARIA DE ADMINISTRAÇÃO
+SUPERINTENDÊNCIA DE PLANEJAMENTO E COMPRAS GOVERNAMENTAIS
+Ref.: PREGÃO ELETRÔNICO Nº 039/2026
+Ref.: Pedido de Esclarecimento
+Objeto: Constitui objeto desta licitação a contratação de empresa especializada para
+prestação deserviços contínuos de locação de estações de trabalho
+(microcomputadores completos),notebooks e monitores, em modelo de outsourcing
+onshore, com fornecimento de sistema operacional e pacote de escritório, incluindo
+garantia integral, manutenção preventiva e corretiva, substituição de peças e
+equipamentos, atualização tecnológica (upgrades), suporte técnico onsite e remoto,
+bem como o atendimento às exigências legais de segurança da informação, roteção
+de dados pessoais (LGPD), acessibilidade digital e logística reversa dos
+equipamentos ao final do contrato, conforme condições, quantidades e exigências
+estabelecidas neste Edital e seus ANEXOS
+Prezados(as),
+A SIMPRESS COMERCIO, LOCAÇÃO E SERVIÇOS LTDA, com sede na Alameda > Ásia, 201,
+conjunto 1, 1º e 2º andar, Polo Empresarial Tamboré – CEP > 06543-312 - Santana de Parnaíba
+- SP, inscrita no CNPJ sob o nº 07.432.517/0001-07, vem por meio desta solicitar:
+esclarecimento quanto aos seguintes pontos:
+PARA O ITEM 1:
+1. Considerando que processadores atuais operam com tecnologia de frequência
+dinâmica, com elevação automática de clock (modo turbo) conforme a demanda de
+processamento, a exigência de frequência base mínima de 3,50 GHz não reflete o
+desempenho real dos equipamentos. Dessa forma, entendemos que a exigência
+deverá ser interpretada considerando a frequência máxima (turbo), sendo aceitos
+processadores que atinjam ou superem esse valor em modo turbo, está correto o
+entendimento?
+2. Considerando que o parâmetro de potência de design térmico (TDP) está
+relacionado ao consumo energético e características térmicas do processador, não
+sendo indicativo direto de desempenho, a exigência de valores mínimos de 125W
+pode restringir a adoção de arquiteturas mais modernas e eficientes.Ressalta-se que
+processadores atuais com TDP na faixa de aproximadamente 60W são capazes de
+entregar elevado desempenho, aliado a menor consumo energético e menor
+
+--- [pag. PDF 2] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+geração de calor, atendendo plenamente a cenários corporativos.Dessa forma,
+entendemos que serão aceitos processadores com TDP compatível ao projeto do
+fabricante, inclusive na faixa de 60W, desde que apresentem desempenho
+equivalente ou superior ao exigido, está correto o entendimento?
+3. Considerando que a especificação de capacidade máxima de 128GB de memória
+RAM, associada à exigência de 4 slots físicos, caracteriza um perfil de equipamento
+voltado a estações de trabalho de alto desempenho, tal requisito mostra-se
+superdimensionado para o uso corporativo comum descrito no edital. Ressalta-se
+que equipamentos corporativos padrão atendem plenamente às necessidades
+operacionais com suporte a até 64GB de memória RAM, muitas vezes utilizando 2
+slots de memória, mantendo desempenho e capacidade de expansão adequados.
+Dessa forma, entendemos que serão aceitos equipamentos com suporte a até 64GB
+de memória RAM e com 2 slots físicos, desde que atendam às demais
+especificações de desempenho exigidas, está correto o entendimento?A exigência
+de 4 portas SATA não reflete o padrão atual dos desktops corporativos, que utilizam
+predominantemente armazenamento em SSD NVMe. Mesmo quando presente, o
+uso de SATA é eventual e não demanda múltiplas interfaces disponíveis.Assim,
+entendemos que equipamentos com ao menos 1 porta SATA atendem plenamente
+ao cenário proposto, está correto o entendimento?
+4. Considerando que o edital já estabelece o fornecimento de unidade de
+armazenamento em padrão SSD NVMe, tecnologia mais moderna e superior às
+soluções baseadas em SATA, entende-se que as exigências adicionais de cache
+mínimo e suporte explícito à tecnologia S.M.A.R.T mostram-se tecnicamente
+desnecessárias, uma vez que tais características são inerentes ou irrelevantes nas
+arquiteturas atuais. Adicionalmente, os requisitos de desempenho com taxas
+mínimas de 7.000 MB/s para leitura e 6.000 MB/s para gravação mostram-se
+excessivamente restritivos, por estarem associados a unidades NVMe de alto
+desempenho (PCIe Gen4), não refletindo ganho proporcional em ambientes
+corporativos administrativos.Dessa forma, entendemos que serão aceitos SSDs
+NVMe com desempenho compatível ao uso corporativo, considerando valores de
+até 3.500 MB/s para leitura e 1.600 MB/s para gravação como plenamente
+adequados, independentemente de especificação de cache e S.M.A.R.T de forma
+isolada, por se tratar de tecnologia equivalente ou superior, está correto o
+entendimento?
+5. O equipamento ofertado apresenta taxa de contraste dinâmico de 1.000.000:1,
+inferior ao mínimo exigido de 15.000.000:1, não atendendo literalmente ao requisito.
+Ressalta-se, entretanto, que tal métrica não possui padronização entre fabricantes,
+sendo usualmente adotada apenas para fins comerciais, não refletindo ganho prático
+de qualidade de imagem. Diante disso, recomenda-se a adoção do contraste
+estático como critério técnico objetivo e comparável. Considerando tal premissa,
+monitores com contraste estático de 1000:1 atendem plenamente ao padrão de
+mercado corporativo e às necessidades operacionais de usuários administrativos,
+especialmente na categoria de equipamento especificada. Dessa forma,
+entendemos que serão aceitos monitores que atendam a contraste estático mínimo
+
+--- [pag. PDF 3] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+de 1000:1 em substituição ao critério de contraste dinâmico, está correto o
+entendimento?
+6. Considerando a evolução das interfaces USB, com adoção de padrões mais
+modernos como USB 3.2 e USB Tipo-C, que oferecem maior taxa de transferência
+e versatilidade, a exigência de distribuição fixa entre USB 2.0 e 3.0 pode limitar a
+adoção de arquiteturas mais atuais. ainda assim, é importante ressaltar que o
+equipamento ofertado atende à quantidade total mínima de 8 (oito) interfaces USB,
+sendo constituído por portas em padrão mais recente, incluindo 1 (uma) interface
+USB Tipo-C e 3 (três) interfaces USB Tipo-A padrão 3.2 ou superior; dessa forma,
+entendemos que tal configuração, por se tratar de solução equivalente ou superior
+em termos de desempenho e funcionalidade, atende plenamente ao requisito
+estabelecido, está correto o entendimento?
+7. Considerando que o dimensionamento da fonte de alimentação em desktops
+corporativos varia conforme a arquitetura e eficiência energética do equipamento, a
+exigência de potência mínima fixa de 450W pode resultar em
+superdimensionamento desnecessário, sem ganho efetivo de desempenho ou
+confiabilidade.Ressalta-se ainda que fontes de fabricantes reconhecidos já
+contemplam, em seu projeto, as proteções elétricas exigidas, bem como
+certificações de eficiência equivalentes ou superiores.Dessa forma, entendemos que
+poderão ser aceitas fontes com potência compatível ao equipamento ofertado, com
+no mínimo 180W de potência, desde que suportem integralmente a configuração
+máxima e possuam certificação de eficiência 80 Plus ou superior, está correto o
+entendimento?
+8. Considerando que o licenciamento OEM atualmente adotado é vinculado ao
+hardware, com chave digital embarcada em BIOS/UEFI e ativação eletrônica
+automática, não sendo mais praticada a entrega de licenças em meio físico com
+lacre “void”, tal exigência mostra-se desatualizada frente ao modelo vigente de
+licenciamento.Dessa forma, entendemos que a comprovação de licenciamento
+poderá ser realizada por meio eletrônico, dispensando a apresentação de lacre
+físico, está correto o entendimento?
+9. Considerando que o pacote Office pode ser licenciado tanto por equipamento quanto
+por usuário, dependendo do modelo adotado (OEM, perpetuo ou assinatura),
+entendemos necessário esclarecer o critério de licenciamento a ser considerado. O
+licenciamento deverá ser por equipamento (1 licença por dispositivo) ou por usuário
+(1 licença por usuário(considerando Microsoft 365))?
+10. Considerando que o pacote Office pode ser licenciado tanto por equipamento quanto
+por usuário, dependendo do modelo adotado (OEM, perpetuo ou assinatura),
+entendemos necessário esclarecer o critério de licenciamento a ser considerado. O
+licenciamento deverá ser por equipamento (1 licença por dispositivo) ou por usuário
+(1 licença por usuário(considerando Microsoft 365))?
+
+--- [pag. PDF 4] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+PARA O ITEM 2:
+1. Considerando que processadores atuais operam com tecnologia de frequência
+dinâmica, com elevação automática de clock (modo turbo) conforme a demanda de
+processamento, a exigência de frequência base mínima de 3,50 GHz não reflete o
+desempenho real dos equipamentos.Dessa forma, entendemos que a exigência
+deverá ser interpretada considerando a frequência máxima (turbo), sendo aceitos
+processadores que atinjam ou superem esse valor em modo turbo, está correto o
+entendimento?
+2. Considerando que o parâmetro de potência de design térmico (TDP) está
+relacionado ao consumo energético e características térmicas do processador, não
+sendo indicativo direto de desempenho, a exigência de valores mínimos de 125W
+pode restringir a adoção de arquiteturas mais modernas e eficientes.Ressalta-se que
+processadores atuais com TDP na faixa de aproximadamente 60W são capazes de
+entregar elevado desempenho, aliado a menor consumo energético e menor
+geração de calor, atendendo plenamente a cenários corporativos.Dessa forma,
+entendemos que serão aceitos processadores com TDP compatível ao projeto do
+fabricante, inclusive na faixa de 60W, desde que apresentem desempenho
+equivalente ou superior ao exigido, está correto o entendimento?
+3. Considerando que a especificação de capacidade máxima de 128GB de memória
+RAM, associada à exigência de 4 slots físicos, caracteriza um perfil de equipamento
+voltado a estações de trabalho de alto desempenho, tal requisito mostra-se
+superdimensionado para o uso corporativo comum descrito no edital. Ressalta-se
+que equipamentos corporativos padrão atendem plenamente às necessidades
+operacionais com suporte a até 64GB de memória RAM, muitas vezes utilizando 2
+slots de memória, mantendo desempenho e capacidade de expansão adequados.
+Dessa forma, entendemos que serão aceitos equipamentos com suporte a até 64GB
+de memória RAM e com 2 slots físicos, desde que atendam às demais
+especificações de desempenho exigidas, está correto o entendimento?
+4. A exigência de 4 portas SATA não reflete o padrão atual dos desktops corporativos,
+que utilizam predominantemente armazenamento em SSD NVMe. Mesmo quando
+presente, o uso de SATA é eventual e não demanda múltiplas interfaces
+disponíveis.Assim, entendemos que equipamentos com ao menos 1 porta SATA
+atendem plenamente ao cenário proposto, está correto o entendimento?
+5. Tendo em vista os problemas de produção de determinadas memórias, dado o
+cenário atual de escassez, entendemos que serão também aceitos equipamentos
+configurados em dual-channel 32GB (2x16GB), está correto o entendimento?
+6. Considerando que o edital já estabelece o fornecimento de unidade de
+armazenamento em padrão SSD NVMe, tecnologia mais moderna e superior às
+soluções baseadas em SATA, entende-se que as exigências adicionais de cache
+mínimo e suporte explícito à tecnologia S.M.A.R.T mostram-se tecnicamente
+desnecessárias, uma vez que tais características são inerentes ou irrelevantes nas
+
+--- [pag. PDF 5] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+arquiteturas atuais. Adicionalmente, os requisitos de desempenho com taxas
+mínimas de 7.000 MB/s para leitura e 6.000 MB/s para gravação mostram-se
+excessivamente restritivos, por estarem associados a unidades NVMe de alto
+desempenho (PCIe Gen4), não refletindo ganho proporcional em ambientes
+corporativos administrativos.Dessa forma, entendemos que serão aceitos SSDs
+NVMe com desempenho compatível ao uso corporativo, considerando valores de
+até 3.500 MB/s para leitura e 1.600 MB/s para gravação como plenamente
+adequados, independentemente de especificação de cache e S.M.A.R.T de forma
+isolada, por se tratar de tecnologia equivalente ou superior, está correto o
+entendimento?
+7. O equipamento ofertado apresenta taxa de contraste dinâmico de 1.000.000:1,
+inferior ao mínimo exigido de 15.000.000:1, não atendendo literalmente ao requisito.
+Ressalta-se, entretanto, que tal métrica não possui padronização entre fabricantes,
+sendo usualmente adotada apenas para fins comerciais, não refletindo ganho prático
+de qualidade de imagem. Diante disso, recomenda-se a adoção do contraste
+estático como critério técnico objetivo e comparável. Considerando tal premissa,
+monitores com contraste estático de 1000:1 atendem plenamente ao padrão de
+mercado corporativo e às necessidades operacionais de usuários administrativos,
+especialmente na categoria de equipamento especificada. Dessa forma,
+entendemos que serão aceitos monitores que atendam a contraste estático mínimo
+de 1000:1 em substituição ao critério de contraste dinâmico, está correto o
+entendimento?
+8. Considerando a evolução das interfaces USB, com adoção de padrões mais
+modernos como USB 3.2 e USB Tipo-C, que oferecem maior taxa de transferência
+e versatilidade, a exigência de distribuição fixa entre USB 2.0 e 3.0 pode limitar a
+adoção de arquiteturas mais atuais. ainda assim, é importante ressaltar que o
+equipamento ofertado atende à quantidade total mínima de 8 (oito) interfaces USB,
+sendo constituído por portas em padrão mais recente, incluindo 1 (uma) interface
+USB Tipo-C e 3 (três) interfaces USB Tipo-A padrão 3.2 ou superior; dessa forma,
+entendemos que tal configuração, por se tratar de solução equivalente ou superior
+em termos de desempenho e funcionalidade, atende plenamente ao requisito
+estabelecido, está correto o entendimento?
+9. Considerando que o dimensionamento da fonte de alimentação em desktops
+corporativos varia conforme a arquitetura e eficiência energética do equipamento, a
+exigência de potência mínima fixa de 450W pode resultar em
+superdimensionamento desnecessário, sem ganho efetivo de desempenho ou
+confiabilidade.Ressalta-se ainda que fontes de fabricantes reconhecidos já
+contemplam, em seu projeto, as proteções elétricas exigidas, bem como
+certificações de eficiência equivalentes ou superiores.Dessa forma, entendemos que
+poderão ser aceitas fontes com potência compatível ao equipamento ofertado, com
+no mínimo 180W de potência, desde que suportem integralmente a configuração
+máxima e possuam certificação de eficiência 80 Plus ou superior, está correto o
+entendimento?
+
+--- [pag. PDF 6] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+10. Considerando que o licenciamento OEM atualmente adotado é vinculado ao
+hardware, com chave digital embarcada em BIOS/UEFI e ativação eletrônica
+automática, não sendo mais praticada a entrega de licenças em meio físico com
+lacre “void”, tal exigência mostra-se desatualizada frente ao modelo vigente de
+licenciamento.Dessa forma, entendemos que a comprovação de licenciamento
+poderá ser realizada por meio eletrônico, dispensando a apresentação de lacre
+físico, está correto o entendimento?
+11. Considerando que o pacote Office pode ser licenciado tanto por equipamento quanto
+por usuário, dependendo do modelo adotado (OEM, perpetuo ou assinatura),
+entendemos necessário esclarecer o critério de licenciamento a ser considerado. O
+licenciamento deverá ser por equipamento (1 licença por dispositivo) ou por usuário
+(1 licença por usuário(considerando Microsoft 365))?
+12. desatualizada frente ao modelo vigente de licenciamento.Dessa forma, entendemos
+que a comprovação do licenciamento poderá ser realizada por meio eletrônico,
+dispensando a apresentação de lacre físico, está correto o entendimento?
+PARA O ITEM 3:
+1. Considerando que processadores atuais operam com frequência dinâmica,
+priorizando eficiência energética por meio de base clock reduzida e elevação
+automática via modo turbo, a adoção de frequência base mínima não reflete o
+desempenho real do equipamento. Dessa forma, entendemos que a exigência de
+2,90 GHz deve ser considerada para a frequência máxima (turbo), sendo aceitos
+processadores que atendam ou superem esse valor, está correto o entendimento?
+2. Nos notebooks corporativos atuais, o armazenamento é predominantemente
+baseado em interface M.2 NVMe, substituindo amplamente o padrão SATA, o qual
+não é mais adotado como padrão de mercado. Assim, a exigência de controlador
+SATA integrado mostra-se tecnicamente irrelevante para equipamentos modernos.
+Dessa forma, entendemos que tal requisito poderá ser desconsiderado, desde que
+o equipamento ofertado utilize armazenamento em padrão M.2 NVMe ou superior,
+está correto o entendimento?
+3. Considerando que os equipamentos corporativos atuais utilizam armazenamento em
+padrão M.2 NVMe, tecnologia mais moderna e de desempenho superior em relação
+às interfaces SATA que utilizam o protocolo AHCI, tal exigência mostra-se
+desatualizada frente às arquiteturas vigentes.Dessa forma, entendemos que o
+atendimento por meio de armazenamento em padrão NVMe deve ser considerado
+equivalente ou superior ao requisito de suporte ao modo AHCI, está correto o
+entendimento?
+4. Entendemos aqui que serão aceitas memórias dedicadas e compartilhadas com o
+processador, não havendo necessidade de seguirmos com placas de vídeo
+dedicadas para atender a esta necessidade, está correto o entendimento?
+
+--- [pag. PDF 7] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+5. Considerando que o edital já estabelece o fornecimento de unidade de
+armazenamento em padrão SSD NVMe, tecnologia mais moderna e superior às
+soluções baseadas em SATA, entende-se que as exigências adicionais de cache
+mínimo e suporte explícito à tecnologia S.M.A.R.T mostram-se tecnicamente
+desnecessárias, uma vez que tais características são inerentes ou irrelevantes nas
+arquiteturas atuais. Adicionalmente, os requisitos de desempenho com taxas
+mínimas de 7.000 MB/s para leitura e 6.000 MB/s para gravação mostram-se
+excessivamente restritivos, por estarem associados a unidades NVMe de alto
+desempenho (PCIe Gen4), não refletindo ganho proporcional em ambientes
+corporativos administrativos.Dessa forma, entendemos que serão aceitos SSDs
+NVMe com desempenho compatível ao uso corporativo, considerando valores de
+até 3.500 MB/s para leitura e 1.600 MB/s para gravação como plenamente
+adequados, independentemente de especificação de cache e S.M.A.R.T de forma
+isolada, por se tratar de tecnologia equivalente ou superior, está correto o
+entendimento?
+6. Entendemos que serão aceitos displays IPS ou VA/UWVA, desde que atendam a
+necessidade básica de ângulo de visão em 89/89/89/89, está correto nosso
+entendimento?
+7. Visando ampliar a competitividade do certame, entendemos que serão aceitas
+baterias de 3WHr, sendo este o padrão nos equipamentos atuais no mercado
+corporativo, esta correto o entendimento?
+8. Considerando que o licenciamento OEM atualmente adotado é vinculado ao
+hardware, com chave digital embarcada em BIOS/UEFI e ativação eletrônica
+automática, não sendo mais praticada a entrega de licenças em meio físico com
+lacre “void”, tal exigência mostra-se desatualizada frente ao modelo vigente de
+licenciamento.Dessa forma, entendemos que a comprovação de licenciamento
+poderá ser realizada por meio eletrônico, dispensando a apresentação de lacre
+físico, está correto o entendimento?
+9. Considerando que o pacote Office pode ser licenciado tanto por equipamento quanto
+por usuário, dependendo do modelo adotado (OEM, perpetuo ou assinatura),
+entendemos necessário esclarecer o critério de licenciamento a ser considerado. O
+licenciamento deverá ser por equipamento (1 licença por dispositivo) ou por usuário
+(1 licença por usuário(considerando Microsoft 365))?
+10. Considerando que o licenciamento Microsoft Office atualmente é disponibilizado de
+forma digital, com ativação eletrônica vinculada ao equipamento ou à conta do
+usuário, não sendo mais praticada a entrega em meio físico com lacre “void”, tal
+exigência mostra-se desatualizada frente ao modelo vigente de licenciamento.Dessa
+forma, entendemos que a comprovação do licenciamento poderá ser realizada por
+meio eletrônico, dispensando a apresentação de lacre físico, está correto o
+entendimento?
+
+--- [pag. PDF 8] ---
+simpress.com.br
+BELO HORIZONTE • BRASÍLIA • CURITIBA • RIO DE JANEIRO • SALVADOR • SÃO PAULO • CAMPINAS • VITÓRIA
+• PORTO ALEGRE • FLORIANÓPOLIS • FORTALEZA
+PARA O ITEM 4:
+1. O equipamento ofertado apresenta taxa de contraste dinâmico de 1.000.000:1,
+inferior ao mínimo exigido de 15.000.000:1, não atendendo literalmente ao requisito.
+Ressalta-se, entretanto, que tal métrica não possui padronização entre fabricantes,
+sendo usualmente adotada apenas para fins comerciais, não refletindo ganho prático
+de qualidade de imagem. Diante disso, recomenda-se a adoção do contraste
+estático como critério técnico objetivo e comparável. Considerando tal premissa,
+monitores com contraste estático de 1000:1 atendem plenamente ao padrão de
+mercado corporativo e às necessidades operacionais de usuários administrativos,
+especialmente na categoria de equipamento especificada. Dessa forma,
+entendemos que serão aceitos monitores que atendam a contraste estático mínimo
+de 1000:1 em substituição ao critério de contraste dinâmico, está correto o
+entendimento?
+Atenciosamente,
+Belo Horizonte. 19 de junho de 2026
+Julio Cesar Ferreira
+Gerente Governo de ES
+SIMPRESS COMÉRCIO, LOCAÇÃO E SERVIÇOS LTDA
+CPF: 032.055.946-73 – RG: MG10.021.941
+CNPJ 07.432.517/0001-07

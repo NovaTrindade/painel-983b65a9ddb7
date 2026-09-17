@@ -1,0 +1,26 @@
+{
+ "id": "18116137000171-2026-163",
+ "extraidoEm": "2026-09-17T11:52:55.682Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/18116137000171/2026/163",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-5-EDITAL-DIGITALIZACAO.txt",
+   "titulo": "5__EDITAL__DIGITALIZACAO.pdf",
+   "tipo": "Edital",
+   "paginas": 66,
+   "caracteres": 173437
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-7-AVISO-DE-PUBLICACAO.txt",
+   "titulo": "7__AVISO_DE_PUBLICACAO.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 744
+  }
+ ],
+ "totalPaginas": 67,
+ "totalCaracteres": 174181,
+ "comErro": 0
+}

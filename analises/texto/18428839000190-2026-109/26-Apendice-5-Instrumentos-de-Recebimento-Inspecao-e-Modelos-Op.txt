@@ -1,0 +1,300 @@
+=== DOCUMENTO 26: Apendice_5_-_Instrumentos_de_Recebimento__Inspecao_e_Modelos_Operacionais.pdf ===
+tipo: Outros Documentos | páginas: 7 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/26
+
+--- [pag. PDF 1] ---
+Apêndice 5 - Recebimento e Inspeção | Página 1 de 7
+APÊNDICE 5 – INSTRUMENTOS DE RECEBIMENTO, INSPEÇÃO E MODELOS
+OPERACIONAIS
+1 - FINALIDADE
+1.1 - Este Apêndice estabelece as regras gerais de aferição, recebimento, registro e aceite dos equipamentos
+e vincula os instrumentos específicos de verificação da conformidade. Os instrumentos não substituem as
+especificações completas do Termo de Referência. Em caso de divergência, prevalece o requisito técnico
+específico constante do Apêndice 1.
+2 - REGRAS DE AFERIÇÃO
+2.1 - A conformidade de características de fabricante será comprovada prioritariamente por documentação
+oficial do fabricante do equipamento ou componente, admitidos datasheet, manual, página oficial,
+declaração do fabricante, registro regulatório ou documento equivalente.
+2.2 - Os valores nominais mínimos de SSD (3.200 MB/s de leitura e 2.100 MB/s de gravação) serão aferidos
+pela especificação oficial correspondente à capacidade exata ofertada. Não será exigido cache dedicado
+quando a arquitetura da unidade atender ao desempenho e ao monitoramento S.M.A.R.T. Teste local
+poderá ser usado como verificação complementar, consideradas as variações da plataforma.
+2.3 - Para o processador do Computador Tipo I, a pontuação mínima de 38.000 (trinta e oito mil) pontos será
+aferida conforme a metodologia de PassMark/equivalência definida no Apêndice 1, com registro, nos autos,
+do modelo exato, da URL, da data e do horário da consulta. A verificação deverá confirmar que o
+equipamento opera na configuração homologada pelo fabricante, sem overclock ou ajuste fora dos limites
+oficiais; turbo ou boost automático dentro dos limites oficiais de fábrica não caracteriza overclock.
+2.4 - O cache total, a NPU dedicada quando exigida, a condição de linha ativa, a ausência de descontinuação
+formal, o suporte oficial do ciclo de vida e a capacidade de gerenciamento remoto Out-of-Band, inclusive
+por rede sem fio quando exigida, serão comprovados por documentação oficial correspondente ao
+processador e ao modelo de equipamento ofertados. O teste funcional da unidade selecionada deverá
+confirmar a identificação da NPU, quando exigida, e as operações OOB previstas no Apêndice 1, com o
+cabo de rede desconectado, a interface sem fio habilitada e a estação de teste operando sem dependência
+do sistema operacional.
+2.5 - A avaliação funcional complementará, sem substituir ou afastar, a verificação dos requisitos mínimos
+expressamente definidos no Apêndice 1. A rota modular ou integrada da memória do notebook, a
+capacidade mínima de 50 Wh e a autonomia nominal mínima de 6 horas serão comprovadas por
+documentação oficial correspondente à configuração ofertada. A capacidade e a autonomia da bateria, o
+desempenho funcional da controladora gráfica, o dimensionamento e a eficiência da fonte, o tipo de painel,
+o brilho e o contraste estático serão comprovados por documentação oficial do fabricante e, quando
+aplicável, por teste funcional. A VRAM dedicada e a potência nominal mínima da fonte ou do carregador
+constituirão critérios obrigatórios de aceitação sempre que expressamente previstas no Apêndice 1,
+devendo corresponder ao modelo e à configuração ofertados. Número de células, contraste dinâmico e
+outras características não fixadas como mínimas no Apêndice 1 não constituirão critérios autônomos de
+aceitação.
+2.6 - A ativação do Windows e do Microsoft Office será verificada por mecanismo oficial de licenciamento,
+admitida comprovação eletrônica, não sendo exigido lacre físico VOID.
+2.7 - Os recursos de BIOS/UEFI e gerenciamento OOB do Computador Tipo I serão testados em cenários
+separados: o OOB sem fio, com o cabo Ethernet desconectado, e o OOB/KVM por Ethernet, com o sistema
+operacional indisponível, validando energia, inventário, diagnóstico, acesso ao POST e BIOS/UEFI,
+indicação da sessão e registros de auditoria. A sanitização será ensaiada somente em unidade de teste
+com dados sintéticos e mediante autorização formal, sem uso de código malicioso real nos testes de
+segurança.
+2.8 - Para o Computador Tipo I, cada requisito aprovado será verificado individualmente no checklist. A
+indicação de conformidade dependerá de correspondência entre proposta, documentação, unidade de
+amostra quando exigida e equipamentos entregues. A Administração poderá diligenciar informação
+preexistente, sem admitir troca do modelo ou criação posterior de característica material.
+2.9 - Para o Computador Tipo II, cada requisito numerado do Apêndice 1 será verificado individualmente no
+checklist. A conformidade dependerá da correspondência entre a proposta, a documentação oficial, a
+
+--- [pag. PDF 2] ---
+Apêndice 5 - Recebimento e Inspeção | Página 2 de 7
+unidade de amostra, quando exigida, e os equipamentos entregues. A Administração poderá diligenciar
+informação preexistente para esclarecer ou confirmar requisito, sem admitir troca do modelo ofertado,
+criação posterior de característica material ou redução das exigências.
+3 - INSTRUMENTOS DE VERIFICAÇÃO DA CONFORMIDADE
+3.1 - A verificação técnica dos equipamentos será realizada mediante os instrumentos independentes
+relacionados a seguir, que integram este Apêndice e o Termo de Referência para todos os fins.
+3.2 - Instrumento 1 do Apêndice 5 – Checklist de Conformidade do Computador Tipo I.
+3.3 - Instrumento 2 do Apêndice 5 – Checklist de Conformidade do Computador Tipo II.
+3.4 - Instrumento 3 do Apêndice 5 – Checklist de Conformidade do Notebook.
+3.5 - Instrumento 4 do Apêndice 5 – Checklist de Conformidade do Monitor Adicional.
+3.6 - Os instrumentos destinam-se à verificação objetiva da proposta, da amostra, quando exigida, e dos
+equipamentos entregues, observadas as regras de aferição deste Apêndice.
+3.7 - Os checklists não criam, ampliam, reduzem ou substituem requisitos técnicos. Os critérios obrigatórios
+permanecem definidos no Termo de Referência e no Apêndice 1.
+3.8 - Cada requisito será verificado individualmente mediante documentação oficial, inspeção física, teste
+funcional ou outro meio de comprovação expressamente previsto, com registro do resultado e da evidência
+correspondente.
+3.9 - Em caso de divergência, prevalecerão as disposições do Termo de Referência e do Apêndice 1, devendo
+o instrumento ser corrigido antes de sua utilização.
+3.10 - Cada instrumento deverá identificar processo, contrato, fornecedor, fabricante, modelo, configuração,
+número de série, patrimônio ou lote, unidade, local, data, responsáveis pela verificação, resultado,
+evidências, diligências e providências.
+4 - CONCLUSÃO DOS CHECKLISTS E VINCULAÇÃO AOS TERMOS DE RECEBIMENTO
+4.1 - A conclusão registrada em cada checklist possui natureza técnica e subsidiará a emissão do Termo de
+Recebimento Provisório e, após a comprovação do cumprimento integral das obrigações, do Termo de
+Recebimento Definitivo.
+4.2 - A marcação de conformidade no checklist não produz, isoladamente, recebimento, autorização de
+faturamento ou quitação e não substitui os termos emitidos pelos agentes competentes.
+4.3 - O resultado conforme com pendências formais ou imateriais somente poderá ser utilizado quando as
+pendências não afetarem segurança, funcionamento, desempenho, compatibilidade, licenciamento,
+integridade, inventário ou requisito obrigatório. As pendências deverão ser corrigidas no prazo máximo de
+5 (cinco) dias úteis e não autorizarão faturamento antes de seu saneamento e da emissão do termo
+competente.
+4.4 - Toda não conformidade deverá identificar o equipamento ou lote, o requisito descumprido, a providência
+de correção ou substituição, o responsável, o prazo e a evidência de saneamento, mantendo vinculação
+com o respectivo registro de inspeção.
+4.5 - Quando o espaço disponível nos campos de não conformidades, providências, justificativas, observações
+ou evidências for insuficiente, deverá ser utilizada folha complementar identificada com o número do
+instrumento ou termo, equipamento ou lote, item correspondente, data e responsáveis. A folha
+complementar será vinculada ao registro principal, numerada, assinada quando aplicável e integrará o
+respectivo processo.
+5 - MODELOS MÍNIMOS DE REGISTRO OPERACIONAL
+5.1 - A Ordem de Serviço deverá identificar, no mínimo, o número da solicitação, a unidade e o endereço de
+atendimento, o tipo e a quantidade de equipamentos, o serviço requerido, os responsáveis, os prazos e os
+registros de emissão, recebimento e conclusão.
+5.2 - O Termo de Recebimento Provisório ou Definitivo deverá identificar a Ordem de Serviço, os equipamentos
+e números de série, a data de instalação, o resultado do checklist, as ressalvas, as providências pendentes
+e os responsáveis da CONTRATADA e da CONTRATANTE.
+
+--- [pag. PDF 3] ---
+Apêndice 5 - Recebimento e Inspeção | Página 3 de 7
+5.3 - O Termo de Substituição deverá registrar o equipamento retirado e o equipamento instalado, seus
+números de série e patrimônio quando aplicável, as datas, os locais, a custódia, o motivo da substituição e
+os responsáveis pela entrega e pelo recebimento.
+5.4 - O Relatório de Ocorrência Extraordinária deverá registrar o primeiro protocolo e seu horário, a natureza
+do evento, a unidade, os equipamentos, acessórios e números de série afetados, as evidências disponíveis,
+o impacto, a prioridade, as medidas emergenciais, o equipamento de contingência e as datas de
+restabelecimento e solução definitiva. Em furto ou roubo, registrará a data-limite e a apresentação do
+boletim de ocorrência. Havendo alegação de mau uso, identificará o laudo qualificado, o nexo causal, a
+possibilidade e o valor do reparo, o valor de reposição equivalente, a depreciação considerada, a
+manifestação das partes e a decisão administrativa, sem antecipar responsabilidade financeira. O registro
+da ocorrência não caracterizará, por si só, reconhecimento de cobertura ou responsabilidade financeira,
+observada a delimitação do Termo de Referência, da matriz de riscos, do edital e do contrato.
+6 - PILOTO E RECEBIMENTO POR ONDA
+6.1 - O piloto e cada onda serão recebidos mediante checklist representativo, validação da imagem, licenças,
+segurança, integrações, migração, monitoramento, linha de base, funcionamento e documentação.
+6.2 - A implantação em massa dependerá do aceite do piloto. Falha relevante suspenderá a onda seguinte até
+correção e novo teste.
+7 - CONDIÇÕES PARA ATIVAÇÃO E FATURAMENTO
+7.1 - A unidade somente se tornará ativa e faturável após instalação, configuração, imagem homologada,
+atualização, inventário, linha de base, testes, acessórios e aceite formal. Entrega, estoque, reserva,
+trânsito, recusa ou configuração pendente não geram faturamento.
+7.2 - No primeiro e último mês, o valor observará os dias corridos efetivamente ativos. Substituição provisória
+ou definitiva não produzirá dupla cobrança.
+8 - RECUSA PARCIAL E CONTRAPROVA
+8.1 - A Administração poderá aceitar unidades conformes e recusar apenas equipamentos, acessórios ou
+serviços irregulares, indicando requisito, evidência e providência. A unidade recusada não será faturada e
+será submetida a novo teste após correção.
+8.2 - Aceite não afasta defeito oculto, garantia, segurança, desempenho ou responsabilidade. Divergência
+técnica poderá ser submetida a contraprova documentada.
+9 - VERIFICAÇÃO DE AMOSTRA CONDICIONADA
+9.1 - A análise documental será a regra. Se o edital prever e a Administração, mediante decisão motivada,
+solicitar amostra para característica não comprovável por documento, somente o licitante provisoriamente
+vencedor será convocado.
+9.2 - Cada verificação indicará objetivo, procedimento, resultado esperado e evidência. Todos os requisitos
+obrigatórios deverão ser atendidos; requisito informativo não reprovará isoladamente; não será permitida
+troca do modelo ou alteração substancial da proposta.
+10 - MODELOS COMPLEMENTARES DE REGISTRO
+10.1 - O Termo de Linha de Base registrará fabricante, modelo, número de série, UUID quando disponível,
+placa principal, processador, quantidade e disposição dos módulos de memória, armazenamento e
+identificadores disponíveis, GPU quando aplicável, interfaces de rede, BIOS/UEFI, firmwares relevantes,
+desempenho, temperatura e bateria quando aplicável, além de versão, data, origem dos dados,
+responsáveis, aprovação e mecanismo de integridade.
+10.2 - Quando componente não disponibilizar número de série confiável, o registro utilizará os melhores
+identificadores técnicos disponíveis e indicará expressamente a limitação, sem criar informação inexistente.
+10.3 - O Certificado de Sanitização registrará equipamento, mídia, números de série, método, ferramenta,
+versão, data, resultado, executante, verificador e destinação.
+10.4 - O Termo de Cadeia de Custódia registrará origem, destino, finalidade, lacre, condição aparente, datas,
+horários e responsáveis por cada transferência.
+
+--- [pag. PDF 4] ---
+Apêndice 5 - Recebimento e Inspeção | Página 4 de 7
+11 - TESTES DE RASTREABILIDADE E INTEGRIDADE
+11.1 - Os testes de integridade serão executados em ambiente controlado, durante o piloto, sobre ao menos
+uma unidade representativa de cada modelo e configuração de Microcomputador Tipo I e Tipo II. Os testes
+de linha de base e rastreabilidade lógica também se aplicarão ao Notebook. Falha relevante autorizará
+ampliação da amostra e impedirá implantação em massa até correção e nova verificação.
+11.2 - Teste de intrusão do gabinete: confirmar, pela documentação oficial e pela inspeção física, que o sensor
+integra o projeto original ou é oficialmente homologado para o modelo e está instalado, conectado e
+habilitado; registrar o estado normal e a linha de base; abrir e fechar a tampa por técnico autorizado, com
+Ordem de Serviço; verificar detecção, persistência do estado após o fechamento, associação ao número
+de série, consulta na BIOS/UEFI, ferramenta oficial ou mecanismo equivalente, ingestão pela plataforma,
+alerta no painel, notificação e trilha auditável; confrontar o evento com a Ordem de Serviço e confirmar sua
+classificação administrativa; reconhecer o evento somente após registrar o resultado e a autorização.
+11.3 - Teste de alteração de memória: registrar a linha de base; realizar, em equipamento de teste e mediante
+Ordem de Serviço, alteração controlada de módulo ou capacidade; inicializar ou reconectar; verificar
+comparação, identificação do valor anterior e atual, correlação com a autorização e geração do evento;
+restaurar a configuração e registrar nova coleta.
+11.4 - Teste de alteração de armazenamento: utilizar unidade de teste e dados sintéticos; registrar modelo,
+capacidade e identificador disponível; substituir controladamente a unidade; verificar detecção,
+comparação, alerta, correlação e trilha; restaurar ou sanitizar a mídia conforme procedimento autorizado,
+sem exposição de dados reais.
+11.5 - Teste de movimentação lógica: cadastrar o equipamento na localização prevista A; conectá-lo à
+localização lógica B controlada; verificar evidência utilizada, data e hora, divergência, alerta, histórico e
+notificação; registrar movimentação autorizada; confirmar atualização do inventário e normalização do
+status.
+11.6 - A aceitação exigirá resultado reproduzível, exportação das evidências, identificação das condições
+necessárias e registro das limitações. Nenhum teste poderá utilizar credenciais compartilhadas, código
+malicioso, dados pessoais reais desnecessários ou procedimento que comprometa a garantia do
+equipamento.
+12 - REGISTROS E ACEITES DA RENOVAÇÃO TECNOLÓGICA
+12.1 - A renovação tecnológica será documentada pelos instrumentos deste Apêndice e, quando adotado
+sistema eletrônico, por registros equivalentes que preservem todos os campos, responsáveis, evidências
+e assinaturas exigíveis.
+12.2 - A matriz de evolução tecnológica registrará, por categoria e modelo, a configuração originalmente
+contratada, a efetivamente instalada, a proposta para o segundo ciclo, cada critério comparado, fonte, data,
+evidência, resultado e aprovação técnica.
+12.3 - O registro do piloto identificará unidade, perfil, equipamento anterior, equipamento substituto, números
+de série, imagem e hash, licenças, testes, migração autorizada, contingência, reversão, ocorrências,
+resultado e decisão de aprovação ou correção.
+12.4 - O registro individual de renovação conterá, no mínimo: categoria; secretaria e unidade; série anterior e
+nova; datas de retirada, instalação, teste, aceite técnico inicial, estabilização e aceite definitivo; resultado
+da migração; atualização do inventário; nova linha de base; sanitização; cadeia de custódia; e destinação.
+12.5 - O aceite técnico inicial confirmará a instalação e a aptidão para o início da estabilização, mas não
+autorizará a contabilização no IRA. Pendência material de desempenho, segurança, compatibilidade,
+licenciamento, migração ou inventário impedirá o aceite definitivo.
+12.6 - A unidade somente será contabilizada no IRA após aceite definitivo, atualização do inventário e registro
+da nova linha de base. O instrumento indicará expressamente a data a partir da qual a unidade integrou o
+numerador do indicador.
+12.7 - A retirada e a sanitização do equipamento anterior serão comprovadas por registro de cadeia de custódia
+e certificado de sanitização, com identificação da mídia, método, ferramenta, versão, data, resultado,
+executante, verificador e destinação.
+
+--- [pag. PDF 5] ---
+Apêndice 5 - Recebimento e Inspeção | Página 5 de 7
+13 - MODELOS AUTÔNOMOS DE REGISTRO OPERACIONAL
+13.1 - Os modelos a seguir poderão ser reproduzidos em sistema eletrônico ou formulário equivalente, desde
+que todos os campos mínimos, vínculos, evidências, responsáveis, datas e assinaturas aplicáveis sejam
+preservados. Seu preenchimento não substitui os atos de competência definidos no Termo de Referência.
+13.2 - ORDEM DE SERVIÇO
+Campo mínimo
+Identificação
+Unidade solicitante
+Local de execução
+Objeto da solicitação
+Equipamentos e quantidades
+Escopo e resultado esperado
+Prioridade e prazos
+Condições e dependências
+Responsáveis
+Recebimento e encerramento
+Autorização
+13.3 - TERMO DE RECEBIMENTO PROVISÓRIO OU DEFINITIVO
+Campo mínimo
+Natureza do termo
+Identificação
+Objeto recebido
+Instalação e disponibilização
+Verificação técnica
+Resultado do recebimento
+Ressalvas ou não conformidades
+Providências
+Data de eficácia do registro
+Responsáveis
+
+--- [pag. PDF 6] ---
+Apêndice 5 - Recebimento e Inspeção | Página 6 de 7
+Campo mínimo
+Assinaturas
+13.4 - TERMO DE SUBSTITUIÇÃO
+Campo mínimo
+Identificação
+Motivo e natureza
+Equipamento retirado
+Equipamento instalado
+Equivalência e aprovação
+Recomposição
+Inventário e rastreabilidade
+Prazos operacionais
+Custódia e sanitização
+Validação
+Responsáveis e assinaturas
+13.5 - RELATÓRIO DE OCORRÊNCIA EXTRAORDINÁRIA OU INCIDENTE
+Campo mínimo
+Identificação
+Evento
+Local e ativos afetados
+Marcos temporais
+Impacto e prioridade
+Contenção e continuidade
+Restabelecimento e solução
+Comunicações e atualizações
+Evidências
+
+--- [pag. PDF 7] ---
+Apêndice 5 - Recebimento e Inspeção | Página 7 de 7
+Campo mínimo
+Furto ou roubo
+Apuração
+Providências
+Conclusão administrativa
+Assinaturas
+13.6 - TERMO DE MIGRAÇÃO
+Campo mínimo
+Identificação e autorização
+Escopo
+Origem
+Destino
+Imagem e licenças
+Ferramentas e executores
+Marcos temporais
+Proteção e contingência
+Resultado
+Validação funcional
+Reversão
+Cópias temporárias e sanitização
+Credenciais
+Aceite
+Código: 9ee8750b-610b-4baf-81b5-5b1f3606022a
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

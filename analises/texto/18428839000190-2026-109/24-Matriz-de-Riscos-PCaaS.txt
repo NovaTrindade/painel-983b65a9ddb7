@@ -1,0 +1,790 @@
+=== DOCUMENTO 24: Matriz_de_Riscos_PCaaS.pdf ===
+tipo: Outros Documentos | páginas: 15 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/24
+
+--- [pag. PDF 1] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 1
+PREFEITURA MUNICIPAL DE UBERABA/MG
+MATRIZ DE ALOCAÇÃO DE RISCOS
+CONTRATAÇÃO DE SOLUÇÃO PCaaS
+Elaborada em conformidade com os arts. 22 e 103 da Lei Federal nº 14.133/2021
+Organização estruturada para fins de documentação e gestão dos riscos da contratação PCaaS
+Conteúdo material baseado exclusivamente nos documentos da contratação PCaaS
+Sumário
+1. Apresentação, Objeto e Contexto da Contratação
+2. Fundamentação Legal e Principiológica da Matriz de Riscos
+2.1 Base normativa
+2.2 Previsibilidade
+2.3 Segurança jurídica
+2.4 Eficiência na execução do contrato
+2.5 Transparência e isonomia
+3. Metodologia de Avaliação e Alocação de Riscos
+3.1 Escalas de probabilidade e impacto
+3.2 Índice de severidade
+3.3 Risco inerente e risco residual
+3.4 Critério de alocação
+4. Identificação e Classificação dos Riscos
+4.1 Natureza da responsabilidade
+5. Painel Gráfico Consolidado
+6. Alocação Detalhada dos Riscos — Fichas por Categoria
+6.1 Categoria A — Mercado e Econômico-Financeiro
+6.2 Categoria B — Implantação, Fornecimento, Prazo e Operação
+6.3 Categoria C — Danos, Eventos Externos e Infraestrutura
+
+--- [pag. PDF 2] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 2
+6.4 Categoria D — Tecnologia, Jurídicos e Financeiros
+6.5 Categoria E — Governança, Transição e Encerramento
+7. Painel Analítico da Matriz
+8. Quadro-Síntese de Responsabilidades por Fase do Ciclo Contratual
+9. Governança, Monitoramento e Atualização da Matriz
+10. Considerações Finais
+1. Apresentação, Objeto e Contexto da Contratação
+A presente Matriz de Alocação de Riscos consolida os riscos da contratação de solução integrada de estações
+de trabalho como serviço (PCaaS — PC as a Service), incluindo equipamentos, licenciamento, implantação,
+inventário, monitoramento, suporte, manutenção, substituição, segurança, renovação tecnológica e
+desmobilização.
+O Termo de Referência prevê 2.299 Microcomputadores Tipo I, 403 Tipo II, 155 Notebooks e 320 Monitores
+Adicionais, com medição por unidade PCaaS/mês efetivamente instalada, recebida, aceita e ativa.
+Elemento Caracterização
+Objeto Prestação contínua de solução PCaaS e serviços associados.
+Quantitativos 2.299 Tipo I; 403 Tipo II; 155 Notebooks; 320 Monitores.
+Medição PCaaS/mês por unidade instalada, recebida, aceita e ativa.
+Ciclo Implantação, operação, manutenção, renovação e encerramento.
+Base documental ETP, TR e Apêndices 1 a 6.
+O Apêndice 2 diferencia implantação imediata e demanda futura e estabelece que somente unidades
+solicitadas, instaladas, recebidas, aceitas e ativas sejam faturáveis, além da reserva técnica de 2%.
+2. Fundamentação Legal e Principiológica da Matriz de Riscos
+2.1 Base normativa
+A arquitetura segue os arts. 6º, XXVII, 18, X, 22 e 103 da Lei nº 14.133/2021. O art. 42 não é tratado como
+dispositivo específico de matriz de riscos, pois sua matéria é diversa.
+2.2 Previsibilidade
+A matriz define previamente a responsabilidade por indisponibilidade, atrasos, custos ordinários, alterações
+normativas e eventos externos, permitindo precificação e gestão antecipada.
+2.3 Segurança jurídica
+Gatilhos, evidências, nexo causal, SLA, glosa e reequilíbrio passam a possuir critérios objetivos, reduzindo
+disputas.
+2.4 Eficiência na execução do contrato
+A alocação privilegia quem possui maior capacidade de prevenir, controlar ou mitigar o evento.
+
+--- [pag. PDF 3] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 3
+2.5 Transparência e isonomia
+Todos os licitantes conhecem previamente o mesmo regime de riscos, reduzindo subjetividade e assimetria.
+3. Metodologia de Avaliação e Alocação de Riscos
+3.1 Escalas de probabilidade e impacto
+Escala Probabilidade Impacto
+1 Rara Insignificante
+2 Pouco provável Pequeno
+3 Possível Moderado
+4 Provável Grande
+5 Quase certa Severo
+3.2 Índice de severidade
+Índice = Probabilidade × Impacto, de 1 a 25. Bandas: 1–4 Baixo; 5–9 Moderado; 10–16 Alto; 17–25 Crítico.
+3.3 Risco inerente e risco residual
+O risco inerente mede a exposição antes dos controles; o residual, após os controles. O residual é instrumento
+gerencial e não altera sozinho a alocação jurídica.
+3.4 Critério de alocação
+Foram considerados controle causal, capacidade de mitigação, domínio técnico, continuidade, cobertura,
+previsibilidade, nexo causal e capacidade de absorção.
+
+--- [pag. PDF 4] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 4
+4. Identificação e Classificação dos Riscos
+Nº Risco
+identificado Fase Categoria P I Sev. Classificação Alocação
+A1
+Aumento
+ordinário de
+custos da cadeia
+de suprimentos
+Execução e
+Fornecimento
+Mercado/Econôm
+ico-Financeiro 4 3 12 Alto Contratado
+A2
+Variação
+extraordinária de
+custos por evento
+imprevisível
+Execução Mercado/Econôm
+ico-Financeiro 2 5 10 Alto Compartilhado
+A3
+Inexequibilidade
+decorrente de
+proposta/lance
+incompatível com
+custos reais
+Seleção do
+Fornecedor
+Econômico/Seleç
+ão 3 4 12 Alto Contratado
+A4
+Restrição
+orçamentária
+para acionamento
+da demanda
+futura
+Planejamento/Ex
+ecução Orçamentário 2 4 8 Moderado Contratante
+B1
+Atraso na
+implantação
+inicial
+Implantação Prazo/Logística 3 5 15 Alto Contratado
+B2
+Entrega de
+equipamento em
+desconformidade
+Implantação/Acei
+te Qualidade 3 5 15 Alto Contratado
+B3
+Falha
+documental/evid
+encial para
+medição
+Gestão/Medição Governança 3 4 12 Alto Compartilhado
+B4
+Indisponibilidade
+de equipamento
+crítico
+Operação Continuidade 4 5 20 Crítico Contratado
+B5 Descumprimento
+de SLA Operação Nível de Serviço 3 5 15 Alto Contratado
+B6 Falha da central
+de chamados
+Operação/Govern
+ança Nível de Serviço 3 4 12 Alto Contratado
+B7
+Manutenção
+preventiva
+insuficiente
+Operação Manutenção 3 4 12 Alto Contratado
+B8
+Substituição por
+equipamento
+inferior
+Operação Qualidade/Equiva
+lência 2 5 10 Alto Contratado
+B9
+Falha de
+migração/configu
+ração
+Implantação/Tra
+nsição Transição 3 4 12 Alto Compartilhado
+B10 Inventário
+desatualizado Gestão Governança/Ativ
+os 3 4 12 Alto Contratado
+B11
+Falha logística de
+peças/equipamen
+tos
+Operação Logística 3 4 12 Alto Contratado
+B12
+Reserva técnica
+insuficiente ou
+não recomposta
+Operação Continuidade 2 5 10 Alto Contratado
+C1 Furto, roubo ou
+extravio Operação Evento
+operacional 3 4 12 Alto Compartilhado
+C2 Dano acidental no
+uso regular Operação Dano físico 3 4 12 Alto Contratado
+C3
+Incêndio, fumaça
+ou fuligem —
+item 4.9.5
+Evento externo Evento
+externo/4.9.5 2 5 10 Alto Conforme nexo
+causal
+C4
+Vazamento ou
+infiltração — item
+4.9.5
+Evento externo Evento
+externo/4.9.5 3 4 12 Alto Conforme nexo
+causal
+C5 Alagamento —
+item 4.9.5 Evento externo Evento
+externo/4.9.5 2 5 10 Alto Conforme nexo
+causal
+C6
+Ações do
+tempo/eventos
+climáticos — item
+4.9.5
+Evento externo Evento
+externo/4.9.5 3 4 12 Alto Conforme nexo
+causal
+C7 Evento elétrico
+coberto
+Operação/Infraes
+trutura Infraestrutura 3 4 12 Alto Contratado
+C8
+Irregularidade da
+infraestrutura
+elétrica
+Infraestrutura Infraestrutura 3 4 12 Alto Contratante
+D1
+Obsolescência/de
+scontinuação de
+fabricante ou
+componente
+Ciclo de Vida Tecnologia 3 4 12 Alto Contratado
+D2
+Perda de
+desempenho ao
+longo do contrato
+Ciclo de Vida Tecnologia/Dese
+mpenho 3 4 12 Alto Contratado
+D3
+Alteração
+superveniente
+com impacto na
+execução
+Execução Jurídico/Regulató
+rio 2 4 8 Moderado Compartilhado
+D4
+Erro de
+medição/faturam
+ento
+Gestão Financeira Medição 3 4 12 Alto Compartilhado
+
+--- [pag. PDF 5] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 5
+D5
+Glosa aplicada
+sem nexo com o
+descumprimento
+Gestão Financeira Medição/IMR 2 4 8 Moderado Contratante
+E1 Fiscalização/gest
+ão insuficiente Governança Governança 3 5 15 Alto Contratante
+E2
+Desmobilização/l
+ogística reversa
+inadequada
+Encerramento Encerramento/Se
+gurança 2 4 8 Moderado Contratado
+E3
+Dificuldade na
+transição ou saída
+da solução PCaaS
+Estratégico/Trans
+ição Continuidade 3 5 15 Alto Contratado
+4.1 Natureza da responsabilidade
+Riscos contratuais estão ligados à execução do PCaaS; riscos internos de governança permanecem na esfera
+administrativa; riscos compartilhados exigem atuação coordenada e apuração objetiva.
+5. Painel Gráfico Consolidado
+Figura 2 — Ranking de severidade inerente e residual.
+Figura 3 — Distribuição da alocação dos riscos.
+
+--- [pag. PDF 6] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 6
+Figura 4 — Distribuição dos riscos por categoria.
+6.1 Categoria A — Mercado e Econômico-Financeiro
+A1 — Aumento ordinário de custos da cadeia de suprimentos
+Elemento Descrição
+Categoria Mercado/Econômico-Financeiro | Fase: Execução e Fornecimento
+Probabilidade × Impacto P = 4 | I = 3
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Aumento ordinário de custos da cadeia de suprimentos
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Consideração dos custos necessários à execução na formação da proposta e
+aplicação do reajuste nos termos contratuais.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+
+--- [pag. PDF 7] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 7
+Dispositivo / referência Termo de Referência
+A2 — Variação extraordinária de custos com impacto na execução
+Elemento Descrição
+Categoria Mercado/Econômico-Financeiro | Fase: Execução
+Probabilidade × Impacto P = 2 | I = 5
+Severidade (inerente → residual) 10 (Alto) → 4 (Baixo)
+Alocação Compartilhado
+Gatilho / evento deflagrador Variação extraordinária de custos com impacto na execução.
+Consequência Ocorrência extraordinária de custos com possível repercussão na execução
+contratual.
+Medida de mitigação Análise de eventual reequilíbrio pela Administração, quando cabível, mediante
+decisão motivada.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+A3 — Proposta/lance com preço incompatível com os custos necessários à execução
+Elemento Descrição
+Categoria Econômico/Seleção | Fase: Seleção do Fornecedor
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Proposta/lance com preço incompatível com os custos necessários à execução.
+Consequência Proposta com preço global ou unitário incompatível com os custos necessários à
+execução integral.
+Medida de mitigação Responsabilidade pela formação da proposta e análise de aceitabilidade pela
+Administração, inclusive quanto à coerência dos componentes de custo.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+A4 — Restrição orçamentária para acionamento da demanda futura
+Elemento Descrição
+Categoria Orçamentário | Fase: Planejamento/Execução
+Probabilidade × Impacto P = 2 | I = 4
+Severidade (inerente → residual) 8 (Moderado) → 4 (Baixo)
+Alocação Contratante
+Gatilho / evento deflagrador Restrição orçamentária para acionamento da demanda futura
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Planejamento orçamentário e acionamento por Ordem de Serviço.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+6.2 Categoria B — Implantação, Fornecimento, Prazo e Operação
+B1 — Atraso na implantação inicial
+Elemento Descrição
+Categoria Prazo/Logística | Fase: Implantação
+Probabilidade × Impacto P = 3 | I = 5
+Severidade (inerente → residual) 15 (Alto) → 7 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Atraso na implantação inicial
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Plano de implantação, cronograma, marcos e contingência.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+
+--- [pag. PDF 8] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 8
+B2 — Entrega de equipamento em desconformidade
+Elemento Descrição
+Categoria Qualidade | Fase: Implantação/Aceite
+Probabilidade × Impacto P = 3 | I = 5
+Severidade (inerente → residual) 15 (Alto) → 7 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Entrega de equipamento em desconformidade
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Checklists, documentação oficial, testes e aceite.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B3 — Falha documental/evidencial para medição
+Elemento Descrição
+Categoria Governança | Fase: Gestão/Medição
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Compartilhado
+Gatilho / evento deflagrador Falha documental/evidencial para medição
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Reconciliação entre OS, aceite, inventário, chamados, telemetria e logs.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B4 — Indisponibilidade de equipamento crítico
+Elemento Descrição
+Categoria Continuidade | Fase: Operação
+Probabilidade × Impacto P = 4 | I = 5
+Severidade (inerente → residual) 20 (Crítico) → 9 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Indisponibilidade de equipamento crítico
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação SLA P1/P2, monitoramento, reserva técnica e substituição.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B5 — Descumprimento de SLA
+Elemento Descrição
+Categoria Nível de Serviço | Fase: Operação
+Probabilidade × Impacto P = 3 | I = 5
+Severidade (inerente → residual) 15 (Alto) → 7 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Descumprimento de SLA
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Central de chamados, indicadores, escalonamento e contingência.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B6 — Falha da central de chamados
+Elemento Descrição
+Categoria Nível de Serviço | Fase: Operação/Governança
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Falha da central de chamados
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Tratamento conforme a central de chamados e os níveis de serviço previstos, com
+preservação dos registros da execução.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+
+--- [pag. PDF 9] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 9
+Dispositivo / referência Termo de Referência
+B7 — Manutenção preventiva insuficiente
+Elemento Descrição
+Categoria Manutenção | Fase: Operação
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Manutenção preventiva insuficiente
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Calendário preventivo, evidências e relatórios.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B8 — Substituição por equipamento inferior
+Elemento Descrição
+Categoria Qualidade/Equivalência | Fase: Operação
+Probabilidade × Impacto P = 2 | I = 5
+Severidade (inerente → residual) 10 (Alto) → 4 (Baixo)
+Alocação Contratado
+Gatilho / evento deflagrador Substituição por equipamento inferior
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Equivalência requisito a requisito e validação técnica.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B9 — Falha de migração/configuração
+Elemento Descrição
+Categoria Transição | Fase: Implantação/Transição
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Compartilhado
+Gatilho / evento deflagrador Falha de migração/configuração
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Piloto, checklist, rollback e aceite.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B10 — Inventário desatualizado
+Elemento Descrição
+Categoria Governança/Ativos | Fase: Gestão
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Inventário desatualizado
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Inventário vinculado a OS/ativo e auditoria.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B11 — Falha logística de peças/equipamentos
+Elemento Descrição
+Categoria Logística | Fase: Operação
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Falha logística de peças/equipamentos
+
+--- [pag. PDF 10] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 10
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Reserva técnica e alternativas logísticas.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+B12 — Reserva técnica insuficiente ou não recomposta
+Elemento Descrição
+Categoria Continuidade | Fase: Operação
+Probabilidade × Impacto P = 2 | I = 5
+Severidade (inerente → residual) 10 (Alto) → 4 (Baixo)
+Alocação Contratado
+Gatilho / evento deflagrador Reserva técnica insuficiente ou não recomposta
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Reserva de 2% por categoria e recomposição.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+6.3 Categoria C — Danos, Eventos Externos e Infraestrutura
+C1 — Furto, roubo ou extravio
+Elemento Descrição
+Categoria Evento operacional | Fase: Operação
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Compartilhado
+Gatilho / evento deflagrador Furto, roubo ou extravio
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Comunicação, apuração, contingência e substituição conforme matriz.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+C2 — Dano acidental no uso regular
+Elemento Descrição
+Categoria Dano físico | Fase: Operação
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Dano acidental no uso regular
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Cobertura prevista, contingência e substituição.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+C3 — Incêndio, fumaça ou fuligem — item 4.9.5
+Elemento Descrição
+Categoria Evento externo/4.9.5 | Fase: Evento externo
+Probabilidade × Impacto P = 2 | I = 5
+Severidade (inerente → residual) 10 (Alto) → 4 (Baixo)
+Alocação Conforme nexo causal
+Gatilho / evento deflagrador Incêndio, fumaça ou fuligem — item 4.9.5
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Não presumir cobertura; apurar nexo e preservar continuidade materialmente
+possível.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+
+--- [pag. PDF 11] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 11
+C4 — Vazamento ou infiltração — item 4.9.5
+Elemento Descrição
+Categoria Evento externo/4.9.5 | Fase: Evento externo
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Conforme nexo causal
+Gatilho / evento deflagrador Vazamento ou infiltração — item 4.9.5
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Apuração causal, preservação de evidências e contingência.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+C5 — Alagamento — item 4.9.5
+Elemento Descrição
+Categoria Evento externo/4.9.5 | Fase: Evento externo
+Probabilidade × Impacto P = 2 | I = 5
+Severidade (inerente → residual) 10 (Alto) → 4 (Baixo)
+Alocação Conforme nexo causal
+Gatilho / evento deflagrador Alagamento — item 4.9.5
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Plano de continuidade, contenção, contingência e apuração.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+C6 — Ações do tempo/eventos climáticos — item 4.9.5
+Elemento Descrição
+Categoria Evento externo/4.9.5 | Fase: Evento externo
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Conforme nexo causal
+Gatilho / evento deflagrador Ações do tempo/eventos climáticos — item 4.9.5
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Avaliação do evento, contenção, continuidade e apuração.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+C7 — Evento elétrico coberto
+Elemento Descrição
+Categoria Infraestrutura | Fase: Operação/Infraestrutura
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Evento elétrico coberto
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Diagnóstico, reparo/substituição e contingência.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+C8 — Irregularidade da infraestrutura elétrica
+Elemento Descrição
+Categoria Infraestrutura | Fase: Infraestrutura
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratante
+Gatilho / evento deflagrador Irregularidade da infraestrutura elétrica
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação
+Registro da irregularidade em laudo com medições, causa provável e
+recomendações; a obrigação não inclui a manutenção ou a reparação da rede
+elétrica municipal.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+
+--- [pag. PDF 12] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 12
+Dispositivo / referência Termo de Referência
+6.4 Categoria D — Tecnologia, Jurídicos e Financeiros
+D1 — Obsolescência/descontinuação de fabricante ou componente
+Elemento Descrição
+Categoria Tecnologia | Fase: Ciclo de Vida
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Obsolescência/descontinuação de fabricante ou componente
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Monitoramento de ciclo de vida, equivalência e substituição.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+D2 — Perda de desempenho ao longo do contrato
+Elemento Descrição
+Categoria Tecnologia/Desempenho | Fase: Ciclo de Vida
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Perda de desempenho ao longo do contrato
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Monitoramento, upgrade/substituição e baseline.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+D3 — Alteração superveniente com impacto na execução
+Elemento Descrição
+Categoria Jurídico/Regulatório | Fase: Execução
+Probabilidade × Impacto P = 2 | I = 4
+Severidade (inerente → residual) 8 (Moderado) → 4 (Baixo)
+Alocação Compartilhado
+Gatilho / evento deflagrador Alteração superveniente que afete as condições de execução.
+Consequência Impacto nas condições de execução, conforme a alteração ocorrida.
+Medida de mitigação Análise do impacto e formalização adequada de eventual modificação de escopo,
+prazo, preço ou responsabilidade.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+D4 — Erro de medição/faturamento
+Elemento Descrição
+Categoria Medição | Fase: Gestão Financeira
+Probabilidade × Impacto P = 3 | I = 4
+Severidade (inerente → residual) 12 (Alto) → 5 (Moderado)
+Alocação Compartilhado
+Gatilho / evento deflagrador Erro de medição/faturamento
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Conciliação mensal e preservação da parcela incontroversa.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+D5 — Glosa aplicada sem nexo com o descumprimento
+Elemento Descrição
+
+--- [pag. PDF 13] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 13
+Categoria Medição/IMR | Fase: Gestão Financeira
+Probabilidade × Impacto P = 2 | I = 4
+Severidade (inerente → residual) 8 (Moderado) → 4 (Baixo)
+Alocação Contratante
+Gatilho / evento deflagrador Glosa aplicada sem nexo com o descumprimento
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Decisão motivada, IMR objetivo e vedação de dupla incidência.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+6.5 Categoria E — Governança, Transição e Encerramento
+E1 — Fiscalização/gestão insuficiente
+Elemento Descrição
+Categoria Governança | Fase: Governança
+Probabilidade × Impacto P = 3 | I = 5
+Severidade (inerente → residual) 15 (Alto) → 7 (Moderado)
+Alocação Contratante
+Gatilho / evento deflagrador Fiscalização/gestão insuficiente
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Gestor/fiscais, indicadores, reuniões e trilha documental.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+E2 — Desmobilização/logística reversa inadequada
+Elemento Descrição
+Categoria Encerramento/Segurança | Fase: Encerramento
+Probabilidade × Impacto P = 2 | I = 4
+Severidade (inerente → residual) 8 (Moderado) → 4 (Baixo)
+Alocação Contratado
+Gatilho / evento deflagrador Desmobilização/logística reversa inadequada
+Consequência Impacto potencial sobre continuidade, custo, prazo, segurança, medição ou
+equilíbrio contratual.
+Medida de mitigação Plano de saída, cadeia de custódia, sanitização e logística reversa.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+E3 — Dificuldade na transição ou saída da solução PCaaS
+Elemento Descrição
+Categoria Continuidade | Fase: Encerramento/Transição
+Probabilidade × Impacto P = 3 | I = 5
+Severidade (inerente → residual) 15 (Alto) → 7 (Moderado)
+Alocação Contratado
+Gatilho / evento deflagrador Dificuldade na transição ou saída da solução PCaaS
+Consequência Dificuldade para executar a transição, exportação, migração, sanitização, retirada
+ou cooperação com eventual sucessora.
+Medida de mitigação Plano de Saída, exportação em formato aberto, migração, sanitização, retirada
+faseada e cooperação com eventual sucessora.
+Responsável pelo monitoramento Gestor/Fiscal, com participação da CONTRATADA quando aplicável.
+Dispositivo / referência Termo de Referência
+9. Tratamento Especial dos Itens 4.9.5 e 4.9.6 do TR
+Os riscos C3 a C6 recebem tratamento específico. Os eventos externos ali contemplados não devem gerar
+presunção automática de responsabilidade da contratada. A definição financeira depende da apuração das
+circunstâncias e do nexo causal.
+
+--- [pag. PDF 14] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 14
+Situação Tratamento
+Evento externo sem ação/omissão comprovada da contratada Aplicação da alocação específica após apuração; sem transferência automática.
+Evento causado por ação/omissão da contratada Contratada responde pelas consequências diretamente vinculadas ao nexo causal.
+Causa concorrente Apuração da contribuição causal de cada parte.
+Continuidade Contenção, segurança, comunicação e continuidade materialmente possíveis
+devem ser preservadas.
+Divergência Preservação de evidências, registro técnico e decisão fundamentada.
+O tratamento separa expressamente a continuidade operacional da responsabilidade financeira, evitando que
+uma obrigação emergencial seja confundida com assunção automática do custo definitivo.
+7. Painel Analítico da Matriz
+Figura 5 — Redução do índice de severidade após controles.
+Indicador Resultado
+Total de riscos 32
+Baixos 0
+Moderados 4
+Altos 27
+Críticos 1
+Maior severidade inerente 20
+Maior residual 9
+8. Quadro-Síntese de Responsabilidades por Fase do Ciclo Contratual
+Fase do ciclo contratual Riscos representativos Responsável principal Racional
+1. Planejamento e preparação A3, A4, E1 Contratante Pesquisa, orçamento e governança.
+2. Seleção do fornecedor A3, B2 Contratante/Contratado
+Administração conduz certame;
+licitante responde pela
+proposta/conformidade.
+3. Implantação e transição B1, B2, B3, B9, E3 Predominantemente Contratado Controle técnico, logístico e
+operacional.
+4. Operação e SLA B4–B8, B11–B12 Contratado
+Riscos operacionais
+predominantemente sob controle da
+prestadora.
+
+--- [pag. PDF 15] ---
+Matriz de Alocação de Riscos — Solução PCaaS | Página 15
+5. Eventos externos e infraestrutura C1–C7; C8 Conforme alocação específica
+Eventos externos segundo apuração;
+infraestrutura elétrica sob
+responsabilidade da CONTRATANTE,
+sem prejuízo da cobertura dos
+equipamentos prevista no TR.
+6. Ciclo de vida e gestão financeira D1–D5 Compartilhado/Contratado
+Tecnologia pela contratada;
+governança/medição pela
+Administração.
+7. Encerramento E2–E3 Contratado
+Saída segura, dados, logística reversa e
+transição sob as obrigações previstas
+no TR.
+9. Governança, Monitoramento e Atualização da Matriz
+Indicador Métrica Gatilho Responsável Periodicidade
+Disponibilidade % unidades ativas Desvio da meta Gestor/Fiscal + Contratada Contínuo/Mensal
+SLA % dentro do prazo Desvio relevante Fiscal Mensal
+Reserva técnica % por categoria < 2% / não recomposição Contratada Semanal
+Implantação/Renovação % base concluída Desvio de marco Gestor/Fiscal Semanal
+Inventário % conciliado Divergência Gestor/Fiscal Mensal
+Segurança Incidentes/severidade Incidente relevante Gestor/Segurança Imediato
+Eventos 4.9.5 Ocorrência + causa Qualquer evento Gestor/Fiscal Por evento
+Medição Divergências Inconsistência Gestor/Fiscal Mensal
+O IMR determina apuração com base em equipamentos instalados, recebidos, aceitos e ativos, conciliando OS,
+aceite, inventário, chamados, telemetria e logs.
+Na renovação, o equipamento anterior permanece disponível até a aptidão do substituto, e falta de estoque,
+fabricante, transporte ou equipe da contratada não suspende automaticamente o SLA.
+10. Considerações Finais
+A presente matriz organiza e documenta, de forma estruturada, os riscos próprios da contratação PCaaS,
+contemplando identificação, classificação, tratamento, controles e alocação de responsabilidades.
+O resultado confere previsibilidade, segurança jurídica, eficiência, transparência e isonomia, oferecendo
+critério objetivo para fiscalização, IMR, glosas, continuidade, apuração de responsabilidade e equilíbrio
+econômico-financeiro.
+Recomenda-se a conferência final da matriz contra a minuta contratual, especialmente cláusulas de SLA, IMR,
+glosa, responsabilidade por danos, reequilíbrio e encerramento.
+Equipe de Planejamento — Matriz de Alocação de Riscos
+Uberaba/MG, data da assinatura eletrônica.
+Nome Área de atuação
+________________________________ ________________________________
+________________________________ ________________________________
+________________________________ ________________________________
+Matriz de Alocação de Riscos aprovada por:
+Nome Função
+________________________________ Autoridade Competente
+Código: 8b08acde-7eb5-49c3-8cc0-57ee3411aa3c
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

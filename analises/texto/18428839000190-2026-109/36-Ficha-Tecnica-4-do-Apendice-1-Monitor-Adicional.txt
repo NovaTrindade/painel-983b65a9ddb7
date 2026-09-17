@@ -1,0 +1,77 @@
+=== DOCUMENTO 36: Ficha_Tecnica_4_do_Apendice_1_-_Monitor_Adicional.pdf ===
+tipo: Outros Documentos | páginas: 2 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/36
+
+--- [pag. PDF 1] ---
+Ficha Técnica 4 do Apêndice 1 - Monitor | Página 1 de 2
+FICHA TÉCNICA 4 DO APÊNDICE 1 – MONITOR ADICIONAL
+Documento de síntese para consulta rápida. Os requisitos técnicos completos e vinculantes constam do Apêndice 1.
+1 - IDENTIFICAÇÃO DO ITEM
+CAMPO IDENTIFICAÇÃO
+Item 04
+Código 043.00131
+Denominação Prestação contínua de solução PCaaS - Monitor adicional, incluindo serviços associados
+Modelo de contratação Prestação contínua de solução PCaaS, com serviços associados
+Requisitos detalhados Apêndice 1, seção 5.6 e respectivas subseções
+Documento de
+verificação Instrumento 4 do Apêndice 5 – Checklist de Conformidade do Monitor Adicional
+2 - FUNÇÃO E REGRA DE CONSULTA
+2.1 - Esta Ficha apresenta somente a síntese dos parâmetros essenciais do item, para facilitar identificação e
+consulta. Ela não substitui, reproduz integralmente nem limita os requisitos técnicos detalhados do
+Apêndice 1.
+2.2 - Em caso de dúvida sobre interpretação, equivalência, comprovação, teste, aceite, manutenção ou
+substituição, deverá ser consultada a seção 5.6 do Apêndice 1 e respectivas subseções.
+2.3 - Eventual divergência material deverá ser formalmente saneada pela Administração antes do julgamento
+ou do recebimento, conforme a fase em que for identificada. A síntese não poderá ser utilizada para
+dispensar requisito detalhado.
+3 - SÍNTESE DA CONFIGURAÇÃO
+ASPECTO SÍNTESE
+Tela LCD com retroiluminação LED, antirreflexo, mínimo de 21 polegadas, widescreen 16:9, painel
+IPS/WVA/UWVA ou equivalente e visualização de 178°/178°.
+Imagem Resolução nativa Full HD a 60 Hz; brilho típico mínimo de 250 cd/m²; contraste estático mínimo
+de 1.000:1; resposta máxima de 5 ms; 16,7 milhões de cores.
+Conforto visual Redução de cintilação e de luz azul; ajustes de brilho, contraste e cor pelo menu OSD.
+Pixels Política contratual de ausência absoluta de pixel ou subpixel defeituoso, com substituição dentro
+do SLA.
+Conexões Uma entrada HDMI e uma DisplayPort nativas; VGA opcional; operação com os computadores
+Tipo I e Tipo II em modo estendido.
+Cabos Um cabo HDMI, um DisplayPort e um cabo de alimentação por monitor, todos novos e com
+comprimento mínimo de 1,5 m.
+Instalação Pedestal original removível com inclinação; VESA 75 x 75 mm ou 100 x 100 mm; encaixe para
+trava de segurança.
+Energia Fonte automática de 100-240 VCA, 50/60 Hz; plugue ABNT NBR 14136; adaptador para tomada
+antiga somente quando solicitado e tecnicamente compatível.
+Padronização
+Monitor preferencialmente da mesma marca comercial do equipamento principal, admitida marca
+distinta nos termos do item 2.15 do Apêndice 1, com compatibilidade integral, documentação
+oficial, garantia e suporte centralizados pela CONTRATADA; modelo e configuração
+preferencialmente padronizados; OEM/ODM oficial admitido; identificação e rastreabilidade por
+número de série.
+Certificações
+EPEAT Gold, TCO Certified ou certificação ambiental Tipo I baseada na ISO 14024, não
+cumulativas e aplicável ao monitor; ENERGY STAR ou equivalente; IEC 62368-1; CISPR 32
+Classe B; CISPR 35; RoHS.
+
+--- [pag. PDF 2] ---
+Ficha Técnica 4 do Apêndice 1 - Monitor | Página 2 de 2
+ASPECTO SÍNTESE
+PCaaS Modelo novo e de linha ativa, cobertura integral de painel, fonte, pedestal, interfaces, cabos e
+adaptadores; alto-falantes não obrigatórios.
+4 - LOCALIZAÇÃO DOS REQUISITOS DETALHADOS
+4.1 - Os requisitos completos do item estão organizados no Apêndice 1, na seção 5.6 e respectivas subseções.
+As regras transversais permanecem nas seções 1 a 4 e 6 a 10 do mesmo Apêndice.
+4.2 - O recebimento e a inspeção utilizarão o Instrumento 4 do Apêndice 5 – Checklist de Conformidade do
+Monitor Adicional, que deverá ser lido em conjunto com o Apêndice 1 e não substitui a especificação
+detalhada.
+5 - COMPROVAÇÃO E ACEITAÇÃO
+5.1 - A comprovação observará os meios, critérios de equivalência e regras de diligência estabelecidos no
+Apêndice 1. Documentos, testes e evidências deverão corresponder inequivocamente à marca, ao modelo,
+à configuração e à unidade ou ao lote verificado.
+5.2 - O checklist constitui instrumento de registro da verificação e não reduz o dever de atendimento integral
+aos requisitos do Apêndice 1, do Termo de Referência e das demais obrigações aplicáveis.
+6 - REGRA PARA O SEGUNDO CICLO
+6.1 - O monitor adicional e os monitores vinculados aos Microcomputadores Tipo I e Tipo II não serão
+automaticamente renovados pelo simples início do segundo ciclo. Poderão permanecer em operação
+enquanto conformes e serão avaliados, reparados ou substituídos nas hipóteses e segundo os critérios
+detalhados do Apêndice 1.
+Código: eab414a3-3d7d-4597-abe1-2f4798b086a7
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

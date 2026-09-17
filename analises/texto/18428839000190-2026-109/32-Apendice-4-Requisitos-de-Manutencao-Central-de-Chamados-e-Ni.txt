@@ -1,0 +1,681 @@
+=== DOCUMENTO 32: Apendice_4_-_Requisitos_de_Manutencao__Central_de_Chamados_e_Niveis_de_Servico.pdf ===
+tipo: Outros Documentos | páginas: 13 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/32
+
+--- [pag. PDF 1] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 1 de 13
+APÊNDICE 4 – REQUISITOS DE MANUTENÇÃO, CENTRAL DE CHAMADOS E
+NÍVEIS DE SERVIÇO
+Este Apêndice reúne a cobertura operacional da solução PCaaS, os procedimentos de manutenção, os registros
+obrigatórios da central de chamados e os níveis mínimos de serviço.
+1 - ESCOPO MÍNIMO DA MANUTENÇÃO E DO SUPORTE
+1.1 - A contratada deverá assegurar a execução dos seguintes serviços e atividades:
+1.2 - Manutenção, suporte técnico e continuidade operacional dos ativos disponibilizados durante toda a
+vigência contratual, conforme os requisitos e os níveis de serviço definidos neste Termo de Referência,
+com os custos correspondentes incluídos no preço mensal do PCaaS;
+1.3 - Manutenção preventiva orientada pela condição dos ativos, com análise mensal de telemetria, alertas,
+histórico e recomendações oficiais, planejamento por lote e emissão de relatório técnico. A intervenção
+será executada sempre que houver limiar, tendência, risco ou recomendação que a justifique e
+abrangerá, conforme aplicável, inventário, integridade, saúde de armazenamento e bateria, firmware,
+drivers, cabos, periféricos e limpeza física. Diagnósticos poderão ser remotos; atividade que exija acesso
+físico será presencial e previamente agendada, sem dispensar a CONTRATADA dos resultados e níveis
+de serviço.
+1.4 - Manutenção corretiva acionada por chamado ou alerta automático, classificada conforme impacto e
+urgência nas prioridades P1 a P4, com os prazos detalhados neste Apêndice;
+1.5 - Para P1: atendimento inicial em até 1 (uma) hora corrida, com contagem contínua 24x7; para P2, P3 e
+P4, aplicam-se os prazos específicos da matriz de prioridade deste Apêndice;
+1.6 - Para P1: restabelecimento operacional em até 8 (oito) horas corridas; para P2: em até 12 (doze) horas
+úteis. O restabelecimento poderá ocorrer por reparo ou equipamento substituto provisório equivalente ou
+superior, sem encerrar a obrigação de solução definitiva;
+1.7 - A solução definitiva de manutenção corretiva observará: P1 e P2, até 10 dias úteis; P3, até 2 dias úteis;
+e P4, até 5 dias úteis. Quando decisão técnica confirmar a necessidade de upgrade ou substituição
+tecnológica, será aplicado o prazo específico de até 10 dias úteis previsto neste Apêndice. O
+equipamento provisório permanecerá disponível até a conclusão e o aceite da solução definitiva;
+1.8 - Procedimento para situações extraordinárias de indisponibilidade:
+1.9 - São situações extraordinárias, para fins operacionais, as emergências, os estados de calamidade
+pública, os desastres oficialmente reconhecidos e os impedimentos generalizados de acesso ou
+operação. O enquadramento não amplia a cobertura; prazos, custos e responsabilidades observarão o
+Termo de Referência, a matriz de riscos, o edital e o contrato.
+1.10 - A ocorrência de situação extraordinária deverá ser comunicada formalmente à CONTRATADA, que
+adotará as seguintes providências, sem antecipação da responsabilidade financeira pelo evento:
+1.11 - Classificar toda situação extraordinária conforme o impacto e a urgência previstos na matriz de
+prioridade deste Apêndice. Quando a ocorrência for classificada como P1, a CONTRATADA deverá
+realizar mobilização imediata, compreendida como o registro da ocorrência, o acionamento da equipe
+competente e a adoção das medidas iniciais de contenção cabíveis, sem demora injustificada, e iniciar o
+atendimento técnico em até 1 (uma) hora corrida, com contagem contínua 24x7. A mobilização imediata
+não constituirá prazo autônomo, não substituirá o atendimento técnico inicial nem ampliará o limite de 1
+(uma) hora corrida. As ocorrências classificadas como P2, P3 ou P4 observarão os respectivos prazos e
+a janela operacional cadastrada.
+1.12 - Adotar medidas tecnicamente viáveis para minimizar a indisponibilidade, inclusive mediante
+disponibilização de equipamento substituto provisório equivalente ou superior.
+1.13 - Apresentar, em até 8 (oito) horas úteis, relatório preliminar com a descrição do evento, a identificação
+dos equipamentos afetados, os impactos verificados e o plano inicial de recuperação.
+1.14 - Nas situações extraordinárias, a CONTRATADA executará as medidas materialmente possíveis de
+comunicação, contenção, planejamento e continuidade e, quando o risco lhe estiver alocado, concluirá a
+recuperação ou disponibilizará solução equivalente no menor prazo tecnicamente possível. Os efeitos
+sobre o SLA e a responsabilidade financeira observarão o Termo de Referência, a matriz de riscos, o
+edital e o contrato.
+
+--- [pag. PDF 2] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 2 de 13
+1.15 - Comunicar imediatamente à fiscalização eventual impossibilidade de cumprimento dos prazos
+ordinários, acompanhada da respectiva justificativa técnica.
+1.16 - Somente poderá ser excluído da apuração do SLA o intervalo em que determinada obrigação esteja
+comprovadamente impedida por impossibilidade física de acesso ou execução diretamente causada pelo
+evento. A exclusão ficará limitada ao equipamento, à unidade, à atividade e ao período efetivamente
+afetados, conforme os itens 4.1.9 a 4.1.11.
+1.17 - A adoção das medidas emergenciais não altera, por si só, a alocação da responsabilidade financeira
+pelo evento, que observará a matriz de riscos e os demais documentos que integram a contratação.
+1.18 - A situação extraordinária não afastará a responsabilidade da CONTRATADA por danos ou
+indisponibilidades decorrentes de falha de instalação, manutenção inadequada, negligência, imperícia ou
+descumprimento de obrigação contratual.
+1.19 - Substituição de peças, componentes ou equipamentos defeituosos por itens novos, originais ou
+compatíveis previamente autorizados pela Administração. A compatibilidade será comprovada e não
+poderá reduzir desempenho, confiabilidade, garantia, segurança ou vida útil, devendo manter condição
+igual ou superior à contratada.
+1.20 - Atendimento técnico especializado, remoto ou presencial, conforme a complexidade da demanda,
+assegurando suporte para hardware, software embarcado e conectividade básica;
+1.21 - Reposição de periféricos e acessórios (cabos, conectores, teclados, mouses, fontes) sempre que
+houver falha ou desgaste;
+1.22 - Atualizações de firmware, BIOS, drivers, utilitários e componentes necessárias à manutenção da
+configuração, da segurança e do desempenho mínimos contratados deverão utilizar pacotes oficiais,
+assinados e compatíveis com o exato modelo. Quando aplicável, a CONTRATADA deverá automatizar a
+distribuição pelo Microsoft Configuration Manager mediante pacotes consolidados, catálogos oficiais ou
+integração funcionalmente equivalente prevista no Apêndice 1, com planejamento, autorização, logs,
+tratamento de falhas e reversão, sem custo adicional. Substituições por itens equivalentes ou superiores
+em caso de falha ou descontinuação dependerão de aprovação prévia da Administração. Expansões
+decorrentes de nova demanda observarão o Apêndice 1 e não constituirão obrigação gratuita
+indeterminada.
+1.23 - Gestão logística completa, incluindo entrega, instalação, retirada e substituição dos equipamentos ao
+longo da execução contratual;
+1.24 - Descarte ambientalmente adequado de equipamentos e peças substituídas, em conformidade com a
+Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) e normas ambientais aplicáveis;
+1.25 - Monitoramento do nível de serviço (SLA), com indicadores objetivos de disponibilidade, tempo de
+atendimento e tempo de solução, submetidos a acompanhamento pela fiscalização do contrato.
+2 - COBERTURA OPERACIONAL DOS ATIVOS DISPONIBILIZADOS NO PCaaS
+2.1 - A CONTRATADA deverá manter os ativos disponibilizados no PCaaS, seus componentes, periféricos,
+acessórios, firmware, sistema operacional e demais softwares por ela fornecidos em condições de
+funcionamento e em conformidade com as especificações deste Termo de Referência durante toda a
+vigência contratual, inclusive eventuais prorrogações.
+2.2 - A obrigação será aplicável individualmente a cada equipamento a partir do respectivo aceite provisório e
+permanecerá vigente até sua desativação e efetiva retirada pela CONTRATADA, inclusive durante
+substituição provisória, transição contratual ou atraso de retirada imputável à CONTRATADA.
+2.3 - Os custos das seguintes atividades estarão incluídos no preço mensal do PCaaS, vedada cobrança
+adicional:
+2.4 - Manutenção preventiva e corretiva.
+2.5 - Diagnóstico e atendimento técnico remoto ou presencial.
+2.6 - Mão de obra, deslocamentos, transporte, ferramentas e materiais necessários ao atendimento.
+2.7 - Substituição de peças, componentes, periféricos e acessórios que apresentem vício, defeito, falha ou
+desgaste decorrente do uso regular.
+2.8 - Reinstalação e recuperação dos softwares fornecidos pela CONTRATADA, incluindo os procedimentos
+necessários à regularidade do licenciamento e da ativação.
+
+--- [pag. PDF 3] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 3 de 13
+2.9 - Atualização de firmware, BIOS, drivers e utilitários necessária à manutenção da configuração contratada,
+observadas a compatibilidade e a segurança da solução.
+2.10 - Fornecimento de equipamento substituto provisório ou definitivo, equivalente ou superior, quando o
+reparo não puder ser concluído no prazo definido no nível de serviço aplicável.
+2.11 - A cobertura operacional abrangerá os microcomputadores Tipo I e Tipo II, notebooks, monitores, placas
+principais, processadores, memórias, unidades de armazenamento, controladoras gráficas, fontes de
+alimentação, baterias, carregadores, telas, câmeras, microfones, alto-falantes, interfaces, teclados,
+mouses, mousepads, cabos, conectores, periféricos e demais componentes fornecidos no âmbito da
+contratação.
+2.12 - A responsabilidade da CONTRATADA será direta perante a CONTRATANTE e não dependerá da
+existência, da vigência ou da aceitação de garantia comercial concedida por fabricante, distribuidor,
+assistência técnica, seguradora ou terceiro.
+2.13 - A CONTRATADA poderá utilizar fabricante, assistência autorizada ou terceiro para realizar
+atendimentos, permanecendo responsável pelo integral cumprimento das obrigações e dos níveis de
+serviço estabelecidos neste Termo de Referência.
+2.14 - A cobertura operacional prevista nesta seção não se confunde com a garantia financeira da execução
+contratual disciplinada no item 4.8 do Termo de Referência e nos arts. 96 a 100 da Lei nº 14.133/2021.
+2.15 - O desgaste natural, a falha aleatória de componente, o vício oculto e a deterioração decorrente do uso
+regular não caracterizam mau uso e deverão ser atendidos sem cobrança adicional.
+2.16 - Os eventos cobertos pelos itens 4.9.3, 4.9.4 e 4.9.10 do Termo de Referência integram a cobertura
+operacional e serão atendidos sem franquia, coparticipação ou cobrança adicional, não podendo ser
+automaticamente classificados como mau uso. Os eventos excluídos da cobertura pelos itens 4.9.5 e
+4.9.6 terão a alocação de responsabilidade financeira e os demais efeitos disciplinados pela matriz de
+riscos, pelo edital e pelo contrato.
+3 - CENTRAL DE CHAMADOS E ACORDO DE NÍVEL DE SERVIÇO
+3.1 - Para os indicadores deste Apêndice, os prazos de atendimento inicial e de restabelecimento operacional
+das ocorrências classificadas como P1 serão contados continuamente, em horas corridas, 24 horas por
+dia e 7 dias por semana, inclusive feriados, independentemente da janela operacional cadastrada ou da
+classificação prévia da unidade. O prazo de solução definitiva de P1 permanecerá contado em dias úteis.
+Para P2, P3 e P4, considera-se hora útil toda hora compreendida na janela operacional cadastrada para o
+equipamento ou a unidade. Na ausência de cadastro específico, aplica-se a janela padrão das 8h às 18h,
+de segunda a sexta-feira, excluídos feriados e dias sem expediente administrativo no Município de
+Uberaba. A janela poderá ser contínua, 24x7, quando corresponder ao funcionamento efetivo da unidade
+ou do serviço.
+3.2 - Os chamados serão registrados imediatamente, em qualquer dia e horário. Para P1, os prazos de
+atendimento inicial e de restabelecimento serão acumulados continuamente desde o primeiro registro
+objetivo, em regime 24x7. A indisponibilidade utilizada no indicador de disponibilidade, no HMR e na
+suspensão proporcional será apurada exclusivamente dentro da janela operacional cadastrada para o
+equipamento ou a unidade, inclusive quando a ocorrência tiver sido classificada como P1. Para P2, P3 e
+P4, os prazos e a indisponibilidade serão acumulados somente dentro da janela cadastrada, sem
+arredondamento de frações. A janela deverá constar da Ordem de Serviço e do inventário antes da
+disponibilização, será rastreável e somente poderá ser alterada prospectivamente mediante justificativa e
+aprovação da fiscalização, vedada alteração retroativa destinada a reduzir prazo, indisponibilidade ou
+glosa. A classificação de ocorrência como P1 não alterará a janela operacional mensal nem o HMR do
+equipamento.
+3.3 - O prazo de atendimento inicial será definido pela prioridade P1 a P4. Atendimento inicial significa
+atuação de profissional apto a iniciar diagnóstico e providência técnica, não sendo suficiente resposta
+automática.
+3.4 - Considera-se abertura formal o primeiro registro objetivo recebido pela central da CONTRATADA por
+portal eletrônico, e-mail, telefone com protocolo ou canal de contingência definido no contrato. Usuário
+autorizado, responsável local ou fiscalização poderá abrir o chamado diretamente. Eventual triagem da
+equipe municipal será colaboração operacional e não requisito para validade do protocolo. Nos eventos
+
+--- [pag. PDF 4] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 4 de 13
+do item 4.1, boletim de ocorrência, laudo, relatório técnico ou documento de seguradora não constituirão
+condição para a abertura do chamado ou para o início da contagem.
+3.5 - A CONTRATADA deverá manter sistema eletrônico para abertura, acompanhamento e auditoria dos
+chamados, com atualização de status e histórico completo, contendo, no mínimo:
+3.6 - Identificador único do chamado.
+3.7 - Identificação do solicitante, da unidade administrativa e do local de atendimento.
+3.8 - Identificação, marca, modelo e número de série do equipamento afetado.
+3.9 - Data, horário e canal utilizado para a abertura do chamado.
+3.10 - Descrição da ocorrência e classificação da prioridade.
+3.11 - Data e horário do início do atendimento, com indicação de sua realização remota ou presencial.
+3.12 - Diagnóstico, providências adotadas, peças substituídas e evidências técnicas pertinentes.
+3.13 - Identificação, marca, modelo e número de série do equipamento substituto provisório ou definitivo,
+quando houver.
+3.14 - Data e horário do restabelecimento operacional e da solução definitiva.
+3.15 - Status do chamado, registros de reabertura e confirmação do encerramento pela unidade atendida ou
+pela fiscalização.
+3.16 - O SLA observará: P1, atendimento inicial em 1 (uma) hora corrida e restabelecimento operacional em 8
+(oito) horas corridas, ambos com contagem contínua 24x7, e solução definitiva em 10 (dez) dias úteis; P2,
+atendimento em 2 (duas) horas úteis, restabelecimento em 12 (doze) horas úteis e solução definitiva em
+10 (dez) dias úteis; P3, atendimento em 4 (quatro) horas úteis e solução definitiva em 2 (dois) dias úteis;
+e P4, atendimento em 8 (oito) horas úteis e solução definitiva em 5 (cinco) dias úteis. Para P2, P3 e P4, a
+contagem observará a janela operacional cadastrada conforme os itens 3.1 e 3.2. O restabelecimento
+provisório devolve condição efetiva de trabalho, mas não encerra a obrigação de solução definitiva.
+3.17 - O chamado será reaberto quando constatada a persistência da falha, a recorrência decorrente da
+mesma causa ou a execução incompleta da solução. A reabertura ficará vinculada ao chamado original,
+não gerará cobrança adicional e não reiniciará os prazos de atendimento ou solução para fins de medição
+do nível de serviço, salvo quando comprovada causa técnica nova e independente, aceita pela
+fiscalização.
+3.18 - Toda substituição provisória ou definitiva deverá ser vinculada ao chamado e registrar a identificação, a
+marca, o modelo e o número de série do equipamento retirado e do equipamento substituto, as datas e os
+locais de retirada e instalação, a unidade responsável pela custódia e, quando aplicável, os registros de
+movimentação, sanitização e destinação da unidade de armazenamento.
+3.19 - A CONTRATADA deverá controlar a indisponibilidade por equipamento. Será computado o período,
+dentro da janela de serviço aplicável, em que a estação não estiver apta ao uso e não houver solução
+provisória equivalente ou superior instalada, configurada, licenciada, ativa e disponível para a unidade.
+Nos eventos cobertos pelos itens 4.9.3, 4.9.4 e 4.9.10 do Termo de Referência, a indisponibilidade será
+computada desde o primeiro registro objetivo até o restabelecimento efetivo, ressalvados somente os
+intervalos comprovadamente excluídos na forma dos itens 3.20 e 4.1.9 a 4.1.11. Para fins de
+disponibilidade e de suspensão proporcional, inclusive em ocorrência P1, somente serão computadas as
+horas de indisponibilidade que coincidirem com a janela operacional cadastrada para o equipamento ou a
+unidade.
+3.20 - Não será computado o intervalo exclusivamente decorrente de manutenção programada da
+alimentação elétrica, previamente agendada e atribuída à CONTRATANTE. Qualquer outra exclusão ou
+suspensão ficará limitada ao equipamento, à atividade e ao intervalo comprovadamente impedidos por
+impossibilidade física de acesso ou execução. Análise de seguro, autorização interna, falta de estoque,
+pessoal, transporte ou fornecedor e atraso logístico ordinário não suspenderão os prazos nem a
+indisponibilidade.
+3.21 - A indisponibilidade computável corresponderá ao tempo decorrido, dentro da janela de serviço, entre o
+primeiro registro objetivo da interrupção e o restabelecimento por reparo ou equipamento substituto
+equivalente ou superior. A contagem não aguardará o término do prazo de atendimento ou de solução. A
+classificação da ocorrência como P1 não modificará o HMR nem ampliará a janela de disponibilidade
+cadastrada.
+
+--- [pag. PDF 5] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 5 de 13
+3.22 - Será mantido, entre as partes, registro das ocorrências para fins de apuração paralela e fiscalização
+dos tempos de indisponibilidade.
+3.23 - O início da indisponibilidade será o primeiro registro objetivo e verificável entre a abertura formal do
+chamado, a comunicação do evento e os registros auditáveis dos sistemas de monitoramento da
+CONTRATADA ou da CONTRATANTE. Havendo divergência, a fiscalização decidirá com base nas
+evidências disponíveis e motivará eventual exclusão de período.
+3.24 - A CONTRATADA apresentará até o 3º (terceiro) dia útil de cada mês a prévia consolidada de
+manutenção e suporte do mês anterior, integrada à medição do Apêndice 6.
+3.25 - Relação dos chamados abertos, em andamento, concluídos e reabertos, classificados por unidade
+administrativa, equipamento, tipo de ocorrência e prioridade.
+3.26 - Identificação, marca, modelo e número de série dos equipamentos afetados, retirados e
+disponibilizados em substituição provisória ou definitiva.
+3.27 - Datas e horários de abertura, início do atendimento, restabelecimento operacional, solução definitiva e
+encerramento, com os respectivos tempos apurados.
+3.28 - Relação dos defeitos, danos, substituições, reincidências e reaberturas, com indicação das causas
+identificadas e das ações corretivas adotadas.
+3.29 - Resultados dos indicadores de nível de serviço, ocorrências de descumprimento e justificativas
+apresentadas, com classificação dos eventos como localizados ou de extensão generalizada e
+identificação individual dos equipamentos, intervalos incluídos ou excluídos da medição e respectivas
+evidências.
+3.30 - Situação dos chamados pendentes e plano de ação para sua conclusão, com responsáveis e prazos.
+4 - PROCEDIMENTOS COMPLEMENTARES DE MANUTENÇÃO E OCORRÊNCIAS
+4.1 - EVENTOS FÍSICOS, COBERTURA E CONTINUIDADE OPERACIONAL
+4.1.1 - O tratamento dos eventos físicos, a delimitação da cobertura e a continuidade operacional observarão
+as regras seguintes e os itens 4.9.3 a 4.9.10 do Termo de Referência.
+4.1.2 - Incêndio, fumaça, fuligem, vazamento, infiltração, alagamento e ações do tempo não integram a
+cobertura operacional, independentemente de sua extensão, salvo quando o dano decorrer
+comprovadamente de ação ou omissão da CONTRATADA. A alocação de responsabilidades por esses
+eventos observará a matriz de riscos, o edital e o contrato, mediante análise do nexo causal e das
+circunstâncias comprovadas.
+4.1.3 - Nos eventos cobertos, a existência, ausência ou regulação de seguro não condicionará o chamado, o
+atendimento, a retirada, o substituto ou a solução definitiva, nem suspenderá os prazos. Nos eventos
+excluídos, eventual apuração securitária não suspenderá as medidas possíveis de segurança,
+comunicação e registro; os efeitos financeiros observarão a matriz de riscos, o edital e o contrato.
+4.1.4 - Na ocorrência de dano, incêndio, fumaça, vazamento, infiltração, alagamento, furto, roubo ou extravio,
+a CONTRATANTE deverá interromper o uso quando houver risco à segurança, adotar as medidas de
+contenção materialmente possíveis e comunicar imediatamente a CONTRATADA.
+4.1.5 - A comunicação utilizará um dos canais do item 3.4 e informará, na medida do possível, a unidade, a
+natureza do evento, os equipamentos afetados e as condições de segurança e acesso ao local.
+4.1.6 - A CONTRATANTE encaminhará, em até 2 (dois) dias úteis contados da ciência do fato, boletim de
+ocorrência quando legalmente cabível e os documentos disponíveis razoavelmente necessários à
+apuração. Documento emitido por terceiro ou autoridade poderá ser apresentado posteriormente
+mediante justificativa e não constituirá condição para o atendimento, o fornecimento de substituto ou a
+contagem do SLA.
+4.1.7 - A primeira comunicação por canal válido abrirá a ocorrência principal e os chamados individuais dos
+equipamentos afetados e iniciará os prazos aplicáveis, observada a delimitação de cobertura do Termo
+de Referência. A apresentação posterior dos documentos mencionados no item 4.1.6 não impedirá o
+registro.
+4.1.8 - Para cada equipamento afetado por evento coberto pelos itens 4.9.3, 4.9.4 e 4.9.10 do Termo de
+Referência, a CONTRATADA deverá fornecer substituto provisório equivalente ou superior dentro do
+prazo de restabelecimento aplicável e concluir a solução definitiva no prazo correspondente do item
+3.16. A indisponibilidade somente será encerrada quando o substituto estiver instalado, configurado,
+
+--- [pag. PDF 6] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 6 de 13
+licenciado, ativo e disponível para uso na unidade. A mera separação, expedição ou entrega sem
+instalação não caracteriza restabelecimento.
+4.1.9 - A impossibilidade física deverá ser comprovada por evidência objetiva que identifique a unidade, os
+equipamentos e a atividade impedida, as datas e os horários de início e término e a relação direta entre
+o evento e o impedimento. Poderão ser utilizados termo de interdição, registro de autoridade pública,
+declaração do responsável pela unidade, fotografias datadas, registros de acesso ou relatório técnico
+verificável.
+4.1.10 - Não constituem impossibilidade física a análise de seguradora, a autorização interna da
+CONTRATADA, a falta de estoque, pessoal, transporte ou fornecedor, o atraso logístico ordinário, a
+necessidade de diagnóstico ou a alegação genérica de insegurança sem evidência objetiva.
+4.1.11 - Durante o impedimento, permanecerão exigíveis a comunicação, o planejamento da recuperação, a
+preparação do substituto e todas as medidas materialmente possíveis. A contagem será retomada
+automaticamente quando cessar o impedimento ou quando a CONTRATANTE indicar local alternativo
+seguro. Evidência rejeitada motivadamente pela fiscalização implicará a contagem integral do período.
+4.2 - LIMITES DO ESCOPO DE MANUTENÇÃO
+4.2.1 - Não integram o escopo ordinário de manutenção da CONTRATADA, salvo quando decorrerem de
+defeito do próprio ativo disponibilizado:
+4.2.2 - Softwares, licenças e periféricos de propriedade da CONTRATANTE ou de terceiros que não integrem
+o objeto desta contratação;
+4.2.3 - A rede corporativa, enlaces, pontos lógicos e demais ativos de infraestrutura de propriedade ou
+responsabilidade da CONTRATANTE.
+4.2.4 - A proteção dos Microcomputadores Tipo I e Tipo II combinará o sensor eletrônico de abertura exigido
+no Apêndice 1 com mecanismo físico complementar de prevenção ou evidência de violação,
+constituído por chave, trava, lacre ou selo inviolável individualizado, ou solução funcionalmente
+equivalente, sem adaptação que comprometa garantia, ventilação ou suporte. O controle físico não
+substituirá o sensor eletrônico. Abertura autorizada deverá estar vinculada a Ordem de Serviço,
+identificar executante, data, hora e motivo e, quando houver selo, registrar sua substituição e os
+identificadores anterior e novo.
+4.2.5 - A conformidade dos equipamentos será demonstrada por documentação técnica oficial, testes e
+diligências, conforme os Apêndices 1 e 5, sem transformar requisito de proposta em exigência de
+habilitação não prevista em lei.
+4.2.6 - A documentação será solicitada ao licitante provisoriamente classificado em primeiro lugar na fase de
+análise da proposta, no prazo e formato definidos no edital.
+4.2.7 - Serão aceitos datasheet, manual, página oficial, ficha técnica, declaração do fabricante, certificação,
+relatório de conformidade ou outro documento idôneo. A Administração poderá diligenciar informação
+preexistente, desde que a diligência não permita substituir o equipamento ofertado nem criar
+posteriormente requisito material de conformidade.
+4.3 - EVENTOS SUJEITOS À APURAÇÃO DE RESPONSABILIDADE
+4.3.1 - Os eventos abaixo dependerão de apuração documentada, sem prejuízo da manutenção ordinária dos
+ativos disponibilizados:
+4.3.2 - Custos extraordinários de transporte decorrentes de mudança de endereço solicitada pela
+CONTRATANTE, quando a movimentação não estiver abrangida pela logística ordinária prevista no
+contrato e houver prévia definição de responsabilidade pela fiscalização;
+4.3.3 - O extravio ou desaparecimento sem elementos suficientes para caracterizar furto ou roubo deverá ser
+registrado imediatamente e não afastará o dever de continuidade. A CONTRATADA fornecerá solução
+provisória ou definitiva no SLA da prioridade aplicável, sem condicionar o atendimento à conclusão da
+apuração. A responsabilidade será apurada em processo próprio, com evidências e manifestação das
+partes, sem presunção de culpa da CONTRATANTE, do usuário ou da CONTRATADA. Somente
+fraude, dolo, participação intencional ou mau uso demonstrados poderão produzir efeito financeiro, na
+forma do item 4.9.8 do Termo de Referência, e eventual ressarcimento observará integralmente os
+limites do item 4.9.9, vedada cobrança antecipada ou automática.
+
+--- [pag. PDF 7] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 7 de 13
+4.3.4 - Dano ou desaparecimento comprovadamente causado por uso indevido, dolo ou negligência da
+CONTRATANTE, mediante apuração documentada e assegurada a possibilidade de manifestação
+técnica das partes;
+4.3.5 - Danos diretamente decorrentes de intervenção física realizada por terceiro não autorizado sobre o
+ativo disponibilizado, desde que comprovado o nexo causal. Esta exclusão não alcança a manutenção
+preventiva ou corretiva executada pela própria CONTRATADA ou por seus prepostos autorizados;
+4.3.6 - O desgaste natural pelo uso regular, deterioração decorrente do ciclo normal de funcionamento, vício
+próprio, defeito latente ou falha mecânica/eletrônica não constituem exclusões da manutenção e
+deverão ser tratados pela CONTRATADA durante toda a vigência contratual, ressalvado dano
+comprovadamente imputável à CONTRATANTE.
+4.3.7 - A área responsável deverá declarar nos autos a existência, a abrangência e as limitações dos registros
+históricos de manutenção, danos, furtos, roubos e eventos extraordinários. Os registros disponíveis
+serão juntados e considerados na análise de riscos, na pesquisa de preços e na alocação contratual;
+sua ausência ou insuficiência será expressamente registrada, sem criação de estimativas não
+comprovadas nem transferência informal de riscos durante a execução.
+4.4 - COBERTURA DE DANOS ACIDENTAIS, FURTO, ROUBO E EVENTOS ELÉTRICOS
+4.4.1 - Integram a cobertura, sem franquia, coparticipação ou cobrança adicional, os danos acidentais
+ocorridos durante o uso regular, inclusive queda, impacto, quebra involuntária e contato ou
+derramamento de líquido; furto simples ou qualificado; roubo; e os eventos elétricos definidos no Termo
+de Referência. A cobertura alcança os equipamentos, acessórios e baterias fornecidos no PCaaS.
+4.4.2 - A primeira comunicação formal por canal válido abrirá o chamado e iniciará a contagem do SLA,
+inclusive em furto ou roubo. O restabelecimento não aguardará boletim de ocorrência, laudo,
+seguradora ou conclusão da apuração. O boletim de ocorrência será apresentado pela
+CONTRATANTE em até 2 (dois) dias úteis, ressalvada impossibilidade comprovada perante a
+autoridade competente.
+4.4.3 - A CONTRATADA disponibilizará equipamento de contingência e executará reparo ou substituição
+definitiva conforme a prioridade, restaurando licenças, drivers, configurações, inventário e
+funcionalidades sob sua responsabilidade. A reserva utilizada será recomposta no prazo deste
+Apêndice, sem faturamento adicional.
+4.4.4 - Fraude, dolo, participação intencional ou mau uso somente poderão produzir efeito financeiro após
+apuração própria. A CONTRATADA apresentará laudo qualificado com identificação, série, fotografias,
+registros técnicos, diagnóstico, causa provável, nexo causal, possibilidade de reparo e valor
+demonstrado. Eventual ressarcimento ficará limitado ao dano direto comprovado e ao menor valor
+entre reparo e reposição equivalente, com consideração do uso, conservação e depreciação, sem
+lucros cessantes ou custos acessórios.
+4.4.5 - Nos danos elétricos, o diagnóstico registrará, quando tecnicamente possível, tensão, ocorrência, causa
+provável e recomendações. Oscilação, sobretensão, subtensão, curto-circuito, transientes, falha de
+aterramento, rompimento de neutro, descarga atmosférica e interrupção ou restabelecimento de
+energia não suspenderão automaticamente a cobertura. A CONTRATADA não responderá pela
+reparação da rede elétrica municipal, mas deverá manter a continuidade dos equipamentos PCaaS nos
+eventos elétricos cobertos.
+4.5 - RESERVA TÉCNICA
+4.5.1 - A CONTRATADA manterá reserva técnica correspondente a 2% de cada tipo de equipamento,
+calculada sobre unidades efetivamente instaladas, recebidas, aceitas e ativas, com arredondamento
+para o inteiro superior e mínimo de uma unidade quando houver equipamento ativo da categoria.
+4.5.2 - A reserva permanecerá sob propriedade e custeio da CONTRATADA, não será medida ou faturada e
+será recalculada mensalmente. Uso para substituição não aumentará o quantitativo faturado.
+4.5.3 - A localização será definida pela CONTRATADA, sem obrigação de sede ou depósito em Uberaba,
+desde que demonstre capacidade logística para cumprir o SLA. Inventário mensal informará categoria,
+modelo, série, localização e condição operacional.
+4.5.4 - A unidade retirada da reserva para atendimento será reposta em até 5 (cinco) dias úteis, contados de
+sua efetiva utilização ou retirada do estoque de contingência. Durante esse prazo, o déficit será
+registrado como não conformidade e acompanhado até a recomposição, mas a glosa do indicador I6
+
+--- [pag. PDF 8] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 8 de 13
+somente incidirá após o vencimento sem reposição. Se a insuficiência da reserva impedir ou retardar o
+restabelecimento de equipamento, o I6 e o SLA pertinente serão calculados e registrados desde o
+momento do impacto comprovado, e o tratamento financeiro observará a matriz de correlação e a regra
+de precedência do Apêndice 6, item 4.6, vedada dupla incidência pelo mesmo núcleo fático e efeito
+operacional.
+4.5.5 - A reserva poderá restabelecer provisoriamente o serviço. Somente permanecerá como substituição
+definitiva se for nova, sem uso, de linha ativa, garantida pelo período remanescente, compatível e
+equivalente ou superior, com aprovação da fiscalização.
+4.6 - RECORRÊNCIA, BATERIA E DEGRADAÇÃO
+4.6.1 - O mesmo defeito ocorrido 3 (três) vezes no período móvel de 90 (noventa) dias determinará a
+substituição definitiva do equipamento. Também determinarão substituição 5 (cinco) interrupções,
+ainda que por falhas distintas, em período móvel de 30 (trinta) dias. O marco inicial do prazo de
+substituição será a data e a hora do protocolo do chamado que atingir o respectivo limiar, sem
+depender de nova notificação, encerramento administrativo ou decisão posterior e sem reinício por
+diagnóstico, contranálise, troca provisória ou reclassificação. Aplicar-se-á o prazo de solução definitiva
+da prioridade correspondente, observado o limite máximo de 10 (dez) dias úteis.
+4.6.2 - A contagem será vinculada ao número de série. Encerramento, reabertura ou troca temporária não
+reiniciará o histórico. Causa externa ou atribuível à Administração somente será excluída mediante
+evidência e decisão motivada.
+4.6.3 - A bateria será substituída quando diagnóstico oficial indicar estado degradado, crítico ou
+recomendação de troca; houver falha de carga, desligamento, deformação ou risco; o teste
+padronizado de autonomia falhar; ou a relação entre a capacidade máxima de carga e a capacidade de
+projeto ficar abaixo de 80%, confirmada por diagnóstico e duas medições.
+4.6.4 - O alerta de degradação iniciará diagnóstico, correção, atualização e nova medição. Havendo impacto
+operacional, serão aplicados os SLAs da prioridade; a avaliação técnica e a eventual intervenção
+observarão os critérios do Apêndice 1 e o procedimento de upgrade deste Apêndice.
+4.6.5 - A redução igual ou superior a 20% da linha de base aplicável, confirmada em duas avaliações
+consecutivas após correção, atualização e otimização, determinará upgrade ou substituição. Uma
+ocorrência crítica confirmada poderá determinar intervenção imediata, independentemente desse
+percentual.
+4.7 - PROCEDIMENTO DE UPGRADE E SUBSTITUIÇÃO
+4.7.1 - Identificados indícios de insuficiência, a Administração notificará a CONTRATADA, apresentando os
+registros, medições, chamados ou demais evidências disponíveis.
+4.7.2 - A CONTRATADA deverá realizar diagnóstico e poderá apresentar contranálise técnica fundamentada
+nos seguintes prazos:
+4.7.2.1 - até 2 dias úteis para situações críticas;
+4.7.2.2 - até 5 dias úteis para as demais situações.
+4.7.3 - O diagnóstico ou a contranálise não suspenderá os prazos de atendimento, o SLA, a contingência ou a
+obrigação de restabelecer o serviço.
+4.7.4 - Persistindo a insuficiência conforme os critérios objetivos, a Administração emitirá decisão técnica
+motivada, indicando a necessidade de correção, upgrade ou substituição.
+4.7.5 - A intervenção observará, quando tecnicamente aplicável, a seguinte ordem:
+4.7.5.1 - correção, atualização e otimização;
+4.7.5.2 - upgrade de componentes;
+4.7.5.3 - substituição integral do equipamento.
+4.7.6 - A CONTRATADA poderá propor solução diferente da inicialmente indicada, desde que demonstre
+resultado igual ou superior e obtenha aprovação prévia da Administração.
+4.7.7 - Durante a intervenção, deverá ser disponibilizado equipamento provisório com configuração,
+desempenho, segurança, licenciamento e compatibilidade iguais ou superiores, sem cobrança
+adicional.
+
+--- [pag. PDF 9] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 9 de 13
+4.7.8 - As intervenções programadas ocorrerão em janela aprovada pela Administração. Unidades críticas
+poderão exigir atendimento imediato e execução em regime 24x7.
+4.7.9 - Os componentes utilizados deverão ser:
+4.7.9.1 - novos e sem uso anterior;
+4.7.9.2 - originais ou comprovadamente compatíveis;
+4.7.9.3 - homologados para o equipamento;
+4.7.9.4 - previamente aprovados pela Administração;
+4.7.9.5 - incapazes de reduzir desempenho, garantia, segurança ou suporte.
+4.7.10 - Não serão admitidas adaptações improvisadas, componentes recondicionados ou alterações que
+descaracterizem a configuração homologada.
+4.7.11 - Componentes sem armazenamento de dados poderão ser recolhidos pela CONTRATADA após
+registro no inventário.
+4.7.12 - Unidades de armazenamento somente poderão ser retiradas após sanitização conforme NIST SP
+800-88 Rev. 2 ou referência superveniente oficialmente reconhecida, acompanhada de registro e
+certificado. Quando a sanitização não puder ser comprovada, permanecerão sob custódia da
+Administração.
+4.7.13 - Toda intervenção com risco de indisponibilidade deverá possuir plano de reversão, contemplando:
+4.7.13.1 - configuração anterior;
+4.7.13.2 - proteção dos dados;
+4.7.13.3 - imagem homologada, quando aplicável;
+4.7.13.4 - drivers e licenças;
+4.7.13.5 - procedimento de restauração;
+4.7.13.6 - responsáveis e critérios de acionamento.
+4.7.14 - A CONTRATADA não poderá solicitar, receber, registrar ou armazenar senhas pessoais dos usuários
+durante o upgrade, a migração ou a validação.
+4.7.15 - Concluída a intervenção, deverá ser apresentado relatório técnico contendo:
+4.7.15.1 - identificação patrimonial, modelo e número de série;
+4.7.15.2 - motivo da intervenção;
+4.7.15.3 - configuração anterior e posterior;
+4.7.15.4 - componentes retirados e instalados;
+4.7.15.5 - testes comparativos;
+4.7.15.6 - validação dos sistemas institucionais;
+4.7.15.7 - situação das licenças, garantia e segurança;
+4.7.15.8 - atualização do inventário;
+4.7.15.9 - nova linha de base;
+4.7.15.10 - evidências e responsável técnico.
+4.7.16 - Será realizado aceite técnico inicial, seguido de período de estabilização de 5 dias úteis.
+4.7.17 - O aceite definitivo dependerá da comprovação de desempenho, estabilidade, compatibilidade,
+segurança e ausência de falhas relacionadas à intervenção.
+4.7.18 - Se a intervenção não for aprovada, a CONTRATADA deverá acionar o plano de reversão ou
+substituir o equipamento, sem prejuízo dos prazos e consequências contratuais.
+4.7.19 - Quando for confirmada causa sistêmica, a CONTRATADA apresentará plano de intervenção para
+toda a população afetada, com cronograma, quantitativos, logística, contingência e critérios de aceite.
+4.7.20 - Todas as obrigações de garantia, cobertura, manutenção, licenciamento, segurança e SLA
+permanecerão aplicáveis à configuração atualizada até o encerramento do contrato.
+
+--- [pag. PDF 10] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 10 de 13
+4.8 - MONITORAMENTO E PAINEL
+4.8.1 - A CONTRATADA disponibilizará painel de consulta à Administração, relatórios mensais, exportação
+aberta e histórico por número de série, sem depender exclusivamente de evidência produzida pela
+prestadora.
+4.8.2 - O monitoramento abrangerá CPU, temperatura, memória, ocupação e saúde do armazenamento,
+bateria, sistema operacional, BIOS, firmware, drivers, atualizações, alterações de hardware e software,
+disponibilidade, recorrência, substituições e datas de inventário.
+4.8.3 - A coleta observará minimização e não incluirá conteúdo, credenciais, digitação, mensagens, capturas
+de tela ou histórico de navegação.
+4.8.4 - Linha de base será registrada no aceite de todos os equipamentos. A coleta de integridade dos ativos
+conectados ocorrerá ao menos a cada 24 (vinte e quatro) horas; o relatório consolidado será mensal; e
+os testes trimestrais alcançarão 5% por categoria, com arredondamento para cima e amostra
+estratificada aprovada pela Administração.
+5 - MONITORAMENTO DE INTEGRIDADE, ALERTAS E TRATAMENTO
+5.1 - A população elegível para telemetria compreenderá os equipamentos efetivamente instalados,
+recebidos, aceitos e ativos que, na janela de apuração, devam estar ligados e disponham das condições
+de alimentação elétrica e conectividade previstas para sua operação. Desligamento autorizado, ausência
+programada de uso, falta de energia ou indisponibilidade de conectividade não imputáveis à
+CONTRATADA excluirão o equipamento do denominador somente pelo intervalo comprovado e
+registrado. Falha do agente, da plataforma, da integração ou de componente sob responsabilidade da
+CONTRATADA, bem como ausência de telemetria sem justificativa auditável, permanecerá no
+denominador e caracterizará não conformidade. Equipamento temporariamente sem comunicação será
+verificado na primeira conexão subsequente, sem geração fictícia de dados, preservando-se o registro do
+período e da causa da ausência.
+5.2 - Eventos de abertura do gabinete serão coletados na primeira condição tecnicamente disponível entre
+inicialização, conexão do agente, consulta de BIOS/UEFI, gerenciamento Out-of-Band ou mecanismo
+equivalente. Após a ingestão, o evento deverá ser apresentado no painel e encaminhado aos
+destinatários configurados sem atraso intencional e em até 15 (quinze) minutos.
+5.3 - A solução deverá gerar alertas funcionalmente equivalentes a movimentação não autorizada e alteração
+não autorizada de hardware. O alerta de alteração deverá apresentar configuração anterior e atual,
+componente afetado, eventual evento de abertura correlacionado, Ordem de Serviço localizada ou
+inexistente, evidências, situação e providências.
+5.4 - A plataforma deverá correlacionar, quando tecnicamente possível, abertura do gabinete, mudança de
+hardware, movimentação lógica, desligamento, alteração de BIOS ou firmware, chamado, Ordem de
+Serviço e autorização administrativa, preservando a sequência temporal e a fonte de cada registro.
+5.5 - Os alertas serão exibidos em painel centralizado e enviados por e-mail institucional. Quando configurado
+pela Administração e tecnicamente disponível, a solução também abrirá automaticamente chamado ou
+incidente por integração bidirecional, API, webhook ou mecanismo equivalente, sem exigir produto
+comercial específico. A Administração poderá configurar destinatários, tipos de evento, criticidade,
+horários ou janelas de notificação e regras de escalonamento; eventos classificados como críticos
+deverão receber destaque inequívoco.
+5.6 - O chamado automático deverá preservar identificador do equipamento, série, unidade, evento
+originador, data e hora, evidências, criticidade, status e histórico. Falha da integração não eliminará o
+evento original nem impedirá seu tratamento pelos canais válidos. Poderão compor o gatilho, após
+correlação e parametrização, perda de comunicação associada a evento de integridade e reincidência de
+ocorrência.
+5.7 - A criticidade do alerta observará impacto, urgência e risco. O simples evento de abertura, movimentação
+ou alteração não será automaticamente classificado como P1 nem constituirá conclusão de
+irregularidade, autoria ou responsabilidade. A classificação da abertura como autorizada ou não
+autorizada caberá à CONTRATANTE, mediante confronto com Ordem de Serviço e registros de
+manutenção, movimentação ou mudança, seguindo-se a matriz de prioridade e a apuração administrativa
+aplicável.
+
+--- [pag. PDF 11] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 11 de 13
+5.8 - O tratamento compreenderá preservação da evidência, verificação de autorização, contato com a
+unidade, inspeção quando necessária, restauração da configuração ou localização, atualização da linha
+de base, substituição de selo quando aplicável, registro da decisão e encerramento validado.
+5.9 - O painel deverá apresentar total de ativos, localização prevista, última localização lógica observada,
+divergências, eventos de abertura, alterações de hardware, inventários divergentes, mudanças
+autorizadas, pendências, histórico por equipamento, unidade e secretaria, eventos por período e
+chamados correlacionados, com exportação em formato aberto.
+5.10 - A coleta central dependerá das condições técnicas documentadas. Não será exigido que todas as
+funções operem com o equipamento desligado, sem alimentação ou sem conectividade. Recursos
+persistentes em BIOS/UEFI, firmware, SMBIOS/DMI, sensor ou gerenciamento Out-of-Band serão
+priorizados quando disponíveis, e suas limitações constarão do plano de implantação.
+5.11 - PRIORIDADE, CHAMADOS E CONTAGEM
+5.11.1 - A prioridade será atribuída na abertura mediante matriz objetiva de impacto e urgência. Serão
+considerados a quantidade de usuários e unidades afetados, a indisponibilidade ou degradação, a
+existência e a efetividade de alternativa temporária, a criticidade da função pública, o risco à vida, à
+assistência, à segurança, à integridade de dados e à continuidade do serviço. A função afetada
+prevalecerá sobre o cargo ou a posição hierárquica do usuário.
+5.11.2 - P1 - Crítica: interrupção ou degradação grave de serviço público essencial; risco atual ou iminente à
+vida, à assistência, à segurança ou à integridade de dados; indisponibilidade de unidade ou função
+crítica sem alternativa efetiva; ou impacto amplo que impeça atividade institucional prioritária. O
+atendimento P1 terá contagem contínua 24x7, ainda que o equipamento ou a unidade não tenham sido
+previamente classificados como críticos.
+5.11.3 - P2 - Alta: indisponibilidade ou degradação relevante que afete múltiplos usuários, uma unidade ou
+função de elevada importância, sem risco imediato enquadrável como P1, mas com prejuízo
+operacional significativo; ou ocorrência crítica para a qual exista alternativa temporária efetiva e
+comprovadamente disponível. A contagem observará a janela operacional cadastrada.
+5.11.4 - P3 - Média: falha que afete usuário ou grupo limitado, reduza de forma relevante a produtividade ou a
+funcionalidade do equipamento, mas preserve atividade principal por meio de alternativa viável e não
+interrompa serviço essencial. A contagem observará a janela operacional cadastrada.
+5.11.5 - P4 - Baixa: solicitação, dúvida, ajuste programável, falha estética ou desconformidade de baixo
+impacto que não impeça o uso regular, não comprometa segurança, desempenho mínimo ou
+continuidade e possa ser tratada sem contingência imediata. A contagem observará a janela
+operacional cadastrada.
+5.11.6 - Quando uma ocorrência atender a critérios de mais de uma prioridade, prevalecerá a mais elevada.
+Informação inicial incompleta não autorizará rebaixamento nem postergação da contagem: será
+adotada provisoriamente a maior prioridade compatível com os fatos conhecidos, com revisão após
+obtenção de evidência objetiva.
+5.11.7 - A CONTRATADA poderá propor classificação ou revisão, mas não poderá rebaixar, fracionar,
+encerrar, reabrir ou alterar unilateralmente o chamado para reiniciar prazos ou reduzir consequências.
+A revisão dependerá de registro motivado e validação da fiscalização; preservará a data e a hora do
+primeiro acionamento e não eliminará atraso já configurado. A indisponibilidade da unidade faturável, a
+perda da alternativa efetiva ou o agravamento do impacto determinarão a reclassificação para P2 ou
+P1, conforme a matriz de prioridade. Se a evidência demonstrar que a condição mais grave existia
+desde o primeiro registro, o prazo da prioridade corrigida será contado desse marco; se o agravamento
+for superveniente, será contado do primeiro registro objetivo da nova condição, preservados o histórico,
+o chamado original e os efeitos do período anterior.
+5.11.8 - Os prazos de atendimento inicial e de restabelecimento de P1 correrão sempre em regime 24x7. O
+prazo de solução definitiva de P1 será contado em dias úteis. Os prazos de P2, P3 e P4 correrão na
+janela operacional previamente cadastrada para o equipamento ou a unidade, conforme os itens 3.1 e
+3.2, inclusive quando essa janela for 24x7. A disponibilidade, o HMR e a suspensão proporcional
+observarão, em todas as prioridades, a janela operacional cadastrada.
+
+--- [pag. PDF 12] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 12 de 13
+5.11.9 - A CONTRATADA fornecerá portal próprio e promoverá integração bidirecional com a ferramenta
+indicada pela Administração quando tecnicamente possível. Chamados manterão identificador único ou
+referência cruzada, horários, prioridade, equipamento, histórico, evidências e aceite.
+5.11.10 - Falha de integração não suspenderá SLA. O primeiro acionamento, inclusive alerta automático,
+iniciará a contagem. Canal telefônico 24x7 para P1 será formalizado no sistema com preservação do
+horário original.
+5.11.11 - Chamado não poderá ser excluído, reiniciado, rebaixado ou encerrado unilateralmente. Reabertura
+por persistência será continuidade do chamado anterior.
+5.11.12 - A pausa dependerá de ação indispensável e exclusiva da Administração, evidência, registro e
+concordância. Falta de peça, reserva, técnico, escalonamento, fabricante, transporte, subcontratado,
+plataforma ou integração não suspenderá prazos.
+5.11.13 - Registros utilizarão relógio sincronizado, horário armazenado em UTC e exibição no horário de
+Brasília. Ajustes preservarão o valor original, responsável, motivo e trilha de auditoria.
+5.12 - DISPONIBILIDADE E METAS
+5.12.1 - A disponibilidade será apurada individualmente na janela em que o equipamento deveria operar.
+Unidades críticas usarão janela 24x7; as demais, o horário operacional cadastrado.
+5.12.2 - Desligamento autorizado, uso programado ou notebook desconectado sem obrigação de permanecer
+online não será indisponibilidade. Falha de hardware, software gerenciado, manutenção, ausência de
+peça ou demora da CONTRATADA serão computadas.
+5.12.3 - A meta mensal será de 99,5% para equipamentos críticos 24x7 e de 99% para os demais, apurada
+individualmente por equipamento. Para fins gerenciais, a disponibilidade será consolidada por
+categoria e unidade, separadamente para equipamentos críticos e para os demais, pela razão entre a
+soma das horas em que os equipamentos permaneceram disponíveis e a soma dos respectivos HMR,
+multiplicada por 100; de forma equivalente, será calculada por (soma dos HMR menos soma das horas
+de indisponibilidade computável) dividida pela soma dos HMR, multiplicada por 100. É vedada a média
+aritmética simples dos percentuais individuais. O resultado consolidado não substituirá o cálculo
+individual nem gerará glosa autônoma; os efeitos financeiros observarão o Apêndice 6, itens 4.4 a 4.6.
+Exclusões dependerão de evidência e aceite.
+5.12.4 - O índice mensal de cumprimento de SLA será de 95% para P1 e P2 e 90% para P3 e P4. Com
+menos de 20 chamados elegíveis na prioridade, será utilizada janela móvel de 3 meses. Se o total de
+chamados elegíveis permanecer igual a zero nessa janela, o resultado da prioridade será registrado
+como “NÃO APLICÁVEL — N/A”, e não como 0% ou 100%; não caracterizará cumprimento nem
+descumprimento, não produzirá glosa, plano corretivo ou recorrência e não integrará média ou
+consolidação percentual. O relatório mensal registrará os denominadores mensal e móvel, a
+inexistência de chamados elegíveis e as exclusões justificadas.
+5.12.5 - Resultado inferior à meta exigirá plano corretivo em 5 dias úteis. Dois meses consecutivos ou três
+alternados em seis meses caracterizarão desempenho recorrente insuficiente, sem sanção automática.
+5.13 - EQUIPE, ACESSO E SUPORTE
+5.13.1 - A CONTRATADA apresentará plano de capacidade com quantitativo, funções, experiência,
+treinamentos, cobertura territorial, escalas, plantões, substituições e escalonamento necessários aos
+SLAs.
+5.13.2 - Certificação do fabricante será exigida somente quando indispensável à garantia ou intervenção
+restrita. A CONTRATADA comprovará acesso a canais oficiais de suporte, peças, firmware e garantia.
+5.13.3 - Técnicos serão previamente identificados, credenciados e vinculados a confidencialidade, com
+registro de entrada e saída, capacitação em segurança e proibição de fotografia ou cópia sem
+autorização.
+5.13.4 - Atendimento remoto será criptografado, com MFA, identificação, autorização e registro. Acesso não
+assistido ficará restrito a rotinas previamente aprovadas sem visualização de conteúdo do usuário.
+5.14 - SEGURANÇA E SAÚDE NO TRABALHO
+5.14.1 - A CONTRATADA cumprirá a legislação trabalhista, previdenciária e de segurança e saúde no
+trabalho, inclusive as Normas Regulamentadoras aplicáveis às atividades contratadas, respondendo
+por empregados, prepostos e subcontratados.
+
+--- [pag. PDF 13] ---
+Apêndice 4 - Manutenção, Chamados e Níveis de Serviço | Página 13 de 13
+5.14.2 - Antes de atividade com risco, deverá avaliar riscos, adotar procedimento seguro, fornecer e fiscalizar
+EPI e EPC, comprovar capacitação e autorizações, interromper condição insegura e registrar
+incidentes, sem transferir à CONTRATANTE deveres do empregador.
+5.14.3 - Não será exigida certificação ISO 45001 do fabricante ou da CONTRATADA para proposta,
+habilitação ou aceitação. Certificação válida será evidência complementar facultativa e não substituirá
+as obrigações legais e contratuais.
+6 - CONTINUIDADE E NÍVEIS DE SERVIÇO DURANTE A RENOVAÇÃO
+6.1 - A renovação tecnológica do segundo ciclo não suspenderá a manutenção, o suporte, o monitoramento,
+a reserva técnica, a segurança, a disponibilidade ou qualquer nível de serviço vigente.
+6.2 - O equipamento anterior permanecerá disponível até que o substituto esteja instalado, configurado,
+licenciado, inventariado, testado e apto à operação. A retirada antecipada que provoque indisponibilidade
+será tratada pelos níveis de serviço aplicáveis.
+6.3 - Unidades de saúde, serviços essenciais, autoridades governamentais e demais unidades classificadas
+como críticas receberão tratamento prioritário no piloto, nas ondas, no suporte e na contingência,
+observada a janela 24x7 quando formalmente cadastrada.
+6.4 - Falha, indisponibilidade, perda de desempenho ou incompatibilidade decorrente da renovação será
+atendida segundo a prioridade e os prazos do SLA, sem reinício artificial da contagem em razão de
+reinstalação, troca de equipe ou mudança de onda.
+6.5 - Falta de estoque, fabricante, distribuidor, transporte, equipe, ferramenta ou planejamento da
+CONTRATADA não constituirá, isoladamente, causa de suspensão do SLA ou ampliação do prazo até
+D+90.
+6.6 - A CONTRATADA manterá capacidade operacional, técnica e logística compatível com o piloto, as
+ondas, a continuidade dos atendimentos ordinários e a conclusão integral da base elegível até D+90.
+6.7 - Os incidentes e as não conformidades da renovação serão registrados na central de chamados e
+vinculados ao equipamento anterior, ao substituto, à onda, à unidade, ao impacto, à solução, ao aceite e
+ao IRA, vedada a baixa sem evidência de restabelecimento.
+Código: 7932f195-9662-46ba-8de2-8fe24f3e2a02
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

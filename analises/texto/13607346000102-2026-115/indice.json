@@ -1,0 +1,34 @@
+{
+ "id": "13607346000102-2026-115",
+ "extraidoEm": "2026-09-17T11:52:52.816Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/13607346000102/2026/115",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-AVISO.txt",
+   "titulo": "AVISO",
+   "tipo": "Aviso de Contratação Direta",
+   "paginas": 1,
+   "caracteres": 1636
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-TERMO-DE-REFERENCIA.txt",
+   "titulo": "TERMO DE REFERENCIA",
+   "tipo": "Termo de Referência",
+   "paginas": 23,
+   "caracteres": 75883
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-EDITAL.txt",
+   "titulo": "EDITAL",
+   "tipo": "Edital",
+   "paginas": 19,
+   "caracteres": 49127
+  }
+ ],
+ "totalPaginas": 43,
+ "totalCaracteres": 126646,
+ "comErro": 0
+}

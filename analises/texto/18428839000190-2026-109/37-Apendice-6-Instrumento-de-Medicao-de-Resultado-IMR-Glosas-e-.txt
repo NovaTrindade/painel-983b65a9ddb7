@@ -1,0 +1,679 @@
+=== DOCUMENTO 37: Apendice_6_-_Instrumento_de_Medicao_de_Resultado_(IMR)__Glosas_e_Relatorios.pdf ===
+tipo: Outros Documentos | páginas: 10 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/37
+
+--- [pag. PDF 1] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 1 de 10
+APÊNDICE 6 – INSTRUMENTO DE MEDIÇÃO DE RESULTADO (IMR), GLOSAS E
+RELATÓRIOS
+1 - FINALIDADE E BASE DE APURAÇÃO
+1.1 - Este IMR afere mensalmente a solução PCaaS com base nos equipamentos efetivamente instalados,
+recebidos, aceitos e ativos, nos registros por chamado e nos indicadores consolidados por prioridade,
+categoria e unidade.
+1.2 - Cada descumprimento será apurado individualmente, e todos os indicadores materialmente aplicáveis
+serão calculados e registrados. A média ou a consolidação mensal não apagará falha específica nem
+criará incidência financeira autônoma. Para fins de vedação da dupla incidência, considera-se mesmo
+núcleo fático a coincidência entre ocorrência causal, unidade faturável, intervalo relevante e efeito
+operacional, conforme o item 4.6. Indicador agregado poderá fundamentar plano corretivo e processo
+autônomo por recorrência, sem sanção ou nova glosa automática.
+1.3 - A fonte de evidência será conciliada entre Ordens de Serviço, termos de aceite, inventário, chamados
+integrados, telemetria, logs, movimentações e documentos das partes. Nenhuma fonte unilateral terá
+presunção absoluta.
+1.4 - Para fins financeiros deste IMR, considera-se unidade faturável o item PCaaS/mês definido no item 1.2.2
+do Termo de Referência. Para os Microcomputadores Tipo I e Tipo II, a unidade faturável corresponde
+ao conjunto funcional completo formado pelo microcomputador, 1 (um) monitor e os periféricos
+integrantes da configuração; para o Notebook, corresponde à unidade completa; e, para o Monitor
+Adicional, corresponde ao monitor solicitado e faturado separadamente. Os componentes do conjunto
+não constituem unidades faturáveis autônomas. A falha de componente será vinculada ao respectivo
+item PCaaS/mês e somente produzirá suspensão proporcional da cobrança da unidade faturável quando
+impedir ou comprometer efetivamente a utilização regular do conjunto. A suspensão ficará limitada ao
+período de indisponibilidade computável, sem prejuízo da glosa aplicável sobre a base remanescente e
+vedada qualquer duplicidade financeira.
+2 - INDICADORES E METAS
+Indicador Critério e fórmula Meta e periodicidade Evidência e tratamento
+I1 - Atendimento Tempo até atuação técnica
+qualificada
+P1: 1h; P2: 2h úteis; P3: 4h
+úteis; P4: 8h úteis. Por
+chamado.
+Chamado e logs. Glosa
+conforme os itens 4.1, 4.1.1 e
+4.6.
+I2 -
+Restabeleciment
+o
+Tempo até condição efetiva
+de trabalho
+P1: 8h corridas; P2: 12h úteis.
+Por chamado.
+Chamado e termo de
+substituição. Glosa conforme os
+itens 4.1, 4.1.1 e 4.6, sem dupla
+contagem.
+I3 - Solução
+definitiva
+Reparo ou substituição
+definitiva
+P1/P2: 10 dias úteis; P3: 2 dias
+úteis; P4: 5 dias úteis. Por
+chamado.
+Aceite e histórico. Glosa
+conforme os itens 4.1, 4.1.1 e
+4.6.
+I4 -
+Cumprimento de
+SLA
+Chamados no prazo /
+chamados elegíveis
+P1/P2: 95%; P3/P4: 90%.
+Apuração mensal por prioridade;
+com menos de 20 chamados
+elegíveis na prioridade, será
+utilizada janela móvel de 3
+meses. Se o denominador da
+janela aplicável for zero, o
+resultado será N/A, conforme o
+item 3.1.
+Base de chamados, com
+registro dos denominadores
+mensal e móvel, das exclusões
+justificadas e do resultado N/A.
+Plano corretivo em 5 dias úteis
+somente quando houver
+resultado calculável inferior à
+meta. O I4 não gera glosa
+autônoma; seu tratamento
+observará o item 4.7.1.
+
+--- [pag. PDF 2] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 2 de 10
+Indicador Critério e fórmula Meta e periodicidade Evidência e tratamento
+I5 -
+Disponibilidade
+Tempo operacional
+descontada a
+indisponibilidade atribuível
+Crítico: 99,5%; demais: 99%.
+Apuração mensal por unidade
+faturável, com rastreabilidade
+individual dos equipamentos e
+componentes integrantes do
+conjunto. HMR e
+indisponibilidade serão apurados
+conforme a janela operacional
+cadastrada, sem alteração
+retroativa em razão da
+prioridade do chamado.
+Telemetria e chamados. Glosa
+conforme os itens 4.4 e 4.5.
+I6 - Reserva
+técnica
+Unidades disponíveis por
+categoria e prazo de
+recomposição
+2% da base ativa, arredondado
+para cima, mínimo 1. Reposição
+em até 5 dias úteis da utilização.
+Mensal, com controle por
+ocorrência.
+Inventário auditável. O déficit
+dentro do prazo de
+recomposição será registrado
+como não conformidade, sem
+glosa autônoma. Após o
+vencimento, ou quando a
+insuficiência produzir impacto
+operacional anterior, o
+tratamento financeiro observará
+os itens 4.7.2 e 4.6.
+I7 - Recorrência
+3 mesmos defeitos/90 dias ou
+5 interrupções/30 dias; marco
+no protocolo que atingir o
+limiar
+Substituição obrigatória no prazo
+da prioridade, limitado a 10 dias
+úteis, contado do protocolo-
+limiar. Janela móvel.
+Histórico por série. Faixa pelo
+atraso relativo: leve até 25%;
+moderada acima de 25% até
+100%; grave acima de 100%;
+crítica quando a omissão
+impedir contingência ou
+interromper serviço
+essencial/P1. O enquadramento
+observará também os itens
+4.1.1 e 4.6.
+I8 -
+Desempenho
+Linha de base, telemetria da
+população elegível, testes e
+sistemas institucionais
+abrangidos
+Sem degradação persistente
+igual ou superior a 20% após
+correção; telemetria de 100% da
+população elegível; testes
+trimestrais em amostra mínima
+de 5%; avaliações formais no
+36º e no 48º mês.
+Elegíveis: ativos que devam
+estar ligados e disponham de
+energia e conectividade na
+janela. Desligamento autorizado
+e ausência de
+energia/conectividade não
+imputáveis são excluídos só no
+intervalo documentado. Falha
+do agente/plataforma ou
+ausência sem justificativa
+imputável permanece no
+denominador. Resultados brutos
+e reproduzíveis. O I8 não gera
+glosa autônoma; a correção, o
+upgrade, a substituição e os
+efeitos financeiros observarão o
+item 4.7.3.
+I9 - Plataforma
+Disponibilidade do painel,
+inventário, ingestão de
+eventos de integridade,
+correlação, exportação e trilha
+de auditoria
+Disponibilidade mensal de
+99,5%; RTO de 4 horas; RPO de
+24 horas. Aferição mensal.
+Logs do serviço, exportações e
+testes sintéticos. O tratamento
+financeiro da disponibilidade, do
+RTO e do RPO observará o
+item 4.7.4. Falha funcional sem
+indisponibilidade, sem
+descumprimento de RTO e sem
+descumprimento de RPO exigirá
+correção e plano corretivo, sem
+glosa autônoma.
+I10 - Incidente Prazo de comunicação e
+relatórios
+2h; 24h; 5 dias úteis. Por
+incidente.
+Linha do tempo e protocolo,
+conforme o Apêndice 3, itens
+3.4.10 a 3.4.12. O tratamento
+financeiro observará o item
+4.7.5.
+
+--- [pag. PDF 3] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 3 de 10
+Indicador Critério e fórmula Meta e periodicidade Evidência e tratamento
+I11 - Relatório Prévia completa de medição Até o 3º dia útil. Mensal.
+Protocolo e arquivo aberto.
+Correção antes do ateste. O I11
+não gera glosa autônoma; seu
+tratamento observará o item
+4.7.6.
+I12 - Satisfação Avaliações satisfeitas 85% indicativo. Trimestral.
+Pesquisa voluntária. Plano de
+melhoria, sem glosa isolada. O
+tratamento observará o item
+4.7.7.
+I13 - Evento
+coberto
+Tempo desde a primeira
+comunicação até o
+restabelecimento e a solução
+SLA da prioridade, sem espera
+por boletim, laudo ou
+seguradora. Por ocorrência.
+Protocolo, boletim de ocorrência
+quando aplicável, termo de
+substituição, laudo e decisão. O
+I13 não gera glosa autônoma;
+seu tratamento observará o item
+4.7.8.
+I14 - Upgrade
+tecnológico
+Diagnóstico desde a
+notificação; contingência;
+conclusão desde a decisão
+técnica ou, na recorrência,
+desde o protocolo-limiar;
+estabilização
+Diagnóstico: 2 dias úteis para
+situações críticas e 5 dias úteis
+para as demais;
+restabelecimento conforme
+prioridade; conclusão em até 10
+dias úteis; estabilização por 5
+dias úteis.
+Notificação, protocolo-limiar
+quando aplicável, contranálise,
+decisão, relatório, testes,
+inventário, linha de base e
+aceite. Faixa pelo atraso
+relativo: leve até 25%;
+moderada acima de 25% até
+100%; grave acima de 100%;
+crítica quando não houver
+contingência adequada ou
+houver interrupção essencial/P1
+além do prazo. O
+enquadramento observará
+também os itens 4.1.1 e 4.6.
+I15 - IRA - Índice
+de Renovação
+Aceita
+Equipamentos renovados com
+aceite definitivo acumulados /
+base elegível validada em D0
+x 100
+D+30: 25%; D+60: 60%; D+90:
+100%. Apuração acumulada no
+segundo ciclo.
+Inventário, matriz, termos de
+aceite definitivo e relatório
+mensal. A glosa observará o
+item 4.7.9, sobre a parcela
+efetivamente vencida e sem
+dupla incidência.
+3 - FÓRMULAS E REGRAS DE CONTAGEM
+3.1 - Cumprimento do SLA (%) = chamados elegíveis concluídos no prazo / total de chamados elegíveis x
+100. A apuração será realizada por prioridade. Quando houver menos de 20 chamados elegíveis na
+prioridade, será utilizada a janela móvel de 3 meses. Se o total de chamados elegíveis na janela aplicável
+for igual a zero, o resultado será registrado como “NÃO APLICÁVEL — N/A”, e não como 0% ou 100%;
+não caracterizará cumprimento nem descumprimento, não produzirá glosa, plano corretivo ou
+recorrência e não integrará média ou consolidação percentual. O relatório mensal registrará os
+denominadores mensal e móvel, a inexistência de chamados elegíveis e as exclusões justificadas.
+Chamado cancelado, duplicado ou de responsabilidade comprovada da Administração somente será
+excluído mediante justificativa auditável.
+3.2 - Disponibilidade (%) = (HMR - horas de indisponibilidade computável dentro da janela operacional
+cadastrada) / HMR x 100. HMR corresponde ao total de horas da janela operacional cadastrada para a
+unidade faturável no respectivo período. Para janela permanente 24x7, o HMR corresponderá às horas
+contínuas do período; para as demais unidades, corresponderá somente às horas da janela
+administrativa ou operacional registrada. O resultado será apresentado com duas casas decimais, sem
+arredondamento destinado a ocultar descumprimento.
+3.3 - A matriz de prioridade do Apêndice 4, item 5.11, integra este IMR. Os prazos de atendimento inicial e de
+restabelecimento de P1 serão contados continuamente, 24x7, em qualquer unidade. O prazo de solução
+definitiva de P1 será contado em 10 (dez) dias úteis. P2, P3 e P4 seguirão a janela operacional
+cadastrada. A classificação de uma ocorrência como P1 não alterará a janela mensal de disponibilidade
+nem o HMR da unidade faturável. O primeiro registro objetivo, inclusive alerta automático, inicia a
+contagem do SLA; o encerramento exige restabelecimento efetivo e validação.
+
+--- [pag. PDF 4] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 4 de 10
+3.3.1 - P1 - Crítica: interrupção ou degradação grave de serviço essencial; risco atual ou iminente à vida,
+à assistência, à segurança ou à integridade de dados; unidade ou função crítica sem alternativa
+efetiva; ou impacto amplo impeditivo. Contagem contínua 24x7.
+3.3.2 - P2 - Alta: impacto relevante sobre múltiplos usuários, unidade ou função importante, sem risco
+imediato de P1, ou ocorrência crítica com alternativa temporária efetiva. Contagem na janela
+operacional cadastrada.
+3.3.3 - P3 - Média: impacto limitado, degradação relevante com alternativa viável e preservação da
+atividade principal, sem interrupção de serviço essencial. Contagem na janela operacional
+cadastrada.
+3.3.4 - P4 - Baixa: solicitação, ajuste programável ou desconformidade sem impedimento de uso regular,
+risco ou comprometimento do desempenho mínimo. Contagem na janela operacional cadastrada.
+3.3.5 - Na coexistência de critérios prevalecerá a prioridade mais elevada. Informação incompleta não
+autorizará rebaixamento ou atraso da contagem. Revisão dependerá de evidência e validação da
+fiscalização, preservará o primeiro registro e não eliminará atraso já configurado.
+3.4 - Pausa somente será admitida por ação indispensável e exclusiva da Administração, com evidência,
+registro e concordância. Falta de peça, reserva, pessoal, fabricante, transporte, plataforma ou terceiro
+não suspende o SLA.
+4 - GLOSA PROGRESSIVA
+4.1 - A base ativa mensal — BAM corresponderá ao valor proporcional da unidade faturável efetivamente
+instalada, recebida, aceita e ativa no período, vinculada ao respectivo item PCaaS/mês. A
+indisponibilidade temporária não retirará a unidade da base ativa e produzirá exclusivamente o ajuste
+temporal previsto no item 4.2.
+Faixa Percentua
+l Critério objetivo Exemplos de enquadramento
+Leve 2%
+Atraso relativo superior a 0% e até 25%,
+sem interrupção essencial e sem hipótese
+específica mais grave.
+Descumprimento pontual, com
+impacto reduzido e continuidade
+preservada.
+Moderada 5%
+Atraso relativo superior a 25% e até
+100%, quando não houver hipótese
+específica mais grave.
+Atraso relevante, com continuidade
+operacional preservada.
+Grave 10%
+Atraso relativo superior a 100%, ausência
+de solução provisória adequada quando
+contratualmente exigível ou hipótese
+grave expressamente prevista para o
+indicador.
+Falha operacional prolongada ou
+obrigação material não concluída.
+Crítica 20%
+P1 não restabelecido no prazo;
+interrupção de serviço essencial;
+insuficiência de reserva que impeça
+contingência; omissão integral de
+obrigação com impacto crítico; ou
+hipótese crítica expressamente prevista
+para o indicador.
+Comprometimento crítico da
+continuidade.
+4.1.1 - Para obrigação expressa em prazo e que possua glosa autônoma, o atraso relativo — AR será
+calculado por AR = máximo [0; (TE - PC) / PC] x 100, em que TE corresponde ao tempo
+efetivamente decorrido e PC ao prazo contratual, ambos medidos na mesma unidade e sem
+arredondamento intermediário. A faixa leve corresponderá a AR superior a 0% e até 25%; a
+moderada, a AR superior a 25% e até 100%; e a grave, a AR superior a 100%. A faixa crítica
+somente será aplicada nas hipóteses expressamente previstas neste IMR.
+4.1.2 - A reincidência, isoladamente, não elevará automaticamente a alíquota. O agravamento dependerá
+de regra específica, novo efeito operacional ou persistência material objetivamente demonstrada.
+Quando dois indicadores decorrerem do mesmo núcleo fático e do mesmo efeito operacional, será
+aplicada a regra de correlação e precedência do item 4.6.
+4.2 - A apuração observará esta ordem obrigatória: parcela suspensa (PS) = BAM x horas de indisponibilidade
+computável além do prazo de restabelecimento aplicável a P1 ou P2 e coincidentes com a janela
+
+--- [pag. PDF 5] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 5 de 10
+operacional cadastrada / HMR da unidade faturável no período; base remanescente (BR) = BAM - PS;
+glosa do evento = BR x percentual da faixa aplicável. Enquanto materialmente mantida a classificação
+P3 ou P4, PS = 0 e BR = BAM, sem prejuízo da glosa cabível pelo descumprimento do prazo de
+atendimento ou de solução definitiva. Se ocorrer indisponibilidade da unidade faturável, perda da
+alternativa efetiva ou agravamento do impacto, a ocorrência será reclassificada conforme o Apêndice 4,
+item 5.11.7; após o enquadramento em P1 ou P2, a PS observará o respectivo prazo de
+restabelecimento e o marco temporal definido naquela regra. A PS não excederá a BAM. A prioridade
+P1 não alterará o HMR, que permanecerá vinculado à janela operacional cadastrada. Eventos distintos
+poderão acumular glosas até 50% da BR da unidade faturável afetada, e a soma global das glosas ficará
+limitada a 20% da medição mensal após as suspensões.
+4.3 - O mesmo núcleo fático, conforme definido no item 4.6.1, não receberá suspensão repetida nem mais de
+uma glosa pelo mesmo efeito operacional. Período já excluído na formação da BAM não integrará a PS;
+o valor suspenso pela PS não integrará a BR sobre a qual incide a glosa. A PS poderá coexistir com
+uma glosa porque a primeira exclui temporalmente a parcela não devida e a segunda ajusta a qualidade
+da prestação sobre a BR, observada a sequência do item 4.2. Sanção administrativa somente poderá
+decorrer de infração autônoma, previsão no edital ou contrato e processo próprio com contraditório e
+ampla defesa.
+4.4 - Para o indicador I5, a meta M será expressa em forma decimal: 0,995 para unidade crítica e 0,99 para
+as demais. A tolerância de indisponibilidade do período (TI) será calculada por TI = HMR x (1 - M). O
+excesso relativo de indisponibilidade (ERI) será calculado por ERI = máximo [0; (IC - TI) / TI] x 100, em
+que IC corresponde às horas de indisponibilidade computável do período. Se a disponibilidade apurada
+atingir ou superar a meta, a glosa I5 será igual a zero. Abaixo da meta, a glosa I5 incidirá sobre a BR da
+unidade faturável afetada, nas seguintes faixas: ERI acima de 0% e até 25%, 2%; acima de 25% e até
+100%, 5%; acima de 100% e até 200%, 10%; e acima de 200%, 20%. O enquadramento utilizará os
+valores integrais de HMR, IC, TI e ERI, antes da apresentação do resultado com duas casas decimais.
+4.5 - A apuração financeira do I5 observará a seguinte precedência: primeiro, será calculada a PS e formada
+a BR conforme o item 4.2; segundo, o I5 será calculado uma única vez por unidade faturável e período
+mensal e, quando descumprida a meta, a glosa correspondente incidirá sobre a BR. A PS e uma glosa
+poderão coexistir nessa sequência porque a PS exclui o valor temporal não devido e a glosa ajusta a
+qualidade sobre a base remanescente. Quando as mesmas horas de indisponibilidade computável
+também fundamentarem glosa do I2 ou de outro indicador que possua glosa autônoma pelo mesmo
+efeito, todos os resultados serão registrados, mas será aplicada somente a maior alíquota cabível entre
+o I5 e o indicador sobreposto, vedada a soma de glosas pelo mesmo núcleo fático. Descumprimento de
+SLA que não componha a IC ou que produza efeito materialmente distinto poderá gerar glosa própria,
+observados os limites do item 4.2. A reincidência no I5 não elevará automaticamente a alíquota; dois
+meses consecutivos ou três alternados em seis meses abaixo da meta acionarão plano corretivo e
+apuração própria de desempenho recorrente conforme o Apêndice 4, item 5.12.5, sem nova glosa
+automática apenas pela recorrência.
+4.6 - A correlação e a precedência entre indicadores observarão obrigatoriamente os seguintes critérios:
+4.6.1 - Considera-se mesmo núcleo fático a ocorrência causal que repercuta na mesma unidade faturável,
+em intervalo total ou parcialmente coincidente, e produza efeito operacional substancialmente
+idêntico. A abertura, o fracionamento, o encerramento, a reabertura ou a reclassificação de
+chamados e a mudança do indicador utilizado não criarão, por si sós, núcleo fático distinto.
+4.6.2 - Todos os indicadores materialmente aplicáveis serão calculados e registrados. Indicador que não
+possua, em sua própria linha ou em outra regra expressa deste IMR, previsão de glosa autônoma
+não terá alíquota criada por analogia e permanecerá destinado à evidência, à correção, ao plano
+corretivo ou à análise de recorrência, conforme o caso.
+4.6.3 - Para cada unidade faturável e período de medição, serão calculadas primeiro a PS e a BR, na
+forma do item 4.2. A alíquota de glosa selecionada incidirá somente sobre a BR da parcela
+efetivamente afetada.
+4.6.4 - Os resultados dos indicadores serão agrupados na matriz de correlação evento-indicador segundo
+a ocorrência causal, a unidade faturável, o intervalo e o efeito operacional. A fiscalização deverá
+motivar o enquadramento como sobreposição ou como efeito materialmente distinto.
+
+--- [pag. PDF 6] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 6 de 10
+4.6.5 - Dentro de cada grupo correspondente ao mesmo núcleo fático e ao mesmo efeito operacional,
+será aplicada uma única glosa, correspondente à maior alíquota cabível. As demais incidências
+serão registradas como absorvidas, sem soma financeira; em caso de alíquotas iguais, haverá uma
+única incidência.
+4.6.6 - Descumprimentos referentes a ocorrências independentes, obrigações autônomas, intervalos não
+sobrepostos ou efeitos operacionais materialmente distintos poderão gerar glosas próprias e
+cumulativas. A multiplicidade de chamados, classificações ou indicadores não demonstrará,
+isoladamente, a autonomia do fato ou do efeito. Permanecem aplicáveis os limites de 50% da BR
+da unidade faturável afetada e de 20% da medição mensal após as suspensões, previstos no item
+4.2.
+4.6.7 - O I5 continuará sendo calculado e tratado financeiramente por unidade faturável conforme os itens
+4.4 e 4.5. A consolidação da disponibilidade por categoria e unidade terá finalidade gerencial, será
+calculada conforme o Apêndice 4, item 5.12.3, não substituirá a apuração individual e não criará
+glosa adicional.
+4.6.8 - O relatório mensal conterá matriz de correlação evento-indicador com, no mínimo: identificador da
+ocorrência e do chamado; unidade faturável e item PCaaS/mês; causa registrada; intervalo de
+apuração; efeito operacional; indicadores calculados; PS; BR; alíquotas apuradas; incidência
+aplicada; incidências absorvidas; justificativa para cumulação ou absorção; limites financeiros
+utilizados; e validação da fiscalização antes do ateste.
+4.7 - REGRAS ESPECÍFICAS DE INCIDÊNCIA POR INDICADOR
+4.7.1 - O I4 possui natureza agregada e gerencial. Resultado calculável inferior à meta exigirá plano
+corretivo no prazo previsto, mas não gerará glosa autônoma. Os descumprimentos individuais que
+compõem o resultado do I4 serão apurados pelos indicadores I1, I2 e I3 e, quando houver
+indisponibilidade, pela PS e pelos indicadores I5 ou outros materialmente aplicáveis. O resultado
+N/A permanecerá sem efeito financeiro.
+4.7.2 - Para o I6, RE corresponderá à quantidade de reserva técnica exigida para a categoria e RD à
+quantidade de unidades em déficit. Quando RE for igual a zero, o indicador será N/A. A extensão
+do déficit — ED será calculada por ED = RD / RE x 100. O atraso relativo da recomposição — AR6
+será calculado pelo número de dias úteis de atraso após o vencimento do prazo de 5 (cinco) dias
+úteis, dividido por 5, multiplicado por 100, preservadas as frações de tempo registradas.
+4.7.2.1 - A base de incidência do I6 — BI6 será calculada pelo preço mensal unitário da categoria
+multiplicado pelo somatório das unidades-dias em déficit após o vencimento, dividido pelo número
+de dias corridos do mês. Quando o déficit produzir impacto operacional antes do vencimento do
+prazo de recomposição, o período comprovadamente afetado será considerado desde o impacto.
+A BI6 não poderá exceder a soma das BR das unidades ativas da categoria.
+4.7.2.2 - Será considerada a maior gravidade resultante de ED e AR6: até 25%, faixa leve de 2%; acima de
+25% e até 50%, faixa moderada de 5%; e acima de 50%, faixa grave de 10%. A faixa crítica de
+20% somente será aplicada quando a insuficiência impedir contingência, retardar restabelecimento
+de ocorrência P1, interromper serviço essencial ou produzir outro impacto crítico objetivamente
+demonstrado. Quando o mesmo déficit também produzir efeito em indicador de SLA, será aplicada
+a correlação do item 4.6.
+4.7.3 - O I8 não possuirá glosa autônoma. Ausência ou falha de telemetria, agente, linha de base, teste
+ou avaliação deverá produzir registro, correção e plano de ação. Quando a causa estiver na
+plataforma, o tratamento será realizado pelo I9; quando determinar upgrade ou substituição, pelo
+I14; e quando produzir indisponibilidade ou atraso de SLA da unidade faturável, pelos indicadores
+correspondentes, pela PS e pelo I5, sem duplicidade.
+4.7.4 - Para a disponibilidade da plataforma, HMRP corresponderá ao total de horas corridas do mês em
+regime 24x7, deduzidos somente intervalos de impossibilidade comprovadamente atribuíveis de
+forma exclusiva à Administração e expressamente aceitos pela fiscalização. ICP corresponderá às
+horas de indisponibilidade computável da plataforma. A tolerância da plataforma — TIP será
+calculada por TIP = HMRP x (1 - 0,995), e o excesso relativo — ERIP por ERIP = máximo [0; (ICP
+- TIP) / TIP] x 100.
+
+--- [pag. PDF 7] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 7 de 10
+4.7.4.1 - Quando a disponibilidade da plataforma atingir ou superar 99,5%, não haverá glosa I9. Abaixo da
+meta, aplicar-se-ão as faixas do item 4.4: ERIP superior a 0% e até 25%, 2%; superior a 25% e até
+100%, 5%; superior a 100% e até 200%, 10%; e superior a 200%, 20%.
+4.7.4.2 - O atraso de RTO ou RPO será calculado pelo atraso relativo do item 4.1.1. Quando o mesmo
+evento produzir indisponibilidade e atraso de RTO ou RPO, será aplicada uma única glosa,
+correspondente à maior alíquota cabível.
+4.7.4.3 - A base de incidência do I9 será a soma das BR das unidades faturáveis comprovadamente
+afetadas. Quando a indisponibilidade for generalizada e impedir delimitação individual, a base
+abrangerá as unidades ativas dependentes da plataforma durante o período. Falha funcional sem
+indisponibilidade, sem atraso de RTO e sem perda superior ao RPO não gerará glosa autônoma.
+4.7.5 - Os prazos de 2 (duas) horas, 24 (vinte e quatro) horas e 5 (cinco) dias úteis do I10 serão apurados
+separadamente, a partir do respectivo marco inicial definido no Apêndice 3. Para cada prazo
+vencido, o atraso relativo será calculado conforme o item 4.1.1. No mesmo incidente será aplicada
+somente a maior alíquota entre os prazos descumpridos.
+4.7.5.1 - A faixa crítica de 20% dependerá de omissão integral da comunicação ou de atraso que tenha
+comprometido materialmente a contenção, a continuidade de serviço essencial, o cumprimento de
+dever legal ou a resposta a incidente classificado como P1. A base de incidência será a soma das
+BR das unidades faturáveis comprovadamente afetadas pelo incidente, observados os limites e a
+correlação do item 4.6.
+4.7.6 - O I11 não gerará glosa autônoma. Relatório ou prévia incompletos serão devolvidos para correção
+antes do ateste. Descumprimento reiterado poderá gerar plano corretivo ou apuração própria, sem
+criação de alíquota por analogia.
+4.7.7 - O I12 permanecerá indicativo e não gerará glosa isolada. Resultado inferior à referência exigirá
+análise das causas e plano de melhoria, sem substituir evidências objetivas dos demais
+indicadores.
+4.7.8 - O I13 será utilizado para rastrear os eventos cobertos e demonstrar que o atendimento não
+aguardou boletim, laudo ou seguradora. Não haverá glosa autônoma do I13. Os prazos de
+atendimento, restabelecimento e solução serão tratados pelos indicadores I1, I2 e I3; a
+indisponibilidade, pela PS e pelo I5; e eventual sobreposição observará o item 4.6.
+4.7.9 - Para cada marco do IRA, QM corresponderá à quantidade acumulada mínima necessária para
+alcançar a meta, obtida pela multiplicação da base elegível validada em D0 pelo percentual do
+marco, com arredondamento para o inteiro superior. QA corresponderá à quantidade acumulada
+com aceite definitivo. O índice de descumprimento da renovação — IDR será calculado por IDR =
+máximo [0; (QM - QA) / QM] x 100.
+4.7.9.1 - A glosa do I15 observará: IDR superior a 0% e até 25%, faixa leve de 2%; superior a 25% e até
+50%, faixa moderada de 5%; superior a 50% e até 75%, faixa grave de 10%; e superior a 75%,
+faixa crítica de 20%.
+4.7.9.2 - A base de incidência será a soma das BR das unidades vencidas necessárias para completar QM
+e ainda sem aceite definitivo. A apuração financeira será consolidada para o marco; a abertura por
+categoria, secretaria e unidade terá finalidade de rastreabilidade e não gerará glosas paralelas.
+Após o vencimento de cada marco, o resultado será recalculado mensalmente até o aceite, vedada
+repetição sobre a mesma unidade e o mesmo período.
+4.7.9.3 - Quando o atraso de renovação também produzir indisponibilidade, falha de SLA ou
+descumprimento de upgrade na mesma unidade e no mesmo período, todos os resultados serão
+registrados, mas a incidência financeira observará o item 4.6.
+5 - MEDIÇÃO, CONCILIAÇÃO E FATURAMENTO
+5.1 - A CONTRATADA apresentará prévia até o 3º dia útil; a Administração analisará em até 5 dias úteis; e a
+CONTRATADA corrigirá divergências em até 2 dias úteis. A nota fiscal será emitida somente após
+autorização.
+5.2 - Valor proporcional ou BAM = valor mensal unitário do item PCaaS/mês x dias corridos ativos / dias
+corridos do mês. Haverá uma única cobrança por unidade faturável efetivamente atendida, sem
+cobrança adicional por equipamento provisório, componente, acessório ou intervenção. Para os
+
+--- [pag. PDF 8] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 8 de 10
+Microcomputadores Tipo I e Tipo II, a unidade faturável será o conjunto funcional completo. Em seguida
+serão apuradas, nesta ordem, a suspensão proporcional do período de indisponibilidade computável, a
+base remanescente e a glosa sobre essa base, conforme os itens 4.1 a 4.3. A indisponibilidade
+temporária não desativa a unidade nem a exclui da base ativa.
+5.3 - A prévia conterá parque ativo, dias faturáveis, movimentações, reserva, chamados, SLA, disponibilidade,
+desempenho, bateria, vulnerabilidades, incidentes, mudanças, licenças, equipamentos sob avaliação,
+upgrades planejados e concluídos, períodos de estabilização, glosas, riscos e plano de ação, com dados
+detalhados em formato aberto.
+5.4 - Divergência será decidida motivadamente com manifestação da CONTRATADA. Pagamento anterior
+não impede correção de erro comprovado, observados os procedimentos legais, e a parcela
+incontroversa será preservada.
+6 - NÍVEIS DE SERVIÇO PARA UPGRADE E SUBSTITUIÇÃO
+6.1 - As ocorrências relacionadas à insuficiência de desempenho, incompatibilidade, segurança ou suporte
+serão classificadas conforme a matriz de criticidade estabelecida neste Apêndice.
+6.2 - O diagnóstico, a contranálise ou a discussão técnica sobre a necessidade de upgrade não suspenderão:
+6.2.1 - o prazo de primeira resposta;
+6.2.2 - o prazo de restabelecimento;
+6.2.3 - a disponibilização de contingência;
+6.2.4 - a apuração da indisponibilidade;
+6.2.5 - os indicadores e glosas aplicáveis.
+6.3 - Quando a insuficiência afetar a continuidade do serviço, deverão ser observados:
+6.3.1 - primeira resposta para ocorrência P1 em até 1 hora;
+6.3.2 - restabelecimento provisório para P1 em até 8 horas corridas;
+6.3.3 - restabelecimento provisório para P2 em até 12 horas úteis;
+6.3.4 - demais prazos conforme a matriz de severidade vigente;
+6.3.5 - contagem contínua 24x7 para todo chamado P1, independentemente de classificação prévia da
+unidade; P2, P3 e P4 observarão a janela operacional cadastrada.
+6.4 - O restabelecimento provisório poderá ocorrer mediante equipamento de reserva, desde que possua
+configuração, desempenho, compatibilidade, segurança e licenciamento iguais ou superiores.
+6.5 - A conclusão definitiva do upgrade ou da substituição deverá ocorrer em até 10 dias úteis, contados da
+decisão técnica que confirmar sua necessidade.
+6.6 - O prazo definitivo somente será considerado cumprido após:
+6.6.1 - conclusão da intervenção;
+6.6.2 - apresentação do relatório técnico;
+6.6.3 - atualização do inventário;
+6.6.4 - realização dos testes;
+6.6.5 - aceite técnico inicial;
+6.6.6 - início do período de estabilização.
+6.7 - O aceite definitivo será registrado após 5 dias úteis de estabilização, desde que não sejam identificadas
+falhas relacionadas à intervenção.
+6.8 - A necessidade de correção durante o período de estabilização não reiniciará automaticamente o prazo
+original nem afastará eventual atraso já configurado.
+6.9 - Haverá somente uma cobrança mensal por unidade faturável efetivamente atendida. O equipamento
+provisório, os componentes e as intervenções não gerarão cobrança adicional.
+6.10 - Quando a unidade faturável permanecer indisponível ou inadequada além dos prazos contratuais, será
+aplicada uma única sequência de apuração, conforme os itens 4.1 a 4.3:
+6.10.1 - será calculada a suspensão proporcional exclusivamente nas ocorrências P1 ou P2, inclusive
+quando resultantes de reclassificação, sobre o período de indisponibilidade computável além do
+
+--- [pag. PDF 9] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 9 de 10
+prazo de restabelecimento, conforme o item 4.2; ocorrências P3 ou P4 não gerarão PS enquanto
+materialmente preservadas suas características, sem prejuízo da glosa aplicável;
+6.10.2 - a glosa do indicador incidirá sobre a base remanescente após a suspensão, observados a faixa
+objetiva e os limites do item 4.2;
+6.10.3 - permanecerá a obrigação de solucionar definitivamente a ocorrência;
+6.10.4 - poderão ser apuradas sanções administrativas, em caso de descumprimento injustificado.
+6.11 - A suspensão proporcional e a glosa por nível de serviço são etapas sucessivas do ajuste da medição: a
+primeira exclui o valor temporal não devido e a segunda incide somente sobre a base remanescente.
+Nenhuma delas se confunde com multa, e eventual sanção dependerá de infração autônoma e processo
+próprio, assegurados contraditório e ampla defesa.
+6.12 - Não haverá repetição da suspensão nem aplicação duplicada de glosa sobre o mesmo equipamento,
+intervalo e efeito. A indisponibilidade temporária não retirará o ativo do inventário ou da base ativa
+mensal e não autorizará nova cobrança quando houver equipamento provisório.
+6.13 - A CONTRATADA manterá painel atualizado contendo:
+6.13.1 - equipamentos sob avaliação;
+6.13.2 - tipo e criticidade da ocorrência;
+6.13.3 - data e hora dos registros;
+6.13.4 - prazo aplicável;
+6.13.5 - diagnóstico e contranálise;
+6.13.6 - decisão técnica;
+6.13.7 - intervenção planejada;
+6.13.8 - equipamento provisório utilizado;
+6.13.9 - upgrade ou substituição executada;
+6.13.10 - resultados dos testes;
+6.13.11 - período de estabilização;
+6.13.12 - aceite ou reprovação;
+6.13.13 - reincidências e pendências.
+6.14 - O relatório mensal deverá consolidar os indicadores de upgrade, incluindo:
+6.14.1 - quantidade de avaliações;
+6.14.2 - upgrades e substituições concluídos;
+6.14.3 - prazos atendidos e descumpridos;
+6.14.4 - indisponibilidade;
+6.14.5 - glosas;
+6.14.6 - suspensões de cobrança;
+6.14.7 - causas recorrentes;
+6.14.8 - populações submetidas à análise sistêmica;
+6.14.9 - resultados posteriores às intervenções.
+6.15 - O descumprimento reiterado dos prazos ou a não execução injustificada do upgrade poderá caracterizar
+inexecução contratual, sujeita às medidas previstas no Termo de Referência e no instrumento contratual.
+7 - AUDITORIA E MELHORIA CONTÍNUA
+7.1 - A Administração e os órgãos de controle poderão auditar inventário, chamados, telemetria, acessos,
+segurança, licenças, garantias, reserva, faturamento e destinação. Evidência urgente de incidente será
+preservada e fornecida imediatamente.
+7.2 - Resultado inferior à meta exigirá plano corretivo em 5 dias úteis. Descumprimento em dois meses
+consecutivos ou três alternados em seis meses caracterizará desempenho recorrente insuficiente para
+governança e eventual apuração própria.
+
+--- [pag. PDF 10] ---
+Apêndice 6 - IMR, Glosas e Relatórios | Página 10 de 10
+7.3 - A CONTRATADA apresentará trimestralmente análise de tendências, causas recorrentes,
+obsolescência, segurança, consumo e oportunidades de melhoria. Correção necessária à manutenção
+dos níveis contratados não gerará custo adicional.
+7.4 - Como controle complementar de integridade, o relatório mensal apresentará ativos sem atualização,
+movimentações divergentes, eventos de abertura, alterações de hardware, alertas gerados, falhas de
+detecção identificadas em teste ou auditoria, perda de histórico, chamados correlacionados, causas e
+ações corretivas.
+7.5 - Não se cria indicador financeiro ou tabela de glosa autônoma para cada alerta. A indisponibilidade da
+plataforma permanecerá aferida pelo I9; o atraso de atendimento observará o indicador correspondente;
+e a falha funcional isolada exigirá correção e evidência. Se o mesmo evento repercutir em mais de um
+indicador, todos os resultados serão registrados e o tratamento financeiro observará o item 4.6.
+Recorrência ou inexecução material poderá ser apurada em procedimento próprio, vedada dupla
+consequência pelo mesmo núcleo fático e efeito operacional.
+8 - IRA - ÍNDICE DE RENOVAÇÃO ACEITA
+8.1 - IRA - Índice de Renovação Aceita = quantidade acumulada de Microcomputadores Tipo I,
+Microcomputadores Tipo II e Notebooks renovados com aceite definitivo dividida pela quantidade total
+da base elegível validada em D0, multiplicada por 100.
+8.2 - As metas acumuladas mínimas serão: 25% até D+30; 60% até D+60; e 100% até D+90. O resultado
+será apurado de forma consolidada e também por categoria e unidade, com duas casas decimais e sem
+arredondamento que antecipe o atingimento da meta.
+8.3 - Não será considerado renovado equipamento apenas entregue, mantido em estoque, em trânsito,
+instalado sem teste, sem licenciamento regular, sem migração autorizada concluída quando aplicável,
+sem atualização do inventário, sem atendimento dos critérios técnicos, com pendência material ou sem
+aceite definitivo.
+8.4 - O descumprimento dos marcos do IRA será apurado exclusivamente conforme o item 4.7.9, mediante
+QM, QA, IDR e a base correspondente às unidades vencidas. Não será criada tabela paralela de
+percentuais.
+8.5 - A glosa incidirá somente sobre o valor mensal da parcela efetivamente afetada pelo descumprimento,
+observados os limites deste IMR. Quando o mesmo atraso na renovação também repercutir em indicador
+operacional correlato, todos os resultados serão registrados e a seleção da incidência financeira
+observará o item 4.6, vedada dupla glosa pelo mesmo núcleo fático e efeito operacional.
+8.6 - O descumprimento de D+90 será enquadrado financeiramente conforme o item 4.7.9 e poderá também
+caracterizar inexecução grave da obrigação de renovação quando persistente ou materialmente
+relevante, mediante processo próprio, sem prejuízo da preservação da parcela incontroversa.
+8.7 - Durante a renovação, o relatório mensal demonstrará base elegível; equipamentos renovados e
+pendentes; percentual do IRA; secretaria e unidade; categoria; número de série anterior e novo; data da
+substituição; data do aceite técnico inicial; período de estabilização; data do aceite definitivo; pendências;
+causa do atraso; providência; e glosa eventualmente aplicável.
+Código: c01896f1-8b25-47cb-a49f-5a3388e8c25f
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

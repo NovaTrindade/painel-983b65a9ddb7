@@ -1,0 +1,530 @@
+=== DOCUMENTO 33: Apendice_3_-_Procedimentos_de_Implantacao__Transicao_e_Seguranca_dos_Dados.pdf ===
+tipo: Outros Documentos | páginas: 10 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/33
+
+--- [pag. PDF 1] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 1 de 10
+APÊNDICE 3 – PROCEDIMENTOS DE IMPLANTAÇÃO, TRANSIÇÃO E
+SEGURANÇA DOS DADOS
+Este Apêndice disciplina a mobilização da solução PCaaS, as Ordens de Serviço, a instalação, o aceite, a
+convivência com o parque atual, a migração autorizada e a proteção dos dados durante a transição.
+1 - IMPLANTAÇÃO E ORDENS DE SERVIÇO
+1.1 - Durante toda a vigência contratual, a CONTRATADA deverá executar a manutenção, o suporte técnico e
+as substituições necessárias à continuidade operacional dos ativos disponibilizados no PCaaS, nas
+condições previstas neste Termo de Referência e nos níveis de serviço aplicáveis.
+1.2 - Os equipamentos disponibilizados na solução PCaaS deverão ser entregues em perfeito estado de
+funcionamento, configurados conforme o escopo da Ordem de Serviço e prontos para receber os
+sistemas próprios da Prefeitura Municipal de Uberaba e de suas Secretarias.
+1.3 - A execução da instalação dos equipamentos observará dois regimes distintos, conforme detalhado nos
+subitens abaixo:
+1.4 - Implantação Inicial: corresponde aos quantitativos imediatos indicados no Quadro 2 do Apêndice 2, cuja
+execução dependerá de Ordem de Serviço emitida pela CONTRATANTE. A CONTRATADA deverá
+entregar, instalar e submeter ao aceite somente os equipamentos expressamente incluídos na Ordem de
+Serviço, até o limite do quantitativo imediato previsto, sem obrigação de consumo mínimo pela
+CONTRATANTE além do que constar da Ordem de Serviço. O prazo máximo de 60 (sessenta) dias
+corridos será contado do recebimento da respectiva Ordem de Serviço pela CONTRATADA e será
+aplicável exclusivamente ao quantitativo nela autorizado. O prazo de aceite definitivo imputável à
+Administração não será computado como atraso da CONTRATADA, desde que esta tenha concluído
+tempestivamente suas obrigações de entrega, instalação e apresentação da documentação técnica.
+1.5 - Demanda Futura (sob demanda): refere-se às solicitações de equipamentos adicionais ou
+complementares ao longo da vigência. Cada Ordem de Serviço deverá ser atendida em até 30 (trinta)
+dias corridos, admitida uma única prorrogação por igual período somente nas condições objetivas
+previstas no item 1.9 deste Apêndice e mediante decisão expressa da Administração.
+1.6 - A configuração inicial dos sistemas corporativos será realizada pela unidade competente da
+CONTRATANTE, com apoio técnico da CONTRATADA para aplicação da imagem, drivers, licenças e
+integrações compreendidas no PCaaS, conforme cronograma e responsabilidades aprovados.
+1.7 - As instalações, tanto na implantação inicial quanto nas demandas futuras, deverão ser agendadas com
+antecedência mínima de 24 (vinte e quatro) horas, por meio de sistema eletrônico de ordens de serviço
+disponibilizado pela CONTRATADA, com protocolo digital de recebimento pelo responsável da unidade
+usuária e pelo fiscal do contrato. A ausência desse agendamento formal poderá resultar no não aceite da
+instalação.
+1.8 - A CONTRATADA deverá apresentar, no prazo de até 5 (cinco) dias úteis contados da assinatura do
+contrato, um cronograma detalhado de implantação inicial, contemplando a distribuição dos
+equipamentos por secretaria e unidade administrativa, conforme as quantidades previstas na distribuição
+constante do Apêndice 2, para aprovação pela fiscalização, devendo observar o modelo de cronograma
+previamente disponibilizado pela Administração, ou, em substituição a este, apresentar plano alternativo
+de implantação, que também estará sujeito à prévia e expressa aprovação da fiscalização.
+1.9 - Para as demandas futuras, o prazo de 30 (trinta) dias corridos poderá ser prorrogado uma única vez, por
+igual período, mediante justificativa formal da CONTRATADA apresentada, sempre que previsível, com
+antecedência mínima de 10 (dez) dias corridos do término do prazo original, e aceite expresso da
+Administração. A prorrogação dependerá de circunstância logística superveniente devidamente
+comprovada, que não decorra de falta de planejamento ordinário, e não produzirá efeito automático.
+1.10 - O recebimento do objeto deste Termo de Referência será realizado pelos agentes formalmente
+designados pela CONTRATANTE, observadas as atribuições estabelecidas no respectivo ato de
+designação, com apoio técnico do Departamento de Tecnologia da Informação - DTI, quando cabível, nos
+locais indicados nas Ordens de Serviço e no Cronograma de Implantação aprovado pela fiscalização.
+Esses instrumentos poderão contemplar, além dos endereços constantes no Apêndice 2, outras unidades
+administrativas da Prefeitura Municipal de Uberaba, conforme necessidade e conveniência da
+Administração.
+
+--- [pag. PDF 2] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 2 de 10
+2 - INSTALAÇÃO E ACEITE
+2.1 - O recebimento dos equipamentos e dos serviços de disponibilização no modelo PCaaS será realizado
+em duas etapas:
+2.2 - Aceite Provisório – no ato da entrega, mediante conferência física, registro dos números de série,
+etiquetas de controle, lacres de segurança e relatório/checklist de testes básicos de funcionamento
+realizado pela Contratada.
+2.3 - Aceite Definitivo – em até 5 (cinco) dias úteis após a conclusão, pela CONTRATADA, da instalação, da
+configuração, da documentação e dos testes aplicáveis, mediante Relatório Técnico de Conformidade da
+fiscalização que valide a operacionalidade, a segurança, o licenciamento, o inventário e a aptidão do
+equipamento para receber ou operar os sistemas institucionais.
+2.4 - Não conformidade material que afete segurança, funcionamento, desempenho, compatibilidade,
+licenciamento, integridade, inventário ou requisito obrigatório implicará rejeição da unidade e correção ou
+substituição em até 5 (cinco) dias úteis, sem ônus. Desconformidade de natureza formal ou imaterial
+poderá gerar aceite provisório com ressalvas, desde que não impeça o uso seguro e integral, com
+providência e prazo de correção de até 5 (cinco) dias úteis. O faturamento somente ocorrerá após o
+aceite definitivo da unidade, sem prejuízo da recusa parcial e da contraprova do Apêndice 5.
+2.5 - A conferência técnica será realizada pelo Gestor do Contrato, pelos Fiscais do Contrato formalmente
+designados e, quando necessário, por representantes da unidade usuária ou por apoio técnico
+especializado, preservadas as atribuições definidas no ato de designação.
+2.6 - As instalações deverão ocorrer, preferencialmente, de segunda a sexta-feira, das 8h às 18h.
+Excepcionalmente, poderão ser realizadas em sábados, domingos ou feriados, sem qualquer ônus
+adicional para a CONTRATANTE, desde que previamente autorizadas pelo Gestor ou Fiscal do Contrato.
+2.7 - Toda instalação deverá ser formalmente registrada por meio de Ordem de Serviço (OS) eletrônica, com
+antecedência mínima de 24 (vinte e quatro) horas, contendo data, horário, local e responsável pelo
+acompanhamento.
+2.8 - As instalações deverão ser executadas por profissionais capacitados da CONTRATADA, sob supervisão
+de Responsável Técnico formalmente indicado, com comprovação de experiência e/ou certificações
+compatíveis;
+2.9 - Na ocorrência de vício, defeito, falha ou avaria abrangida pela cobertura operacional, a CONTRATADA
+deverá reparar ou substituir o equipamento nos prazos definidos neste Termo de Referência, sem
+cobrança adicional.
+2.10 - A exclusão da cobertura por mau uso somente será admitida quando a CONTRATADA demonstrar o
+dano e seu nexo causal com uma das seguintes condutas:
+2.11 - Utilização comprovadamente diversa da finalidade prevista para o equipamento.
+2.12 - Ação dolosa ou uso abusivo comprovado diretamente causador do dano. Queda, impacto,
+esmagamento ou contato com líquido não caracterizarão, isoladamente, mau uso quando decorrerem de
+evento acidental abrangido pelo item 4.9.3 do Termo de Referência. Qualquer exclusão dependerá do
+laudo e da demonstração do nexo causal previstos nos itens 2.16 a 2.19.
+2.13 - Abertura, intervenção física ou modificação de hardware ou firmware realizada pela CONTRATANTE
+ou por terceiro sem autorização da CONTRATADA, ressalvadas medidas emergenciais destinadas a
+evitar dano maior.
+2.14 - Utilização de peça ou acessório incompatível, não fornecido nem autorizado pela CONTRATADA,
+desde que comprovadamente causador do dano.
+2.15 - A utilização fora das condições elétricas ou ambientais objetivamente estabelecidas neste Termo de
+Referência somente poderá ser considerada na apuração final de responsabilidade quando a
+irregularidade for imputável à CONTRATANTE e seu nexo causal com o dano estiver tecnicamente
+demonstrado. Essa apuração não suspenderá o restabelecimento dos eventos cobertos pelos itens 4.9.3,
+4.9.4 e 4.9.10 nem permitirá classificar automaticamente como mau uso os danos acidentais abrangidos
+pelo item 4.9.3. Os eventos excluídos da cobertura observarão os itens 4.9.5 e 4.9.6, a matriz de riscos, o
+edital e o contrato.
+2.16 - A alegação de mau uso deverá ser acompanhada de laudo técnico qualificado, emitido pelo fabricante,
+assistência técnica autorizada, seguradora ou entidade técnica independente, contendo, no mínimo,
+
+--- [pag. PDF 3] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 3 de 10
+identificação e número de série do equipamento, descrição do dano, registros técnicos e fotográficos,
+diagnóstico, causa provável, demonstração do nexo causal, possibilidade de reparo e valor demonstrado.
+A CONTRATADA suportará o ônus da prova, e o laudo não suspenderá o restabelecimento nem
+produzirá cobrança automática.
+2.17 - A simples negativa de cobertura pelo fabricante, pela assistência técnica, pela seguradora ou por
+terceiro não será suficiente para caracterizar mau uso ou transferir à CONTRATANTE a responsabilidade
+financeira pelo dano.
+2.18 - Enquanto estiver em apuração a responsabilidade pelo dano, a CONTRATADA deverá restabelecer a
+continuidade operacional nos prazos aplicáveis, inclusive mediante equipamento substituto provisório,
+sem que essa providência implique reconhecimento antecipado da responsabilidade financeira de
+qualquer das partes.
+2.19 - A apuração será formalmente registrada e acompanhada pelo Gestor do Contrato e pelo Fiscal
+Técnico, assegurada à CONTRATADA a apresentação de documentos e esclarecimentos antes da
+decisão administrativa.
+2.20 - Os serviços de instalação, ativação e configuração deverão ser executados pela CONTRATADA,
+entregando os equipamentos em condições de operação e aptos a receber os sistemas próprios da
+Contratante;
+2.21 - A CONTRATADA deverá fornecer todos os equipamentos, cabos, conectores e acessórios necessários
+à instalação, cabendo à CONTRATANTE apenas disponibilizar os pontos de energia elétrica e rede
+interna;
+2.22 - Antes da emissão de cada Ordem de Serviço, a CONTRATANTE deverá identificar o local e assegurar
+as condições físicas, elétricas, de rede, acesso e segurança que estejam sob sua responsabilidade. À
+CONTRATADA caberá verificar a compatibilidade ostensiva necessária à instalação e comunicar
+formalmente qualquer impedimento técnico constatado, sem assumir responsabilidade por vício oculto,
+omissão de informação ou infraestrutura alheia ao objeto.
+2.23 - Impedimento comprovadamente imputável à CONTRATANTE suspenderá apenas o prazo da parcela
+afetada, do registro da comunicação até a disponibilização da condição pendente, sem penalidade à
+CONTRATADA. A suspensão não autoriza faturamento de equipamento ainda não instalado e aceito,
+ressalvada eventual recomposição do equilíbrio econômico-financeiro quando demonstrados os requisitos
+legais e o efetivo impacto.
+2.24 - Os preços mensais da solução PCaaS deverão incluir a manutenção preventiva e corretiva, a mão de
+obra, os deslocamentos, a substituição de peças e equipamentos abrangidos pela cobertura operacional
+e as atualizações necessárias à manutenção da configuração contratada. A cobertura dos eventos
+definidos nos itens 4.9.3, 4.9.4 e 4.9.10 do Termo de Referência integra o preço mensal e não admitirá
+franquia, coparticipação ou cobrança adicional. Os eventos excluídos da cobertura pelos itens 4.9.5 e
+4.9.6 terão a alocação de responsabilidade financeira disciplinada pela matriz de riscos, pelo edital e pelo
+contrato.
+3 - TRANSIÇÃO E CONVIVÊNCIA COM O PARQUE TECNOLÓGICO ATUAL
+3.1 - Durante a transição entre os equipamentos patrimoniais atualmente utilizados pela CONTRATANTE e os
+novos ativos disponibilizados no PCaaS, deverão ser preservadas a continuidade, a cadeia de custódia,
+as responsabilidades patrimoniais e a rastreabilidade dos dados.
+3.2 - REMOÇÃO E DESCOMISSIONAMENTO DOS EQUIPAMENTOS SUBSTITUÍDOS
+3.2.1 - A remoção e o descomissionamento dos equipamentos patrimoniais substituídos permanecerão sob
+responsabilidade da CONTRATANTE, por sua unidade competente. A CONTRATADA apoiará a
+desconexão e registrará a substituição, sem retirar patrimônio ou mídia da Administração sem
+autorização formal.
+3.2.2 - A CONTRATADA comunicará a substituição à fiscalização para que a unidade competente da
+CONTRATANTE promova a remoção do equipamento antigo em até 10 (dez) dias úteis do aceite
+definitivo do novo, preservada a continuidade e a custódia.
+3.2.3 - A CONTRATADA deverá preencher e entregar à fiscalização, no ato da substituição, o Termo de
+Substituição de Equipamentos, contendo:
+3.2.4 - Número de patrimônio e/ou número de série do equipamento substituído;
+
+--- [pag. PDF 4] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 4 de 10
+3.2.5 - Número de patrimônio e/ou número de série do novo equipamento instalado;
+3.2.6 - Data e horário da instalação/substituição;
+3.2.7 - Identificação da unidade administrativa de origem;
+3.2.8 - Responsável pela instalação (nome e matrícula do funcionário da CONTRATADA);
+3.2.9 - Responsável pelo recebimento na unidade administrativa;
+3.2.10 - Durante o período de transição, os equipamentos antigos e novos poderão coexistir nas unidades
+administrativas, sendo que a CONTRATADA deverá garantir que os novos equipamentos estejam
+plenamente operacionais antes da remoção dos antigos, a fim de assegurar a continuidade dos
+serviços públicos;
+3.3 - MIGRAÇÃO DE DADOS E PERFIS DE USUÁRIO
+3.3.1 - A CONTRATADA será responsável pela execução técnica da migração autorizada no momento da
+troca, incluindo inventário, backup autorizado, transferência de dados e perfil, configurações, políticas,
+licenças compreendidas no objeto, validação e plano de reversão. A CONTRATANTE autorizará o
+escopo, disponibilizará a conectividade institucional e, quando tecnicamente indispensável,
+providenciará conta técnica individual, temporária, com privilégio mínimo e autenticação multifator
+(MFA) quando suportada pelo ambiente, além de validar o resultado. É vedado à CONTRATADA
+solicitar, receber, registrar ou armazenar senha pessoal de usuário; quando a autenticação pessoal for
+necessária, ela será realizada pelo próprio usuário.
+3.3.2 - A migração abrangerá os arquivos locais, perfis e configurações expressamente autorizados e
+tecnicamente acessíveis. Recuperação laboratorial ou forense, correção de base corrompida, aplicação
+legada ou ambiente externo à estação somente integrará o serviço se estiver expressamente prevista e
+precificada.
+3.3.3 - A CONTRATADA deverá preservar a estrutura e a confidencialidade dos dados acessados, registrar
+falhas e divergências e interromper o procedimento quando houver risco de perda ou instrução
+incompatível com a política de segurança. Nenhuma cópia poderá ser retida após o aceite da
+migração, exceto registro técnico sem conteúdo pessoal necessário à rastreabilidade.
+3.3.4 - A CONTRATADA deverá disponibilizar, previamente à substituição, os novos equipamentos com o
+sistema operacional, a suíte Microsoft Office, os drivers, as licenças e os demais componentes
+compreendidos no PCaaS devidamente instalados e configurados, bem como replicar a imagem
+institucional previamente homologada pela CONTRATANTE, quando aplicável, para que a migração
+autorizada de dados e perfis possa ser realizada sem prejuízo da continuidade dos serviços;
+3.3.5 - A CONTRATADA deverá fornecer suporte técnico para a migração autorizada de dados e perfis, sem
+ônus adicional, limitando seu acesso ao estritamente necessário à execução do serviço e observando
+as instruções da CONTRATANTE e as regras de segurança da informação e proteção de dados
+pessoais.
+3.3.6 - Conexão dos equipamentos à rede corporativa;
+3.3.7 - Verificação do funcionamento dos periféricos e acessórios;
+3.3.8 - Testes de funcionalidade dos sistemas operacionais e pacotes de escritório instalados;
+3.3.9 - A conclusão da migração será registrada no Termo de Migração, conforme o modelo a ser incorporado
+ao Apêndice 5. O Termo deverá conter, no mínimo: autorização e escopo; identificação dos
+equipamentos de origem e destino; dados, perfis e configurações abrangidos; identificação dos
+executores e responsáveis; datas e horários de início e término; conta técnica utilizada, sem registro de
+segredo de autenticação; resultado da validação funcional; falhas ou divergências; procedimento de
+reversão aplicável; registro das cópias temporárias e de sua eliminação; e aceite do responsável
+designado pela CONTRATANTE. As obrigações de custódia e cobertura operacional do novo
+equipamento iniciam-se com o aceite provisório. O SLA operacional inicia-se com a efetiva
+disponibilização do equipamento ao usuário e, se o equipamento já estiver em uso, nunca depois do
+aceite definitivo. A demora de migração causada exclusivamente por falta de conta técnica,
+autenticação pessoal realizada pelo usuário, autorização, conectividade, dado de origem ou agenda
+sob responsabilidade da CONTRATANTE não caracterizará atraso da CONTRATADA, desde que o
+impedimento seja registrado tempestivamente.
+
+--- [pag. PDF 5] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 5 de 10
+3.4 - PROTEÇÃO E SANITIZAÇÃO SEGURA DOS DADOS
+3.4.1 - Conforme o Termo de Referência, a contratação deverá observar o atendimento às exigências legais
+de segurança da informação e proteção de dados pessoais (LGPD – Lei nº 13.709/2018);
+3.4.2 - Para mídias patrimoniais da CONTRATANTE, a unidade competente definirá ou aprovará o método de
+sanitização. Para mídias do PCaaS, a CONTRATADA apresentará Plano de Sanitização baseado em
+risco e sujeito à aprovação, observando a NIST SP 800-88 Rev. 2 ou referência superveniente
+reconhecida.
+3.4.3 - Os equipamentos antigos pertencentes à CONTRATANTE permanecerão sob sua custódia. A
+CONTRATADA deverá apenas registrar a substituição e comunicar a fiscalização; qualquer retirada de
+unidade de armazenamento do equipamento antigo dependerá de autorização formal e de termo de
+cadeia de custódia.
+3.4.4 - A CONTRATADA fica expressamente proibida de copiar, reter, reutilizar, doar, vender, remover ou
+destinar dados ou unidades de armazenamento pertencentes à CONTRATANTE sem autorização
+formal e registro de cadeia de custódia.
+3.4.5 - Para fins de rastreabilidade, o Termo de Substituição deverá registrar a identificação do equipamento
+antigo, o responsável da CONTRATANTE que permaneceu com sua custódia e, quando houver
+movimentação autorizada de unidade de armazenamento, os registros de entrega, recebimento,
+sanitização e destinação.
+3.4.6 - O eventual descumprimento das regras de proteção de dados pela CONTRATADA será apurado em
+processo administrativo competente, pela autoridade responsável e com observância do contraditório e
+da ampla defesa, podendo resultar nas consequências previstas na Lei nº 14.133/2021, no contrato e
+na LGPD, sem aplicação automática de penalidade e sem prejuízo das demais responsabilidades
+apuradas pelas autoridades legalmente competentes;
+3.4.7 - Nas operações realizadas em nome da CONTRATANTE, o Município atuará como controlador e a
+CONTRATADA como operadora, limitada a instruções documentadas, finalidades contratuais e acesso
+mínimo. Obrigação legal própria será avaliada conforme a operação concreta, pois a denominação
+contratual não altera a realidade do tratamento.
+3.4.8 - A CONTRATADA assegurará que empregados, prepostos e terceiros autorizados estejam sujeitos a
+dever de confidencialidade, utilizem credenciais individuais, mantenham registro dos acessos e
+observem os controles de segurança e as orientações formalmente comunicadas pela
+CONTRATANTE.
+3.4.9 - Suboperador com acesso a dados dependerá de autorização formal, genérica ou específica, e
+identificação da atividade, categorias de dados, localização e salvaguardas. A CONTRATADA imporá
+obrigações equivalentes e permanecerá integralmente responsável. Transferência internacional
+observará a LGPD e a regulamentação vigente da ANPD.
+3.4.10 - Incidente ou suspeita envolvendo dados, credenciais, mídias, agentes ou sistemas será comunicado
+em até 2 (duas) horas da detecção, sem aguardar investigação e sem comunicação externa em nome
+do Município, ressalvada obrigação legal própria.
+3.4.11 - A comunicação inicial indicará data e hora, natureza, sistemas e dados potencialmente afetados,
+titulares estimados, riscos, contenção, evidências e contato. Relatório preliminar será apresentado em
+até 24 horas, com atualizações a cada 24 horas enquanto o incidente estiver ativo.
+3.4.12 - A CONTRATADA conterá o incidente, preservará evidências, cooperará com a investigação e
+corrigirá vulnerabilidades sob sua responsabilidade. Relatório conclusivo com causa, impacto, linha do
+tempo, medidas e prevenção será entregue em até 5 (cinco) dias úteis após a contenção.
+3.4.13 - Encerrada a finalidade, os dados serão exportados à CONTRATANTE e eliminados ou anonimizados
+conforme autorização e temporalidade aplicável. A telemetria ordinária não vinculada a alerta,
+incidente, autorização ou apuração será mantida por 12 (doze) meses, e os logs ordinários de acesso e
+auditoria não vinculados a esses eventos, por 24 (vinte e quatro) meses. Os registros que venham a
+ser vinculados a alerta, incidente, autorização ou apuração observarão o item 4.5 deste Apêndice,
+ressalvada conservação superior determinada por obrigação legal, processo competente ou tabela
+institucional de temporalidade.
+
+--- [pag. PDF 6] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 6 de 10
+3.4.14 - TRATAMENTO DE EQUIPAMENTOS PCAAS AFETADOS POR EVENTOS FÍSICOS
+3.4.14.1 - Identificada ocorrência de incêndio, fumaça, fuligem, vazamento, infiltração ou alagamento, a
+unidade usuária deverá, quando materialmente seguro, interromper o uso, desligar o equipamento sem
+reenergizá-lo, isolá-lo e comunicar imediatamente a fiscalização e a CONTRATADA, observados os
+procedimentos institucionais de emergência e segurança física.
+3.4.14.2 - A CONTRATADA deverá registrar a ocorrência em chamado próprio, vinculado à Ordem de
+Serviço, indicando, no mínimo, unidade, localização, data e horário, natureza do evento, identificação
+patrimonial ou número de série, condição aparente do equipamento, presença de unidade de
+armazenamento e responsáveis pela custódia.
+3.4.14.3 - O equipamento somente poderá ser aberto, testado, reenergizado ou transportado após a
+verificação das condições de segurança e conforme procedimento técnico autorizado. A remoção da
+unidade de armazenamento ou o acesso ao seu conteúdo dependerá de autorização formal da
+CONTRATANTE, ressalvada medida emergencial necessária para proteger pessoas ou evitar o
+agravamento do dano, que deverá ser documentada imediatamente.
+3.4.14.4 - Até a transferência formal, o equipamento permanecerá em área controlada indicada pela
+CONTRATANTE. Toda movimentação será acompanhada de termo de cadeia de custódia contendo
+origem, destino, finalidade, identificação do equipamento e da mídia, lacre utilizado, condição aparente,
+datas, horários e identificação dos responsáveis por cada entrega e recebimento.
+3.4.14.5 - A preservação de evidências não autoriza acesso exploratório, cópia indiscriminada ou utilização do
+conteúdo armazenado. O acesso deverá limitar-se ao estritamente necessário, ser previamente
+autorizado, realizado por pessoal identificado e produzir registro técnico auditável.
+3.4.14.6 - Havendo indício de exposição, perda, alteração ou acesso indevido a dados, credenciais ou mídias,
+a ocorrência será tratada também como suspeita de incidente de segurança, aplicando-se os itens
+3.4.10 a 3.4.12, sem prejuízo da continuidade da substituição do equipamento.
+3.4.14.7 - No equipamento substituto, a CONTRATADA deverá restaurar o sistema operacional, os drivers, o
+firmware, as licenças e os componentes de gerenciamento compreendidos no PCaaS, conforme a
+configuração de referência aprovada e os registros técnicos existentes.
+3.4.14.8 - A definição da imagem institucional, das políticas de segurança, dos sistemas corporativos, das
+credenciais e da fonte de cópia de segurança permanecerá sob responsabilidade da unidade
+competente indicada pela CONTRATANTE. A CONTRATADA prestará o apoio técnico contratualmente
+previsto, limitado às instruções documentadas e sem acesso superior ao necessário.
+3.4.14.9 - A tentativa de recuperação de dados diretamente da mídia afetada dependerá de autorização
+formal da CONTRATANTE, com indicação do escopo, dos responsáveis, do ambiente de execução e
+do destino dos dados recuperados. Não se presume incluída recuperação laboratorial ou forense
+especializada sem previsão expressa e correspondente formação de preço.
+3.4.14.10 - Antes da devolução ao fabricante, à assistência técnica, à seguradora, à cadeia de suprimentos, à
+reutilização ou ao descarte, a unidade de armazenamento deverá ser sanitizada segundo método
+definido ou aprovado pela CONTRATANTE, com evidência técnica que identifique a mídia, o método, o
+resultado, a data e o responsável.
+3.4.14.11 - Quando a sanitização lógica não for tecnicamente possível, a mídia permanecerá segregada e
+protegida, e a CONTRATADA apresentará laudo técnico e alternativas de destruição física ou
+destinação segura para decisão da CONTRATANTE. A mídia não poderá retornar à circulação antes
+da autorização formal.
+3.4.14.12 - O encerramento registrará o destino do equipamento e da mídia, o equipamento substituto, as
+configurações e licenças restabelecidas, as autorizações emitidas e os comprovantes de sanitização,
+destruição ou destinação aplicáveis. A recuperação de dados não condicionará a instalação e a
+ativação do equipamento substituto.
+3.5 - DOCUMENTAÇÃO E REGISTRO DA TRANSIÇÃO
+3.5.1 - A CONTRATADA deverá manter registro detalhado de todo o processo de substituição e transição,
+incluindo:
+3.5.2 - Relação de equipamentos substituídos, com indicação de datas de instalação, ativação e substituição;
+3.5.3 - Termos de Substituição de Equipamentos assinados pelas partes;
+
+--- [pag. PDF 7] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 7 de 10
+3.5.4 - Registro das comunicações formais realizadas à fiscalização sobre as substituições efetuadas;
+3.5.5 - Os documentos de transição serão mantidos conforme a tabela de temporalidade documental
+aplicável, os prazos legais e as determinações dos órgãos de controle, com proteção proporcional ao
+conteúdo.
+3.6 - COMUNICAÇÃO E TRANSPARÊNCIA
+3.6.1 - A CONTRATADA comunicará à fiscalização, com antecedência mínima de 5 (cinco) dias úteis, o
+cronograma de substituição por lote ou unidade, permitindo o planejamento da migração e do suporte
+pela CONTRATANTE.
+3.6.2 - A substituição de equipamentos deverá ser realizada, preferencialmente, fora do horário de expediente
+ou em horários que causem o menor impacto possível à rotina administrativa, mediante agendamento
+prévio e autorização da fiscalização;
+3.7 - PILOTO, ONDAS E PRONTIDÃO DAS UNIDADES
+3.7.1 - Antes da implantação em massa, a CONTRATADA executará piloto representativo por categoria, perfil
+e criticidade, validando hardware, imagem, licenças, sistemas, rede, periféricos, segurança,
+monitoramento, migração, integração de chamados, linha de base e recebimento.
+3.7.2 - A quantidade do piloto será definida no Plano de Implantação aprovado, sem amostra arbitrária. A
+expansão dependerá de aceite formal e da correção das não conformidades.
+3.7.3 - A implantação ocorrerá em ondas com quantitativos, unidades, datas, responsáveis, contingência,
+período de estabilização e critérios de avanço. Falha relevante poderá suspender a onda seguinte.
+3.7.4 - Antes de cada onda haverá checklist conjunto de energia, rede, espaço, mobiliário, conectividade,
+segurança e acesso. Pendência de um ponto não suspenderá instalações independentes; obras civis,
+rede estruturada e mobiliário não integram o PCaaS salvo previsão expressa.
+3.8 - IMAGEM, CONFIGURAÇÃO E GESTÃO DE MUDANÇAS
+3.8.1 - Para cada imagem institucional distinta, a CONTRATADA deverá disponibilizar equipamento
+representativo do modelo e da configuração correspondentes.
+3.8.2 - A CONTRATANTE será responsável pela definição e homologação da imagem.
+3.8.3 - A CONTRATADA deverá prestar apoio técnico, verificar a integridade da imagem, registrar sua versão
+e seu hash, validar drivers e licenças e replicá-la somente após aprovação formal da CONTRATANTE.
+3.8.4 - A imagem institucional aprovada deverá ser reproduzível e validada em grupo piloto, sem softwares
+promocionais, versões de teste ou contas administrativas não autorizadas.
+3.8.5 - Os scripts, as ferramentas e as respectivas licenças deverão ser previamente identificados e
+aprovados no Plano de Implantação.
+3.8.6 - A equipe da CONTRATADA não poderá solicitar, receber, registrar ou armazenar senhas de usuários.
+3.8.7 - Cada instalação deverá registrar o resultado da migração, a validação funcional e o procedimento de
+reversão aplicável.
+3.8.8 - Mudanças serão classificadas como padrão, normal ou emergencial e conterão risco, impacto, teste,
+reversão, responsável e autorização. Emergências serão comunicadas, registradas e posteriormente
+ratificadas.
+3.8.9 - Usuários operarão sem privilégio administrativo permanente. Elevação será temporária, nominativa,
+justificada e auditável; contas genéricas e senhas idênticas no parque serão proibidas.
+3.8.10 - Os dispositivos serão criptografados antes da produção. Chaves de recuperação não ficarão sob
+controle exclusivo da CONTRATADA, terão acesso restrito com MFA e serão testadas de forma
+controlada.
+3.8.11 - Secure Boot, TPM, firmware assinado e proteção de BIOS/UEFI permanecerão habilitados.
+Inicialização externa, PXE ou manutenção serão autorizadas temporariamente, registradas e revertidas
+ao padrão seguro.
+3.9 - PLATAFORMA, TELEMETRIA E ACESSOS
+3.9.1 - A plataforma poderá utilizar nuvem ou SaaS, desde que a CONTRATADA informe localização,
+provedores, suboperadores e países, aplique criptografia em trânsito e repouso, MFA, privilégio
+mínimo, logs, backup, exportação e salvaguardas para eventual transferência internacional.
+
+--- [pag. PDF 8] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 8 de 10
+3.9.2 - Antes da produção, a CONTRATADA entregará inventário dos campos de telemetria, fontes,
+finalidades, destinatários, localização, retenção, segurança e eliminação. Cada campo deverá possuir
+necessidade técnica demonstrada.
+3.9.3 - Serão proibidos conteúdo de arquivos, credenciais, mensagens, capturas de tela, digitação e histórico
+de navegação. Identificadores pessoais serão minimizados ou pseudonimizados sempre que possível.
+3.9.4 - Novos campos, finalidades, países ou suboperadores dependerão de análise, comunicação e
+aprovação. A CONTRATADA apoiará eventual Relatório de Impacto à Proteção de Dados sob
+responsabilidade decisória da CONTRATANTE.
+3.9.5 - Contas serão individuais, com MFA, perfis segregados, revisão trimestral e revogação imediata
+quando desnecessárias. Acesso técnico será temporário, justificado e rastreável.
+3.9.6 - O suporte remoto utilizará ferramenta homologada, criptografia, MFA, identificação e registro de
+sessão. Interação com tela dependerá de consentimento ou autorização; transferência de arquivos e
+área de transferência ficarão bloqueadas por padrão.
+3.9.7 - Os agentes utilizarão destinos, portas e protocolos previamente documentados, autenticação do
+dispositivo e conexões de saída. Deverão funcionar com proxy e conectividade intermitente,
+armazenando dados localmente de forma protegida até sincronização.
+4 - RASTREABILIDADE LÓGICA, AUTORIZAÇÃO E RETENÇÃO
+4.1 - A Administração definirá e disponibilizará a relação autorizada entre unidades, setores e identificadores
+lógicos de rede necessários à rastreabilidade. A CONTRATADA configurará as regras sem presumir que
+endereço IP isolado representa localização física e documentará exceções de VPN, DHCP, redes
+visitantes, mobilidade e contingência.
+4.2 - Movimentação autorizada deverá registrar equipamento, localização anterior, nova localização, data e
+hora, motivo, Ordem de Serviço ou autorização, executor e responsável pelo aceite na unidade de
+destino. A atualização do inventário ocorrerá no mesmo fluxo da movimentação e preservará o histórico
+anterior.
+4.3 - A plataforma registrará a última localização lógica observada, a evidência utilizada, a regra aplicada e a
+data e hora da coleta. Divergência será inicialmente tratada como pendência de validação e somente
+gerará classificação de movimentação não autorizada após confirmação da regra e inexistência de
+autorização correspondente.
+4.4 - A coleta de localização e telemetria será limitada à gestão do ativo e à segurança do parque. Não serão
+coletados conteúdo de arquivos, digitação, mensagens, histórico de navegação, imagens de tela,
+credenciais ou conteúdo pessoal desnecessário. A vinculação a pessoa será utilizada apenas quando
+indispensável ao atendimento, à custódia ou à responsabilização formalmente apurada.
+4.5 - Os registros consolidados vinculados a alerta, incidente, autorização ou apuração, inclusive os de linha
+de base, movimentações autorizadas, alterações de hardware, eventos de abertura e respectivas trilhas
+de auditoria, serão mantidos durante toda a execução e por, no mínimo, 5 (cinco) anos após o
+encerramento contratual, ressalvada retenção superior determinada por processo competente, auditoria,
+ordem legal ou tabela institucional de temporalidade. Esta regra não amplia os prazos da telemetria e dos
+logs ordinários previstos no item 3.4.13 quando não vinculados a esses eventos.
+4.6 - Evidências brutas de conexão que não tenham originado alerta, incidente, movimentação ou apuração
+serão mantidas pelo período máximo de 180 (cento e oitenta) dias, salvo necessidade técnica ou legal
+formalmente justificada e aprovada. Dados agregados ou anonimizados poderão ser conservados quando
+não permitirem identificação pessoal desnecessária.
+4.7 - Os registros não poderão ser apagados, sobrescritos ou alterados unilateralmente sem preservação do
+valor original, autor, data, hora, motivo e trilha de auditoria. Relógios serão sincronizados; o
+armazenamento poderá utilizar UTC, com exibição no horário de Brasília e indicação inequívoca do fuso.
+4.8 - Antes do encerramento ou da substituição da plataforma, a CONTRATADA entregará exportação
+completa em formato aberto e estruturado, incluindo dicionário de dados, relacionamentos, anexos de
+evidência e mecanismo de verificação de integridade. Concluído o prazo de retenção e inexistindo
+impedimento, realizará eliminação segura e apresentará registro ou certificado correspondente.
+
+--- [pag. PDF 9] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 9 de 10
+4.9 - BACKUP, CONTINUIDADE E VULNERABILIDADES
+4.9.1 - A plataforma manterá backup diário criptografado, retenção mínima de 30 dias, separação lógica do
+ambiente principal e teste trimestral de restauração, abrangendo configurações, inventário, chamados,
+indicadores e auditoria, sem conteúdo de arquivos dos usuários.
+4.9.2 - A CONTRATADA apresentará Plano de Continuidade e Recuperação de Desastre no início da
+execução, testado anualmente e após alteração relevante, contemplando nuvem, conectividade,
+ataque, corrupção de dados, credenciais, pessoal crítico e cadeia de fornecimento.
+4.9.3 - A plataforma terá disponibilidade mensal mínima de 99,5%, recuperação em até 4 horas, perda
+máxima de dados de 24 horas e manutenção programada limitada a 4 horas mensais, comunicada
+com 72 horas de antecedência. Sua indisponibilidade não suspenderá os SLAs dos equipamentos.
+4.9.4 - Vulnerabilidade crítica ou explorada ativamente terá mitigação em 24 horas e correção em 72 horas;
+alta, em 7 dias corridos; média, em 30 dias; e baixa, em 90 dias. Incompatibilidade exigirá evidência,
+controle compensatório, plano e aprovação.
+4.10 - SANITIZAÇÃO, SAÍDA E LOGÍSTICA REVERSA
+4.10.1 - O Plano de Sanitização definirá, conforme risco e mídia, limpeza, purga, apagamento criptográfico ou
+destruição controlada. Mídia inacessível ou não sanitizável será destruída de forma controlada.
+4.10.2 - Cada sanitização gerará certificado com equipamento, mídia, números de série, método, ferramenta
+e versão, data, resultado, executante, verificador e destinação. Declaração sem evidência técnica não
+será aceita.
+4.10.3 - A retirada, o transporte e a sanitização observarão cadeia de custódia. Nenhum dado será transferido
+a ambiente externo sem autorização expressa.
+4.10.4 - A CONTRATADA apresentará Plano de Saída com antecedência mínima de 120 dias, abrangendo
+inventário, migração, exportação aberta, cooperação com sucessora, sanitização, retirada faseada e
+proibição de retenção.
+4.10.5 - Os equipamentos, as peças, as baterias, as mídias e as embalagens pertencentes à CONTRATADA,
+bem como os resíduos por ela gerados na execução, terão logística reversa rastreável. A reutilização
+de bem da CONTRATADA dependerá de sanitização, e os resíduos receberão destinação ambiental
+adequada por operador habilitado, com os respectivos comprovantes. Nenhum patrimônio ou mídia
+pertencente à CONTRATANTE será retirado, descartado ou incluído na logística reversa sem
+autorização formal da unidade competente e registro integral da cadeia de custódia.
+4.11 - CAPACITAÇÃO, DOCUMENTAÇÃO E ACESSIBILIDADE
+4.11.1 - A CONTRATADA capacitará fiscais, equipe técnica, central de atendimento, multiplicadores e
+equipes críticas, com materiais em português, acessíveis e atualizados após mudanças relevantes.
+4.11.2 - Arquitetura, integrações, imagem, configurações, APIs, inventário, segurança, continuidade, suporte e
+retirada serão documentados de forma viva e versionada. No encerramento, será entregue pacote
+consolidado e transferível.
+4.11.3 - Portal, relatórios e materiais digitais deverão atender à WCAG 2.2 nível AA ou padrão superveniente
+aplicável, com navegação por teclado, compatibilidade com leitores de tela, contraste e foco visível.
+4.11.4 - Dados, inventários, relatórios e registros do contrato pertencem à CONTRATANTE. Componentes
+preexistentes permanecem da CONTRATADA, que não poderá usar dados municipais para
+publicidade, base própria ou treinamento de modelos sem autorização específica e fundamento válido.
+5 - PLANO E EXECUÇÃO DA RENOVAÇÃO TECNOLÓGICA
+5.1 - T-180 corresponde ao marco preferencial de 180 (cento e oitenta) dias antes do encerramento do
+primeiro ciclo. A comunicação de intenção de avaliar a prorrogação poderá iniciar o planejamento, sem
+gerar direito adquirido, faturamento, indenização ou obrigação de continuidade.
+5.2 - Até T-150, a CONTRATADA apresentará Plano de Renovação Tecnológica contendo base elegível
+preliminar, modelos propostos, matriz comparativa, cronograma, piloto, ondas, capacidade de equipe,
+logística, imagem, licenças, migração autorizada, testes, contingência, reversão, estabilização, retirada,
+sanitização e logística reversa.
+5.3 - Entre T-150 e T-90, serão executadas a análise documental, as diligências, a validação da matriz de
+evolução, a avaliação de compatibilidade, a preparação da imagem institucional, o planejamento logístico
+
+--- [pag. PDF 10] ---
+Apêndice 3 - Implantação, Transição e Segurança | Página 10 de 10
+e a definição do piloto e das ondas. A Administração buscará concluir até T-90 a decisão e a formalização
+juridicamente válidas, quando houver interesse na prorrogação.
+5.4 - Formalizada a prorrogação, entre D0 e D+15 será executado piloto representativo dos
+Microcomputadores Tipo I, Microcomputadores Tipo II e Notebooks, abrangendo unidades, perfis e
+aplicações relevantes. A implantação em massa dependerá de aprovação técnica do piloto e dos
+modelos.
+5.5 - Entre D+16 e D+75, a renovação será executada em ondas aprovadas, com priorização das unidades
+críticas e controle diário de equipamentos programados, instalados, aceitos, pendentes e revertidos.
+Entre D+76 e D+90 serão concluídos saldos, correções, testes, estabilização, inventário e aceites
+definitivos.
+5.6 - Para cada imagem institucional distinta, a CONTRATADA disponibilizará equipamento representativo do
+modelo e da configuração correspondentes. A CONTRATANTE definirá e homologará a imagem; a
+CONTRATADA prestará apoio técnico, verificará integridade, registrará versão e hash, validará drivers e
+licenças e somente a replicará após aprovação formal.
+5.7 - Migração de dados ou configurações dependerá de autorização e escopo definidos pela
+CONTRATANTE. A CONTRATADA registrará resultado, validação funcional e procedimento de reversão,
+sem solicitar, receber, registrar ou armazenar senhas de usuários.
+5.8 - O plano estabelecerá contingência e reversão por onda, preservando o equipamento anterior até o
+substituto estar instalado, configurado, atualizado, licenciado, conectado, inventariado, testado e
+operacional. Falha no novo equipamento deverá permitir retorno controlado sem perda de dados ou
+interrupção indevida.
+5.9 - A movimentação dos equipamentos e mídias observará proteção de dados, segregação de acesso,
+registro de responsáveis e cadeia de custódia. Nenhum dado será transferido a ambiente externo ou
+reutilizado sem autorização e evidência compatível.
+5.10 - A retirada do equipamento anterior somente ocorrerá após validação operacional do substituto. Quando
+o equipamento anterior pertencer à CONTRATADA, sua retirada, sanitização e logística reversa serão
+registradas conforme o método aplicável, o número de série, a cadeia de custódia, o certificado e a
+destinação. Patrimônio ou mídia pertencente à CONTRATANTE somente poderá ser movimentado
+mediante autorização formal da unidade competente e registro integral da cadeia de custódia.
+5.11 - Cada unidade passará por estabilização e aceite definitivo, com registro da nova linha de base e
+atualização do inventário. Somente após o aceite definitivo a unidade será contabilizada no IRA.
+5.12 - Falta de estoque, fabricante, distribuidor, transporte, equipe, logística ou planejamento da
+CONTRATADA não suspenderá nem ampliará automaticamente o cronograma. A renovação de 100% da
+base elegível deverá estar concluída até D+90, ressalvado impedimento formalmente reconhecido como
+imputável à CONTRATANTE ou hipótese legal devidamente processada.
+Código: 8b1aa132-c8b0-4890-80cb-2069d0403208
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

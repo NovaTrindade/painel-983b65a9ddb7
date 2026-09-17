@@ -1,0 +1,1153 @@
+=== DOCUMENTO 2: TERMO DE REFERENCIA ===
+tipo: Termo de Referência | páginas: 23 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/13607346000102/compras/2026/115/arquivos/2
+
+--- [pag. PDF 1] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+TERMO DE REFERÊNCIA
+1. OBJETO
+1.1. Contratação de empresa especializada para prestação de serviços de fornecimento, implantação,
+manutenção e suporte técnico de Sistema Integrado de Gestão Pública – SIAFIC, abrangendo os módulos de
+Contabilidade Pública, Plano Plurianual – PPA, Lei de Diretrizes Orçamentárias – LDO, Lei Orçamentária Anual
+– LOA e Portal da Transparência, destinados ao atendimento das necessidades do Município de Anguera/Ba.
+1.2. O sistema deverá ser integrado, com banco de dados único e arquitetura 100% web, possibilitando a
+integração entre os módulos, o compartilhamento de informações e a gestão eficiente dos dados orçamentários,
+financeiros, contábeis e de transparência pública.
+2. DA JUSTIFICATIVA
+2.1. A contratação de empresa especializada para o fornecimento, implantação, manutenção e suporte técnico
+de Sistema Integrado de Gestão Pública – SIAFIC justifica-se pela necessidade de garantir ao Município de
+Anguera/Ba uma solução tecnológica adequada para o gerenciamento, integração e controle das informações
+contábeis, orçamentárias e financeiras da Administração Pública.
+2.2. A disponibilização dos módulos de Contabilidade Pública, Plano Plurianual – PPA, Lei de Diretrizes
+Orçamentárias – LDO, Lei Orçamentária Anual – LOA e Portal da Transparência permitirá maior integração entre
+os processos administrativos, aprimoramento do planejamento e execução orçamentária, segurança das
+informações e maior eficiência na gestão dos recursos públicos.
+2.3. A contratação também se mostra necessária para assegurar a continuidade dos serviços, bem como a
+manutenção, atualização e suporte técnico do sistema, possibilitando o atendimento às exigências legais e aos
+órgãos de controle, além de proporcionar maior transparência dos atos e informações da Administração
+Municipal.
+2.4. Dessa forma, a contratação visa assegurar a continuidade e o adequado funcionamento dos sistemas de
+gestão pública do Município, contribuindo para uma administração mais eficiente, integrada, transparente e
+alinhada às normas aplicáveis à gestão fiscal e orçamentária.
+3. REQUISITOS GERAIS DE TECNOLOGIA, USABILIDADE E DE SEGURANÇA
+OBRIGATÓRIO ATENDER A 100% DOS ITENS ABAIXO NA CONTRATAÇÃO DOS SISTEMAS:
+3.1. ARQUITETURA E TECNOLOGIA
+3.1.1. Os sistemas devem ser únicos e permitirem que todos os órgãos e entidades do município, independe do
+poder e do tipo de administração, direta ou indireta utilizem o mesmo sistema e banco de dados de forma
+compartilhada e centralizada com a finalidade de registrar os atos e fatos contábeis relacionados com a
+administração orçamentária, financeira, patrimonial e de controle (Decreto nº 10.540/2020, art. 1, § 6º);
+3.1.2. Os sistemas devem utilizar o Sistema Gerenciador de Bancos de Dados (SGBD) Microsoft SQL Server;
+3.1.3. Os sistemas devem estar preparados para funcionar como clientes nos ambientes operacionais Windows
+7 ou superior, MacOS e Linux, garantindo a manutenção do ambiente heterogêneo;
+3.1.4. Os sistemas devem rodar sobre a plataforma JEE - Java Enterprise Edition, fazendo uso intensivo de
+ajax;
+3.1.5. Os sistemas devem funcionar com os servidores de aplicação tomcat ou JBoss;
+3.1.6. Os sistemas devem trabalhar com arquitetura em três camadas. Não serão aceitos sistemas que rodem
+em arquitetura cliente-servidor;
+
+--- [pag. PDF 2] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+3.1.7. Os sistemas devem funcionar em ambiente web, utilizando-se no mínimo os navegadores (browser)
+Google Chrome, Mozilla Firefox, Internet Explorer e Safari. Não serão aceitos sistemas desktop que emulem o
+ambiente web;
+3.1.8. Os sistemas devem possuir interface cliente com suporte às tecnologias HTML5, CSS3 e JavaScript.
+3.2. USABILIDADE E RECURSOS
+3.2.2. Os sistemas devem possuir ajuda sensível ao contexto referente aos campos das telas;
+3.2.3. Os Sistemas devem permitir realizar todas as suas operações de trabalho dos formulários por teclas de
+atalho, sem a necessidade de utilização do mouse, permitindo um ganho de tempo nas operações de manuseio
+dos dados no formulário;
+3.2.4. Os Sistemas devem permitir que se configure uma inclusão de dados padrões para alguns campos a partir
+de conteúdo definido em um registro da própria tela, facilitando entradas de dados repetitivos e em série;
+3.2.5. Os Sistemas devem possuir nos formulários de cadastros e movimentações, grades gerenciáveis para
+localização dos registros, onde se possa ocultar colunas, mudar a posição das colunas, mudar a ordenação das
+colunas e gerar esses dados em tela, em arquivo HTML, XML e TXT;
+3.2.6. Os Sistemas devem possuir, em todos os seus formulários, um executor de consulta avançada, onde o
+usuário possa escolher e combinar os seus filtros aplicados a partir de todos os atributos disponíveis no
+formulário, escolhendo a forma de classificação dos filtros;
+3.2.7. Os Sistemas devem possuir telas que permitam importar registros dando carga na tabela principal
+relacionada a tela, a partir de um arquivo texto, contendo os dados em linhas e com delimitação de layout
+definida feito pelo próprio usuário;
+3.2.8. Os sistemas devem permitir realizar a comunicação através de componente webservice para enviar e
+receber dados de forma segura, sem intervenção humana, facilitando assim a integração entre sistemas
+externos de terceiros desenvolvidos em outras plataformas ou linguagens;
+3.2.9. Os sistemas devem permitir a abertura de formulários de consultas e relatórios, externamente, fora da
+rede local, sem autenticação de usuário, através de um link válido publicado na internet, permitindo-se realizar
+consultas em tempo real aos dados específicos exigidos para o cumprimento das legislações que regulamentam
+a transparência pública no Brasil (Lei 131/2009 e Lei 12.527/2011);
+3.2.10. Os sistemas devem possuir um gerador de relatórios integrado e 100% web, de forma que o usuário final
+possa construir e/ou alterar relatórios sem mesmo precisar reiniciar a aplicação com possibilidade de alteração
+condicional de cores, alteração de fontes e tamanhos dos objetos. O gerador de relatórios deverá possibilitar a
+configuração de templates padrões de estilo da página (paisagem ou retrato) layout do cabeçalho, rodapé e
+sumário com ordenação da disposição dos campos no relatório, agrupamentos de dados, filtros com lista
+dinâmica, totalizador e contador de dados tanto nos grupos quanto no sumário do relatório. Esses relatórios
+devem ser gerados nos formatos PDF, XML, XLS, JPEG, HTML, TXT e RTF.
+3.2.11. Os sistemas devem possuir internamente um painel de controle (dashboard) contendo gráficos do tipo
+barra, pizza e linha, para demonstrar em tempo real os indicadores de negócio mais importantes para cada
+sistema, consolidados a partir de consultas realizadas na própria base de dados, e que permitam interação dos
+dados com eventos como ao passar o mouse ou ao clicar sob a barra de um gráfico.
+3.3. SEGURANÇA
+3.3.1. Os sistemas devem possuir recursos de criptografia para os dados armazenados em banco de dados que
+necessitem de segurança;
+
+--- [pag. PDF 3] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+3.3.2. Os sistemas devem permitir conexão segura e criptografada na navegação e transmissão dos dados entre
+rede de computadores na internet, garantido a autenticidade do servidor e do cliente através de certificado
+digital;
+3.3.3. Os sistemas devem permitir realizar bloqueio de acesso dos usuários manualmente pelo administrador do
+sistema ou automaticamente através de uma determinada quantidade de tentativas de acesso sem sucesso ou
+por um certo número de dias sem se realizar algum acesso ao sistema. O desbloqueio manual do login realizado
+pelo administrador também deve ser permitido, desde que se registre o motivo deste desbloqueio. Para auxiliar
+essa rotina, os sistemas devem possuir uma tela que permita a visualização imediata desses usuários
+bloqueados com informação do tipo de bloqueio ocorrido;
+3.3.4. Os sistemas devem possuir uma tela que permita visualizar quais são os usuários logados, em tempo real,
+informando o tempo de conexão de cada login;
+3.3.5. Os sistemas devem ter a possibilidade de aplicar restrições de acesso aos registros à nível de órgão por
+usuário para as principais tabelas de negócios que exijam essa segurança;
+3.3.6. Os sistemas devem possuir um cadastro de usuários com e-mail, impressão digital, fotografia, definição
+do limite de expiração do acesso em dias contados a partir de uma data de referência ou em uma data
+específica, troca de senha a cada número de dias e controle de permissão para acesso externo, informação do
+histórico de login de acesso e informações históricas dos bloqueios e desbloqueios de acesso com seus tipos e
+motivos;
+3.3.7. Os sistemas devem permitir associar um usuário a um ou mais de um grupo de acesso do sistema, com
+efeito acumulativo das permissões e restrições de segurança;
+3.3.8. Os sistemas devem possuir um modo de segurança, que permita definir as permissões de acesso aos
+formulários e relatórios do sistema, e as permissões de visualização e edição dos campos e demais objetos de
+cada tela, por usuário ou grupo de usuários;
+3.3.9. Os sistemas devem registrar automaticamente um log de auditoria para todas as transações efetuadas
+pelos usuários referente a inclusão, alteração e exclusão de registros, e também para impressão das listagens e
+relatórios, guardando a data e hora da ocorrência, o usuário responsável pela ação e no caso da manipulação de
+registros, o dado alterado antes da ação e o dado atual, depois da alteração;
+3.3.10. Os sistemas devem possuir uma tela que permita a consulta e visualização dos registros de log do
+sistema, com filtros de usuário, período e tipo de operação para visualização em tela e também para impressão
+dos registros de log;
+3.3.11. Os sistemas devem permitir registrar e encaminhar de forma instantânea os atendimentos de suporte
+técnico dos usuários do sistema diretamente na ferramenta de helpdesk do canal de suporte técnico da
+contratada a partir do menu do próprio sistema que está em uso, sem a necessidade de acessar outro sistema
+ou portal específico para essa tarefa, bem como realizar a verificação dos atendimentos abertos com seus status
+e respostas também da mesma forma e on-line.
+3.3.12. Os sistemas devem gerar um código de identificação próprio e intransferível para cada usuário (Decreto
+nº 10.540/2020, art. 11, § 1º).
+3.3.13. Os sistemas devem permitir sua autenticação de acesso através do código do CPF do usuário e senha,
+não sendo permitido a utilização de usuários genéricos (Decreto nº 10.540/2020, art. 11, § 2º, inc. II);
+3.3.14. Os sistemas devem exigir e registrar autorização expressa da chefia imediata ou do servidor
+hierarquicamente superior no cadastramento do usuário operador do sistema a fim de habilitar seu acesso ao
+sistema (Decreto nº 10.540/2020, art. 11, § 2º, inc. I);
+3.3.15. Os sistemas devem exigir e registrar a assinatura de um termo de responsabilidade pelo uso adequado
+do sistema no momento do primeiro acesso do usuário ao sistema (Decreto nº 10.540/2020, art. 11, § 1º);
+
+--- [pag. PDF 4] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+3.3.16. Os sistemas deverão ter mecanismos de controle de acesso de usuários baseados na segregação das
+funções de execução orçamentária e financeira, de controle e de consulta, e não será permitido que uma
+unidade gestora ou executora tenha acesso aos dados de outra, com exceção de determinados níveis de acesso
+específicos definidos nas políticas de acesso dos usuários (Decreto nº 10.540/2020, art. 11);
+3.3.17. Os sistemas devem conter em seus documentos contábeis tais como nota de empenho, nota de
+liquidação, ordem de pagamento, nota de alteração de empenho, conhecimento de receita a indicação do nome
+do produto e da empresa desenvolvedora da solução (Decreto nº 10.540/2020, art. 9º, inc. III);
+3.3.18. Os sistemas permitirão a integração ou a comunicação, sem intervenção humana, com os sistemas
+estruturantes cujos dados possam afetar as informações orçamentárias, contábeis e fiscais (LRF, art. 48, § 1º,
+inc. III, Decreto nº 10.540/2020, art. 1º);
+4. FUNCIONALIDADES EXIGIDAS PARA O SISTEMA:
+OBRIGATÓRIO ATENDER, NO MÍNIMO, 95% DOS ITENS ABAIXO NA CONTRATAÇÃO DE CADA
+SISTEMA.
+CONTABILIDADE PÚBLICA
+CADASTROS
+1. Permitir o cadastro de pessoa física com os seguintes dados: Nome, endereço (logradouro, número,
+complemento, bairro, CEP, cidade, estado, e-mail) CPF, RG, telefone, telefone celular, data de nascimento,
+sexo, estado civil, naturalidade, nº do PIS / PASEP, nº do NIT, Nº do INSS, matrícula, dados bancários.
+2. Permitir cadastrar pessoa jurídica com os seguintes dados: Razão social, nome fantasia, endereço
+(logradouro, número, complemento, bairro, CEP, cidade, estado, e-mail), telefone, fax, CNPJ, inscrição estadual,
+inscrição municipal, tipo de empresa, atividade econômica.
+3. Permitir o cadastro de poder.
+4. Permitir o cadastro de órgão.
+5. Permitir o cadastro de secretária.
+6. Permitir o cadastro de unidade orçamentária.
+7. Permitir o cadastro das funções e subfunções.
+8. Permitir o cadastro de rubricas de receitas.
+9. Permitir o cadastro de elementos de despesas.
+10. Permitir o cadastro de contas contábeis.
+11. Permitir o cadastro de fontes de recursos.
+12. Permitir o cadastro de programas.
+13. Permitir o cadastro de ação.
+14. Permitir o cadastramento de dotações orçamentárias de exercícios anteriores.
+15. Permitir cadastramento do limite de suplementação.
+16. Permitir o cadastro de bancos, agência e contas bancárias.
+ROTINAS / FUNCIONALIDADES
+17. Gerar número de processos automaticamente.
+18. Permitir a validação do saldo bancário para pagamentos.
+19. Permitir a validação da fonte de recurso para pagamentos.
+
+--- [pag. PDF 5] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+20. Permitir a validação dos fundamentos quanto ao total reduzido e adicionado como também o total por fonte
+de recurso.
+21. Permitir a validação nos fundamentos de alteração de QDD (Ação e classificação econômica).
+22. Permitir realizar a cronologia por órgão, tipo de receita ou despesa (orçamentária e extra).
+23. Permitir imprimir os dados do credor na nota de pagamento.
+24. Permitir conciliar os lançamentos automaticamente.
+25. Permitir levar ou não o saldo das contas 5 e 6 para o exercício seguinte.
+26. Permitir lançar retenções na despesa extra.
+27. Permitir imprimir notas de empenho, liquidação e pagamento separadas ou em um único documento.
+28. Permitir o lançamento de despesas orçamentárias, bem como sua liquidação e pagamento de forma prática.
+29. Permitir o lançamento de despesas extra orçamentárias, bem como seu pagamento.
+30. Permitir liquidar ou pagar as despesas de restos a pagar.
+31. Permitir o estorno de pagamentos, liquidações, empenhos e subempenhos.
+32. Permitir realizar bloqueio (reserva) e desbloqueio de saldo de dotações.
+33. Permitir realizar a consolidação da despesa orçamentária e extra.
+34. Permitir realizar a consolidação de restos a pagar.
+35. Permitir a realização de lançamentos contábeis.
+36. Permitir encerrar o exercício congelando o saldo final para o ano seguinte.
+37. Permitir o encerramento automático das VPAs e VPDs.
+38. Permitir realizar a cronologia.
+39. Permitir fechar o mês por órgão, sendo possível escolher que tipo de item que deseja fechar (despesa,
+receita, lançamentos contábeis, reserva, estorno, entre outros).
+40. Possuir mecanismo de auxílio para identificação de erros nos lançamentos ou de movimentação no razão.
+41. Permitir o lançamento de receitas orçamentárias e extras.
+42. Permitir realizar a consolidação das receitas orçamentárias e extras.
+43. Permitir realizar transferências bancárias.
+44. Permitir realizar transferências financeiras.
+45. Permitir consolidar as transferências financeiras.
+46. Permitir realizar a consolidação das transferências financeiras.
+47. Permitir o lançamento, a impressão, cópia e processamento de cheques.
+48. Permitir que se visualize as partidas dobradas específicas dos eventos a partir do registro de um lançamento
+de previsão de receita, fixação de despesa, arrecadação de receita, empenho, liquidação, pagamento, entre
+outras operações do sistema.
+49. Possuir tabela de eventos contábeis agrupando os lançamentos contábeis em partidas dobradas de acordo
+com as naturezas patrimoniais, orçamentárias e de controle.
+50. Estar de acordo com as regras definidas pela portaria 184/2008 e 467/2009 do STN, que definem as
+NBCASP – Normas Brasileiras de Contabilidade Aplicadas ao Setor Público.
+51. Utilizar de forma integrada o PCASP – Plano de contas Aplicado ao Setor Público, definido pelas portarias do
+STN para utilização a partir do ano de implantação, para efetivação dos registros dos atos e fatos contábeis do
+órgão público, sem interferência no plano de contas anteriormente utilizado antes da implantação das NBCASP.
+52. Gerar os novos DCASP – Demonstrativos Contábeis Aplicados ao Setor Público, de acordo com a portaria
+749/2009 e as definições constantes no MCASP – Manual de Contabilidade Aplicado ao Setor Público.
+53. Registrar a geração de nota explicativa avulsa ou a partir do lançamento contábil.
+
+--- [pag. PDF 6] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+RELATÓRIOS
+54. Permitir a emissão em lote das notas de subempenho, empenho, liquidação e pagamento.
+55. Permitir a emissão de Notas de Alteração de Empenhos (NAE).
+56. Permitir a emissão de capas de processo.
+57. Permitir a emissão de listagem de despesas empenhadas, liquidadas e pagas por período, filtrando credor,
+elemento de despesa, órgão, ação e fonte.
+58. Permitir a emissão de estornos.
+59. Permitir a emissão do Demonstrativo da Despesa orçamentária e extra.
+60. Permitir a emissão do Demonstrativo de Receita orçamentária e extra.
+61. Permitir a emissão dos conhecimentos de receita.
+62. Permitir a emissão da listagem de receita arrecadada.
+63. Permitir a emissão de extrato bancário.
+64. Permitir a emissão de resumo bancário.
+65. Permitir a emissão de listagem de transferências bancárias e financeiras.
+66. Permitir a emissão do resumo mensal (capa do balancete).
+67. Permitir a emissão do razão sintético e analítico, por conta bancária, por elemento de despesa, por classe, ou
+por natureza.
+68. Emitir os decretos/fundamentos:
+- Alteração de QDD;
+- Crédito especial por anulação de crédito;
+- Crédito especial por excesso de arrecadação;
+- Crédito especial por superávit;
+- Crédito especial por operação de crédito;
+- Crédito extraordinário por anulação de crédito;
+- Crédito extraordinário por excesso de arrecadação;
+- Crédito extraordinário por superávit;
+- Crédito extraordinário por operação de crédito;
+- Suplementação por anulação de crédito;
+- Suplementação por excesso de arrecadação;
+- Suplementação por operação de crédito;
+- Suplementação por superávit;
+- Transposição / Remanejamento / Transferência de um órgão para outro – Transferido; e
+- Transposição / Remanejamento / Transferência de um órgão para outro – Recebido.
+69. Emitir os anexos do RREO:
+- Anexo 1 (Balanço Orçamentário);
+- Anexo 2 (Demonstrativo Execução das Despesa por Função/Subfunção);
+- Anexo 3 (Demonstrativo da Receita Corrente Liquida);
+- Anexo 4 (Demonstrativo das Receitas e Despesas Previdenciárias);
+- Anexo 6 (Demonstrativo dos Resultados Primários e Nominais);
+- Anexo 7 (Demonstrativo dos Restos a Pagar por Poder e Órgão);
+- Anexo 8 (Demonstrativo das Receitas e Despesas com Manutenção e Desenvolvimento do Ensino – MDE);
+- Anexo 9 (Demonstrativo das receitas de operações de crédito e despesas de capital);
+- Anexo 10 (Demonstração da Projeção Atuarial do Regime de Previdência);
+- Anexo 11 (Demonstrativo da Receita de Alienação de Ativos e Aplicação dos Recursos);
+
+--- [pag. PDF 7] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+- Anexo 12 (Demonstrativo da Receita de Impostos e das Despesas Próprias com Saúde);
+- Anexo 13 (Demonstrativo das Parcerias Público-Privadas); e
+- Anexo 14 (Demonstrativo Simplificado do Relatório Resumido da Execução Orçamentaria).
+70. Emitir os anexos da RGF:
+- Anexo 1 (Demonstrativo da Despesa com Pessoal Detalhado);
+- Anexo 2 (Demonstrativo da Dívida Consolidada Liquida);
+- Anexo 3 (Demonstrativo das Garantias e Contra garantias de Valores);
+- Anexo 4 (Demonstrativo das Operações de Credito);
+- Anexo 5 (Demonstrativo da Disponibilidade de Caixa e dos Restos a Pagar); e
+- Anexo 6 (Demonstrativo Simplificado do Relatório de Gestão Fiscal).
+71. Emitir os anexos do balanço:
+- Anexo XII (Balanço Orçamentário);
+- Anexo XII - I (Demonstrativo de Execução Restos Não Processados);
+- Anexo XII - II (Demonstrativo de Execução Restos Processados e Não Processados Liquidados);
+- Anexo XIII (Balanço Financeiro);
+- Anexo XIV (Balanço Patrimonial);
+- Anexo XIV - I (Demonstrativo do Superávit/Déficit Financeiro);
+- Anexo XV (Demonstração das Variações Patrimoniais);
+- Anexo XVI (Demonstrativo da Dívida Fundada Interna);
+- Anexo XVI (Demonstração da Dívida Fundada Externa);
+- Anexo XVII (Demonstrativo da Dívida Flutuante);
+- Anexo XVIII (Inventário das Contas Ativo Não Circulante);
+- Anexo XVIII (Inventário das Contas Ativo Permanente e Realizável);
+- Relação Analítica do Ativo Financeiro;
+- Relação Analítica do Ativo Permanente;
+- Relação Analítica do Passivo Financeiro;
+- Relação Analítica do Passivo Permanente;
+- Relação Analítica do Ativo Circulante dos créditos e valores a Receber de Curto Prazo;
+- Relação Analítica do Passivo Circulante e Não Circulante;
+- Demonstrativo Da Dívida Ativa Tributária e Não Tributária; e
+- Demonstrativo Dos Bens Móveis e Imóveis.
+72. Emitir os livros contábeis:
+- Receita Classificada;
+- Despesa Classificada;
+- Livro Caixa Fiscal;
+- Livro Razão; e
+- Livro Diário.
+EXPORTAÇÃO DE DADOS
+73. Exportar dados referente a DIRF.
+74. Exportar dados referente ao MANAD.
+75. Exportar todos os arquivos relativos ao SIGA - Sistema Integrado de Gestão e Auditoria do Tribunal de
+Contas dos Municípios.
+
+--- [pag. PDF 8] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+LEI ORÇAMENTÁRIA ANUAL
+1. Permitir cadastrar as informações sobre a lei autorizativa da LOA.
+2. Permitir escolha de modelo para código reduzido da dotação (Sequencial ou Combinação Ação + Elemento de
+Despesa + Fonte de Recurso);
+3. Permitir cadastrar os poderes.
+4. Permitir cadastrar os Órgãos.
+5. Permitir cadastrar as secretarias.
+6. Permitir cadastrar as unidades orçamentárias.
+7. Permitir cadastrar os centros de custos.
+8. Permitir cadastrar as funções e subfunções.
+9. Permitir cadastrar os programas.
+10. Permitir cadastrar as ações.
+11. Permitir cadastrar as rubricas de receitas.
+12. Permitir cadastrar as fontes de recursos.
+13. Permitir cadastrar os elementos de despesas.
+14. Permitir cadastrar os objetivos.
+15. Permitir lançar as receitas e despesas de anos anteriores visando alimentar relatórios que necessitem de tais
+informações.
+16. Permitir somente um orçamento por rubrica no exercício, sendo permitido apenas fracionar o valor total da
+rubrica por fonte.
+17. Permitir gerar um novo orçamento com base no ano anterior replicando os mesmos valores ou adicionando
+um percentual, bem como poder criar um orçamento sem valores ou totalmente em branco, gerando também
+com aplicações de percentual somente para despesa e atualização da despesa pela atualizada em mês base.
+18. Montagem de relatório de documentação Capa, Contra Capa, Mensagem e Projeto de Lei;
+19. Emitir o anexo QDD – Quadro de Detalhamento da Despesa;
+20. Emitir o anexo Resumo geral da receita e despesa;
+21. Emitir o anexo Resumo geral da receita;
+22. Emitir o anexo Receita por fonte de recurso;
+23. Emitir o anexo Demonstrativo de receita segundo sua natureza;
+24. Emitir o anexo Evolução da receita durantes os 3 últimos anos;
+25. Emitir o anexo Estimativa de receita por fonte;
+26. Emitir o anexo Despesas por função e subfunção
+27. Emitir o anexo Despesas por programa;
+28. Emitir o anexo Despesas por grupo de despesa, por modalidade, por fonte de recurso, dentre outros.
+29. Emitir o anexo Despesas e Receitas por Fonte de Recurso.
+30. Emitir o anexo Orçamento Fiscal.
+31. Emitir o anexo Seguridade Social.
+32. Emitir o anexo Programa de Trabalho de Órgãos e Entidades.
+33. Emitir os anexos com Aplicações dos Recursos,
+Demonstrativo de Aplicação com Pessoal - LRF, Art. 20 inciso III, alínea "b",
+Manutenção no Desenvolvimento do Ensino e Fundeb - Constituição Federal - Art. 212,
+Manutenção da Saúde com Recursos Próprios - Emenda constitucional nº 29/00.
+Despesa da Câmara Municipal.
+34. Relatórios Comparativos entre PPA, LDO e LOA.
+
+--- [pag. PDF 9] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+LEI DE DIRETRIZES ORÇAMENTÁRIA
+1. Permitir o cadastramento de ações;
+2. Permitir o cadastramento de programas;
+3. Permitir o cadastramento de informações da lei de diretrizes orçamentária;
+3. Permitir o planejamento estratégico, estabelecendo as diretrizes, os objetivos e as metas da administração
+pública ano a ano que deverá constar na Lei Orçamentária Anual (LOA);
+4. Permitir a seleção dos programas incluídos no PPA, aqueles que terão prioridade na execução do orçamento
+subsequente. Observando que o mesmo também está totalmente adaptado às novas situações do artigo 165 da
+Constituição Federal, Decreto 2829/98 e das Portarias Interministeriais 42/99, 163/01 e 219/04.
+5. Permitir a inserção de metas e indicação de prioridades;
+6. Orientar a elaboração da LOA, com todos os itens pertinentes (Cadastro de Poder, Órgão, Secretaria,
+Unidade Orçamentária, função, subfunção, rubrica de receita, elemento de despesa, conta contábil, fonte de
+recursos );
+7. Permitir o lançamento de receitas;
+8. Permitir o lançamento de despesas;
+9. Permitir o lançamento de dívida consolidada;
+10. Permitir o lançamento de renúncias;
+11. Permitir o lançamento de projeção atuarial da RPPS;
+12. Permitir o lançamento de margem de expansão;
+13. Permitir a descrição das ações, como também a definição do produto, base legal e das metas físicas e
+financeiras pretendidas para o ano que está sendo elaborado;
+14. Montagem de relatório de documentação Capa, Contra Capa, Mensagem e Projeto de Lei da LOA;
+15. Emitir o anexo Prioridades e metas;
+16. Emitir o anexo Memória de cálculo da Receita;
+17. Emitir o anexo Metas anuais;
+18. Emitir o anexo Metas fiscais;
+19. Emitir o anexo Metas fiscais atuais comparadas com as fixadas;
+20. Emitir o anexo Avaliação do Cumprimento das Metas Fiscais do Exercício Anterior;
+21. Emitir o anexo Evolução do Patrimônio;
+22. Emitir o anexo Riscos Fiscais e Providências;
+23. Emitir o anexo Metas e ações por programa;
+24. Emitir o anexo Metas e ações por função;
+25. Emitir o anexo Margem de expansão da despesa;
+26. Emitir o anexo Ações e Metas;
+SISTEMA INTEGRADO DE PLANO PLURIANUAL - PPA
+1. Permitir cadastrar as informações sobre o Plano Plurianual.
+2. Permitir o cadastro de poder.
+3. Permitir o cadastro de órgão.
+4. Permitir o cadastro de secretária.
+5. Permitir o cadastro de unidade orçamentária.
+
+--- [pag. PDF 10] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+6. Permitir o cadastro das funções e subfunções
+7. Permitir o cadastro de rubricas de receitas.
+8. Permitir o cadastro de elementos de despesas.
+9. Permitir o cadastro de contas contábeis.
+10. Permitir o cadastro de fontes de recursos.
+11. Permitir o cadastro de programas.
+12. Permitir o cadastro de público-alvo.
+13. Permitir o cadastro de estratégias.
+14. Permitir o cadastro de objetivos do programa.
+15. Permitir o cadastro de ação e macroação.
+16. Permitir o cadastro do objetivo da ação.
+17. Estar totalmente adaptado às novas situações do artigo 165 da Constituição Federal, Decreto 2829/98 e das
+Portarias Interministeriais 42/99, 163/01 e 219/04;
+18. Permitir lançar o planejamento do quadriênio;
+19. Permitir o lançamento dos programas com seus indicadores e índices.
+20. Permitir o lançamento dos eixos estruturantes.
+21. Permitir o lançamento das áreas temáticas.
+22. Permitir o lançamento dos indicadores.
+23. Permitir o lançamento de receitas anteriores do PPA.
+24. Permitir o lançamento de previsão de receitas do PPA.
+25. Permitir o lançamento de ação e macroação.
+26. Permitir a criação dos programas de governo com todos os seus atributos dentro do PPA.
+27. Permitir o planejamento das ações com identificação das regiões a serem atendidas no município durante a
+vigência do Plano;
+28. Permitir a emissão de formulários de levantamento e avaliação dos programas, ações e indicadores;
+29. Montagem de relatório de documentação Capa, Contra Capa, Mensagem e Projeto de Lei;
+30. Emitir relatório de memória de cálculo de receitas e despesas;
+31. Emitir relatório de ações por unidade executora.
+32. Emitir relatório de programas por macroações governamentais.
+33. Emitir relatório de síntese das funções governamentais.
+34. Emitir relatório de síntese de subfunções por função.
+35. Emitir relatório de síntese dos programas governamentais.
+36. Emitir relatório de síntese das macroações.
+37. Emitir relatório de eixo estruturante e área temática.
+38. Emitir relatório de metas administrativas em macroação por programa.
+39. Emitir relatório de estimativa da receita por fonte de recurso.
+40. Emitir relatório de estimativa da receita segundo sua natureza.
+PORTAL DE TRANSPARÊNCIA PÚBLICA
+1. O portal da transparência pública deve dar ampla divulgação e pleno conhecimento para o acompanhamento
+de toda a sociedade, em tempo real, dos plano plurianuais, leis orçamentárias anuais, leis de diretrizes
+orçamentárias, prestações de contas mensais e anuais junto com seus respectivo pareceres prévio, Relatórios
+
+--- [pag. PDF 11] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+Resumidos da Execução Orçamentária, Relatórios de Gestão Fiscal conforme suas periodicidade e formatos
+estabelecidos pelo STN (LRF, art. 48, § 2º, Decreto nº 10.540/2020, art. 1º, § 2º).
+2. Disponibilizar informações referente as despesas e receitas, relativas à execução dos atos orçamentários e
+financeiros, por unidade gestora, para o amplo acesso público, em meio eletrônico, em atendimento a Lei
+Complementar 131/2009 (Lei da Transparência):
+3. Disponibilizar informações referente à despesa empenhada, a despesa liquidada e a despesa paga, inclusive
+a despesa extra-orçamentária (Decreto nº 10.540/2020, art. 8º, inc. I, alínea a, b e d);
+4. Disponibilizar informações referente a classificação orçamentária completa da despesa, especificando a
+unidade orçamentária, a ação, a função, a subfunção, a natureza da despesa, o elemento da despesa, e a fonte
+de recursos (Decreto nº 10.540/2020, art. 8º, inc. I, alínea c);
+5. Disponibilizar informações referente ao processo de licitação da despesa (Decreto nº 10.540/2020, art. 8º, inc.
+I, alínea g);
+6. Disponibilizar informações referente ao processo de dispensa da despesa (Decreto nº 10.540/2020, art. 8º,
+inc. I, alínea g);
+7. Disponibilizar informações referente ao processo de inexigibilidade da despesa (Decreto nº 10.540/2020, art.
+8º, inc. I, alínea g);
+8. Disponibilizar informações referente aos convênios públicos realizados, com o número do processo
+correspondente, o nome e identificação por CPF ou CNPJ do convenente, o objeto e o valor (Decreto nº
+10.540/2020, art. 8º, inc. I, alínea f);
+9. Disponibilizar informações referente ao processo de execução da despesa, com o bem fornecido ou ao
+serviço prestado, com o nome do beneficiário do pagamento da despesa (Decreto nº 10.540/2020, art. 8º, inc. I,
+alínea a e h);
+10.Disponibilizar informações referente à previsão anual da receita; aos lançamentos de receitas; as receitas
+arrecadadas orçamentárias e extra-orçamentárias (Decreto nº 10.540/2020, art. 8º, inc. II, alínea a, b e c);
+11. Possui rotina específica de estruturação hierárquica das unidades, para identificação da unidade
+imediatamente superior, sendo essa responsável por um pedido de informação ocorrido.
+12. Permite vincular sub-unidades e usuários/operadores às unidades.
+13. Permitir a solicitação de pedido de informação de pessoas físicas e jurídicas através do Portal, atendendo
+aos critérios da LAI 12.527/2011.
+14. Permite fazer solicitação de pedido de informação, por dentro do sistema, assim como ter acesso a todos os
+pedidos que foram feitos às unidades, que o usuário/operador está vinculado.
+15. Possui rotina de geração de protocolo único para cada solicitação de pedido de informação realizada,
+permitindo através deste, consultar o andamento do pedido.
+16. Permite que o cidadão escolha, quando for efetuar uma solicitação de pedido de informação, o meio de
+comunicação pelo qual deseja receber a resposta ao seu pedido.
+17. Permite o encaminhamento de pedido de informação entre as unidades, caso seja identificado que a atual
+unidade destinada para este pedido não seja a unidade responsável para dar tratamento ao pedido.
+18. Permite ao usuário/operador prorrogar em 10 dias o prazo para dar a resposta, que inicialmente é de 20 dias,
+gerando uma nova tramitação e um envio de e-mail para o solicitante do pedido de informação.
+19. Permite ao solicitante, via portal, complementar a solicitação do pedido de informação, caso exista a
+necessidade de inserir uma nova informação ao pedido.
+20. Permitir publicação manual de documentos.
+21. Possui relatórios para o gerenciamento de cada pedido de informação, sendo filtrado pelo número de
+protocolo, trazendo os dados do solicitante, da solicitação e das transações.
+22. Possui relatórios que permitem visualizar os dados detalhados dos pedidos de informações.
+23. Exibir gráfico no Portal de todas as solicitações de pedidos de informações, trazendo os pedidos atendidos,
+os ainda aguardando resposta, e os que estão ou não dentro do prazo.
+
+--- [pag. PDF 12] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+COMPRAS
+CADASTROS
+1. Permitir o cadastro de dotações;
+2. Permitir o cadastro de forma de pagamento;
+3. Permitir o cadastro de base legal;
+4. Permitir o cadastro de forma de entrega;
+5. Permitir o cadastro de produtos, serviços, veículos e medicamentos.
+ROTINAS/FUNCIONALIDADES
+6. Permitir que usuários possam realizar pedidos com compras contendo as seguintes informações: data,
+solicitante, centro de custo, tipo da compra (materiais ou serviços), valor estimado, data da necessidade, objeto,
+observação, cotação, itens a serem comprados e dotação orçamentária.
+7. Permitir emissão de relatório do pedido de compra.
+8. Possui níveis de autorização do SD: Autorização do secretário, autorização do setor orçamentário e financeiro.
+9. Permitir o cancelamento da SD.
+10. Permitir validação do saldo da dotação.
+11. Permitir alterar a fase em que se encontra a SD, caso esteja na fase de classificação orçamentária poder
+retornar para a fase inicial do processo.
+12. Permitir realizar requisição de fornecimento (OF) ao fornecedor.
+13. Permitir cancelar ou reabrir uma requisição de fornecimento.
+RELATÓRIOS
+14. Emitir listagem de requisições realizadas filtrando por um determinado período.
+15. Emitir relatório de requisições por produto filtrando por um determinado período.
+16. Emitir relatório de requisições por solicitante filtrando por um determinado período.
+17. Emitir mapa comparativo dos processos diretos de compras.
+18. Emitir relatório de acompanhamento do processo de compra: Quantidade adquirida, requisitada, entregue e
+saldo.
+SISTEMA INTEGRADO DE LICITAÇÕES
+1. Permitir o cadastro da comissão de licitação.
+2. Permitir o cadastro de veículo de publicação.
+3. Compor todo o processo licitatório seja qual for a modalidade: Pregão, Concorrência, Concurso, Leilão e
+Diálogo Competitivo.
+4. Permitir o cadastro de todo o processo de contratação direta por Dispensa ou Inexigibilidade
+5. Permitir a confecção de modelos de ATAs.
+
+--- [pag. PDF 13] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+6. Acompanhar todo o processo licitatório, envolvendo as etapas desde a preparação até o julgamento,
+deliberação, mapa comparativo de preços, parecer jurídico, sua homologação e adjudicação.
+7. Permitir realizar todo o processo licitatório seja qual for o critério de julgamento: menor preço, técnica e
+preço, melhor técnica ou conteúdo artístico, maior retorno econômico, maior desconto.
+8. Permitir incluir os fornecedores e suas cotações no processo licitatório.
+9. Definir o vencedor de forma automática, conforme cadastro de cotação.
+10. Permitir anexar documentos a um processo licitatório.
+11. Validar validade das certidões dos fornecedores.
+12. Possibilitar alterar o status de um processo licitatório (Em Andamento, Impugnada, Anulada, Deserta
+Fracassada ou Suspensa).
+13. Permitir cadastrar a rodada de lances do pregão presencial.
+14. Permitir declinar um fornecedor durante o pregão presencial.
+15. Permitir inabilitar um fornecedor durante o pregão presencial.
+16. Permitir o cadastro de Dispensas e Inexigibilidade.
+17. Relatório de cotação.
+18. Permitir geração de ofícios e pareceres.
+19. Relatório dos mapas comparativos.
+20. Possuir relatórios de dispensa.
+21. Possuir relatórios de inexigibilidade.
+22. Possuir relatórios de pregão.
+23. Possuir relatório para acompanhamento do processo (Quantidade vencida pelo fornecedor, entregue e saldo
+a entregar).
+24. Exportar todos os arquivos relativos ao SIGA - Sistema Integrado de Gestão e Auditoria do Tribunal de
+Contas dos Municípios.
+25. Permitir a edição dos modelos de relatório da licitação, pregão, dispensa e inexigibilidade.
+26. Gerar os arquivos dos informes mensais para o SIGA.
+SISTEMA INTEGRADO DE CONTRATOS
+1. Possuir cadastro de todas as pessoas envolvidas no processo do contrato: Fornecedor, contratante, fiscal.
+2. Permitir o cadastro de todas as informações relativas aos contratos (Número, Objeto, Datas, Pareceres, Valor
+total, Tipo de Moeda, Valor Mensal, Conta Bancária);
+3. Permitir o cadastro de aditivos de contratos;
+4. Controlar saldo dos itens do contrato;
+5. Permitir o cadastro de atas de registro de preços.
+6. Controlar as publicações realizadas do contrato.
+7. Permitir o armazenamento de documentos anexados ao contrato;
+8. Permitir o cadastramento dos centros de custos e seus responsáveis;
+9. Possuir cadastro de todas as pessoas envolvidas no processo do contrato (Contratante, Contratado,
+Fornecedores, Prestadores de Serviços, etc.);
+10. Possuir o controle dos contratos por prazo de término, possibilitando ao gestor configurar a quantidade de
+dias que o software deve informá-lo antes de sua finalização;
+11. Exportar todos os arquivos relativos ao SIGA-Módulos Contratos (Sistema Integrado de Gestão e Auditoria
+do Tribunal de Contas dos Municípios do Estado da Bahia).
+12. Permitir o lançamento das notas fiscais referentes aos pagamentos dos contratos.
+13. Permitir requisitar do fornecedor a entrega de materiais contratados.
+14. Permitir cancelar uma requisição feita a um fornecedor.
+15. Permitir consultar separadamente os contratos vencidos e a vencer.
+16. Permitir fechar e abrir competências.
+17. Permitir a criação de contratos.
+
+--- [pag. PDF 14] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+18. Permitir lançar notificações ou advertências a fornecedores.
+19. Permitir lançar e validar as datas de validade das certidões dos fornecedores.
+20. Emitir relatório de saldo de contratos.
+21. Emitir relatório de contratos vigentes.
+22. Emitir relatório de contratos vencidos.
+23. Emitir relatório de contratos vencidos ou vigentes filtrando um determinado fornecedor.
+SISTEMA INTEGRADO DE COMPRAS
+1. Permitir o cadastro de dotações
+2. Permitir o cadastro de forma de pagamento;
+3. Permitir o cadastro de base legal.
+4. Permitir o cadastro de forma de entrega.
+5. Permitir o cadastro de produtos ,serviços, veículos e medicamentos.
+6. Permitir que usuários possam realizar pedidos com compras contendo as seguintes informações: data,
+solicitante, centro de custo, tipo da compra (materiais ou serviços), valor estimado, data da necessidade, objeto,
+observação, cotação, itens a serem comprados e dotação orçamentária.
+7. Permitir emissão de relatório do pedido de compra.
+8. Possui níveis de autorização do SD: Autorização do secretário, autorização do setor orçamentário e
+financeiro.
+9. Permitir o cancelamento da SD.
+10. Permitir validação do saldo da dotação.
+11. Permitir alterar a fase em que se encontra a SD, caso esteja na fase de classificação orçamentária poder
+retornar para a fase inicial do processo.
+12. Permitir realizar requisição de fornecimento (OF) ao fornecedor.
+13. Permitir cancelar ou reabrir uma requisição de fornecimento.
+14. Emitir listagem de requisições realizadas filtrando por um determinado período.
+15. Emitir relatório de requisições por produto filtrando por um determinado período.
+16. Emitir relatório de requisições por solicitante filtrando por um determinado período.
+17. Emitir mapa comparativo dos processos diretos de compras.
+18. Emitir relatório de acompanhamento do processo de compra: Quantidade adquirida, requisitada, entregue e
+saldo.
+5. DA PROVA DE CONCEITO
+O pregoeiro exigirá da empresa que ofertou o menor preço, a PROVA DE CONCEITO, que consiste na
+comprovação detalhada das funcionalidades e qualidade sistêmica descritas no Termo de Referência como
+obrigatórias, por meio de demonstração dessas funções com ênfase no pleno atendimento ao decreto do SIAFIC
+10.540/2020, em até 01 (UM) dias úteis contados da data da convocação pela Comissão de Licitação, sob pena
+de perda do direito à contratação, sendo facultado à Administração convocar os licitantes remanescentes ou
+revogar a licitação.
+Durante a prova de conceito, deverá ser demonstrada também o atendimento à exigência contida no item
+anterior, em especial o funcionamento do sistema de gestão de atendimento online, com pleno acesso à
+CONTRATANTE, possibilitando registrar e acompanhar atendimentos a qualquer momento do dia.
+6. DECLARAÇÃO DE ATENDIMENTO AOS REQUISITOS DE HABILITAÇÃO
+A Licitante deverá declarar formalmente através do seu representante legal que atende aos requisitos de
+habilitação e exigências técnicas, previstos no Termo de Referência e Edital.
+
+--- [pag. PDF 15] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+O objetivo desta declaração é evitar a tentativa de licitantes em tumultuar ou frustrar a busca de melhor proposta
+pela Administração Pública, cuja declaração falsa implicará em infração prevista no art. 299 do Código Penal
+Brasileiro, além de ilícito administrativo sujeito às penalidades previstas neste Termo de Referência e Edital.
+A omissão ou inconformidade da proposta com o previsto no edital, assim como a desistência imotivada,
+quando do envio da documentação de habilitação ou posterior comprovação de atendimento aos
+requisitos técnicos poderá gerar instauração de processo para apurar a conduta da empresa, com base
+no art. 7º da lei nº 10.520/2002, ficando impedida de participar de outros processos licitatórios pelo prazo
+de até 05 (cinco) anos, sem prejuízo das multas previstas em edital e no contrato e das demais
+cominações legais.
+7. DO CUSTO ESTIMADO
+7.1. O custo total estimado pela administração é o custo que se estima a ser gasto ao decorrer do contrato. Esse
+custo total estimado é de R$), levando em consideração a cotação de menor valor, esse valor foi encontrado
+após ser realizada a cotação de preços de mercado, sendo orçadas três cotações. Sendo assim a pesquisa
+direta, conforme artigo 23, §1º, inciso IV, da Lei 14.133/2021. Foi verificado que o valor estar abaixo do
+permitido, sendo o permitido, atualizado, em compra direta, por dispensa de licitação, no valor de R$ 65.492,11
+(Sessenta e Cinco Mil, Quatrocentos e Noventa e Dois Reais e Onze Centavos) sendo assim o valor final está
+estar dentro do custo estimado.
+7.2. Os 03 (três) prestadores de serviços que nos enviaram os respectivos orçamentos são empresas do ramo
+de atividade pretendida e não há nada que desabone sua conduta moral.
+7.3. Conforme artigo 23, §1º, inciso IV, da Lei Federal 14.133, de 1º de abril de 2021 e Decreto Municipal.
+8. DETALHAMENTO DO SERVIÇO OU FORNECIMENTO
+8.1. A aquisição será prestada de forma parcelada, de acordo com as necessidades da Secretaria, mediante
+ordens de serviços.
+8.2. As aquisições serão de acordo com as descrições abaixo:
+ITEM DESCRIÇÃO QUANT V. UNIT V. TOTAL
+01
+SISTEMAS INTEGRADOS SIAFIC DE GESTÃO:
+1. SISTEMA INTEGRADO DE COMPRAS;
+2. SISTEMA INTEGRADO DE LICITAÇÕES;
+3. SISTEMA INTEGRADO DE CONTRATOS.
+12
+MESES R$ 1.633,00 R$ 19.596,00
+02
+1. PPA- PLANO PLURIANUAL
+2. LDO - LEI DE DIRETRIZES ORÇAMENTÁRIAS,
+3. CONTABILIDADE PÚBLICA
+4. LOA- LEI ORÇAMENTÁRIA ANUAL
+5. PORTAL DA TRANSPARÊNCIA PUBLICA.
+12
+MESES R$ 3.750,00 R$ 45.000,00
+VALOR TOTAL: R$ 64.596,00 (Sessenta e Quatro Mil, Quinhentos e Noventa e Seis Reais)
+9. DO PAGAMENTO
+9.1. O pagamento será efetuado pela Contratante ao Contratado, através de Ordem bancária de Pagamento, de
+titularidade da CONTRATADA, ficando está obrigada a emitir nota fiscal referente aos serviços prestados no
+período, no prazo de 30 (trinta) dias, contados do recebimento da Nota Fiscal/Fatura.
+9.2. Havendo erro na apresentação da Nota Fiscal/Fatura, ou circunstância que impeça a liquidação da
+despesa, o pagamento ficará sobrestado até que a Contratada providencie as medidas saneadoras. Nesta
+
+--- [pag. PDF 16] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+hipótese, o prazo para pagamento iniciar-se-á após a comprovação da regularização da situação, não
+acarretando qualquer ônus para a Contratante.
+9.3. Nenhum pagamento será efetuado ao CONTRATADO caso exista pendência quanto às Fazendas Federal,
+Estadual, Municipal, incluída a regularidade relativa à Seguridade Social e ao Fundo de Garantia por Tempo de
+Serviço (FGTS) e trabalhista.
+9.4. Quando a prestação de serviços não for completa, desde que não gere prejuízos ao Município, sendo
+prestados os serviços em parte do que foi solicitado na ordem de serviço, poderá ser efetuado o pagamento
+proporcional aos serviços que foram prestados.
+9.5. Qualquer atraso acarretado por parte da CONTRATADA na apresentação da fatura ou nota fiscal, ou dos
+documentos exigidos como condição para pagamento, importará na interrupção da contagem do prazo de
+vencimento do pagamento, iniciando novo prazo após a regularização da situação.
+9.6. Nos casos de eventuais atrasos de pagamento, desde que a CONTRATADA não tenha concorrido de
+alguma forma para tanto, fica convencionada a taxa de atualização financeira devida pelo CONTRATANTE,
+mediante a aplicação da seguinte fórmula:
+EM = I X N X VP, SENDO:
+I = (TX/100), ASSIM APURADO: I = (6/100) I = 0,00016438
+365 365
+EM QUE:
+I = ÍNDICE DE ATUALIZAÇÃO FINANCEIRA;
+TX = PERCENTUAL DA TAXA DE JUROS DE MORA ANUAL = 6%;
+EM = ENCARGOS MORATÓRIOS;
+N = NÚMERO DE DIAS ENTRE A DATA PREVISTA PARA O PAGAMENTO E A DO EFETIVO PAGAMENTO;
+VP = VALOR DA PARCELA EM ATRASO.
+9.6.1. A fatura poderá sofrer glosas, conforme o disposto no Instrumento de Medição de Resultado (IMR), se for
+o caso, referentes ao mês de competência da prestação de serviços ou de meses anteriores.
+10. DO REAJUSTE
+10.1. A periodicidade de reajuste do valor deste contrato será anual, conforme disposto na Lei Federal n.º
+10.192/2001, utilizando-se o índice IPCA (Índice de Preço ao Consumidor Amplo) acumulado dos últimos 12
+meses.
+10.2. A data-base do reajuste será vinculada à data do orçamento estimado.
+10.3. O reajuste será concedido mediante simples apostila, conforme dispõe o artigo 136 da Lei Federal nº
+14.133/21.
+10.4. Os Com fulcro artigo 136, da Lei 14.133/2021, os registros que não caracterizam alteração do contrato
+podem ser realizados por simples apostila, dispensada a celebração de termo aditivo, como nas seguintes
+situações:
+I. Variação do valor contratual para fazer face ao reajuste ou à repactuação de preços previstos
+no próprio contrato;
+II. Atualizações, compensações ou penalizações financeiras decorrentes das condições de
+pagamento previstas no contrato;
+III. Alterações na razão ou na denominação social do contratado;
+IV. Empenho de dotações orçamentárias.
+10.5. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir do último
+reajuste.
+10.6. Não serão admitidos Apostilamentos com efeitos financeiros retroativos à data da sua assinatura.
+10.7. A concessão de reajustes não pagos na época oportuna será apurada por procedimento próprio.
+
+--- [pag. PDF 17] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+10.8. No que tange aos pedidos de repactuação, revisão de contrato e reequilíbrio econômico- financeiro, serão
+observados o disposto na Lei 14.133/21
+11. ESCOLHA DO FORNECEDOR
+11.1. O fornecedor será selecionado por meio da realização de procedimento de LICITAÇÃO, sob a forma
+PRESENCIAL, com adoção do critério de julgamento pelo MENOR PREÇO.
+11.2. A escolha do fornecedor, será em razão do menor preço apresentado, devendo o mesmo apresentar toda a
+documentação de habilitação, conforme exigência desse termo de referência, não apresentando a
+documentação, será convocado os remanescentes.
+11.3. O fornecedor deverá enviar a proposta e documentação por e-mail: dispensaanguera@gmail.com, ou
+protocolar na sede da Prefeitura Municipal de Anguera/BA, na Praça Arthur Vieira, s/nº, Bairro Centro, no horário
+das 08h00min às 12h00min e das 14h:00min até 18h:00min, de segunda-feira a sexta-feira. O prazo de 03 (três)
+dias úteis deverá ser obedecido, sendo assim após a publicação no Diário Oficial do Município e no Portal
+Nacional de Contratações Públicas (PNCP), deverá ser contado os 03 (três) dias úteis.
+11.4. A prestação dos serviços não gera vínculo empregatício entre os empregados da Contratada e a
+Administração Contratante, vedando-se qualquer relação entre estes que caracterize pessoalidade e
+subordinação direta.
+12. AMPARO LEGAL
+12.1. A aquisição do objeto, pode ser efetuado mediante compra direta, através de dispensa de licitação.
+Podendo ser utilizada a nova lei de licitação, cuja qual já se encontra em vigor, desde a sua publicação.
+12.2. Seu amparo legal, se dá, conforme artigo 75, inciso II, da Lei Federal 14.133, de 1º de abril de 2021 e
+Decreto Municipal.
+13. DA FORMALIZAÇÃO E VIGÊNCIA DO CONTRATO
+13.1. Para a execução do objeto será formalizado o contrato, cuja minuta acompanha este termo de referência,
+em anexo, o edital, estabelecendo em suas cláusulas todas as condições, obrigações e responsabilidades entre
+as partes, em conformidade com este Termo, o edital e a Proposta de Preços da empresa vencedora.
+13.2. O prazo de validade do contrato será até 22/09/2027, com início na data de sua assinatura.
+14. OBRIGAÇÕES DO CONTRATANTE
+14.1. Exigir o cumprimento de todas as obrigações assumidas pela Contratada, de acordo com as cláusulas
+contratuais e os termos de sua proposta
+14.2. Exercer o acompanhamento e a fiscalização dos serviços, por servidor ou comissão especialmente
+designados, anotando em registro próprio as falhas detectadas, indicando dia, mês e ano, bem como o nome
+dos empregados eventualmente envolvidos, e encaminhando os apontamentos à autoridade competente para as
+providências cabíveis;
+14.3. Notificar a Contratada por escrito da ocorrência de eventuais imperfeições, falhas ou irregularidades
+constatadas no curso da execução dos serviços, fixando prazo para a sua correção, certificando-se que as
+soluções por ela propostas sejam as mais adequadas;
+14.4. Pagar à Contratada o valor resultante da prestação do serviço, no prazo e condições estabelecidas neste
+Termo de Referência;
+14.5. Não praticar atos de ingerência na administração da Contratada;
+14.6. Fornecer por escrito as informações necessárias para o desenvolvimento dos serviços objeto do contrato.
+
+--- [pag. PDF 18] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+14.7. Cientificar o órgão de representação judicial da Procuradoria-Geral do Município para adoção das medidas
+cabíveis quando do descumprimento das obrigações pela Contratada.
+14.8. Assegurar que o ambiente de trabalho, inclusive seus equipamentos e instalações, apresentem condições
+adequadas ao cumprimento, pela contratada, das normas de segurança e saúde no trabalho, quando o serviço
+for executado em suas dependências, ou em local por ela designado.
+15. OBRIGAÇÕES DA CONTRATADA
+15.1. Executar os serviços conforme especificações deste Termo de Referência e de sua proposta, com a
+alocação dos empregados necessários ao perfeito cumprimento das cláusulas contratuais, além de fornecer e
+utilizar os materiais e equipamentos, ferramentas e utensílios necessários, na qualidade e quantidade mínimas
+especificadas neste Termo de Referência e em sua proposta;
+15.2. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em parte, no prazo fixado pelo fiscal
+do contrato, os serviços efetuados em que se verificarem vícios, defeitos ou incorreções resultantes da execução
+ou dos materiais empregados;
+15.3. Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, bem como por todo e
+qualquer dano causado à Administração, devendo ressarcir imediatamente a Administração em sua
+integralidade, ficando a Contratante autorizada a descontar da garantia, caso exigida no edital, ou dos
+pagamentos devidos à Contratada, o valor correspondente aos danos sofridos;
+15.4. Utilizar equipe de trabalho habilitada e com conhecimentos dos serviços a serem executados, em
+conformidade com as normas e determinações em vigor sujeitos às respectivas responsabilidades técnicas. A
+equipe deve ter pelo menos um membro com a qualificação técnico profissional exigida no edital de dispensa
+eletrônica.
+15.5. Comunicar ao Fiscal do contrato, no prazo de 24 (vinte e quatro) horas, qualquer ocorrência anormal ou
+acidente que se verifique no local dos serviços.
+15.6. Prestar todo esclarecimento ou informação solicitada pela Contratante ou por seus prepostos, garantindo-
+lhes o acesso, a qualquer tempo, ao local dos trabalhos, bem como aos documentos relativos à execução do
+empreendimento.
+15.7. Paralisar, por determinação da Contratante, qualquer atividade que não esteja sendo executada de acordo
+com a boa técnica ou que ponha em risco a segurança de pessoas ou bens de terceiros.
+15.8. Promover a organização técnica e administrativa dos serviços, de modo a conduzi-los eficaz e
+eficientemente, de acordo com os documentos e especificações que integram este Termo de Referência, no
+prazo determinado.
+15.9. Conduzir os trabalhos com estrita observância às normas da legislação pertinente, cumprindo as
+determinações dos Poderes Públicos, mantendo sempre limpo o local dos serviços e nas melhores condições de
+segurança, higiene e disciplina.
+15.10. Submeter previamente, por escrito, à Contratante, para análise e aprovação, quaisquer mudanças nos
+métodos executivos que fujam às especificações do memorial descritivo.
+15.11. Não permitir a utilização de qualquer trabalho do menor de dezesseis anos, exceto na condição de
+aprendiz para os maiores de quatorze anos; nem permitir a utilização do trabalho do menor de dezoito anos em
+trabalho noturno, perigoso ou insalubre;
+15.12. Manter durante toda a vigência do contrato, em compatibilidade com as obrigações assumidas, todas as
+condições de habilitação e qualificação exigidas na licitação.
+15.13. Guardar sigilo sobre todas as informações obtidas em decorrência do cumprimento do contrato.
+15.14. Cumprir, além dos postulados legais vigentes de âmbito federal, estadual ou municipal, as normas de
+segurança da Contratante.
+
+--- [pag. PDF 19] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+15.15. O levantamento das quantidades de materiais e dos serviços para elaboração do orçamento é de inteira
+responsabilidade da CONTRATADA, que deverá conferir todos os quantitativos indicados nos desenhos e
+demais documentos.
+15.16. Compete a CONTRATADA realizar meticuloso estudo, verificação e comparação de toda a
+documentação apresentada, detalhes, especificações e demais componentes fornecidos pela CONTRATANTE
+para execução da obra.
+15.17. Prestar os serviços dentro dos parâmetros e rotinas estabelecidos, fornecendo todos os materiais,
+equipamentos e utensílios em quantidade, qualidade e tecnologia adequadas, com a observância às
+recomendações aceitas pela boa técnica, normas e legislação;
+15.18. Arcar com as despesas de motorista, manutenção, seguro, entre outros.
+16. DA SUBCONTRATAÇÃO
+16.1. Será admitida a subcontratação do objeto licitatório, parcial em total, desde que aceito pela a
+Administração.
+17. DOCUMENTOS DE HABILITAÇÃO
+17.1. A empresa deverá cumprir com sua documentação de habilitação, para se tornar a fornecedora, devendo
+conter os seguintes documentos:
+17.1.1. HABILITAÇÃO JURÍDICA:
+17.1.1.1.Documento que comprove a abertura da empresa, regido por um dos seguintes documentos:
+a) Registro empresarial na Junta Comercial, no caso de empresário individual (ou cédula de identidade
+em se tratando de pessoa física não empresária);
+b) Ato constitutivo, estatuto ou contrato social em vigor, inclusive a última alteração contratual,
+atualizado e registrado na Junta Comercial, em se tratando de sociedade empresária;
+c) Documentos de eleição ou designação dos atuais administradores, tratando-se de sociedades
+empresárias.
+d) Ato constitutivo atualizado e registrado no Registro Civil de Pessoas Jurídicas tratando-se de
+sociedade não empresária, acompanhado de prova da diretoria em exercício;
+e) Decreto de autorização em se tratando de sociedade empresária estrangeira em funcionamento no
+País, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a
+atividade assim o exigir.
+17.1.1.2. RG e CPF, de todos os sócios apresentados no contrato social em se tratando de sociedade, ou do
+empresário em se tratando de empresa individual, com firma reconhecida ou documento autenticado.
+17.1.2. REGULARIZAÇÃO FISCAL E TRABALHISTA:
+a) Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda
+(CNPJ) ou no Cadastro de Pessoas Físicas (CPF), no máximo com 30 (trinta) dias anterior ao
+dia do certame;
+b) Certidão Conjunta Negativa de Débitos ou Positiva com efeitos de Negativa, relativa a
+tributos federais e dívida ativa da União.
+c) Prova de regularidade para com a Fazenda Estadual;
+d) Prova de regularidade Municipal do domicílio ou sede do licitante;
+e) Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviço (FGTS),
+mediante a apresentação do Certificado de Regularidade do FTGS/CRF;
+f) Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a
+apresentação da Certidão Negativa de Débitos Trabalhistas - CNDT, nos termos do Título VII-A
+da Consolidação das Leis do Trabalho, aprovada pelo Decreto Lei nº 5.452, de 1º de maio de
+1943, redação dada pela Lei Federal nº 12.440 de 07 de julho de 2011.
+
+--- [pag. PDF 20] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+17.1.3. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA:
+17.1.4. Certidão negativa de falência ou concordata expedida pelo distribuidor da sede da Pessoa Jurídica, com
+data de no máximo 30 (trinta) dias, da data da sessão;
+17.1.5. QUALIFICAÇÃO TÉCNICA:
+17.1.5.1. Comprovação de aptidão para desempenho de atividade através de atestado de capacidade técnica-
+operacional, em nome da licitante.
+17.1.5.2. Alvará de Licença, Localização e Funcionamento, expedido pelo Município em que a empresa for
+sediada, devidamente atualizado
+17.1.6. DECLARAÇÕES
+17.1.6.1.Apresenta pleno atendimento aos requisitos de habilitação (ANEXO III);
+17.1.6.2.Declaração de que não possui no quadro funcional menores de 18 (dezoito) anos em trabalho noturno,
+perigoso ou insalubre, e menores de 16 (dezesseis) anos em qualquer trabalho, salvo na condição de aprendiz,
+a partir de 14 (quatorze) anos, conforme modelo do ANEXO IV;
+18. VALIDADE DA PROPOSTA
+18.1. A validade da proposta deverá ser de no mínimo 60 (sessenta) dias, conforme Decreto Municipal.
+19. FISCALIZAÇÃO E GERENCIAMENTO
+19.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as
+normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou
+parcial (Lei nº 14.133/2021, art. 115, caput).
+19.2. O descumprimento total ou parcial das obrigações e responsabilidades assumidas pela Contratada
+ensejará a aplicação de sanções administrativas, previstas neste Termo de Referência e na legislação vigente,
+podendo culminar em rescisão contratual, conforme disposto nos artigo artigos. 104 e 156 da Lei 14.133/2021.
+19.3. As atividades de gestão e fiscalização da execução contratual devem ser realizadas de forma preventiva,
+rotineira e sistemática, podendo ser exercidas por servidores, equipe de fiscalização ou único servidor, desde
+que, no exercício dessas atribuições, fique assegurada a distinção dessas atividades e, em razão do volume de
+trabalho, não comprometa o desempenho de todas as ações relacionadas à Gestão do Contrato.
+19.4. Durante a execução do objeto, o fiscal deverá monitorar constantemente o nível de qualidade dos serviços
+para evitar a sua degeneração, devendo intervir para requerer à CONTRATADA a correção das faltas, falhas e
+irregularidades constatadas
+19.5. O fiscal deverá apresentar ao preposto da CONTRATADA a avaliação da execução do objeto ou, se for o
+caso, a avaliação de desempenho e qualidade da prestação dos serviços realizada.
+19.6. Em hipótese alguma, será admitido que a própria CONTRATADA materialize a avaliação de desempenho
+e qualidade da prestação dos serviços realizada.
+19.7. O fiscal poderá realizar avaliação diária, semanal ou mensal, desde que o período escolhido seja suficiente
+para avaliar ou, se for o caso, aferir o desempenho e qualidade da prestação dos serviços.
+19.8. A Gestão de Contratos Administrativos ficará sob a responsabilidade da servidora Arilma Ferreira Brito,
+conforme designação prevista na Portaria nº 036/2025, de 26 de agosto de 2025.
+19.9. A Fiscalização de Contratos Administrativos ficará sob a responsabilidade do servidor Fabrício Dias
+Pereira, conforme designação constante na Portaria nº 035/2025, de 26 de agosto de 2025.
+20. SANÇÕES
+20.1. Conforme artigos 155, 156, da Lei Federal 14.133, de 1º de abril de 2021.
+Art. 155. O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações:
+I - dar causa à inexecução parcial do contrato;
+
+--- [pag. PDF 21] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+II - dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao
+funcionamento dos serviços públicos ou ao interesse coletivo;
+III - dar causa à inexecução total do contrato;
+IV - deixar de entregar a documentação exigida para o certame;
+V - não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado;
+VI - não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando
+convocado dentro do prazo de validade de sua proposta;
+VII - ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado;
+VIII - apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração
+falsa durante a licitação ou a execução do contrato;
+IX - fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+X - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+XI - praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+XII - praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+Art. 156. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes
+sanções:
+I - advertência;
+II - multa;
+III - impedimento de licitar e contratar;
+IV - declaração de inidoneidade para licitar ou contratar.
+§ 1º Na aplicação das sanções serão considerados:
+I - a natureza e a gravidade da infração cometida;
+II - as peculiaridades do caso concreto;
+III - as circunstâncias agravantes ou atenuantes;
+IV - os danos que dela provierem para a Administração Pública;
+V - a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+orientações dos órgãos de controle.
+§ 2º A sanção prevista no inciso I do caput deste artigo será aplicada exclusivamente pela infração administrativa
+prevista no inciso I do caput do art. 155 desta Lei, quando não se justificar a imposição de penalidade mais
+grave.
+§ 3º A sanção prevista no inciso II do caput deste artigo, calculada na forma do edital ou do contrato, não poderá
+ser inferior a 0,5% (cinco décimos por cento) nem superior a 30% (trinta por cento) do valor do contrato licitado
+ou celebrado com contratação direta e será aplicada ao responsável por qualquer das infrações administrativas
+previstas no art. 155 desta Lei.
+§ 4º A sanção prevista no inciso III do caput deste artigo será aplicada ao responsável pelas infrações
+administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do art. 155 desta Lei, quando não se justificar
+a imposição de penalidade mais grave, e impedirá o responsável de licitar ou contratar no âmbito da
+Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de 3
+(três) anos.
+§ 5º A sanção prevista no inciso IV do caput deste artigo será aplicada ao responsável pelas infrações
+administrativas previstas nos incisos VIII, IX, X, XI e XII do caput do art. 155 desta Lei, bem como pelas infrações
+administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do referido artigo que justifiquem a imposição
+de penalidade mais grave que a sanção referida no § 4º deste artigo, e impedirá o responsável de licitar ou
+contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo
+de 3 (três) anos e máximo de 6 (seis) anos.
+§ 6º A sanção estabelecida no inciso IV do caput deste artigo será precedida de análise jurídica e observará as
+seguintes regras:
+
+--- [pag. PDF 22] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+I - quando aplicada por órgão do Poder Executivo, será de competência exclusiva de ministro
+de Estado, de secretário estadual ou de secretário municipal e, quando aplicada por autarquia
+ou fundação, será de competência exclusiva da autoridade máxima da entidade;
+II - quando aplicada por órgãos dos Poderes Legislativo e Judiciário, pelo Ministério Público e
+pela Defensoria Pública no desempenho da função administrativa, será de competência
+exclusiva de autoridade de nível hierárquico equivalente às autoridades referidas no inciso I
+deste parágrafo, na forma de regulamento.
+§ 7º As sanções previstas nos incisos I, III e IV do caput deste artigo poderão ser aplicadas cumulativamente
+com a prevista no inciso II do caput deste artigo.
+§ 8º Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente
+devido pela Administração ao contratado, além da perda desse valor, a diferença será descontada da garantia
+prestada ou será cobrada judicialmente.
+§ 9º A aplicação das sanções previstas no caput deste artigo não exclui, em hipótese alguma, a obrigação de
+reparação integral do dano causado à Administração Pública.
+20.2. No que se refere as multas, que poderão ser recolhidas em qualquer agência integrante da Rede
+Arrecadadora de Receitas Federais, por meio de Documento de Arrecadação Municipal - DAM, a ser preenchido
+de acordo com instruções fornecidas pela Contratante, serão as seguintes:
+a) Multa de 1,0% (um por cento) ao dia, até o trigésimo dia de atraso, sobre o valor da parte
+do objeto não entregue;
+b) Multa de 2,0% (dois por cento) sobre o valor da parte do objeto não entregue por cada dia
+subsequente ao trigésimo;
+c) De 5% (cinco por cento) sobre o valor contratual por infração a qualquer cláusula ou
+condição do contrato, não especificada nas demais alíneas deste inciso, aplicada em dobro na
+reincidência;
+d) De 10% (dez por cento) do valor contratual, pela recusa em refazer qualquer serviço,
+caracterizando-se a recusa caso a correção não se efetivar nas 24 (vinte e quatro) horas que
+se seguirem à hora da comunicação formal da rejeição.
+20.3. No processo de aplicação de penalidades é assegurado o direito ao contraditório e à ampla defesa,
+garantida nos prazos de 05 (cinco) dias úteis para as sanções previstas.
+20.4. O valor da multa aplicada deverá ser recolhido ao Tesouro Municipal no prazo de 05 (cinco) dias a contar
+da notificação ou decisão do recurso. Se o valor da multa não for pago, ou depositado, será automaticamente
+descontado do pagamento a que a Contratada fazer jus.
+21. DA EXTINÇÃO DO CONTRATO
+21.1. A extinção contratual está prevista no capitulo VIII, da Lei 14.133/2021
+21.2. Este Contrato poderá ser extinto unilateralmente pela Contratante, por conveniência administrativa ou por
+infringência de qualquer das condições pactuadas;
+21.3. O não cumprimento das disposições especificadas neste Contrato implicará automaticamente na quebra
+de Contrato, ensejando a extinção administrativa prevista no art. 137 da Lei Federal nº 14.133/2021,
+reconhecidos desde já os direitos da Administração, com relação às normas contratuais e as previstas em Lei ou
+Regulamento dispostas no presente instrumento;
+21.4. O presente Contrato é extinto, ainda, independentemente de qualquer interpelação Judicial ou
+Extrajudicial, nos casos de:
+21.4.1. Omissão de pagamento pela Contratante;
+21.4.2. Inadimplência de qualquer de suas cláusulas por qualquer uma das partes
+21.4.3. Acerto em comum acordo por iniciativa de uma das partes, mediante aviso por escrito com a
+antecedência definida no subitem anterior
+21.5. No procedimento que visa à rescisão do contrato, será assegurado o contraditório e a ampla defesa, sendo
+que, depois de encerrada a instrução inicial, o CONTRATADO terá o prazo de 5 (cinco) dias úteis para se
+
+--- [pag. PDF 23] ---
+ESTADO DA BAHIA
+MUNICÍPIO DE ANGUERA
+Prefeitura Municipal
+Secretaria Municipal de Governo, Administração e Planejamento
+Praça Arthur Vieira, S/N, Centro, Anguera - Ba, CEP.: 44.670-000
+CNPJ: 13.607.346/0001-02 Telefone: (75) 3239-6502 E-mail: dispensaanguera@gmail.com
+manifestar e produzir provas, sem prejuízo da possibilidade de o CONTRATANTE adotar, motivadamente,
+providências acauteladoras.
+21.6. O Contrato extinguir-se-á pela implementação do seu termo final, com o integral cumprimento das
+obrigações nele estipuladas, e, poderá ser rescindido, pelo descumprimento de qualquer cláusula ou obrigações
+pactuadas, e especialmente pela ocorrência das hipóteses previstas nos 137 e 138 da lei Federal N°
+14.133/2021, cujos dispositivos a Contratada declara conhecer, submetendo-se irrestritamente, a todas as
+determinações estabelecidas.
+22. DA DOTAÇÃO ORÇAMENTÁRIA
+22.1. As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados
+no Quadro de Detalhamento de Despesa (QDD), mediante a seguinte dotação:
+Anguera – Bahia, 08 de setembro de 2026
+JOSÉ BISPO FILHO
+Secretaria Municipal de Governo, Administração e Planejamento
+UNIDADE: 02.03.000 - SECRETARIA MUNICIPAL DE GOVERNO, ADMINISTRAÇÃO E PLANEJAMENTO.
+PROJETO DE ATIVIDADE: 2008 – MANUTENÇÃO DAS AÇÕES DA SECRETARIA MUNICIPAL DE
+GOVERNO, ADMINISTRAÇÃO E PLANEJAMENTO.
+2025 - ATOS DE PUBLICIDADES E PROPAGANDAS INSTITUCIONAIS.
+ELEMENTO DE DESPESA: 3.3.9.0.39.00 – OUTROS SERVIÇOS TERCEIROS - PESSOA JURIDICA.
+FONTE DOS RECURSOS: 1500 - RECURSOS NÃO VINCULADOS DE IMPOSTOS.

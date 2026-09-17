@@ -1,0 +1,2805 @@
+=== DOCUMENTO 29: Instrumento_3_do_Apendice_5_-_Checklist_de_Conformidade_do_Notebook.pdf ===
+tipo: Outros Documentos | páginas: 41 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/29
+
+--- [pag. PDF 1] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 1 de 41
+INSTRUMENTO 3 DO APÊNDICE 5 – CHECKLIST DE CONFORMIDADE DO NOTEBOOK
+1 - IDENTIFICAÇÃO DA VERIFICAÇÃO
+1.1 - Processo administrativo nº: ________________________________________________
+1.2 - Contrato, ata ou instrumento equivalente nº: _________________________________
+1.3 - Contratada: _______________________________________________________________
+1.4 - Fabricante, modelo e configuração: __________________________________________
+1.5 - Número de série, patrimônio ou lote: _________________________________________
+1.6 - Unidade e local da verificação: ______________________________________________
+1.7 - Data e horário: ____/____/________, das ______ às ______ horas.
+1.8 - Responsáveis pela verificação: ______________________________________________
+1.9 - Aplicação à renovação tecnológica: ☐ Não aplicável ☐ Piloto ☐ Onda nº ______ ☐ Aceite técnico inicial ☐ Aceite definitivo
+1.10 - Equipamento anterior - fabricante/modelo/série: ____________________________________________________________________
+1.11 - Equipamento substituto - fabricante/modelo/série: _________________________________________________________________
+1.12 - Matriz técnica aprovada em: ____/____/________ Imagem/versão/hash: _______________________________________________
+1.13 - Migração autorizada: ☐ Não aplicável ☐ Concluída Testes: ☐ Conformes Estabilização até: ____/____/________ Nova linha de base: ☐ Registrada
+1.14 - Inventário atualizado: ☐ Sim Retirada/cadeia de custódia: ☐ Registrada Sanitização: ☐ Certificada Data de inclusão no IRA: ____/____/________
+2 - INSTRUÇÕES DE PREENCHIMENTO
+2.1 - Este instrumento integra o Apêndice 5 e deverá ser utilizado em conjunto com o Termo de Referência e com o Apêndice 1, especialmente a seção 5.5 e
+suas subseções. O critério resumido da tabela não substitui o requisito técnico integral.
+2.2 - A conformidade será indicada somente quando o equipamento atender integralmente ao requisito detalhado e a forma de comprovação apresentar
+correspondência inequívoca com fabricante, modelo, configuração e unidade ou lote verificado.
+2.3 - A diligência poderá esclarecer ou confirmar informação preexistente, sem admitir troca do modelo, criação posterior de característica material ou redução da
+exigência.
+2.4 - Cada desconformidade deverá registrar requisito, evidência, impacto, providência, responsável e prazo de saneamento, sem prejuízo da rejeição quando o
+desvio afetar requisito obrigatório.
+3 - CHECKLIST DE CONFORMIDADE
+3.1 - Cada linha deverá receber uma única conclusão. A opção Diligência não equivale à conformidade e deverá permanecer vinculada à evidência e ao prazo de
+conclusão.
+
+--- [pag. PDF 2] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 2 de 41
+3.2 - Regra transversal de registro da evidência: nas consultas a portais eletrônicos de conteúdo dinâmico, a verificação deverá registrar data e hora, URL, país
+ou mercado aplicável, fabricante, modelo, família e configuração e, quando pertinente, potência, versão, categoria e prazo de validade. A evidência deverá
+ser preservada nos autos em PDF ou captura integral que identifique a fonte e permita reproduzir o estado do cadastro na data relevante. Campo não
+disponibilizado pelo próprio portal será registrado como não aplicável, sem prejuízo da identificação inequívoca do produto e do requisito.
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos gerais 1.1 - Equipamento novo
+Sem uso prévio; não recondicionado, remanufaturado ou
+de mostruário; caixa ou embalagem original e respectivo
+lacre íntegros, sem sinais de violação.
+Inspeção visual do equipamento, da caixa ou
+embalagem e do lacre; conferência de etiqueta,
+número de série e condição física.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos gerais 1.2 - Identificação
+Marca, modelo, configuração e número de série
+correspondentes à proposta, ao inventário e à unidade
+ou lote.
+Etiqueta, documentação, inventário e consulta
+oficial quando disponível.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Processador 2.1 - Apêndice 1, 5.5.1.1
+O processador deverá ser desenvolvido para plataforma
+móvel, não sendo aceito processador destinado a
+desktop ou servidor adaptado ao notebook.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 3] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 3 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Processador 2.2 - Apêndice 1, 5.5.1.2
+O processador deverá possuir arquitetura x86-64,
+suportar processamento multithread e ser oficialmente
+compatível com o equipamento e com o Microsoft
+Windows 11 Professional de 64 bits.
+Documentação oficial do processador e do modelo
+ofertado; identificação do processador no
+BIOS/UEFI e no sistema operacional; teste de
+processamento multithread; e comprovação da
+compatibilidade oficial com o Windows 11
+Professional de 64 bits.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Processador 2.3 - Apêndice 1, 5.5.1.3
+O sistema de dissipação térmica deverá integrar o
+projeto original ou ser oficialmente homologado para o
+modelo, possuir controle automático e manter o
+processador dentro das faixas térmicas do fabricante
+durante operação contínua de até 10 horas diárias, sem
+adaptações ou redução de desempenho que viole os
+requisitos contratados.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Processador 2.4 - Apêndice 1, 5.5.1.4
+O processador deverá alcançar índice mínimo de 14.700
+pontos no PassMark CPU Mark, sem overclock ou ajuste
+fora das condições homologadas pelo fabricante, tendo
+como referência http://www.cpubenchmark.net. A
+Administração registrará o modelo exato, a URL, a data e
+o horário da consulta; modelos comparados na mesma
+rodada serão consultados na mesma data. Turbo ou
+boost automático dentro dos limites oficiais não
+caracteriza overclock. Benchmark público alternativo
+somente será aceito mediante memória técnica
+reproduzível que demonstre equivalência ou
+superioridade.
+Consulta pública registrada, documentação oficial
+e identificação do modelo exato.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 4] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 4 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Processador 2.5 - Apêndice 1, 5.5.1.5
+O processador deverá possuir, no mínimo, 12 MB de
+memória cache total, considerada a soma das caches L2
+e L3 informadas oficialmente, excluída a cache L1 e
+vedada a contagem repetida de cache compartilhada.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Processador
+2.6 - Linha ativa, ciclo de
+vida e suporte oficial do
+processador (Apêndice 1,
+5.5.1.6)
+Plataforma móvel corporativa em linha de fabricação e
+comercialização, não formalmente descontinuada, com
+documentação e suporte oficial de BIOS/UEFI, firmware,
+drivers, microcódigo e correções de segurança. A data
+de lançamento não constitui critério eliminatório.
+Página oficial do processador e do equipamento,
+portal oficial de suporte, documentação de
+produto, aviso de ciclo de vida ou declaração
+oficial do fabricante.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Memória RAM
+2.7 - Memória do notebook
+- rota modular ou integrada
+- item 5.5.2.1 (Apêndice 1,
+5.5.2.1)
+O notebook deverá ser fornecido em uma das seguintes
+configurações de memória, não cumulativas: I -
+configuração modular: mínimo de 16 GB de memória
+RAM DDR5, instalados em um módulo de 16 GB,
+observados os requisitos de slots, velocidade e
+expansão dos subitens seguintes; ou II - configuração
+integrada: mínimo de 32 GB de memória LPDDR5,
+LPDDR5x ou tecnologia posterior, instalados de fábrica,
+operando em arquitetura de múltiplos canais oficialmente
+suportada pelo fabricante.
+Documentação oficial da configuração,
+identificação no sistema operacional e BIOS/UEFI
+quando aplicável, inspeção física na rota modular,
+código comercial ou BOM e declaração oficial do
+fabricante quando necessária.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 5] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 5 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Memória RAM
+2.8 - Memória do notebook
+- rota modular ou integrada
+- item 5.5.2.2 (Apêndice 1,
+5.5.2.2)
+Na configuração modular, a plataforma deverá possuir,
+no mínimo, dois slots físicos SO-DIMM DDR5
+oficialmente suportados, permanecendo pelo menos um
+slot livre na configuração entregue. Não serão aceitos
+adaptadores para atingir a quantidade mínima. Na
+configuração integrada prevista no inciso II do item
+5.5.2.1, não será exigida a existência de slot físico.
+Documentação oficial da configuração,
+identificação no sistema operacional e BIOS/UEFI
+quando aplicável, inspeção física na rota modular,
+código comercial ou BOM e declaração oficial do
+fabricante quando necessária.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Memória RAM
+2.9 - Memória do notebook
+- rota modular ou integrada
+- item 5.5.2.3 (Apêndice 1,
+5.5.2.3)
+Na configuração modular, a memória instalada deverá
+operar a 4.800 MT/s ou velocidade superior. Na
+configuração integrada, a memória deverá possuir taxa
+efetiva oficialmente suportada igual ou superior a 4.800
+MT/s. Em ambas as rotas, não serão admitidos overclock
+ou configuração fora dos limites homologados pelo
+fabricante.
+Documentação oficial da configuração,
+identificação no sistema operacional e BIOS/UEFI
+quando aplicável, inspeção física na rota modular,
+código comercial ou BOM e declaração oficial do
+fabricante quando necessária.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Memória RAM
+2.10 - Memória do
+notebook - rota modular ou
+integrada - item 5.5.2.4
+(Apêndice 1, 5.5.2.4)
+A configuração modular deverá permitir expansão total
+para, no mínimo, 32 GB mediante adição de módulo
+compatível no slot livre, sem substituição do módulo
+inicialmente fornecido, e deverá ativar operação em dual
+channel quando instalados módulos compatíveis. A
+configuração integrada estará dispensada de expansão
+posterior e de slot físico por ser entregue, desde a
+origem, com no mínimo 32 GB e arquitetura de múltiplos
+canais.
+Documentação oficial da configuração,
+identificação no sistema operacional e BIOS/UEFI
+quando aplicável, inspeção física na rota modular,
+código comercial ou BOM e declaração oficial do
+fabricante quando necessária.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 6] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 6 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.11 - Apêndice 1, 5.5.3.1
+A placa principal deverá integrar o projeto original do
+modelo ofertado e ser fabricada, fornecida ou
+oficialmente homologada pelo fabricante responsável
+pelo equipamento, BIOS/UEFI, garantia e suporte. Serão
+admitidos projetos próprios ou fabricação OEM/ODM
+documentada. Não serão aceitas placas de varejo
+adaptadas, genéricas, remarcadas pela licitante ou sem
+rastreabilidade técnica.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.12 - Apêndice 1, 5.5.3.2
+Atualizações, correções de segurança e avisos do
+BIOS/UEFI deverão estar disponíveis em portal oficial,
+com identificação do modelo, versão, data, notas de
+versão e mecanismo de verificação de autenticidade e
+integridade. A aplicação pela contratada dependerá de
+autorização e programação da Administração.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.13 - Apêndice 1, 5.5.3.3
+O BIOS/UEFI deverá permitir credenciais independentes
+para inicialização e para acesso administrativo às
+configurações, com definição, alteração, recuperação e
+restauração controladas. Não serão aceitas credenciais
+administrativas imutáveis ou mantidas no padrão de
+fábrica.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 7] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 7 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.14 - Apêndice 1, 5.5.3.4
+Deverão ser registrados e consultáveis por
+SMBIOS/DMI, ou mecanismo equivalente, fabricante
+responsável, modelo exato, número de série único, UUID
+e campo de patrimônio, em correspondência com a
+identificação física e preservados após reinstalação do
+sistema operacional.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.15 - Apêndice 1, 5.5.3.5
+O inventário de placa principal, processador, memória,
+armazenamento, interfaces de rede e firmware deverá
+permanecer em repositório persistente e ser consultável
+localmente e pela solução de gerenciamento remoto,
+inclusive quando o sistema operacional estiver
+indisponível.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.16 - Apêndice 1, 5.5.3.6
+O equipamento deverá possuir TPM 2.0 habilitado e
+reconhecido pelo sistema operacional, implementado em
+hardware por componente discreto soldado à placa
+principal ou integrado ao chipset ou SoC. Não serão
+aceitas implementações exclusivamente por firmware,
+módulos removíveis, dispositivos externos ou
+adaptadores.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 8] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 8 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.17 - Apêndice 1, 5.5.3.7
+O equipamento deverá utilizar UEFI em modo nativo,
+compatível com Windows 11 Professional, Secure Boot e
+firmware assinado, homologado e suportado pelo
+fabricante. Não será exigido desenvolvimento exclusivo
+do código-base nem categoria específica de filiação ao
+UEFI Forum.
+Documentação oficial do modelo, do BIOS/UEFI e
+do firmware; inspeção das configurações do
+BIOS/UEFI; comprovação de UEFI em modo
+nativo, Secure Boot habilitado e firmware assinado
+e suportado; e teste de inicialização nativa do
+Windows 11 Professional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.18 - Apêndice 1, 5.5.3.8
+A inicialização por dispositivo USB deverá ser suportada
+e administrativamente controlável, sem impedir a
+ativação de Secure Boot e das políticas de segurança
+definidas pela Administração.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.19 - Apêndice 1, 5.5.3.9
+A solução deverá permitir sanitização das unidades
+independentemente do sistema operacional, por
+firmware, menu de inicialização ou ambiente inicializável
+confiável e oficialmente suportado, em conformidade
+com a NIST SP 800-88 Rev. 2 ou referência
+superveniente reconhecida. O procedimento deverá
+gerar evidência e Certificado de Sanitização
+individualizado.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 9] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 9 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.20 - Apêndice 1, 5.5.3.10
+A plataforma, considerada a combinação de
+processador, chipset, firmware/BIOS e interfaces de
+rede, deverá suportar gerenciamento remoto Out-of-
+Band baseado em hardware, inclusive por rede sem fio
+mediante interface compatível e homologada,
+independentemente do estado do sistema operacional.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.21 - Apêndice 1, 5.5.3.11
+Por conexão Ethernet, a plataforma deverá permitir
+acesso remoto a vídeo, teclado e mouse durante POST,
+BIOS/UEFI, inicialização e sistema operacional, com
+indicação local visível durante sessão interativa e registro
+auditável da atividade.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.22 - Apêndice 1, 5.5.3.12
+A plataforma deverá permitir, por TCP/IP e sem
+dependência do sistema operacional, ligar, desligar e
+reiniciar o equipamento, consultar inventário e
+diagnóstico e acessar configurações de hardware
+durante POST.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 10] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 10 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.23 - Apêndice 1, 5.5.3.13
+A comunicação de gerenciamento remoto deverá ser
+criptografada, utilizar credenciais individualizadas e
+controle de acesso por função e gerar registros de
+equipamento, operador, origem, início, término, ações e
+resultado, observados os controles do Apêndice 3.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.24 - Apêndice 1, 5.5.3.14
+As antenas Wi-Fi deverão integrar o projeto original. O
+equipamento deverá possuir gerenciamento automático
+de energia e refrigeração sem perda de estabilidade ou
+descumprimento dos requisitos de desempenho.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.25 - Apêndice 1, 5.5.3.15
+Não será exigida interface SATA quando o notebook
+utilizar exclusivamente armazenamento M.2 NVMe.
+Havendo interface SATA, ela deverá integrar o projeto
+original ou ser oficialmente homologada.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 11] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 11 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Placa principal,
+BIOS/UEFI e
+gerenciamento
+remoto
+2.26 - Apêndice 1, 5.5.3.16
+O notebook deverá possuir pelo menos um slot físico M.2
+NVMe ocupado pela unidade ofertada. O SSD deverá ser
+removível para manutenção por equipe autorizada, não
+sendo aceita solução exclusivamente soldada à placa
+principal.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Unidade de
+armazenamento 2.27 - Apêndice 1, 5.5.4.1
+O notebook deverá possuir uma unidade interna SSD
+M.2 NVMe, nova e de primeiro uso, com capacidade
+nominal mínima de 512 GB. Não serão aceitos soma de
+dispositivos, armazenamento externo, cartão ou serviço
+em nuvem para atingir a capacidade.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Unidade de
+armazenamento 2.28 - Apêndice 1, 5.5.4.2
+A interface deverá ser PCIe NVMe M.2 3.0 x4 ou
+superior, sem adaptador utilizado apenas para
+atendimento do requisito.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 12] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 12 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Unidade de
+armazenamento 2.29 - Apêndice 1, 5.5.4.3
+A unidade deverá suportar S.M.A.R.T., NVMe Health ou
+mecanismo equivalente, permitindo consulta de
+integridade, temperatura, vida útil consumida, alertas
+críticos e falhas registradas.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Unidade de
+armazenamento 2.30 - Apêndice 1, 5.5.4.4
+A velocidade nominal mínima de leitura sequencial será
+de 3.200 MB/s, comprovada por documentação oficial
+correspondente ao modelo e à capacidade exata
+ofertados.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Unidade de
+armazenamento 2.31 - Apêndice 1, 5.5.4.5
+A velocidade nominal mínima de gravação sequencial
+será de 2.100 MB/s, comprovada por documentação
+oficial correspondente ao modelo e à capacidade exata
+ofertados.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 13] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 13 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Unidade de
+armazenamento 2.32 - Apêndice 1, 5.5.4.6
+Serão aceitas arquiteturas com DRAM própria, Host
+Memory Buffer ou tecnologia equivalente, desde que
+atendidos desempenho, confiabilidade e monitoramento.
+Não será exigida cache dedicada específica.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela, webcam e
+microfone 2.33 - Apêndice 1, 5.5.5.1
+A tela integrada deverá possuir área visível diagonal
+mínima de 14 polegadas, sendo aceitas dimensões
+superiores.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela, webcam e
+microfone 2.34 - Apêndice 1, 5.5.5.2
+A resolução nativa mínima deverá ser 1920 x 1080
+pixels, Full HD, formato 16:9 ou superior compatível, sem
+interpolação para atingir o mínimo.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 14] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 14 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Tela, webcam e
+microfone 2.35 - Apêndice 1, 5.5.5.3
+A superfície deverá possuir tratamento antirreflexo
+original de fábrica, não sendo aceita película aplicada
+posteriormente.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela, webcam e
+microfone 2.36 - Apêndice 1, 5.5.5.4
+O painel deverá utilizar tecnologia IPS ou equivalente ou
+superior, com ampla visualização e preservação de cores
+adequada ao uso corporativo, e brilho típico ou nominal
+mínimo de 250 cd/m².
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela, webcam e
+microfone 2.37 - Apêndice 1, 5.5.5.5
+O notebook deverá possuir webcam integrada ao
+gabinete, com sensor infravermelho compatível com
+Windows Hello. Não serão aceitas câmeras externas ou
+adaptações.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 15] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 15 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Tela, webcam e
+microfone 2.38 - Apêndice 1, 5.5.5.6
+A câmera RGB deverá possuir resolução nativa mínima
+de 5 MP, sem interpolação por software e sem utilização
+da resolução do sensor infravermelho para compor o
+valor.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela, webcam e
+microfone 2.39 - Apêndice 1, 5.5.5.7
+A câmera deverá possuir obturador físico de privacidade
+integrado, e o notebook deverá possuir microfone
+integrado compatível com aplicações corporativas de
+videoconferência.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Vídeo e áudio 2.40 - Apêndice 1, 5.5.6.1
+A controladora gráfica deverá ser integrada ao
+processador ou SoC, utilizar memória RAM
+compartilhada e realizar alocação dinâmica.
+Controladora dedicada adicional será aceita.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 16] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 16 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Vídeo e áudio 2.41 - Apêndice 1, 5.5.6.2
+A solução gráfica deverá operar simultaneamente a tela
+interna e pelo menos um monitor externo, ambos em
+resolução mínima de 1920 x 1080 pixels a 60 Hz ou
+superior, em modo estendido com imagens
+independentes.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Vídeo e áudio 2.42 - Apêndice 1, 5.5.6.3
+A controladora deverá ser compatível com DirectX 12 e
+OpenGL 4.5 ou superior por hardware e drivers oficiais,
+não sendo aceita compatibilidade obtida exclusivamente
+por emulação.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Vídeo e áudio 2.43 - Apêndice 1, 5.5.6.4
+A controladora de áudio deverá integrar a placa principal
+ou o projeto original do notebook, sem dispositivo
+externo instalado apenas para atender ao requisito.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 17] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 17 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Vídeo e áudio 2.44 - Apêndice 1, 5.5.6.5
+A solução de áudio deverá ser compatível com High
+Definition Audio Codec ou tecnologia superior e possuir
+drivers oficiais.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Vídeo e áudio 2.45 - Apêndice 1, 5.5.6.6
+O notebook deverá possuir alto-falantes estéreos
+integrados, com potência nominal ou média total mínima
+de 2 W.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Vídeo e áudio 2.46 - Apêndice 1, 5.5.6.7 Caixas de som externas, soundbar ou dispositivos USB
+não poderão atender ao requisito de áudio integrado.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 18] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 18 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Vídeo e áudio 2.47 - Apêndice 1, 5.5.6.8
+O equipamento deverá possuir pelo menos uma interface
+de áudio de 3,5 mm do tipo combo ou universal,
+compatível com fone de ouvido e microfone de headset.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Rede e portas de
+comunicação 2.48 - Apêndice 1, 5.5.7.1
+O notebook deverá possuir interface interna Wi-Fi 6E ou
+superior, IEEE 802.11ax, configuração 2 x 2, operação
+em 2,4 GHz, 5 GHz e 6 GHz, antenas integradas e
+drivers oficiais. Não serão aceitos adaptadores USB. A
+homologação Anatel deverá estar válida quando exigível.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Rede e portas de
+comunicação 2.49 - Apêndice 1, 5.5.7.2
+A interface Ethernet deverá ser nativa e integrada, operar
+em 10/100/1000 Mb/s com detecção automática e full-
+duplex e possuir conector físico RJ45, sem adaptador
+externo.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 19] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 19 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Rede e portas de
+comunicação 2.50 - Apêndice 1, 5.5.7.3
+A interface Ethernet deverá suportar Wake-on-LAN e
+inicialização UEFI PXE, configuráveis no BIOS/UEFI e
+suportadas por firmware e drivers oficiais. Não será
+exigido Wake-on-LAN por rede sem fio.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Rede e portas de
+comunicação 2.51 - Apêndice 1, 5.5.7.4
+O equipamento deverá possuir Bluetooth 5.3 ou superior,
+integrado, com drivers oficiais e homologação Anatel
+quando aplicável. Não serão aceitos adaptadores
+externos.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Rede e portas de
+comunicação 2.52 - Apêndice 1, 5.5.7.5
+As portas deverão integrar o projeto original do notebook,
+admitidas placas auxiliares internas originais de entrada
+e saída. Deverão possuir identificação por nome ou
+símbolo. Não serão aceitos hubs ou adaptadores
+externos para compor os quantitativos mínimos.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 20] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 20 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Rede e portas de
+comunicação
+2.53.1 - Apêndice 1, item
+5.5.7.6 — Saída HDMI 2.1
+O equipamento deverá possuir uma saída HDMI 2.1 ou
+superior, nativa, capaz de operar simultaneamente com a
+tela interna em modo duplicado ou estendido.
+Documentação oficial do modelo, inspeção física
+da interface e teste funcional da saída HDMI com a
+tela interna ativa.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Rede e portas de
+comunicação
+2.53.2 - Apêndice 1, item
+2.14 — Adaptador ativo
+HDMI para VGA sob
+demanda
+A CONTRATADA deverá fornecer, sem custo adicional,
+adaptadores ativos HDMI para VGA, acompanhados dos
+cabos e acessórios necessários ao funcionamento,
+sempre que formalmente solicitado pela
+CONTRATANTE, em quantitativo compatível com os
+equipamentos indicados na solicitação. Os adaptadores
+deverão ser novos, suportar resolução mínima Full HD,
+1920 x 1080, a 60 Hz, possuir compatibilidade
+oficialmente declarada e permanecer cobertos pela
+garantia e pelo suporte da solução PCaaS durante toda a
+vigência. Os adaptadores não poderão substituir ou
+compor as interfaces nativas mínimas do notebook.
+Solicitação formal da CONTRATANTE,
+documentação técnica do adaptador, registro de
+entrega, identificação do modelo e teste funcional
+da conversão HDMI para VGA em Full HD a 60
+Hz.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Rede e portas de
+comunicação 2.54 - Apêndice 1, 5.5.7.7 O equipamento deverá possuir, no mínimo, duas portas
+USB-A, cada uma com velocidade mínima de 5 Gb/s.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 21] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 21 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Rede e portas de
+comunicação 2.55 - Apêndice 1, 5.5.7.8
+O equipamento deverá possuir, no mínimo, duas portas
+USB-C, cada uma com velocidade máxima suportada de
+20 Gb/s ou superior, por USB 3.2 Gen 2x2, USB4,
+Thunderbolt ou tecnologia equivalente. As portas
+deverão ser nativas e não poderão ser constituídas por
+hub.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.56 - Apêndice 1, 5.5.8.1 O notebook deverá possuir dispositivo apontador
+integrado do tipo touchpad, incorporado ao gabinete.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.57 - Apêndice 1, 5.5.8.2
+O touchpad deverá suportar gestos multitoque, incluindo
+rolagem com dois dedos e gesto de aproximação ou
+afastamento.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 22] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 22 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Dispositivo
+apontador, teclado
+e mouse externo
+2.58 - Apêndice 1, 5.5.8.3
+O touchpad deverá possuir dois botões físicos ou duas
+zonas de clique integradas e permitir rolagem por área
+dedicada ou função multitoque, sem depender de
+software não oficial.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.59 - Apêndice 1, 5.5.8.4
+O teclado deverá possuir layout físico nativo Português
+do Brasil ABNT2, QWERTY, com tecla Ç e caracteres
+próprios do idioma. Não serão aceitos adesivos,
+remapeamentos ou adaptadores.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.60 - Apêndice 1, 5.5.8.5
+As legendas das teclas deverão ser originais de fábrica e
+permanentes, por gravação a laser, dupla injeção ou
+tecnologia equivalente, mantendo legibilidade durante o
+uso normal. Desgaste que prejudique a identificação
+deverá ser corrigido pela contratada.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 23] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 23 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Dispositivo
+apontador, teclado
+e mouse externo
+2.61 - Apêndice 1, 5.5.8.6 O teclado deverá possuir retroiluminação original de
+fábrica, com possibilidade de ativação e desativação.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.62 - Apêndice 1, 5.5.8.7
+O teclado deverá possuir proteção contra derramamento
+acidental de líquidos comprovada por documentação
+oficial. O requisito não implica resistência à imersão ou
+lavagem.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.63 - Apêndice 1, 5.5.8.8
+O teclado deverá possuir teclas de função ou
+combinações com Fn para controle de brilho, economia
+de energia e comutação de tela externa.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 24] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 24 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Dispositivo
+apontador, teclado
+e mouse externo
+2.64 - Apêndice 1, 5.5.8.9
+Cada notebook deverá ser acompanhado de mouse
+óptico com fio, novo, de linha ativa, com fabricante e
+modelo identificáveis. O mouse deverá ser,
+preferencialmente, da mesma marca comercial do
+notebook, admitida marca distinta segundo os critérios
+do item 2.15 do Apêndice 1. Produto OEM/ODM será
+aceito quando oficialmente fornecido, identificado,
+garantido e suportado pelo fabricante responsável.
+Documentação oficial com fabricante, marca,
+modelo e código de peça, garantia e suporte; para
+marca distinta, comprovação de compatibilidade
+integral e teste funcional com o equipamento
+principal, sem adaptações não homologadas.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.65 - Apêndice 1, 5.5.8.10
+O mouse deverá possuir conector USB-A nativo, sem
+adaptador, funcionamento Plug and Play e
+compatibilidade com o sistema operacional ofertado.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Dispositivo
+apontador, teclado
+e mouse externo
+2.66 - Apêndice 1, 5.5.8.11 O mouse deverá possuir formato ambidestro, botões
+esquerdo e direito e botão central com rolagem vertical.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 25] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 25 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Dispositivo
+apontador, teclado
+e mouse externo
+2.67 - Apêndice 1, 5.5.8.12
+O sensor deverá possuir resolução nativa mínima de
+1.200 DPI, não sendo aceita interpolação de software
+como único meio de atendimento.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete 2.68 - Apêndice 1, 5.5.9.1
+A bateria deverá ser de íons de lítio, polímero de lítio ou
+tecnologia superior, interna e não removível pelo usuário,
+mas substituível por assistência autorizada.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete
+2.69 - Capacidade mínima
+da bateria (Apêndice 1,
+5.5.9.2)
+A capacidade nominal total mínima da bateria será de 50
+Wh. A quantidade de células não constituirá critério
+eliminatório, desde que sejam atendidos os requisitos de
+capacidade, autonomia, segurança, carregamento e vida
+útil.
+Documentação oficial da bateria e da configuração
+comercial ofertada, identificação no sistema ou
+ferramenta oficial e inspeção da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 26] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 26 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Bateria, carregador
+e gabinete
+2.70 - Autonomia nominal
+da bateria (Apêndice 1,
+5.5.9.3)
+A autonomia nominal mínima será de 6 (seis) horas,
+comprovada por documentação oficial do fabricante que
+identifique o modelo ou a família, a configuração testada,
+a metodologia, as condições do ensaio e o resultado
+obtido.
+Documentação oficial do fabricante com modelo ou
+família, configuração testada, metodologia,
+condições do ensaio e resultado obtido.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete 2.71 - Apêndice 1, 5.5.9.4
+O carregador deverá ser original ou oficialmente
+homologado pelo fabricante, operar entre 100 e 240
+VCA, em 50/60 Hz, e utilizar conector USB-C ou
+proprietário oficialmente suportado.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete 2.72 - Apêndice 1, 5.5.9.5
+O carregador deverá possuir potência nominal mínima de
+45 W e sustentar a configuração máxima entregue e o
+carregamento simultâneo sem limitação incompatível de
+desempenho.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 27] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 27 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Bateria, carregador
+e gabinete 2.73 - Apêndice 1, 5.5.9.6
+O cabo e o plugue de alimentação deverão atender à
+ABNT NBR 14136, com dois ou três pinos conforme o
+projeto original e a classe de isolação. Não serão aceitos
+adaptadores ou emendas para atendimento regular.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete 2.74 - Apêndice 1, 5.5.9.7
+O modelo deverá possuir evidência de ensaios segundo
+MIL-STD-810H Change 1 ou edição posterior,
+abrangendo, no mínimo, alta temperatura, baixa
+temperatura, choque térmico, umidade, vibração e
+choque mecânico. A evidência identificará modelo,
+métodos, procedimentos, condições e resultados e será
+emitida por laboratório competente ou pelo fabricante
+com documentação técnica verificável.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete 2.75 - Apêndice 1, 5.5.9.8
+O notebook deverá possuir leitor de impressão digital
+integrado ao gabinete, botão de alimentação ou teclado,
+compatível com Windows Hello e drivers oficiais. Não
+serão aceitos leitores USB externos.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 28] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 28 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Bateria, carregador
+e gabinete 2.76 - Apêndice 1, 5.5.9.9
+O equipamento deverá possuir botão físico de
+alimentação integrado e indicador luminoso visível do
+estado ligado.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete 2.77 - Apêndice 1, 5.5.9.10
+O acabamento original deverá ser predominantemente
+preto, cinza, prata ou combinação dessas cores. Logos,
+portas e teclas poderão possuir tonalidades distintas.
+Não serão aceitas pintura ou película posterior.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Bateria, carregador
+e gabinete 2.78 - Apêndice 1, 5.5.9.11
+O peso máximo será de 1,6 kg com a bateria instalada,
+excluídos carregador, cabos, mouse, embalagem e
+acessórios removíveis, comprovado para a configuração
+ofertada.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 29] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 29 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Bateria, carregador
+e gabinete 2.79 - Apêndice 1, 5.5.9.12
+O notebook deverá possuir encaixe integrado para trava
+de segurança Kensington, Noble ou equivalente
+oficialmente documentado. O cabo de segurança não
+integra o fornecimento salvo previsão específica.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Sistema
+operacional,
+aplicativos e
+suporte corporativo
+2.80 - Apêndice 1, 5.5.10.1
+O notebook deverá ser entregue com Microsoft Windows
+11 Professional de 64 bits, original, licenciado por
+dispositivo e ativado ou apto à ativação oficial. Será
+aceita versão corporativa posterior ou equivalente, desde
+que oficialmente compatível e previamente aprovada,
+com direito de uso durante o período do PCaaS.
+Documentação oficial de licenciamento, instalação,
+ativação e teste funcional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Sistema
+operacional,
+aplicativos e
+suporte corporativo
+2.81 - Apêndice 1, 5.5.10.2
+Todos os componentes, interfaces e periféricos deverão
+possuir suporte e drivers oficiais para o sistema
+operacional, preservando funcionalidade, desempenho,
+segurança e gerenciamento.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 30] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 30 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Sistema
+operacional,
+aplicativos e
+suporte corporativo
+2.82 - Apêndice 1, 5.5.10.3
+A contratada deverá disponibilizar à Administração,
+durante toda a implantação, meios oficiais de instalação,
+reinstalação e recuperação do sistema operacional,
+drivers, firmware e utilitários, por portal, imagem
+corporativa, partição de recuperação ou repositório
+autorizado, com as credenciais e permissões
+necessárias.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Sistema
+operacional,
+aplicativos e
+suporte corporativo
+2.83 - Apêndice 1, 5.5.10.4
+O equipamento deverá ser fornecido com Microsoft
+Office LTSC 2024 de 64 bits, ou versão perpétua
+posterior equivalente, instalado localmente, em
+Português do Brasil e contendo Word, Excel, PowerPoint
+e Outlook. Não serão aceitas assinaturas ou licenças
+exclusivamente vinculadas ao usuário.
+Documentação oficial de licenciamento, instalação,
+ativação e teste funcional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Sistema
+operacional,
+aplicativos e
+suporte corporativo
+2.84 - Apêndice 1, 5.5.10.5
+A comprovação do Office deverá ser oficial ou comercial,
+emitida pela Microsoft, distribuidor ou revendedor
+autorizado, e identificar produto, edição, quantidade,
+modalidade, perpetuidade, titularidade e vínculo com os
+dispositivos. Contratos, certificados, declarações,
+relatórios e documentos fiscais poderão compor a prova;
+chaves, capturas de tela ou etiquetas não serão
+suficientes isoladamente.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 31] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 31 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Sistema
+operacional,
+aplicativos e
+suporte corporativo
+2.85 - Apêndice 1, 5.5.10.6
+A licença será perpétua, local e atribuída ao dispositivo.
+Quando o equipamento pertencer à contratada, deverão
+ser comprovados a licença subjacente e o direito de
+locação, disponibilização ou uso por terceiro, inclusive
+Rental Rights quando aplicável ou direito oficial
+equivalente. Alternativamente, a licença poderá ser
+adquirida ou atribuída à Administração.
+Documentação oficial de licenciamento, instalação,
+ativação e teste funcional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Segurança do
+endpoint 2.86 - Apêndice 1, 5.5.11.1
+Conteúdo não confiável de navegação na internet e
+anexos de correio eletrônico abrangidos pela política da
+Administração deverá ser processado em ambiente
+isolado e descartável. Serão aceitas microvirtualização,
+containerização, sandbox segura, virtualização remota
+do navegador ou tecnologia equivalente. A solução
+deverá impedir persistência não autorizada, acesso
+indevido a arquivos, credenciais ou sessões do
+hospedeiro, comunicação lateral não autorizada e
+transferência de dados fora dos canais permitidos, com
+gerenciamento centralizado, registros e atualização.
+Todos os componentes e licenças deverão integrar o
+PCaaS.
+Documentação oficial da arquitetura, das políticas,
+do console de gerenciamento e das licenças;
+ensaio benigno e controlado de conteúdo web e
+anexo; verificação do descarte do ambiente,
+ausência de persistência, isolamento do
+hospedeiro, bloqueio de comunicação lateral,
+controle das transferências e geração de registros
+auditáveis. O teste não utilizará código malicioso
+real nem dados pessoais.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Segurança do
+endpoint 2.87 - Apêndice 1, 5.5.11.2
+A solução antimalware deverá proteger em tempo real
+download, criação, gravação, abertura e execução de
+arquivos, combinando assinatura ou reputação com
+heurística, inteligência artificial, aprendizado de máquina,
+análise comportamental ou tecnologia equivalente.
+Deverá permitir bloqueio, contenção e quarentena,
+proteção contra adulteração, gerenciamento centralizado
+e registros auditáveis. Desconectada, manterá a
+proteção com o último conjunto válido e atualizará após
+reconexão. As licenças abrangerão todos os notebooks
+instalados e ativos sem comprometer desempenho ou
+SLA.
+Documentação oficial do produto, do console, das
+políticas e das licenças; teste benigno reconhecido
+em condição conectada e offline; verificação de
+bloqueio ou contenção, quarentena, registros,
+proteção contra adulteração, manutenção da
+proteção desconectada e atualização automática
+após a reconexão. O teste não utilizará malware
+real.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 32] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 32 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+sustentabilidade e
+conformidade
+2.88 - Apêndice 1, 5.5.12.1
+O notebook deverá atender à especificação ENERGY
+STAR para computadores vigente na publicação do
+edital, comprovada por registro do modelo, família ou
+configuração no Product Finder ou por relatório do
+modelo ofertado emitido por laboratório ISO/IEC 17025
+acreditado ou reconhecido pelo ILAC.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+sustentabilidade e
+conformidade
+2.89 - Apêndice 1, 5.5.12.2
+O notebook deverá possuir, para a categoria Notebook,
+uma das seguintes comprovações ambientais, não
+cumulativas: 1. registro EPEAT Gold ativo e válido para o
+Brasil; 2. certificação TCO Certified ativa e aplicável à
+categoria Notebook; ou 3. certificação ambiental Tipo I
+baseada na ISO 14024, emitida ou verificada por terceira
+parte independente e acompanhada de matriz de
+equivalência.
+Registro oficial ou certificado ativo correspondente
+à categoria, ao modelo ou à família ofertada. Para
+certificação de família, apresentar vínculo oficial da
+configuração; para certificação equivalente
+baseada na ISO 14024, apresentar matriz de
+equivalência emitida ou verificada por terceira
+parte independente.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+sustentabilidade e
+conformidade
+2.90 - Apêndice 1, 5.5.12.3
+A certificação deverá corresponder ao modelo ou à
+família ofertada. Quando emitida para uma família, a
+licitante deverá demonstrar, por documentação oficial,
+que a configuração proposta está efetivamente
+abrangida. A equivalência deverá contemplar, no
+mínimo, eficiência energética, controle de substâncias
+perigosas, durabilidade, reparabilidade, materiais,
+reciclagem, embalagem e responsabilidade ambiental da
+cadeia produtiva. A comprovação será individualizada
+por categoria e não abrangerá automaticamente mouse,
+monitor ou acessórios externos. Não será exigida a
+apresentação simultânea de EPEAT Gold, TCO Certified
+e certificação equivalente.
+Documentação oficial que identifique categoria,
+fabricante, modelo ou família, configuração
+abrangida, vigência e organismo emissor ou
+verificador, suficiente para confirmar a não
+cumulatividade e os limites de abrangência da
+certificação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 33] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 33 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+sustentabilidade e
+conformidade
+2.91 - Apêndice 1, 5.5.12.4
+O notebook completo, incluindo carregador, deverá
+atender à IEC 62368-1 ou adoção nacional ou regional
+equivalente. A comprovação ocorrerá por IECEE CB
+Scheme, organismo ISO/IEC 17065 ou laboratório
+ISO/IEC 17025, com identificação do modelo ou família
+correspondente.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+sustentabilidade e
+conformidade
+2.92 - Apêndice 1, 5.5.12.5
+A emissão sonora deverá ser medida conforme ISO 7779
+e declarada conforme ISO 9296, com identificação de
+modelo, configuração, estados e valores. Em estado
+ocioso, LWA,d deverá ser de até 4,0 bels e LpA,m de até
+30 dB(A); em operação, LWA,d de até 5,0 bels e LpA,m
+de até 40 dB(A).
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+sustentabilidade e
+conformidade
+2.93 - Apêndice 1, 5.5.12.6
+Notebook e periféricos deverão cumprir a Diretiva RoHS
+2011/65/UE e alterações consolidadas, incluindo a
+Diretiva 2015/863. A comprovação poderá ocorrer por
+declaração oficial, documentação IEC 63000, relatório
+ISO/IEC 17025 ou certificação independente, com
+identificação das exceções aplicáveis.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 34] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 34 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+sustentabilidade e
+conformidade
+2.94 - Apêndice 1, 5.5.12.7
+O modelo ou família deverá constar na Windows
+Compatible Products List da Microsoft para Windows 11
+de 64 bits, comprovado por Verification Report oficial e
+correspondência com a configuração ofertada.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 35] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 35 de 41
+Certificações,
+sustentabilidade e
+conformidade
+2.95 - Implementação dos
+padrões DMTF e
+comprovação (Apêndice 1,
+5.5.12.8) (parte 1 de 2)
+O equipamento deverá implementar os padrões DMTF
+aplicáveis aos recursos de identificação, inventário e
+gerenciamento de hardware exigidos neste Apêndice,
+especialmente o padrão SMBIOS, independentemente
+de o fabricante possuir filiação à DMTF.
+A implementação deverá permitir identificar, no mínimo:
+1. Fabricante e modelo do equipamento;
+2. Número de série e identificador patrimonial, quando
+suportado;
+3. Fabricante, modelo e versão da placa-mãe;
+4. Versão e data da BIOS/UEFI;
+5. Modelo do processador;
+6. Quantidade, capacidade e disposição dos módulos
+de memória;
+7. Identificação e capacidade das unidades de
+armazenamento.
+A comprovação ocorrerá mediante uma das seguintes
+alternativas, não cumulativas:
+1. Filiação empresarial ativa do fabricante à DMTF nas
+categorias Board, Leadership ou Participation,
+acompanhada de documentação oficial do modelo e
+demonstração funcional dos recursos exigidos; ou
+2. Documentação técnica oficial do fabricante, relatório
+técnico independente, consulta executada no
+equipamento, inspeção, amostra que demonstre a
+implementação funcional dos padrões e campos de
+inventário exigidos.
+Quando a filiação estiver registrada em nome de
+controladora, grupo econômico ou entidade jurídica
+diferente, deverá ser apresentada comprovação oficial de
+que a entidade fabricante está abrangida. Na ausência
+dessa comprovação, será utilizada a segunda alternativa
+de comprovação acima descrita, baseada em
+documentação técnica oficial, relatório técnico
+independente, consulta executada no equipamento,
+inspeção ou amostra.
+A filiação à DMTF, isoladamente, não comprovará a
+conformidade do equipamento. Durante a inspeção, a
+Administração poderá verificar as informações por meio
+da BIOS/UEFI, sistema operacional, ferramenta de
+inventário ou console de gerenciamento. Havendo
+divergência entre a filiação apresentada e o
+funcionamento efetivo, prevalecerá o resultado da
+verificação funcional.
+Apresentar uma das seguintes formas de
+comprovação, de maneira não cumulativa:
+3. Filiação DMTF: consulta à lista oficial,
+identificação da entidade e categoria ativa,
+documentação oficial do modelo e registro da
+verificação funcional; ou
+4. Sem filiação DMTF: documentação técnica
+oficial, relatório independente ou registro de
+consulta, inspeção, amostra que demonstre
+SMBIOS, inventário e gerenciamento exigidos.
+Resultado: registrar na
+parte 2 de 2.
+
+--- [pag. PDF 36] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 36 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+sustentabilidade e
+conformidade
+(continuação)
+2.95 - Implementação dos
+padrões DMTF e
+comprovação (Apêndice 1,
+5.5.12.8) (parte 2 de 2)
+Não será exigida tecnologia proprietária, marca
+específica ou participação em categoria determinada da
+DMTF, desde que os requisitos funcionais e de
+comprovação sejam integralmente atendidos.
+Se a entidade listada for diferente do fabricante,
+apresentar documento oficial de abrangência; na
+ausência, utilizar a segunda alternativa de
+comprovação do requisito, baseada em
+documentação técnica oficial ou verificação
+funcional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+sustentabilidade e
+conformidade
+2.96 - Comprovação ESG
+por meios alternativos
+(Apêndice 1, 5.5.12.9)
+O fabricante deverá demonstrar práticas estruturadas de
+sustentabilidade corporativa mediante uma das seguintes
+alternativas, não cumulativas: 1. EcoVadis Silver, Gold
+ou Platinum válida; 2. avaliação ESG independente
+equivalente, com metodologia pública, documentada,
+rastreável e auditável; ou 3. conjunto documental
+corporativo auditável. As alternativas 2 e 3 deverão
+abranger meio ambiente, práticas trabalhistas e direitos
+humanos, ética e integridade e compras sustentáveis;
+identificar a entidade abrangida; apresentar metodologia,
+políticas, governança, metas, indicadores, resultados ou
+controles; não apresentar classificação crítica ou
+insuficiente nas quatro dimensões quando houver
+classificação qualitativa; observar vigência ou período de
+relato; permitir verificação de autenticidade; e incluir
+matriz de correspondência. Não será exigido percentil,
+ranking, dois níveis superiores nem identidade de
+metodologia com a EcoVadis.
+Apresentar, de forma não cumulativa: página
+oficial da Medalha EcoVadis Silver, Gold ou
+Platinum; relatório de avaliação ESG independente
+equivalente; ou conjunto documental corporativo
+auditável. Para as duas últimas rotas, incluir
+metodologia ou políticas aplicáveis, identificação
+da entidade abrangida, evidências das quatro
+dimensões, vigência ou período de relato, meio de
+autenticação e matriz de correspondência, sujeitos
+a diligência.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 37] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 37 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+sustentabilidade e
+conformidade
+2.97 - Apêndice 1,
+5.5.12.10
+Quando o equipamento for fabricado ou montado no
+Brasil por estabelecimento enquadrado, o fabricante ou
+montador deverá possuir CTF/APP ativo na atividade 5-2
+e Certificado de Regularidade do Ibama válido. Para
+produto fabricado no exterior, deverão ser identificados
+origem, importador ou responsável no Brasil e as
+obrigações ambientais aplicáveis, sem exigir CTF/APP
+do fabricante estrangeiro.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+sustentabilidade e
+conformidade
+2.98 - Apêndice 1,
+5.5.12.11
+O fabricante deverá disponibilizar recursos oficiais para
+implantação e manutenção no Microsoft Configuration
+Manager, incluindo pacote consolidado de drivers
+Windows 11 x64, drivers Windows PE quando aplicáveis,
+catálogo assinado ou integração equivalente para
+drivers, BIOS, firmware e utilitários, instalação silenciosa,
+detecção de modelo e geração de logs. Não serão
+aceitos repositórios não oficiais produzidos
+exclusivamente pela licitante.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Testes funcionais 3.1 - Inicialização e
+estabilidade
+Inicialização sem erro; reconhecimento de CPU,
+memória, SSD, bateria e interfaces; ausência de alertas
+críticos.
+Teste de inicialização, diagnóstico e registro da
+unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 38] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 38 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Testes funcionais 3.2 - Interfaces e
+periféricos
+USB, vídeo, áudio, LAN, Wi-Fi, Bluetooth, teclado,
+touchpad, câmera, microfone, leitor biométrico e mouse
+externo quando aplicável.
+Teste funcional e inspeção da configuração
+entregue.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais
+4.1 - Segurança de
+inicialização
+TPM 2.0, Secure Boot e firmware assinado habilitados
+conforme a imagem homologada. BIOS/UEFI, política e teste.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.2 - Criptografia
+Armazenamento integralmente criptografado antes da
+produção; chave de recuperação protegida e recuperável
+pela Administração.
+Console, política e teste de recuperação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 39] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 39 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Controles
+operacionais 4.3 - Eficiência energética
+Certificação reconhecida, relatório técnico ou
+comprovação oficial equivalente ou superior aplicável ao
+modelo.
+Certificado, laudo ou documento oficial.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.4 - Linha de base
+Registro individual, versionado e íntegro da configuração,
+componentes, identificadores disponíveis, BIOS/UEFI,
+firmwares e bateria, com origem, data, responsáveis e
+aprovação.
+Termo de Linha de Base, consulta técnica,
+exportação bruta, versão/hash e aceite.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais
+4.5 - Inventário e
+rastreabilidade lógica
+Número de série, configuração, unidade, localização
+prevista, última evidência lógica, movimentações
+autorizadas, agente ativo, status de atualização e
+exportação para a Administração.
+Painel, inventário, Ordem de Serviço, teste de
+movimentação lógica, histórico e relatório aberto.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 40] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 40 de 41
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Controles
+operacionais 4.6 - Imagem homologada Versão aprovada, sem software promocional, com
+políticas, drivers e licenças validados. Hash, versão, checklist e teste.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.7 - Acessibilidade Compatibilidade com tecnologias assistivas e recursos
+de acessibilidade do sistema operacional. Teste funcional e documentação.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Controles
+operacionais 4.8 - Alertas e correlação
+Detecção de divergência de localização e de alteração
+relevante de hardware, confronto com autorização,
+correlação de eventos, notificação e histórico exportável.
+Testes controlados de memória, armazenamento e
+movimentação lógica; painel, e-mail, chamado
+quando configurado e exportação auditável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 41] ---
+Instrumento 3 do Apêndice 5 - Notebook | Página 41 de 41
+4 - CONCLUSÃO DA INSPEÇÃO TÉCNICA
+4.1 - Resultado da inspeção do equipamento ou lote: ☐ CONFORME – apto a subsidiar o recebimento, mediante emissão do termo correspondente. ☐
+CONFORME COM PENDÊNCIAS FORMAIS OU IMATERIAIS – apto condicionadamente, desde que as pendências não afetem segurança, funcionamento,
+desempenho, compatibilidade, licenciamento, integridade, inventário ou requisito obrigatório. As pendências deverão ser identificadas e corrigidas em até 5
+(cinco) dias úteis. Essa condição não autoriza faturamento nem equivale ao recebimento definitivo. ☐ NÃO CONFORME – não apto ao recebimento, devendo
+ser identificados os requisitos descumpridos e as providências de correção ou substituição.
+4.2 - Natureza da conclusão: A conclusão deste checklist possui natureza técnica e subsidiará a emissão do Termo de Recebimento Provisório e, após a
+comprovação do cumprimento integral das obrigações, do Termo de Recebimento Definitivo. Este checklist não substitui os referidos termos.
+4.3 - Não conformidades e providências: ____________________________________________________________________________________________
+4.4 - Responsável técnico pela inspeção: ____________________________________________ Data: ____/____/________
+4.5 - Fiscal do contrato: ____________________________________________________________ Data: ____/____/________
+Código: 7bce178c-b1f9-4a62-8bca-5ad61cbd0967
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52

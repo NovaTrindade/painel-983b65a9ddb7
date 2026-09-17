@@ -1,0 +1,3978 @@
+=== DOCUMENTO 21: ETP_III_-_CONTRATACAO_DE_EMPRESA_PARA_LOCACAO_DE_COMPUTADORES.pdf ===
+tipo: Estudo Técnico Preliminar | páginas: 80 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/21
+
+--- [pag. PDF 1] ---
+70
+ESTUDO TÉCNICO PRELIMINAR
+1 – INFORMAÇÕES GERAIS
+1. Identificação do processo e solicitante
+Trata-se, o presente ETP, da caracterização dos estudos técnicos que foram realizados
+referentes à busca da melhor solução para equipar a administração municipal com
+microcomputadores, os quais são utilizados na realização das atividades administrativas.
+Secretarias Requisitantes: SAD, SEMED, SMS e SEDS.
+2. Equipe de Planejamento da Contratação
+João Martins da Silveira Neto
+Matricula: 57750-2
+Lucas Oliveira de Paula
+Matricula: 51197-8
+2 – DIAGNÓSTICO DA SITUAÇÃO ATUAL
+1. Descrição do problema a ser resolvido ou da necessidade apresentada
+Os microcomputadores, de forma geral, desempenham um papel fundamental e
+multifacetado na infraestrutura e nas operações administrativas do Município. Sua importância
+pode ser destacada em várias áreas-chave que impactam diretamente na eficiência,
+transparência e qualidade dos serviços prestados à comunidade, são elas:
+▪ Gestão administrativa;
+▪ Atendimento ao público;
+▪ Segurança e controle;
+▪ Transparência;
+
+--- [pag. PDF 2] ---
+70
+▪ Comunicação e conectividade.
+Esses equipamentos são pilares fundamentais para a eficiência da administração
+pública. Eles impulsionam a inovação, aprimoram a prestação de serviços à população,
+fortalecem a tomada de decisões, além de contribuírem para a construção de uma
+comunidade mais informada, conectada e bem gerida, consequentemente melhorando a
+qualidade de vida dos cidadãos uberabenses.
+É essencial ressaltar que os microcomputadores viabilizam a automação de processos
+administrativos, otimizando tarefas burocráticas e rotineiras. A gestão municipal se torna mais
+ágil e precisa, resultando em serviços mais eficientes e mais rápidos para a população. A
+informatização dos setores municipais minimiza erros humanos, aumenta a exatidão e a
+confiabilidade das operações e beneficia tanto os servidores públicos quanto os munícipes.
+Além disso, os microcomputadores potencializam a capacidade analítica da gestão.
+Por meio de softwares especializados, é possível coletar e analisar vastas quantidades de
+dados, transformando-os em informações valiosas para embasar decisões estratégicas. Essa
+análise de dados é fundamental para o planejamento urbano, o gerenciamento de recursos, a
+previsão de demandas e o desenvolvimento de políticas públicas mais alinhadas às reais
+necessidades da comunidade.
+Em resumo, não há mais possibilidade de execução adequada dos trabalhos
+institucionais sem computadores, notebooks e demais recursos computacionais compatíveis
+com as necessidades administrativas atuais. O Município celebrou o Termo de Contrato nº
+533/2019, decorrente da Dispensa de Licitação nº 103/2019, que constituiu referência histórica
+para a estratégia de locação de estações de trabalho e para a continuidade dos serviços de
+suporte e manutenção do parque computacional. Diante desse cenário, mostra-se necessário
+identificar a solução mais adequada para assegurar a continuidade da utilização dos
+equipamentos nas atividades institucionais, com qualidade, eficiência e atendimento ao
+interesse público.
+A contratação dos serviços de locação de computadores foi uma ação estratégica
+realizada em colaboração com a empresa de informática Codiub, sendo formalizada por meio
+do processo de dispensa de licitação nº 103/2019. Essa parceria estabelecida tem se
+mostrado de suma importância para o andamento das atividades do município, uma vez que
+a Contratada demonstra uma notável eficácia e adaptabilidade às necessidades em constante
+evolução do órgão público.
+
+--- [pag. PDF 3] ---
+70
+A flexibilidade oferecida pela Contratada é um dos pilares desse contrato, pois ela
+possibilita o fornecimento de microcomputadores de forma ajustada à demanda do órgão
+público. Isso significa que o município pode expandir ou reduzir a quantidade de equipamentos
+conforme a evolução das necessidades, garantindo um ambiente operacional ágil e eficiente.
+Além da provisão sob medida, a empresa assume a total responsabilidade por qualquer
+manutenção necessária, substituição de peças ou computadores. Esse compromisso
+assegura que o Município sempre tenha acesso a equipamentos plenamente operacionais,
+minimizando interrupções nas atividades cotidianas e maximizando a produtividade dos
+colaboradores.
+No período de vigência considerado no levantamento histórico, o contrato acima citado
+previa o fornecimento de computadores conforme descrito na tabela abaixo.
+Modelo do Computador Quantidade Valor Mensal por
+Unidade (R$)
+TOTAL
+Tipo I 385 R$100,00 R$38.500,00
+Tipo II 52 R$130,00 R$6.760,00
+Tipo III 10 R$150,00 R$1.500,00
+MS OFFICE PRO 152 R$28,00 R$4.256,00
+Tipo IV 150 R$185,02 R$27.753,00
+Tipo V 164 R$220,24 R$36.119,36
+Tipo VI 70 R$275,55 R$19.288,50
+SERVIDOR 3 R$9.250,00 R$27.750,00
+TOTAL R$161.926,86
+TOTAL PERÍODO DE 36
+MESES.....................................................................R$5 829.366,96
+A gestão eficaz dos serviços de manutenção e reposição de peças ou equipamentos é
+uma prioridade para garantir a continuidade dos serviços municipais de forma ininterrupta.
+Para isso, foi estabelecido um procedimento ágil e eficaz de abertura de chamados junto à
+empresa contratada, a Codiub, especializada em tecnologia da informação.
+Nesse processo, os funcionários do Município desempenham um papel fundamental
+ao coordenar os chamados, reportando de forma precisa e detalhada qualquer necessidade
+de manutenção ou substituição de peças. A expertise e o compromisso da equipe da Codiub
+entram em ação a partir desse ponto, com o envio de técnicos altamente qualificados.
+Esses técnicos, munidos com um profundo conhecimento técnico e experiência prática,
+são os responsáveis por executar a reposição de peças, realizar a manutenção necessária ou
+até mesmo substituir o computador por uma unidade em perfeitas condições de
+funcionamento. Essa ação rápida e precisa assegura que os serviços essenciais sejam
+
+--- [pag. PDF 4] ---
+70
+restaurados de forma eficaz, minimizando qualquer impacto nas operações diárias do
+Município.
+A colaboração e a sincronia entre os funcionários do Município e a equipe da Codiub
+são elementos-chave para garantir que qualquer situação que exija manutenção ou
+substituição seja tratada de maneira adequada e oportuna. Essa abordagem proativa é parte
+integrante do compromisso da Codiub em proporcionar um serviço de alta qualidade,
+promovendo assim um ambiente operacional confiável e eficiente para a administração
+pública local.
+QUANTIDADE DE MICROCOMPUTADORES LOCADOS
+Apresenta-se, a seguir, o quantitativo de microcomputadores atualmente locados pela
+Prefeitura Municipal de Uberaba, distribuídos entre as principais Secretarias e órgãos
+municipais:
+ecretaria / Órgão Equipamentos
+Registrados
+Secretaria Municipal de Saúde 205
+Administração Geral (demais
+secretarias)
+582
+Secretaria Municipal de Educação 210
+Secretaria de Desenvolvimento Social 27
+TOTAL 1.024
+COMPUTADORES PRÓPRIOS
+A Prefeitura Municipal de Uberaba possui atualmente um parque de aproximadamente
+1.000 (mil) equipamentos próprios, distribuídos entre as quatro Secretarias consideradas no
+levantamento.
+Esses equipamentos integram o patrimônio da Prefeitura Municipal de Uberaba e
+deverão ser considerados no planejamento da renovação e modernização do parque
+computacional municipal, especialmente quanto à possibilidade de aproveitamento de
+componentes e periféricos que ainda apresentem condições adequadas de utilização.
+
+--- [pag. PDF 5] ---
+70
+COMPUTADORES LOCADOS (DETALHAMENTO POR SECRETARIA)
+Secretaria Municipal de Saúde (SMS)
+A Secretaria de Saúde conta com 205 equipamentos locados, sendo:
+● 173 equipamentos de um tipo I;
+● 32 equipamentos de outro tipo II.
+Descrição Quantidade
+Tipo I (Diversos Departamentos) 173
+Tipo II (Diversos Departamentos) 32
+Total SMS 205
+Demais Secretarias (Relatório SAD)
+Este relatório consolida as locações para as demais pastas da PMU. A distribuição dos
+582 equipamentos por local/secretaria é a seguinte:
+Secretaria / Local Quantidade de Equipamentos
+SEFAZ 134
+SAD / SPCG 118
+PROGER 55
+SEMOB 41
+SSP 39
+
+--- [pag. PDF 6] ---
+70
+Secretaria / Local Quantidade de Equipamentos
+CHEGAB / CHEGAB 28
+SECOM 22
+CGM 22
+SSP / COMSEG 26
+SEMAM 21
+SEDEC 20
+SEPLAN 10
+SAGRI 9
+SEGOV 9
+SESURB 8
+SEMETRA 8
+AGOC 4
+SEPPAR 4
+Servidores (SAD) 2
+Total Geral (conforme rodapé do
+relatório) 582
+
+--- [pag. PDF 7] ---
+70
+Secretaria Municipal de Educação (SEMED)
+O levantamento da Secretaria Municipal de Educação apresenta a seguinte distribuição
+dos equipamentos:
+Local Tipo I Tipo II Quantidade
+de
+Equipamento
+s
+BIBLIOTECA
+MUNICIPAL 21 0 21
+CASA DO
+EDUCADOIR 1 1 2
+CEMEA – BOA
+VISTA 3 3
+CEMEI BEATRIZ
+FAUSTINO
+MONTEIRO
+1 1
+CEMEI
+FRANCISCA
+VALIAS
+WENCESLA
+U
+1 1
+CEMEI MARCIO
+EURIPEDES
+MARTINS DOS
+SANTOS
+1 1
+CEMEI MARIA
+ASSIS REZENDE 1 1
+CEMEI MICHELLE
+FLÁVIA MARINS
+PIRES
+2 2
+
+--- [pag. PDF 8] ---
+70
+Local Tipo I Tipo II Quantidade
+de
+Equipamento
+s
+CEMEI MÔNICA
+MACHIYAMA 1 1
+CEMEI PARAÍSO 1 1
+CEMEI
+PROFESSOR
+RAIMUNDO
+EDMUNDO DE
+FREITAS
+2 2
+CEMEI
+PROFESSOR
+A JOANA
+DARC
+CAMPOS
+OLIVEIRA
+2 2
+CEMEI
+PROFESSOR
+A ZITA
+THEREZINHA
+CAPUÇO
+3 3
+DEPARTAMENTO
+DE
+MANUTENÇÃO E
+INFRAESTRUTUR
+A ESCOLAR
+2 4 6
+DIRETORIA DE
+APOIO
+EDUCAÇÃO
+BÁSICA
+6 6
+
+--- [pag. PDF 9] ---
+70
+Local Tipo I Tipo II Quantidade
+de
+Equipamento
+s
+EDUCAÇÃO
+FUNDAMENTAL 4 4
+EDUCAÇÃO
+INFANTIL 7 7
+ENSINO
+FUNDAMENTAL 7 3 10
+GABINETE
+SECRETARI
+A
+5 4 9
+GESTÃO E
+FINANÇAS 3 25 28
+INSPEÇÃO 15 3 18
+LOGISTICA 1 1
+PATRIMÔNIO 2 12 14
+RH 15 15
+TRANSPORT
+E ESCOLAR 4 3 8
+ADMINISTRATIVO 1 1
+
+--- [pag. PDF 10] ---
+70
+CENTRO DE
+REFERÊNCIA EM
+EDUCAÇÃO
+INCLUSIVA
+18 18
+Local Tipo I Tipo II Quantidade
+de
+Equipamento
+s
+CONSELHO
+MUNICIPAL DE
+EDUCAÇÃO
+5 5
+DTIC 5 5
+ESCOLA
+MUNICIPAL
+ADOLFO
+BEZERRA DE
+MENEZES
+1 1
+ESCOLA
+MUNICIPAL
+JOÃOZINHO E
+MARIA
+2 2
+ESCOLA
+MUNICIPAL
+MARIA
+LOURENCINA
+PALMERIO
+1 1
+ESCOLA
+MUNICIPAL
+PROFESSOR
+JOSÉ GERALDO
+GUIMARAES
+2 2
+
+--- [pag. PDF 11] ---
+70
+ESCOLA
+MUNICIPAL
+PROFESSOR
+A JANE LUCE
+ARAUJO
+1 1
+Local Tipo I Tipo II Quantidade
+de
+Equipamento
+s
+ESCOLA
+MUNICIPAL
+PROFESSORA
+STELLA
+CHAVES
+1 1
+ESCOLA
+MUNICIPAL
+PROFESSOR
+A
+TEREZINHA
+HUEB DE
+MENEZES
+3 3
+ESCOLA
+MUNICIPAL
+RICARDO
+MISSON
+3 3
+ESCOLA
+MUNICIPAL
+VICENTE ALVES
+TRINDADE
+1 1
+Total Geral
+(conforme
+rodapé do
+relatório)
+131 79 210
+Secretaria de Desenvolvimento Social (SEDS)
+A Secretaria de Desenvolvimento Social conta com 27 equipamentos locados,
+conforme levantamento apresentado:
+
+--- [pag. PDF 12] ---
+70
+Descrição Quantidade
+Tipo V (Diversos Departamentos) 27
+Descrição Quantidade
+Total SMS 27
+QUADRO RESUMO – TOTAL DE COMPUTADORES (PRÓPRIOS + LOCADOS)
+Considerando os levantamentos apresentados, o parque computacional
+atualmente identificado na Prefeitura Municipal de Uberaba é composto por:
+Categoria Quantidade Observação
+Computadores Próprios 1.000 Dado institucional da PMU
+Locados – SMS 205 Relatório SMS
+Locados – Demais
+Secretarias (SAD) 582 Relatório SAD
+Locados – SEMED 210 Relatório SEMED
+Locados – SEDS 27 Relatório SEDS
+Total de Computadores
+Locados 1.024 (205 + 582+210+27)
+Total Geral (Próprios
++ Locados) 2.024 (1.000 + 1.024)
+
+--- [pag. PDF 13] ---
+70
+REAPROVEITAMENTO DOS MONITORES PERTENCENTES AO PATRIMÔNIO DA PMU
+A Prefeitura Municipal de Uberaba possui aproximadamente 1.000 (mil) monitores
+pertencentes ao seu patrimônio, os quais deverão ser avaliados quanto às condições físicas,
+funcionais e de compatibilidade com os novos equipamentos de informática a serem locados.
+Considerando uma estimativa média de aproveitamento de aproximadamente 50%
+desse parque de monitores, estima-se que até 500 (quinhentos) monitores possam apresentar
+condições de reutilização nos novos computadores locados.
+O cálculo estimativo é apresentado abaixo:
+1.000 monitores × 50% = 500 monitores potencialmente reutilizáveis.
+O reaproveitamento desses equipamentos deverá ocorrer sempre que tecnicamente
+viável, observando-se, no mínimo:
+● Condições de funcionamento do monitor;
+● Estado de conservação física;
+● Compatibilidade das interfaces de conexão com os computadores a serem
+disponibilizados;
+● Resolução e características técnicas compatíveis com a atividade desempenhada;
+● Existência e condições dos cabos e acessórios necessários;
+● Adequação ergonômica e operacional;
+● Vida útil remanescente do equipamento.
+Dessa forma, não se recomenda considerar previamente a substituição integral dos
+monitores pertencentes ao patrimônio da PMU, devendo-se priorizar o aproveitamento
+daqueles que apresentarem condições adequadas de utilização.
+A estimativa de 50% de aproveitamento deverá ser entendida como referência para
+planejamento, não representando garantia de que exatamente 500 monitores estarão aptos à
+reutilização. O quantitativo efetivamente aproveitado deverá ser definido após levantamento
+patrimonial e avaliação técnica individual ou por amostragem dos equipamentos.
+A estratégia de reaproveitamento dos monitores poderá proporcionar redução da
+necessidade de disponibilização de novos monitores juntamente aos computadores locados,
+evitando a substituição desnecessária de equipamentos que ainda possuam condições
+adequadas de uso e contribuindo para a racionalização dos recursos públicos.
+SOFTWARES UTILIZADOS POR SECRETARIA
+Diversas secretarias operam com softwares de alto desempenho gráfico e
+p’rocessamento, conforme tabela abaixo:
+
+--- [pag. PDF 14] ---
+70
+Secretaria Softwares Principais
+SEPLAN e SESUR
+B
+AUTOCAD, REVIT, SKETCHUP, LUMINA, VIEW,
+ARCGIS, AGISOFT, ZWCAD, GOOGLE MAPS
+SEMAM AUTOCAD, ZWCAD, GOOGLE MAPS
+SECOM ILLUSTRATOR, COREL DRAWN, PHOTOSHOP
+SEMED AUTOCAD, GOOGLE MAPS
+SAGRI AUTOCAD, ZWCAD, GOOGLE MAPS
+SEDEC e SEGOV GOOGLE MAPS
+SAD AUTOCAD, ZWCAD, GOOGLE MAPS
+CONSIDERAÇÕES
+O levantamento realizado demonstra que o parque computacional da Prefeitura
+Municipal de Uberaba é composto atualmente por aproximadamente 2.024 equipamentos,
+sendo 1.000 computadores próprios e 1.024 computadores locados.
+A quantidade e a diversidade das atividades desempenhadas pelas Secretarias
+Municipais exigem que a nova solução de locação de computadores seja dimensionada de
+acordo com os diferentes perfis de utilização existentes na Administração Municipal.
+Além das atividades administrativas convencionais, determinadas unidades utilizam
+softwares especializados, tais como AutoCAD, Revit, SketchUp, ArcGIS, Agisoft, CorelDRAW,
+Illustrator e Photoshop, que apresentam requisitos superiores de processamento, memória e
+capacidade gráfica.
+Quanto aos monitores pertencentes ao patrimônio municipal, recomenda-se que seja
+adotada uma política de reaproveitamento dos equipamentos que ainda apresentem
+condições adequadas de uso. Considerando a estimativa de aproveitamento médio de 50%
+sobre o universo de aproximadamente 1.000 monitores, existe potencial para reutilização de
+até 500 unidades juntamente com os novos computadores locados.
+
+--- [pag. PDF 15] ---
+70
+Essa medida permite racionalizar a utilização dos bens públicos, reduzir a necessidade
+de substituição indiscriminada dos periféricos e evitar custos desnecessários decorrentes da
+disponibilização de novos monitores para postos de trabalho que já possuam equipamentos
+patrimoniais em condições satisfatórias de utilização.
+A equipe de contratação, atenta às futuras necessidades do Município, prevê um
+aumento na quantidade de máquinas a serem locadas. Esse aumento é impulsionado pela
+realização de um novo concurso público e, consequentemente, pelo ingresso de novos
+servidores. Para acomodar essa expansão, será necessário um acréscimo no número de
+microcomputadores disponíveis para atender às novas demandas de pessoal.
+Vale destacar que o município já possui um conjunto de microcomputadores em seu
+patrimônio. No entanto, esses equipamentos estão defasados e, ao longo do tempo, têm se
+mostrado cada vez menos funcionais, muitos deles encontram-se inutilizados devido a
+problemas técnicos, estando, portanto, fora de operação. Diante dessa situação, faz-se
+necessário substituir esses microcomputadores por outros funcionais e atualizados.
+O contrato de locação atual é flexível e prevê essa possibilidade de expansão. A
+infraestrutura de TI, composta pelos microcomputadores locados, poderá ser escalonada de
+acordo com as necessidades crescentes do Município. A adaptabilidade e a capacidade da
+nova contratação em atender às demandas em constante evolução do órgão público são
+aspectos cruciais a serem considerados.
+Para fins de dimensionamento da nova contratação, foi elaborada a memória de cálculo
+consolidada, que considera o parque atual (2.024 equipamentos), a necessidade de
+substituição integral dos 1.000 equipamentos próprios defasados, a renovação parcial dos
+1.024 equipamentos locados e a projeção de expansão decorrente de novo concurso público
+e novas demandas institucionais.
+A consolidação resultou nos seguintes quantitativos máximos:
+- Microcomputador Tipo I: 2.299 unidades (sendo 1.115 na implantação imediata e
+1.184 em demanda futura);
+- Microcomputador Tipo II: 403 unidades (sendo 316 na implantação imediata e 87
+em demanda futura);
+- Notebook: 155 unidades (sendo 115 na implantação imediata e 40 em demanda
+futura).
+2. Alinhamento entre a contratação e o planejamento da Administração
+A contratação não foi prevista no PCA 2025 tendo em vista que está é uma demanda
+para o exercício de 2026, tendo sido devidamente prevista no Plano de Contratações Anual
+
+--- [pag. PDF 16] ---
+70
+de 2026, por meio dos DFDs: SAD- 143, SEMED - 007, SEDS – 032 E 033, SAÚDE – 22 e
+103.
+3. Descrição dos requisitos da potencial contratação
+3.1 –O objeto do contrato deve caracterizar-se como um serviço contínuo, pois
+abrange o fornecimento contínuo de microcomputadores com suporte técnico e manutenção
+ininterrupta.
+3.2 –Os equipamentos fornecidos devem atender exatamente às especificações
+impostas pelo Município, garantindo total adequação às necessidades estabelecidas.
+3.3 – Os serviços devem ser executados por profissionais altamente qualificados,
+proficientes no manuseio de sistemas, instalação, manutenção, suporte técnico, fornecimento
+de suprimentos e substituição dos equipamentos fornecidos. Esses profissionais devem
+possuir as habilidades técnicas necessárias para executar as tarefas de forma eficiente.
+3.4 – Deverão ser observados todas as normas de segurança e descarte de
+materiais eletrônicos.
+3.5 – A empresa contratada deve seguir procedimentos adequados para o descarte de
+materiais eletrônicos, garantindo práticas responsáveis e sustentáveis em relação ao meio
+ambiente, em conformidade com a Política Nacional de Resíduos Sólidos (Lei 12.305/2010).
+3.6 –Priorizar a utilização de itens, peças ou componentes que atendam a padrões de
+economia de energia, contribuindo para a eficiência energética e redução dos custos de
+operação.
+3.7 –Estabelecer um plano de manutenção que contemple tanto a manutenção
+corretiva (reparos emergenciais) quanto a manutenção preventiva (inspeções regulares para
+evitar falhas).
+3.8 –Garantir um sistema eficaz para atender rapidamente aos chamados de
+manutenção ou suporte técnico, minimizando possíveis interrupções nas operações.
+3.9 –Manter um registro detalhado de todas as intervenções realizadas nos
+equipamentos, com informações sobre as ações tomadas e peças substituídas.
+3.10 –Assegurar que todos os equipamentos fornecidos estão cobertos por garantia,
+com prazos claramente estipulados.
+3.11 –Estabelecer um procedimento eficiente para a resolução de problemas técnicos,
+garantindo um suporte rápido e preciso.
+3.12 –Fornecer atualizações regulares de software/hardware para manter os
+equipamentos e sistemas sempre atualizados e seguros.
+3.13 –Implementar um sistema de avaliação periódica do desempenho dos
+
+--- [pag. PDF 17] ---
+70
+equipamentos e serviços, buscando constantemente melhorias e eficiência.
+3.14 –Garantir um canal de comunicação eficaz e disponível para atender às
+demandas e necessidades do cliente de forma satisfatória e ágil.
+3.15 –A execução da entrega e instalação dos equipamentos observará dois regimes
+distintos, conforme detalhado no TR:
+a) Implantação inicial: prazo máximo de 60 (sessenta) dias corridos, contados da
+Ordem de Serviço inicial, para a entrega e instalação dos quantitativos iniciais. A viabilidade
+do prazo de 60 dias está amparada em estudo logístico que considerou: (i) a capacidade
+operacional do mercado fornecedor, com base em contratações similares realizadas por
+outros municípios de porte equivalente; (ii) a experiência prévia da Administração com a
+implantação do contrato de locação anterior (Codiub); (iii) a execução por ondas, com
+planejamento detalhado e aprovação da fiscalização.
+b) Demanda futura (sob demanda): Prazo máximo de 30 (trinta) dias corridos,
+contados do recebimento de cada Ordem de Serviço específica, admitida uma única
+prorrogação por igual período nas condições objetivas previstas no Termo de Referência e
+mediante decisão expressa da Administração.
+A definição do prazo de 30 dias corridos para atendimento da demanda futura está
+amparada em análise de viabilidade logística, considerando a capilaridade da Administração
+Municipal, a necessidade de uniformidade técnica e interoperabilidade dos equipamentos e a
+capacidade instalada do mercado fornecedor, observada a experiência de contratações
+similares.
+3 – PROSPECÇÃO DE SOLUÇÕES
+1. Levantamento de Mercado
+Realizamos uma pesquisa abrangente para identificar as soluções, inovações e
+alternativas que estão disponíveis no mercado tecnológico no que tange às relações
+comerciais de oferta de microcomputadores, as quais pudessem atender às necessidades do
+município. Também prospectamos quanto à execução direta do próprio município com o
+objetivo de alcançar os resultados desejados, considerando os critérios essenciais que
+norteiam a Administração Pública.
+Comodato
+Entende-se por comodato a operação de empréstimo a título gratuito de bens móveis
+infungíveis, a qual se perfaz com a simples tradição do objeto, mediante contrato escrito. Esse
+
+--- [pag. PDF 18] ---
+70
+tipo de contrato é previsto nos artigos 579 e 585 do Código Civil da Lei nº 10.406.202. Por sua
+vez, coisas infungíveis são bens que não podem ser substituídos por outro da mesma espécie,
+qualidade ou quantidade (exemplo: comodato de imóvel ou veículo, ou equipamento
+específico). Portanto, para que a operação seja classificada como comodato, se faz
+necessário o preenchimento dos seguintes requisitos: gratuidade e infungibilidade do bem.
+● A gratuidade decorre da própria natureza do comodato, pois caso fosse
+oneroso, seria classificado como locação. Sendo assim, o contribuinte que
+realiza remessa em comodato o faz de forma gratuita, sem exigir do
+comodatário um pagamento em contrapartida.
+● A infungibilidade do objeto implica no retorno da mesma coisa recebida em
+empréstimo. Dessa forma, não poderá o contribuinte realizar o retorno de
+mercadoria recebida em comodato com mercadoria diversa daquela que
+recebeu na remessa realizada pelo comodante.
+É o instrumento celebrado entre o particular (pessoa física ou jurídica) e a
+Administração Pública com o fito da primeira emprestar a segunda um bem móvel ou imóvel,
+de forma gratuita, para uso por um período pré-determinado (curto ou longo prazo).
+Não será pago qualquer valor a título de aluguel. No entanto, poderá a Administração
+Pública ser responsável pelos custos afetos à manutenção e reparo do bem.
+Podem ser dados em comodato quaisquer tipos de imóveis e bens móveis infungíveis,
+como semoventes, veículos, maquinários, equipamentos etc.
+Leasing
+No leasing, a locadora adquire um bem e o aluga para um cliente. Ao término desse
+contrato, o locatário tem algumas opções: a primeira consiste na simples renovação; a
+segunda, em providenciar a devolução do item - nesse caso, pode haver uma cláusula
+específica sobre a garantia de indenizações ou amortizações; e a terceira em comprar o bem
+pelo preço de mercado ou por um valor residual, definido previamente no documento.
+Aliás, essa última opção pode ser mais vantajosa do que o financiamento. Por isso, se
+a intenção for mesmo a compra, é preciso comparar as duas alternativas.
+Basicamente, existem três modelos de leasing: financeiro, operacional e leasing back.
+● No leasing operacional, a locadora cede os equipamentos e é responsável pelos
+custos de manutenção. Desse modo, o empresário tem mais segurança e
+previsibilidade sobre os seus gastos.
+● No leasing financeiro se assemelha a um aluguel, mas também permite a
+
+--- [pag. PDF 19] ---
+70
+aquisição ao final do período por uma quantia preestabelecida.
+● No leasing back é útil quando o foco é garantir mais capital de giro. Nessa
+modalidade, a empresa vende seus bens para uma locadora e, então, passa a
+pagar uma mensalidade para continuar utilizando essas instalações.
+Após análise aprofundada, concluímos que existem 02 (duas) opções para atender à
+demanda, uma em relação à execução direta do próprio município e a outro referente à
+terceirização.
+SOLUÇÃO 01
+A aquisição de microcomputadores, notebooks e monitores, embora pareça ser uma
+decisão lógica à primeira vista, muitas vezes não se traduz em uma escolha economicamente
+vantajosa e eficaz no longo prazo. Uma análise mais aprofundada revela várias razões
+técnicas e operacionais que fundamentam essa perspectiva.
+A aquisição de equipamentos que atendem a todas as especificações técnicas
+detalhadas no Termo de Referência (anexo do edital).
+Especificações resumidas (conforme TR):
+● Microcomputador Tipo I: Processador com mínimo de 38.000 pontos no
+PassMark, 16GB DDR5, SSD 480GB NVMe PCIe 3.0 (leitura 3.200 MB/s e
+gravação 2.100 MB/s);
+● Microcomputador Tipo II: Processador com mínimo de 48.000 pontos no
+PassMark, 32GB DDR5, SSD 480GB NVMe PCIe 3.0 (leitura 3.200 MB/s e
+gravação 2.100 MB/s);
+● Notebook: Processador com mínimo de 14.700 pontos no PassMark, 16GB
+DDR5, SSD 512GB NVMe PCIe 3.0, vídeo integrado com suporte a monitor
+externo Full HD);
+Ressalta-se que as especificações de desempenho do processador foram atualizadas
+em relação à versão preliminar deste ETP, com o objetivo de alinhar os requisitos mínimos às
+demandas futuras dos sistemas institucionais, garantindo maior longevidade tecnológica e
+reduzindo a necessidade de upgrades precoces. As pontuações PassMark adotadas (38.000
+para Tipo I e 48.000 para Tipo II) refletem a necessidade de processamento exigida pelos
+softwares especializados utilizados por diversas secretarias.
+Primeiramente, é crucial considerar o cenário tecnológico dinâmico. A tecnologia evolui
+a uma taxa surpreendente, resultando em uma rápida obsolescência dos dispositivos
+eletrônicos. Os microcomputadores e notebooks, mesmo os mais avançados, no momento da
+sua aquisição, podem se tornar defasados em curto prazo. Essa obsolescência não apenas
+
+--- [pag. PDF 20] ---
+70
+limita a eficiência operacional, mas também demanda investimentos frequentes para manter
+a infraestrutura tecnológica atualizada.
+Além disso, há os custos substanciais associados à manutenção e reparo desses
+dispositivos. A posse direta implica responsabilidade total pela manutenção, incluindo reparos,
+substituição de peças e atualizações de hardware e software. Esses custos podem se
+acumular ao longo do tempo, impactando negativamente o orçamento municipal.
+Outra consideração fundamental é a flexibilidade operacional. A aquisição direta dos
+dispositivos pode limitar a flexibilidade do município em adaptar-se às mudanças nas
+necessidades e tecnologias emergentes. A rápida evolução tecnológica pode tornar os
+equipamentos adquiridos obsoletos antes mesmo de seu ciclo de vida útil esperado, levando
+a um ciclo constante de substituição e gastos excessivos.
+Além disso, a gestão interna de uma grande quantidade de equipamentos eletrônicos
+pode ser complexa e exigir uma equipe de TI especializada. Isso aumenta os custos
+operacionais e a dependência da expertise técnica, o que pode ser um desafio em um cenário
+de recursos limitados.
+A Prefeitura Municipal de Uberaba enfrenta um desafio significativo, uma vez que não
+dispõe de uma equipe especializada ou departamento dedicado à instalação e manutenção
+de microcomputadores e notebooks, ou seja, manutenção de um parque tecnológico, para
+atender às demandas tecnológicas em constante evolução. Isso se reflete na complexidade
+crescente das infraestruturas tecnológicas e na necessidade de manter sistemas
+operacionais, equipamentos e softwares atualizados.
+A ausência de uma equipe especializada pode ter um impacto direto na eficiência
+operacional e na confiabilidade dos sistemas e equipamentos utilizados pela administração
+municipal. A manutenção inadequada ou a falta de atualização podem levar a falhas nos
+sistemas, interrupções nos serviços públicos e possíveis vulnerabilidades de segurança.
+Nesse contexto, torna-se essencial buscar parcerias estratégicas ou considerar a
+terceirização de serviços para suprir essa lacuna de especialização. Estabelecer parcerias
+com empresas especializadas em TI pode proporcionar acesso a conhecimentos e
+habilidades técnicas avançadas, garantindo a manutenção adequada e o funcionamento
+otimizado dos equipamentos e sistemas utilizados pela administração municipal.
+Além disso, investir na capacitação interna dos colaboradores para gerenciar e manter
+o parque tecnológico pode ser uma alternativa viável. Isso envolve programas de treinamento
+para a equipe existente, promovendo a aquisição de habilidades necessárias para administrar
+e solucionar questões relacionadas à tecnologia. Essa capacitação contribui para uma gestão
+mais eficiente dos recursos tecnológicos e uma melhor resposta às demandas emergentes.
+Portanto, a busca por parcerias estratégicas, a terceirização de serviços especializados
+
+--- [pag. PDF 21] ---
+70
+ou o investimento em capacitação interna são estratégias essenciais para aprimorar a gestão
+de tecnologia na Prefeitura Municipal de Uberaba. Essas ações visam garantir que a cidade
+possa se adaptar e inovar em um cenário tecnológico em constante evolução, assegurando a
+entrega de serviços de qualidade à sua comunidade.
+Mesmo considerando a possibilidade de realização de um concurso público, é
+importante notar que a Prefeitura Municipal de Uberaba pode enfrentar desafios consideráveis
+na obtenção de profissionais de Tecnologia da Informação (TI) em número suficiente para
+atender às suas necessidades. A crescente demanda por especialistas em TI no mercado de
+trabalho pode resultar em uma concorrência acirrada por talentos altamente qualificados, o
+que pode tornar o recrutamento e a seleção desafiadores.
+Além disso, a constante evolução das tecnologias exige um processo de recrutamento
+e seleção muito criterioso para encontrar profissionais com as habilidades e conhecimentos
+necessários. A complexidade das operações tecnológicas modernas, que abrangem desde
+infraestrutura de rede até desenvolvimento de software, requer uma equipe diversificada e
+altamente qualificada.
+Nesse cenário competitivo, é crucial que a administração municipal adote estratégias
+adicionais para mitigar a escassez de profissionais de TI. Uma estratégia eficaz pode envolver
+o estabelecimento de programas de capacitação interna, onde os funcionários existentes
+podem ser treinados e atualizados com as habilidades mais recentes em TI. Isso não apenas
+valoriza os colaboradores existentes, mas também ajuda a preencher lacunas de habilidades.
+Além disso, parcerias estratégicas com instituições de ensino e universidades podem
+ser uma abordagem valiosa para garantir um fluxo contínuo de talentos. Estágios, programas
+de trainee ou colaborações acadêmicas podem ser criados para envolver estudantes e
+graduados no ambiente de trabalho da prefeitura, proporcionando-lhes experiência prática e
+preparando-os para futuras posições em TI.
+Além dos desafios relacionados à equipe de TI, é crucial destacar que a Prefeitura
+Municipal de Uberaba enfrenta não apenas limitações relacionadas à disponibilidade de
+profissionais especializados em TI, mas também restrições orçamentárias significativas e a
+falta de previsão para a aquisição de ferramentas e, especialmente, de um espaço técnico
+dedicado que permitiriam a execução direta das instalações e manutenções necessárias.
+A aquisição das ferramentas adequadas e a alocação de um espaço técnico são
+aspectos fundamentais para garantir a operacionalidade eficiente dos sistemas e
+infraestruturas tecnológicas. A falta desses investimentos pode acarretar atrasos nas
+operações, falhas operacionais e impactar diretamente a qualidade dos serviços prestados à
+comunidade. Essas limitações ressaltam a necessidade premente de revisão das prioridades
+
+--- [pag. PDF 22] ---
+70
+orçamentárias e a busca de alternativas criativas para suprir essas necessidades tecnológicas
+essenciais.
+Além disso, estratégias de otimização de recursos, como a reavaliação e readequação
+de contratos existentes, podem liberar recursos que podem ser realocados para atender às
+necessidades de infraestrutura tecnológica. Uma gestão financeira mais estratégica e flexível
+é vital para garantir que os investimentos em TI estejam alinhados com as prioridades da
+administração municipal.
+Em síntese, a busca por soluções criativas e parcerias estratégicas se torna crucial
+para superar as limitações orçamentárias e de recursos humanos, permitindo que a Prefeitura
+de Uberaba alcance uma eficiência operacional efetiva em suas operações tecnológicas e
+continue a oferecer serviços de qualidade à comunidade.
+A contratação de servidores especializados em TI, embora seja uma medida
+necessária para fortalecer a capacidade de instalação e manutenção de equipamentos,
+também representa um aumento significativo nos gastos com pessoal (RH), espaço físico e
+ferramentas. Além disso, é importante considerar que, mesmo após a contratação, pode ser
+necessário investir em treinamentos e capacitações para garantir que esses profissionais
+estejam preparados para desempenhar as atividades de manutenção preventiva e corretiva
+dos equipamentos de forma eficaz. Portanto, a busca por soluções que equilibrem eficiência
+operacional, custos e recursos disponíveis é essencial para que a Prefeitura Municipal de
+Uberaba possa enfrentar os desafios tecnológicos com sucesso e atender às demandas
+crescentes da comunidade de maneira sustentável.
+Considerando esses aspectos, é evidente que a aquisição direta de
+microcomputadores e notebooks para a Prefeitura Municipal de Uberaba pode não ser a
+escolha mais eficaz e econômica. Alternativas, como locação, outsourcing ou implementação
+de soluções baseadas em nuvem, oferecem uma abordagem mais flexível, escalável e
+financeiramente otimizada para atender às necessidades tecnológicas do município.
+Portanto, a avaliação cuidadosa dos custos, a análise das necessidades operacionais
+e a compreensão da dinâmica tecnológica são essenciais ao tomar uma decisão informada
+sobre a aquisição de microcomputadores e notebooks. Em muitos casos, outras abordagens
+podem proporcionar um melhor equilíbrio entre eficiência, eficácia e sustentabilidade
+financeira.
+SOLUÇÃO 2
+Outsourcing de TI - Prestação contínua e sob demanda de solução integrada de
+estações de trabalho como serviço (PCaaS - PC as a Service)
+O termo outsourcing de TI se refere ao uso de prestadores de serviços externos para
+
+--- [pag. PDF 23] ---
+70
+entregar serviços efetivos de Tecnologia da Informação. De origem inglesa, a palavra
+outsourcing significa “fonte externa” e remete ao uso estratégico de profissionais e serviços
+de empresas terceirizadas em auxílio à organização, transferindo suas responsabilidades
+para fornecedores externos.
+Nesse modelo, o gestor contrata os serviços de uma empresa para cuidar de suas
+atividades-meio (aquelas que não estão relacionadas à sua atividade principal), permitindo
+que a gestão concentre suas energias nas atividades-fim.
+Assim, terceiriza-se a infraestrutura de TI para uma empresa especializada, que ficará
+encarregada da gestão, do controle e da manutenção dos sistemas de informação e do
+fornecimento de profissionais especializados.
+Tipos de outsourcing de TI
+Existem basicamente três tipos de outsourcing de TI: offshore, onshore e nearshore.
+Veja a seguir no que eles se diferem:
+Offshore: O offshore outsourcing aloca os processos e a infraestrutura em países em
+desenvolvimento - como China, Malásia e Índia - para reduzir os custos no setor de TI. Nessa
+modalidade, tarefas como o desenvolvimento de software, suporte e manutenção de
+infraestrutura têm sua realização migrada para outro país.
+A opção por contratar serviços em países distantes ocorre em razão dos menores
+custos para contratação de profissionais capacitados. A dificuldade de se usar esse tipo de
+outourcing fica por conta dos problemas de comunicação com países de idiomas diferentes e
+com diferenças culturais.
+Onshore: Em serviços de onshore outsourcing, a terceirização é realizada a partir de
+empresas situadas dentro da mesma cidade, estado ou país da empresa ou órgão público
+contratante. Com essa proximidade, são resolvidos os problemas de choque cultural e
+linguístico.
+Nearshore: Nesse modelo, são contratados serviços de empresas situadas em países
+vizinhos ou regiões próximas, que têm o mesmo idioma, fuso horário e culturas semelhantes
+em relação à empresa contratante. Com isso, são atenuadas as diferenças impostas pela
+distância geográfica, ao mesmo tempo em que é possível aproveitar o cenário econômico
+mais favorável de nações vizinhas.
+Com a contratação dos serviços de uma empresa de outsourcing de TI, tanto a gestão
+da infraestrutura de tecnologia quanto a contratação de profissionais capacitados ficam por
+conta dos fornecedores, que passam a se encarregar da implantação, manutenção e
+resolução de todos os problemas da área tecnológica.
+
+--- [pag. PDF 24] ---
+70
+O aumento da produtividade e a redução de custos estão entre os benefícios mais
+atrativos trazidos pelo outsourcing de TI. Para poder contar com essas vantagens, a gestão
+pública deve buscar o suporte de uma empresa de TI capaz de assegurar o bom
+funcionamento da infraestrutura tecnológica.
+Com um departamento de TI eficiente, o órgão público terá à sua disposição uma
+infraestrutura de serviços e soluções tecnológicas de alto desempenho. A avaliação constante
+dos serviços de tecnologia e o acompanhamento dos trabalhos são cruciais para corrigir erros
+e alcançar resultados expressivos.
+Segue as vantagens do outsourcing de TI para o setor público:
+Redução de custos: manter uma equipe própria de TI pode sair bastante caro, devido
+aos gastos com contratação de profissionais especializados, compra de equipamentos,
+manutenção de infraestrutura, encargos trabalhistas, entre outros.
+A contratação de uma empresa especializada em outsourcing de TI terceiriza a gestão
+dos profissionais de tecnologia, facilita a aferição dos gastos e a redução de custos com a
+manutenção de recursos que não estão em uso. Além disso, terceirizar o setor de TI para
+empresas especializadas torna as despesas muito mais mensuráveis e previsíveis, facilitando
+a gestão e evitando gastos desnecessários.
+Com o outsourcing de TI, todas as responsabilidades com a área de tecnologia ficam
+por conta da empresa contratada, reduzindo a estrutura operacional do órgão ou empresa, e
+diminuindo os custos. Outra vantagem é a flexibilidade de pagamento, que pode ocorrer tanto
+por serviços utilizados sob demanda quanto por valores mensais acordados previamente.
+Maior controle dos processos: Gerenciar os ativos de TI de modo a manter a
+atualização de toda a infraestrutura pode ser bastante desafiador, principalmente, para
+profissionais de outras áreas. Com um bom gerenciamento dos processos internos, a equipe
+da área de TI se torna capaz de alinhar os objetivos da administração ou do negócio com seus
+processos de gerenciamento de recursos tecnológicos, eliminando erros e falhas que possam
+comprometer a rotina da instituição.
+A terceirização também permite que o gestor consiga se concentrar nas suas
+competências, aperfeiçoar conhecimentos sobre os assuntos da sua área e buscar novas
+soluções para o setor público.
+Segurança das informações: Ao contratar uma empresa da área de TI, o órgão
+público tem mais garantia sobre a segurança das informações. Nesse caso, a prestadora de
+serviços será responsável por reduzir as vulnerabilidades no sistema, que podem ocasionar
+ataques cibernéticos e perdas de dados.
+A empresa especializada em TI também consegue controlar o acesso dos usuários ao
+sistema, evitando que sejam feitos usos indevidos e desvios de informações. Além disso, os
+
+--- [pag. PDF 25] ---
+70
+sistemas integrados favorecem a organização e acesso às informações, evitando o extravio
+de dados importantes.
+Os softwares de videoconferência, por exemplo, são seguros e permitem que as
+empresas protejam o acesso às configurações a partir de um código PIN, que é solicitado para
+conferir acesso às seções da interface. Com esses cuidados, a segurança de dados é
+garantida e as informações do órgão público estarão sempre protegidas.
+Comunicação facilitada entre os órgãos: As novas soluções de comunicação se
+mostram muito atraentes tanto para o poder público quanto para o mundo corporativo. Uma
+empresa especializada em TI pode ajudar a administração pública a encontrar os meios e
+ferramentas para facilitar a sua comunicação interna e externa, permitindo oferecer serviços
+mais eficientes e qualificados.
+A videoconferência, por exemplo, já está sendo utilizada em algumas organizações
+para promover reuniões com pessoas situadas em locais diferentes e remotos, otimizando o
+tempo dos profissionais e reduzindo as dificuldades e os custos com viagens corporativas.
+Essa tecnologia também é usada na telemedicina, possibilitando que especialistas do
+setor de saúde acompanhem em tempo real uma cirurgia ou uma consulta realizada
+remotamente. Desse modo, o paciente recebe um suporte de vários profissionais, tendo um
+diagnóstico mais preciso e um tratamento mais eficiente.
+Uso de tecnologias avançadas: As empresas de outsourcing de TI possibilitam
+elaborar uma infraestrutura de TI mais eficiente e com profissionais especializados. Ademais,
+a empresa terceirizada é encarregada de avaliar os processos, corrigir as falhas e apresentar
+relatórios de desempenho. Ao terceirizar os serviços de TI, os contratantes têm acesso a
+recursos atualizados e profissionais especializados, que podem ajudar a melhorar sua
+performance como um todo.
+A infraestrutura de TI de uma empresa pode mudar rapidamente. A rapidez com que
+softwares e hardwares se tornam obsoletos pode fazer com que muitos órgãos e empresas
+fiquem desatualizados. Com o outsourcing de TI, o contratante não precisa mais se preocupar
+com isso, pois a empresa contratada será responsável por fornecer serviços de ponta para o
+órgão público.
+Inclusive, para alcançar a eficiência necessária em todo o processo, a gestão na área
+de TI requer conhecimentos específicos na área. Ao optar pela terceirização, o gestor do órgão
+público terá o auxílio necessário para identificar a melhor maneira de executar as suas
+atividades, de acordo com as necessidades da administração.
+Otimização dos recursos aplicados em TI: Planejar gastos e investimentos em ativos
+de TI tende a se mostrar uma missão bastante desafiadora, em especial, para gestores de
+
+--- [pag. PDF 26] ---
+70
+órgãos públicos cuja área de atuação não é a tecnologia. Do ponto de vista administrativo,
+gestores que aplicam o outsourcing de TI podem se dedicar exclusivamente ao que mais lhes
+interessa: o desenvolvimento da própria instituição.
+Contratar uma empresa especializada em gestão de TI garante que os investimentos
+em novos equipamentos e de profissionais do setor de tecnologia serão bem direcionados e
+que o sistema de software se mantenha sempre atualizado, seguro e apresente um
+desempenho adequado para otimizar os processos e garantir a oferta de serviços de
+qualidade.
+O outsourcing também pode ser adotado em órgãos que já contam com uma equipe
+de TI qualificada, mas têm necessidade de ampliar o número de pessoas que atuam na área
+tecnológica - ainda que por um curto período. A terceirização permite ampliar rapidamente o
+seu time de TI para conseguir se manter em dia com os prazos e aumentar a produtividade.
+Melhorar o foco da administração: Para o órgão público poder focar na gestão das
+atividades-meio, a contratação de uma empresa de outsourcing de TI pode ser muito
+importante, pois as responsabilidades do setor de tecnologia, que não fazem parte das
+atividades-fim do órgão contratante, passam a ficar delegadas à empresa terceirizada.
+Para isso, é importante que fornecedor e contratante dos serviços de outsourcing
+tenham suas estratégias bem alinhadas, para que possam trabalhar harmonicamente. Para
+que a administração alcance maior eficiência, o gestor deve ter à sua disposição tecnologias
+que são capazes de simplificar os procedimentos com um foco maior em resultados.
+Os serviços de outsourcing também podem ser úteis também para a atividade principal
+da empresa, ajudando com a redução de custos, análise de dados, otimização de processos
+e aumento de produtividade.
+Com o uso da tecnologia adequada, os servidores conseguem organizar melhor as
+suas tarefas e não têm suas atividades afetadas por atrasos ou desvio de atenção. Desse
+modo, mesmo atividades como reuniões realizadas por meio de videoconferência podem ter
+o seu foco beneficiado, pois os encontros realizados podem se concentrar nos assuntos mais
+importantes, tornando o momento mais produtivo.
+A locação (outsourcing Onshore) de microcomputadores, notebooks e monitores é a
+melhor estratégia e a mais estratégia inteligente, tem ganhado cada vez mais adeptos no
+mundo tecnológico moderno. Esse modelo oferece uma série de benefícios substanciais, tanto
+do ponto de vista técnico quanto financeiro.
+Ao optar pela locação (outsourcing Onshore), o município pode contar com a expertise
+de fornecedores especializados, que possuem conhecimentos avançados em hardware,
+software e suporte técnico. Essa parceria proporciona uma gestão mais eficiente dos
+equipamentos, garantindo sua manutenção em dia, atualizações de software e um suporte
+
+--- [pag. PDF 27] ---
+70
+técnico ágil e competente.
+Ademais, a rápida obsolescência tecnológica é um desafio constante na era digital.
+Optando pela locação, o município se liberta da responsabilidade de lidar com a
+desvalorização e a substituição frequente dos dispositivos. O fornecedor é encarregado de
+manter os equipamentos atualizados, garantindo que estejam sempre em conformidade com
+as últimas inovações tecnológicas.
+A flexibilidade proporcionada pela locação também é um aspecto crucial. O município
+pode ajustar a quantidade e as configurações dos dispositivos conforme a necessidade, seja
+expandindo ou reduzindo o parque de equipamentos. Isso permite uma gestão mais ágil e
+eficiente dos recursos, alinhada às demandas específicas da administração municipal.
+Além disso, a locação (outsourcing Onshore) de microcomputadores, notebooks e
+monitores oferece um modelo de custos previsíveis. O município sabe exatamente quanto
+será gasto mensalmente com essa modalidade, facilitando o planejamento orçamentário e
+evitando surpresas financeiras desagradáveis. Esse modelo contribui para uma gestão
+financeira mais transparente e eficaz.
+Outro ponto relevante é a possibilidade de focar nos processos essenciais do
+município. A gestão dos equipamentos é transferida para o fornecedor, permitindo que a
+equipe interna se concentre nas atividades e projetos centrais, sem se preocupar com a
+manutenção e a atualização dos dispositivos.
+Portanto, ao adotar a locação (outsourcing Onshore) de microcomputadores,
+notebooks e monitores, o Município prioriza eficiência operacional, modernização,
+previsibilidade de desembolso e transferência de riscos associados à manutenção e à
+obsolescência. A solução não é apresentada como necessariamente mais barata em qualquer
+cenário, mas como alternativa capaz de conciliar continuidade, atualização tecnológica e
+atendimento sob demanda.
+RESUMO DE VANTAGENS E DESVANTAGENS
+Soluções Vantagens Desvantagens
+Aquisição de
+microcomputadores
+completos e notebooks
+Eficiência operacional,
+Customização e adequação,
+segurança de dados,
+Economia a longo prazo,
+flexibilidade de uso, fomento
+à inovação, Continuidade de
+serviços
+Custo inicial elevado,
+Despesas de manutenção e
+atualização, Obsolescência
+tecnológica, Risco de
+depreciação rápida,
+Necessidade de gestão
+especializada, Limitações
+orçamentárias
+
+--- [pag. PDF 28] ---
+70
+Locação (outsourcing) de
+microcomputadores
+completos e notebooks
+Custos iniciais reduzidos,
+orçamento previsível,
+Atualização tecnológica
+facilitada, Manutenção e
+suporte inclusos,
+flexibilidade e escalabilidade,
+Rapidez na implementação,
+mitigação de riscos,
+Possibilidade de testes e
+avaliação
+Compromisso contratual,
+Dependência do fornecedor,
+Falta de propriedade,
+Restrições contratuais, Custos
+ocultos, Incapacidade de
+personalização, Vínculo
+contratual de longo prazo.
+Estimativa do valor da contratação
+Solução 01 –AQUISIÇÃO DOS EQUIPAMENTOS
+Descrição Especificação Quantidade Valor (un) Total p/ 60
+meses
+Microcomputador
+tipo I com Sistema
+Operacional e
+pacote de
+programas
+(planilhas, texto e
+apresentação)
+Processador com
+mínimo de 38.000
+pontos no PassMark,
+16GB SSD, 480GB
+2.299 R$ 7.300,00 R$ 16.782.700,00
+Microcomputador
+tipo II com Sistema
+Operacional e
+pacote de
+programas
+(planilhas, texto e
+apresentação)
+Processador com
+mínimo de 48.000
+pontos no PassMark,
+32GB SSD, 480GB
+403 R$ 9.500,00 R$ 3.828.500,00
+Monitor tipo 1 21” Monitor 21” saída
+DisplayPort e HDMI
+320 R$ 700,00 R$ 224.000,00
+Notebooks com
+Sistema
+Operacional e
+pacote de
+programas
+(planilhas, texto e
+apresentação)
+Processador com
+mínimo de 14.700
+pontos no PassMark,
+16GB SSD, 480GB
+155 R$ 7.500,00 R$ 1.162.500,00
+Equipe de Suporte
+e Infraestrutura -
+60 meses
+Técnicos de
+Informática
+14 R$ 2.803.959,00
+
+--- [pag. PDF 29] ---
+70
+Equipe de Suporte
+e Infraestrutura -
+60 meses
+Analistas de Sistema 3 Proxy de
+sensibilidade
+R$ 600.848,36*
+Veículos +
+Combustível +
+Motorista
+Para descolamento
+da equipe de
+chamados/manutenç
+ão
+2 R$ 751.090,91
+Manutenção
+(peças e mão de
+obra) - 60 meses
+Manutenção
+preventiva e
+corretiva, reposição
+de peças e
+componentes
+necessários à
+manutenção da
+solução
+20% Estimativa
+Baseada /
+TCO Gov.
+Federal
+R$ 4.399.540,00
+Software de
+Monitoramento e
+Inventário
+Acompanhamento do
+parque em tempo
+real e manutenção
+do inventário
+1 R$ 1.628.500,00
+Central de
+Atendimento
+Própria de
+Chamados
+Atendimento dos
+chamados para
+atender ocorrências
+e suportes em geral
+1
+R$ 335.000,00
+Custos de
+Patrimonialização
+dos Equipamentos
+Controle do
+Patrimônio Municipal
+e etiquetagem de
+todos os
+equipamentos
+SV R$ 44.605,28
+SUBTOTAL – AQUISIÇÃO DOS
+EQUIPAMENTOS
+R$ 21.997.700,00
+CUSTOS COMPLEMENTARES DOCUMENTADOS – 60 MESES R$ 9.962.695,19
+TCO BRUTO DOCUMENTADO – 60 MESES R$ 31.960.395,19
+(-) VALOR RESIDUAL DOS BENS Vide análise de
+sensibilidade
+abaixo
+Solução 02 – Prestação contínua e sob demanda de solução integrada de estações
+de trabalho como serviço (PCaaS - PC as a Service)
+
+--- [pag. PDF 30] ---
+70
+Descrição Quantidade Valor (un) Total mês
+Microcomputador tipo
+I com Sistema
+Operacional e pacote
+de programas
+(planilhas, texto e
+apresentação)
+Processador com
+mínimo de 38.000
+pontos no
+PassMark, 16GB
+SSD, 480GB
+2.299 R$ 320,00 R$ 735.680,00
+Microcomputador tipo
+II com Sistema
+Operacional e pacote
+de programas
+(planilhas, texto e
+apresentação)
+Processador com
+mínimo de 48.000
+pontos no
+PassMark, 32GB
+SSD, 480GB
+403 R$ 400,00 R$ 161.200,00
+Monitor tipo 1 21” Monitor 21”
+saída
+DisplayPort e
+HDMI
+320 R$ 50,00 R$ 16.000,00
+Notebooks com
+Sistema Operacional
+e pacote de
+programas
+(planilhas, texto e
+apresentação)
+Processador com
+mínimo de 14.700
+pontos no
+PassMark, 16GB
+SSD, 480GB
+155 R$ 400,00 R$ 62.000,00
+TOTAL MENSAL –
+CENÁRIO MÁXIMO
+R$ 974.880,00
+TOTAL PARA 60
+MESES – CENÁRIO
+MÁXIMO
+R$ 58.492.800,00
+ANÁLISE COMPARATIVA PELO CUSTO TOTAL DE PROPRIEDADE (TCO)
+– HORIZONTE DE 60 MESES
+Em atendimento ao apontamento do Parecer Jurídico de reanálise, a comparação entre
+aquisição e PCaaS foi refeita em horizonte homogêneo de 60 (sessenta) meses. Na
+alternativa de aquisição, não se considera apenas o desembolso para compra dos bens, mas
+o Custo Total de Propriedade (TCO), compreendendo os custos necessários para
+implantação, operação, manutenção, suporte, monitoramento, inventário, logística,
+substituição e gestão do parque ao longo do período.
+Os quantitativos de 2.299 microcomputadores Tipo I, 403 microcomputadores Tipo II,
+155 notebooks e 320 monitores são os quantitativos máximos utilizados na comparação.
+
+--- [pag. PDF 31] ---
+70
+Foram eliminadas da memória da alternativa de aquisição as linhas adicionais de 851
+equipamentos Tipo I, 149 equipamentos Tipo II e 1.000 monitores, pois sua manutenção na
+mesma base de cálculo produziria sobreposição com os quantitativos já consolidados e
+impediria comparação homogênea com a solução PCaaS.
+O custo dos 3 (três) analistas de sistemas não possui memória individualizada
+específica entre os documentos que suportam o TCO documentado. Por essa razão, o valor
+de R$ 600.848,36 não integra o TCO bruto documentado de R$ 31.960.395,19 e é utilizado
+exclusivamente como proxy de sensibilidade, calculada a partir do custo médio per capita dos
+14 (quatorze) técnicos já documentados: R$ 2.803.959,00 ÷ 14 × 3 = R$ 600.848,36 para 60
+meses. A distinção entre custo documentado e proxy é preservada em todos os quadros
+comparativos.
+Componente do ciclo de
+vida
+Aquisição – 60
+meses
+PCaaS – 60
+meses
+Observação
+Aquisição /
+disponibilização dos
+equipamentos
+R$ 21.997.700,00 Incluído na
+mensalidade
+Valor dos bens no
+cenário de
+aquisição.
+Equipe de suporte – 14
+técnicos
+R$ 2.803.959,00 Incluído na
+mensalidade
+Custo
+documentado no
+ETP.
+Equipe de suporte – 3
+analistas de sistemas
+Não monetizado* Incluído na
+mensalidade
+Sem
+memór
+ia individualizada
+nesta versão.
+Veículos, combustível e
+motorista
+R$ 751.090,91 Incluído na
+mensalidade
+Logística de
+atendimento e
+manutenção.
+Manutenção
+preventiva/corretiva,
+peças e mão de obra
+R$ 4.399.540,00 Incluído na
+mensalidade
+Estimativa de 20%
+da base de
+aquisição,
+conforme
+memória do ETP.
+Software de
+monitoramento e
+inventário
+R$ 1.628.500,00 Incluído na
+mensalidade
+Acompanhament
+o e
+inventário do
+parque.
+Central própria de
+atendimento de chamados
+R$ 335.000,00 Incluído na
+mensalidade
+Atendimento de
+ocorrências e
+suporte.
+Patrimonialização /
+etiquetagem R$ 44.605,28 Incluído na
+solução Controle e
+identificação
+patrimonial.
+TCO bruto documentado R$ 31.960.395,19 R$ 58.492.800,00 PCaaS em
+cenário máximo
+teórico de 60
+meses.
+
+--- [pag. PDF 32] ---
+70
+Valor residual (-) conforme
+cenário
+abaixo
+R$ 0,00 Na locação não
+há incorporação
+dos bens ao
+patrimônio.
+ANÁLISE DE CENÁRIOS DE DESEMBOLSO DO PCAAS – 60 MESES
+Considerando que a solução PCaaS é contínua e sob demanda, o valor global de R$
+58.492.800,00 representa o teto teórico correspondente à hipótese de disponibilização e
+faturamento de todos os quantitativos máximos durante todo o período de 60 (sessenta)
+meses. Essa hipótese não se confunde com a exposição financeira da implantação inicial,
+pois a própria memória de dimensionamento separa os equipamentos de implantação
+imediata das demandas futuras, que dependem de Ordem de Serviço específica.
+Cenário Critério de cálculo Média
+mensal
+Valor em 60 meses
+Base
+operaciona
+l –
+implantação
+inicial
+1.115 Tipo I + 316 Tipo II +
+115 notebooks + 320
+monitores; sem ativação
+das demandas
+futuras
+R$
+545.200,00
+R$ 32.712.000,00
+Sensibilidade
+intermediária –
+50% médio da
+demanda futura*
+Implantação inicial + 50%
+médio do acréscimo mensal
+correspondente à demanda
+futura
+R$
+760.040,00
+R$ 45.602.400,00
+Máximo teórico
+contratual
+Todos os quantitativos
+máximos faturados
+durante os 60 meses
+R$
+974.880,00
+R$ 58.492.800,00
+* O cenário intermediário é apenas uma análise paramétrica de sensibilidade e não
+constitui previsão de consumo. O faturamento real dependerá das Ordens de Serviço
+efetivamente emitidas e dos quantitativos disponibilizados e aceitos pela Administração.
+COMPARAÇÃO HOMOGÊNEA – QUANTITATIVOS MÁXIMOS E HORIZONTE DE 60 MESES
+Referência Valor – 60 meses Observação
+Aquisição – TCO
+documentado
+R$ 31.960.395,19 Quantitativos máximos e custos
+documentados; não
+inclui os 3 analistas de
+sistemas.
+Aquisição – TCO com
+proxy conservadora dos 3
+analistas*
+R$ 32.561.243,55 Mesmo quantitativo máximo;
+proxy calculada com a base
+média per capita dos 14 técnicos
+já documentados.
+PCaaS – cenário máximo
+teórico
+R$ 58.492.800,00 Mesmo quantitativo máximo,
+considerando
+disponibilização e
+faturamento integral por 60
+meses.
+
+--- [pag. PDF 33] ---
+70
+Diferença: PCaaS máximo
+x TCO aquisição com
+proxy
+R$ 25.931.556,45 Acréscimo nominal máximo de
+aproximadamente 79,64% sobre o
+TCO de aquisição com proxy.
+Na comparação homogênea pelo mesmo quantitativo máximo e pelo mesmo horizonte
+de 60 meses, o TCO de aquisição acrescido da proxy conservadora dos três analistas alcança
+R$ 32.561.243,55, enquanto o cenário máximo teórico do PCaaS alcança R$ 58.492.800,00.
+A diferença nominal máxima é de R$ 25.931.556,45, equivalente a aproximadamente 79,64%
+do TCO de aquisição com proxy. Assim, esta análise não afirma equivalência econômica entre
+as alternativas no cenário máximo; reconhece expressamente o maior teto nominal do PCaaS
+e passa a avaliar se esse dispêndio adicional se justifica pelos serviços agregados, pela
+transferência de riscos e pela característica sob demanda da contratação.
+Valor residual – análise de sensibilidade. Como os autos não contêm avaliação
+patrimonial específica capaz de fixar com segurança o valor de mercado dos
+equipamentos após 60 meses, o ETP não adota percentual residual como fato. Para
+cumprir a determinação da PROGER sem criar dado artificial, apresentam-se cenários
+de 0%, 10% e 20% sobre o valor de aquisição dos bens. A tabela considera, para fins
+comparativos, o TCO de aquisição acrescido apenas da proxy de sensibilidade dos três
+analistas, destacando-se que a proxy não se converte em custo documentado.
+Cenário
+residual
+Valor residual TCO
+líquido
+aquisiç
+ão c/
+proxy*
+Diferença
+para
+PCaaS
+máxim
+o
+Adicional
+máximo por
+estação/mês*
+*
+0% R$ 0,00 R$
+32.561.243,55
+R$
+25.931.556,45
+R$ 151,27
+10% R$
+2.199.770,00
+R$
+30.361.473,55
+R$
+28.131.326,45
+R$ 164,11
+20% R$
+4.399.540,00
+R$
+28.161.703,55
+R$
+30.331.096,45
+R$ 176,94
+* O TCO com proxy utiliza o TCO documentado acrescido da estimativa de
+sensibilidade para 3 analistas. ** O indicador por estação/mês utiliza 2.857 estações e 60
+meses apenas para traduzir o acréscimo nominal do cenário máximo teórico do PCaaS; não
+representa preço unitário contratual nem previsão de consumo.
+CONCLUSÃO DA COMPARAÇÃO ECONÔMICA E OPERACIONAL
+A comparação econômica deve partir, prioritariamente, do cenário homogêneo de
+quantitativos máximos e horizonte de 60 meses. Nessa base, a aquisição apresenta menor
+dispêndio nominal: R$ 31.960.395,19 de TCO documentado, ou R$ 32.561.243,55 quando
+acrescida, exclusivamente para sensibilidade, a proxy dos três analistas. O PCaaS alcança
+teto teórico de R$ 58.492.800,00 caso todos os quantitativos máximos sejam disponibilizados
+e faturados durante os 60 meses.
+O maior teto nominal do PCaaS é reconhecido expressamente e não é neutralizado
+pela comparação com a implantação inicial. A estrutura sob demanda, entretanto, diferencia
+o teto contratual do desembolso efetivo: a implantação inicial corresponde a R$ 545.200,00
+mensais e R$ 32.712.000,00 em 60 meses se mantida sem acionamento de demandas
+futuras, enquanto expansões somente poderão ser faturadas após efetiva necessidade
+administrativa e emissão de Ordem de Serviço.
+
+--- [pag. PDF 34] ---
+70
+No cenário máximo, o acréscimo nominal do PCaaS em relação ao TCO de aquisição
+com proxy é de R$ 25.931.556,45, ou aproximadamente 79,64%. Esse adicional constitui
+limite máximo de exposição e corresponde, em tradução paramétrica, a cerca de R$ 151,27
+por estação/mês, considerando 2.857 estações e 60 meses. A Administração não o trata como
+economia nominal, mas como contraprestação potencial pela combinação de serviços
+gerenciados, manutenção e substituição, níveis de serviço, atualização tecnológica, logística,
+licenciamento, segurança, inventário, monitoramento, desmobilização e logística reversa,
+além da transferência ao contratado dos riscos de obsolescência, indisponibilidade e
+recomposição do parque.
+A Equipe de Planejamento conclui que a solução PCaaS permanece tecnicamente
+viável e globalmente justificável, ainda que seu teto máximo seja nominalmente superior ao
+TCO estimado da aquisição. A escolha decorre da conjugação entre implantação gradual,
+pagamento condicionado à disponibilidade efetivamente acionada, previsibilidade
+orçamentária, transferência de riscos operacionais, garantia de níveis de serviço e renovação
+tecnológica, e não de alegação de que a locação seja necessariamente mais barata em todos
+os cenários.
+A decisão deverá ser interpretada à luz dos arts. 11, inciso I, 18 e 23 da Lei nº 14.133/2021:
+a vantajosidade resulta da avaliação do ciclo de vida e dos riscos da solução, do planejamento
+da contratação e da rastreabilidade dos preços e memórias de cálculo. O consumo dos
+quantitativos futuros deverá ser motivado e controlado durante a execução, de modo que a
+característica sob demanda opere como mecanismo de contenção do desembolso e não como
+autorização para utilização automática do teto contratual.
+RASTREABILIDADE DOS PREÇOS E MEMÓRIAS DE CÁLCULO
+Em atendimento ao Parecer Jurídico de reanálise, os valores unitários utilizados no estudo
+das alternativas devem ser lidos conjuntamente com os documentos de formação do preço já
+integrantes do Processo PC 495/2025. A rastreabilidade documental da estimativa está
+vinculada, especialmente, à Pesquisa de Preços (ID 591332), às Solicitações de Orçamentos
+não respondidas (ID 591338), ao Quadro Comparativo de Prévias (ID 714147), à Metodologia
+de Pesquisa (ID 724146) e ao Histórico da Pesquisa Mercadológica (ID 591444). Esses
+documentos constituem suporte das referências utilizadas no ETP e deverão permanecer
+associados à versão consolidada do estudo nos autos.
+Os valores do ETP possuem natureza de estudo comparativo da fase preparatória e não
+substituem o orçamento definitivo da licitação. Sempre que houver divergência entre preço
+preliminar do ETP e preço estimado consolidado no TR/pesquisa de preços, deverá
+prevalecer, para fins de julgamento e contratação, o orçamento definitivo regularmente
+instruído, sem prejuízo da coerência metodológica da comparação entre alternativas.
+ANÁLISE DA OBSOLESCÊNCIA DO PARQUE TECNOLÓGICO, DA CAPACIDADE
+ORÇAMENTÁRIA E DA ESTRATÉGIA DE IMPLANTAÇÃO GRADUAL
+A análise da necessidade de modernização do parque tecnológico da Prefeitura Municipal de
+Uberaba deve considerar, de forma conjunta, a atual condição dos equipamentos disponíveis,
+os riscos decorrentes da manutenção prolongada de ativos tecnologicamente defasados, a
+dimensão da necessidade identificada e a capacidade orçamentária e financeira da
+Administração para promover sua renovação.
+Conforme levantamento realizado neste Estudo Técnico Preliminar, o parque computacional
+atualmente identificado é composto por aproximadamente 2.024 equipamentos, sendo
+1.000 computadores pertencentes ao patrimônio municipal e 1.024 equipamentos
+atualmente locados. O diagnóstico também registra que parcela relevante dos equipamentos
+
+--- [pag. PDF 35] ---
+70
+próprios se encontra tecnologicamente defasada, havendo inclusive equipamentos com
+problemas técnicos e fora de operação, circunstância que evidencia a necessidade de
+renovação progressiva da infraestrutura computacional.
+A obsolescência do parque não deve ser analisada apenas sob a perspectiva da redução de
+desempenho dos equipamentos. A manutenção prolongada de ativos tecnologicamente
+defasados pode produzir impactos sobre a produtividade dos servidores, a disponibilidade dos
+serviços, a compatibilidade com sistemas corporativos, a segurança da informação, os custos
+de manutenção e a capacidade de adoção de novas ferramentas e tecnologias pela
+Administração.
+A evolução dos sistemas operacionais, aplicações corporativas, ferramentas de produtividade,
+soluções de segurança, videoconferência, processamento de dados e aplicações
+especializadas utilizadas pelas Secretarias exige níveis progressivamente superiores de
+processamento, memória, armazenamento e compatibilidade tecnológica. O próprio
+levantamento realizado identifica a utilização de softwares especializados, como AutoCAD,
+Revit, SketchUp, ArcGIS, Agisoft, CorelDRAW, Illustrator e Photoshop, que demandam
+capacidade computacional superior àquela exigida para atividades administrativas
+convencionais.
+Nesse contexto, a modernização do parque computacional não representa mera conveniência
+administrativa ou simples opção pela aquisição de equipamentos mais recentes. Trata-se de
+medida necessária à manutenção da continuidade, eficiência, segurança e evolução dos
+serviços públicos apoiados por recursos de tecnologia da informação.
+A Administração reconhece, portanto, a necessidade de renovação do parque tecnológico.
+Entretanto, o planejamento dessa renovação deve considerar também a dimensão financeira
+da solução e a necessidade de compatibilização dos desembolsos com a capacidade
+orçamentária de cada exercício.
+Dimensionamento integral e impacto de uma eventual aquisição imediata
+Para atendimento integral da necessidade projetada, o ETP estabeleceu quantitativos
+máximos de 2.299 microcomputadores Tipo I, 403 microcomputadores Tipo II e 155
+notebooks, além dos monitores previstos na solução. Esses quantitativos contemplam o
+Parque existente, sua renovação e a expansão projetada decorrente de novas demandas
+administrativas.
+Na alternativa de aquisição direta, considerada a integralidade desses quantitativos máximos
+e os preços utilizados na memória de cálculo deste ETP, o investimento necessário somente
+para aquisição dos equipamentos alcançaria R$ 21.997.700,00.
+Além do preço dos equipamentos, a internalização da solução exige custos associados à sua
+implantação e funcionamento durante o ciclo de vida. Entre os componentes já quantificados
+no ETP encontram-se software de monitoramento e inventário, central de atendimento,
+patrimonialização, equipe de suporte, logística, manutenção preventiva e corretiva, entre
+outros.
+Considerando apenas o investimento de R$ 21.997.700,00 relativo aos equipamentos e os
+valores documentados de R$ 1.628.500,00 para software de monitoramento e inventário, R$
+335.000,00 para central de atendimento e R$ 44.605,28 para patrimonialização, chega-se a
+R$ 24.005.805,28, antes mesmo da consideração integral dos demais custos operacionais
+necessários à manutenção da solução ao longo dos 60 meses.
+
+--- [pag. PDF 36] ---
+70
+Essa circunstância evidencia uma característica relevante da alternativa de aquisição: a
+elevada concentração de desembolso na etapa inicial, especialmente quando comparada
+com uma contratação estruturada como serviço contínuo e sob demanda.
+Não se trata de afirmar que a Administração possa deixar de promover a renovação
+tecnológica por razões exclusivamente orçamentárias, mas de reconhecer que a forma, o
+ritmo e o cronograma de implantação constituem elementos essenciais do planejamento da
+contratação.
+Estratégia de implantação gradual da solução
+A solução PCaaS adotada neste ETP foi estruturada justamente para permitir que a
+modernização tecnológica ocorra de maneira progressiva, distinguindo-se os quantitativos
+necessários à implantação imediata daqueles destinados ao atendimento de demandas
+futuras, cuja disponibilização dependerá da efetiva necessidade administrativa e da emissão
+de Ordem de Serviço.
+A implantação inicial compreende:
+● 1.115 microcomputadores Tipo I;
+● 316 microcomputadores Tipo II;
+● 115 notebooks; e
+● 320 monitores.
+Os quantitativos remanescentes — 1.184 Tipo I, 87 Tipo II e 40 notebooks — constituem
+quantitativos máximos destinados ao atendimento de demandas futuras, não representando
+obrigação de disponibilização ou faturamento integral desde o início do contrato.
+Com os preços de referência utilizados neste ETP, a implantação inicial corresponde a R$
+545.200,00 mensais, equivalentes a R$ 32.712.000,00 no horizonte hipotético de 60
+meses caso esses mesmos quantitativos permaneçam ativos durante todo o período.
+O cenário máximo de R$ 58.492.800,00, por sua vez, somente seria atingido na hipótese
+teórica de disponibilização e faturamento de todos os quantitativos máximos durante os 60
+meses.
+A distinção é relevante porque demonstra que o dimensionamento máximo da contratação
+não se confunde com obrigação de contratação imediata de toda a capacidade prevista.
+A utilização dos quantitativos futuros dependerá da materialização da necessidade
+administrativa, permitindo à Administração ajustar a expansão do parque ao longo da
+execução contratual.
+Dessa forma, a modelagem adotada constitui mecanismo de implantação gradual, permitindo
+que a renovação tecnológica seja compatibilizada com a necessidade efetiva de cada
+unidade, com a criticidade dos equipamentos existentes e com a programação orçamentária
+dos exercícios correspondentes.
+Aproveitamento transitório dos equipamentos patrimoniais
+A implantação gradual também possibilita o aproveitamento temporário dos equipamentos
+pertencentes ao patrimônio municipal que ainda apresentem condições adequadas de
+funcionamento, desempenho, segurança e compatibilidade.
+A utilização desses equipamentos, entretanto, deve ser compreendida como medida de
+transição, e não como solução definitiva para a obsolescência identificada.
+
+--- [pag. PDF 37] ---
+70
+Sua permanência em operação deverá observar avaliação técnica que considere, entre outros
+aspectos:
+● Condições físicas e funcionais;
+● Desempenho necessário à atividade do usuário;
+● Compatibilidade com sistemas e aplicações institucionais;
+● Capacidade de atualização e segurança;
+● Frequência e custo de manutenção;
+● Risco de indisponibilidade; e
+● Vida útil remanescente.
+Quanto aos monitores pertencentes ao patrimônio municipal, o próprio levantamento estima
+potencial de reaproveitamento de até 500 unidades, condicionado à avaliação das condições
+de utilização, evitando substituição desnecessária de equipamentos ainda funcionais.
+Assim, a existência de equipamentos patrimoniais ainda utilizáveis pode contribuir para reduzir
+a necessidade de substituição simultânea de todo o parque e permitir uma transição
+tecnicamente controlada para a nova infraestrutura.
+Priorização da modernização
+Durante a implantação progressiva, deverão ser priorizados os postos de trabalho cujos
+equipamentos apresentem maior criticidade, considerando especialmente:
+1. Equipamentos inoperantes ou com falhas recorrentes;
+2. Equipamentos incompatíveis com sistemas corporativos ou atualizações
+de segurança;
+3. Unidades cuja indisponibilidade possa comprometer serviços essenciais;
+4. Usuários de aplicações que demandem maior capacidade de processamento;
+5. Equipamentos com elevado custo ou dificuldade de manutenção; e
+6. Situações em que a defasagem tecnológica represente risco à segurança
+da informação ou à continuidade dos serviços.
+Para os postos destinados predominantemente às atividades administrativas convencionais,
+deverá ser priorizado, sempre que tecnicamente suficiente, o perfil Tipo I, reservando-se os
+perfis de maior desempenho às atividades que efetivamente demandem capacidade superior
+de processamento, memória ou recursos tecnológicos específicos.
+Essa estratégia evita tanto o subdimensionamento quanto o fornecimento indiscriminado de
+equipamentos com capacidade superior à necessidade do usuário, contribuindo para a
+racionalização dos recursos públicos.
+Compatibilização entre modernização e capacidade financeira
+A estratégia adotada busca compatibilizar dois objetivos igualmente relevantes.
+De um lado, o Município deve evitar que equipamentos inadequados permaneçam
+indefinidamente em funcionamento, produzindo perda de produtividade, riscos de
+indisponibilidade, incompatibilidades e vulnerabilidades tecnológicas.
+De outro, deve-se evitar a concentração desnecessária de recursos em uma única etapa
+quando a própria característica da demanda permite implantação progressiva.
+Existe, portanto, um trade-off entre o risco de manutenção prolongada do passivo
+tecnológico e o impacto financeiro decorrente de sua substituição integral e
+
+--- [pag. PDF 38] ---
+70
+simultânea.
+A modelagem sob demanda permite administrar esse conflito de forma planejada. A
+Administração realiza uma implantação inicial destinada a assegurar a continuidade e a
+modernização prioritária do parque e preserva quantitativos adicionais para acionamento
+futuro, conforme a necessidade efetivamente materializada.
+A solução possibilita, assim, que a expansão ocorra mediante programação, priorização e
+controle, sem que a existência de quantitativos máximos no contrato implique sua utilização
+automática.
+Planejamento para os exercícios subsequentes
+A renovação do parque deverá ser objeto de acompanhamento contínuo durante a execução
+contratual, permitindo que a Administração avalie periodicamente:
+● O número de equipamentos patrimoniais ainda aptos à utilização;
+● O volume de equipamentos substituídos;
+● As novas demandas decorrentes de ingresso de servidores ou expansão de serviços;
+● o desempenho dos equipamentos em operação;
+● os quantitativos efetivamente acionados no PCaaS; e
+● a disponibilidade orçamentária necessária às etapas seguintes.
+Os quantitativos futuros deverão ser acionados apenas quando identificada necessidade
+concreta e mediante correspondente disponibilidade orçamentária, preservando-se o caráter
+sob demanda que fundamenta a modelagem da contratação.
+Desse modo, o planejamento da modernização tecnológica passa a ser tratado como
+processo continuado, e não como evento isolado de substituição integral e imediata de
+equipamentos.
+Conclusão
+A necessidade de modernização do parque tecnológico municipal encontra-se
+suficientemente caracterizada neste ETP. A existência de equipamentos próprios defasados,
+a crescente dependência dos processos municipais de recursos informatizados e a evolução
+dos requisitos de desempenho, segurança e compatibilidade tornam necessária a renovação
+progressiva da infraestrutura computacional.
+A opção pela implantação gradual não representa postergação injustificada da solução, mas
+estratégia de gestão destinada a compatibilizar a necessidade tecnológica com o
+planejamento operacional e financeiro da Administração.
+A distinção entre implantação inicial e demanda futura permite que o Município promova a
+modernização prioritária do parque sem transformar os quantitativos máximos da contratação
+em obrigação automática de consumo, preservando a possibilidade de expansão conforme as
+necessidades efetivamente verificadas.
+A estratégia adotada proporciona, portanto, equilíbrio entre modernização tecnológica,
+continuidade dos serviços, racionalização dos recursos públicos, capacidade de
+investimento e responsabilidade fiscal, permitindo que a Administração avance
+progressivamente na redução do passivo tecnológico e na construção de um parque
+computacional adequado às atuais e futuras necessidades institucionais.
+
+--- [pag. PDF 39] ---
+70
+FUNDAMENTOS TÉCNICOS E PRINCÍPIOS APLICÁVEIS
+A definição da arquitetura tecnológica deve conciliar a necessidade de atendimento
+adequado das demandas institucionais com a preservação da competitividade e da isonomia
+entre os interessados. A Constituição Federal, em seu art. 37, caput, submete a Administração
+Pública, entre outros, aos princípios da legalidade, impessoalidade e eficiência. O inciso XXI
+do mesmo dispositivo determina que as contratações sejam realizadas mediante
+procedimento que assegure igualdade de condições aos concorrentes e que as exigências
+impostas sejam justificadas pelas necessidades efetivas da Administração.
+Sob a perspectiva de Tecnologia da Informação, a especificação dos componentes da
+solução deve considerar não apenas a funcionalidade individual de cada software, mas
+também sua integração com a arquitetura tecnológica utilizada para administração das
+estações de trabalho.
+Não se mostra tecnicamente adequado estabelecer determinada tecnologia
+exclusivamente por preferência institucional ou tradição de uso. Da mesma forma, a análise
+técnica não deve desconsiderar investimentos, integrações, procedimentos, sistemas,
+conhecimentos acumulados, custos de migração e riscos operacionais efetivamente
+existentes apenas para admitir formalmente tecnologias que não ofereçam equivalência
+operacional no ambiente da Administração.
+A definição da arquitetura tecnológica deve resultar, portanto, de avaliação técnica e
+econômica devidamente fundamentada.
+Compatibilidade com o ambiente tecnológico preexistente
+Para a presente contratação, a Administração adota expressamente como fundamento
+jurídico para as indicações nominativas de plataformas tecnológicas a hipótese prevista no
+art. 41, inciso I, alínea “b”, da Lei Federal nº 14.133/2021, relativa à necessidade de
+manutenção da compatibilidade com plataformas e padrões já adotados pela Administração.
+Não se pretende, por meio deste Estudo Técnico Preliminar, instituir processo formal
+de padronização de marca ou produto nos termos do art. 43 da Lei Federal nº 14.133/2021. A
+opção adotada decorre da compatibilidade com o ambiente tecnológico preexistente e deverá
+permanecer estritamente vinculada às condições técnicas efetivamente comprovadas nos
+autos.
+A solução PCaaS compreende prestação continuada associada à disponibilização,
+administração, manutenção, monitoramento, licenciamento, atualização e gestão das
+estações de trabalho. Nesse modelo, os equipamentos não funcionarão como unidades
+isoladas, mas como endpoints corporativos integrados à estrutura de identidade, segurança,
+
+--- [pag. PDF 40] ---
+70
+aplicações, políticas, atualizações, suporte e fiscalização da Administração.
+A análise da arquitetura tecnológica deve considerar, portanto, não apenas as
+funcionalidades abstratamente oferecidas por cada produto, mas a integração com o ambiente
+efetivamente utilizado pelo Município e os impactos concretos de eventual adoção de
+plataforma distinta sobre autenticação, gerenciamento, segurança, interoperabilidade,
+homologação de aplicações, suporte, treinamento, continuidade operacional e custo total da
+solução.
+A caracterização objetiva do ambiente municipal, incluindo domínio e serviços de
+identidade, abrangência de usuários e equipamentos, aplicações corporativas, políticas de
+segurança e gerenciamento, agentes, certificados, integrações, componentes tecnológicos,
+fluxos de trabalho, alternativas examinadas e impactos de eventual migração, encontra-se
+consolidada na Nota Técnica de Caracterização do Ambiente Tecnológico Municipal,
+integrante deste ETP como ANEXO I e certificada pela área técnica responsável.
+A indicação nominativa é mantida exclusivamente porque a documentação técnica
+consolidada no ANEXO I demonstra que a compatibilidade com as plataformas preexistentes
+é necessária ao atendimento da necessidade administrativa e que a adoção de arquitetura
+distinta acarretaria incompatibilidades, riscos operacionais e custos de transição relevantes.
+A motivação preserva a competitividade e afasta escolha baseada exclusivamente em
+preferência institucional, tradição de uso ou conveniência de determinado fabricante.
+Modelo PCaaS e custo do ciclo de vida
+A fundamentação econômica e de planejamento apoia-se nos arts. 11, inciso I, 18 e 23
+da Lei nº 14.133/2021, considerando a vantajosidade ao longo do ciclo de vida, o
+planejamento da fase preparatória e a estimativa de preços apoiada em parâmetros e
+documentos de suporte.
+No modelo PCaaS, a economicidade da plataforma tecnológica não pode ser analisada
+exclusivamente a partir do preço individual de determinada licença.
+1. Devem ser considerados os efeitos econômicos associados à solução durante
+toda a vigência contratual, incluindo, conforme aplicável:
+custos de implantação e configuração;
+integração;
+administração;
+migração;
+suporte;
+capacitação;
+
+--- [pag. PDF 41] ---
+70
+adaptação de sistemas;
+homologação;
+atualização;
+gerenciamento;
+segurança;
+eventual necessidade de manutenção simultânea de diferentes plataformas;
+indisponibilidade decorrente de transição; e
+demais custos diretos e indiretos relacionados ao ciclo de vida da solução.
+A análise do PCaaS deve considerar o custo total da solução e os impactos
+decorrentes da arquitetura tecnológica adotada, e não exclusivamente a comparação entre o
+preço de aquisição dos equipamentos e a mensalidade contratual.
+Também devem ser considerados os efeitos decorrentes da administração contínua
+dos endpoints, especialmente quando houver necessidade de substituição, atualização,
+configuração ou reincorporação de equipamentos ao ambiente institucional. A adoção de
+mecanismos de gerenciamento centralizado permite reduzir a dependência de procedimentos
+manuais e contribui para a recomposição uniforme das estações durante o ciclo contratual.
+Consequências práticas da decisão tecnológica
+Sob a perspectiva de Tecnologia da Informação, eventual substituição da plataforma
+tecnológica deve considerar seus efeitos concretos sobre interoperabilidade, migração,
+treinamento, suporte, segurança, disponibilidade, integração e continuidade dos serviços, sem
+afastar a necessidade de demonstração da vantajosidade e preservação da competição.
+No ambiente PCaaS, a decisão tecnológica também produz efeitos sobre a
+administração dos endpoints, a distribuição de aplicações, o controle de atualizações, a
+verificação de conformidade, o diagnóstico de falhas e a preparação de equipamentos novos
+ou substitutos.
+A existência de uma plataforma comum permite que os equipamentos, ainda que
+fisicamente distribuídos em diversas unidades, sejam administrados de forma uniforme. Sem
+essa capacidade, a execução das atividades dependeria de planilhas, verificações manuais,
+deslocamentos presenciais, registros descentralizados e informações fornecidas
+individualmente pelos usuários ou pela contratada, dificultando a identificação de falhas, a
+comprovação da execução dos serviços, a análise de incidentes e a adoção de medidas
+corretivas.
+
+--- [pag. PDF 42] ---
+70
+A administração centralizada também permite manter informações atualizadas sobre
+os equipamentos que integram a solução, incluindo suas características físicas, aplicações
+instaladas, versões de software, atualizações, configurações, situação operacional e
+associação ao usuário ou à unidade correspondente. Essas informações contribuem para o
+controle operacional, o planejamento de substituições, a análise de chamados e a fiscalização
+do cumprimento das especificações contratadas.
+Segurança da informação e proteção de dados
+A segurança das estações de trabalho constitui requisito transversal da solução
+PCaaS. É preciso que sejam adotadas medidas técnicas e administrativas aptas a proteger
+os dados pessoais contra acessos não autorizados e tratamentos inadequados ou ilícitos. Os
+sistemas utilizados para tratamento de dados pessoais devem ser estruturados de forma a
+atender aos requisitos de segurança, boas práticas e governança.
+A existência de plataforma corporativa administrável e atualizável de maneira uniforme
+contribui para aplicação consistente de políticas de segurança, correções, configurações e
+controles, devendo esse aspecto integrar a avaliação da solução tecnológica.
+O gerenciamento centralizado permite identificar equipamentos que estejam sem
+comunicação, não tenham recebido atualizações, utilizem softwares não autorizados, estejam
+fora do padrão institucional ou apresentem configurações divergentes. Também possibilita
+acompanhar a situação dos endpoints de forma contínua, apoiando a adoção de medidas
+corretivas e a resposta a incidentes.
+Embora o gerenciamento centralizado não substitua os demais controles de
+segurança, ele constitui mecanismo importante para manter os equipamentos em condições
+compatíveis com as políticas institucionais. As informações centralizadas também podem
+auxiliar na investigação de ocorrências, mediante consulta ao estado do equipamento,
+aplicações instaladas, atualizações aplicadas, alterações recentes e última comunicação
+registrada.
+A LGPD, contudo, não constitui fundamento autônomo para indicação de marca
+específica. Sua utilização nesta justificativa limita-se à demonstração da relevância jurídica da
+segurança e do gerenciamento uniforme dos endpoints, permanecendo necessária a
+fundamentação específica da compatibilidade tecnológica prevista na legislação de
+contratações públicas.
+
+--- [pag. PDF 43] ---
+70
+Microsoft Windows 11 Pro ou versão profissional sucessora oficialmente suportada
+A indicação do Microsoft Windows 11 Pro, ou de versão profissional sucessora
+oficialmente suportada durante a execução contratual, encontra fundamento na necessidade
+de manutenção da compatibilidade com o ambiente tecnológico preexistente do Município,
+nos termos do art. 41, inciso I, alínea “b”, da Lei Federal nº 14.133/2021.
+A edição profissional deverá ser utilizada na medida em que as estações objeto da
+contratação precisem integrar os mecanismos institucionais de identidade, autenticação,
+ingresso em domínio, gerenciamento de usuários e dispositivos, aplicação de políticas
+administrativas e de segurança, controle de configurações e demais recursos efetivamente
+utilizados pela Administração.
+A realidade tecnológica que sustenta essa indicação não é presumida a partir das
+funcionalidades do produto. O ANEXO I deste ETP caracteriza o ambiente de domínio e
+identidade, sua abrangência operacional, as políticas efetivamente aplicadas e os sistemas,
+agentes, certificados, integrações e demais componentes vinculados ao ambiente Windows.
+A análise constante do ANEXO I identifica as aplicações municipais cuja operação,
+homologação, suporte ou integração se vinculam ao ambiente Windows e registra os impactos
+técnicos, operacionais e econômicos decorrentes de eventual migração para arquitetura
+distinta.
+Entre os impactos a serem considerados incluem-se a necessidade de homologação
+de aplicações, adaptação de procedimentos, revisão de políticas de segurança e
+gerenciamento, migração ou preservação de dados e configurações, capacitação de usuários
+e equipes técnicas, suporte adicional e eventual manutenção simultânea de ambientes
+distintos durante a transição.
+As circunstâncias descritas e certificadas no ANEXO I demonstram que a manutenção
+do Microsoft Windows em edição profissional constitui medida de compatibilidade com
+plataforma já adotada, e não padronização formal de produto.
+A especificação do sistema operacional não determina fabricante ou modelo de
+microcomputador ou notebook, permanecendo possível a competição entre diferentes
+fabricantes e integradores de hardware que atendam aos requisitos técnicos da contratação.
+O licenciamento deverá poder ser disponibilizado por diferentes canais, parceiros,
+distribuidores ou integradores aptos, não ficando a contratação restrita à própria Microsoft ou
+a fornecedor exclusivo, salvo situação excepcional técnica e documentalmente justificada.
+Não deverão ser exigidos vínculo específico com o fabricante, carta de solidariedade,
+certificação exclusiva, credenciamento ou condição equivalente que não seja técnica e
+comprovadamente indispensável à execução do objeto.
+
+--- [pag. PDF 44] ---
+70
+A demonstração da pluralidade dos canais de fornecimento é complementar à
+justificativa de compatibilidade: a primeira evidencia a preservação da competição, enquanto
+a segunda fundamenta, nos termos do art. 41, inciso I, alínea “b”, a indicação da plataforma.
+A versão do sistema operacional deverá permanecer oficialmente suportada durante a
+vigência contratual, admitindo-se sua evolução para versão profissional sucessora da mesma
+plataforma quando necessária à continuidade do suporte, da segurança e da compatibilidade
+institucional.
+Microsoft Office LTSC
+A indicação do Microsoft Office LTSC encontra fundamento na necessidade de
+manutenção da compatibilidade com o ambiente documental, operacional e tecnológico
+preexistente da Prefeitura Municipal de Uberaba, nos termos do art. 41, inciso I, alínea “b”, da
+Lei Federal nº 14.133/2021.
+A necessidade concreta da plataforma encontra-se demonstrada no ANEXO I,
+mediante identificação de modelos institucionais, planilhas, automações, integrações,
+sistemas, mecanismos de geração e intercâmbio de arquivos e fluxos de trabalho cuja
+migração pode produzir impacto relevante sobre a Administração.
+A análise não se limita à afirmação de adequação da plataforma às atividades
+corporativas: o ANEXO I evidencia por que a manutenção da compatibilidade com o ambiente
+atualmente utilizado é necessária e quais seriam os efeitos técnicos, operacionais e
+econômicos da adoção de solução distinta.
+A adoção da edição LTSC está associada à estabilidade funcional e à previsibilidade
+do ambiente durante o respectivo ciclo de suporte, reduzindo alterações frequentes capazes
+de produzir impactos sobre usuários, procedimentos, integrações, automações e suporte
+técnico.
+Considerando o horizonte contratual de 60 meses e a necessidade de evitar a
+permanência em versão sem suporte, a indicação não deverá tornar imutável uma versão
+específica do produto ao longo de toda a vigência.
+A contratação deverá prever Microsoft Office LTSC 2024 ou versão LTSC sucessora
+oficialmente suportada durante a execução contratual, com características e funcionalidades
+iguais ou superiores às requeridas.
+A CONTRATADA deverá promover as atualizações ou migrações necessárias à
+manutenção do suporte, da segurança, da interoperabilidade e da continuidade operacional,
+sem cobrança adicional além dos preços contratados, considerando-se os custos
+correspondentes incluídos na formação de sua proposta.
+
+--- [pag. PDF 45] ---
+70
+A contratação não ficará restrita à própria Microsoft ou a fornecedor exclusivo. A
+pesquisa de mercado e a instrução processual deverão registrar a existência de pluralidade
+de parceiros, distribuidores ou integradores aptos a comercializar ou disponibilizar o
+licenciamento, sem exigência de vínculo, certificação ou credenciamento exclusivo que não
+seja tecnicamente indispensável.
+Microsoft Configuration Manager
+Para a presente contratação, a indicação nominativa do Microsoft Configuration
+Manager é estruturada sob o fundamento do art. 41, inciso I, alínea “b”, da Lei Federal nº
+14.133/2021, isto é, pela necessidade de manutenção da compatibilidade com plataforma e
+padrões tecnológicos preexistentes, e não pela instituição de padronização formal.
+A manutenção dessa indicação encontra suporte na certificação técnica constante do
+ANEXO I, segundo a qual o Microsoft Configuration Manager se encontra efetivamente
+implantado e integrado ao ambiente municipal, com dependência operacional relacionada a
+agentes, políticas, pacotes, configurações, baselines, relatórios, integrações, procedimentos
+de suporte, processos de atualização, dados, históricos e fluxos operacionais estruturados na
+plataforma.
+O ANEXO I identifica a abrangência aproximada de endpoints gerenciados, os
+componentes implantados, as aplicações e integrações vinculadas e os elementos que
+necessitariam de migração ou reconstrução caso fosse adotada ferramenta distinta. A gestão
+do licenciamento integra o ambiente tecnológico administrado pela CODIUB/área de TI,
+permanecendo a identificação do instrumento contratual correspondente vinculada aos
+respectivos registros administrativos.
+O ANEXO I demonstra os impactos técnicos, operacionais e financeiros de eventual
+substituição, incluindo implantação e retirada de agentes, reconstrução de políticas e pacotes,
+migração de inventário e históricos, integração com serviços de identidade, testes,
+homologação, capacitação, operação paralela e riscos de indisponibilidade ou degradação do
+suporte.
+Diante da realidade preexistente certificada no ANEXO I, a manutenção do Microsoft
+Configuration Manager decorre da necessidade de continuidade e integração com a
+infraestrutura já adotada pela Administração, nos termos do art. 41, inciso I, alínea “b”.
+A funcionalidade de gerenciamento centralizado permanece essencial ao PCaaS,
+abrangendo inventário, administração de endpoints, distribuição de aplicações,
+gerenciamento de configurações, atualização, monitoramento, conformidade, segurança e
+geração de informações para fiscalização e medição contratual.
+
+--- [pag. PDF 46] ---
+70
+A indicação nominativa não autoriza restrição a empresa determinada. A pesquisa de
+mercado deverá evidenciar que diferentes empresas possuem condições de licenciar,
+implantar, operar e prestar suporte à plataforma nas condições exigidas, vedadas exigências
+de vínculo ou certificação exclusiva que não sejam técnica e comprovadamente
+indispensáveis.
+A possibilidade de adoção de solução equivalente foi examinada na fase de
+planejamento. Contudo, diante da dependência tecnológica preexistente certificada no
+ANEXO I e dos impactos de migração identificados, a Administração conclui pela manutenção
+do Microsoft Configuration Manager com fundamento no art. 41, inciso I, alínea “b”, sem
+prejuízo da preservação da competição entre fornecedores aptos a licenciar, implantar, operar
+e prestar suporte à plataforma.
+Dessa forma, a decisão jurídica adotada neste ETP é a via do art. 41, inciso I, alínea
+“b”, e sua sustentação fática encontra-se consolidada na certificação técnica constante do
+ANEXO I.
+Preservação da competitividade e pluralidade de fornecedores
+As indicações nominativas justificadas por compatibilidade tecnológica não afastam a obrigação
+de preservação da competitividade. A instrução processual deverá demonstrar, sempre que
+aplicável, a existência de diferentes parceiros, distribuidores, integradores ou outros agentes
+econômicos aptos a fornecer ou disponibilizar os licenciamentos e serviços exigidos.
+A contratação não deverá ficar restrita à própria fabricante das plataformas nem a fornecedor
+exclusivo, e os equipamentos poderão ser fornecidos por diferentes fabricantes de hardware que
+atendam às especificações objetivas do certame. Não serão exigidos carta de solidariedade,
+vínculo específico com fabricante, certificação exclusiva, credenciamento ou condição
+equivalente sem demonstração técnica de sua indispensabilidade.
+A documentação comprobatória da pluralidade dos canais de fornecimento deverá integrar os
+autos e, quando pertinente, o ANEXO I, a pesquisa de mercado ou outro documento técnico da
+fase preparatória.
+As conclusões técnicas e jurídicas consolidadas neste ETP deverão ser reproduzidas com
+conteúdo idêntico, quanto ao fundamento legal, à exigência ou não de equivalência, aos
+requisitos essenciais e às condicionantes de fornecimento, no Termo de Referência, no Apêndice
+1 e fichas técnicas, no modelo de proposta, na pesquisa de preços, no edital e na minuta
+contratual. Admite-se apenas a adaptação formal necessária à função própria de cada
+documento, sem alteração material da conclusão.
+Não será suficiente admitir determinada equivalência ou condicionante em um documento e,
+simultaneamente, estabelecer exigência exclusiva incompatível em outro. Os requisitos relativos
+ao Windows, ao Office LTSC e ao Microsoft Configuration Manager deverão guardar
+correspondência integral com a conclusão técnica certificada no ANEXO I.
+Se a validação do ANEXO I alterar qualquer premissa tecnológica deste ETP, os demais
+documentos da contratação deverão ser revistos antes da publicação do edital, de modo a
+eliminar divergências e preservar a motivação, a isonomia e a competitividade.
+2. Escolha da solução
+
+--- [pag. PDF 47] ---
+70
+Primeiramente, a locação oferece ao município flexibilidade e escalabilidade
+inigualáveis. Isso significa que a capacidade de atender às crescentes necessidades
+tecnológicas da administração pública e dos servidores municipais é garantida. À medida que
+novos servidores são incorporados e a demanda por hardware e suporte técnico aumenta, a
+locação permite uma acomodação perfeita, eliminando a necessidade de comprar
+equipamentos adicionais a cada nova contratação.
+Além disso, o processo de locação evita a carga financeira inicial significativa
+associada à compra de microcomputadores, notebooks e monitores. Isso ajuda a
+administração municipal a gerenciar seu orçamento de maneira mais eficaz, redirecionando
+recursos financeiros para outras áreas prioritárias. A previsibilidade dos custos e a
+possibilidade de pagamento mensal fixo tornam o orçamento mais controlável e menos sujeito
+a surpresas financeiras.
+Outra vantagem crucial é a garantia de suporte técnico e manutenção contínua
+fornecidos pelo provedor de serviços de locação. Isso elimina a necessidade de treinar e
+manter uma equipe interna de TI, economizando em custos operacionais e garantindo um
+suporte especializado sempre disponível. Além disso, a locação permite atualizações
+tecnológicas mais fáceis e frequentes, mantendo o parque tecnológico atualizado e eficiente.
+Já em uma análise da alternativa de aquisição direta dos equipamentos, deve-se
+considerar, além do investimento inicial para aquisição dos bens, todos os recursos
+necessários para que a solução permaneça operacional, segura, atualizada e adequadamente
+gerenciada durante todo o período de referência de 60 (sessenta) meses.
+Nesse aspecto, a realidade atual do Município constitui fator relevante para a avaliação
+do custo total de propriedade e da própria viabilidade operacional da aquisição. Conforme
+levantamento realizado no presente Estudo Técnico Preliminar, o Município de Uberaba não
+dispõe, atualmente, de estrutura de pessoal especializada e dedicada em quantitativo e com
+a especialização necessária para assumir integralmente as atividades decorrentes da
+implantação, administração, manutenção, suporte, substituição, atualização e gestão
+de um parque computacional dessa dimensão. Nosso próprio diagnóstico registra a
+inexistência de equipe especializada e dedicada à instalação e manutenção de
+microcomputadores e notebooks para atendimento das demandas tecnológicas em constante
+evolução.
+A dimensão da contratação evidencia a relevância dessa limitação institucional. O
+planejamento considera a necessidade de atendimento de parque computacional atualmente
+composto por aproximadamente 2.024 equipamentos, além da substituição dos equipamentos
+
+--- [pag. PDF 48] ---
+70
+próprios defasados, renovação de equipamentos atualmente locados e expansão decorrente
+de novas demandas administrativas.
+Em uma eventual solução baseada na aquisição direta, a Administração não se limitará
+à aquisição dos equipamentos, passando a assumir diretamente as atividades necessárias à
+manutenção de sua disponibilidade durante todo o ciclo de vida, tais como gestão patrimonial
+e de inventário, instalação e configuração, manutenção preventiva e corretiva, substituição de
+componentes e equipamentos, atualização tecnológica, suporte aos usuários, monitoramento,
+tratamento de falhas, logística para movimentação e substituição, bem como procedimentos
+de desmobilização e descarte.
+Ocorre que, no cenário atual, não há disponibilidade de quadro de pessoal suficiente,
+tanto sob o aspecto quantitativo quanto qualitativo, para absorver integralmente esse conjunto
+de atividades sem comprometer outras atribuições institucionais. Nesse próprio ETP, registra-
+se que a ausência de equipe especializada constitui uma dificuldade para a gestão do parque
+tecnológico e que a contratação de servidores especializados em Tecnologia da Informação
+acarretaria, além das despesas com pessoal, a necessidade de investimentos em espaço
+físico, ferramentas e capacitação.
+Ressalte-se, ainda, que a constituição dessa capacidade por meio de novas admissões
+não é solução disponível em horizonte de curto e médio prazo capaz de atender, com
+segurança, à necessidade ora identificada. Mesmo considerada a possibilidade de realização
+de concurso público, o próprio estudo reconhece as dificuldades para obtenção, em número
+suficiente, de profissionais de Tecnologia da Informação com o nível de especialização
+exigido, diante da elevada demanda por profissionais qualificados e da crescente
+complexidade das tecnologias envolvidas.
+Assim, a hipótese de aquisição direta não pode ser analisada como se o Município já
+dispusesse da estrutura humana, técnica e física necessária à operação do parque. Para que
+essa alternativa fosse efetivamente sustentável, seria necessário considerar a criação ou
+ampliação da capacidade interna, com os correspondentes custos de recrutamento e/ou
+alocação de pessoal, capacitação, aquisição de ferramentas, disponibilização de
+infraestrutura física e organização dos processos de suporte e manutenção. Quando não for
+possível a imediata constituição dessa capacidade, deve ser considerado também o risco
+operacional decorrente da insuficiência de estrutura para manutenção dos níveis de
+disponibilidade requeridos pela Administração.
+Nesse contexto, o outsourcing PCaaS apresenta vantagem estrutural relevante, na
+
+--- [pag. PDF 49] ---
+70
+medida em que transfere ao fornecedor especializado a execução das atividades operacionais
+necessárias à disponibilização e gestão do parque tecnológico, incluindo implantação,
+inventário, monitoramento, suporte, manutenção, substituições, segurança, desmobilização e
+logística reversa, enquanto a Administração mantém a fiscalização e a gestão contratual. Essa
+estrutura corresponde, inclusive, ao escopo integral previsto para a solução objeto da
+contratação.
+A contratação de PCaaS, portanto, não deve ser interpretada apenas como uma opção
+de parcelamento de despesa ou de substituição da compra pelo pagamento mensal. Trata-se
+de modelo de contratação compatível com a capacidade institucional atualmente disponível,
+no qual os custos e responsabilidades necessários à manutenção da solução ao longo de seu
+ciclo de vida são incorporados ao serviço contratado, reduzindo a necessidade de criação
+imediata de estrutura própria para execução dessas atividades.
+Dessa forma, para fins de comparação pelo custo total de propriedade – TCO, a
+alternativa de aquisição deve considerar não apenas o valor de aquisição dos equipamentos,
+mas também os custos adicionais necessários para tornar a solução plenamente operacional
+durante os 60 (sessenta) meses, inclusive os recursos humanos e materiais que seriam
+necessários caso a Administração tivesse de internalizar as atividades de suporte,
+manutenção, atualização, monitoramento e gestão do parque.
+Na alternativa PCaaS, por sua vez, tais atividades integram a solução contratada e são
+absorvidas pela remuneração mensal estabelecida, proporcionando previsibilidade
+orçamentária e redução da necessidade de expansão imediata da estrutura operacional
+interna.
+Diante desse cenário, a escolha pelo outsourcing PCaaS mostra-se compatível não
+apenas com as necessidades tecnológicas do Município, mas também com sua capacidade
+institucional efetiva no horizonte temporal considerado, permitindo que a Administração
+concentre seus recursos humanos disponíveis nas atividades estratégicas e de gestão,
+enquanto as atividades técnicas e operacionais especializadas do parque computacional são
+executadas por empresa contratada com capacidade específica para essa finalidade.
+Essa abordagem de locação também está alinhada com as práticas de
+sustentabilidade e responsabilidade socioambiental. A locação permite que o município utilize
+tecnologia mais eficiente em termos de energia e reduza o desperdício associado ao descarte
+de hardware desatualizado.
+
+--- [pag. PDF 50] ---
+70
+Agregam-se a isto, a competitividade e Proporcionalidade na Solução Escolhida.
+A solução de locação/outsourcing foi desenhada para garantir a mais ampla
+competitividade, nos termos do art. 5º da Lei nº 14.133/2021, por meio de: especificações por
+desempenho (o Termo de Referência adota critérios objetivos de desempenho), o que permite
+a participação de uma ampla gama de fornecedores; equivalência técnica ( admissão de
+equivalência e superioridade técnica) assegura que soluções alternativas possam ser
+ofertadas, desde que comprovem o atendimento aos requisitos; proporcionalidade das
+exigências onde as exigências de qualificação técnica foram calculadas com base na parcela
+de maior relevância (49,98% do total), respeitando o limite legal do art. 67, §2º, da Lei
+14.133/2021, e admitindo o somatório de atestados para não restringir indevidamente a
+participação; vistoria facultativa em que a possibilidade de vistoria e a declaração de ciência
+das condições garantem que todos os licitantes tenham acesso às mesmas informações, sem
+criar barreiras à participação.
+Dessa forma, a modelagem adotada assegura o tratamento isonômico, a justa
+competição e a proporcionalidade das exigências, em conformidade com a Lei 14.133/2021.
+Dessa forma, a escolha pela locação (outsourcing Onshore) está em conformidade com
+o art. 11, inciso I da Lei 14.133/2021, que exige a avaliação da vantajosidade considerando o
+ciclo de vida do objeto.
+Em suma, a escolha da locação de microcomputadores, notebooks e monitores não
+apenas atende às demandas tecnológicas em constante evolução da administração pública,
+mas também oferece uma série de vantagens operacionais, ambientais e financeiras.
+Portanto, é a opção recomendada para o Município em razão da eficiência operacional,
+da previsibilidade orçamentária, da sustentabilidade e da gestão integrada do ciclo de vida,
+observadas as ressalvas econômicas e os controles de demanda descritos neste ETP.
+A decisão pela locação (outsourcing Onshore) de microcomputadores (desktop e
+notebooks) completos e monitores, é sustentada por uma variedade de considerações vitais,
+destacando:
+▪ Desoneração da área de TI no que diz respeito a instalação e manutenção de
+hardware e software de cada máquina;
+▪ Desoneração da área de compras do almoxarifado central, pois necessita
+adquirir menor diversidade de suprimentos;
+▪ Possibilidade de utilização de equipamentos com tecnologias atualizadas;
+▪ Desoneração de recursos humanos da instituição para prestação de serviços
+
+--- [pag. PDF 51] ---
+70
+de manutenção, os quais não possui pessoal suficiente para realizar;
+▪ Desoneração de Contratos para conserto dos equipamentos;
+▪ Agilidade de implementação;
+▪ Redução custos iniciais;
+▪ Acesso à tecnologia de ponta;
+▪ Suporte técnico especializado;
+▪ Foco na atividade-fim;
+▪ Conformidade com normas e regulamentos;
+▪ Facilidade de expansão/
+A opção pela locação (outsourcing Onshore) de microcomputadores, notebooks e
+monitores para o município representa uma estratégia assertiva e moderna no contexto
+tecnológico contemporâneo. Essa abordagem oferece uma série de benefícios valiosos, tanto
+do ponto de vista técnico quanto financeiro, que podem ser fundamentais para uma gestão
+eficaz e alinhada com as demandas atuais.
+Inicialmente, a locação proporciona acesso a equipamentos de última geração, sem a
+necessidade de um investimento inicial pesado. Essa é uma vantagem significativa, pois
+permite que o município usufrua das inovações tecnológicas mais recentes sem comprometer
+de forma excessiva o orçamento, possibilitando a modernização contínua dos recursos
+disponíveis.
+A definição dos perfis de desempenho dos equipamentos objeto desta contratação
+decorre análise estratégica fundamentada na longevidade do contrato e na previsível evolução
+tecnológica durante sua vigência.
+Considerando que o contrato terá vigência inicial de 60 (sessenta) meses, com
+possibilidade de prorrogação por igual período (até 120 meses), os equipamentos
+disponibilizados deverão manter desempenho adequado e compatibilidade com as demandas
+institucionais ao longo de todo esse período, sob pena de comprometimento da continuidade
+dos serviços públicos e da necessidade de upgrades precoces, o que oneraria a
+Administração e impactaria a economicidade da contratação.
+A evolução acelerada da inteligência artificial (IA) e do processamento de dados é uma
+realidade inequívoca no cenário tecnológico atual. Softwares de produtividade, sistemas de
+
+--- [pag. PDF 52] ---
+70
+gestão, ferramentas de videoconferência, aplicações de análise de dados e, especialmente,
+soluções baseadas em IA (como assistentes virtuais, análise preditiva, automação de
+processos e reconhecimento de padrões) exigem capacidade de processamento cada vez
+maior, incluindo, quando aplicável até unidades de processamento neural (NPU) dedicadas.
+Assim, a definição de perfis de desempenho visa assegurar que os equipamentos
+disponibilizados no primeiro ciclo contratual não se tornem obsoletos antes do término dos 60
+meses iniciais, garantindo:
+● Capacidade de processamento para a execução fluida dos sistemas institucionais
+atuais e das futuras versões ou substitutos que vierem a ser adotados;
+● Suporte à evolução da IA, com arquitetura que permita aceleração por hardware de
+cargas de inteligência artificial, sem necessidade de upgrades precoces;
+● Redução da necessidade de substituições extraordinárias;
+● Economicidade, ao evitar custos adicionais com upgrades ou substituições antes do
+previsto.
+Os perfis de desempenho foram definidos com base em análise de mercado e
+benchmarking junto a outros entes públicos de porte similar, considerando a necessidade de
+garantir a longevidade tecnológica dos equipamentos em um cenário de constante evolução,
+especialmente no campo da IA, sem, contudo, impor exigências desproporcionais ou
+direcionadoras.
+Além disso, a manutenção e a atualização dos dispositivos ficam a cargo do fornecedor,
+o que alivia a equipe interna de TI do município dessas responsabilidades operacionais. Isso
+permite que a equipe se concentre em atividades mais estratégicas, aumentando a eficiência
+operacional e otimizando a utilização dos recursos humanos.
+Outro ponto relevante é a flexibilidade que a locação oferece. O município pode ajustar
+o número e a configuração dos equipamentos conforme a demanda, seja expandindo ou
+reduzindo o parque de dispositivos. Essa flexibilidade é crucial para adaptar a infraestrutura
+de TI às necessidades específicas e em constante evolução da administração municipal.
+Além disso, a locação (outsourcing Onshore) permite um controle mais efetivo dos
+custos. Os custos associados à locação são previsíveis e mensais, o que facilita o
+planejamento financeiro e evita surpresas desagradáveis no orçamento. Essa previsibilidade
+é essencial para uma gestão financeira responsável e eficaz.
+Por fim, a locação alinha-se ao paradigma da economia circular, onde se busca
+prolongar a vida útil dos dispositivos e reduzir o descarte prematuro. Ao término do contrato,
+os equipamentos podem ser renovados, reciclados ou reutilizados, contribuindo para práticas
+
+--- [pag. PDF 53] ---
+70
+mais sustentáveis e responsáveis. Assim, a escolha da locação (outsourcing) de
+microcomputadores e notebooks para o município é uma decisão que se alinha com a
+modernidade, eficiência, economia e responsabilidade socioambiental. Essa abordagem
+representa uma visão inovadora e pragmática para a gestão de recursos tecnológicos,
+proporcionando os meios para um desempenho operacional aprimorado e sustentável.
+4 – DETALHAMENTO DA SOLUÇÃO ESCOLHIDA
+1. Descrição da solução como um todo
+A informática tornou-se uma ferramenta fundamental para a execução dos serviços nos
+órgãos públicos. No governo, todos os processos de trabalho já operam em sistemas de
+informação. Além disso, os microcomputadores são amplamente utilizados para a operação
+das atividades administrativas das unidades nos órgãos públicos. Atualmente, na Prefeitura
+Municipal de Uberaba, já se utiliza a modalidade de locação de microcomputadores, porém,
+com o tempo, e mesmo se utilizando da locação (outsourcing Onshore), se faz necessário a
+atualização dos equipamentos, pois, com novos equipamentos também se traz
+economicidade.
+Assim, visando dar continuidade a esse serviço, faz-se necessária a instrução de novo
+processo licitatório para contratação de empresa especializada em locação (outsourcing) de
+microcomputadores (desktops e notebooks) completos e monitores, assegurando a
+continuidade de uma arquitetura tecnológica integrada, uniforme e compatível com o ambiente
+computacional preexistente da Prefeitura de Uberaba.
+O outsourcing trata-se da terceirização de processos não estratégicos para uma
+empresa, para que a mesma possa se focar nas suas atividades principais e estratégicas. O
+outsourcing é uma prática fundamental para o sucesso da gestão empresarial, possibilitando
+um crescimento de foco e rentabilidade para a empresa contratante. Essa atividade contribui
+para o melhor controle dos gastos e concede mais recursos humanos e tecnologia a empresa.
+Pontos importantes:
+● Objeto do contrato: descrição detalhada dos equipamentos a serem
+fornecidos, incluindo marca, modelo, configurações técnicas e quantidade;
+● Prazo de vigência: Estabelecimento do período durante o qual o contrato
+será válido, com previsão de renovação e rescisão;
+● Obrigações da contratada:
+o Fornecimento dos equipamentos de acordo com as especificações
+acordadas;
+o Manutenção preventiva e corretiva dos equipamentos durante o
+
+--- [pag. PDF 54] ---
+70
+período de locação;
+o Substituição de peças e componentes defeituosos ou obsoletos;
+o Atualização de softwares, se incluídos no contrato;
+o Prestação de suporte técnico.
+● Preço e forma de pagamento: Detalhamento das condições financeiras,
+incluindo valor da locação, forma de pagamento, periodicidade e eventuais
+reajustes;
+● Garantias: Estabelecimento das garantias oferecidas pela contratada, tais
+como garantia dos equipamentos, suporte técnico e tempos de resposta;
+● Sigilo e confidencialidade: Cláusula que assegura que as informações
+confidenciais não serão divulgadas, garantindo a segurança e a privacidade
+dos dados;
+● Rescisão e penalidades: Condições para rescisão antecipada, multas por
+descumprimento de cláusulas contratuais e as implicações da rescisão;
+● Atualização e upgrades: Procedimentos para a atualização e/ou upgrade
+dos equipamentos durante o contrato, se aplicável;
+● Acessórios e periféricos: Detalhamento dos acessórios e periféricos
+incluídos na locação;
+A locação (outsourcing Onshore) de monitores independentes, além dos que são
+fornecidos no kit de microcomputador, desempenha um papel essencial no ambiente
+tecnológico atual, oferecendo uma série de benefícios que podem otimizar a eficiência
+operacional de uma organização, neste caso, um município.
+Os monitores desempenham um papel crítico em qualquer configuração de escritório
+moderna, incluindo a infraestrutura de TI de uma administração pública. Eles são as janelas
+para a informação digital, permitindo que os servidores municipais acessem, visualizem e
+interajam com dados essenciais. À medida que as demandas por tecnologia e eficiência
+operacional crescem, a importância dos monitores se torna ainda mais evidente.
+A principal razão para considerar a locação de monitores independentes é a
+flexibilidade. Os kits de microcomputadores frequentemente incluem monitores padrão, mas
+essas configurações podem não ser adequadas para todas as tarefas ou servidores. A
+necessidade de monitores maiores, com maior resolução ou recursos específicos, pode surgir,
+e a locação permite a adaptação a essas necessidades variáveis.
+A locação também oferece a oportunidade de acesso a monitores de última geração.
+A tecnologia de monitores evolui rapidamente, com melhorias na qualidade da imagem,
+
+--- [pag. PDF 55] ---
+70
+eficiência energética e recursos ergonômicos. Ao optar pela locação, o município pode
+garantir que seus servidores tenham acesso a monitores atualizados regularmente,
+melhorando a produtividade e a satisfação no local de trabalho.
+A gestão eficiente dos ativos de TI é outra vantagem da locação de monitores
+independentes. As atualizações, reparos e substituições podem ser facilmente gerenciados
+pelo provedor de serviços, eliminando a necessidade de recursos internos para cuidar dessas
+tarefas. Isso permite que a equipe de TI do município se concentre em iniciativas estratégicas
+em vez de tarefas operacionais.
+Em resumo, a locação de monitores independentes oferece a flexibilidade, o acesso à
+tecnologia de ponta, a sustentabilidade, a eficiência operacional e a gestão eficiente dos ativos
+de TI. Portanto, essa prática é de grande importância para otimizar a infraestrutura tecnológica
+do município, melhorar a produtividade dos servidores municipais e reduzir o impacto
+ambiental, contribuindo para a excelência nas operações municipais.
+2. Justificativas para o parcelamento ou não da contratação
+A escolha pelo não parcelamento da contratação, buscando uma abordagem mais
+abrangente, é fundamental para atender de forma técnica e economicamente eficaz às
+demandas do município. O não parcelamento se revela viável tanto do ponto de vista técnico
+quanto econômico, garantindo economia de escala e representando uma vantagem clara para
+a Administração Pública.
+A opção pela não parcelamento da contratação em itens distintos justifica-se pelos
+seguintes fatores técnicos e econômicos:
+● Integração Técnica e Uniformidade Operacional: A solução PCaaS exige a entrega de
+equipamentos, softwares, manutenção, suporte e gestão do ciclo de vida de forma
+integrada. O parcelamento fragmentaria a responsabilidade, dificultando a
+rastreabilidade, a uniformidade operacional e a compatibilidade do parque tecnológico,
+elementos essenciais para a gestão eficiente dos ativos de TI da Administração.
+● Economia de Escala e Redução de Custos: A contratação centralizada de um grande
+volume de equipamentos e serviços (2.857 estações) permite a obtenção de melhores
+condições comerciais, diluição de custos fixos (logística, suporte) e redução do preço
+unitário, conforme demonstrado na análise de mercado (item 3.1). O parcelamento
+tenderia a elevar os custos unitários, especialmente para os itens de menor demanda.
+● Responsabilidade Única e Gestão Simplificada: A concentração das obrigações em um
+único fornecedor simplifica a fiscalização, a medição e a aplicação de sanções,
+
+--- [pag. PDF 56] ---
+70
+reduzindo os custos de transação e a complexidade administrativa. A Administração
+terá um único interlocutor para todos os problemas, evitando a necessidade de
+coordenar múltiplos contratos e fornecedores.
+● Riscos e Continuidade: A solução integrada mitiga riscos de incompatibilidade entre
+componentes e assegura a continuidade do serviço, pois o fornecedor único é
+responsável por todo o ciclo de vida, desde a entrega até a logística reversa, conforme
+previsto no TR.
+Essa decisão de não parcelar a solução e, ao invés disso, agrupar os serviços em
+categorias é embasada na similaridade dos serviços agregados entre os itens. A divisão por
+itens poderia acarretar em altos custos de manutenção para os fornecedores, exigindo a
+contratação de funcionários especializados para atender uma demanda muitas vezes
+reduzida. Além disso, tal divisão não possibilitaria ao fornecedor obter economia de escala
+nas negociações.
+Por outro lado, a seleção por grupos favorece a uniformidade e a compatibilidade do
+parque tecnológico, reduzindo problemas de interoperabilidade. Além disso, centraliza o
+gerenciamento, proporciona administração mais eficiente e evita que itens de baixa demanda
+deixem de despertar o interesse dos fornecedores ou gerem propostas com valores
+desproporcionais.
+Dessa maneira, a opção de não parcelar a contratação e, em vez disso, agregar os
+serviços como um todo (locação, peças e manutenção) em um lote de uma única licitação
+demonstra ser uma escolha técnica e econômica acertada. Essa abordagem beneficia tantoa
+Administração quanto os fornecedores, ao possibilitar uma gestão mais eficaz e uma
+economia significativa, resultando em uma solução mais vantajosa para todas as partes
+envolvidas.
+3. Contratações correlatas e/ou interdependentes
+Não há contratações correlatas e/ou interdependentes. Os serviços de outsourcing já
+vão englobar tudo que é preciso para a execução completa do objeto.
+4. Resultados pretendidos
+Com a contratação da solução de outsourcing onshore, a Administração Municipal
+pretende alcançar:
+1. Modernização e uniformidade tecnológica: Renovação do parque tecnológico
+com equipamentos de desempenho atualizado e configurações compatíveis
+com os perfis de utilização definidos pela Administração;
+
+--- [pag. PDF 57] ---
+70
+2. Disponibilidade e continuidade: Equipamentos sempre funcionais (SLA de 2h
+para solução de problemas) e garantia de substituição imediata;
+3. Redução de custos e previsibilidade: Custo fixo mensal, eliminando despesas
+com manutenção e obsolescência;
+4. Sustentabilidade: Descarte ambientalmente correto (logística reversa) em
+conformidade com a Política Nacional de Resíduos Sólidos;
+5. Segurança da Informação: Cumprimento da LGPD com procedimentos claros
+para a destruição segura de dados.
+A locação (outsourcing) de microcomputadores e notebooks representa uma estratégia
+promissora para o município, trazendo consigo uma série de resultados esperados que podem
+contribuir significativamente para a modernização e otimização dos serviços prestados. Essa
+abordagem se alinha com as demandas atuais por agilidade, flexibilidade, inovação e
+sustentabilidade na administração pública.
+Além disso, a locação traz a vantagem de acesso facilitado a tecnologias de ponta,
+sem a necessidade de grandes investimentos iniciais. Isso possibilita a expansão da
+capacidade de processamento, armazenamento e conectividade de forma mais acessível,
+promovendo a modernização dos processos internos e aprimorando a prestação de serviços.
+A flexibilidade é um ponto-chave nos resultados esperados da locação. O município
+pode ajustar a quantidade e configurações dos dispositivos conforme a necessidade,
+permitindo uma adaptação ágil às variações de demanda e tecnológicas. Essa flexibilidade é
+especialmente relevante considerando as flutuações de demanda típicas da administração
+pública.
+● Melhorar a produtividade;
+● Melhor desenvolvimento dos serviços diários;
+● Garantia de continuidade dos serviços;
+● Proporciona aumento da disponibilidade;
+● Uniformidade e interoperabilidade tecnológica;
+● Atualização do parque tecnológico;
+● Eficiência;
+● Eficácia.
+5. Providências a serem adotadas
+Durante a etapa de recebimento dos equipamentos, é crucial assegurar a integridade
+da entrega, minimizando quaisquer possíveis falhas. Para alcançar esse objetivo, é
+determinado que cada Chefe da respectiva área seja o responsável pela inspeção minuciosa,
+contando com a colaboração de sua equipe de servidores. Caso sejam identificadas
+
+--- [pag. PDF 58] ---
+70
+discrepâncias, falhas ou danos, é imperativo comunicar imediatamente ao Gestor e ao Fiscal
+do Contrato para que as ações corretivas necessárias sejam tomadas.
+Esse processo de recebimento e acompanhamento dos bens ocorre sem a
+necessidade de adequações no ambiente físico, tampouco há exigência de evacuação de
+servidores durante a prestação dos serviços, o que garante maior fluidez na rotina
+administrativa e operacional das unidades envolvidas.
+Além disso, não há exigência de condições especiais para o armazenamento dos bens
+entregues, o que facilita a logística de alocação e guarda dos equipamentos. Da mesma forma,
+os servidores responsáveis pela fiscalização e gestão contratual já se encontram capacitados,
+não havendo necessidade de treinamentos complementares para o desempenho adequado
+dessas funções.
+Além desse momento inicial, é essencial manter um acompanhamento contínuo e
+eficaz ao longo da vigência do contrato. Esse acompanhamento será realizado de maneira
+rigorosa pelo Gestor e pelo Fiscal da Contratação, visando monitorar e garantir o atendimento
+pleno das características globais estipuladas no contrato. Essa supervisão constante permitirá
+uma gestão mais eficiente, possibilitando a identificação precoce de eventuais desvios ou
+necessidades de ajustes, garantindo, assim, a conformidade com os requisitos acordados e a
+efetiva entrega dos resultados planejados.
+Esse compromisso com a vigilância contínua reforça a seriedade da administração
+pública em assegurar o cumprimento adequado das obrigações contratuais para o benefício
+de todos os envolvidos.
+6. Possíveis impactos ambientais
+É importante considerar os possíveis impactos ambientais resultantes desta
+contratação. Estes estão diretamente associados ao gerenciamento adequado dos resíduos,
+englobando desde o descarte das embalagens até a destinação dos materiais utilizados na
+montagem dos equipamentos, quando necessário. Além disso, é essencial contemplar a
+correta disposição dos materiais danificados ou inutilizáveis.
+A empresa contratada deve adotar práticas ambientalmente responsáveis para mitigar
+tais impactos. É crucial que haja uma atenção especial ao manejo dos resíduos gerados
+durante todo o ciclo de vida dos equipamentos, desde a sua aquisição até eventual
+manutenção e, por fim, o descarte.
+O tratamento adequado das embalagens, preferencialmente optando por soluções que
+visem à sua reutilização, reciclagem ou descarte consciente, é um passo fundamental. Da
+mesma forma, é imperativo que a empresa contratada implemente práticas sustentáveis na
+
+--- [pag. PDF 59] ---
+70
+montagem e desmontagem dos equipamentos, buscando minimizar o uso de materiais
+prejudiciais ao meio ambiente.
+Quando se trata de materiais danificados ou inservíveis, é necessário seguir diretrizes
+de descarte seguro e ambientalmente correto, evitando qualquer impacto negativo no meio
+ambiente. Priorizar a reciclagem e a reutilização desses materiais é uma atitude sustentável
+que contribui para a preservação dos recursos naturais e a redução do volume de resíduos
+destinados a aterros sanitários.
+Portanto, ao contemplar essas considerações ambientais e adotar práticas conscientes
+no manuseio e destinação dos resíduos, a empresa contratada demonstra seu compromisso
+com a sustentabilidade e a responsabilidade ambiental, garantindo que os impactos negativos
+sejam minimizados e que o ciclo de vida dos equipamentos seja gerenciado de forma
+ecologicamente equilibrada.
+5 – POSICIONAMENTO CONCLUSIVO
+Diante da análise detalhada presente neste documento, a equipe de planejamento
+afirma a viabilidade da contratação proposta. Este Estudo Técnico Preliminar destaca que a
+locação (outsourcing Onshore) de microcomputadores, notebooks e monitores, se mostra não
+apenas tecnicamente possível, mas também indispensável para atender de maneira
+adequada os servidores municipais. Este ETP oferece um embasamento sólido que reforça a
+adequação e a necessidade dessa forma de contratação para atender da melhor maneira os
+servidores municipais.
+A locação (outsourcing Onshore) de microcomputadores, notebooks e monitores
+emerge como uma solução tecnicamente viável e indispensável. Além de cumprir com
+eficiência as demandas dos servidores municipais, essa abordagem está em total
+conformidade com os princípios da economicidade, eficácia e eficiência, pilares fundamentais
+da gestão pública responsável.
+Portanto, é com base neste Estudo Técnico Preliminar e em conformidade com o
+Decreto nº. 3815/2023, que regulamenta a aplicação da NLLC no município, é que declaramos
+de forma assertiva a viabilidade desta contratação. A implementação dessa solução não
+apenas atende as demandas técnicas e operacionais, mais sim é a decisão mais acertada
+para atender as necessidades de maneira eficiente, econômica e alinhada com as melhores
+práticas de gestão.
+6 – CLASSIFICAÇÃO QUANTO AO GRAU E PRAZO DE SIGILO
+Não há necessidade de classificar o presente expediente como sigiloso, pois as
+
+--- [pag. PDF 60] ---
+70
+informações aqui descritas não se amoldam às hipóteses previstas no art. 23 da Lei
+12.527/2011.
+Uberaba/MG,14 de setembro de 2026.
+EQUIPE DE PLANEJAMENTO:
+João Martins da Silveira Neto
+Matricula: 57750-2
+Lucas Oliveira de Paula
+Matricula: 51197-8
+Aprovado por:
+Ernani Neri dos Santos Júnior
+Secretário de Administração
+
+--- [pag. PDF 61] ---
+70
+ANEXO I
+NOTA TÉCNICA Nº 001/2026
+1. FINALIDADE
+A presente Nota Técnica tem por finalidade caracterizar o ambiente tecnológico atualmente
+utilizado pela Prefeitura Municipal de Uberaba e demonstrar os aspectos técnicos, operacionais e
+econômicos relacionados à necessidade de manutenção da compatibilidade das estações de
+trabalho objeto da contratação constante do Processo PC 495/2025 com as plataformas e padrões
+tecnológicos já adotados pela Administração.
+A análise complementa o Estudo Técnico Preliminar elaborado para a contratação de solução
+integrada de estações de trabalho como serviço - PCaaS e destina-se, especialmente, a fundamentar
+tecnicamente as especificações relativas:
+• ao sistema operacional Microsoft Windows em edição profissional;
+• à suíte de produtividade Microsoft Office LTSC ou versão sucessora oficialmente suportada; e
+• ao Microsoft Configuration Manager, cuja integração à infraestrutura tecnológica municipal e
+cuja dependência operacional são caracterizadas nesta Nota Técnica.
+A presente manifestação não tem por finalidade instituir processo formal de padronização de
+marca ou produto. A análise é realizada sob o fundamento da necessidade de manutenção da
+compatibilidade com plataformas e padrões tecnológicos já adotados pela Administração, nos termos
+do art. 41, inciso I, alínea "b", da Lei Federal nº 14.133/2021.
+2. CONTEXTUALIZAÇÃO DA CONTRATAÇÃO
+O Estudo Técnico Preliminar identifica 1.024 equipamentos atualmente locados e
+aproximadamente 1.000 equipamentos próprios, resultando em universo patrimonial identificado de
+cerca de 2.024 computadores. Para fins operacionais desta Nota, a área requisitante informa que o
+núcleo atualmente locado e submetido a gestão homogênea corresponde a pouco mais de 1.024
+estações, coexistindo com equipamentos próprios de diferentes idades e condições de uso, parte
+deles tecnologicamente defasada. A população funcional com necessidade regular de uso de
+recursos computacionais é estimada em aproximadamente 2.800 servidores/usuários, o que explica
+o compartilhamento de estações em determinadas unidades e fundamenta a expansão prevista no
+novo PCaaS, dimensionado no ETP para até 2.857 estações conforme acionamento da demanda.
+A infraestrutura computacional atende unidades administrativas distribuídas entre diversas
+Secretarias e órgãos municipais e suporta desde atividades administrativas convencionais até
+aplicações que exigem maior capacidade computacional.
+O levantamento constante do ETP registra, entre outros, o emprego de aplicações
+especializadas como AutoCAD, Revit, SketchUp, ArcGIS, Agisoft, CorelDRAW, Illustrator e
+Photoshop, evidenciando a diversidade de perfis de utilização existentes na Administração.
+A solução PCaaS projetada não se limita à disponibilização física de computadores. Os
+equipamentos atuarão como endpoints corporativos, integrados à arquitetura tecnológica da
+Administração e sujeitos aos mecanismos institucionais de autenticação, segurança, gerenciamento,
+atualização, implantação de aplicações, monitoramento, suporte e fiscalização.
+A administração centralizada das estações deve permitir o acompanhamento das aplicações
+
+--- [pag. PDF 62] ---
+70
+instaladas, versões de software, atualizações, configurações, situação operacional e associação dos
+equipamentos aos respectivos usuários ou unidades administrativas.
+3. FUNDAMENTO TÉCNICO-JURÍDICO DA ANÁLISE
+O art. 41, inciso I, alínea "b", da Lei Federal nº 14.133/2021 admite, excepcionalmente e
+mediante justificativa formal, a indicação de marca ou modelo quando necessária à manutenção da
+compatibilidade com plataformas e padrões já adotados pela Administração.
+A aplicação dessa hipótese pressupõe a existência de elementos objetivos que demonstrem
+que a plataforma indicada não decorre simplesmente de preferência administrativa, tradição de uso
+ou juízo abstrato acerca da superioridade de determinado produto.
+Deve-se demonstrar que existe ambiente tecnológico preexistente, efetivamente utilizado pela
+Administração, e que a introdução de plataforma tecnologicamente distinta produz impactos
+relevantes sobre sua interoperabilidade, continuidade, segurança, gerenciamento ou custo de
+operação.
+Nesse contexto, a análise considera conjuntamente:
+• a infraestrutura tecnológica atualmente implantada;
+• a quantidade e distribuição dos usuários e dispositivos integrados ao ambiente;
+• as aplicações e sistemas corporativos utilizados;
+• os mecanismos de autenticação e gerenciamento existentes;
+• as políticas de segurança e configuração implantadas;
+• agentes, certificados, integrações, automações e demais componentes tecnológicos existentes;
+• os procedimentos de suporte e administração atualmente utilizados;
+• os impactos de eventual migração para plataforma tecnologicamente distinta;
+• os custos diretos e indiretos associados à eventual transição; e
+• a preservação da competitividade da futura contratação.
+O enquadramento adotado nesta Nota Técnica é, portanto, o da compatibilidade tecnológica
+prevista no art. 41, inciso I, alínea "b", e não o procedimento de padronização institucional previsto
+no art. 43 da Lei nº 14.133/2021.
+4. CARACTERIZAÇÃO DO AMBIENTE TECNOLÓGICO MUNICIPAL
+4.1. Ambiente de identidade, autenticação e domínio
+Os dados abaixo consolidam a realidade operacional conhecida, as informações fornecidas pela área
+requisitante e as evidências documentais públicas localizadas. Informações de segurança ou
+topologia interna são descritas apenas no nível necessário à motivação da contratação.
+A Prefeitura Municipal de Uberaba utiliza atualmente ambiente corporativo baseado em:
+Informação Dado consolidado
+Tecnologia de domínio/identidade
+Microsoft Active Directory Domain Services (AD
+DS), integrado ao ambiente Windows
+corporativo e aos serviços de autenticação,
+segurança e gerenciamento da Administração.
+Domínio(s)
+Domínio institucional da Prefeitura de Uberaba
+(namespace público uberaba.mg.gov.br;
+detalhes internos de topologia e nomenclatura
+ficam sob guarda da área de TI).
+
+--- [pag. PDF 63] ---
+70
+Informação Dado consolidado
+Quantidade estimada de usuários
+finais de recursos computacionais
+Aproximadamente 2.800 usuários finais com
+necessidade regular de acesso a estações,
+sistemas e serviços corporativos. Trata-se de
+estimativa funcional da área requisitante, e não
+de contagem de contas do Active Directory.
+Abrangência estimada de usuários
+integrados ao ambiente de
+identidade/autenticação
+Aproximadamente 2.800 usuários finais com
+necessidade regular de autenticação e acesso
+ao ambiente corporativo. Para atendimento
+integral ao despacho da PROGER, a
+quantidade agregada de contas cadastradas e
+ativas no Active Directory deverá constar de
+relatório técnico ou declaração da TI/CODIUB
+juntada aos autos, sem exposição de
+identificadores individuais.
+Abrangência estimada de
+computadores integrados ao
+ambiente de domínio e
+gerenciamento
+O núcleo locado compreende 1.024 estações,
+com alcance adicional sobre equipamentos
+próprios em operação. Para atendimento
+integral ao despacho da PROGER, a
+quantidade agregada de objetos de computador
+ativos/integrados ao domínio deverá constar de
+relatório técnico ou declaração da TI/CODIUB
+juntada aos autos.
+Quantidade estimada de
+equipamentos gerenciados
+Pouco mais de 1.024 endpoints no núcleo
+locado atual, com alcance adicional sobre
+equipamentos próprios conforme a configuração
+vigente. A contratação foi dimensionada para
+expansão até 2.857 estações.
+Unidades administrativas abrangidas
+Todas as Secretarias e órgãos participantes da
+Administração Direta, incluindo Saúde,
+Educação, Desenvolvimento Social, SAD e
+demais estruturas relacionadas no
+levantamento, além de unidades
+descentralizadas.
+O ambiente é utilizado para autenticação e gerenciamento centralizado dos usuários e estações de
+trabalho, permitindo, conforme efetivamente implantado no Município:
+• ( X ) ingresso das estações no domínio;
+• ( X ) autenticação centralizada;
+• ( X ) gerenciamento de contas de usuários;
+• ( X ) gerenciamento de grupos e unidades organizacionais;
+• ( X ) aplicação de Group Policy Objects - GPO;
+• ( X ) controle de permissões e privilégios;
+• ( X ) restrições administrativas;
+• ( X ) políticas de senhas, bloqueio e autenticação;
+• ( X ) configuração de estações;
+• ( X ) distribuição/uso de certificados digitais de máquina ou serviço, quando aplicável;
+• ( X ) mapeamento de unidades e recursos de rede;
+• ( X ) implantação de configurações de segurança;
+
+--- [pag. PDF 64] ---
+70
+• ( X ) instalação e distribuição centralizada de aplicações.
+• ( X ) inventário de hardware e software, suporte remoto e associação do endpoint ao
+usuário/unidade administrativa.
+5. COMPATIBILIDADE COM O MICROSOFT WINDOWS EM EDIÇÃO PROFISSIONAL
+As estações de trabalho objeto da futura contratação deverão ser incorporadas ao ambiente
+tecnológico institucional descrito nesta Nota Técnica, mantendo compatibilidade com os mecanismos
+de identidade, autenticação, gerenciamento, segurança, aplicações e demais componentes
+atualmente empregados pela Administração.
+A utilização de edição profissional do Microsoft Windows é justificada a partir da infraestrutura
+efetivamente existente no Município, e não simplesmente das funcionalidades abstratamente
+disponibilizadas pelo produto.
+5.1. Recursos efetivamente utilizados pelo Município
+A área técnica certifica que os seguintes recursos vinculados ou compatíveis com o ambiente
+Windows são atualmente empregados:
+Recurso Utilizado? Quantidade/abrangência Evidência
+Ingresso em domínio
+Active Directory SIM
+Núcleo de 1.024 estações
+locadas, com abrangência
+operacional superior
+quando considerados os
+equipamentos próprios
+ativos. O quantitativo
+técnico de objetos ativos
+no domínio é dinâmico e
+permanece registrado no
+Active Directory sob
+guarda da TI/CODIUB.
+Ambiente Active
+Directory corporativo
+e documentação
+histórica da CODIUB
+demonstram
+integração ao
+diretório.
+Group Policy - GPO SIM
+Estações ingressadas no
+domínio; aplicação por
+grupos/unidades
+organizacionais.
+Mecanismo de
+administração do
+domínio Windows.
+Evidência operacional
+recomendada:
+exportação/relatório
+do Group Policy
+Management, sem
+exposição de
+parâmetros sensíveis.
+Autenticação integrada SIM
+Aproximadamente 2.800
+usuários finais
+alcançados pelos
+mecanismos corporativos
+de identidade e
+autenticação; os objetos
+técnicos do diretório
+variam conforme
+admissões,
+Integração com AD,
+LDAP e SSO aparece
+em requisitos
+corporativos da
+CODIUB; controles de
+firewall e sistemas
+utilizam identificação
+de usuários e grupos.
+
+--- [pag. PDF 65] ---
+70
+Recurso Utilizado? Quantidade/abrangência Evidência
+desligamentos, contas de
+serviço e rotinas
+administrativas.
+Certificados
+digitais/máquina
+SIM -
+aplicação
+seletiva
+Aplicação conforme
+serviço, estação e
+mecanismo de
+segurança; quantitativo
+variável e não
+necessariamente
+abrangente a 100% dos
+endpoints.
+Utilizados em
+autenticação segura,
+HTTPS/VPN e
+serviços corporativos,
+quando aplicável. A
+relação detalhada de
+certificados deve
+permanecer sob
+guarda da TI por
+razões de segurança.
+Políticas de segurança Sim
+Todo o núcleo corporativo
+administrado; pelo menos
+1.024 endpoints locados.
+Políticas de
+segurança de rede e
+endpoint integradas
+ao diretório e ao
+ambiente Windows;
+documentação pública
+da CODIUB prevê
+granularidade por
+usuários/grupos e
+controle centralizado.
+Controle centralizado de
+usuários sim
+Aproximadamente 2.800
+usuários finais de
+recursos computacionais,
+com controle centralizado
+de identidade e
+autenticação no ambiente
+corporativo.
+Active Directory como
+serviço de diretório
+institucional, com
+identificação de
+usuários e grupos e
+integração de
+autenticação.
+Distribuição de software sim
+Pouco mais de 1.024
+endpoints no parque
+locado, além de
+equipamentos próprios
+conforme escopo.
+Uso de ferramenta de
+gerenciamento de
+endpoints; edital
+CODIUB PE 005/2021
+reconhece Microsoft
+System Center
+Configuration
+Manager como
+mecanismo de
+distribuição de
+agentes/software.
+Gerenciamento de
+configurações Sim
+Endpoints corporativos
+integrados; núcleo locado
+superior a 1.024
+estações.
+Active Directory/GPO
+e Configuration
+Manager; histórico
+municipal de sistema
+de gestão de parque
+com inventário de
+configurações e
+parâmetros do
+
+--- [pag. PDF 66] ---
+70
+Recurso Utilizado? Quantidade/abrangência Evidência
+sistema operacional.
+Scripts de
+logon/inicialização sim
+Aplicação conforme
+unidade organizacional,
+perfil e necessidade de
+configuração.
+Recurso operacional
+do ambiente de
+domínio para
+mapeamentos,
+configurações e
+rotinas. A relação
+detalhada de scripts
+permanece sob
+guarda da TI/CODIUB
+e não é reproduzida
+integralmente por
+conter informações
+operacionais do
+ambiente.
+Integração com sistemas
+corporativos sim
+Todas as Secretarias
+participantes; cerca de
+2.800 usuários potenciais.
+Portfólio de sistemas
+CODIUB e aplicações
+especializadas do
+ETP operam sobre
+estações Windows;
+integrações com
+diretório, certificados,
+Office e componentes
+locais devem ser
+preservadas.
+Outros sim
+DNS, recursos de rede,
+inventário, suporte
+remoto, firewall/VPN e
+registro de ativos.
+CODIUB presta
+gerenciamento e
+suporte ao parque
+municipal; documento
+oficial de 2022
+registrou mais de
+2.500 micros
+gerenciados e média
+superior a 387
+chamados/mês,
+evidenciando gestão
+centralizada em larga
+escala.
+5.2. Aplicações e sistemas vinculados ao ambiente Windows
+Foram considerados, conforme a realidade municipal e a documentação disponível, os
+sistemas e aplicações que:
+• funcionem exclusivamente em ambiente Windows;
+• possuam versão oficialmente homologada para Windows;
+• utilizem componentes ou dependências específicas desse ambiente;
+• possuam cliente local instalado nas estações;
+• utilizem componentes ActiveX, .NET, drivers, certificados, bibliotecas ou outros elementos
+relevantes; ou
+
+--- [pag. PDF 67] ---
+70
+• apresentem integração específica com a arquitetura Microsoft.
+Sistema/aplicaç
+ão Unidade usuária Dependência/compatibilid
+ade
+Situação
+em
+plataforma
+alternativa
+Evidência
+AutoCAD, Revit,
+SketchUp,
+ZWCAD e Agisoft
+SEPLAN,
+SESURB,
+SEMAM,
+SEMED, SAGRI
+e SAD
+Aplicações técnicas já
+utilizadas no parque, com
+versões e rotinas
+operacionais baseadas em
+estações Windows; Revit e
+parte do ecossistema
+técnico exigem ambiente
+Windows suportado.
+Plataforma
+distinta
+exigiria
+revalidação
+de versões,
+drivers,
+plugins,
+desempenho
+, arquivos e
+fluxos; em
+alguns
+casos não
+há cliente
+equivalente
+homologado.
+Levantamento de
+softwares do
+próprio ETP;
+histórico de uso
+institucional nas
+Secretarias
+técnicas.
+ArcGIS e
+ferramentas GIS
+SEPLAN/SESUR
+B e áreas
+correlatas
+Uso de aplicações GIS de
+estação e integrações com
+dados geoespaciais no
+ambiente Windows.
+Exigiria
+homologaçã
+o de
+componente
+s,
+extensões,
+geodatabase
+s, drivers e
+rotinas;
+eventual
+migração
+teria impacto
+técnico
+relevante.
+Levantamento de
+softwares do
+ETP e uso
+institucional de
+geoprocessamen
+to.
+Adobe
+Photoshop/Illustra
+tor e CorelDRAW
+SECOM e
+unidades de
+comunicação/desi
+gn
+Fluxos gráficos e arquivos
+produzidos em aplicações
+instaladas e operadas no
+ambiente Windows.
+Migração
+demandaria
+revalidação
+de licenças,
+fontes,
+plugins,
+perfis,
+arquivos e
+treinamento,
+com risco de
+alteração de
+fluxos e
+formatação.
+Levantamento de
+softwares do
+ETP.
+Sistemas
+corporativos e
+utilitários
+Todas as
+Secretarias e
+órgãos usuários
+Ambiente municipal possui
+sistemas web e desktop,
+integrações com
+Grande
+parte pode
+ser
+Portal de
+sistemas
+CODIUB:
+
+--- [pag. PDF 68] ---
+70
+Sistema/aplicaç
+ão Unidade usuária Dependência/compatibilid
+ade
+Situação
+em
+plataforma
+alternativa
+Evidência
+mantidos pela
+CODIUB
+autenticação, impressão,
+certificados, Office e
+recursos locais de estação.
+acessível
+por
+navegador,
+mas a
+alteração do
+SO exige
+testes de
+autenticação
+,
+certificados,
+impressão,
+componente
+s locais,
+segurança e
+suporte
+antes de
+implantação
+em massa.
+Alvarás, Gestão
+de Viagens,
+IPTU, Prontuário
+Eletrônico, Portal
+Acadêmico, SGP
+e outros;
+documentação
+histórica de
+suporte
+centralizado do
+parque.
+6. POLÍTICAS DE SEGURANÇA, GERENCIAMENTO E CONTROLE
+A manutenção da compatibilidade considera as políticas e mecanismos atualmente
+implementados no ambiente municipal.
+6.1. Políticas administrativas e de segurança
+• ( X ) políticas de senha, expiração, bloqueio e autenticação;
+• ( X ) restrições administrativas;
+• ( X ) controle de privilégios e permissões;
+• ( X ) configurações de firewall e segurança de rede;
+• ( X ) atualização das estações e correções de segurança;
+• ( X ) bloqueio, autorização e distribuição de aplicações;
+• ( X ) restrições de dispositivos/removíveis conforme perfil e política de segurança;
+• ( X ) configurações de navegador e acesso aos serviços corporativos;
+• ( X ) proteção de credenciais e autenticação integrada;
+• ( X ) políticas de acesso por usuário, grupo, perfil e recurso;
+• ( X ) regras aplicadas mediante GPO e mecanismos equivalentes de gerenciamento; e
+• ( X ) demais políticas de segurança, inventário, atualização e conformidade mantidas pela área
+de TI/CODIUB.
+6.2. Agentes e componentes instalados
+Agente/componente Finalidade
+Quantidade
+aproximada de
+dispositivos
+Compatibilidade
+requerida
+Antivírus/EDR
+Proteção contra
+malware, ameaças,
+controle e resposta
+Pouco mais de 1.024
+endpoints no núcleo
+locado; extensão aos
+Compatibilidade com
+Windows corporativo,
+diretório, firewall e
+
+--- [pag. PDF 69] ---
+70
+Agente/componente Finalidade
+Quantidade
+aproximada de
+dispositivos
+Compatibilidade
+requerida
+de endpoint. equipamentos
+próprios conforme
+política.
+mecanismos de
+gerenciamento;
+produto específico
+pode variar conforme
+contrato vigente.
+Agente de inventário
+Coleta de hardware,
+software, versões,
+estado e associação
+do ativo.
+Pouco mais de 1.024
+endpoints, com
+expansão prevista no
+PCaaS.
+Integração com a
+plataforma de
+gerenciamento e com
+o
+inventário/fiscalização
+contratual.
+Agente de
+gerenciamento
+Aplicação de
+políticas, distribuição
+de software,
+atualizações e
+ações remotas.
+Pouco mais de 1.024
+endpoints no parque
+locado atual.
+Cliente do
+Configuration
+Manager e/ou
+componentes
+equivalentes do
+ambiente Microsoft.
+Agente de
+monitoramento
+Telemetria
+operacional, status,
+comunicação,
+conformidade e
+apoio ao
+diagnóstico.
+Núcleo corporativo
+gerenciado; superior a
+1.024 estações
+quando incluídos
+ativos próprios em
+uso.
+Integração com
+gerenciamento de
+endpoints e solução
+de segurança.
+Certificado de
+máquina
+Autenticação de
+dispositivo/serviço,
+criptografia e acesso
+seguro quando
+exigido.
+Aplicação seletiva
+conforme serviço e
+política; quantitativo
+variável.
+Repositório de
+certificados do
+Windows, AD e
+serviços corporativos;
+detalhes técnicos
+preservados por
+segurança.
+VPN
+Acesso remoto
+seguro e
+conectividade
+administrativa
+quando necessária.
+Usuários remotos,
+equipes técnicas e
+integrações
+autorizadas;
+quantitativo variável.
+Infraestrutura
+corporativa de
+firewall/VPN da
+CODIUB prevê
+integração a diretórios
+e autenticação; não
+se aplica
+obrigatoriamente a
+todos os usuários.
+Outros
+Suporte remoto,
+scripts, inventário,
+mapeamentos,
+impressão e
+componentes de
+acesso a sistemas.
+Conforme perfil do
+endpoint e unidade
+administrativa.
+Ecossistema de
+suporte e
+gerenciamento
+centralizado mantido
+pela CODIUB/área de
+TI.
+
+--- [pag. PDF 70] ---
+70
+7. MICROSOFT OFFICE LTSC
+7.1. Caracterização do ambiente documental
+A indicação do Microsoft Office LTSC decorre da necessidade de compatibilidade com
+documentos, modelos, automações, integrações e fluxos de trabalho efetivamente utilizados pelo
+Município.
+Informação Dado consolidado
+Quantidade estimada de usuários
+que utilizam a suíte
+Aproximadamente 2.800 usuários finais de
+recursos computacionais, observando-se que
+determinadas funções utilizam estações
+compartilhadas e nem todos os usuários
+necessitam de licença dedicada simultânea.
+Quantidade estimada de estações
+Pouco mais de 1.024 estações locadas
+atualmente, com uso adicional em
+equipamentos próprios em operação; expansão
+prevista até 2.857 estações no novo PCaaS.
+Principais Secretarias/unidades
+usuárias
+Todas as Secretarias e órgãos administrativos;
+uso mais intenso em SAD, SEFAZ, PROGER,
+CGM, Saúde, Educação, Desenvolvimento
+Social e unidades técnicas/administrativas.
+Formatos predominantes
+DOCX, XLSX, PPTX, PDF e CSV, além de
+arquivos legados DOC/XLS/PPT quando
+existentes.
+7.2. Elementos de dependência e interoperabilidade
+Foram verificados, para fins desta justificativa, os seguintes elementos:
+• ( X ) modelos institucionais de documentos e formulários;
+• ( X ) planilhas com fórmulas, filtros, tabelas, validações e recursos avançados;
+• ( ) macros - não utilizadas como fundamento autônomo desta justificativa sem inventário
+específico;
+• ( X ) automações de geração, tratamento e intercâmbio de documentos/planilhas por sistemas e
+rotinas administrativas;
+• ( ) complementos/add-ins - eventual uso setorial deverá ser validado caso seja invocado como
+fundamento específico;
+• ( X ) integração com sistemas corporativos e fluxos administrativos;
+• ( X ) geração automatizada ou semiautomatizada de arquivos de texto, planilha e apresentação;
+• ( X ) importação/exportação de XLSX/XLS/CSV e outros formatos tabulares;
+• ( X ) mala direta, mesclagem de documentos e integração com bases de dados em rotinas
+administrativas, quando aplicável;
+• ( X ) planilhas utilizadas em rotinas financeiras, administrativas, de controle, planejamento e
+fiscalização;
+• ( X ) documentos e apresentações que exigem preservação de formatação, paginação, estilos,
+tabelas e elementos gráficos;
+• ( X ) intercâmbio recorrente de arquivos Office entre Secretarias, órgãos de controle,
+fornecedores e demais usuários externos.
+
+--- [pag. PDF 71] ---
+70
+Recurso/arquivo/fluxo Unidade Dependência
+identificada
+Impacto de
+solução alternativa Evidência
+Modelos, ofícios,
+memorandos, relatórios
+e documentos
+institucionais
+Todas as
+Secretarias
+Compatibilidade de
+DOCX, estilos,
+tabelas, cabeçalhos,
+numeração e
+paginação no fluxo
+administrativo.
+Conversão
+generalizada pode
+provocar
+perda/alteração de
+formatação e exigir
+revisão manual e
+treinamento.
+Uso
+institucional
+histórico de
+Microsoft Office;
+CODIUB PE
+002/2024 voltou
+a prever
+licenças
+Microsoft Office
+com Word,
+Excel e
+PowerPoint.
+Planilhas
+administrativas,
+financeiras e de
+controle
+SAD,
+SEFAZ,
+CGM,
+Saúde,
+Educação e
+demais
+unidades
+XLSX/XLS/CSV,
+fórmulas, filtros,
+tabelas, validações
+e intercâmbio de
+dados com rotinas
+internas.
+Exige testes de
+compatibilidade,
+validação de
+fórmulas/formatos e
+adaptação de
+rotinas; risco de
+retrabalho em
+arquivos críticos.
+Fluxos
+administrativos
+e uso
+disseminado de
+planilhas;
+histórico
+contratual do
+Município com
+Office
+Professional.
+Exportação/importação
+e intercâmbio de
+arquivos por sistemas
+corporativos
+Todas as
+unidades
+usuárias de
+sistemas
+CODIUB
+Integração de
+arquivos, anexos,
+relatórios e dados
+com ferramentas de
+produtividade do
+usuário final.
+Mudança de suíte
+exige homologação
+dos formatos
+gerados/recebidos,
+treinamento e
+possível
+coexistência de
+plataformas.
+Portfólio de
+sistemas
+CODIUB e
+ambiente
+municipal;
+documentos
+públicos
+registram
+continuidade do
+ecossistema
+Windows/Office.
+8. MICROSOFT CONFIGURATION MANAGER
+8.1. Verificação da existência de infraestrutura preexistente
+O Município possui atualmente Microsoft Configuration Manager efetivamente implantado?
+( X ) SIM ( ) NÃO
+Informação Dado consolidado
+Versão atualmente utilizada
+Microsoft Configuration Manager - Current
+Branch, em utilização no ambiente municipal. A
+versão/build efetivamente instalada deverá ser
+confirmada por relatório ou exportação do
+console administrativo juntado aos autos, sem
+exposição de topologia, endereços, credenciais
+
+--- [pag. PDF 72] ---
+70
+Informação Dado consolidado
+ou outros dados sensíveis.
+Responsável pelo licenciamento
+A utilização da plataforma é certificada pela
+área técnica. A identificação de quem detém o
+licenciamento e do instrumento contratual ou
+administrativo vigente deverá ser comprovada
+nos autos mediante licença, contrato,
+declaração da CODIUB/área de TI ou
+documento equivalente, em atendimento
+expresso ao despacho da PROGER.
+Quantidade de endpoints
+gerenciados
+Pouco mais de 1.024 endpoints no núcleo
+locado atual, com potencial de inclusão dos
+equipamentos próprios ativos e expansão
+gradual no novo PCaaS.
+Tempo aproximado de utilização
+Uso consolidado no ambiente municipal, com
+documentação pública do ecossistema CODIUB
+mencionando System Center Configuration
+Manager desde pelo menos 2021. A data exata
+de implantação e o histórico técnico
+permanecem registrados no ambiente
+administrativo da TI/CODIUB.
+Servidores/componentes existentes
+Servidor(es) de site/gerenciamento, console
+administrativa, serviços de
+distribuição/gerenciamento, banco de dados e
+agentes cliente. Por segurança, a topologia,
+nomes de host, endereços e credenciais não
+são reproduzidos nesta Nota.
+Banco de dados/histórico existente
+Existe base operacional/histórica associada ao
+inventário, aplicações, atualizações, coleções,
+configurações, conformidade e status dos
+endpoints. O período de retenção e volume
+devem ser extraídos do console sem divulgação
+de dados sensíveis.
+8.2. Recursos atualmente implantados
+A área técnica certifica como atualmente configurados os seguintes recursos:
+• ( X ) inventário de hardware;
+• ( X ) inventário de software;
+• ( X ) distribuição de aplicações e pacotes;
+• ( X ) gerenciamento de atualizações;
+• ( X ) implantação/recomposição de sistemas operacionais e imagens, quando utilizada;
+• ( X ) baselines/regras de conformidade e verificação de configuração;
+• ( X ) políticas e configurações;
+• ( X ) relatórios operacionais e gerenciais;
+• ( X ) monitoramento de comunicação, estado e conformidade;
+• ( X ) gerenciamento centralizado de endpoints;
+• ( X ) coleções/agrupamentos de dispositivos;
+• ( X ) pacotes e aplicações corporativas;
+
+--- [pag. PDF 73] ---
+70
+• ( X ) integração com Microsoft Active Directory;
+• ( X ) integração com serviços de segurança, atualização, rede e suporte conforme arquitetura
+vigente;
+• ( X ) histórico de inventário, alterações, implantações e atualizações;
+• ( X ) ações remotas, diagnóstico, apoio à preparação e substituição de equipamentos.
+Elementos quantitativos
+Elemento Quantidade
+Endpoints gerenciados
+Pouco mais de 1.024 no núcleo
+locado atual; expansão
+conforme incorporação dos
+ativos do novo PCaaS.
+Aplicações/pacotes cadastrados
+Dezenas de
+aplicações/pacotes, em
+quantitativo dinâmico conforme
+inclusão, atualização e
+descontinuação de softwares,
+registrado no console
+administrativo.
+Políticas/baselines
+Dezenas de políticas, baselines
+e configurações, em
+quantitativo dinâmico registrado
+no Configuration Manager e
+nos mecanismos de GPO.
+Coleções
+Múltiplas coleções por perfil,
+tipo de equipamento, unidade,
+finalidade e/ou estágio de
+implantação.
+Relatórios utilizados
+Múltiplos relatórios de
+inventário, software,
+atualizações, conformidade,
+comunicação e estado dos
+endpoints.
+Integrações
+Active Directory, serviços de
+atualização/segurança, rede e
+suporte; demais integrações
+conforme configuração vigente.
+Outros
+Histórico de inventário,
+alterações, distribuição de
+software, atualizações e
+registros de gestão dos
+endpoints.
+8.3. Dependências e impactos de substituição
+A área técnica identifica, a seguir, os elementos que precisariam ser migrados ou reconstruídos caso
+fosse adotada ferramenta distinta:
+A adoção de ferramenta distinta exigiria, no mínimo, a retirada ou coexistência temporária de agentes,
+redistribuição dos novos clientes, reconstrução/validação de pacotes e aplicações, recriação de
+
+--- [pag. PDF 74] ---
+70
+coleções, políticas e baselines, reconfiguração da integração com Active Directory, revisão de
+permissões, relatórios, rotinas de atualização e procedimentos de suporte.
+Também seria necessária a migração ou preservação dos dados de inventário e histórico, testes de
+compatibilidade, homologação em amostra representativa, capacitação da equipe técnica e operação
+paralela durante período de estabilização, com aumento previsível de chamados e risco de
+indisponibilidade.
+Deverão ser considerados, conforme aplicável:
+• retirada e implantação de agentes;
+• reconstrução de pacotes de aplicações;
+• migração de inventário;
+• reconstrução de políticas e baselines;
+• reconstrução de relatórios;
+• integração com Active Directory;
+• integração com outras ferramentas;
+• preservação de históricos;
+• testes e homologação;
+• capacitação da equipe técnica;
+• operação paralela durante a transição;
+• riscos de indisponibilidade;
+• impactos sobre o suporte; e
+• impactos financeiros.
+Conclusão específica sobre o Configuration Manager
+A análise técnica realizada demonstra que o Microsoft Configuration Manager não constitui
+tecnologia indicada apenas como referência funcional para implantação futura, mas plataforma
+efetivamente integrada ao ambiente tecnológico atualmente utilizado pelo Município, com
+componentes, configurações, políticas, agentes, pacotes, históricos e/ou integrações preexistentes.
+Sua substituição demandaria processo de migração e reconstrução da infraestrutura descrita
+nesta Nota Técnica, com repercussões técnicas, operacionais e econômicas sobre a Administração.
+Nessas condições, a manutenção da plataforma na futura contratação encontra fundamento
+na necessidade de compatibilidade com plataforma e padrões tecnológicos já adotados pela
+Administração, nos termos do art. 41, inciso I, alínea "b", da Lei Federal nº 14.133/2021.
+9. ANÁLISE DAS SOLUÇÕES ALTERNATIVAS
+A análise de compatibilidade não deve partir da premissa de que plataformas alternativas são
+tecnicamente incapazes de executar funções equivalentes. O objetivo desta avaliação é identificar
+os impactos de sua adoção no ambiente concreto do Município, considerando a infraestrutura
+tecnológica preexistente.
+9.1. Sistema operacional
+Alternativa
+avaliada
+Tecnicamente
+possível?
+Compatibilidade
+com ambiente
+atual
+Necessita
+migração/adaptação?
+Impacto
+estimado
+Manutenção do
+ambiente
+Windows
+Sim
+Alta/Integral com o
+ambiente de
+domínio, políticas,
+softwares e suporte
+Não. Apenas
+atualização de versão
+dentro do ciclo
+suportado.
+Baixo;
+preserva
+procedimentos,
+integrações,
+
+--- [pag. PDF 75] ---
+70
+Alternativa
+avaliada
+Tecnicamente
+possível?
+Compatibilidade
+com ambiente
+atual
+Necessita
+migração/adaptação?
+Impacto
+estimado
+existentes. autenticação,
+suporte e
+conhecimento
+acumulado.
+Plataforma de
+arquitetura distinta
+Sim para parte
+das funções;
+não há
+equivalência
+comprovada
+para todo o
+conjunto atual.
+Parcial. Exigiria
+homologação de
+aplicações,
+periféricos,
+certificados,
+autenticação,
+gerenciamento e
+fluxos.
+Sim, em larga escala.
+Alto: migração
+de pelo menos
+1.024
+endpoints do
+núcleo locado,
+testes em
+aplicações
+técnicas e
+impacto
+potencial sobre
+cerca de 2.800
+usuários.
+Ambiente híbrido Sim
+Parcial/Alta em
+funções genéricas,
+porém aumenta
+heterogeneidade e
+complexidade de
+suporte e
+segurança.
+Sim, para
+segmentação,
+políticas, ferramentas
+e treinamento.
+Médio a alto;
+coexistência
+de ambientes,
+duplicidade de
+procedimentos
+e suporte,
+maior custo de
+administração
+durante a
+transição.
+9.2. Suíte de produtividade
+Alternativ
+a
+Interoperabilidad
+e
+Impacto sobre
+arquivos/fluxos
+Treinament
+o Migração Conclusão
+Office
+LTSC
+Alta com o acervo
+e fluxos
+existentes.
+Mínimo; preserva
+DOCX/XLSX/PPT
+X, formatação,
+treinamento e
+rotinas.
+Baixo,
+limitado à
+evolução de
+versão.
+Não há
+migração de
+plataforma;
+apenas
+atualização de
+versão
+suportada.
+Solução
+recomendada
+por
+compatibilidade
+e continuidade
+operacional.
+Suíte
+alternativa
+instalada
+Parcial; adequada
+a funções
+básicas, mas
+requer validação
+em arquivos e
+fluxos complexos.
+Risco de alteração
+de formatação,
+fórmulas, recursos
+avançados e
+rotinas de
+intercâmbio.
+Necessário
+para parcela
+relevante
+dos cerca
+de 2.800
+usuários.
+Sim;
+conversão/teste
+s e possível
+coexistência de
+formatos.
+Tecnicamente
+possível em
+casos
+específicos,
+mas não
+comprovada
+como
+substituição
+integral sem
+custos de
+
+--- [pag. PDF 76] ---
+70
+Alternativ
+a
+Interoperabilidad
+e
+Impacto sobre
+arquivos/fluxos
+Treinament
+o Migração Conclusão
+transição
+relevantes.
+Solução
+web/cloud
+Potencialmente
+alta para arquivos
+modernos,
+dependendo da
+plataforma e
+integração.
+Muda modelo de
+licenciamento,
+identidade,
+conectividade,
+armazenamento e
+administração;
+requer avaliação
+específica.
+Necessário
+para
+mudança de
+fluxo e
+recursos.
+Sim, sobretudo
+de identidade,
+documentos e
+processos.
+Alternativa
+possível, mas
+representa
+arquitetura
+distinta e não
+substitui
+automaticament
+e o LTSC no
+cenário atual
+sem estudo
+próprio.
+9.3. Gerenciamento de endpoints
+Alternativa Integração com
+ambiente atual
+Migração
+necessária
+Impacto
+operacional Conclusão
+Configuration
+Manager
+Integral com a
+plataforma
+declarada e o Active
+Directory.
+Não, mantendo-
+se o ambiente
+atual e
+atualizando-se
+dentro do ciclo
+suportado.
+Baixo; preserva
+inventário,
+agentes,
+políticas,
+pacotes,
+relatórios e
+rotinas.
+Recomendado
+por
+compatibilidade
+preexistente,
+art. 41, I, “b”.
+Solução
+equivalente A -
+UEM/MDM em
+nuvem
+Parcial a alta,
+conforme produto e
+integrações.
+Sim: agentes,
+identidade,
+políticas,
+aplicações,
+inventário e
+processos de
+suporte.
+Médio/alto;
+exige projeto de
+transição,
+licenciamento,
+treinamento e
+coexistência
+temporária.
+Possível
+tecnicamente,
+mas não
+substitui o
+ambiente atual
+sem migração
+e avaliação
+econômica.
+Solução
+equivalente B -
+gerenciamento
+on-premises multi-
+vendor
+Parcial, dependente
+de integração com
+AD e recursos do
+parque.
+Sim:
+reconstrução de
+inventário,
+pacotes,
+coleções,
+políticas,
+relatórios e
+agentes.
+Alto no período
+de implantação
+e estabilização.
+Possível se
+demonstrada
+equivalência
+integral e
+vantajosidade
+após
+contabilizados
+os custos de
+migração.
+10. IMPACTOS TÉCNICOS E OPERACIONAIS DE EVENTUAL MIGRAÇÃO
+A eventual alteração da arquitetura tecnológica utilizada pela Administração poderá
+demandar, conforme demonstrado nos itens precedentes:
+
+--- [pag. PDF 77] ---
+70
+• homologação ou revalidação de aplicações;
+• alteração de políticas e configurações;
+• reconfiguração de mecanismos de autenticação;
+• adaptação de procedimentos internos;
+• migração de dados, configurações, políticas ou históricos;
+• substituição ou reconfiguração de agentes instalados;
+• capacitação e treinamento dos usuários;
+• capacitação da equipe técnica;
+• revisão dos procedimentos de suporte;
+• criação e manutenção temporária de ambientes paralelos;
+• adaptação ou reconstrução de automações;
+• testes de compatibilidade;
+• aumento temporário da demanda de suporte;
+• risco de interrupções ou degradação operacional durante a transição; e
+• custos diretos e indiretos relacionados à migração.
+No ambiente atualmente identificado, uma mudança de arquitetura alcançaria diretamente o
+núcleo de pouco mais de 1.024 endpoints locados e poderia repercutir sobre aproximadamente 2.800
+usuários finais. A documentação pública da CODIUB registra, historicamente, gestão de parque
+municipal em escala superior a 2.500 microcomputadores e média superior a 1.000 chamados
+mensais, o que evidencia que alterações de plataforma têm potencial de produzir volume significativo
+de implantação, suporte e estabilização. Os quantitativos abaixo são parâmetros conservadores de
+planejamento e não constituem orçamento.
+11. AVALIAÇÃO ECONÔMICA DA MIGRAÇÃO
+Componente Unidade Quantidade
+estimada
+Horas/custo
+unitário
+Impacto
+estimado
+Homologação de
+sistemas grupo de aplicações 10 a 20 grupos
+críticos/principais
+8 a 16 h por
+grupo
+80 a 320 h
+técnicas,
+incluindo testes,
+correções,
+validação e
+documentação.
+Migração de
+estações endpoint pelo menos
+1.024 estações
+1,5 a 3 h por
+estação
+1.536 a 3.072 h
+técnicas, sem
+considerar
+indisponibilidade
+do usuário e
+logística física.
+Reconstrução de
+políticas GPO/política/baseline
+15 a 30
+conjuntos como
+faixa inicial de
+planejamento
+4 a 8 h por
+conjunto
+60 a 240 h, além
+de testes e
+homologação por
+perfil/unidade.
+Migração de
+aplicações pacote/aplicação 20 a 40 pacotes
+como faixa inicial
+4 a 8 h por
+pacote
+80 a 320 h para
+empacotamento,
+testes,
+distribuição e
+
+--- [pag. PDF 78] ---
+70
+Componente Unidade Quantidade
+estimada
+Horas/custo
+unitário
+Impacto
+estimado
+correções.
+Capacitação de
+usuários usuário aprox. 2.800
+usuários finais
+1 a 2 h por
+usuário
+2.800 a 5.600
+horas-usuário,
+além de
+materiais,
+comunicação e
+queda temporária
+de produtividade.
+Capacitação
+técnica
+profissional de
+TI/suporte
+10 a 15
+profissionais
+como cenário de
+referência
+16 a 24 h por
+profissional
+160 a 360 h
+técnicas; ajustar
+ao quadro
+efetivamente
+designado.
+Suporte adicional chamado
+acréscimo
+estimado de
+15% a 30% por
+3 meses sobre
+base histórica
+>1.000
+chamados/mês
+0,5 a 1,5 h por
+chamado
+Aproximadamente
+450 a 900
+chamados
+adicionais; 225 a
+1.350 h de
+atendimento,
+conforme
+complexidade.
+Operação paralela semana
+13 a 26
+semanas (3 a 6
+meses)
+20 a 40 h
+técnicas/semana
+260 a 1.040 h,
+além de eventual
+duplicidade de
+licenças,
+infraestrutura e
+controles.
+Outros projeto de
+testes/rollback
+1 ciclo de
+homologação e
+contingência
+80 a 160 h
+Testes de
+segurança,
+integração,
+contingência,
+documentação e
+plano de retorno:
+80 a 160 h.
+Os valores em horas acima constituem dimensionamento paramétrico conservador para
+demonstrar a materialidade do esforço de transição. Não representam preço de mercado nem
+orçamento. A monetização dependerá do custo-hora efetivo das equipes e fornecedores, do
+inventário de políticas/pacotes e do cronograma de migração. A base histórica pública de suporte da
+CODIUB, superior a 387 chamados/mês em 2025, foi utilizada apenas como referência de escala.
+12. PRESERVAÇÃO DA COMPETITIVIDADE
+A eventual indicação de plataforma tecnológica específica não deverá implicar restrição da
+contratação a único fornecedor ou fabricante de hardware.
+A área técnica certifica, com base na estrutura do objeto e na pesquisa de mercado,
+
+--- [pag. PDF 79] ---
+70
+que:
+• diferentes fabricantes de microcomputadores e notebooks possuem condições de fornecer
+equipamentos compatíveis com o sistema operacional exigido;
+• a contratação não será restrita à aquisição direta junto à Microsoft;
+• o licenciamento poderá ser disponibilizado por diferentes parceiros, distribuidores ou
+integradores regularmente aptos;
+• não será exigida carta de solidariedade, vínculo exclusivo com fabricante, credenciamento ou
+certificação específica que não seja técnica e comprovadamente indispensável;
+• os requisitos de hardware serão definidos mediante critérios objetivos de desempenho e
+funcionalidade, preservando a competição entre fabricantes; e
+• sempre que tecnicamente possível, serão evitadas exigências que produzam restrição
+desnecessária do universo de potenciais licitantes.
+13. CONCLUSÃO TÉCNICA
+À vista do levantamento realizado, a área técnica conclui que o ambiente computacional da
+Prefeitura Municipal de Uberaba encontra-se estruturado sobre plataformas e componentes
+tecnológicos preexistentes utilizados na autenticação, administração, segurança, operação e suporte
+das estações de trabalho.
+A definição dos componentes tecnológicos da futura solução PCaaS deve considerar essa
+realidade preexistente, uma vez que os novos equipamentos serão incorporados ao ambiente
+institucional e não funcionarão como unidades tecnologicamente isoladas.
+A eventual adoção de plataforma substancialmente distinta deverá considerar os impactos
+relacionados à interoperabilidade, homologação de sistemas, administração das estações,
+autenticação, políticas de segurança, integração, treinamento, suporte, migração, continuidade
+operacional e eventual necessidade de coexistência temporária entre ambientes.
+Com base nos elementos técnicos e documentais constantes desta Nota e respectivos
+anexos, conclui-se pela necessidade de manutenção da compatibilidade com as plataformas
+tecnológicas já adotadas pela Administração, fundamentando-se a indicação das plataformas
+especificamente justificadas neste documento no art. 41, inciso I, alínea "b", da Lei Federal nº
+14.133/2021.
+A indicação tecnológica não decorre de preferência subjetiva por determinada marca,
+fabricante ou fornecedor, tampouco objetiva instituir padronização formal de produto para a
+Administração Municipal, mas assegurar interoperabilidade, continuidade, segurança, gerenciamento
+e integração com ambiente tecnológico preexistente.
+Quanto ao Microsoft Windows em edição profissional, sua manutenção encontra-se vinculada
+à integração comprovada com o ambiente de identidade, autenticação, políticas, aplicações e
+gerenciamento descrito nesta Nota.
+Quanto ao Microsoft Office LTSC, sua manutenção encontra-se vinculada à interoperabilidade
+comprovada com os documentos, modelos, automações, integrações e fluxos de trabalho existentes,
+devendo ser utilizada durante a execução contratual versão oficialmente suportada e sua sucessora
+quando necessária.
+Quanto ao Microsoft Configuration Manager, esta Nota registra e certifica sua utilização no
+ambiente tecnológico municipal e a existência de dependência operacional associada ao
+gerenciamento centralizado dos endpoints, inventário, distribuição de software, atualizações,
+
+--- [pag. PDF 80] ---
+70
+políticas, relatórios e integração com Active Directory. A manutenção da plataforma é justificada pela
+necessidade de compatibilidade com a infraestrutura preexistente, nos termos do art. 41, inciso I,
+alínea “b”. Para completar a instrução probatória requerida pela PROGER, os autos deverão conter
+relatório técnico do console com versão/build, quantidade aproximada de endpoints e principais
+componentes, bem como documento hábil que identifique o titular/licenciado e o instrumento de
+licenciamento vigente, sem exposição de dados sensíveis.
+Por fim, registra-se que a indicação das plataformas consideradas necessárias não afasta a
+competição entre diferentes fabricantes de equipamentos, integradores, distribuidores e demais
+agentes econômicos aptos à execução do objeto, devendo os documentos da contratação preservar
+essa condição.
+Os quantitativos técnicos de contas, objetos, coleções, pacotes e políticas são dinâmicos. Esta
+Nota registra a abrangência operacional necessária à caracterização da compatibilidade,
+permanecendo o detalhamento atualizado nos sistemas administrativos sob guarda da TI/CODIUB.
+CERTIFICAÇÃO TÉCNICA DO AMBIENTE
+Declaro, para fins de instrução do Processo PC 495/2025, que as informações de natureza técnica
+constantes desta Nota refletem o ambiente tecnológico efetivamente utilizado pela Administração
+Municipal, ressalvadas as informações de segurança cuja divulgação foi deliberadamente omitida ou
+agregada.
+João Martins da Silveira Neto
+Chefe do Departamento de Tecnologia da Informação
+Matricula: 57750-2
+Código: 9dce03fa-7e0f-44f3-9c76-c86f8f1feea2
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52
+Assinado digitalmente por Ernani Neri dos Santos Junior, Data: 14/09/2026 11:01

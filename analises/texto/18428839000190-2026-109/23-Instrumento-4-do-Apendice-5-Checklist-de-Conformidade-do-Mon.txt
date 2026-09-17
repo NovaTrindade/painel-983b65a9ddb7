@@ -1,0 +1,1258 @@
+=== DOCUMENTO 23: Instrumento_4_do_Apendice_5_-_Checklist_de_Conformidade_do_Monitor_Adicional.pdf ===
+tipo: Outros Documentos | páginas: 19 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/18428839000190/compras/2026/109/arquivos/23
+
+--- [pag. PDF 1] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 1 de 19
+INSTRUMENTO 4 DO APÊNDICE 5 – CHECKLIST DE CONFORMIDADE DO MONITOR ADICIONAL
+1 - IDENTIFICAÇÃO DA VERIFICAÇÃO
+1.1 - Processo administrativo nº: ________________________________________________
+1.2 - Contrato, ata ou instrumento equivalente nº: _________________________________
+1.3 - Contratada: _______________________________________________________________
+1.4 - Fabricante, modelo e configuração: __________________________________________
+1.5 - Número de série, patrimônio ou lote: _________________________________________
+1.6 - Unidade e local da verificação: ______________________________________________
+1.7 - Data e horário: ____/____/________, das ______ às ______ horas.
+1.8 - Responsáveis pela verificação: ______________________________________________
+1.9 - Avaliação do monitor antes do segundo ciclo: ☐ Não aplicável ☐ Conforme e mantido ☐ Reparo necessário ☐ Substituição necessária
+1.10 - Integridade do painel/pixels, resolução, brilho, contraste, conectividade, estabilidade, segurança elétrica, eficiência, ergonomia, suporte e histórico:
+__________________________________________________________
+1.11 - Providência, prazo, evidência e resultado final: ______________________________________________________________________
+1.12 - O monitor conforme poderá permanecer em operação e não integra a renovação automática pelo simples início do segundo ciclo.
+2 - INSTRUÇÕES DE PREENCHIMENTO
+2.1 - Este instrumento integra o Apêndice 5 e deverá ser utilizado em conjunto com o Termo de Referência e com o Apêndice 1, especialmente a seção 5.6 e
+suas subseções. O critério resumido da tabela não substitui o requisito técnico integral.
+2.2 - A conformidade será indicada somente quando o equipamento atender integralmente ao requisito detalhado e a forma de comprovação apresentar
+correspondência inequívoca com fabricante, modelo, configuração e unidade ou lote verificado.
+2.3 - A diligência poderá esclarecer ou confirmar informação preexistente, sem admitir troca do modelo, criação posterior de característica material ou redução da
+exigência.
+2.4 - Cada desconformidade deverá registrar requisito, evidência, impacto, providência, responsável e prazo de saneamento, sem prejuízo da rejeição quando o
+desvio afetar requisito obrigatório.
+3 - CHECKLIST DE CONFORMIDADE
+3.1 - Cada linha deverá receber uma única conclusão. A opção Diligência não equivale à conformidade e deverá permanecer vinculada à evidência e ao prazo de
+conclusão.
+3.2 - Regra transversal de registro da evidência: nas consultas a portais eletrônicos de conteúdo dinâmico, a verificação deverá registrar data e hora, URL, país
+ou mercado aplicável, fabricante, modelo, família e configuração e, quando pertinente, potência, versão, categoria e prazo de validade. A evidência deverá
+
+--- [pag. PDF 2] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 2 de 19
+ser preservada nos autos em PDF ou captura integral que identifique a fonte e permita reproduzir o estado do cadastro na data relevante. Campo não
+disponibilizado pelo próprio portal será registrado como não aplicável, sem prejuízo da identificação inequívoca do produto e do requisito.
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Requisitos gerais 1.1 - Equipamento novo
+Sem uso prévio; não recondicionado, remanufaturado ou
+de mostruário; caixa ou embalagem original e respectivo
+lacre íntegros, sem sinais de violação.
+Inspeção visual do equipamento, da caixa ou
+embalagem e do lacre; conferência de etiqueta,
+número de série e condição física.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Requisitos gerais 1.2 - Identificação
+Marca, modelo, configuração e número de série
+correspondentes à proposta, ao inventário e à unidade
+ou lote.
+Etiqueta, documentação, inventário e consulta
+oficial quando disponível.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela e imagem 2.1 - Apêndice 1, 5.6.1.1
+O monitor deverá possuir painel LCD com
+retroiluminação LED, superfície antirreflexo, formato
+widescreen 16:9 e área visível diagonal mínima de 21
+polegadas.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 3] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 3 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Tela e imagem 2.2 - Apêndice 1, 5.6.1.2
+O painel deverá utilizar tecnologia IPS, WVA, UWVA ou
+equivalente ou superior e apresentar ângulo de
+visualização mínimo de 178 graus na horizontal e 178
+graus na vertical, sem inversão relevante de cores ou
+perda que inviabilize a visualização normal.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela e imagem 2.3 - Apêndice 1, 5.6.1.3
+A resolução nativa mínima será de 1920 x 1080 pixels,
+Full HD progressivo, com frequência mínima de 60 Hz.
+Não serão aceitas interpolação ou simulação por
+software para atingir os valores.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela e imagem 2.4 - Apêndice 1, 5.6.1.4
+O brilho típico ou nominal será de, no mínimo, 250 cd/m².
+Não serão considerados valores máximos momentâneos
+ou picos obtidos exclusivamente em modo HDR.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 4] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 4 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Tela e imagem 2.5 - Apêndice 1, 5.6.1.5
+A relação de contraste estático ou nativo será de, no
+mínimo, 1.000:1. Contraste dinâmico, adaptativo ou
+aprimorado por software não será considerado.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela e imagem 2.6 - Apêndice 1, 5.6.1.6
+O tempo de resposta nominal será de, no máximo, 5 ms,
+medido em cinza a cinza (GtG) ou por metodologia
+técnica equivalente declarada pelo fabricante. Não serão
+aceitos valores obtidos exclusivamente por interpolação
+ou modo incompatível com uso contínuo.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela e imagem 2.7 - Apêndice 1, 5.6.1.7
+O painel deverá reproduzir, no mínimo, 16,7 milhões de
+cores, admitindo processamento nativo de 8 bits por
+canal ou 6 bits com FRC oficialmente declarado.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 5] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 5 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Tela e imagem 2.8 - Apêndice 1, 5.6.1.8
+O monitor deverá possuir tecnologia de redução de
+cintilação, Flicker-Free ou equivalente, e recurso de
+redução da emissão de luz azul, oficialmente
+documentados e sem impedir a resolução e a frequência
+contratadas.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Tela e imagem 2.9 - Apêndice 1, 5.6.1.9
+O monitor deverá permitir ajuste de brilho, contraste e
+parâmetros de cor por controles integrados e menu OSD,
+sem dependência exclusiva de software adicional.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Política de pixels e
+qualidade visual 2.10 - Apêndice 1, 5.6.2.1
+Não será admitido qualquer pixel ou subpixel
+permanentemente brilhante, apagado, preso em
+determinada cor, intermitente ou com funcionamento
+irregular durante o recebimento e toda a execução
+contratual, independentemente da posição na tela.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 6] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 6 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Política de pixels e
+qualidade visual 2.11 - Apêndice 1, 5.6.2.2
+A identificação de um único pixel ou subpixel defeituoso
+obrigará a contratada a substituir o monitor, sem custo
+adicional e dentro do SLA aplicável. Política de tolerância
+do fabricante não limitará a obrigação contratual.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Política de pixels e
+qualidade visual 2.12 - Apêndice 1, 5.6.2.3
+A verificação utilizará imagens uniformes nas cores
+branca, preta, vermelha, verde e azul e será registrada
+no checklist de recebimento ou manutenção.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Política de pixels e
+qualidade visual 2.13 - Apêndice 1, 5.6.2.4
+Mancha, linha permanente, vazamento de luz anormal,
+cintilação irregular ou anomalia que prejudique leitura ou
+visualização também caracterizará não conformidade.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 7] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 7 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Alimentação
+elétrica 2.14 - Apêndice 1, 5.6.3.1
+A fonte deverá operar automaticamente entre 100 e 240
+VCA, em 50/60 Hz, e ser dimensionada para o
+funcionamento integral do monitor.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Alimentação
+elétrica 2.15 - Apêndice 1, 5.6.3.2
+A fonte poderá ser interna ou externa, desde que
+original, fornecida ou oficialmente homologada pelo
+fabricante e coberta pela garantia da solução PCaaS.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Alimentação
+elétrica 2.16 - Apêndice 1, 5.6.3.3
+O cabo de alimentação será novo, sem emendas, com
+plugue de dois ou três pinos conforme o projeto original,
+a classe de isolação e a ABNT NBR 14136.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 8] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 8 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Alimentação
+elétrica 2.17 - Apêndice 1, 5.6.3.4
+Quando solicitado pela Administração e após verificação
+da compatibilidade elétrica, a contratada fornecerá, sem
+custo adicional, adaptador apropriado para conexão a
+tomada de padrão antigo. O adaptador deverá possuir
+conformidade aplicável perante o Inmetro, capacidade
+compatível e preservar o aterramento quando existente.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Alimentação
+elétrica 2.18 - Apêndice 1, 5.6.3.5
+O adaptador não poderá eliminar o condutor de proteção,
+corrigir defeito da instalação elétrica ou substituir a
+necessária adequação do ponto de energia.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Conectividade e
+cabos 2.19 - Apêndice 1, 5.6.4.1
+O monitor deverá possuir conexão digital nativamente
+compatível com os microcomputadores Tipo I e Tipo II.
+Monitor, controladora, portas, cabos, drivers e
+adaptadores expressamente admitidos deverão permitir
+Full HD a 60 Hz ou superior, sem perda de qualidade ou
+limitação do uso simultâneo em modo estendido.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 9] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 9 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Conectividade e
+cabos 2.20 - Apêndice 1, 5.6.4.2
+O monitor deverá possuir, no mínimo, uma entrada HDMI
+e uma entrada DisplayPort, ambas nativas,
+independentes e plenamente funcionais. Entrada VGA
+poderá ser oferecida adicionalmente, sem caráter
+obrigatório.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Conectividade e
+cabos 2.21 - Apêndice 1, 5.6.4.3 Não serão aceitos hubs, divisores ou adaptadores para
+constituir as entradas HDMI e DisplayPort obrigatórias.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Conectividade e
+cabos 2.22 - Apêndice 1, 5.6.4.4
+Cada monitor será acompanhado de um cabo HDMI, um
+cabo DisplayPort e um cabo de alimentação, todos
+novos, com comprimento mínimo de 1,5 m e capacidade
+compatível com a resolução e a frequência contratadas.
+Documentação oficial do modelo e medição ou
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 10] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 10 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Conectividade e
+cabos 2.23 - Apêndice 1, 5.6.4.5
+Não serão aceitos cabos com emendas, extensões
+permanentes ou conectores montados artesanalmente.
+Cabos e adaptadores fornecidos permanecerão cobertos
+pela garantia do PCaaS.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Pedestal,
+instalação e
+segurança física
+2.24 - Apêndice 1, 5.6.5.1
+O pedestal deverá ser original, estável, removível e
+possuir ajuste de inclinação, permitindo posicionamento
+adequado da tela.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Pedestal,
+instalação e
+segurança física
+2.25 - Apêndice 1, 5.6.5.2
+O monitor deverá possuir interface de montagem VESA
+de 75 x 75 mm ou 100 x 100 mm, integrada ao projeto
+original e acessível após a remoção do pedestal, sem
+perfurações ou adaptações não homologadas.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 11] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 11 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Pedestal,
+instalação e
+segurança física
+2.26 - Apêndice 1, 5.6.5.3
+Parafusos específicos necessários à fixação deverão
+acompanhar o monitor. Suporte articulado ou de parede
+não integra o fornecimento, salvo previsão em item
+próprio.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Pedestal,
+instalação e
+segurança física
+2.27 - Apêndice 1, 5.6.5.4
+O monitor deverá possuir encaixe original para trava de
+segurança compatível com padrão Kensington, Noble
+Wedge ou equivalente oficialmente documentado. O
+cabo de segurança não integra o fornecimento, salvo
+previsão específica.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Padronização,
+fabricante e
+rastreabilidade
+2.28 - Apêndice 1, 5.6.6.1
+O acabamento do monitor e do pedestal deverá ser
+original e predominantemente preto, cinza, prata ou
+combinação dessas cores, mantendo padrão visual
+compatível com o gabinete do computador. Serão
+aceitas diferenças decorrentes de material, logotipo,
+controles e detalhes construtivos. Não serão aceitas
+pintura, envelopamento ou alteração posterior.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 12] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 12 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Padronização,
+fabricante e
+rastreabilidade
+2.29 - Apêndice 1, 5.6.6.2
+O monitor deverá possuir fabricante, modelo e código de
+produto identificáveis, com suporte, garantia e consulta
+por número de série. Deverá ser, preferencialmente, da
+mesma marca comercial do microcomputador ao qual
+será vinculado, admitida marca distinta segundo os
+critérios do item 2.15 do Apêndice 1.
+Documentação oficial do fabricante e do modelo,
+identificação da marca, catálogo ou ficha técnica,
+garantia e suporte; para marca distinta,
+comprovação de compatibilidade integral, inspeção
+física e teste funcional com o equipamento
+principal.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Padronização,
+fabricante e
+rastreabilidade
+2.30 - Apêndice 1, 5.6.6.3
+Será admitida fabricação OEM ou ODM quando o
+monitor for oficialmente comercializado, identificado,
+garantido e suportado pelo fabricante responsável pela
+marca. Não serão aceitos produtos genéricos, marca
+própria da licitante ou remarcação posterior.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Padronização,
+fabricante e
+rastreabilidade
+2.31 - Apêndice 1, 5.6.6.4
+Todos os monitores adicionais fornecidos em uma
+mesma etapa deverão manter, preferencialmente, a
+mesma marca e o mesmo modelo, além de configuração,
+interfaces e padrão de acabamento homogêneos. Serão
+admitidos marca ou modelo distintos nos termos do item
+2.15 do Apêndice 1, desde que não haja redução de
+desempenho, compatibilidade, garantia, suporte ou SLA.
+Relação por etapa com marca, modelo,
+configuração e números de série; para
+divergências, documentação comparativa,
+comprovação de compatibilidade, garantia, suporte
+e resultado do teste funcional.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 13] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 13 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Padronização,
+fabricante e
+rastreabilidade
+2.32 - Apêndice 1, 5.6.6.5
+Modelo diferente somente será admitido em caso de
+descontinuação, indisponibilidade definitiva ou
+necessidade técnica comprovada, mediante autorização
+prévia. O substituto será novo, de linha ativa e igual ou
+superior requisito por requisito, sem reduzir
+desempenho, ergonomia, certificações, compatibilidade,
+garantia ou SLA.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Padronização,
+fabricante e
+rastreabilidade
+2.33 - Apêndice 1, 5.6.6.6
+Cada monitor possuirá etiqueta original permanente e
+legível com marca, modelo e número de série único,
+correspondente à embalagem, documentação de
+entrega, inventário do PCaaS e portal oficial de suporte
+quando disponível.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Padronização,
+fabricante e
+rastreabilidade
+2.34 - Apêndice 1, 5.6.6.7
+A etiqueta patrimonial poderá ser acrescentada sem
+ocultar a identificação original. Substituições registrarão
+equipamento retirado e instalado, números de série,
+motivo, data, local e responsável.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 14] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 14 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+energia e
+conformidade
+2.35 - Apêndice 1, 5.6.7.1
+O monitor deverá possuir, para a categoria Monitor, uma
+das seguintes comprovações ambientais, não
+cumulativas: 1. registro EPEAT Gold ativo e válido para o
+Brasil; 2. certificação TCO Certified ativa e aplicável à
+categoria Monitor; ou 3. certificação ambiental Tipo I
+baseada na ISO 14024, emitida ou verificada por terceira
+parte independente e acompanhada de matriz de
+equivalência. A certificação deverá corresponder ao
+modelo ou à família ofertada; quando emitida para uma
+família, a licitante deverá demonstrar, por documentação
+oficial, que o modelo proposto está efetivamente
+abrangido. A equivalência deverá contemplar, no
+mínimo, eficiência energética, controle de substâncias
+perigosas, durabilidade, reparabilidade, materiais,
+reciclagem, embalagem e responsabilidade ambiental da
+cadeia produtiva. A certificação do monitor não
+substituirá a comprovação ambiental do
+microcomputador correspondente, nem será exigida
+cumulativamente com outra certificação admitida neste
+item.
+Registro oficial ou certificado ativo correspondente
+à categoria, ao modelo ou à família ofertada. Para
+certificação de família, apresentar vínculo oficial da
+configuração; para certificação equivalente
+baseada na ISO 14024, apresentar matriz de
+equivalência emitida ou verificada por terceira
+parte independente.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+energia e
+conformidade
+2.36 - Apêndice 1, 5.6.7.2
+A expiração posterior do certificado não invalidará
+automaticamente equipamento regularmente recebido.
+Novo modelo de ampliação, reposição definitiva ou
+substituição tecnológica deverá possuir certificação ativa
+na data de aprovação e fornecimento.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 15] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 15 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+energia e
+conformidade
+2.37 - Apêndice 1, 5.6.7.3
+O monitor deverá possuir gerenciamento automático de
+energia, entrando em repouso ou baixo consumo quando
+não houver sinal ou após o período configurado, sem
+perda das configurações.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+energia e
+conformidade
+2.38 - Apêndice 1, 5.6.7.4
+O modelo deverá possuir certificação ENERGY STAR
+aplicável e vigente ou comprovação equivalente por
+certificação reconhecida ou relatório de laboratório
+ISO/IEC 17025 que identifique o modelo e o consumo
+nos modos ligado, repouso e desligado.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+energia e
+conformidade
+2.39 - Apêndice 1, 5.6.7.5
+O monitor e a fonte deverão atender à IEC 62368-1 ou
+norma nacional ou regional equivalente reconhecida para
+o produto.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 16] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 16 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Certificações,
+energia e
+conformidade
+2.40 - Apêndice 1, 5.6.7.6
+O equipamento deverá atender à CISPR 32, Classe B, e
+à CISPR 35, ou normas equivalentes de emissão e
+imunidade eletromagnética para ambiente administrativo.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+energia e
+conformidade
+2.41 - Apêndice 1, 5.6.7.7
+A comprovação de segurança e compatibilidade
+eletromagnética ocorrerá por certificado, relatório de
+ensaio, relatório CB ou declaração oficial de
+conformidade que identifique o modelo e as normas.
+Relatório de ensaio deverá ser emitido por laboratório
+ISO/IEC 17025. Certificação voluntária válida do Inmetro
+poderá ser aceita quando abranger os requisitos.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Certificações,
+energia e
+conformidade
+2.42 - Apêndice 1, 5.6.7.8
+O monitor deverá cumprir a Diretiva RoHS 2011/65/UE e
+alterações consolidadas, incluindo a Diretiva Delegada
+2015/863, ou regulamentação ambiental equivalente. A
+prova identificará fabricante e modelo ou família e poderá
+utilizar declaração oficial, IEC 63000, certificado ou
+relatório ISO/IEC 17025, com identificação das exceções
+aplicáveis.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 17] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 17 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.43 - Apêndice 1, 5.6.8.1
+O monitor deverá ser novo de fábrica, sem uso anterior,
+não recondicionado, não remanufaturado e não
+proveniente de mostruário. O modelo deverá estar em
+linha ativa de fabricação ou comercialização oficial na
+proposta e na primeira implantação.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.44 - Apêndice 1, 5.6.8.2
+O fabricante deverá manter página oficial de suporte
+para o modelo ou família, contendo, conforme aplicável,
+ficha técnica, manual, identificação, firmware, diagnóstico
+e informações de garantia.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.45 - Apêndice 1, 5.6.8.3
+A posterior descontinuação não afastará as obrigações
+da contratada. Substituição observará a regra de modelo
+novo, linha ativa, aprovação prévia e equivalência
+integral.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 18] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 18 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.46 - Apêndice 1, 5.6.8.4
+Durante toda a vigência do PCaaS, a contratada
+responderá pelo painel, retroiluminação, placa eletrônica,
+fonte, pedestal, controles, portas, cabo de alimentação,
+cabos de vídeo e adaptadores fornecidos.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.47 - Apêndice 1, 5.6.8.5
+A garantia comercial do fabricante não limitará as
+obrigações contratuais. Defeitos de imagem,
+instabilidade, perda anormal de brilho, linhas, manchas,
+cintilação, falha de interfaces e pixels ou subpixels
+defeituosos serão corrigidos por reparo ou substituição
+conforme o Apêndice de Manutenção, Suporte e SLA.
+Teste funcional com padrões de cores uniformes,
+inspeção visual e registro da unidade.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.48 - Apêndice 1, 5.6.8.6
+O reparo não poderá reduzir características contratadas,
+segurança, certificações, compatibilidade ou vida útil
+esperada.
+Certificado, registro oficial, relatório ou declaração
+verificável correspondente ao modelo ou entidade
+exigida.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+
+--- [pag. PDF 19] ---
+Instrumento 4 do Apêndice 5 - Monitor | Página 19 de 19
+Grupo Verificação Critério mínimo Forma de comprovação Resultado
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.49 - Apêndice 1, 5.6.8.7
+Não serão exigidos alto-falantes integrados. Quando
+presentes, não substituirão o requisito de áudio do
+microcomputador nem gerarão cobrança adicional.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+Linha ativa,
+cobertura PCaaS e
+aceite
+2.50 - Apêndice 1, 5.6.8.8
+A inspeção e o aceite observarão a metodologia
+estabelecida no Instrumento 4 do Apêndice 5. Cada
+requisito receberá conclusão Conforme, Não conforme
+ou Diligência; a diligência não equivalerá à conformidade
+nem permitirá troca do modelo, criação posterior de
+característica essencial ou redução do requisito.
+Documentação oficial do modelo, inspeção física e
+teste funcional quando aplicável.
+☐ Conforme
+☐ Não conforme
+☐ Diligência
+ID da evidência:
+__________
+Diligência/providência:
+___________________
+_
+Responsável:
+______________
+Prazo:
+____/____/________
+4 - CONCLUSÃO DA INSPEÇÃO TÉCNICA
+4.1 - Resultado da inspeção do equipamento ou lote: ☐ CONFORME – apto a subsidiar o recebimento, mediante emissão do termo correspondente. ☐
+CONFORME COM PENDÊNCIAS FORMAIS OU IMATERIAIS – apto condicionadamente, desde que as pendências não afetem segurança, funcionamento,
+desempenho, compatibilidade, licenciamento, integridade, inventário ou requisito obrigatório. As pendências deverão ser identificadas e corrigidas em até 5
+(cinco) dias úteis. Essa condição não autoriza faturamento nem equivale ao recebimento definitivo. ☐ NÃO CONFORME – não apto ao recebimento, devendo
+ser identificados os requisitos descumpridos e as providências de correção ou substituição.
+4.2 - Natureza da conclusão: A conclusão deste checklist possui natureza técnica e subsidiará a emissão do Termo de Recebimento Provisório e, após a
+comprovação do cumprimento integral das obrigações, do Termo de Recebimento Definitivo. Este checklist não substitui os referidos termos.
+4.3 - Não conformidades e providências: ____________________________________________________________________________________________
+4.4 - Responsável técnico pela inspeção: ____________________________________________ Data: ____/____/________
+4.5 - Fiscal do contrato: ____________________________________________________________ Data: ____/____/________
+Código: d049e227-a86a-4f43-9649-f4dfd14ebbf1
+Assinado digitalmente por JOAO MARTINS DA SILVEIRA NETO, Data: 14/09/2026 10:52
