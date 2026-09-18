@@ -1,18 +1,34 @@
 {
  "id": "16958425000148-2026-110",
- "extraidoEm": "2026-09-10T19:56:20.024Z",
+ "extraidoEm": "2026-09-18T12:00:46.228Z",
  "pncpUrl": "https://pncp.gov.br/app/editais/16958425000148/2026/110",
  "documentos": [
   {
    "ordem": 1,
-   "arquivo": "01-RelacaoItens92799605900762026001.txt",
-   "titulo": "92799605900762026001",
+   "arquivo": "01a-1-RETIFICACAO-DO-PREGAO-ELETRONICO-SRP-076-2026-SESACRE.txt",
+   "titulo": "1ª RETIFICAÇÃO DO PREGÃO ELETRÔNICO SRP 076 2026 - SESACRE.pdf",
+   "tipo": "Edital",
+   "paginas": 24,
+   "caracteres": 155193
+  },
+  {
+   "ordem": 1,
+   "arquivo": "01b-EDITAL-PREGAO-ELETRONICO-SRP-N-076-2026-SESACRE.txt",
+   "titulo": "EDITAL - PREGÃO ELETRÔNICO SRP N 076 2026 - SESACRE.pdf",
+   "tipo": "Edital",
+   "paginas": 52,
+   "caracteres": 303894
+  },
+  {
+   "ordem": 1,
+   "arquivo": "01c-RelacaoItens92799605900762026001.txt",
+   "titulo": "RelacaoItens92799605900762026001.pdf",
    "tipo": "Edital",
    "paginas": 4,
    "caracteres": 9817
   }
  ],
- "totalPaginas": 4,
- "totalCaracteres": 9817,
+ "totalPaginas": 80,
+ "totalCaracteres": 468904,
  "comErro": 0
 }
