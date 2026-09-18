@@ -1,0 +1,42 @@
+{
+ "id": "37425683000139-2026-33",
+ "extraidoEm": "2026-09-18T11:30:25.532Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/37425683000139/2026/33",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital.txt",
+   "titulo": "Edital_",
+   "tipo": "Edital",
+   "paginas": 119,
+   "caracteres": 292720
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Termo-de-referencias.txt",
+   "titulo": "Termo de referencias_",
+   "tipo": "Termo de Referência",
+   "paginas": 55,
+   "caracteres": 134413
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-ETP.txt",
+   "titulo": "ETP_",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 56,
+   "caracteres": 116928
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-DFD.txt",
+   "titulo": "DFD",
+   "tipo": "Documento de Formalização da Demanda - DFD",
+   "paginas": 5,
+   "caracteres": 11702
+  }
+ ],
+ "totalPaginas": 235,
+ "totalCaracteres": 555763,
+ "comErro": 0
+}

@@ -1,0 +1,1986 @@
+=== DOCUMENTO 3: ETP_ ===
+tipo: Estudo Técnico Preliminar | páginas: 56 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/37425683000139/compras/2026/33/arquivos/3
+
+--- [pag. PDF 1] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+ETP - ESTUDO TÉCNICO PRELIMINAR
+O presente Estudo Técnico Preliminar — ETP, tem como objetivo avaliar alternativas para
+REGISTRO DE PREÇO VISANDO A CONTRATAÇÃO EMPRESA ESPECIALIZADA
+PARA FORNECIMENTO, IMPLANTAÇÃO, HOSPEDAGEM, SUPORTE TÉCNICO E
+MANUTENÇÃO DE SISTEMA INTEGRADO DE GESTÃO PÚBLICA EM PLATA-
+FORMA WEB, CONTEMPLANDO MÓDULOS DE CONTABILIDADE, ARRECADA-
+ÇÃO, SISTEMA DE EDUCAÇÃO, GESTÃO DE COMPRAS, PROTOCOLO, RECUR-
+SOS HUMANOS, PORTAL DA TRANSPARÊNCIA, E-SIC E NOTA FISCAL ELETRÔ-
+NICA, COM DISPONIBILIZAÇÃO DO BPNCO DE DADOS EM NUVEM, INCLUINDO
+MIGRAÇÃO DE DADOS, IMPLANTAÇÃO, TREINAMENTO, ATUALIZAÇÕES E SU-
+PORTE TÉCNICO, PARA ATENDER ÀS NECESSIDADES DA PREFEITURA MUNICI-
+PAL DE ITAPIRATINS - TO, COMO ÓRGÃO GERENCIADOR DOS FUNDOS MUNICI-
+PAIS DE SAÚDE, EDUCAÇÃO E ASSISTÊNCIA SOCIAL, como PARTICIPANTES,
+QUANTIDADES, EXIGÊNCIAS E ESTIMATIVAS, ESTABELECIDAS NESTE
+INSTRUMENTO, CONFORME DESCRITO NO ANEXO I - TERMO DE REFERÊNCIA,
+servindo corno base para a elaboração da descrição do objeto.
+Departamento Requisitante: Secretaria Municipal Administração
+Responsável: Marciriene Gomes da Silva
+1. DESCRIÇÃO DA NECESSIDADE
+1.1 A presente contratação se faz necessária em razão da necessidade do Município de
+Itapiratins — TO, dispor de sistemas informatizados integrados e atualizados para auxiliar
+na execução, controle e gerenciamento das atividades da Administração Pública Municipal.
+1.2 A utilização dos sistemas de Gestão Pública Inteligente é indispensável para garantir
+maior eficiência, segurança, agilidade, e confiabilidade no processamento das
+informações administrativas, contábeis, financeiras, orçamentárias, tributárias, de pessoal,
+património, compras, licitações, contratos e demais áreas da gestão municipal.
+1.3 Considerando que o Município já utiliza os sistemas objeto da contratação, a
+continuidade da solução é necessária para evitar a interrupção dos serviços, a perda de
+produtividade, a descontinuidade dos processos administrativos e eventuais prejuízos
+decorrentes da migração ou indisponibilidade das informações e funcionalidades
+atualmente utilizadas.
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep: 77.718-000 fone/fax: (63; 3465-1151, cplitapiratins@qmaii.com
+
+--- [pag. PDF 2] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+1.4 A contratação também busca assegurar a manutenção, atualização, suporte técnico e
+adequação dos sistemas às alterações legais e às necessidades da Administração,
+proporcionando melhores condições para o cumprimento das obrigações legais, prestação
+de contas, transparência pública e atendimento aos órgãos de controle, sendo uma delas
+a Lei Complementar n° 131/2009.
+1.5 Dessa forma, a contratação mostra-se necessária para garantir a continuidade dos
+serviços públicos administrativos e a adequada gestão das informações municipais,
+contribuindo para uma Administração Pública mais eficiente, organizada, transparente e
+segura, em atendimento ao interesse público.
+1.6 Para o uso serviços elencados na planilha orçamentária deste documento, para a
+locação de sistema de gestão inteligente deverão ser apresentadas as respectivas peças
+técnicas necessárias para comprovação do item adquirido através deste processo, onde se
+faz necessário a futura e eventual prestação de serviços relacionados no termo de
+referência, o que justifica a adoção do procedimento em referência nos exatos termos e
+quantitativos oportunamente descritos.
+2. ALINHAMENTO ENTRE COMPRA/CONTRATAÇÃO E PLANEJAMENTO
+2.1 A pretendida contratação está prevista no Plano de Contratações Anual de 2026.
+2.2. Além disso, os recursos financeiros necessários para fazer frente a essa despesa estão
+previstos no orçamento geral do ano corrente.
+3. DIRETRIZES DA CONTRATAÇÃO
+3.1 O (s) produto (s) objeto desta contratação são caracterizados como comum (ns), tendo
+em vista que são dotados de padrões de desempenho e qualidade que podem ser
+objetivamente definidos no edital, por meio de especificações usuais no mercado.
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins gmail.com 2
+
+--- [pag. PDF 3] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+4. DESCRIÇÃO DOS REQUISITOS DA CONTRATAÇÃO
+4.1 Sustentabilidade
+4.1.1 A solução deverá observar as normas legais e técnicas aplicáveis aos sistemas
+informatizados de gestão pública, especialmente aquelas relacionadas à segurança da
+informação, proteção de dados, transparência, contabilidade pública, execução
+orçamentária, arrecadação, pessoal e demais áreas abrangidas pelos módulos
+contratados, bem como as normas e orientações dos órgãos de controle competentes.
+4.2 Dos testes de conformidade
+4.2.1 Não será exigida amostra física, por se tratar de solução informatizada. Quando
+previsto no edital, poderá ser realizado teste de conformidade/demonstração técnica para
+verificar a aderência da solução às especificações estabelecidas no Termo de Referência.
+4.3 Da Subcontratação
+4.3.1 Não será admitida a subcontratação do objeto contratual.
+4.4 Garantia da contratação
+4.4.1 Não haverá exigência de garantia da contratação, prevista no artigo 96 e seguintes
+da Lei 14.133/2021, tendo em vista que tal exigência poderá elevar demasiadamente o
+preço dos produtos.
+4.5 Da garantia e continuidade dos serviços
+4.5.1 A contratada deverá assegurar, durante toda a vigência contratual, o pleno
+funcionamento da solução, incluindo correções, manutenção, atualizações, suporte técnico
+e correção de falhas, sem prejuízo das demais responsabilidades previstas no contrato e
+no Termo de Referência.
+5. LEVANTAMENTO DE MERCADO
+5.1 O levantamento de mercado deverá considerar, sempre que disponíveis e pertinentes,
+contratações similares realizadas por outros órgãos públicos, soluções disponíveis no
+mercado, preços praticados em contratações anteriores e demais fontes admitidas pela
+legislação aplicável. Registra-se, ainda, que o Município já utiliza solução de gestão pública
+de natureza semelhante, o que permite avaliar a experiência de utilização, os requisitos de
+continuidade, os custos de transição e os riscos associados à substituição da solução.
+Avenida Tocantins, Setor Novo Horizonte, itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsffiqmail.com 3
+
+--- [pag. PDF 4] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+6. SOLUÇÃO POSSÍVEL
+6.1 A solução para suprir a necessidade de contratação de empresa para contratação
+empresa especializada para fornecimento, implantação, hospedagem, suporte técnico e
+manutenção de sistema integrado de gestão pública em plataforma web, contemplando
+módulos de contabilidade, arrecadação, sistema de educação, gestão de compras,
+protocolo, recursos humanos, portal da transparência, E-sic e nota fiscal eletrônica, com
+disponibilização do banco de dados em nuvem, incluindo migração de dados, implantação,
+treinamento, atualizações e suporte técnico, para atender às necessidades da prefeitura
+municipal de itapiratins - TO, como órgão gerenciador dos fundos municipais de saúde,
+educação e assistência social, como participantes, conforme termo de referência, bem
+como possibilitar a manutenção cotidiana dos serviços administrativos deste
+municipalidade, apresentados em forma de demanda peia participantes acima citados, e se
+encontram sob a reponsabilidade da esfera pública, que é detentora de tais instalações,
+sendo a responsável pela manutenção dos serviços administrativos da Secretarias
+Municipal.
+6.2. Assim, sugere-se como solução mais vantajosa a contratação empresa especializada
+para fornecimento, implantação, hospedagem, suporte técnico e manutenção de sistema
+integrado de gestão pública em plataforma web, contemplando módulos de contabilidade,
+arrecadação, sistema de educação, gestão de compras, protocolo, recursos humanos,
+portal da transparência, E-sic e nota fiscal eletrônica, com disponibilização do banco de
+dados em nuvem, incluindo migração de dados, implantação, treinamento, atualizações e
+suporte técnico, para atender às necessidades da prefeitura municipal de Itapiratins - TO,
+como órgão gerenciador dos Fundos Municipais de Saúde, Educação e Assistência Social,
+como participantes, que atendam a padronização de forma parcelada em lotes,
+considerando as características específicas dos itens e com responsabilidade fiscal,
+utilizando a despesa estimada que esteja prevista no orçamento.
+7. DESCRiÇÃO DA SOLUÇÃO COMO UM TODO
+Avenida Tocantins, Setor Novo Horizonte, itapiratins -- TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-maii: cplitapiratinsgqmail.com 4
+
+--- [pag. PDF 5] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+7.1 A solução compreende a contratação de empresa especializada para
+fornecimento/licenciamento de uso, implantação, hospedagem, migração de dados,
+treinamento, manutenção, atualização e suporte técnico de sistema integrado de gestão
+pública em plataforma web, contemplando os módulos de contabilidade, arrecadação,
+gestão de compras, protocolo, recursos humanos, Portal da Transparência, e-SIC e Nota
+Fiscal Eletrônica, com disponibilização do banco de dados em nuvem, para atender às
+necessidades da Prefeitura Municipal de Itapiratins — TO e dos Fundos Municipais de
+Saúde, Educação e Assistência Social, conforme condições e exigências estabelecidas no
+Termo de Referência.
+Item Unidade Qtdade. Descrição do Produto Valor Unitário Valor Total
+1 MESES 12
+Visa a contratação empresa
+especializada para fornecimento,
+implantação, hospedagem, suporte
+técnico e manutenção de sistema
+integrado de gestão pública em
+plataforma web, contemplando
+módulos de contabilidade,
+arrecadação, gestão de compras,
+protocolo, recursos humanos,
+portal da transparência, E-sic e
+nota fiscal eletrônica, com
+disponibilização do banco de dados
+em nuvem, incluindo migração de
+dados, implantação, treinamento,
+atualizações e suporte técnico,
+para atender às necessidades da
+prefeitura municipal de Itapiratins -
+TO, como órgão gerenciador dos
+fundos municipais de saúde,
+educação e assistência social,
+como participantes.
+7.2 O prazo de vigência da contratação é de 12 (doze) meses, contados da assinatura do
+contrato, prorrogável por até 10 anos, na forma dos artigos 106 e 107 da Lei 14.133/2021.
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: colitapiratins(fflomaitcom 5
+
+--- [pag. PDF 6] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+7.2.1 O fornecimento de serviços continuados de disponibilização e suporte de sistema
+integrado de gestão pública é enquadrado como continuado tendo em vista que visam a
+manutenção de atividades decorrentes de necessidades permanentes ou prolongadas,
+conforme melhor especificados nos tópicos a seguir.
+7.2.2 Da justificativa do caráter continuado da contratação
+7.2.2.1 A contratação de empresa para o fornecimento de serviços continuados de
+disponibilização e suporte de sistema integrado de gestão pública, caracteriza-se como de
+natureza continuada, tendo em vista que tais itens são indispensáveis para o funcionamento
+regular das atividades administrativas e operacionais desta municipalidade.
+7.2.2.2 Os sistemas serão utilizados de forma permanente e rotineira pelos diversos setores
+da Administração Municipal, sendo essenciais para o registro, processamento,
+armazenamento, consulta e gerenciamento de informações contábeis, financeiras,
+orçamentárias, tributárias, administrativas, de pessoal, compras, contratos, transparência e
+demais atividades abrangidas pelos módulos contratados.
+7.2.2.3 Dessa forma, a ausência ou descontinuidade dos sistemas poderá comprometer
+diretamente a execução das rotinas administrativas, contábeis, financeiras e operacionais,
+além de prejudicar a prestação de contas, a transparência pública, o cumprimento de
+obrigações legais e o atendimento às demandas da Prefeitura e dos Fundos Municipais
+participantes. A continuidade da solução reduz riscos de indisponibilidade, perda de
+informações, retrabalho e interrupção de serviços essenciais.
+7.3.3 Da justificativa do prazo de execução
+7.3.3.1. À vista do exposto, para viabilidade técnica e comercial das propostas
+apresentadas pelos licitantes, e diante das especificidades do objeto, sugerimos que o
+contrato tenha prazo de vigência de 12 (doze) meses, contados da assinatura do contrato,
+prorrogável por até 10 anos, na forma dos artigos 106 e 107 da Lei 14.133/2021.
+7.3.3.2 Tal prazo de vigência é mais vantajoso para a Administração em razão dos
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@gmail.com 6
+
+--- [pag. PDF 7] ---
+oapiewriNs
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+seguintes fatos e fundamentos:
+a) Ampliação da concorrência: A contratação por este período torna o objeto a ser licitado
+mais atrativo, aumentando com isso o interesse dos possíveis licitantes pela competição.
+c) Previsão legal do prazo superior à vigência de créditos orçamentários: O prazo de
+vigência da contratação é de 12 (doze) meses, contados da assinatura do contrato,
+prorrogável por até 10 anos, na forma dos artigos 106 e 107 da Lei 14.133/2021. A
+contratação prolongada, executada de forma contínua e caracterizada por atos reiterados,
+se faz necessária para que a prestação do serviço seja adequada à realidade. A razão da
+regra está cingida à inconveniência da paralisação das atividades que interessam à
+coletividade, o que colocaria em risco a satisfação do interesse público.
+d) Previsão no contrato de cláusula rescisória: A vigência sugerida não impede a
+Administração Pública de extinguir o contrato. A extinção contratual poderá ocorrer nas
+hipóteses e condições previstas nos artigos 106, inciso III, 137 e seguintes da Lei
+14.133/2021.
+7.4 Do Fornecimento serviços
+7.4.1 A execução dos serviços deverá ocorrer de forma contínua e integrada, durante todo
+o período de vigência contratual, mediante disponibilização dos sistemas de Gestão Pública
+Inteligente contratados, em ambiente adequado ao acesso dos usuários autorizados pelo
+Município de Itapiratins - TO;
+7.4.2. A empresa contratada deverá realizar a implantação, configuração, disponibilização,
+manutenção, atualização e suporte técnico dos sistemas, garantindo seu pleno
+funcionamento e compatibilidade com as necessidades da Administração Municipal;
+7.4.3 Os serviços deverão contemplar o atendimento às demandas dos diversos setores
+municipais, possibilitando o registro, processamento, armazenamento, consulta e
+gerenciamento das informações, bem como a geração de relatórios e demais documentos
+necessários à execução das atividades administrativas;
+7.4.4 A contratada deverá ainda promover as atualizações dos sistemas decorrentes de
+alterações na legislação, normas dos órgãos de controle e necessidades técnicas,
+sempre que aplicáveis, sem prejuízo da continuidade dos serviços;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax . (63) 3465-1151, e-mail: cplitapiratins qmail.com
+
+--- [pag. PDF 8] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+7.4.5 O suporte técnico deverá ser prestado durante a vigência contratual, de forma a
+solucionar eventuais falhas, dúvidas ou inconsistências, buscando garantir a
+disponibilidade, segurança e confiabilidade das informações.
+7.4.6 Considerando que o Município de Itapiratins já utiliza a solução, a execução deverá
+assegurar a continuidade dos serviços atualmente prestados, preservando, quando
+tecnicamente aplicável, os dados, históricos e configurações existentes, evitando prejuízos
+à Administração e interrupções nos processos administrativos
+7.4.7 A execução dos serviços deverá observar integralmente a legislação vigente aplicável
+à Administração Pública Municipal e à uti ização de sistemas informatizados de gestão
+pública, especialmente:
+a) Constituição Federal de 1988, especialmente os princípios da legalidade,
+impessoalidade, moralidade, publicidade e eficiência;
+b) Lei Federal n° 14.133/2021, que estabelece normas gerais de licitação e contratação
+pública;
+c) Lei Complementar n° 101/2000 - Lei de Responsabilidade Fiscal (LRF),
+especialmente quanto à gestão fiscal, transparência, planejamento, controle e prestação de
+contas;
+d) Lei Federal n° 4.320/1964. que estabelece normas gerais de Direito Financeiro para
+elaboração e controle dos orçamentos e balanços públicos;
+e) Lei Complementar n° 131/2009, que trata da transparência da gestão fiscal e da
+disponibilização de informações sobre a execução orçamentária e financeira;
+f) Lei Federal n° 12.527/2011 — Lei de Acesso à Informação (LAI), quanto à transparência
+e ao acesso às informações públicas;
+g) Lei Federal n° 13.709/2018 — Lei Geral de Proteção de Dados Pessoais (LGPD),
+quanto ao tratamento, segurança, proteção e confidencialidade dos dados pessoais;
+h) Decreto Federal n° 10.540/2020, referente ao padrão mínimo de qualidade do Sistema
+Único e Integrado de Execução Orçamentária, Administração Financeira e Controle —
+SIAFIC;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail.' cplitapiratins qmail.corn 8
+
+--- [pag. PDF 9] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+i) Normas, manuais, instruções e regulamentações dos Tribunais de Contas e demais
+órgãos de controle, aplicáveis à gestão pública municipal;
+J) Demais leis, decretos, regulamentos, normas técnicas e atos normativos que
+venham a ser editados durante a vigência contratual e que sejam aplicáveis aos sistemas
+e serviços contratados.
+7.5.0 A Administração poderá solicitar testes dos serviços junto aos seus locatários, para
+verificar se o sistema de gestão pública inteligente a compatível com o solicitado para dar
+continuidade aos serviços já utilizados por esta administração. Se verificada a inadequação
+do serviço, será feita notificação da empresa para que se proceda a substituição, no prazo
+máximo de 05 (cinco) dias úteis. Caso não seja realizada a substituição, a empresa ficará
+sujeita às penalidades previstas na cláusula de infrações e sanções administrativas (art. 92,
+7.5.1 A execução dos serviços/capacitações será realizado no local indicado pelo
+contratante, ficará a cargo do fornecedor, a quem caberá providenciar a mão de obra e
+serviços necessários para a entrega o início da execução do sistema.
+7.6 ESPECIFICAÇÕES GERAIS - As especificações abaixo são características que
+atendem a todos os módulos e definem o sistema como todo.
+O sistema deve ser baseado em Banco de Dados Relacional, padrão SQL, e permitir
+consultar via comandos SQL, devendo ter a possibilidade de utilização de Banco de Dados
+OPEN SOURCE (código aberto).
+Cadastro de usuário com definições de acesso e cada opção de relatório do sistema através
+de senhas (controle de acesso ao sistema através de senha);
+Permitir cadastramento de usuários com controle de nível de acesso, podendo ser
+configurado para inclusão, alteração, consulta e exclusão;
+Os sistemas deverão ser multiusuários e multitarefas, permitindo controlar tarefas
+concorrentes, com acesso simultâneo ao banco de dados, sem perder a integridade
+referencial, que deverá ser realizada pelo gerenciador do banco de dados (SGBD), nunca
+pelo aplicativo;
+Permitir auditoria automática das operações efetuadas nos sistemas (Controlando quem,
+quando e o que foi alterado);
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@qmail com 9
+
+--- [pag. PDF 10] ---
+OPPINISTANs
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possuir relatórios gráficos, permitir que seja impresso em vídeo ou escolher a impressora
+da rede;
+Todos os sistemas deverão estar baseados no conceito de transações mantendo a
+integridade dos dados em caso de falha de software;
+O sistema deve comportar o trabalho simultâneo dos usuários de todas as Secretarias;
+As empresas deverão ser desenvolvedoras dos sistemas ou representantes legais, desde
+que mantenham estabelecimento de atendimento no estado deste órgão.
+O suporte aos sistemas locados deverá ocorrer via telefone e on-Line;
+Não poderão ser contratadas empresas que utilizem sistemas em consórcio, ou seja,
+módulos com diversas empresas desenvolvedoras do sistema, a fim de não prejudicar a
+integridade dos mesmos.
+Tanto o sistema como o banco de dados deverão ser acessados via internet, através de
+quaisquer dispositivos (Ex. Smartphone, Tablet, entre outros).
+Permitir a integração via API com outras plataformas.
+Para que o sistema possa atender as necessidades desta administração, os módulos
+abaixo deverão atender às seguintes necessidades:
+7.2. ORÇAMENTÁRIO E PLANEJAMENTO - O módulo deverá compreender a LOA, PPA
+e LDO, devendo apresentar às seguintes características ou possibilidades:
+Proporcionar ao planejador a elaboração do orçamento-programa de forma ágil, fácil e de
+acordo com a legislação vigente.
+Cadastro das Entidades contratadas com possibilidade de utilizar o Brasão nas emissões
+de relatórios;
+Cadastro do exercício a ser elaborado o Orçamento com opção de modelo de despesa e
+receita a ser utilizado e de consolidação de 1elatórios nos Órgãos;
+O sistema deverá trazer os códigos das receitas baseados na legislação em vigor,
+possibilitando o cadastramento de novas receitas que venham a ser criadas posteriormente;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: colitaoiratinsQamaitcom 10
+
+--- [pag. PDF 11] ---
+oarinaruis
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Cadastro da Despesa, com parâmetros separados Órgão, Unidade Orçamentária, Função,
+Subfunção, Programa (possuir campo para Objetivo e Público alvo), Projeto/Atividade,
+Natureza da Despesa e Parcela Impositiva;
+Possuir cadastro do Identificador da Fonte, Grupos de Fonte e Fontes de Recursos
+conforme exigências do STN;
+Possuir campo para cadastro de Legislação, Fonte de Recursos;
+Importa os índices e Fórmulas para o PPA;
+Elaboração dos lançamentos do Plano Plurianual.
+Gerar a projeção da receita para os próximos exercícios, baseado na arrecadação de
+exercícios anteriores;
+Possuir opção de geração da versão do PPA para o ano corrente, baseado em exercícios
+anteriores.
+Elaboração e projeção da Despesa, separando o que é Despesa Executada (Despesa
+Mensal), e prevista (PPA);
+Evolução do Patrimônio, apontando o Patrimônio Líquido, Capital, Reservas e Resultado
+Acumulado;
+Cadastro de Renúncia Receita;
+Cadastro da Expansão da Despesa;
+Cadastro dos Riscos Fiscais;
+Cadastro das Variáveis, com previsão e projeção do PIB, taxa de juros, câmbio, Inflação
+média;
+Possuir o cadastro da Lei, com os campos disponíveis para preenchimento da entidade;
+Cadastro de Metas Previdências por Receitas e Despesas Previdenciárias com campo para
+as Intra-Orçamentárias, e saldo das disponibilidades financeiras do RPPS da Projeção
+Atuarial para 35 anos.
+Geração da proposta orçamentária para o exercício financeiro seguinte com base na
+utilização do orçamento do exercício em e:acução e anteriores, permitindo a atualização
+do conteúdo e da estrutura da proposta gerada e a distribuição do orçamento por secretaria
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — 70
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins prnait com 11
+
+--- [pag. PDF 12] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+conforme as Instruções Técnicas do Tribunal de Contas dos Municípios e da Secretaria do
+Tesouro Nacional (STN);
+Possibilitar a montagem do Orçamento de forma automática;
+Possibilitar a elaboração do Orçamento Consolidado do Município e das Unidades Gestoras
+Descentralizadas;
+Permitir atualização dos valores da proposta orçamentária, no todo ou apenas em parte
+dela, por meio da aplicação de percentuais ou índices aprovados em lei;
+Emissão de relatório da proposta orçamentária municipal consolidada;
+Emissão de todos os anexos do Orçamento, global e por órgão, fundo ou entidade da
+administração direta, autarquia, fundação ou empresa estatal dependente.
+Possuir total integração com o Sistema de Contabilidade;
+Possibilitar de forma automática a importação dos Parâmetros de Lei, Parâmetros da
+Receita e Despesa de acordo com o exercício anterior;
+Permitir aplicar percentual em cima do Orçamento;
+Permite a emissão de todos os anexos previstos na Lei 4.320/64;
+Possuir demonstrativos de toda parte cadastrais do sistema, de parâmetros da Receita e
+da Despesa e Fonte de Recursos;
+Possibilitar a visualização do Orçamento através de gráficos, possibilitando a geração por
+nível de receita, de despesa por Unidade, Função e Fontes de Recursos;
+Os Demonstrativos do PPA deverão conter relatórios de conferência do PPA com a LOA,
+por órgão, unidade orçamentária, função, subfunção, programa e ação, demonstrando
+alguma divergência e permitindo suas correções.
+O Sistema deverá emitir relatórios que compare a receita e a despesa da LOA por fonte de
+recurso, demonstrando divergências e permitindo sua conferência.
+O sistema deverá gerar automaticamente os arquivos do PPA/LOA de acordo com Layout
+do Tribunal de Contas dos Municípios para análise e envio a este órgão de maneira concisa
+e definitiva.
+Demonstrativos da LDO deverão conter as metas fiscais, avaliação do cumprimento das
+metas fiscais, comparativos, evolução patrimônio líquido, receitas e despesas RPPS,
+Avenida Tocantins, Setor Novo Horizonte, itapiratins — TO
+Cepa 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitaoiratins mail.com 12
+
+--- [pag. PDF 13] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+renúncia de receita, margem de expansão, controle orçamentário, todos os relatórios de
+Metas e Riscos Fiscais de acordo com o manual de demonstrativos fiscais emitido pela
+Secretaria do Tesouro Nacional — STN.
+7.3. CONTABILIDADE PÚBLICA - O sistema de contabilidade tem como objetivo registrar
+todos os atos e fatos inerentes à Gestão Pública Financeira, proporcionando informações
+confiáveis e atualizadas, conforme determina a Lei 4.320/64, permitindo, inclusive a
+integração com os demais sistemas da Administração Pública, otimizando as tarefas diárias
+dos órgãos envolvidos, com maior segurança e transparência, devendo apresentar as
+seguintes características ou possibilidades:
+Cadastro do órgão de acordo com a LOA, com opção de Brasão na emissão de relatórios;
+Cadastro do Plano de Contas Aplicado ao Setor Público — PCASP.
+Permitir apontar o percentual do limite de Créditos Adicionais Suplementares autorizados
+na LOA.
+Possibilitar o fechamento dos meses que já foram enviados para o Tribunal de Contas e
+opção de consolidação de relatórios com os demais órgãos da administração;
+Cadastro de históricos padrões para cada fornecedor de acordo com ramo de atividade;
+Cadastro de cargos para assinaturas nos relatórios;
+Cadastro de Fonte de Recurso;
+Fazer a movimentação contábil de acordo com o PCASP, possibilitando assim a emissão
+de razão contábil, demonstra saldo anual, mensal e diário;
+Cadastro da Despesa (Funcional programática) para créditos adicionais e consulta da
+execução das despesas, permitindo a verificação de saldos de movimentação no período
+desejado;
+Cadastro da Receita onde poderá ser apontada a distribuição de uma determinada receita
+de acordo com o manual de receita publicado pela STN.
+Cadastro das contas de Retenções para consignações na dívida flutuante;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail. cplitapiratinsOomaitcom 13
+
+--- [pag. PDF 14] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Cadastro e configuração de Integração Patrimonial, para as variações patrimoniais de
+mutações;
+Permitir a formatação padronizada, conforme a necessidade da entidade, das de Nota de
+Empenho, Anulação de Empenho, Liquidação, Estorno de Liquidação, Nota de Pagamento,
+Ordem de Pagamento, Despesa Extra, e quaisquer outros documentos contábeis que a
+entidade necessitar;
+Permitir o início de novo período (mês ou ano), mesmo sem ter havido o fechamento
+contábil do período anterior, com atualização de saldos e manutenção da consistência dos
+dados;
+Possuir registro de senha para liberação da utilização do sistema no mês corrente, sem o
+bloqueio dos meses anteriores;
+Verificar a Ordem Cronológica, dos empenhos, Liquidações e Pagamentos de empenhos;
+Verificar no pagamento a conta corrente do favorecido, se a mesma estiver cadastrada no
+cadastro de fornecedores;
+Geração automática da movimentação contábil para os lançamentos típicos tais como
+empenhos, liquidações, pagamentos movimento de receita e etc;
+Possibilitar o lançamento das Retenções na Emissão de Ordem de Pagamento;
+Possibilitar a Incorporação Patrimonial na Emissão do Empenho ou na liquidação;
+Cadastro de Fundos de Investimento e movimentações;
+Cadastro de Parcelamentos do RPPS e movimentações;
+Possibilitar o cancelamento de vários Restos a Pagar de uma só vez;
+Possibilitar em um único cadastro lançar a Receita e Despesa extra referente às
+transferências financeiras;
+Possuir relatório de Movimentação de extras-orçamentárias por fonte;
+Permitir o controle das movimentações das despesas extras-orçamentárias por fontes;
+Possuir integração com os sistemas de Orçamento, Licitações, Patrimônio e Compras;
+Possuir integração com os sistemas de Folha de Pagamento e Tributário da Câmara para
+geração automática dos empenhos da folha e receitas do tributário;
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-maii: cplitapiratins qmail.com 14
+
+--- [pag. PDF 15] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possibilitar consulta em tela da movimentação das contas receita, despesa e plano de
+contas, em qualquer período do exercício possibilitando também a impressão da mesma;
+Controle de toda execução orçamentária, possibilitando acompanhamentos operacionais e
+gerenciais;
+Permitir a abertura de créditos adicionais, devendo haver recurso no sistema para exigir
+que o usuário informe a legislação que autoriza a operação, com opção de impressão do
+referido decreto;
+Possibilitar a correção do Orçamento durante o exercício com Decretos, Leis e Percentuais;
+Possuir relatório gerencial para acompanhar as despesas oriundas das parcelas
+impositivas;
+Permitir fazer as reduções das alterações de saldo em uma única tela;
+Transferência automática para o exercício seguinte dos saldos do plano de contas
+patrimonial, de restos a pagar no encerramento do exercício;
+Registrar estimativas de receita e de despesa para cada mês do ano;
+Permitir cadastro de Crédito Tributário a receber;
+Permitir o controle das receitas através da programação financeira;
+Possuir Dashboard com informações e gráflcos das receitas , despesas , índices , folha ,
+arrecadação tributária;
+Controle total das despesas extraorçamentárias, emitidas, pagas e a pagar, por fornecedor
+e por contas de despesas extras, inclusive com emissões de notas de despesas extras para
+se comprovar o pagamento das mesmas;
+Cadastro de contratos de dívida fundada com campo de validade de FGTS, INSS e SFE;
+Possuir demonstrativo do superávit/déficit orçamentário por fonte;
+Cadastro de obras;
+Controle de convênio efetuado com entidades financeiras;
+Efetuar cancelamento de restos a pagar tanto pela receita, bem como pelas variações
+patrimoniais;
+Gerar arquivo referente ao Manad, exigido pela Receita Federal;
+Gerar arquivo referente ao E-SOCIAL;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-"51, e-mail: calitapiratins email.com 15
+
+--- [pag. PDF 16] ---
+11111MITins
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Gerar arquivo referente ao REINF;
+Gerar dados referente ao COLARE;
+Gerar arquivo da Matriz de Saldo Contábil;
+Possibilitar o controle e conferência das informações geradas pela Matriz;
+Possibilitar realizar o cancelamento múltiplos de despesas e restos a pagar;
+Integração para atender as normas do SIAFIC;
+Possibilitar a Importação e Exportação de movimentos contábeis de Unidades Gestoras
+Descentralizadas;
+Possuir demonstrativos de toda parte cadastrais do sistema, listagem de bancos, de fontes
+de recursos, gasto com pessoal, contas bancárias, de lei e decretos;
+Possuir demonstrativos de execução orçamentária com filtros personalizados, por
+Credores, Empenhos, Diário e Razão;
+Possibilita através de demonstrativos gerenciais o acompanhamento de todo o processo
+contábil realizado no sistema, de despesa, receita, financeiro, da educação e saúde;
+Permitir a emissão de todos os anexos automaticamente previstos na Lei 4.320/64 e Lei de
+Responsabilidade Fiscal - LC 101/2000;
+Gerar automaticamente os arquivos de balancetes mensais de acordo com Layout
+publicado pelo TCM-GO;
+Gerar a Receita corrente líquida de forma automática, na hora de gerar os relatórios,
+podendo ser ajustada conforme determinação do Tribunal de Contas;
+Gasto com pessoal é efetuada de forma automática, pelo qual busca dos empenhos
+lançados na despesa de Pessoal e Encargos Sociais, podendo ser alterado conforme
+determinação do Tribunal de Contas;
+Emissão automática de todos os Anexos de Gestão Fiscal e Relatórios Resumido de
+Execução Orçamentária, conforme Portaria do STN em vigor para o período.
+7.4 - TESOURARIA — Informatizar os processos que envolvem as operações financeiras
+da tesouraria do município, controlando as seguintes atividades: Recebimentos,
+Pagamentos, Movimentação Bancária, Emissão de Cheques, Conciliação Bancária e
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: çplitapiratinsQamaitcom 16
+
+--- [pag. PDF 17] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Elaboração de Demonstrativos Financeiros, devendo apresentar as seguintes
+características ou possibilidades:
+Cadastro de Contas Bancárias;
+Configuração de modelo de impressão;
+Emissão de cheque em impressoras comum e impressoras de cheque;
+Totalmente integrado com o Sistema de Contabilidade Pública;
+Possuir controle de fechamento de contas por mês;
+Controlar os saldos das contas bancárias, com a emissão de cheque ou outros pagamentos
+dos credores;
+Configuração do modelo de cheque, oportunizando a flexibilidade para imprimir qualquer
+tabulação de formulário de cheque de qualquer banco;
+Parametrização da Emissão de Cheque, Cheque de Transferência Bancária e outros
+Pagamentos;
+Conciliar os saldos das contas bancárias, emitindo relatório de Conciliação Bancária de
+todas as contas dos bancos. Permitir conciliar automaticamente toda a movimentação de
+conta banco de um determinado período;
+Possibilidade de inclusão ou estorno dos lançamentos a qualquer período, deixando,
+automaticamente, os saldos das contas atualizados;
+Permitir a geração dos arquivos por lote de pagamentos de fornecedores aos bancos,
+conforme layout de cada instituição bancária;
+Consultar em tela a movimentação das contas de qualquer período do exercício;
+Possibilidade de escolha de lançar movimentação financeira e realização da receita pela
+Tesouraria, onde na realização da receita o sistema controla automaticamente os
+percentuais de destinação dos recursos vinculados.
+Integração com o Sistema de Tributação para lançamento automático das receitas
+municipais;
+Possuir demonstrativos de movimento de caixa, saldos e transferências bancárias.
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@qmail.com 17
+
+--- [pag. PDF 18] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possuir extrato de contas específico para as movimentações dos fundos de investimentos;
+7.5 — CONTROLE PATRIMONIAL - Possibilitar o controle e a manutenção de todos os
+bens móveis e imóveis que compõem o patrimônio da entidade, permitindo de maneira
+rápida, o cadastramento, a classificação, a movimentação, baixa, localização e o inventário,
+devendo apresentar as seguintes características ou possibilidades:
+Possibilitar o cadastramento de maneira que possa permitir o agrupamento conforme a
+natureza do bem;
+Possuir informações cadastrais de bens móveis (inclusive veículos, máquinas e etc.) e
+imóveis próprios com os dados necessários ao controle patrimonial, inclusive identificação
+do setor e pessoa responsável;
+Permitir efetuar a depreciação e reavaliação dos bens individualmente ou global;
+Possibilitar a emissão de relatório por número, itens, secretaria/departamento ou classe;
+Possibilitar emissão de termo de responsabilidade por departamento;
+Possibilitar emitir relação de inclusões, baixas, reavaliações, transferência;
+Permitir a geração e leitura de etiquetas com código de barra;
+Possibilitar a transferência dos Bens entre setores e dentro do próprio setor com módulo de
+controle interno de transferências de responsabilidade do Patrimônio;
+Codificar os bens permanentes de forma a agrupá-los por natureza;
+Permitir o cadastro de Cessão e Comodato de Patrimônio;
+Emitir Termo de Transferência entre Órgãos;
+Manter registro histórico de todas as movimentações dos bens patrimoniais;
+Permitir a consulta aos bens por diversos critérios como código de identificação;
+Emitir relatório de bens em inventário;
+Permitir a inclusão de novos campos no cadastro de Bens para registro de informações
+adicionais;
+Possuir relatórios gerenciais para os Setores Administrativos;
+Permitir o registro das baixas de bens inservíveis ou por outro motivo;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsQqmaitcom 18
+
+--- [pag. PDF 19] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir informar cadastros de registros dos consertos dos bens ;
+Possibilitar emissão de etiquetas em código de barras para anexar ao Bem;
+Emitir relatório, mensal e anual, da aquisição dos bens;
+Possibilitar tombamento de bens em lote, evitando digitação repetitiva;
+Possibilitar transferência de bens em lote, evitando digitação repetitiva;
+Emissão da relação de inclusões por Bens;
+Emissão da relação de baixas por Bens;
+Emissão da relação de reavaliações por bens;
+Emissão da relação geral por item;
+Emissão da relação das transferências por item;
+Manter o controle do responsável e da localização dos bens patrimoniais;
+Emitir e registrar Termo de Guarda e Responsabilidade dos bens;
+Permitir que em qualquer ponto do sistema um item possa ser acessado tanto pelo seu
+código interno como pela placa de identificação;
+Geração de arquivos para prestação de contas ao TCM-GO.
+7.6 — COMPRAS E LICITAÇÕES - Possuir ferramenta para a elaboração do Plano de
+Contratação Anual, sendo possível a geração do planejamento em cada órgão ou de forma
+agrupada. A ferramenta de elaboração do Plano de Contratação Anual deve possibilitar a
+construção do planejamento baseado em licitações já realizadas anteriormente, possuindo
+filtros para carregar as informações sendo estes filtros: por licitação, por período da
+licitação, por órgão, por modalidade, pela situação da licitação, pela categoria de produtos
+e também rotina para informar exceções de um intervalo de licitações filtrado previamente.
+A ferramenta de construção do Plano de Contratação Anual deve permitir carregar todos
+os dados necessários para a elaboração e permitir alterar qualquer informação, tais como
+o produto, quantidade, valor, data desejada, catálogo e categoria PCA. A ferramenta deve
+possuir rotina de manipulação em massa dos itens do planejamento, tais como alteração
+da data desejada para a contratação em massa, alteração de catálogo dos itens em massa
+e alteração da categoria pca dos itens em massa. A ferramenta deve possuir filtros e
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@omail.com 19
+
+--- [pag. PDF 20] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+totalizadores que facilitem a conferência dos valores estimados durante a elaboração do
+planejamento. A ferramenta deve possuir rotina automatizada para apagar os itens
+importados e também apagar somente os itens que tiveram algum tipo de edição. A
+ferramenta deve possibilitar também a geração da planilha com os itens constantes do
+planejamento. Deve possuir também rotina de fechamento e reabertura do planejamento a
+fim de evitar possíveis alterações após o seu fechamento. Deve possuir rotina de
+publicação das informações no Portal Nacional de Contratações Públicas diretamente pela
+tela de elaboração do planejamento.
+Possibilitar o acompanhamento de todo o processo licitatório, envolvendo as etapas de
+preparação até o julgamento, interligando com o sistema de compras e pregão devendo
+apresentar as seguintes características ou possibilidades:
+Possibilitar a geração automática de cotas reservadas nas licitações, para as
+microempresas e empresas de pequeno porte, onde seja possível definir o percentual a ser
+aplicado para a cota reservada, bem como, possibilitar filtrar os valores estimados a serem
+apresentados para a separação em cotas;
+Possibilitar o arredondamento dos quantitativos após a separação em cotas reservadas,
+podendo escolher se o arredondamento será aplicado para a ampla concorrência ou para
+a cota reservada;
+Possuir rotina para desfazer as cotas reservadas geradas automaticamente;
+Possibilitar a geração das Ata de Registro de Preços de forma automática para cada
+fornecedor vencedor do registro de preços;
+Possibilitar o julgamento da sessão de licitação presencial, permitindo o registro de lances
+intermediários bem como a inversão da fase de habilitação;
+Permitir controlar toda compra efetuada, proveniente ou não das licitações, acompanhando
+o processo desde a solicitação até a entrega do bem ao seu destino;
+Possibilitar o cadastramento de materiais de maneira que se possa gerar relatórios de
+quantidades adquirida de materiais num determinado período;
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail. cplitapiratins@qmail.com 20
+
+--- [pag. PDF 21] ---
+IIAPIRATINg
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possibilitar efetuar o agrupamento de várias solicitações de compras das diversas
+secretarias/fundos/autarquias/departamentos, agrupando itens iguais, para um novo
+processo licitatório ou para compra direta automaticamente;
+Possibilitar que seja efetuada a requisição de materiais ou serviços através do software;
+Possibilitar a clonagem de itens de uma solicitação, pregão, licitação ou ordem de compras;
+Possibilitar a importação de planilha de itens na solicitação, licitação, e na cotação;
+Possibilitar a aprovação da solicitação de forma total ou parcial;
+Permitir que o usuário consiga pesquisar na tela todas as solicitações de acordo com o seu
+Status, identificando cada status em uma cor diferente para uma melhor visualização;
+Possuir rotina de pesquisa específica de solicitações que ainda estão pendentes e também
+de solicitações que ainda não estão vinculadas a nenhuma ordem de compra;
+Permitir o registro do Documento de Formalização de Demanda DFD, com todas as
+informações solicitadas pelos órgãos de controle, tais como o grau de prioridade, se tem
+previsão no pca, justificativa de contratação e prioridade, dotações que amparam o DFD,
+vinculação com outras DFDs, bem como a classificação de cada item no que diz respeito
+ao catálogos e categoria PCA;
+Possuir mecanismos de consulta das DFDs de todos os órgãos, sem a necessidade de
+acessar o órgão específico, bem como filtros de data, protocolo, informações do
+departamento solicitante, status, dotações vinculadas.
+Permitir cadastrar o Processo/Protocolo pela tela do cadastro da DFD diretamente no
+módulo de Processos e a vinculação automática do processo.
+Permitir visualizar por dentro do registro do DFD onde ela já está associada, como por
+exemplo Licitações, cotações e ordens de compras.
+Possibilitar o gerenciamento dos fornecedores através de consulta aos processos
+licitatórios ou itens de licitação e as compras efetuadas ou serviços executados;
+Permitir o controle das despesas realizadas e a realizar de mesma natureza com dispensa
+de licitação, para que não ultrapasse os limites legais;
+Possibilitar todo o controle das dispensas e inexigibilidades;
+Possibilitar o controle de credenciamentos e chamamentos públicos;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep.. 77.718-000 fone/fax.. (63) 3465-1151, e-mail.. cplitapiratins qmail.com 21
+
+--- [pag. PDF 22] ---
+tianruiruts
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possuir rotinas para credenciar e lançar propostas nas dispensas automaticamente de
+acordo com as propostas já registradas no sistema de cotação;
+Possuir rotina de atualizar o valor estimado do lote da dispensa de acordo com o preço
+obtido no cadastro da cotação de preços;
+Possibilitar o lançamento automático da ordem de compra diretamente pela tela da
+dispensa, separando automaticamente os quantitativos que foram solicitados por cada
+departamento;
+Permitir o lançamento automático da ordem de compras no sistema de contabilidade para
+a elaboração do empenho;
+Permitir o lançamento automático da o—lem de compras no sistema de frotas e
+almoxarifado;
+Possibilitar o lançamento de ordem de compra para vários fornecedores ao mesmo tempo
+assim com a impressão em massa;
+Possuir rotina de impressão de certidão de publicação das licitações, bem como rotina para
+inseri-las como anexos de forma automática sem a necessidade de baixar o arquivo e
+depois anexar novamente no procedimento licitatório;
+O sistema deve possuir rotina de assinatura digital de documentos dentro da própria
+aplicação, com certificado do tipo Al e A3;
+Permitir o cadastramento e o controle da data de validade das certidões negativas e outros
+documentos dos fornecedores, por ocasião do Cadastro de Fornecedores junto ao Cadastro
+Geral do Município;
+Permitir consulta aos preços de materiais ou por fornecedores, praticados anteriormente;
+Permitir a emissão da autorização de compra ou serviços;
+Emitir relatórios de compra e serviço;
+Permitir o controle da quantidade entregue parcialmente pelo fornecedor, quando
+necessário;
+Possibilitar compartilhamento de informações dos módulos de almoxarifado e frotas;
+Utilizar registro geral de fornecedores, desde a geração do documento de "Certificado de
+Registro Cadastral", controlando o vencimento de documentos;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@gmail.com 22
+
+--- [pag. PDF 23] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Manter informações cadastrais de sócios, representantes, contato e conta bancária dos
+fornecedores;
+Controlar através de relatórios os contratos que estiverem a vencer, tanto para vigência
+como pagamentos;
+Permitir lançamento de realinhamentos de preços;
+Controlar as certidões vencidas ou à vencer dos fornecedores;
+Registrar os processos licitatórios identificando o número do processo, objeto, requisições
+de compra a atender, modalidade de licitação e data do processo;
+Possuir meios de acompanhamento de todo o processo de abertura e julgamento da
+licitação, registrando a habilitação, proposta comercial, interposição de recurso, anulação,
+adjudicação e emitindo o mapa comparativo de preços;
+Gerar todos os controles, documentos e relatórios necessários ao processo licitatório, tais
+como: ordenação de despesa, editais de publicação, homologação e adjudicação, atas,
+termo de análise jurídica, parecer técnico e aviso de licitações;
+Possibilitar a entrega do edital e itens a serem cotados em meio magnético, para que os
+participantes possam digitar suas propostas e as mesmas possam ser importadas
+automaticamente pelo sistema;
+Possuir rotina que possibilite que a proposta comercial seja preenchida pelo próprio
+fornecedor, em suas dependências, e posteriormente enviada em meio magnético para
+entrada automática no sistema, sem necessidade de redigitação;
+Verificar possíveis débitos fiscais no ato da inclusão dos fornecedores na licitação;
+Gerar a ata do processo licitatório automaticamente de acordo com o modelo criado;
+O Módulo de Licitações deverá permitir controlar as despesas realizadas e a realizar,
+evitando a realização de despesas de mesma natureza com dispensa de licitação ou
+modalidade de licitação indevida, por ultrapassarem os respectivos limites legais;
+Permitir consulta ao preço praticado nas licitações, por fornecedor ou material;
+Gerenciar os controles necessários para Registro de Preços, de acordo com a Lei
+14.133/21, facilitando assim o controle de entrega das mercadorias licitadas, diminuindo a
+necessidade de controle de mercadorias em estoque físico;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-rnail: cplitapiratinsQqmairconi 23
+
+--- [pag. PDF 24] ---
+1111PUIATINg
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Ter módulo de pregão presencial, além de controlar todo do processo;
+Permitir a execução do pregão por item ou lote de itens;
+Fazer com que o enquadramento dos lotes possa ser automático por Item, classificação de
+material/serviço ou global;
+Registrar de forma sintética os fornecedores que participarão no pregão;
+Permitir a montagem de lotes selecionando seus respectivos itens;
+Permitir a digitação e classificação das propostas iniciais de fornecedores definindo quais
+participarão dos lances, de acordo com os critérios estabelecidos na Lei do Pregão;
+0 Módulo de Licitações deverá possibilitar a classificação das propostas do Pregão
+Presencial automaticamente, conforme critérios de classificação imposto na legislação (Lei
+10.520);
+Possibilitar a realização de Licitações no formato da Lei 14.133/21;
+Registrar os preços das propostas lance a lance até o declínio do último fornecedor;
+Permitir o acompanhamento lance a lance do pregão, através de tela que deve ser
+atualizada automaticamente mediante a digitação dos lances, permitindo aos fornecedores
+participantes uma visão global do andamento do pregão;
+O Módulo de Licitações deverá permitir a emissão da ATA do Pregão Presencial e histórico
+com os lances;
+Permitir a emissão e personalização do Termo de Adjudicação;
+Permitir a emissão e personalização do Termo de Homologação;
+Permitir a emissão e personalização do Ato de Dispensa;
+Permitir a emissão da Certidão de Publicação;
+Permitir a emissão de relatórios de saldo da licitação;
+O sistema de licitação deve permitir a substituição de fornecedores desistentes pelo
+segundo colocado no certame;
+Registrar e controlar os contratos (objeto, valor contratado, vigência) e seus aditivos,
+reajustes e rescisões, bem como o número das notas de empenho;
+Registrar a rescisão do contrato indicando motivo e data;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins0.qmail.com 24
+
+--- [pag. PDF 25] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir o cadastro de comissões julgadoras: especial, permanente, servidores e leiloeiros,
+informando as portarias e datas de designação ou exoneração e expiração;
+Permitir o cadastro do quadro de responsáveis dos procedimentos Licitatórios;
+Permitir o cadastro de suspensão, anulação e revogação dos procedimentos Licitatórios;
+Permitir o cadastro de decretos regulamentadores dos procedimentos Licitatórios;
+Permitir o cadastro de pareceres da Licitação;
+Permitir a cópia de processos de forma a evitar redigitação de dados de processos
+similares;
+Permitir a integração com o sistema de contabilidade no que se refere ao bloqueio do valor
+da despesa previsto no processo licitatório;
+Permitir registrar a comissão de licitação, pregoeiro, informando os membros, vigência
+inicial e final;
+Permitir consulta aos saldos orçamentários e financeiros;
+Controle de Saldo de Licitações: Permite controlar o saldo de Licitações não permitindo
+comprar além do Licitado ou do aditivo; automaticamente, no ato da emissão da ordem de
+fornecimento no sistema de compras;
+Controle de Dotação Orçamentária: O controle de saldos de dotações é feito em tempo real
+totalmente automático, não deixando solicitar nada além do orçado, caso sofra reduções
+na contabilidade;
+Gerar Propostas: Todas as licitações poderão fornecer arquivo digital com os itens da
+licitados, sendo ele preenchido pelo fornecedor participante, também este mesmo arquivo
+será importado para a proposta do sistema, não havendo necessidade de o usuário informar
+valores manualmente de cada fornecedor;
+Possuir cadastro das atas de registro de preços de forma automatizada a partir do cadastro
+da licitação registro de preços;
+Possibilitar todo o controle das compras realizadas pela entidade, seja ela licitada ou não
+licitada;
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins qmall.com 25
+
+--- [pag. PDF 26] ---
+4.
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possibilitar o lançamento de ordens de compras para mais de um fornecedor ao mesmo
+tempo, onde o sistema deve identificar automaticamente os vencedores da licitação e gerar
+as ordens de compra de uma só vez, assim como a impressão também de uma única vez;
+Possuir o controle das adesões a registro de preços com informações da licitação realizada
+pelo órgão gerenciador bem como os dados da adesão formalizada pela entidade;
+Possibilitar todo o controle de Cotações de preços, bem como o acompanhamento das
+fases da cotação, registro de itens e fornecedores cotados e seus valores. Possuir rotina
+de atualização dos valores cotados através do menor preço, preço médio, maior preço e
+preço mediano;
+Possibilitar importação de itens no cadastro das cotações, bem como importação de
+planilhas de propostas para os fornecedores das cotações;
+Possibilitar a impressão de mapa da cotação com a memória de cálculo, bem como geração
+de planilhas com informações dos preços cotados informando a média e a mediana;
+Possibilitar a visualização por dentro da tela da cotação, de todas as solicitações das
+secretarias bem como o número do protocolo que originou cada solicitação e também em
+qual licitação a cotação está associada.
+Possibilitar a impressão da relação dos itens da cotação tanto em Word como em Excel;
+Possibilitar as publicações exigidas pelo Portal Nacional de Contratações Públicas -PNCP
+(Licitações, Contratos, Aditivos, Apostilamentos, Atas de Registro de Preços);
+Possibilitar a integração com plataformas de Licitação Eletrônicas;
+Possibilitar a importação de informações de licitações eletrônicas diretamente do PNCP -
+Portal Nacional de Contratações Públicas;
+Possuir rotina para a gestão dos contratos formalizados, com a possibilidade de visualizar
+na tela através da sua vigência e situação;
+Possuir relatório de extrato de contrato onde o mesmo apresente toda a vida do contrato,
+desde suas informações cadastrais, evidenciando todas as fase que o mesmo já percorreu,
+tais como empenhos, liquidações, pagamentos, aditivos, licitações vinculadas,
+responsáveis do contrato e informações de publicação do mesmo nos órgãos de controle;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cepa 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins(Wqmaircom 26
+
+--- [pag. PDF 27] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possuir rotina para cadastrar contratos de forma automática através de inteligência Artificial
+lendo informações de um arquivo externo;
+Possibilitar o registro dos diversos tipos de sanções aplicadas aos fornecedores, bem como
+a evidenciação das vigências, motivos e eventuais valores de multas aplicadas;
+7.7 - CONTROLE DE ESTOQUE (ALMOXARIFADO) - Possibilitar o controle de toda
+movimentação de entrada, saída, devolução, prazo de validade e transferência de materiais
+no estoque, devendo apresentar as seguintes características ou possibilidades:
+Possuir integração com o sistema de compras, licitação e contratos gerando
+automaticamente a entrada no estoque à partir de uma autorização de fornecimento;
+Propiciar o registro de entrega de materiais adquirido;
+Propiciar o controle de entrega parcelada, informando saldos e data de entrega prevista;
+Possibilitar gerenciar a necessidade de reposição de materiais;
+Permitir controlar o limite mínimo e de reposição de saldo físico em estoque;
+Permitir gerenciar os saldos físico e financeiro dos estoques;
+Permitir gerenciar os ajustes físicos e financeiros dos estoques, ocorridos do inventário;
+Possibilitar a emissão de relatório de balancete do estoque mostrando os movimentos de
+entradas, saídas e saldo atual por período;
+Possibilitar a emissão de relatório da ficha de controle de estoque, mostrando as
+movimentações por material e período com saldo anterior ao período (analítico/sintético;
+Possibilitar a emissão de relatórios de entradas e saídas de materiais por produto, e
+categorias de produtos;
+Possibilitar que o processo de requisição de material possa ser feito on-line pelo próprio
+sistema, dessa forma efetuando a integração com os setores solicitantes ao almoxarifado;
+Permitir a criação e controle de diversos órgãos, onde estarão depositados os produtos em
+estoque;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: colitapiratins qmail.com 27
+
+--- [pag. PDF 28] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+7.8 - CONTROLE DE VEÍCULOS (FROTAS) - O sistema deverá proporcionar um amplo
+controle da frota de veículos, devendo apresentar as seguintes características ou
+possibilidades:
+Permitir a visualização dos relatórios em tela, bem como a gravação opcional dos mesmos
+em arquivos PDF, e a seleção da impressora da rede desejada;
+Ser baseado em banco de dados único, utilizando o mesmo banco de dados para o
+Orçamento, a Solicitação da Despesa, a Contabilidade, o Patrimônio e o Almoxarifado. Para
+evitar eventuais inconsistências de dados e cópias, deve estar localizado em um único
+arquivo no diretório do servidor;
+O sistema deverá suportar em um único banco de dados os vários exercícios, inclusive em
+um único arquivo no diretório do servidor, para evitar inconsistências de dados e cópias;
+Integração com o sistema de Compras, importando as movimentações pertinentes aos
+veículos da frota municipal.
+Permitir que o usuário antecipe o aviso de vencimento ou substituição de itens agregados
+ao veículo, pela medição do odômetro ou horímetro ou por data determinada através de
+relatórios;
+Permitir o lançamento e emissão de Requisição de Compras para um determinado veículo;
+Permitir controlar os gastos da frota por veículo;
+Possuir controle sobre velocímetros substituídos, mantendo um histórico das medições
+antigas, para poder calcular com exatidão a média de consumo, bem como a
+quilometragem dos veículos;
+O sistema de Controle de Frotas deverá registrar o histórico do Motorista e das saídas
+registrando data e hora de saída e data e hora de chegada, permitindo registrar ainda quem
+estava de carona no veículo;
+No próprio lançamento de gastos da frota, o usuário poderá informar quais são os itens que
+possuem garantias e esta garantia passa a ser controlado automaticamente pelo sistema,
+sem que haja necessidade de se lançar em separado o controle de vencimentos;
+Avenida Tocantins, Setor Novo Horizonte, itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1;51, e-mail: cplitapiratins gmail.com 28
+
+--- [pag. PDF 29] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir o lançamento de qualquer gasto da frota, separando-os em categorias de despesa;
+Permitir controlar as ocorrências dos veículos registrando multas, sinistros, seguros ou
+qualquer outro tipo de ocorrência que venha a ocorrer.
+Permitir a movimentação entre departamentos e órgãos do veículo;
+Permitir o cadastro de IPVA e Licenciamento anual para cada veículo, bem como o
+vencimento e se já foi pago ou não;
+O sistema deverá disponibilizar a emissão de relatórios de todos os cadastros e parâmetros;
+Emitir média de consumo dos veículos;
+Emitir Ficha de Viagem para ficar no veículo a fim de ser preenchido pelo motorista no
+controle da viagem;
+Emitir Ocorrências dos Veículos;
+Emitir Consumo por Veículos, por produto e por departamento;
+Viagens por Veículo;
+Emitir Extrato de consumo por produto
+Emitir Relatório de veículos que precisam de manutenção;
+Emitir Quilometragem por Veículo;
+Emitir Gastos por Veículos;
+Emitir Gastos por Departamento;
+Emitir Gastos por Motorista;
+Emitir Gastos por Grupo de Despesa;
+Emitir Média de Consumo;
+Emitir relatório análitico dos gastos;
+Lançar Viagem a partir de um abastecimento;
+Permitir que o controlador Interno ateste os gastos de cada veículo no mês e após atestado
+bloquear todo e qualquer lançamento para os veículos atestados naquele mês;
+Gerar arquivo de envio para o Tribunal de Contas dos Municípios do Estado de Goiás, de
+acordo como layout por ele especificado;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsQqmaitcom 29
+
+--- [pag. PDF 30] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+7.9 - ASSISTÊNCIA SOCIAL — Possibilitar o controle geral das ações sociais
+desempenhadas pela Secretaria de Assistência Social a todos os beneficiários, devendo
+apresentar as seguintes características ou possibilidades:
+Permitir registrar todas as pessoas assistidas pela Assistência Social do município;
+Permitir registrar os parentes das pessoas assistidas;
+Registrar os benefícios doados a cada pessoa;
+Pesquisar beneficiários por grau de parentesco;
+Pesquisar os benefícios concedidos a um determinado cidadão e seus parentes diretos;
+Emitir relatório de todos os benefícios concedidos em um determinado período;
+Emitir relação de famílias;
+Permitir a solicitação de benefícios;
+Permitir a aprovação ou indeferimento de benefícios;
+7.10 - CONTROLE DE PROCESSOS (PROTOCOLO) - O Módulo de Protocolo deverá
+permitir o registro de qualquer tipo de processo, assegurando o controle de seu
+recebimento, tramitação e encerramento. O sistema deverá fornecer informações rápidas,
+confiáveis e auditáveis, garantindo a rastreabilidade dos processo, devendo apresentar as
+seguintes características ou possibilidades:
+Permitir a numeração dos processos para identificação, considerando sequência por
+número e ano.
+Possibilitar o controle do histórico dos processos em toda a sua vida útil;
+Permitir ajustes na tramitação dos processos, como a modificação de procedimentos ou
+devolução ao departamento anterior, quando necessário.
+Permitir registrar descrições dos procedimentos realizados ao longo dos andamentos entre
+departamentos, sem limite de tamanho de parecer;
+Registrar e disponibilizar o histórico de cada andamento e procedimento realizado nos
+processos em trâmite, incluindo o nome do usuário e a respectiva data/hora de registro.
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@qmaiLcom 30
+
+--- [pag. PDF 31] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possibilitar que cada departamento registre ou consulte os processos sob sua
+responsabilidade;
+Permitir controlar toda tramitação dos processos dentro da instituição, entre usuários e
+departamentos que possuam acesso aos programas;
+Possibilitar o envio e recebimento on-line dos processos com controle de senha / usuário;
+Possibilitar consultas aos processos por número, código, setor, departamento ou secretaria
+de envio, situação (a receber ou enviada), assunto, interessado, ou quaisquer outros dados
+que constem nos processos.
+Permitir a impressão de etiqueta de protocolização do documento (De forma Individual ou
+Etiquetas de mais de um processo);
+Possibilitar o cadastro de fluxos definidos pela administração, para os processos;
+Possibilitar a definição do assunto de um processo e, a partir dele, determinar o fluxo de
+tramitação a ser seguido;
+Possibilitar indicar no sistema quais os usuários pertencem a cada departamento, para
+correta tramitação dos processos;
+Possibilitar ao usuário que em apenas uma tela consiga receber processos ou enviar ao
+próximo departamento, além de visualizar as informações principais;
+Possibilitar arquivar processos informando setor, prateleira, caixa, prazo de guarda e data
+de descarte, quando for o caso.
+Permitir emitir relatório de um processo específico, contendo os dados principais, e toda a
+tramitação ocorrida.
+Permitir inserir anexos na abertura e durante toda a tramitação do processo, conforme seja
+necessário.
+Possibilitar a visualização e download de anexos diretamente nas telas de movimentação,
+com controle de permissões para modificar ou deletar documentos.
+Permitir assinar os anexos dos processos de forma eletrônica, dentro do sistema, para que
+o processo ocorra de forma digital, se for o caso;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins -- TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@qmail.com 31
+
+--- [pag. PDF 32] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possibilitar a integração automática com outros módulos do sistema, permitindo que
+processos sejam abertos a partir de outro cadastro ou que anexos sejam inseridos no
+processo a partir de outros cadastros vinculados.
+Permitir que o público externo abra processos de forma online, de modo que estes sejam
+recebidos no sistema para tramitação pelos usuários internos;
+Permitir que o usuário interno identifique a origem do processo, distinguindo entre
+processos abertos internamente no sistema e aqueles abertos externamente.
+Emitir relatórios controlando os processos que estão em trânsito, parados ou arquivados;
+Emitir relatórios de processos organizados por interessado;
+O sistema deverá permitir o acesso, cadastro e utilização simultânea por múltiplos usuários,
+registrando data e hora de cada ação nos processos, de forma a manter a ordenação
+correta e garantir a continuidade do uso sem impedimentos.
+7.11 - ARRECADAÇÃO TRIBUTÁRIA E NÃO TRIBUTÁRIA — Permitir o controle de todos
+os impostos e taxas municipais, inclusive as receitas não tributárias, desde o cadastro,
+lançamento, arrecadação, contencioso, cobrança, dívida ativa e execução fiscal. Devendo
+ser parametrizado de forma a adaptar-se aos cadastros técnicos do município e à legislação
+vigente, notadamente o Código Tributário do Município e suas regulamentações, além da
+legislação federal e estadual pertinente, devendo apresentar as seguintes características
+ou possibilidades:
+Permitir a definição parametrizada do conteúdo dos cadastros que compõem o Cadastro
+Técnico Municipal. O conteúdo desses cadastros está apresentado no Anexo 1 -
+Especificações do Cadastro Técnico Municipal;
+Permitir a alteração da situação cadastral (ativo, inativo, baixado, suspenso) de contribuinte,
+pessoas físicas, jurídicas e imóveis, de ofício ou por solicitação;
+Permitir registrar isenções, não incidência, imunidades e reduções de alíquotas e bases de
+cálculo, de acordo com a legislação vigente;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsaqmail.com 32
+
+--- [pag. PDF 33] ---
+tIMPUUrfling
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Na transferência de proprietário de imóvel emitir relatório informando a existência de débito
+do imóvel inclusive o inscrito em dívida ativa ou executivo fiscal;
+Possuir informações cadastrais dos imóveis existentes no município, prediais e territoriais
+e emitir relatório com as inconsistências verificadas no cadastro;
+Possuir informações cadastrais de pessoas físicas e jurídicas, contribuintes do ISS e de
+Taxas de Poder de Polícia e sócios de empresa;
+Registrar o Contador responsável pela contabilidade da empresa;
+Possuir agenda de vencimentos de tributos;
+Emitir Notificação de Lançamento e Guia de Recolhimento de tributo em um documento
+único, imprimindo código de barras para leitura ótica de acordo com o padrão bancário, pelo
+valor total ou em quotas observando restrições para valor mínimo;
+Permitir o lançamento de tributos, prevendo a possibilidade de incluir na mesma emissão,
+valores de imposto e taxas;
+Permitir o lançamento de tributos com possibilidade de destinação para o domicílio de
+representante autorizado;
+Permitir a livre configuração de leiaute e conteúdo das Notificações de Lançamento;
+Registrar na Conta Corrente Fiscal todos os lançamentos efetuados para o sujeito passivo
+detalhando obrigação, valor da obrigação e data de vencimento;
+Permitir controle de várias atividades por contribuinte, indicando a atividade principal e
+secundária;
+Permitir o cálculo automático de ISS fixo, levando em conta períodos proporcionais
+(incompletos) e tabelas com faixas de valores por atividade ou grupo de atividades
+(profissionais liberais/não liberais, sociedade civil de profissionais), prevendo também
+descontos parametrizáveis, com possibilidade de alteração pela Câmara;
+Permitir a emissão de Notificação de Lançamento e Guia de Recolhimento de ISS resultante
+de estimativa fiscal ou arbitramento;
+Emitir demonstrativo da arrecadação do ISS por atividade econômica, ano atual e ano
+anterior;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail.. cplitapiratinsRqmail.com 33
+
+--- [pag. PDF 34] ---
+oceuruas
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Utilizar dados da guia de cobrança do ITBI para atualização cadastral dos dados do novo
+proprietário e substituição do devedor nos executivos fiscais e Dívida Ativa;
+Calcular o ITBI, com base em tabelas parametrizáveis de valores, alíquotas e vencimentos.
+Permitir o cálculo, lançamento e emissão de Guias de Recolhimento de taxas de poder de
+polícia e taxas de serviço;
+Possuir tabelas parametrizáveis de valores para cálculo das taxas.
+Emitir relatório analítico e sintético com quantidade de lançamentos e respectivos valores
+por tributo e tipo do lançamento (mensal, anual ou resultante de ação da fiscalização);
+Emitir extrato individualizado do lançamento;
+Possuir rotina de recepção e classificação dos dados de arrecadação recebidos dos
+agentes arrecadadores, através de meio eletrônico ou comunicação de dados;
+Conciliar os valores repassados pelos agentes arrecadadores ao Tesouro Municipal,
+acusando eventuais diferenças a maior ou menor nos valores devidos e prazos de repasse;
+Disponibilizar rotina para conciliação manual dos documentos de arrecadação nos quais
+não foi possível a conciliação automática;
+Possuir tabela de classificação da receita, fonte e destinação dos recursos;
+Fornecer dados sobre a receita arrecadada no período devidamente classificada para
+contabilização;
+Possuir integração com o Sistema de Administração Orçamentária e Financeira, gerando
+automaticamente lançamentos contábeis da receita arrecadada e classificada;
+Permitir a aplicação e cobrança das diferenças e/ou acréscimos legais previstos por
+repasse a menor ou atraso nos repasses do agente arrecadador;
+Emitir relatório no período selecionado da rr:ceita diária, tipo de receitas e valor pago.
+Emitir relatório do desempenho da arrecadação dos maiores contribuintes por setor de
+atividade e período;
+Emitir relatório consolidado da arrecadação por agente arrecadador e período;
+Efetuar os registros de lançamento e pagamento de todas as obrigações fiscais, inclusive
+aquelas decorrentes de ações fiscais;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mais: cplitapiratinsQqmaitcom 34
+
+--- [pag. PDF 35] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir que todos os débitos de contribuinte (pessoa física, jurídica ou imóvel) possam ser
+agrupados para consulta e emissão de extratos da posição financeira, referente ao
+exercício corrente e anteriores, informando em que fase da cobrança o débito se enquadra
+(em cobrança ou dívida ativa);
+Nos extratos de contribuinte proprietário assegurar que também sejam listados os
+lançamentos e pagamentos relativos a cada imóvel de sua propriedade;
+Permitir o registro e controle de parcelamentos, do número de parcelas e dos pagamentos
+referentes às mesmas;
+Permitir registrar na Conta Corrente a inscrição do débito em Dívida Ativa;
+Permitir a emissão de certidões negativas ou positivas, com livre formatação de seu texto;
+Permitir registrar na Conta Corrente as ações de cobrança ajuizadas após inscrição em
+dívida ativa;
+Emitir relatório analítico dos maiores devedores;
+Permitir a elaboração, a emissão e o controle de Autos de Infração, e imposição de multa
+incluindo:
+Permitir a emissão e o controle de Notificações Fiscais registrando prazos de cumprimento
+da obrigação;
+Emitir relatório, para cada exercício, dos débitos inscritos em Dívida Ativa discriminando
+contribuinte, data de inscrição, valor, obrigação a que se refere, enquadramento legal e
+situação (ajuizadas ou não);
+Permitir a consulta dos débitos dos contribuintes através da internet, onde cada cidadão
+consulte do seu próprio domicílio;
+Permitir a emissão de certidões negativas de débitos na internet;
+Permitir aos contadores informar as notas fiscais das diretamente na internet, de forma on-
+line
+Permitir a geração de PIX nos documentos de Arrecadação;
+Possibilitar a baixa automatizada dos pagamentos via PIX;
+Possuir integração com a REDE SIM: portal do empreendedor Goiano;
+Possuir integração com o SPC, possibilitando a consulta dos dados dos contribuintes;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@qmall.com 35
+
+--- [pag. PDF 36] ---
+ISAPEUWrItis
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Possuir integração com o PROJUDI, Cartório e CADIN para cobrança de débitos;
+Possibilitar o pagamento dos Documentos de Arrecadação com cartão de crédito;
+Permitir a emissão de alvarás e impressão de alvarás;
+Permitir o envio dos alvarás de construção e Habite-se para o SISOBRA.
+7.12 — CONTROLE DE CEMITÉRIO — Possibilitar o controle geral do Cemitério Municipal
+visando organizar o seu gerenciamento, devendo apresentar as seguintes características
+ou possibilidades:
+Permitir registrar as sepulturas do cemitéridMunicipal;
+Permitir registrar os médicos que assinaram atestado de óbito;
+Permitir registrar a causa da morte da pessoa;
+Registrar a pessoa que está sendo sepultada;
+Permitir informar em quanto tempo a sepultura poderá ser reutilizada;
+Imprimir o mapeamento do cemitério;
+Emitir termo de posse para sepulturas particulares;
+7.13 - GESTÃO DE NOTA FISCAL E APURAÇÃO DE ISS/IBS
+Disponibilizar as rotinas para consulta de notas fiscais de serviços por empresas e
+prestadores de serviço, bancos, cartórios bem como os procedimentos para declaração e
+apuração do ISS/IBS, com as seguintes funcionalidades:
+Possuir integração com o Sistema Nacional de Nota;
+Permitir o envio dos dados dos contribuintes para o portal nacional de notas.
+O sistema deve buscar as notas em que o município é parte interessada;
+Realizar o fechamento mensal com o devido demonstrativo de apuração de ISS;
+Permitir a geração das guias de recolhimento de ISS a partir das notas fiscais geradas;
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins qmail.com 36
+
+--- [pag. PDF 37] ---
+ORNUrtitts
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Emitir relatórios de notas fiscais por período;
+Permitir a importação de documentos fiscais de Bancos e cartórios;
+Emitir estatísticas de emissão de notas.
+Permitir o cruzamento de dados de emissão de notas com os dados do PGDAS.
+Permitir o cruzamento dos dados dos econômicos com o arquivo de período do simples
+nacional.
+7.14 - FOLHA DE PAGAMENTO (RECURSOS HUMANOS) — Possibilitar o controle geral
+dos recursos humanos da administração municipal, devendo apresentar as seguintes
+características ou possibilidades:
+O sistema de folha de pagamento deverá controlar todas as atividades referentes à
+Administração de Pessoal;
+Efetuar todos os cálculos da Folha de Pagamento e emitir os respectivos relatórios.
+O sistema deverá atender ao regime ESTATUTÁRIO;
+O sistema deverá tratar adequadamente os diferentes tipos de processamento, como
+normal e complementar;
+Possibilitar o controle de previdência para o regime geral, regime próprio e regime de outro
+ente;
+Permitir o cadastro dos dados previdenciários do RPPS, RGPS, e RPPS de outro ente,
+informando as alíquotas servidor, patronal, alíquota de custeio e legislação de diferentes
+entes;
+Possuir validação do dígito verificador de inscrições do PIS/PASEP e CPF
+no cadastro de pessoas;
+Permitir os diversos tipos de contratação (efetivos, Comissionados, agentes políticos,
+contrato temporário, cedidos, credenciados, reintegração);
+Permitir o cálculo e processamento dos diferentes tipos de folha (Vencimento,
+complementar, 13° salário, Férias);
+Permitir o lançamento de diversas folhas complementares;
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsQqmail.com 37
+
+--- [pag. PDF 38] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir o pagamento de verbas retroagindo a diferentes períodos;
+Permitir o cálculo do INSS e RPPS na folha do mês atual, retroagindo a alíquota de cálculo
+de períodos anteriores;
+O sistema deverá permitir configuração de diferentes eventos e diferentes forma de cálculo
+conforme necessidade do órgão;
+Permitir a configuração de quais proventos e descontos devem ser considerados como
+automáticos para cada tipo de cálculo (mensal, férias, complementar, etc.) e adicionar as
+restrições para o cálculo;
+Permitir a configuração dos proventos para cálculos de férias, rescisão, 13°salário, abono
+pecuniário e aviso prévio, referentes às médias e vantagens percebidas pelos servidores;
+Permitir calcular uma rescisão complementar para funcionários que tiverem a rescisão
+calculada em competência anterior;
+Registrar todo o histórico salarial do 1,3rvidor, registrando a automaticamente a
+movimentação de pessoal referente às alterações salariais do servidor, através da
+informação do ato;
+Calcular alterações salariais de modo coletivo ou para níveis salariais do plano de cargos;
+Permitir a inserção de dados adicionais, possibilitando informar níveis para o mesmo cargo
+conforme legislação vigente;
+Bloquear qualquer tentativa de alteração no financeiro quando já estiver pagamento
+efetuado;
+Bloquear qualquer tentativa de alteração no histórico de funcionário quando o mês estiver
+fechado;
+Emitir o resumo da folha por período, por lotação, por órgão com todos os tipos de
+proventos e descontos gerados na folha, mostrando o valor total, e a quantidade total de
+funcionários;
+Emitir o resumo da folha por período, por lotação, por órgão com o detalhamento dos
+valores previdenciários;
+Permitir a emissão de guia de recolhimento da previdência municipal;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsQqmail.com 38
+
+--- [pag. PDF 39] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Emitir comparativo de valores referentes a proventos e descontos dos servidores entre
+duas competências;
+Emitir relatórios de funcionários que foram promovidos no mês;
+Permitir a configuração de todas as fórmulas de cálculo em conformidade com as
+legislações vigentes da entidade;
+O sistema deverá realizar o controle dos eventos de consignados considerando as
+parcelas atual e parcela total e remover o evento do financeiro de forma automática
+quando a quantidade de parcela for igual a quantidade de parcelas total do consignado;
+Permitir o controle de descontos consignados na folha de pagamento dos funcionários, de
+forma que o valor máximo de desconto não ultrapasse a margem legal de desconto;
+Permitir o lançamento de data base retroativos e realizar o cálculo da diferença do salário
+de forma automática, informando a competência do pagamento;
+Permitir o pagamento do 13° salário de diferentes formas conforme estatuto do servidor
+(adiantamento do 13° liquido, adiantamento integral e proporcional) assim como o
+pagamento da 2° parcela considerando a média dos eventos variáveis recebido no ano;
+Permitir o cálculo da estimativa de recolhimento previdência e IRRF do adiantamento
+13'salário;
+Permitir o cálculo das verbas rescisórias de forma automática quando informado a data
+do desligamento;
+Permitir o cálculo em lote das verbas rescisórias;
+Permitir o lançamento em lote dos dados demissionais;
+Permitir emitir o Termo de Rescisão Detalhado;
+O sistema deverá possuir rotinas que permitam uma adequada Administração salarial;
+Permitir o cadastro de cargos e seus respectivos níveis;
+Permitir o cadastro de tabela salarial usando a mesma tabela para diferentes cargos;
+Possuir processo de progressão salarial automatizado, alterando os níveis salariais e
+salários dos funcionários de forma automática, e por meio de avaliação conforme definido
+em configurações;
+Avenida Tocantins, Setor Novo Horizonte, itapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsQqmaiLcom 39
+
+--- [pag. PDF 40] ---
+tilireurreNs
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir a configuração para progressão salarial automática ou por meio de avaliação
+conforme estatuto do servidor;
+Permitir o cadastro de avaliação funcional;
+Permitir o cadastro das tabelas de plano de carreira com suas respectivas percentuais de
+progressão e período de forma automática;
+Manter as respectivas informações de progressão salariais registradas no histórico salarial
+do servidor, permitido que esse histórico seja visualizado no cadastro do funcionário;
+Permitir o cadastro de estagiário;
+Permitir o cadastro da Instituição de Ensino do Estagiário;
+Permitir o cadastro de funcionário temporário e controle do período de vigência do
+contrato;
+Permitir o cadastro de funcionário estrangeiro e as respectivas informações de imigrante;
+Permitir o cadastro e Gestão folha de pagamento de aposentados e pensionistas;
+Controle de admissão de funcionários pela quantidade de vagas do cargo;
+O sistema deverá possuir mecanismo pala lançar os períodos aquisitivos de férias
+automático sempre o funcionário completar um ciclo do período aquisitivo;
+Permitir o cadastro do período de Gozo das férias, podendo ser gozado em 3 períodos
+diferentes;
+Criar a folha de férias com as suas respectivas verbas, quando a data de gozo for
+informado no cadastro das férias;
+Permitir o lançamento do período de gozo das férias em lote, para diferentes funcionários
+fazendo o controle dos respectivos períodos aquisitivo;
+O sistema deverá emitir relatório de controle de férias;
+Permitir emitir aviso de férias em lote para diferentes funcionários;
+Permitir o cadastro de diferentes tipos de licença, remunerada e não remunerada,
+conforme as exigências do eSocial e dos Tribunais de Contas;
+O sistema deverá realizar o controle do pagamento de auxílio doença conforme o período
+de licença do funcionário;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsaqmaitcom 40
+
+--- [pag. PDF 41] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir o cadastro de atestados com informação do CID (Classificação Internacional de
+Doenças) e do médico responsável;
+O sistema deverá realizar o controle do cálculo das verbas de direitos adquiridos que serão
+impactados com a licença;
+O sistema deverá preencher a data final quando informado a quantidade de dias da
+licença;
+Permitir o cadastro do período aquisitivo para licença prêmio conforme estatuto do
+servidor;
+O sistema deverá emitir relatórios personalizados de licença, permitindo ao usuário
+identificar funcionários que estão retornando ou saindo de licença em um determinado
+período;
+0 sistema deverá possibilitar anexar documentos ao registro da licença;
+Permitir registrar casos de moléstias à pessoa, com data inicial e data final quando for o
+caso. Estas informações servem de base para a isenção do I.R.R.F por moléstia grave e
+deverão ser transmitidas para o eSocial;
+O Sistema deverá controlar o IRRF quando existir o cadastro de isenção, considerando o
+período que o funcionário for isento;
+Permitir o cadastro de disposição de funcionário, realizando o controle da entidade do
+ônus e do período da disposição;
+O sistema deverá permitir o cadastro de concurso público para diferentes modalidades e
+suas respectivas exigências, realizando o controle de funcionários por cargos, tipo de
+concorrência e classificação no processo;
+Permitir o cadastro da banca examinadora e seus respectivos membros;
+Permitir que o funcionário seja aprovado no mesmo processo seletivo para diferentes
+cargos;
+Permitir anexar toda a documentação do concurso e lista de aprovados em diferentes
+extensões;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail:: cplitaniratins@qmail.co 41
+
+--- [pag. PDF 42] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+O sistema deverá permitir e controlar o cadastro de averbação de tempo de serviço e
+realizar o cálculo das verbas de direitos adquiridos que será impactado pelo período
+averbado;
+Permitir o cadastro de processos judiciais, processos de pensão alimentícia
+e reclamatórias trabalhistas dos funcionários;
+Registrar os tipos de administração, armazenando histórico das alterações realizadas
+atendendo a exigência legal do eSocial;
+Permitir às Entidades uma forma de identificar possíveis divergências entre os cadastros
+internos das empresas, o Cadastro de Pessoas Físicas - CPF e o Cadastro Nacional de
+Informações Sociais - CNIS, a fim de não comprometer o cadastramento inicial ou
+admissões de trabalhadores no e-Social, através da extração dos dados conforme Iayout
+disponibilizado pelo e-Social;
+Gerar o arquivo com a relação dos funcionários para a Dirf, conforme exigências da
+Receita Federal;
+Gerar o arquivo com a relação dos funcionários para Rais;
+Gerar e enviar informações de folha de pagamento e prestador serviço para o eSocial, de
+todos os layouts vigentes;
+Permitir gerar e transmitir informações de dados cadastrados no sistema para
+atendimento das exigências legais do Tribunal de Contas;
+Permitir o cadastro dos fatores de risco a que se expõe um funcionário;
+Permitir o cadastro dos EPI (Equipamento de Proteção Individual);
+O sistema deverá permitir o cadastro do ASO com todos os itens exigidos pelo sistema
+do eSocial, e processar os dados para transmissão de forma automática para o eSocial e
+rotina de importação de arquivo texto para movimento;
+Propiciar rotina de importação de arquivo texto para a folha de pagamento;
+Permitir elaborar modelo de documentos de Gestão do RH para emissão em lote;
+Permitir gerar portarias pelo sistema de RH, modelo de documentos de Gestão do RH pré
+definido no sistema;
+Avenida Tocantins, Setor Novo Horizonte, liapiratins -- TO
+Cop.. 77.718-000 fone/fax: (63) 3465-1; f;1, e-mail: cplitaoiratinsRqmail.com 42
+
+--- [pag. PDF 43] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir gerar contrato de trabalho e termo ativo, conforme modelo de documentos de
+Gestão do RH pré definido no sistema de RH;
+Disponibilizar o cadastro de Operadoras de Plano de Saúde, flexibilizando a definição das
+regras de cálculo da mensalidade por valor fixo e faixa etária, mensalidade com percentual
+sobre salário base. Os valores descontados do Plano de Saúde do funcionário e seus
+dependentes devem ser enviados de forma automática para o eSocial;
+Dispor de rotinas que permitam realizar o reajuste de salarial de forma automática por
+cargo suas tabelas;
+Ofertar o registro de servidores que possuem vínculo empregatício em outras empresas,
+permitindo informar o CNPJ da empresa, o valor da base de contribuição, a categoria de
+trabalhador para o eSocial e o período de vigência do vínculo empregatício na outra
+empresa;
+Deverá realizar o cálculo mensal do servidor que possui múltiplo vínculo, acumulando a
+base de contribuição de todos os vínculos, respeitando o limite máximo de desconto do
+INSS de acordo com a tabela oficial do INSS;
+Permitir liberação das funcionalidades por usuário e com controle de acesso restrito por
+órgão, por módulo e permitindo acesso, para visualização, alteração, inclusão, exclusão;
+Garantir os registros de todas as alterações realizadas por usuário, e permitir a pesquisa
+dessas alterações detalhando o dia, hora, usuário, informações que foram alteradas,
+informando ainda o conteúdo antes e depois das alterações;
+Dispor de mecanismo de aprovação do responsável pré-definido pelo Gestor para aprovar
+os lançamentos e alterações realizadas na folha de pagamento no mês, permitido via
+configuração que o sistema bloqueie a remessa de pagamento sem a aprovação do
+responsável;
+Permitir o cálculo para pagamento do pessoal ativo, inativo e pensionistas, tratando
+adequadamente os diversos regimes jurídicos, adiantamentos, pensões e benefícios,
+permitindo os cálculos gerais, parciais ou individuais;
+Avenida Tocantins, Setor Novo Horizonte, ltapiralins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins(WAmail.com 43
+
+--- [pag. PDF 44] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir o controle para os funcionários com término de contrato no mês cujo contrato não
+foi rescindido, emitindo mensagem de aviso e listando os funcionários que tem contrato
+vencido no mês;
+Dispor de rotina de bloqueio do cálculo mensal, não permitindo aos usuários do sistema
+realizar movimentações que afetem o resultado do cálculo já fechado. Deverá permitir o
+desbloqueio do cálculo, somente para o usuário autorizado pelo administrador;
+Dispor de rotina para emissão do relatório analítico e sintético, e sumários com os
+totalizados da folha de mês, podendo filtrar por períodos;
+Dispor de mecanismo para gerar arquivo txt, para abertura de contas juntos às instituições
+financeiras;
+Dispor de funcionalidade para importar e expostas arquivos de consignados;
+Disponibilizar mecanismo que seja exibo as últimas e funções acessadas pelo usuário
+assim como permitir ao usuário favoritar telas e funções;
+Dispor de filtro de consulta que permita o usuário localizar qualquer funcionalidade através
+da "palavra-chave" ou código da função;
+Permitir alteração de lotação de funcionário em lote;
+O sistema deverá permitir a inclusão de variáveis, via valor digitado (horas extras, faltas,
+prêmios, etc...).
+O sistema deverá permitir o arquivamento de registros que correspondam a toda vida
+funcional dos empregados permitindo a qualquer tempo à geração de fichas impressas ou
+relatórios que informem todas as variáveis de cada funcionário;
+O sistema deverá ser integrado com a contabilidade, com geração automática de
+empenhos para a contabilidade.
+Contabilizar todos os eventos da folha com a finalidade de geração de arquivos.
+Emissão de Arquivos para a SEFIP.
+Cadastro de Empregados, contendo o cadastro básico dos empregados.
+Ficha Financeira, contendo os dados históricos das Folhas de Pagamento.
+Permitir cadastrar e vincular dependentes no cadastro de funcionário informando o grau
+de parentesco;
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsRqmail.com 44
+
+--- [pag. PDF 45] ---
+11111PUlaille
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Permitir informar no cadastro do dependente se é dependente para IRRF/Salário Família;
+Fazer o controle automático do cálculo do Salário Família e dedução do IRRF
+considerando a idade limite;
+O sistema deverá inserir ou remover o evento de salário família do cadastro do
+dependente quando o mesmo atingir a idade limite;
+Permitir informar no cadastro do dependente se é dependente de Pensão alimentícia e
+informar de forma automática para o eSocial;
+Permitir informar no cadastro do dependente se é dependente de plano de saúde e
+informar de forma automática o valor do plano de saúde por CPF para o eSocial;
+Permitir emitir relatório com a lista de dependentes por funcionário e geral, possibilitando
+exportar em diversas extensões como Excel, word e PDF;
+Deve conter também:
+Lançamento de Movimento da Folha, contendo os lançamentos de verbas efetuadas para
+o cálculo da folha do mês;
+Folha de Pagamento, lançamentos, contendo os valores calculados das verbas
+constantes na folha de pagamento;
+Arquivos de Administração de Férias contém os valores de bases de cálculo e
+lançamentos de férias;
+Tabelas Genéricas do Sistema de uso genérico para a empresa, grau de instrução,
+vínculo, CBO, nacionalidade, índices financeiros.
+Tabelas Oficiais do INSS E IRRF;
+Tabelas de Programas contém a associação dos programas com as funções do programa;
+O Sistema deverá ser dotado de recursos que permitam o bloqueio através de senhas, de
+acessos por níveis de perfis permitindo que ao administrador do sistema liberar ou
+restringir acesso de acordo com os interesses da administração. Que seja controlado e
+registrado no sistema todas as inclusões, alterações e retiradas de dados do sistema, com
+controle de quando, onde e por que foram efetuadas estas ações.
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsRqmail.com 45
+
+--- [pag. PDF 46] ---
+OarleirtiNg
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+7.15 - PORTAL DA TRANSPARÊNCIA — Possibilitar o acesso via WEB de toda a
+movimentação de receitas despesas e atos municipais, dando assim acessibilidade aos
+cidadãos de todas ações do município, devendo apresentar as seguintes características ou
+possibilidades:
+Deverá publicar as informações com até 24 horas após o seu lançamento;
+O Usuário poderá escolher se a publicação será automática ou se será publicada através
+de um comando seu.
+Apresentar gráficos da receita, facilitado assim o entendimento da informação;
+Pesquisar receita por órgão, mês e ano;
+Permitir visualizar detalhadamente a receita individualmente;
+Pesquisar despesa por órgão, mês e ano;
+Permitir visualizar detalhadamente a despesa individualmente;
+Pesquisar empenhos por Órgão, fornecedor, função, elemento, demonstrando toda a
+movimentação dos respectivos empenhos;
+Pesquisar Liquidações por Órgão, fornecedor, função, elemento, demonstrando toda a
+movimentação dos respectivos empenhos;
+Pesquisar ordens de pagamentos por Órgão, fornecedor, função, elemento, demonstrando
+toda a movimentação das respectivas ordens de pagamento;
+Demonstrar todos os servidores municipais com seus respectivos cargos e lotações;
+Publicar os relatórios de Execução Orçamecitária da LRF
+Publicar os relatórios de Gestão Fiscal da LRF
+Publicar os relatórios de Metas e Riscos Fiscais da LRF
+Publicar os relatórios de Execução Orçamentária do Balancete Mensal
+Publicar os Balanços Gerais
+Publicar a Lei Orçamentária Anual
+7.16 - PORTAL E-sic — Possibilitar o requerimento via WEB de que trata a Lei 12527/2011.
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mait cplitapiratins mail.com 46
+
+--- [pag. PDF 47] ---
+Starelitruis
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Deve proporcionar o recebimento e acompanhamento de manifestações de cidadãos
+(reclamações, denúncias, sugestões).
+7.17 - PORTAL DE SERVIÇOS: ACESSO DO CIDADÃO, SERVIDORES E
+FORNECEDORES VIA INTERNET —
+Deverá o sistema permitir o acesso via WEB de contracheque de servidores;
+Permitir emissão de certidão municipal para os cidadãos e acompanhamento de processos
+protocolados neste órgão;
+Deverá permitir consulta e impressão de débitos (DUAM);
+Deverá ter uma área para fornecedores;
+Deverá permitir que fornecedores consultem as dispensas/inexigibilidades, bem como
+procedimentos licitatórios, através do portal de serviços, visualizando as informações
+públicas e anexos relacionados;
+Permitir que fornecedores façam seu credenciamento, além de poder enviar documentos e
+propostas para dispensas.
+7.18 - PLATAFORMA DE GESTÃO E APLICATIVO DE FACILIDADES DE ACESSOS
+AOS CONTRIBUINTES:
+A plataforma de gestão deverá permitir analisar através de gráficos e em tempo real as
+situações financeiras do município. Tais como relatórios operacionais e gerenciais para:
+• Informações da Receita Orçamentária
+• Receita Local
+• Despesas Orçamentárias
+• Valores Recebidos e Pagos do dia
+• Dívida a Curto e Longo Prazo
+• Recursos para Pagamento da Dívida
+• Dados de Pessoal
+• Os índices Constitucionais
+Informações diárias para acompanhamento do Fluxo de Caixa
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins qmail.com 47
+
+--- [pag. PDF 48] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+O aplicativo deve permitir ao cidadão estabelecer um canal de comunicação com a
+Prefeitura, em que é possível receber notificações e acessar todos os serviços disponíveis
+do Portal de Serviços, através de um dispositivo mobile. Deverão estar disponíveis os
+serviços de emissão de guias como IPTU, ISSQN, ITBI, Taxa de Licença, Taxa de
+Feirantes, Taxas de Ocupação de Área Pública, Taxa de Vigilância Sanitária, Imóvel,
+Econômico e Outra Taxas.
+Os apps deverão estar disponíveis para dispositivos ANDROID e APPLE.
+7.19 - BANCO DE DADOS — A disponibilização, zelo e proteção do banco de dados do
+município na rede mundial de computadores, com responsabilidade de backups.
+7.20 - DA PROVA DE CONCEITO
+A prova de conceito dos sistemas se faz necessária para a Administração verificar a
+compatibilidade entre o serviço ofertado pela licitante e a solução pretendida pela
+Administração para suas necessidades. A prova se dará na forma presencial na sede da
+Prefeitura, caso a comissão não determine diferente.
+7.20.1 - CONVOCAÇÃO, FISCALIZAÇÃO E JULGAMENTO:
+Convocação: ao final da fase de lances, o pregoeiro convocará as licitantes para a sessão
+pública que poderá, a critério da Administração, iniciar logo em seguida, na qual será
+realizado o teste de conformidade do sistema da licitante provisoriamente classificada em
+primeiro lugar com os requisitos especificados neste Termo de referência.
+4.21.1.1. Demonstrante: A licitante demonstrante poderá indicar profissional técnico
+especializado para realizar a apresentação dos sistemas.
+4.21.1.2. Fiscalização: Os demais licitantes poderão indicar 01 (um) fiscal para
+participação nos testes de conformidade, os quais não poderão se manifestar durante a
+demonstração.
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins - TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitaeiratins(&dmaiLcom 48
+
+--- [pag. PDF 49] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+4.21.1.3. Comissão Técnica de Avaliação: será criada exclusivamente para esta
+finalidade, com membros escolhidos livremente e designados pelo Município.
+4.21.2 - Na Sessão pública de demonstração:
+a) A demonstrante deverá se cadastrar junto à Comissão Técnica de Avaliação no início da
+sessão pública, assim como os fiscais que assistirão à demonstração em silêncio, sem
+manifestação.
+b) A Administração disponibilizará mesas, cadeiras, tomadas de energia e link de
+internet, bem como as informações necessárias à demonstração.
+c) A Demonstrante disporá de 30 minutos para preparar o ambiente para a
+demonstração.
+d) A demonstração ocorrerá na sequência indicada pela Comissão Técnica de Avaliação,
+com os devidos esclarecimentos solicitados pela referida Comissão, podendo ser
+realizado por AMOSTRAGEM.
+e) Encerrada a reunião, lavrar-se-á ata circunstanciada, assinada pelo pregoeiro, pela
+Comissão Técnica de Avaliação, pelos fiscais, pelo profissional técnico demonstrante e pela
+equipe de apoio.
+7.21 - DA IMPLANTAÇÃO DOS SISTEMAS e DO TREINAMENTO — A implantação e o
+treinamento se darão de forma presencial e on-line. Os sistemas deverão contemplar todos
+os órgãos e fundos da administração direta vinculados a um mesmo banco de dados
+centralizado. Os sistemas que tiverem acesso ao público via web, deverão estar em
+servidores (computador) remoto que tenham garantia de acesso de no mínimo 99,95%
+(noventa e nove vírgula noventa e cinco por cento) de disponibilidade, com no máximo de
+15 horas de indisponibilidade por ano a contar após o período da implantação quando pode
+haver indisponibilidades de maior tempo devido às cargas de dados, cujos custos de
+locação e manutenção dos servidores (computadores) remotos correrão inteiramente por
+conta da empresa locadora dos sistemas (proponente).
+Avenida Tocantins, Setor Novo Horizonte, itapiratins -- TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins(Qqmail.com 49
+
+--- [pag. PDF 50] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+7.22 - DO SUPORTE - O suporte aos sistemas deverão ser feitos através de atendimento
+via chat, telefônico, remoto, por WhatsApp ou por videoconferência, sendo que quando este
+for solicitado o deverá ser feito no prazo máximo de até 72 horas. No caso esporádico de
+ocorrer visita in loco, as despesas de estadia e alimentação correrão inteiramente por conta
+da contratante, sem qualquer ônus dos técnicos.
+7.23. CRONOGRAMA DE EXECUÇÃO: A Execução dos serviços divide-se em duas
+etapas distintas, que compreende:
+7.24 — MIGRAÇÃO DE DADOS E IMPLANTAÇÃO DE SISTEMAS — Para cada um dos
+sistemas/módulos licitados, quando couber, deverão ser cumpridas as atividades de:
+instalação, configuração, migração de dados dos anos anteriores. A migração dos dados
+provenientes dos sistemas legados e implantação dos sistemas devem ser concluídas em
+até 30 dias após o envio dos bancos de dados correspondentes. A responsabilidade pelo
+envio dos bancos de dados é da contratante.
+7.25 - SISTEMA EDUCACIONAL — Possibilita a operacionalização e gestão das atividades
+da secretaria escolar e controle pela secretaria de educação. Terá que disponibilizar o
+banco de dados na nuvem e backups automáticos.
+8. JUSTIFICATIVA PARA O PARCELAMENTO OU NÃO DO OBJETO
+8.1 De acordo com a Lei 14.133/2021, o planejamento dos serviços deve considerar a
+expectativa de consumo anual e observar o princípio do parcelamento, quando for
+tecnicamente viável e economicamente vantajoso.
+8.2 O objetivo da norma é ampliar a competitividade, sobretudo porque algumas empresas
+podem não ter capacidade ou condições de ofertar a integralidade do objeto, mas apenas
+uma parte dele, razão pela qual a adjudicação conjunta inviabilizaria a participação delas
+no certame.
+8.3 Verifica-se que o parcelamento em lotes ou itens autônomos do objeto é a regra e o
+agrupamento em lote único é a exceção, que deve ser previamente justificada no processo
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsQqmail.com 50
+
+--- [pag. PDF 51] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+administrativo.
+8.4 As normas que disciplinam as licitações públicas devem ser interpretadas em favor da
+ampliação da disputa entre os interessados, desde que informadas no edital e não
+comprometam o interesse da Administração, o princípio da isonomia, a finalidade e a
+segurança da contratação.
+8.5 No presente caso, a contratação em lote único é justificada pela elevada integração e
+interdependência entre os módulos que compõem a solução. Os módulos compartilham
+cadastros, bases de dados, rotinas e informações, de modo que a contratação de
+fornecedores distintos poderá aumentar os riscos de incompatibilidade, falhas de
+integração, duplicidade de informações, dificuldades de responsabilização e elevação dos
+custos de suporte e manutenção.
+8.6 A opção pela contratação em lote único, sem prejuízo da análise de eventual
+parcelamento tecnicamente viável no Termo de Referência, busca assegurar a integração
+da solução e a responsabilização de um único fornecedor pelo funcionamento conjunto dos
+módulos. A decisão deverá observar a demonstração de que a contratação conjunta é
+tecnicamente justificável e não restringe indevidamente a competitividade. que vem
+expressamente previsto no artigo 70 da Constituição Federal e representa, em síntese, a
+promoção de resultados esperados com o menor custo possível, analisados sob critérios
+de qualidade, celeridade e menor custo na prestação do serviço ou no trato com os bens
+públicos, devendo-se atentar para a necessidade de avaliação abrangente de custo da
+contratação, incluindo também os custos indiretos, tais como: elaboração do ETP, TR e das
+especificações, que consome muito esforço de levantamento, realização de estimativas,
+definição de minuta de contratação e agilidade no processo licitatório. Nesse sentido, a
+licitação em lote é melhor para o controle, gestão e fiscalização do contrato, tendo em vista
+que são compras que necessitam lisura e economicidade.
+8.7 A contratação conjunta poderá proporcionar maior eficiência na gestão e fiscalização
+contratual, reduzir custos de integração e facilitar a responsabilização por eventuais falhas.
+A Administração deverá, contudo, registrar no processo a pesquisa de mercado que
+demonstre a existência de fornecedores aptos a atender integralmente ao objeto, de modo
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@qmail.com 51
+
+--- [pag. PDF 52] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+a preservar a competitividade e evitar restrição indevida à disputa.
+8.8 Assim, considerando a natureza integrada da solução, a Administração entende que a
+contratação conjunta dos módulos é tecnicamente adequada, desde que a pesquisa de
+mercado confirme a existência de fornecedores em quantidade suficiente e que a decisão
+seja devidamente motivada nos autos, em observância aos princípios da competitividade,
+economicidade, eficiência e interesse público.
+9. RESULTADOS PRETENDIDOS
+9.1 Com a contratação, pretende-se alcançar os seguintes resultados:
+• Garantir a continuidade e a eficiência na execução das rotinas administrativas;
+• Assegurar a disponibilidade permanente de materiais essenciais para elaboração de
+documentos, registros e comunicação institucional;
+• Evitar interrupções nos serviços por falta de insumos básicos;
+• Melhorar a organização, o controle e o arquivamento de informações;
+• Contribuir para a qualidade e agilidade no atendimento ao público e às demandas
+internas;
+• Promover maior produtividade e desempenho das equipes de trabalho.
+• Atender ao princípio da economicidade, mediante regular e adequado certame
+licitatório, que visa a competitividade entre empresas de variados ramos de
+atividades e cujo fator preponderante é a proposta mais vantajosa.
+10. PROVIDÊNCIAS A SEREM ADOTADAS
+10.1 Antes do início da execução deverão ser adotadas as providências necessárias à
+implantação ou continuidade da solução, incluindo a definição dos usuários e respectivos
+perfis de acesso, disponibilização das informações necessárias à migração, validação dos
+dados migrados, organização do cronograma de implantação, treinamento dos usuários e
+acompanhamento técnico pela Administração. Por se tratar de solução já utilizada pelo
+Avenida Tocantins, Setor Novo Horizonte, ltapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins qmaitcom 52
+
+--- [pag. PDF 53] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+Município, deverá ser priorizada a continuidade dos serviços e a preservação dos dados e
+históricos existentes, quando tecnicamente aplicável.
+11. COMPRA/CONTRATAÇÃO CORRELATA E/OU INTERDEPENDENTE
+11.1 A contratação possui relação com os serviços e sistemas atualmente utilizados pelo
+Município, devendo ser considerada, quando aplicável, a continuidade operacional, a
+migração ou preservação dos dados, as integrações existentes e os procedimentos
+necessários para evitar interrupção dos serviços.
+12. ESTIMATIVA DO VALOR DA CONTRATAÇÃO
+12.1. A Lei n. 14.133/2021 faz remissões à estimativa de custos como baliza procedimental
+necessária nas licitações públicas. O inciso XXII, alínea "i" do artigo 6° da referida lei
+determina que o Termo de Referência deverá conter estimativas do valor da contratação,
+acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos
+documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços
+e para os respectivos cálculos, que devem constar de documento separado e classificado."
+12.2. Ainda, o art. 24 da referida lei prescreve que, desde que justificado, o orçamento
+estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do
+detalhamento dos quantitativos e das demais informações necessárias para a elaboração
+das propostas.
+12.3. Desta forma, observa-se que a Lei 14.133/2021 estabelece uma
+competência discricionária, de forma que a autoridade responsável pela licitação decida
+se o orçamento estimado da contratação será ou não sigiloso. Isso porque, o art. 24 não
+obriga a adoção do caráter sigiloso, mas apenas prevê que: "Desde que justificado, o
+orçamento estimado da contratação poderá ter caráter sigiloso".
+12.4. Essa discricionariedade encontra amparo também no inciso XI do art. 18 da Lei
+14.133/2021, o qual prevê que a fase preparatória do processo licitatório deverá
+compreender, dentre outras informações, a motivação sobre o momento da divulgação do
+orçamento da licitação, observado o art. 24 da mesma Lei.
+Avenida Tocantins, Setor Novo Horizonte, itapiratins - TO (-Je
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: colitapiratinsffiqmail.com 53
+
+--- [pag. PDF 54] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+12.5. Optando por manter em sigilo o valor orçado da contratação, conforme dispõe o inciso
+I do art. 24 em comento, o sigilo não prevalecerá para os órgãos de controle interno e
+externo.
+12.6. Atualmente, principalmente devido a instabilidade econômica, há excessiva
+dificuldade do Setor de Compras da Prefeitura na obtenção de estimativas que, de fato,
+refletem a realidade do mercado, podendo gerar, por inúmeras vezes, estimativas
+superfaturadas.
+12.7. Porém, a dificuldade do setor de compras da Prefeitura em obter valores orçados, já
+que estes dependem, na maior parte das vezes, da participação de possíveis fornecedores,
+eleva os valores estimados, fazendo com que os preços médios sejam diretamente
+afetados e, consequentemente, resultando em estimativas além dos valores reais de
+mercado.
+12.8. Por outro lado, realizar pesquisas de preços somente em banco de preços públicos,
+certamente praticados por outros municípios do Estado, acarretará normalmente valores
+estimados abaixo do preço de mercado, haja vista que esses preços normalmente estão
+bem abaixo do preço de mercado, devido à instabilidade econômica que o país vem
+enfrentando nos últimos anos. Procedendo desta forma, muitos itens licitados acabam por
+fracassados ou desertos.
+12.9. Na prática, observou-se que ao divulgar o orçamento estimado, as licitantes
+costumam agir de duas formas. A primeira, sabendo que o valor estimado, o qual servirá
+de limite máximo aceitável na contratação, encontra-se abaixo do preço de mercado,
+deixam de ofertar seus preços, resultando em licitação deserta. A segunda, conhecendo o
+valor estimado que a Prefeitura está disposta a pagar, baseado em estimativa prévia, e este
+estando acima do preço de mercado, as empresas tendem a praticar os preços tendo como
+referência esse valor máximo estimado, não permitindo que as leis de mercado ajam na
+formação de preços a serem ofertados.
+12.10. Quando da adoção do orçamento sigiloso, as empresas licitantes deverão
+apresentar sua proposta com base em suas próprias estimativas de custos, deixando de
+usar a referência de preços que a Administração disponibilizou. Força-se, assim, que as
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratins@qmail.com 54
+
+--- [pag. PDF 55] ---
+oãPlicaTtlis
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+licitantes tenham uma área profissional de orçamentação/custos, capaz de formar o preço
+de mercado da empresa para aquela realidade de contratação.
+12.11. Conforme pacificado pelo TCU, no Acórdão 3011/2012 — Plenário, a adoção do
+orçamento sigiloso é medida discricionária, devendo o gestor adotar quando entender que
+essa restrição implicará na obtenção da proposta mais vantajosa, sendo de igual maneira
+discricionária, medida a ser afastada quando não tiver o condão de atrair melhores
+propostas.
+12.12. Diante do exposto, por concluirmos ser mais vantajoso para a Administração e no
+sentido de evitar contratações com sobre preço ou com preços manifestamente
+inexequíveis ou, ainda, superfaturados, o valor estimado da contratação será sigiloso, sem
+acesso às licitantes. Mantendo o sigilo até a fase da homologação.
+13. POSSÍVEIS IMPACTOS AMBIENTAIS
+13.1 Por se tratar predominantemente de solução informatizada, os impactos ambientais
+diretos são reduzidos. Como medidas t_!_ sustentabilidade, poderão ser priorizadas
+soluções em ambiente de nuvem que reduzam a necessidade de infraestrutura física local,
+bem como recursos que favoreçam a digitalização de documentos, a redução do uso de
+papel e a racionalização do armazenamento físico de informações, observadas as
+necessidades de segurança, disponibilidade e continuidade dos serviços.
+14. POSICIONAMENTO CONCLUSIVO
+14.1 0 presente Estudo Técnico Preliminar demonstra a necessidade e a viabilidade da
+contratação de empresa especializada para disponibilização, implantação, hospedagem,
+manutenção, atualização e suporte técnico de sistema integrado de gestão pública,
+destinado a atender às necessidades da Prefeitura Municipal de Itapiratins — TO e dos
+Fundos Municipais participantes. A solução mostra-se necessária para assegurar a
+continuidade das atividades administrativas, a integração das informações, a segurança
+dos dados, o cumprimento das obrigações legais e o atendimento às demandas dos órgãos
+de controle.
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-maii: cplitapiratinsQqmail.com 55
+
+--- [pag. PDF 56] ---
+ESTADO DO TOCANTINS
+PREFEITURA MUNICIPAL DE ITAPIRATINS
+CNPJ N°37.425.683/0001-39
+ADM.: 2025/2028
+14.2 Por fim, conclui-se que a contratação pretendida é adequada às necessidades
+identificadas pela Administração, desde que o Termo de Referência, a pesquisa de preços,
+o edital e os demais documentos da fase preparatória sejam elaborados e compatibilizados
+com as especificações deste ETP e com a legislação aplicável.
+Itapiratins - TO, 17 de junho de 2026.
+MARCIR
+Secretaria
+ES DA SILVA
+ide Administração
+Avenida Tocantins, Setor Novo Horizonte, Itapiratins — TO
+Cep: 77.718-000 fone/fax: (63) 3465-1151, e-mail: cplitapiratinsQqmail.com 56
