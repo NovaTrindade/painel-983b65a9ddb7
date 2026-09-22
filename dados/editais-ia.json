@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-22T05:21:08.754Z",
+ "gerado": "2026-09-22T17:29:50.511Z",
  "referencia": "2026-09-22",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
@@ -10,39 +10,39 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2568,
-  "excluidosPorPalavraChave": 1333,
-  "excluidosQueSeriamCandidatos": 94,
+  "universoAberto": 2499,
+  "excluidosPorPalavraChave": 1300,
+  "excluidosQueSeriamCandidatos": 88,
   "custoPorTermo": {
-   "aquisicao": 78,
+   "aquisicao": 72,
    "fornecimento": 14
   },
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1110,
-  "candidatos": 125,
-  "itensObtidos": 125,
+  "descartadosPorAderencia": 1085,
+  "candidatos": 114,
+  "itensObtidos": 114,
   "itensFalhou": 0,
-  "foraPorValor": 86,
-  "semValorPublicado": 13,
+  "foraPorValor": 75,
+  "semValorPublicado": 14,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 506,
-    "novos": 503,
-    "paginasOk": 11,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 487,
+    "novos": 387,
+    "paginasOk": 8,
+    "paginasFalhas": 2,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 19,
+    "total": 17,
     "novos": 4,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -53,8 +53,8 @@
    {
     "consulta": "chromebook",
     "linha": "hardware",
-    "total": 15,
-    "novos": 7,
+    "total": 14,
+    "novos": 5,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -64,8 +64,8 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 248,
-    "novos": 104,
+    "total": 238,
+    "novos": 126,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -75,8 +75,8 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 910,
-    "novos": 546,
+    "total": 886,
+    "novos": 574,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -86,8 +86,8 @@
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 291,
-    "novos": 73,
+    "total": 274,
+    "novos": 71,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -97,8 +97,8 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 137,
-    "novos": 76,
+    "total": 133,
+    "novos": 70,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -108,7 +108,7 @@
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
-    "total": 48,
+    "total": 44,
     "novos": 15,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -119,8 +119,8 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 328,
-    "novos": 181,
+    "total": 325,
+    "novos": 187,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -130,8 +130,8 @@
    {
     "consulta": "tablets",
     "linha": "hardware",
-    "total": 97,
-    "novos": 21,
+    "total": 91,
+    "novos": 17,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -141,8 +141,8 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 38,
-    "novos": 36,
+    "total": 40,
+    "novos": 38,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -153,7 +153,7 @@
     "consulta": "locacao computador",
     "linha": "hardware",
     "total": 121,
-    "novos": 0,
+    "novos": 2,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -163,8 +163,8 @@
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 57,
-    "novos": 0,
+    "total": 55,
+    "novos": 7,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -174,9 +174,9 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 813,
-    "novos": 681,
-    "paginasOk": 17,
+    "total": 785,
+    "novos": 664,
+    "paginasOk": 16,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -196,8 +196,8 @@
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 280,
-    "novos": 102,
+    "total": 274,
+    "novos": 104,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -229,8 +229,8 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 137,
-    "novos": 70,
+    "total": 136,
+    "novos": 69,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -240,8 +240,8 @@
    {
     "consulta": "indexacao documentos",
     "linha": "ged",
-    "total": 25,
-    "novos": 2,
+    "total": 24,
+    "novos": 1,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -284,8 +284,8 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 124,
-    "novos": 54,
+    "total": 122,
+    "novos": 61,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -295,8 +295,8 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 44,
-    "novos": 33,
+    "total": 45,
+    "novos": 34,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -317,8 +317,8 @@
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 51,
-    "novos": 21,
+    "total": 52,
+    "novos": 24,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -339,7 +339,7 @@
    {
     "consulta": "btus [RJ]",
     "linha": "climatizacao",
-    "total": 10,
+    "total": 9,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -349,24 +349,24 @@
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 0,
-  "paginasPerdidas": 0,
+  "consultasParciais": 1,
+  "paginasPerdidas": 2,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 5.7
+  "minutosBusca": 11.5
  },
  "resumo": {
   "total": 39,
   "prioridade": 6,
-  "avaliar": 8,
+  "avaliar": 7,
   "triar": 12,
-  "semValor": 13,
-  "rj": 10,
-  "urgentes7d": 22,
-  "valorTotal": 289735812.59,
-  "valorRJ": 28123973.68,
-  "valorUrgentes": 152451712.97,
-  "suspeitos": 1,
+  "semValor": 14,
+  "rj": 9,
+  "urgentes7d": 18,
+  "valorTotal": 306366055.29,
+  "valorRJ": 28660723.87,
+  "valorUrgentes": 131602397.43,
+  "suspeitos": 0,
   "porLinha": {
    "hardware": 24,
    "ged": 13,
@@ -442,39 +442,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/29131075000193/2026/47"
   },
   {
-   "id": "07810468000190-2026-121",
-   "orgao": "MUNICIPIO DE IGUATU",
-   "municipio": "Iguatu",
-   "uf": "CE",
-   "objeto": "Registro de Preços para futura e eventual contratação de empresa especializada para prestação de serviço contínuo de locação de equipamentos de informática, com suporte técnico, assistência técnica especializada, manutenção preventiva e corretiva In loco, substituição de equipamentos defeituosos, gestão de ativos e atendimento estruturado com base nas boas práticas de ITIL e níveis mínimos de serviço (SLAs) definidos contratualmente, para atender às necessidades permanentes das Diversas Secretarias do Município de Iguatu-CE, observadas as especificações técnicas, quantitativos estimados e demais condições estabelecidas neste Termo de Referência. ",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "2026.09.01.02",
-   "fimVigencia": "2026-09-22T07:30",
-   "diasRestantes": 0,
-   "valorEstimado": 5798240.4,
-   "qtdItens": 4,
-   "modulos": [
-    "locacao de equipamentos de informatica",
-    "equipamentos de informatica",
-    "locacao",
-    "informatica",
-    "assistencia tecnica",
-    "manutencao preventiva",
-    "suporte tecnico"
-   ],
-   "ader": 86,
-   "score": 90,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/07810468000190/2026/121"
-  },
-  {
    "id": "18428839000190-2026-109",
    "orgao": "MUNICIPIO DE UBERABA",
    "municipio": "Uberaba",
@@ -508,6 +475,41 @@
    "passaPiso": true,
    "semValor": false,
    "pncpUrl": "https://pncp.gov.br/app/editais/18428839000190/2026/109"
+  },
+  {
+   "id": "21270505000146-2026-32",
+   "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINATARIO DO ALTO RIO GRANDE",
+   "municipio": "Lavras",
+   "uf": "MG",
+   "objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE LOCAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, INCLUINDO FORNECIMENTO, INSTALAÇÃO, CONFIGURAÇÃO, LICENCIAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO, SUBSTITUIÇÃO DEFINITIVA, GESTÃO DE ATIVOS E CHAMADOS, ACESSO REMOTO SEGURO E SOLUÇÃO CORPORATIVA DE PROTEÇÃO, DETECÇÃO E RESPOSTA PARA ENDPOINTS, COM GERENCIAMENTO CENTRALIZADO EM NUVEM, MONITORAMENTO AUTOMATIZADO E OPERAÇÃO DE SEGURANÇA, PARA ATENDIMENTO DAS DEMANDAS DOS MUNICÍPIOS CONSORCIADOS DO CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE - CIMARG.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "045",
+   "fimVigencia": "2026-10-05T09:00",
+   "diasRestantes": 13,
+   "valorEstimado": 26590469.76,
+   "qtdItens": 4,
+   "modulos": [
+    "locacao de equipamentos de informatica",
+    "equipamentos de informatica",
+    "estacao de trabalho",
+    "notebook",
+    "locacao",
+    "informatica",
+    "suporte tecnico",
+    "instalacao",
+    "prestacao de servicos"
+   ],
+   "ader": 100,
+   "score": 88,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/21270505000146/2026/32"
   },
   {
    "id": "13927801000300-2026-146",
@@ -572,66 +574,6 @@
    "passaPiso": true,
    "semValor": false,
    "pncpUrl": "https://pncp.gov.br/app/editais/12367892000142/2026/153"
-  },
-  {
-   "id": "00394502000144-2026-11871",
-   "orgao": "COMANDO DA MARINHA",
-   "municipio": "Niterói",
-   "uf": "RJ",
-   "objeto": "Aparelho de ar condicionado\nTipo de Ar Condicionado: Split\nCapacidade Total de Ar: 18000 BTUs\nTipo de Compressor: Inverter\nCiclo de Ar: Frio\nTensão Elétrica: 220V\nFluído: R32\nFunções Ar Condicionado: Auto Limpante, Controle de Temperatura, \nOscilar, Resfriar, Sleep, Timer, Turbo e Ventilação\nAcompanha Controle Remoto\nResistência à Maresia\nNível de resistência à Maresia: Alta\nMaterial da Serpentina: Serpentina de Cobre\nModelo: Split High Wall\n",
-   "modalidade": "Dispensa",
-   "linhas": [
-    "climatizacao"
-   ],
-   "numero": "16",
-   "fimVigencia": "2026-09-22T08:20",
-   "diasRestantes": 0,
-   "valorEstimado": 3623.85,
-   "qtdItens": 1,
-   "modulos": [
-    "ar condicionado",
-    "refrigeracao",
-    "btus",
-    "split"
-   ],
-   "ader": 65,
-   "score": 80,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/00394502000144/2026/11871"
-  },
-  {
-   "id": "00394452000103-2026-19695",
-   "orgao": "COMANDO DO EXERCITO",
-   "municipio": "Rio de Janeiro",
-   "uf": "RJ",
-   "objeto": "Contratação de empresa especializada na prestação de serviços continuados de impressãocorporativa por meio de outsourcing, contemplando o fornecimento de impressoras multifuncionais, software de gerenciamento de impressões, assistência técnica, manutenção corretiva e preventivados equipamentos com substituição de peças, componentes e materiais utilizados na manutençãoeo fornecimento de insumos originais",
-   "modalidade": "Dispensa",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "104",
-   "fimVigencia": "2026-09-22T08:00",
-   "diasRestantes": 0,
-   "valorEstimado": 56609.28,
-   "qtdItens": 3,
-   "modulos": [
-    "outsourcing",
-    "locacao",
-    "assistencia tecnica",
-    "prestacao de servicos"
-   ],
-   "ader": 46,
-   "score": 73,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/00394452000103/2026/19695"
   },
   {
    "id": "39485412000102-2026-47",
@@ -836,33 +778,39 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/34808220000168/2026/26"
   },
   {
-   "id": "21505692000108-2026-56",
-   "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DA AREA MINEIRA DA SUDENE",
-   "municipio": "Montes Claros",
-   "uf": "MG",
-   "objeto": "[Portal de Compras Públicas] - REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE TABLETS, DESTINADOS AO ATENDIMENTO DAS DEMANDAS DOS MUNICÍPIOS CONSORCIADOS AO CIMAMS",
+   "id": "56089790000188-2026-297",
+   "orgao": "SECRETARIA DE INFRAESTRUTURA E MEIO AMBIENTE",
+   "municipio": "São Paulo",
+   "uf": "SP",
+   "objeto": "Contratação de serviços continuados de locação de computadores desktop, workstations e notebooks, destinados à Sede, unidades descentralizadas e órgãos vinculados da SEMIL, incluindo fornecimento, instalação, configuração, manutenção preventiva e corretiva, suporte técnico, substituição de peças e equipamentos, gestão de ativos e chamados, logística, Central de Atendimento e posto técnico residente, com implantação e entrega em etapas.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
     "hardware"
    ],
-   "numero": "047",
-   "fimVigencia": "2026-09-22T08:55",
-   "diasRestantes": 0,
-   "valorEstimado": 14990842.01,
-   "qtdItens": 2,
+   "numero": "158",
+   "fimVigencia": "2026-10-08T09:00",
+   "diasRestantes": 16,
+   "valorEstimado": 0,
+   "qtdItens": 1,
    "modulos": [
-    "tablet",
+    "locacao de computador",
+    "estacao de trabalho",
+    "notebook",
+    "desktop",
     "locacao",
-    "prestacao de servicos"
+    "computador",
+    "manutencao preventiva",
+    "suporte tecnico",
+    "instalacao"
    ],
-   "ader": 32,
+   "ader": 100,
    "score": 64,
    "suspeito": [],
    "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/21505692000108/2026/56"
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/56089790000188/2026/297"
   },
   {
    "id": "04477642000137-2026-61",
@@ -894,6 +842,66 @@
    "passaPiso": true,
    "semValor": false,
    "pncpUrl": "https://pncp.gov.br/app/editais/04477642000137/2026/61"
+  },
+  {
+   "id": "39547500000183-2026-75",
+   "orgao": "MUNICIPIO DE GUAPIMIRIM",
+   "municipio": "Guapimirim",
+   "uf": "RJ",
+   "objeto": "A presente licitação tem como objeto a contratação de empresa para prestação de serviços de manutenção preventiva e corretiva em aparelhos e ar-condicionado, em atendimento às necessidades da Secretaria Municipal de Administração.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "climatizacao"
+   ],
+   "numero": "22",
+   "fimVigencia": "2026-10-05T23:59",
+   "diasRestantes": 14,
+   "valorEstimado": 596983.32,
+   "qtdItens": 10,
+   "modulos": [
+    "ar-condicionado",
+    "split",
+    "manutencao preventiva",
+    "prestacao de servicos"
+   ],
+   "ader": 42,
+   "score": 63,
+   "suspeito": [],
+   "semPiso": true,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/39547500000183/2026/75"
+  },
+  {
+   "id": "04794681000168-2026-94",
+   "orgao": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE RONDONIA",
+   "municipio": "Porto Velho",
+   "uf": "RO",
+   "objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE ESTAÇÃO DE SERVIÇOS LOCAÇÃO DE OUTSOURCING DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO (TI), pelo prazo de 12 (doze) meses, a pedido da Superintendência de Informática.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "71",
+   "fimVigencia": "2026-10-09T10:00",
+   "diasRestantes": 17,
+   "valorEstimado": 10292105.16,
+   "qtdItens": 10,
+   "modulos": [
+    "outsourcing",
+    "estacao de trabalho",
+    "locacao",
+    "informatica"
+   ],
+   "ader": 62,
+   "score": 62,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/04794681000168/2026/94"
   },
   {
    "id": "63325328000106-2026-1",
@@ -1548,7 +1556,7 @@
    "numero": "006",
    "fimVigencia": "2027-04-28T00:00",
    "diasRestantes": 218,
-   "valorEstimado": 0.15,
+   "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
     "gestao documental",
@@ -1556,9 +1564,7 @@
    ],
    "ader": 30,
    "score": 23,
-   "suspeito": [
-    "valor irrisorio"
-   ],
+   "suspeito": [],
    "semPiso": false,
    "valorConhecido": false,
    "passaPiso": false,
