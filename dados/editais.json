@@ -1,19 +1,19 @@
 {
- "gerado": "2026-09-22T05:14:21.221Z",
+ "gerado": "2026-09-22T17:17:02.827Z",
  "referencia": "2026-09-22",
  "criterioVersao": 3,
  "execucao": {
-  "universoAberto": 2981,
-  "descartados": 2947,
-  "candidatos": 34,
-  "itensObtidos": 34,
+  "universoAberto": 2927,
+  "descartados": 2895,
+  "candidatos": 32,
+  "itensObtidos": 32,
   "itensFalhou": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 654,
-    "novos": 649,
-    "paginasOk": 14,
+    "total": 642,
+    "novos": 631,
+    "paginasOk": 13,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -21,7 +21,7 @@
    },
    {
     "consulta": "gestao municipal",
-    "total": 778,
+    "total": 758,
     "novos": 349,
     "paginasOk": 14,
     "paginasFalhas": 0,
@@ -31,8 +31,8 @@
    },
    {
     "consulta": "sistema integrado",
-    "total": 1792,
-    "novos": 563,
+    "total": 1745,
+    "novos": 554,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -41,8 +41,8 @@
    },
    {
     "consulta": "licenciamento uso",
-    "total": 216,
-    "novos": 140,
+    "total": 203,
+    "novos": 130,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -51,8 +51,8 @@
    },
    {
     "consulta": "software gestao",
-    "total": 203,
-    "novos": 45,
+    "total": 200,
+    "novos": 43,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -61,8 +61,8 @@
    },
    {
     "consulta": "locacao software",
-    "total": 174,
-    "novos": 77,
+    "total": 169,
+    "novos": 75,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -71,8 +71,8 @@
    },
    {
     "consulta": "cessao uso",
-    "total": 114,
-    "novos": 59,
+    "total": 110,
+    "novos": 52,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -82,7 +82,7 @@
    {
     "consulta": "arrecadacao",
     "total": 299,
-    "novos": 255,
+    "novos": 252,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -91,8 +91,8 @@
    },
    {
     "consulta": "tributaria",
-    "total": 315,
-    "novos": 83,
+    "total": 313,
+    "novos": 81,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,8 +101,8 @@
    },
    {
     "consulta": "folha pagamento",
-    "total": 288,
-    "novos": 206,
+    "total": 282,
+    "novos": 204,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -111,9 +111,9 @@
    },
    {
     "consulta": "gestao educacional",
-    "total": 53,
-    "novos": 3,
-    "paginasOk": 2,
+    "total": 47,
+    "novos": 2,
+    "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -121,8 +121,8 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 137,
-    "novos": 21,
+    "total": 135,
+    "novos": 22,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -131,8 +131,8 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 939,
-    "novos": 500,
+    "total": 915,
+    "novos": 503,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -142,7 +142,7 @@
    {
     "consulta": "conversao dados",
     "total": 92,
-    "novos": 31,
+    "novos": 29,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -155,48 +155,19 @@
   "paginasPerdidas": 0,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 4.4
+  "minutosBusca": 8.2
  },
  "resumo": {
-  "total": 34,
-  "prioridade": 5,
+  "total": 32,
+  "prioridade": 4,
   "avaliar": 2,
-  "triar": 27,
-  "urgentes7d": 14,
-  "valorTotal": 15437326.88,
-  "valorUrgentes": 12697168.72,
-  "suspeitos": 6
+  "triar": 26,
+  "urgentes7d": 11,
+  "valorTotal": 14859386.36,
+  "valorUrgentes": 11935780.96,
+  "suspeitos": 1
  },
  "editais": [
-  {
-   "id": "03217916000196-2026-55",
-   "orgao": "MUNICIPIO DE BELA VISTA",
-   "municipio": "Bela Vista",
-   "uf": "MS",
-   "objeto": "[LICITANET] - “Contratação de empresa especializada em Tecnologia da\nInformação para locação de licença de direito de uso não permanente\nde Sistema Integrado de Gestão Pública, em plataforma/arquitetura\nWEB, incluindo implantação, migração e conversão de dados,\ntreinamento, manutenção, suporte técnico, atualizações e demais\nserviços correlatos, para atender à Prefeitura Municipal, Câmara\nMunicipal e SAAE de Bela Vista/MS, conforme especificações do Termo\nde Referência”.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "24",
-   "fimVigencia": "2026-09-22T08:30",
-   "diasRestantes": 0,
-   "valorEstimado": 292799.76,
-   "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "sistema integrado",
-    "gestao publica",
-    "contabil",
-    "compras e licitac",
-    "implantacao",
-    "migracao",
-    "almoxarifado",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 100,
-   "score": 95,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/03217916000196/2026/55"
-  },
   {
    "id": "13845466000130-2026-131",
    "orgao": "MUNICIPIO DE TEOFILANDIA",
@@ -449,27 +420,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/39467292000102/2026/66"
   },
   {
-   "id": "07063589000116-2026-15",
-   "orgao": "MUNICIPIO DE CAPISTRANO",
-   "municipio": "Capistrano",
-   "uf": "CE",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE CONSULTORIA E ASSESSORIA TRIBUTÁRIA MUNICIPAL, COMPREENDENDO O APOIO TÉCNICO À APURAÇÃO, AO MONITORAMENTO E AO ACOMPANHAMENTO DO VALOR ADICIONADO FISCAL – VAF, COM UTILIZAÇÃO DE SOLUÇÃO TECNOLÓGICA PARA LEITURA E PROCESSAMENTO DE INFORMAÇÕES FISCAIS, BEM COMO O SUPORTE À GESTÃO, AO PLANEJAMENTO E AOS PROCEDIMENTOS ADMINISTRATIVOS DE FISCALIZAÇÃO E ARRECADAÇÃO DOS TRIBUTOS DE COMPETÊNCIA DO MUNICÍPIO...",
-   "modalidade": "Concorrência - Eletrônica",
-   "numero": "0901022026",
-   "fimVigencia": "2026-09-22T09:00",
-   "diasRestantes": 0,
-   "valorEstimado": 168588,
-   "qtdItens": 2,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 72,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/07063589000116/2026/15"
-  },
-  {
    "id": "19875020000134-2026-84",
    "orgao": "MUNICIPIO DE TIMOTEO",
    "municipio": "Timóteo",
@@ -668,27 +618,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83497594000115/2026/41"
   },
   {
-   "id": "08993909000108-2026-141",
-   "orgao": "MUNICIPIO DE ESPERANCA",
-   "municipio": "Esperança",
-   "uf": "PB",
-   "objeto": "Contratação de Instituição Financeira Pública ou Privada, inclusive sob a forma de Cooperativa de Crédito, autorizada a funcionar pelo Banco Central do Brasil, para a prestação de serviços de centralização, processamento e gerenciamento, pelo período de 60 meses, de créditos da folha de pagamento dos servidores públicos ativos e inativos da administração direta e indireta do município de Esperança/PB a centralização da arrecadação das receitas municipais.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "4",
-   "fimVigencia": "2026-09-22T09:30",
-   "diasRestantes": 0,
-   "valorEstimado": 300000,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 0,
-   "score": 50,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/08993909000108/2026/141"
-  },
-  {
    "id": "75771279000106-2026-93",
    "orgao": "MUNICIPIO DE CALIFORNIA",
    "municipio": "Califórnia",
@@ -738,6 +667,32 @@
    "score": 46,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13750681000157/2026/68"
+  },
+  {
+   "id": "95640322000101-2026-82",
+   "orgao": "CONSORCIO INT DE SAUDE DA COM DOS M DA REG DE C MOURAO",
+   "municipio": "Campo Mourão",
+   "uf": "PR",
+   "objeto": "Contratação de empresa especializada para o fornecimento de Sistema Integrado de Gestão em Saúde Pública, sob o modelo de licenciamento por assinatura (Software como Serviço), destinado a atender o Consórcio Intermunicipal de Saúde da Comunidade dos Municípios da Região de Campo Mourão - CISCOMCAM, contemplando os módulos de agendamento e regulação, prontuário eletrônico do paciente, atendimento odontológico, laboratório e diagnóstico por imagem, autorização de procedimentos ambulatoriais de alta complexidade (APAC), tratamento fora do domicílio (TFD) e transporte sanitário, painel eletrônico de chamadas, configurações de sistema, importações, exportações e integrações com sistemas do Ministério da Saúde, faturamento, programa de atenção especializada, comunicação com o paciente, certificação digital, gestão de credenciamento de prestadores e aplicativo móvel de digitalização, incluindo, sem custo adicional, os serviços de hospedagem em nuvem, migração de dados, implantação, parametrização, capacitação inicial dos usuários, suporte técnico e manutenção contínua.",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "5",
+   "fimVigencia": "2026-10-06T09:00",
+   "diasRestantes": 14,
+   "valorEstimado": 183447.24,
+   "qtdItens": 2,
+   "modulos": [
+    "sistema integrado",
+    "prontuario",
+    "implantacao",
+    "migracao",
+    "software",
+    "suporte tecnico",
+    "nuvem"
+   ],
+   "ader": 0,
+   "score": 40,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/95640322000101/2026/82"
   },
   {
    "id": "13784384000122-2026-43",
@@ -801,7 +756,7 @@
    "numero": null,
    "fimVigencia": "2027-05-18T17:00",
    "diasRestantes": 239,
-   "valorEstimado": 1,
+   "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
     "arrecadac",
@@ -810,9 +765,7 @@
    ],
    "ader": 58,
    "score": 34,
-   "suspeito": [
-    "valor irrisorio"
-   ],
+   "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83074294000123/2026/126"
   },
   {
@@ -825,7 +778,7 @@
    "numero": null,
    "fimVigencia": "2030-12-30T00:00",
    "diasRestantes": 1560,
-   "valorEstimado": 1,
+   "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
     "arrecadac",
@@ -834,10 +787,7 @@
    ],
    "ader": 58,
    "score": 34,
-   "suspeito": [
-    "valor irrisorio",
-    "data de encerramento implausivel"
-   ],
+   "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102657000197/2024/115"
   },
   {
@@ -850,7 +800,7 @@
    "numero": null,
    "fimVigencia": "2027-05-03T17:00",
    "diasRestantes": 224,
-   "valorEstimado": 0.01,
+   "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
     "arrecadac",
@@ -859,9 +809,7 @@
    ],
    "ader": 58,
    "score": 32,
-   "suspeito": [
-    "valor irrisorio"
-   ],
+   "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102475000116/2026/46"
   },
   {
@@ -874,7 +822,7 @@
    "numero": null,
    "fimVigencia": "2050-12-30T23:59",
    "diasRestantes": 8866,
-   "valorEstimado": 0.01,
+   "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
     "arrecadac",
@@ -884,7 +832,6 @@
    "ader": 58,
    "score": 32,
    "suspeito": [
-    "valor irrisorio",
     "data de encerramento implausivel"
    ],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102574000106/2023/199"
@@ -899,7 +846,7 @@
    "numero": null,
    "fimVigencia": "2030-04-01T11:20",
    "diasRestantes": 1287,
-   "valorEstimado": 0.01,
+   "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
     "arrecadac",
@@ -908,10 +855,7 @@
    ],
    "ader": 58,
    "score": 32,
-   "suspeito": [
-    "valor irrisorio",
-    "data de encerramento implausivel"
-   ],
+   "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83102756000179/2024/23"
   },
   {
@@ -924,7 +868,7 @@
    "numero": null,
    "fimVigencia": "2030-12-18T00:00",
    "diasRestantes": 1548,
-   "valorEstimado": 0.1,
+   "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
     "arrecadac",
@@ -932,10 +876,7 @@
    ],
    "ader": 50,
    "score": 29,
-   "suspeito": [
-    "valor irrisorio",
-    "data de encerramento implausivel"
-   ],
+   "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/88775390000112/2025/566"
   },
   {
