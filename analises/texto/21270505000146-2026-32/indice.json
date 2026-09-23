@@ -1,0 +1,74 @@
+{
+ "id": "21270505000146-2026-32",
+ "extraidoEm": "2026-09-23T11:53:00.268Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/21270505000146/2026/32",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-01-Minuta-de-Edital-Locacao-Notebooks-assinado.txt",
+   "titulo": "01__Minuta_de_Edital__Locacao_Notebooks_assinado.pdf",
+   "tipo": "Edital",
+   "paginas": 22,
+   "caracteres": 72233
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-00-DFD-Locacao-Notebooks-1.txt",
+   "titulo": "00__DFD__Locacao_Notebooks_1.pdf",
+   "tipo": "Documento de Formalização da Demanda - DFD",
+   "paginas": 3,
+   "caracteres": 5713
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-01.txt",
+   "titulo": "01.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 17,
+   "caracteres": 50780
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-01.txt",
+   "titulo": "01.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 32,
+   "caracteres": 103463
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-01.txt",
+   "titulo": "01.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 28,
+   "caracteres": 47854
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-01.txt",
+   "titulo": "01.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 15,
+   "caracteres": 34773
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-01.txt",
+   "titulo": "01.pdf",
+   "tipo": "Minuta de Ata de Registro de Preços",
+   "paginas": 11,
+   "caracteres": 29696
+  },
+  {
+   "ordem": 8,
+   "arquivo": "08-01.txt",
+   "titulo": "01.pdf",
+   "tipo": "Minuta do Contrato",
+   "paginas": 9,
+   "caracteres": 26934
+  }
+ ],
+ "totalPaginas": 137,
+ "totalCaracteres": 371446,
+ "comErro": 0
+}

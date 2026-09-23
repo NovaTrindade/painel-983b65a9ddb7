@@ -1,0 +1,42 @@
+{
+ "id": "02430067000191-2026-55",
+ "extraidoEm": "2026-09-23T11:51:57.363Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/02430067000191/2026/55",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-assinado.txt",
+   "titulo": "Edital_assinado.pdf",
+   "tipo": "Edital",
+   "paginas": 69,
+   "caracteres": 196393
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ETP-impressoras.txt",
+   "titulo": "ETP_impressoras.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 19,
+   "caracteres": 41660
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-AUTORIZACAO-Impressoras.txt",
+   "titulo": "AUTORIZACAO_Impressoras.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1973
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-TR-Impressoras.txt",
+   "titulo": "TR Impressoras.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 12,
+   "caracteres": 31199
+  }
+ ],
+ "totalPaginas": 101,
+ "totalCaracteres": 271225,
+ "comErro": 0
+}

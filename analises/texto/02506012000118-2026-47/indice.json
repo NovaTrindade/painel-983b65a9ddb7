@@ -1,0 +1,78 @@
+{
+ "id": "02506012000118-2026-47",
+ "extraidoEm": "2026-09-23T11:52:17.581Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/02506012000118/2026/47",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL.txt",
+   "titulo": "EDITAL",
+   "tipo": "Edital",
+   "paginas": 39,
+   "caracteres": 73470
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Certidao-de-Publicacao-10367.txt",
+   "titulo": "Certidão de Publicação 10367",
+   "tipo": "Edital",
+   "paginas": 2,
+   "caracteres": 1148
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-TERMO-DE-REFERENCIA.txt",
+   "titulo": "TERMO DE REFERÊNCIA",
+   "tipo": "Termo de Referência",
+   "paginas": 19,
+   "caracteres": 445,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ETP.txt",
+   "titulo": "ETP",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 14,
+   "caracteres": 325,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-DFD.txt",
+   "titulo": "DFD",
+   "tipo": "Documento de Formalização da Demanda - DFD",
+   "paginas": 3,
+   "caracteres": 67,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-MAPA-DE-COTACAO.txt",
+   "titulo": "MAPA DE COTAÇÃO",
+   "tipo": "Outros Documentos",
+   "paginas": 6,
+   "caracteres": 136,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-GAZETA-15-09.txt",
+   "titulo": "GAZETA 15-09",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 15919
+  },
+  {
+   "ordem": 8,
+   "arquivo": "08-ANEXOS-EDITAL.txt",
+   "titulo": "ANEXOS EDITAL",
+   "tipo": "Outros Documentos",
+   "paginas": 21,
+   "caracteres": 34279
+  }
+ ],
+ "totalPaginas": 105,
+ "totalCaracteres": 125789,
+ "comErro": 0
+}

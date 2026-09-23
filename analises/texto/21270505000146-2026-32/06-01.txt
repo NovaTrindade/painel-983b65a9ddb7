@@ -1,0 +1,1092 @@
+=== DOCUMENTO 6: 01.pdf ===
+tipo: Outros Documentos | páginas: 15 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/21270505000146/compras/2026/32/arquivos/6
+
+--- [pag. PDF 1] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 1 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+ROTEIRO DA PROVA DE CONCEITO (POC)
+PROCESSO LICITATÓRIO Nº 046/2026
+MODALIDADE: PREGÃO ELETRÔNICO Nº 045/2026
+TIPO: MENOR PREÇO POR GRUPO
+SISTEMA DE REGISTRO DE PREÇOS
+PARTE I - NOTA TÉCNICA DE VALIDAÇÃO DA PROVA DE CONCEITO
+1. Objeto da análise
+1.1. Esta Nota Técnica fundamenta a exigência de Prova de Conceito no procedimento licitatório destinado à
+contratação integrada de locação de equipamentos de informática, gestão de serviços, acesso remoto seguro
+e solução corporativa de proteção, detecção e resposta para endpoints, conforme o Termo de Referência e
+suas Especificações Técnicas.
+2. Justificativa técnica e fundamento
+2.1. A PoC é necessária para verificar, em ambiente controlado, se os equipamentos, as plataformas e os
+serviços ofertados possuem as características mínimas declaradas. A simples apresentação de catálogos ou
+declarações não é suficiente para aferir integração, segregação lógica, rastreabilidade, instalação do agente,
+detecção, resposta e sanitização.
+2.2. A exigência fundamenta-se nos arts. 17, § 3º, e 41, inciso II, da Lei nº 14.133/2021, observando o
+julgamento objetivo, a proporcionalidade e a vinculação ao instrumento convocatório. A PoC será exigida
+somente do licitante provisoriamente vencedor, com roteiro, local, forma, prazo e critérios objetivos
+previamente publicados.
+3. Riscos mitigados
+● oferta de equipamento incompatível com as especificações;
+● plataforma de chamados sem inventário automatizado ou sem controle de SLA;
+● ausência de segregação entre Municípios;
+● acesso remoto sem controles de segurança e auditoria;
+● agente de segurança incapaz de comunicar-se com a console ou aplicar políticas;
+● solução antivírus convencional apresentada como EDR;
+● ausência de capacidade real de quarentena, bloqueio e isolamento;
+● relatórios e trilhas de auditoria insuficientes;
+● procedimento de sanitização não verificável.
+4. Diretrizes
+● caráter eliminatório, sem pontuação classificatória;
+● avaliação binária: ATENDE ou NÃO ATENDE;
+● requisitos críticos com atendimento obrigatório;
+● demonstração na solução e nos equipamentos efetivamente ofertados;
+
+--- [pag. PDF 2] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 2 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+● ambiente real de produção, homologação ou laboratório funcional da solução ofertada;
+● vedação a protótipos, vídeos gravados como substituição do teste e telas estáticas;
+● uso exclusivo de dados fictícios ou anonimizados;
+● registro por ata, gravação, capturas, relatórios, logs e documentos técnicos;
+● possibilidade de acompanhamento pelos demais licitantes como observadores.
+5. Critério de aprovação
+5.1. A PoC será aprovada somente se todos os itens classificados como CRÍTICOS obtiverem resultado
+ATENDE e se, entre os itens classificados como NÃO CRÍTICOS, no mínimo 80% obtiverem resultado
+ATENDE. Não haverá atendimento parcial.
+5.2. O não atendimento de qualquer item crítico implicará reprovação, independentemente do percentual
+global. O atendimento na PoC não dispensa o cumprimento integral do Termo de Referência durante a
+execução.
+PARTE II - REGULAMENTO DA PROVA DE CONCEITO
+1. Finalidade e abrangência
+1.1. A PoC verificará a aderência da solução ofertada às especificações e abrangerá os seguintes blocos:
+equipamentos; sistema de gestão e inventário; acesso remoto; agente de segurança; proteção antimalware e
+comportamental; EDR; quarentena, bloqueio e isolamento; riscos e vulnerabilidades; alertas e auditoria;
+sanitização; e critérios finais de aprovação.
+2. Convocação e prazo de preparação
+2.1. Encerradas a disputa e a negociação, o Agente de Contratação convocará o licitante provisoriamente
+vencedor. A sessão ocorrerá em data designada com antecedência mínima de 3 (três) dias úteis, admitida
+uma prorrogação por igual período mediante requerimento fundamentado apresentado antes do término do
+prazo e aceito pela Administração.
+2.2. O não comparecimento injustificado, a recusa em realizar a PoC ou a ausência dos recursos essenciais
+implicará reprovação e desclassificação da proposta, observadas as regras do Edital.
+3. Local, forma, duração e publicidade
+3.1. A PoC será realizada em sessão pública na sede do CIMARG ou por videoconferência, conforme a
+convocação, com gravação integral. A sessão será realizada em 1 (um) dia útil, com duração de até 5 (cinco)
+horas, prorrogável por decisão motivada da Comissão.
+3.2. Os demais licitantes poderão acompanhar como observadores, sem interromper a demonstração.
+Apontamentos deverão ser apresentados por escrito ao final e registrados em ata.
+4. Comissão de Avaliação
+4.1. A PoC será conduzida por uma Comissão formada por, no mínimo, 3 (três) membros designados,
+incluindo ao menos um integrante com atuação ou conhecimento em Tecnologia da Informação. Poderá ser
+requisitado apoio técnico especializado. Os membros deverão declarar ausência de impedimento e conflito
+de interesses.
+
+--- [pag. PDF 3] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 3 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+5. Responsabilidades e infraestrutura
+5.1. O licitante será responsável, às suas expensas, pelos equipamentos de demonstração, credenciais,
+licenças, agentes, consoles, mídias de teste, conectividade de contingência e pessoal técnico. A
+Administração disponibilizará local, energia elétrica, acesso à internet e recursos audiovisuais quando a
+sessão for presencial.
+6. Ambiente e dados
+6.1. A demonstração deverá ocorrer em ambiente funcional da própria solução ofertada. Serão vedados
+protótipos, maquetes, apresentações estáticas ou simulações que não correspondam ao produto ofertado.
+Serão utilizados exclusivamente dados fictícios, arquivos de teste seguros e ambientes isolados.
+7. Evidências
+7.1. A Comissão poderá registrar evidências por gravação, fotografia, captura de tela, exportação de relatório,
+log, documentação oficial do fabricante, arquivo gerado durante a sessão, verificação física, hash de arquivo
+e ata circunstanciada. O licitante deverá permitir a coleta dessas evidências, sem exposição de segredos
+técnicos além do necessário à aferição.
+8. Falhas externas e nova demonstração
+8.1. Falhas de energia, conectividade ou infraestrutura comprovadamente alheias à solução não implicarão
+reprovação automática. A Comissão poderá suspender e retomar a sessão. Poderá ser concedida, uma única
+vez, nova demonstração restrita ao item afetado por falha operacional pontual, no prazo máximo de 2 (dois)
+dias úteis, vedada alteração da solução ofertada ou substituição de produto não declarado.
+9. Resultado e recursos
+9.1. A Comissão registrará ATENDE ou NÃO ATENDE para cada item, com motivação e evidência. A
+reprovação implicará desclassificação e convocação do licitante subsequente. Caberá recurso na forma do
+Edital e do art. 165 da Lei nº 14.133/2021. A aprovação não gera direito adquirido à contratação nem substitui
+o aceite contratual.
+PARTE III - MATRIZ DETALHADA DE TESTES
+BLOCO A - CONFORMIDADE DOS EQUIPAMENTOS
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+A.1 Notebook
+administrativo
+Apresentar
+equipamento real e
+permitir inspeção
+física, consulta ao
+sistema e
+documentação oficial.
+Todos os requisitos
+obrigatórios do Item
+01 são verificados:
+processador,
+memória, SSD, tela,
+webcam,
+conectividade, TPM,
+sistema, suíte e
+acessórios.
+CRÍTICO
+A.2 Desktop administrativo
+Apresentar conjunto
+completo em
+funcionamento e
+documentação oficial.
+Todos os requisitos
+obrigatórios do Item
+02 são confirmados,
+incluindo gabinete,
+monitor, teclado,
+CRÍTICO
+
+--- [pag. PDF 4] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 4 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+mouse, interfaces,
+Windows e suíte.
+A.3 Estação de alta
+performance
+Apresentar conjunto
+completo em
+funcionamento,
+incluindo placa gráfica
+e unidades de
+armazenamento.
+Todos os requisitos
+obrigatórios do Item
+03 são confirmados.
+CRÍTICO
+A.4 Sistema operacional
+Exibir edição,
+arquitetura, ativação e
+funcionamento.
+Windows 11
+Professional 64 bits
+está instalado, ativado
+e funcional nos
+equipamentos
+apresentados.
+CRÍTICO
+A.5 Suíte de produtividade
+Abrir Word, Excel,
+PowerPoint e Outlook;
+criar, editar e salvar
+arquivos de teste.
+Todos os aplicativos
+mínimos estão
+instalados, ativados e
+operantes.
+CRÍTICO
+BLOCO B - GESTÃO DE CHAMADOS, INVENTÁRIO E SEGREGAÇÃO
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+B.1 Abertura e gestão do
+chamado
+Abrir, classificar,
+atribuir, registrar
+interação, alterar
+status e encerrar
+chamado.
+Fluxo completo
+executado, com
+histórico preservado.
+NÃO CRÍTICO
+B.2 Inventário
+automatizado
+Exibir endpoint
+coletado pelo agente.
+Hostname, sistema,
+processador,
+memória,
+armazenamento e
+última comunicação
+são coletados
+automaticamente.
+CRÍTICO
+B.3 Controle de SLA
+Abrir chamado com
+SLA; demonstrar
+contagem, alerta e
+suspensão justificada.
+Sistema calcula prazo
+e registra suspensão e
+justificativa sem perda
+do histórico.
+NÃO CRÍTICO
+B.4 Gestão do ciclo de
+vida do ativo
+Registrar
+movimentação e
+substituição de
+equipamento.
+Histórico registra
+instalação, alteração,
+manutenção e
+substituição.
+NÃO CRÍTICO
+B.5 Segregação por
+Município
+Usar dois Municípios
+fictícios, usuários,
+chamados e ativos
+separados.
+Usuário de um
+Município não
+visualiza dados do
+outro.
+CRÍTICO
+B.6 Perfis e permissões
+Demonstrar usuário
+municipal, técnico e
+administrador.
+Cada perfil acessa
+somente funções
+autorizadas.
+NÃO CRÍTICO
+
+--- [pag. PDF 5] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 5 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+B.7 Relatórios e
+exportação
+Gerar relatórios de
+chamados, ativos e
+SLA e exportar.
+Relatórios são
+gerados e exportados
+em formato eletrônico
+estruturado ou
+amplamente utilizável.
+NÃO CRÍTICO
+B.8 Trilha de auditoria
+Executar abertura,
+alteração,
+encerramento e
+alteração de ativo;
+consultar log.
+Log registra usuário,
+data, hora, ação e
+objeto afetado.
+CRÍTICO
+BLOCO C - ACESSO REMOTO SEGURO
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+C.1 Autenticação
+individual
+Criar operador,
+autenticar e iniciar
+sessão.
+Operador possui
+identidade individual e
+é associado à sessão.
+CRÍTICO
+C.2 Autenticação multifator
+Tentar login sem e
+com segundo fator
+válido.
+Acesso é bloqueado
+sem o fator adicional e
+liberado com fator
+válido.
+CRÍTICO
+C.3 Criptografia da
+comunicação
+Apresentar
+documentação técnica
+oficial e conexão ativa.
+Documentação
+comprova criptografia
+ponta a ponta e
+negociação segura de
+chaves.
+CRÍTICO
+C.4 Perfis de acesso
+Demonstrar perfis
+administrativo, técnico
+e consulta.
+Permissões são
+distintas e
+efetivamente
+aplicadas.
+NÃO CRÍTICO
+C.5 Gestão centralizada
+de operadores
+Criar, alterar, bloquear
+e revogar operador.
+Todas as ações são
+possíveis em console
+central e geram
+registro.
+NÃO CRÍTICO
+C.6 Registro de sessão Executar sessão
+completa.
+Registro contém
+operador,
+equipamento, início,
+término e duração.
+CRÍTICO
+C.7 Trilha de auditoria
+administrativa
+Criar usuário, alterar
+permissão e revogar
+acesso.
+Log contém usuário,
+ação, data e horário. CRÍTICO
+C.8 Controle de
+dispositivos
+Cadastrar, autorizar e
+revogar equipamento.
+Somente dispositivo
+autorizado aceita
+conexão.
+NÃO CRÍTICO
+C.9 Transferência
+controlada
+Habilitar, bloquear e
+tentar transferência de
+arquivo.
+Política controla a
+funcionalidade e o
+bloqueio é efetivo.
+NÃO CRÍTICO
+C.10 Segregação por
+Município
+Associar operadores e
+equipamentos a dois
+ambientes fictícios.
+Não ocorre
+visualização ou CRÍTICO
+
+--- [pag. PDF 6] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 6 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+acesso cruzado não
+autorizado.
+BLOCO D - INSTALAÇÃO E GESTÃO DO AGENTE DE SEGURANÇA
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+D.1 Instalação do agente Instalar o agente em
+endpoint de teste.
+Instalação concluída e
+agente ativo. CRÍTICO
+D.2 Comunicação com a
+console
+Exibir endpoint na
+console após
+instalação.
+Endpoint aparece
+online ou com
+comunicação
+registrada,
+identificação correta e
+telemetria.
+CRÍTICO
+D.3 Aplicação de política
+Criar ou selecionar
+política e vinculá-la ao
+endpoint.
+Política é aplicada e
+seu status é
+verificável.
+CRÍTICO
+D.4 Atualização remota
+Acionar atualização ou
+demonstrar
+mecanismo central de
+atualização.
+Console permite
+comandar ou
+gerenciar atualização
+do agente e
+componentes.
+NÃO CRÍTICO
+D.5 Status do endpoint
+Exibir versão, política,
+última comunicação,
+estado e alertas.
+Informações são
+apresentadas de
+forma coerente na
+console.
+NÃO CRÍTICO
+D.6 Proteção contra
+remoção
+Tentar desinstalar ou
+desativar sem
+autorização.
+A remoção ou
+desativação é
+bloqueada ou exige
+credencial autorizada.
+CRÍTICO
+BLOCO E - PROTEÇÃO ANTIMALWARE E COMPORTAMENTAL
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+E.1 Detecção antimalware
+Utilizar arquivo padrão
+de teste seguro ou
+simulação aprovada.
+Solução detecta,
+registra e adota ação
+conforme política.
+CRÍTICO
+E.2 Proteção em tempo
+real
+Criar ou copiar arquivo
+de teste no endpoint.
+Detecção ocorre
+automaticamente sem
+varredura manual.
+CRÍTICO
+E.3 Análise
+comportamental
+Executar simulação
+segura de
+comportamento
+suspeito previamente
+aprovada.
+Evento é detectado ou
+bloqueado por
+mecanismo
+comportamental, com
+registro contextual.
+CRÍTICO
+E.4 Proteção contra
+scripts
+Executar script
+benigno de teste que
+represente técnica
+monitorada.
+Solução registra ou
+bloqueia a execução
+segundo a política
+configurada.
+NÃO CRÍTICO
+
+--- [pag. PDF 7] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 7 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+E.5 Quarentena
+Exibir o objeto
+detectado na
+quarentena.
+Objeto, origem,
+horário e ação são
+identificáveis.
+CRÍTICO
+E.6 Exclusões controladas
+Criar exclusão
+temporária e removê-
+la.
+Exclusão exige
+permissão, fica
+registrada e pode ser
+revogada.
+NÃO CRÍTICO
+BLOCO F - EDR E VISUALIZAÇÃO DO INCIDENTE
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+F.1 Geração de incidente
+Executar cenário
+seguro capaz de gerar
+incidente.
+Incidente é criado na
+plataforma e
+associado ao
+endpoint.
+CRÍTICO
+F.2 Telemetria Abrir detalhes do
+incidente.
+São exibidos endpoint,
+usuário, processos,
+arquivos, conexões ou
+eventos relevantes.
+CRÍTICO
+F.3 Linha temporal Exibir sequência
+cronológica.
+Plataforma apresenta
+a evolução dos
+eventos de forma
+compreensível.
+CRÍTICO
+F.4 Processo originador e
+derivados
+Analisar a árvore ou
+relação entre
+processos.
+Processo originador e
+processos derivados
+são identificáveis.
+CRÍTICO
+F.5 Severidade e contexto Exibir classificação e
+contexto técnico.
+Incidente possui
+severidade ou risco e
+dados suficientes para
+investigação.
+CRÍTICO
+F.6 Pesquisa de indicador
+Pesquisar hash,
+processo, domínio ou
+outro indicador gerado
+no teste.
+Busca retorna eventos
+ou ausência
+fundamentada no
+escopo pesquisado.
+NÃO CRÍTICO
+F.7 Registro da
+investigação
+Adicionar comentário,
+classificação ou ação
+de analista.
+Atividade fica
+vinculada ao incidente,
+usuário e horário.
+NÃO CRÍTICO
+BLOCO G - QUARENTENA, BLOQUEIO E ISOLAMENTO
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+G.1 Quarentena e
+exclusão
+Colocar objeto em
+quarentena e excluí-lo
+ou remediá-lo.
+Ações são concluídas
+e registradas. CRÍTICO
+G.2 Bloqueio de indicador
+Bloquear hash,
+arquivo, domínio ou
+mecanismo
+equivalente.
+Política de bloqueio é
+aplicada e verificável. NÃO CRÍTICO
+
+--- [pag. PDF 8] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 8 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+G.3 Encerramento de
+processo
+Acionar encerramento
+de processo de teste.
+Processo é encerrado
+remotamente e a ação
+fica registrada.
+NÃO CRÍTICO
+G.4 Isolamento do
+endpoint
+Acionar isolamento
+pela console.
+Endpoint perde
+comunicação de rede
+ordinária e mantém
+canal de
+gerenciamento
+necessário.
+CRÍTICO
+G.5 Restabelecimento Remover isolamento.
+Conectividade é
+restabelecida e a ação
+fica registrada.
+CRÍTICO
+G.6 Auditoria da resposta Consultar histórico das
+ações.
+Usuário, equipamento,
+data, hora e ação são
+identificáveis.
+CRÍTICO
+BLOCO H - GESTÃO DE RISCOS E VULNERABILIDADES
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+H.1 Aplicações vulneráveis
+Exibir painel ou
+relatório de aplicações
+vulneráveis.
+Solução identifica
+aplicação, versão e
+risco associado.
+CRÍTICO
+H.2 Configurações
+inseguras
+Exibir configuração ou
+condição insegura
+detectada.
+Condição é
+identificada e
+associada ao
+endpoint.
+NÃO CRÍTICO
+H.3 Classificação de risco Exibir criticidade ou
+pontuação.
+Riscos são
+classificados ou
+priorizados.
+NÃO CRÍTICO
+H.4 Recomendação de
+mitigação Abrir detalhe do risco.
+Solução apresenta
+recomendação ou
+ação de mitigação.
+NÃO CRÍTICO
+H.5 Relatório de riscos Gerar relatório.
+Relatório contém
+endpoints, achados e
+criticidades e pode ser
+exportado.
+NÃO CRÍTICO
+BLOCO I - ALERTAS, RELATÓRIOS E TRILHA DE AUDITORIA
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+I.1 Alerta de segurança Gerar alerta durante
+outro teste.
+Alerta contém
+endpoint, Município,
+data, hora, severidade
+e ação.
+CRÍTICO
+I.2 Alerta de endpoint
+sem comunicação
+Simular ou exibir
+endpoint sem
+comunicação.
+Situação é identificada
+e reportada. NÃO CRÍTICO
+
+--- [pag. PDF 9] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 9 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+I.3 Relatório por
+Município
+Gerar relatório do
+Município A.
+Relatório contém
+somente dados do
+ambiente selecionado.
+CRÍTICO
+I.4 Visão consolidada
+Gerar visão
+consolidada
+administrativa.
+Perfil autorizado
+visualiza os ambientes
+sob sua
+responsabilidade sem
+quebrar a segregação.
+NÃO CRÍTICO
+I.5 Exportação Exportar relatório ou
+registro.
+Arquivo é gerado em
+formato eletrônico
+utilizável.
+NÃO CRÍTICO
+I.6 Trilha administrativa Alterar política e
+consultar auditoria.
+Usuário, data, hora e
+alteração são
+registrados.
+CRÍTICO
+BLOCO J - SANITIZAÇÃO DE DADOS
+ITEM REQUISITO FORMA DE
+DEMONSTRAÇÃO
+CRITÉRIO OBJETIVO
+DE ACEITAÇÃO CRITICIDADE
+J.1 Identificação da mídia
+Associar equipamento
+e unidade de
+armazenamento de
+teste.
+Número de série ou
+identificador técnico é
+registrado.
+CRÍTICO
+J.2 Preparação dos dados
+fictícios
+Criar arquivos de teste
+e registrar sua
+existência.
+Arquivos fictícios são
+identificados antes do
+procedimento.
+CRÍTICO
+J.3 Execução do método
+Executar sanitização
+adequada à mídia de
+teste.
+Ferramenta conclui
+sem erro impeditivo e
+produz resultado
+verificável.
+CRÍTICO
+J.4 Evidência da
+conclusão
+Exibir log, relatório ou
+saída da ferramenta.
+Evidência contém
+resultado, data e
+referência à mídia ou
+equipamento.
+CRÍTICO
+J.5 Registro
+individualizado
+Gerar registro de
+sanitização.
+Registro contém
+equipamento, mídia,
+método, ferramenta,
+data, resultado e
+responsável.
+CRÍTICO
+J.6 Tratamento de falha
+Apresentar
+procedimento para
+mídia sem
+possibilidade de
+sanitização lógica.
+Procedimento prevê
+custódia controlada,
+autorização e
+destinação segura.
+NÃO CRÍTICO
+
+--- [pag. PDF 10] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 10 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+PARTE IV - CRITÉRIOS OBJETIVOS DE APROVAÇÃO E REPROVAÇÃO
+1. Regra de julgamento
+● Cada item receberá somente ATENDE ou NÃO ATENDE.
+● Não haverá nota, gradação ou atendimento parcial.
+● Todos os itens críticos deverão resultar ATENDE.
+● Entre os itens não críticos, pelo menos 80% deverão resultar ATENDE.
+● Todo NÃO ATENDE deverá conter motivação objetiva e indicação da evidência.
+2. Falhas formais e técnicas
+2.1. Poderão ser esclarecidas falhas formais de apresentação ou identificação documental que não alterem o
+produto, a solução ou a condição técnica existente na data da proposta. Não será admitida inclusão posterior
+de módulo, troca de solução, substituição do modelo ofertado ou desenvolvimento de funcionalidade durante
+a PoC.
+3. Nova demonstração restrita
+3.1. A Comissão poderá conceder uma única nova demonstração, limitada a item afetado por falha
+operacional pontual, pelo prazo máximo de 2 (dois) dias úteis, desde que não haja alteração da solução
+ofertada. A decisão deverá ser motivada em ata.
+4. Consequências
+4.1. A aprovação autoriza o prosseguimento do julgamento, sem afastar a habilitação e o recebimento
+contratual. A reprovação implica desclassificação da proposta e convocação do licitante subsequente nas
+mesmas condições.
+PARTE V - INSTRUMENTO SINTÉTICO DE AVALIAÇÃO
+IDENTIFICAÇÃO PREENCHIMENTO IDENTIFICAÇÃO PREENCHIMENTO
+Licitante ________________________________ CNPJ ____________________________
+Soluções ________________________________ Ambiente [ ] Produção [ ] Homologação [ ]
+Laboratório
+Data/horário ____/____/______ ____:____ Forma/local [ ] Presencial [ ] Vídeo __________
+Portaria nº ______________________________ Gravação Arquivo/link: ____________________
+ABERTURA E REGULARIDADE: [ ] convocação regular [ ] comparecimento [ ] ambiente funcional [ ]
+gravação/registro [ ] Comissão designada [ ] dados fictícios [ ] observadores registrados.
+REGRA: cada item recebe ATENDE (A) ou NÃO ATENDE (NA). Todos os críticos devem atender e, entre os não
+críticos, o mínimo é 80%. Todo NA deve conter motivação e evidência.
+ITEM
+CRITÉRIO
+OBJETIVO -
+SÍNTESE
+CRITICIDADE RESULTADO EVIDÊNCIA /
+MOTIVAÇÃO
+A.1 Notebook
+administrativo CRÍTICO [ ] A [ ] NA
+
+--- [pag. PDF 11] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 11 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+A.2 Desktop
+administrativo CRÍTICO [ ] A [ ] NA
+A.3 Estação de alta
+performance CRÍTICO [ ] A [ ] NA
+A.4 Sistema operacional CRÍTICO [ ] A [ ] NA
+A.5 Suíte de
+produtividade CRÍTICO [ ] A [ ] NA
+B.1 Abertura e gestão do
+chamado NÃO CRÍTICO [ ] A [ ] NA
+B.2 Inventário
+automatizado CRÍTICO [ ] A [ ] NA
+B.3 Controle de SLA NÃO CRÍTICO [ ] A [ ] NA
+B.4 Gestão do ciclo de
+vida do ativo NÃO CRÍTICO [ ] A [ ] NA
+B.5 Segregação por
+Município CRÍTICO [ ] A [ ] NA
+B.6 Perfis e permissões NÃO CRÍTICO [ ] A [ ] NA
+B.7 Relatórios e
+exportação NÃO CRÍTICO [ ] A [ ] NA
+B.8 Trilha de auditoria CRÍTICO [ ] A [ ] NA
+C.1 Autenticação
+individual CRÍTICO [ ] A [ ] NA
+C.2 Autenticação
+multifator CRÍTICO [ ] A [ ] NA
+C.3 Criptografia da
+comunicação CRÍTICO [ ] A [ ] NA
+C.4 Perfis de acesso NÃO CRÍTICO [ ] A [ ] NA
+C.5 Gestão centralizada
+de operadores NÃO CRÍTICO [ ] A [ ] NA
+C.6 Registro de sessão CRÍTICO [ ] A [ ] NA
+C.7 Trilha de auditoria
+administrativa CRÍTICO [ ] A [ ] NA
+C.8 Controle de
+dispositivos NÃO CRÍTICO [ ] A [ ] NA
+C.9 Transferência
+controlada NÃO CRÍTICO [ ] A [ ] NA
+C.10 Segregação por
+Município CRÍTICO [ ] A [ ] NA
+D.1 Instalação do agente CRÍTICO [ ] A [ ] NA
+
+--- [pag. PDF 12] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 12 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+D.2 Comunicação com a
+console CRÍTICO [ ] A [ ] NA
+D.3 Aplicação de política CRÍTICO [ ] A [ ] NA
+D.4 Atualização remota NÃO CRÍTICO [ ] A [ ] NA
+D.5 Status do endpoint NÃO CRÍTICO [ ] A [ ] NA
+D.6 Proteção contra
+remoção CRÍTICO [ ] A [ ] NA
+E.1 Detecção antimalware CRÍTICO [ ] A [ ] NA
+E.2 Proteção em tempo
+real CRÍTICO [ ] A [ ] NA
+E.3 Análise
+comportamental CRÍTICO [ ] A [ ] NA
+E.4 Proteção contra
+scripts NÃO CRÍTICO [ ] A [ ] NA
+E.5 Quarentena CRÍTICO [ ] A [ ] NA
+E.6 Exclusões controladas NÃO CRÍTICO [ ] A [ ] NA
+F.1 Geração de incidente CRÍTICO [ ] A [ ] NA
+F.2 Telemetria CRÍTICO [ ] A [ ] NA
+F.3 Linha temporal CRÍTICO [ ] A [ ] NA
+F.4 Processo originador e
+derivados CRÍTICO [ ] A [ ] NA
+F.5 Severidade e contexto CRÍTICO [ ] A [ ] NA
+F.6 Pesquisa de indicador NÃO CRÍTICO [ ] A [ ] NA
+F.7 Registro da
+investigação NÃO CRÍTICO [ ] A [ ] NA
+G.1 Quarentena e
+exclusão CRÍTICO [ ] A [ ] NA
+G.2 Bloqueio de indicador NÃO CRÍTICO [ ] A [ ] NA
+G.3 Encerramento de
+processo NÃO CRÍTICO [ ] A [ ] NA
+G.4 Isolamento do
+endpoint CRÍTICO [ ] A [ ] NA
+G.5 Restabelecimento CRÍTICO [ ] A [ ] NA
+G.6 Auditoria da resposta CRÍTICO [ ] A [ ] NA
+H.1 Aplicações
+vulneráveis CRÍTICO [ ] A [ ] NA
+H.2 Configurações
+inseguras NÃO CRÍTICO [ ] A [ ] NA
+
+--- [pag. PDF 13] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 13 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+H.3 Classificação de risco NÃO CRÍTICO [ ] A [ ] NA
+H.4 Recomendação de
+mitigação NÃO CRÍTICO [ ] A [ ] NA
+H.5 Relatório de riscos NÃO CRÍTICO [ ] A [ ] NA
+I.1 Alerta de segurança CRÍTICO [ ] A [ ] NA
+I.2 Alerta de endpoint
+sem comunicação NÃO CRÍTICO [ ] A [ ] NA
+I.3 Relatório por
+Município CRÍTICO [ ] A [ ] NA
+I.4 Visão consolidada NÃO CRÍTICO [ ] A [ ] NA
+I.5 Exportação NÃO CRÍTICO [ ] A [ ] NA
+I.6 Trilha administrativa CRÍTICO [ ] A [ ] NA
+J.1 Identificação da mídia CRÍTICO [ ] A [ ] NA
+J.2 Preparação dos
+dados fictícios CRÍTICO [ ] A [ ] NA
+J.3 Execução do método CRÍTICO [ ] A [ ] NA
+J.4 Evidência da
+conclusão CRÍTICO [ ] A [ ] NA
+J.5 Registro
+individualizado CRÍTICO [ ] A [ ] NA
+J.6 Tratamento de falha NÃO CRÍTICO [ ] A [ ] NA
+1. Apuração
+ITENS CRÍTICOS
+ATENDIDOS
+NÃO CRÍTICOS
+ATENDIDOS
+PERCENTUAL NÃO
+CRÍTICOS RESULTADO
+____ / ____ ____ / ____ ________ % [ ] APROVADA
+[ ] REPROVADA
+2. Itens NÃO ATENDE e fundamentos
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+--- [pag. PDF 14] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 14 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+3. Ocorrências e eventual nova demonstração
+[ ] Não aplicável [ ] Aplicável aos itens: _______________________ Prazo: ______ dias úteis, máximo de
+2, uma única vez.
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+4. Parecer conclusivo
+[ ] POC APROVADA - todos os itens críticos atenderam e o percentual mínimo de itens não críticos foi
+alcançado.
+[ ] POC REPROVADA - houve não atendimento de item crítico ou o percentual mínimo de itens não críticos
+não foi alcançado.
+Fundamentação complementar:
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+Lavras/MG, ______ de ______________________________ de __________.
+5. Assinaturas
+MEMBRO DA COMISSÃO ÁREA / FUNÇÃO ASSINATURA
+Ciência do representante da licitante: ________________________________
+Assinatura: ________________________________
+
+--- [pag. PDF 15] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 15 de 15
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais - Ibituruna - Ijaci
+- Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno - Nepomuceno - Oliveira - Passa Tempo -
+Perdões - Ribeirão Vermelho - Santana Do Jacaré - Santo Antônio Do Amparo - São Bento do Abade
+- São Francisco de Paula
+A ciência comprova o recebimento do resultado e não implica concordância ou renúncia ao contraditório e ao
+recurso.

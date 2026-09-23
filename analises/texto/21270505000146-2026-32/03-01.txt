@@ -1,0 +1,826 @@
+=== DOCUMENTO 3: 01.pdf ===
+tipo: Estudo Técnico Preliminar | páginas: 17 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/21270505000146/compras/2026/32/arquivos/3
+
+--- [pag. PDF 1] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 1 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+ESTUDO TÉCNICO PRELIMINAR (ETP)
+Processo Administrativo nº: 046/2026
+Órgão/Entidade: Consórcio Intermunicipal Multifinalitário do Alto Rio Grande - CIMARG
+Objeto: Registro de Preços para futura e eventual contratação de empresa especializada na
+prestação de serviços continuados de locação de equipamentos de informática, incluindo
+fornecimento, instalação, configuração, licenciamento, suporte técnico, manutenção,
+substituição definitiva, gestão de ativos e chamados, acesso remoto seguro e solução corporativa
+de proteção, detecção e resposta para endpoints, com gerenciamento centralizado em nuvem,
+monitoramento automatizado e operação de segurança, para atendimento das demandas dos
+Municípios Consorciados do Consórcio Intermunicipal Multifinalitário do Alto Rio Grande -
+CIMARG.
+Responsável pela Elaboração: Arnaldo Messias Mesquita-Secretario Executivo
+1. Descrição da necessidade da contratação
+A Administração Pública brasileira vivencia um momento de inflexão e transição paradigmática,
+onde a digitalização dos serviços prestados ao cidadão deixou de ser uma inovação incremental
+para se tornar o núcleo da atuação estatal. O Consórcio Intermunicipal Multifinalitário do Alto Rio
+Grande (CIMARG), pessoa jurídica de direito público constituída sob a forma de associação
+pública nos termos da Lei nº 11.107/2005 e do Decreto nº 6.017/2007, atua como a espinha
+dorsal do desenvolvimento regional e da gestão compartilhada para os Municípios consorciados.
+A cooperação intermunicipal surge como o principal vetor para a otimização de recursos e para
+a superação das disfuncionalidades administrativas que assolam os entes locais, especialmente
+nas atividades-meio ligadas à Tecnologia da Informação (TI).
+A necessidade que impulsiona a elaboração deste Estudo Técnico Preliminar (ETP) decorre da
+constatação de uma obsolescência crítica e sistêmica do parque tecnológico municipal,
+combinada com uma assustadora vulnerabilidade cibernética. Historicamente, os Municípios têm
+adotado um modelo de aquisição de infraestrutura fundamentado em despesas de capital
+(CAPEX), o que resulta em parques computacionais altamente heterogêneos, com
+equipamentos operando muito além de sua vida útil técnica e econômica. Este cenário não
+apenas onera os cofres públicos com manutenções corretivas ineficientes, mas também gera
+
+--- [pag. PDF 2] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 2 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+indisponibilidade constante, travando a prestação de serviços básicos de saúde, educação e
+assistência social.
+Sob o prisma da segurança cibernética, o cenário é de urgência. Com a evolução das táticas,
+técnicas e procedimentos (TTPs) dos cibercriminosos, a outrora suficiente proteção perimetral e
+o uso de antivírus baseados em assinaturas tornaram-se inócuos contra ameaças avançadas,
+como o ransomware de dupla extorsão e os ataques de dia zero (zero-day). Entes
+governamentais tornaram-se alvos preferenciais devido à criticidade dos dados que custodiam.
+Paralelamente, a Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018) impôs
+ao Estado o dever inescusável de adotar medidas técnicas e administrativas aptas a proteger os
+dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição,
+conforme delineado pela Autoridade Nacional de Proteção de Dados (ANPD) em sua Resolução
+CD/ANPD nº 15/2024. A incapacidade de monitorar anomalias e responder a incidentes expõe
+os Prefeitos e gestores a severas responsabilizações legais, além do imensurável dano à
+confiança do cidadão.
+CENÁRIO DE AMEAÇAS E IMPACTOS MUNICIPAIS
+Dados divulgados com base nos registros do CTIR Gov indicaram 4.903 incidentes em 2021,
+10.387 em 2025 e 6.774 nos primeiros cinco meses de 2026. Entre os registros de 2026, 49%
+foram classificados como engenharia social e 47% como conteúdo abusivo. O crescimento deve
+ser interpretado em conjunto com a ampliação dos feeds e mudanças de classificação
+informadas pelo CTIR Gov em 2026.1 2
+Em Cerro Branco/RS, ransomware bloqueou o acesso aos dados, suspendeu atendimentos e
+levou unidades de saúde a operar manualmente e de forma restrita. Em Porto Nacional/TO,
+ransomware retirou sistemas e internet do ar e afetou arquivos internos e de geomapeamento.
+As fontes públicas não informaram o vetor inicial, razão pela qual este ETP não presume
+causalidade específica.3 4
+1 CTIR Gov em Números, GSI: https://www.gov.br/gsi/pt-br/assuntos/ctir/operacoes-e-servicos/ctir-gov-
+em-numeros
+2 Metrópoles, dados do CTIR Gov, 23/06/2026: https://www.metropoles.com/colunas/andreza-
+matais/dados-ataques-digitais-ciberneticos-cenario-alarmante-diego-aranha
+3 Prefeitura de Cerro Branco, 07/01/2026: https://pmcerrobranco.rs.gov.br/noticia/3645/ataque-hacker-
+suspende-atendimentos-na-prefeitura-municipal/
+4Prefeitura de Porto Nacional, 24/06/2025: https://portonacional.to.gov.br/noticias/5277/prefeitura-de-
+porto-nacional-e-alvo-de-ataque-hacker-e-sistemas-saem-do-ar
+
+--- [pag. PDF 3] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 3 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+O GSI descreve a engenharia social como técnica que pode levar à exposição de dados,
+execução de malware e acesso indevido, e registra que phishing pode induzir a execução de
+malware ou o acesso a página falsa.5
+Em fiscalização sobre 377 organizações públicas federais, o TCU (Tribunal de Contas da União)
+identificou que 55,7% não tratavam adequadamente hardware não autorizado; 56,2% não
+mantinham processo de avaliação e monitoramento de ativos; 46,7% não mantinham processo
+de correção de vulnerabilidades; e 57,8% não mantinham programa contínuo de treinamento.6
+ENDPOINT E USUÁRIO COMO SUPERFÍCIE CRÍTICA
+Usuários, identidades e endpoints constituem uma superfície crítica de exposição, integrada às
+aplicações, redes e serviços. A resposta adequada é baseada em camadas: configuração
+padronizada, inventário, atualização, menor privilégio, autenticação multifator, proteção
+antimalware, análise comportamental, EDR, monitoramento, contenção e suporte.
+Nenhum controle isolado elimina todos os riscos. O benefício público decorre da integração, da
+rastreabilidade e da redução do tempo entre detecção, diagnóstico, contenção e recuperação.
+O interesse público, portanto, clama por uma ruptura com o modelo transacional de aquisição de
+caixas (hardware) e exige a adoção de um modelo orientado a serviços, regido por Acordos de
+Nível de Serviço (SLA). A centralização desta contratação por meio de um Sistema de Registro
+de Preços (SRP) gerido pelo CIMARG materializa a eficiência administrativa preconizada no art.
+37 da Constituição Federal. Ao aglutinar a demanda dos Municípios consorciados, a
+Administração alcança a economia de escala indispensável para viabilizar a locação de
+equipamentos de informática (Hardware as a Service - HaaS) e infraestrutura de nuvem
+(Infrastructure as a Service - IaaS), orquestrados por uma engrenagem robusta de Segurança
+da Informação (Cloud Security) e monitoramento ininterrupto por um Centro de Operações de
+Segurança (SOC). Esta arquitetura assegura que mesmo os entes municipais com menor
+capacidade de arrecadação tenham acesso a um ecossistema de defesa cibernética de classe
+mundial, garantindo a continuidade dos serviços públicos e a preservação do erário.
+2. Requisitos da contratação
+A complexidade e a criticidade do objeto demandam a estipulação de requisitos técnicos
+transversais, os quais foram modelados em conformidade com as diretrizes da Instrução
+5 OSIC 01/2023, GSI: https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-
+cibernetica/osic/copy_of_osic-01-2023
+6 Segurança cibernética, TCU, 2022: https://sites.tcu.gov.br/relatorio-de-politicas/2022/seguranca-
+cibernetica.html
+
+--- [pag. PDF 4] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 4 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+Normativa SGD/ME nº 94/2022, que orienta a contratação de Soluções de Tecnologia da
+Informação e Comunicação (TIC) na Administração Pública. A solução não pode ser concebida
+como uma mera justaposição de hardware e software, mas sim como um organismo tecnológico
+integrado e indivisível, focado na resiliência e na governança.
+O pilar estrutural da contratação exige o fornecimento de equipamentos de linha atual de
+fabricação, entregues devidamente instalados, configurados, licenciados e prontos para o uso
+por parte dos servidores públicos. As estações de trabalho foram categorizadas para atender às
+distintas cargas de processamento exigidas pelas secretarias municipais: a Categoria A
+compreende notebooks administrativos voltados à mobilidade segura; a Categoria B engloba
+desktops de alta durabilidade para rotinas burocráticas; e a Categoria C destina-se a estações
+de alta performance (workstations) para projetos de engenharia, arquitetura e
+geoprocessamento. Todo esse ecossistema de hardware deve estar sob a tutela de um sistema
+de Gerenciamento Unificado de Endpoints (UEM), que permita o inventário em tempo real, a
+distribuição remota de pacotes e o bloqueio de portas físicas não autorizadas.
+O núcleo de segurança cibernética desta contratação foi desenhado sob a ótica da Confiança
+Zero (Zero Trust) e requer a implementação rigorosa dos controles sugeridos pelo NIST
+Cybersecurity Framework 2.0 (NIST CSF 2.0). Este framework, atualizado globalmente, exige
+que a Administração Pública atue não apenas na defesa tática, mas na governança estratégica
+do risco cibernético, por meio de seis funções elementares: Governar, Identificar, Proteger,
+Detectar, Responder e Recuperar. A função "Governar", introduzida na versão 2.0 do framework,
+obriga os Municípios a estabelecerem a gestão do risco de cadeia de suprimentos e o
+alinhamento das políticas de segurança com a estratégia organizacional.
+Para viabilizar as funções de detecção e resposta em tempo hábil, a arquitetura de segurança
+(Cloud Security) deve obrigatoriamente fundir as tecnologias XDR (Extended Detection and
+Response), SIEM (Security Information and Event Management) e SOAR (Security
+Orchestration, Automation, and Response). O isolamento dessas ferramentas provou-se ineficaz;
+a contratada deverá fornecer uma malha onde o SIEM atua como o cérebro que coleta,
+correlaciona e analisa os logs de múltiplos sistemas e redes para identificar anomalias.
+Simultaneamente, o XDR fornecerá a inteligência artificial para detectar padrões de evasão no
+endpoint e na nuvem, proporcionando uma visão unificada da telemetria de ataque. O diferencial
+de resiliência, contudo, reside no SOAR, que executará playbooks (manuais de resposta
+orquestrados) de forma automatizada. Caso um ransomware tente cifrar uma máquina em uma
+secretaria municipal, o SOAR deve isolar o endpoint da rede automaticamente em frações de
+segundo, mitigando o movimento lateral antes mesmo da intervenção humana.
+
+--- [pag. PDF 5] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 5 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+A condução dessa orquestração técnica caberá ao SOC (Security Operations Center), que
+deverá operar em regime 24x7. A presença de um SOC transfere o ônus da triagem e contenção
+de ameaças para uma equipe terceirizada especializada, suprindo a histórica deficiência de
+analistas de segurança no quadro efetivo dos Municípios. Além disso, a gestão operacional
+deverá alinhar-se à norma ISO 22301, que estabelece os requisitos para o Sistema de Gestão
+de Continuidade de Negócios (SGCN). A contratada deve conduzir Análises de Impacto nos
+Negócios (BIA) e garantir que a infraestrutura ofereça redundância e planos de contingência
+aptos a reestabelecer o funcionamento da municipalidade em tempos mínimos perante
+incidentes disruptivos.
+Em atenção imperiosa aos deveres impostos pela LGPD e pelos normativos da ANPD, o
+monitoramento deve gerar trilhas de auditoria íntegras. A Resolução CD/ANPD nº 15/2024
+estipula prazos exíguos (frequentemente três dias úteis) para que o Controlador de Dados (o
+Município) comunique a ocorrência de incidentes que acarretem risco ou dano relevante aos
+titulares. Sem a rastreabilidade em tempo real provida pelo arranjo SIEM/SOC, os Municípios
+estariam fadados ao descumprimento legal, sujeitando-se a pesadas sanções pecuniárias e
+institucionais.
+Por fim, os critérios e práticas de sustentabilidade permeiam toda a logística da contratação. É
+vedada a entrega de ativos desprovidos de certificações de eficiência energética. No tocante à
+destinação final e à logística reversa, a execução do contrato submete-se ao Decreto Federal nº
+10.240/2020, incumbindo à contratada o recolhimento e o tratamento do lixo eletrônico (e-waste).
+Contudo, a higienização física não prescinde da sanitização lógica. O descarte ou o
+remanejamento de qualquer mídia de armazenamento deverá observar os métodos destrutivos
+ou de sobrescrita criptográfica estipulados no NIST Special Publication 800-88 Revision 1
+(Guidelines for Media Sanitization). A exclusão simples de arquivos (lógica) é insuficiente; a
+contratada deverá submeter os discos aos processos de Clear (sobrescrita de todos os setores
+endereçáveis) ou Purge (apagamento criptográfico ou de hardware avançado) emitindo, ao
+término, um Certificado de Sanitização, a fim de expurgar o risco forense de vazamento de
+informações sigilosas do Estado.
+3. Levantamento de mercado e justificativa da escolha do tipo de solução
+Em cumprimento aos ditames da Lei nº 14.133/2021 e às orientações do Tribunal de Contas da
+União (TCU), a modelagem da solução perpassou por um escrutínio mercadológico focado em
+apurar a modalidade que garante o menor Custo Total de Propriedade (TCO - Total Cost of
+Ownership) ao longo do ciclo de vida da tecnologia. O Acórdão 3.091/2014-TCU-Plenário fixou
+
+--- [pag. PDF 6] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 6 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+o entendimento de que a locação de computadores deve ser invariavelmente precedida de
+estudos de viabilidade técnica e econômica que certifiquem sua vantajosidade frente à aquisição.
+A análise técnica delineou os arranjos logísticos e tecnológicos viáveis, submetendo-os a um
+crivo comparativo pormenorizado quanto à viabilidade, gestão e segurança:
+Fator de Avaliação
+Alternativa 1:
+Aquisição Tradicional
+e Fragmentada
+(Compra de Hardware
++ Licenças Avulsas)
+Alternativa 2: Locação
+HaaS/IaaS com SOC
+Integrado (Modelo
+Adotado)
+Alternativa 3:
+Chamamentos para
+Doação de Ativos
+Impacto
+Orçamentário
+Imobilização imediata de
+expressivo volume
+orçamentário (CAPEX).
+Despesas imprevisíveis
+com quebras de peças
+após o vencimento da
+garantia legal.
+Transição integral para
+despesas de custeio
+(OPEX) com
+previsibilidade de
+desembolso mensal,
+fixo e atrelado ao SLA
+de entrega.
+Custo nulo de
+aquisição, porém,
+altíssimo custo de
+manutenção corretiva,
+inadequação
+energética e falta de
+peças de reposição no
+mercado secundário.
+Obsolescência e
+Atualização
+Os equipamentos sofrem
+depreciação acelerada.
+O ciclo de vida finda em
+aproximadamente cinco
+anos, gerando o passivo
+de alienação e
+sucateamento para o
+Poder Público.
+A responsabilidade pela
+atualização tecnológica
+("tech refresh") recai
+sobre o parceiro
+privado. Garantia de
+uso de ativos sempre
+compatíveis com os
+requisitos modernos de
+segurança.
+O Estado se torna
+depositário de "lixo
+tecnológico"
+(obsolescência
+programada de
+terceiros),
+comprometendo a
+performance e a
+segurança dos dados.
+Segurança e
+Continuidade
+(SOC/XDR)
+A Administração
+precisaria gerir contratos
+apartados para firewalls,
+XDR, SIEM e SOC. A
+multiplicidade de
+plataformas gera lacunas
+de cobertura cibernética
+(blind spots).
+A arquitetura
+cibernética é
+nativamente acoplada
+ao hardware. A resposta
+a incidentes flui sem
+atritos burocráticos ou
+"jogo de empurra" entre
+fornecedores distintos.
+Os hardwares legados
+geralmente não
+suportam as
+tecnologias modernas
+de criptografia (como
+chips TPM 2.0)
+exigidas para
+segurança de endpoint
+e proteção contra
+intrusão.
+Economia Circular e
+Destinação
+O descarte exige a
+realização de leilões
+onerosos ou processos
+complexos de alienação
+ambientalmente
+adequada por parte do
+Município.
+A contratada detém a
+propriedade fiduciária e
+operacionaliza o take-
+back, reinserindo os
+materiais reciclados na
+indústria, respeitando o
+Decreto nº 10.240/2020
+e efetuando o NIST 800-
+88.
+Inviabiliza a
+circularidade
+sustentável, pois o
+maquinário recebido
+em doação
+frequentemente já
+esgotou seu ciclo de
+vida passível de
+reciclagem limpa.
+A avaliação econômica comprova, sem margem para equívocos, que o modelo de HaaS
+associado a serviços gerenciados em nuvem e SOC apresenta vantagens esmagadoras para a
+Administração Pública Consorciada. A Portaria SGD/MGI nº 1.070/2023 e normativos federais
+
+--- [pag. PDF 7] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 7 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+correlatos sobre serviços de infraestrutura e atendimento ao usuário de TIC orientam que o
+modelo de locação reduz drasticamente os desperdícios ocultos. Além disso, o Tribunal de
+Contas da União, mediante os recentes Acórdãos nº 157/2024 e nº 292/2025, tem enfatizado a
+necessidade de práticas de governança estruturadas (como o FinOps) e o controle rigoroso sobre
+os custos da adoção de serviços em nuvem (IaaS). A solução unificada HaaS permite a
+rastreabilidade total do gasto, onde o faturamento ocorre exclusivamente pela máquina que está
+efetivamente operante e integrada ao monitoramento do SOC, suprimindo o pagamento por
+"capacidade ociosa" tradicionalmente observada na aquisição.
+4. Descrição da solução como um todo
+O ciclo de vida da prestação de serviços a ser pactuada delineia uma trajetória ponta a ponta
+(end-to-end), transferindo o peso da complexidade operacional do Município para a gestão
+especializada da Contratada. A solução manifesta-se nos seguintes macroprocessos evolutivos,
+todos albergados pelo escopo da fatura mensal consolidada:
+O processo de Implantação e Transição marca o início da vigência operacional. A contratada
+deverá confeccionar a arquitetura lógica e promover a entrega, instalação física (rollout) e
+configuração das estações de trabalho diretamente nas dependências de cada ente consorciado
+demandante. Os ativos deverão ser carregados com imagens de sistema operacional
+padronizadas e embarcados de forma indissociável com os agentes sensores do XDR,
+garantindo a inserção imediata da máquina na rede de monitoramento do SIEM/SOC. A
+padronização anula as variabilidades tecnológicas locais e estabelece uma fundação
+homogênea de resiliência.
+A fase de Suporte e Operação Contínua compreende o coração do SLA. O atendimento ao
+usuário (Nível 1, 2 e 3) e o suporte técnico avançado deverão fluir por intermédio de ferramentas
+de ITSM (IT Service Management) com controle de acesso rigoroso e criptografado para o
+suporte remoto. A intervenção presencial deve obedecer a uma janela de tempo inflexível
+estatuída contratualmente.
+No que concerne à Manutenção e Assistência Técnica, consolida-se a premissa de que a
+prestação do serviço público não pode tolerar hiatos. A manutenção corretiva tem o dever de
+restaurar a operabilidade de qualquer equipamento defeituoso no prazo máximo de 15 (quinze)
+dias úteis. Considerando a essencialidade do serviço, a contratada deve prover o remanejamento
+imediato de uma máquina de reserva (equipamento de backup, de especificação igual ou
+superior) durante o trâmite de reparo do ativo original, extirpando qualquer ociosidade
+remunerada do servidor público municipal.
+
+--- [pag. PDF 8] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 8 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+As dinâmicas de Nuvem e Recuperação de Desastres estão intrinsecamente amarradas ao
+arcabouço de manutenção técnica. O armazenamento, a configuração sistêmica e as rotinas de
+salvaguarda dos dados (IaaS/SaaS) serão executados nos datacenters da contratada, operando
+com rotinas de backup espelhado e criptografado. Caso ocorra uma catástrofe estrutural em um
+prédio municipal (incêndio ou enchente), a assistência técnica assegurará que o perfil do usuário,
+o sistema operacional parametrizado e os arquivos criptografados sejam restaurados
+integralmente em uma nova máquina, ratificando a conformidade com as melhores práticas de
+Continuidade de Negócios (ISO 22301).
+A última engrenagem, o Desfazimento Seguro, ocorrerá na extinção da ata, do contrato ou na
+devolução de componentes avariados. A contratada submeterá a totalidade das mídias
+magnéticas e de estado sólido ao estrito cumprimento do NIST 800-88 Revision 1. A sanitização
+dos dados, validada mediante a emissão do competente Certificado de Sanitização de Mídias,
+bloqueia de forma absoluta o vetor de risco de exfiltração de dados remanescentes em
+dispositivos sucateados, blindando juridicamente a Administração perante as sanções da Lei
+Geral de Proteção de Dados.
+5. Estimativa das quantidades a serem contratadas e memórias de cálculo
+A fixação das métricas quantitativas do certame é um vetor fundamental para justificar a
+legitimidade da Atas de Registro de Preços sob o formato Consorciado, exigindo cautela
+estatística para obstar o sobredimensionamento desmotivado ou o subdimensionamento que
+limite as operações institucionais, conforme a tônica de planejamento da fase preparatória
+estipulada pelo art. 18, § 1º, inciso IV, da Lei nº 14.133/2021.
+O método aplicado para o cálculo global da necessidade consolidada partiu da agregação
+documental manifestada e subscrita por ofícios gerados pelas lideranças administrativas e de TI
+de cada Município aderente ao CIMARG. Cada ente federativo autônomo analisou seu passivo
+tecnológico legível para substituição, relacionou o quadro de recursos humanos ativos e aferiu a
+compatibilidade de expansão frente à obsolescência iminente.
+Para conferir lisura técnica e amparo aos princípios de economicidade e eficiência, a
+Coordenação do Consórcio aplicou uma verificação estatística pautada no Princípio da
+Razoabilidade. Os números solicitados pelas prefeituras foram cruzados com um fator de
+ponderação embasado no Censo populacional e na folha de pagamentos (parâmetros de porte).
+Caso o somatório das demandas superasse os limites razoáveis de contratação pretendidos pelo
+CIMARG, a metodologia previu a adoção do Rateio Proporcional Sistêmico para assegurar a
+distribuição isonômica das unidades licitadas:
+
+--- [pag. PDF 9] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 9 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+𝑄𝑄 = 𝑄𝑄𝑄𝑄𝑄𝑄 × (𝑄𝑄
+𝑄𝑄)
+Nesta formulação:
+● 𝑄𝑄 denota a cota máxima alocada para o Município específico (𝑄);
+● 𝑄𝑄𝑄𝑄𝑄𝑄 reflete o teto máximo admitido para homologação no Edital daquele item
+tecnológico;
+● 𝑄𝑄 expressa a base de ponderação populacional/estrutural daquele ente, sendo dividida
+pela somatória consolidada do consórcio (𝛴𝑄).
+A compilação do planejamento originou o consolidado quantitativo, subdividido analiticamente
+em colunas de faturamento mensal por endpoint nas Categorias A, B e C, culminando também
+na proporcionalidade paralela das subscrições de segurança avançada, onde para cada máquina
+física ativa haverá exatamente uma licença e telemetria de nuvem associada (XDR/SOC) para
+cobrir a superfície de ataque.
+A lógica desta robusta centralização converge para a essência da Economia de Escala. Se, em
+uma conjectura de fragmentação, um pequeno Município (com demanda restrita de 10 a 20
+computadores) instaurasse seu próprio Pregão Eletrônico, o custo unitário ofertado pelo mercado
+abrigaria severas taxas de amortização para a montagem e sustentação da estrutura dedicada
+de um SOC e do software gerenciador de rede. Ao se alinhar a licitação para centenas ou
+milhares de endpoints por intermédio do consórcio CIMARG, o mercado consegue diluir a
+margem de custo logístico, tributário e da plataforma base. Consegue-se, assim, democratizar o
+acesso a soluções de topo de linha para toda a microrregião do Alto Rio Grande, em compasso
+perfeito com as prerrogativas de colaboração interfederativa disciplinadas pelo Decreto nº
+6.017/2007.
+6. Estimativa do Valor da Contratação e Composição do Orçamento
+O valor estimado da contratação será apurado mediante pesquisa de preços, observados os
+parâmetros do art. 23 da Lei Federal n.º 14.133/2021 e do Decreto Federal n.º 11.462/2023, em
+especial:
+a) Painel de Preços do Governo Federal;
+b) Contratações similares de outros entes públicos, inclusive consórcios públicos;
+c) Mídia especializada, sítios eletrônicos de domínio amplo, bem como tabela de fabricantes;
+d) Pesquisa direta junto a, no mínimo, 03 (três) fornecedores do mercado.
+A planilha de composição dos preços estimados constará dos autos do processo administrativo,
+sendo parte integrante dos anexos do Edital.
+
+--- [pag. PDF 10] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 10 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+7. Justificativa para parcelamento ou não da contratação
+A decisão sobre o parcelamento do objeto em uma licitação é um dos pilares do planejamento
+de uma contratação pública eficiente. A regra geral, conforme estabelecido pela Lei nº
+14.133/2021 (Nova Lei de Licitações e Contratos Administrativos) e consolidado pela Súmula nº
+247 do Tribunal de Contas da União (TCU), é o dever de parcelar.
+O objetivo primordial do parcelamento é ampliar o universo de competidores, permitindo a
+participação de empresas de diferentes portes e especialidades, o que tende a gerar propostas
+economicamente mais vantajosas para a Administração Pública. A adjudicação por itens, e não
+por preço global, é mandatória sempre que o objeto for divisível, desde que não acarrete prejuízo
+ao conjunto da solução ou perda de economia de escala.
+Contudo, a própria legislação e a jurisprudência preveem exceções. A contratação de um objeto
+como um todo (não parcelado) é permitida e recomendada quando o parcelamento se
+demonstrar tecnicamente inviável ou economicamente desvantajoso.
+A opção quanto ao parcelamento ou não da solução, deve considerar as vantagens e
+desvantagens decorrentes da forma escolhida para a natureza do objeto, as etapas referentes à
+seleção do fornecedor, e especificidades inerentes à gestão do contrato como um todo.
+Em regra geral, nos termos do art. 47, II da Lei n. 14.133/21, exige-se o parcelamento do objeto
+licitado sempre que isso se mostre técnica e economicamente viável e desde que não haja
+prejuízo para o conjunto ou complexo ou perda de economia de escala, tendo em vista o objetivo
+de propiciar a ampla participação.
+O parcelamento do objeto é a regra incrustada no art. 47, inciso II, da Lei nº 14.133/21 e na
+Súmula 247 do TCU, visando à ampliação da competitividade. O preceito do parcelamento do
+objeto, positivado no art. 40, inciso V e § 2º da nova Lei de Licitações (Lei nº 14.133/2021), dita
+a regra geral de que as licitações devem ser divididas em tantas parcelas quantas se
+comprovarem técnica e economicamente viáveis. Porém, o regramento estipula uma
+condicionante inflexível: a divisão não pode ocorrer quando acarretar perda de economia de
+escala, prejuízo para o conjunto da solução ou comprometimento sistêmico da responsabilidade
+do contratado.
+Sob a luz da engenharia de redes e da cibersegurança e mediante forte arrimo nas balizas do
+TCU, determina-se que o núcleo tecnológico e o provimento de serviços não serão
+parcelados (fracionados) em licitações independentes. O objeto será ofertado em um
+agrupamento integrado (Grupos Globais por perfil regional ou por solução completa). As
+motivações para esta indivisibilidade são axiomáticas e irrevogáveis:
+
+--- [pag. PDF 11] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 11 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+● Impossibilidade de Fragmentação da Resiliência Cibernética: Tratar o hardware (os
+computadores locados) e a matriz de defesa (SOC, SOAR, XDR) como blocos
+independentes atenta contra a arquitetura Zero Trust. A efetividade do SOAR na isolação
+de máquinas frente a um vetor de ataque avançado pressupõe a integração perfeita e a
+ausência de atritos de configuração entre a BIOS, o Sistema Operacional e os agents de
+nuvem. Dividir as contratações submeteria o CIMARG ao perigoso cenário onde o
+provedor de computadores culparia o provedor de SOC por travamentos no sistema
+operativo (o clássico e deletério fenômeno de "finger-pointing" ou jogo de empurra),
+minando a governança pública e paralisando a atuação dos fiscais.
+● Diluição Transacional Ineficiente: Conduzir dezenas de pregões apartados (um para
+notebooks, um para antivírus, um para SOC, um para gestão de backup) destruiria a
+economia de escala perseguida pelo CIMARG. Além da elevação dos custos
+administrativos na elaboração e gestão de Atas isoladas, a multiplicidade de painéis de
+administração ampliaria artificialmente a superfície de ataque (attack surface), criando
+múltiplas portas de entrada para malwares.
+● Responsabilização Unívoca do SLA: Para que os modelos de glosa de pagamento e
+penalidades tenham exequibilidade fática e sustentação jurídica, o fornecedor deve ter
+a custódia sistêmica completa da falha até a resolução. A contratação unificada força a
+empresa vencedora a absorver toda a complexidade e a orquestrar os seus parceiros
+tecnológicos para o pleno atingimento das métricas acordadas no Nível de Serviço.
+Garante-se a livre concorrência ao admitir que empresas agreguem parcerias tecnológicas
+sistêmicas e que possam, sob as restrições da lei, utilizar subcontratações apenas para
+viabilidades periféricas autorizadas (logística, instalações pontuais de cabeamento estruturado,
+caso exigíveis), blindando a essência da operação no fornecedor principal.
+8. Contratações correlatas e/ou interdependentes
+Uma virtude pragmática desta modelagem como serviço gerenciado em nuvem (As a Service)
+reside no seu baixíssimo grau de dependência para com outras aquisições governamentais de
+vulto. A solução é encapsulada e intrinsecamente autossuficiente em relação ao seu propósito.
+Entretanto, para que o valor da locação e da resposta orquestrada de segurança materializem
+resultados práticos, as infraestruturas dos Municípios consorciados deverão assegurar os
+requisitos operacionais ordinários preexistentes, a saber:
+● Conectividade: Manutenção ativa dos contratos de provimento de acesso à internet por
+banda larga ou links dedicados, além da topologia de rede local (LAN e Wi-Fi), permitindo
+
+--- [pag. PDF 12] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 12 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+que a telemetria dos equipamentos escoe fluidamente para a análise e intervenção do
+SOC.
+● Infraestrutura Elétrica e Climatização Básica: Provisão do fornecimento estável de
+energia elétrica e ambiente abrigado de intempéries extremas nas repartições públicas
+para garantir a longevidade material do patrimônio alocado e salvaguardar a garantia
+das peças.
+Trata-se de contratos independentes inerentes ao funcionamento ordinário da máquina pública,
+não configurando obstáculos ou interdependências paralisantes que obstruam o andamento
+imediato do presente pleito licitatório.
+9. Previsão no Plano de Contratações Anual
+O planejamento e a rastreabilidade da contratação governamental consubstanciam os alicerces
+do controle social e institucional sob a nova ordem da Lei nº 14.133/2021. Em atenção ao
+disposto no artigo 12, inciso VII, a referida necessidade foi inserida nas tratativas e consolidações
+do Plano de Contratações Anual (PCA) do CIMARG (bem como compõe a diretriz do
+Planejamento Estratégico de Tecnologia da Informação do consórcio, nos moldes da IN SGD/ME
+nº 94/2022) para o exercício financeiro de deflagração e vigência do certame.
+Dada a modelagem inerente ao Sistema de Registro de Preços, que não deságua em uma
+obrigação imediata e total de compra, caberá a cada um dos Municípios aderentes no momento
+propício do exercício de suas contratações (via adesão legal na qualidade de órgão participante)
+assegurarem o devido amparo nos seus respectivos Planejamentos Orçamentários, Projetos de
+Lei de Diretrizes Orçamentárias (LDO) e Leis Orçamentárias Anuais (LOA) locais, suportando a
+geração discricionária das notas de empenho necessárias antes da assinatura de seus contratos
+ou emissão das Ordens de Serviço.
+10. Demonstrativo dos resultados pretendidos
+A adoção do arcabouço tecnológico pautado neste ETP reverberará efeitos transformadores
+muito além do departamento de infraestrutura, atingindo a entrega finalística do serviço público
+com profunda aderência aos princípios da impessoalidade e da eficiência. Destacam-se as
+seguintes frentes de resultados pretendidos:
+● Economicidade via Modelo de Despesa (FinOps e OPEX): A conversão de pesados
+investimentos em capital (CAPEX) — sujeitos ao sucateamento inevitável — para uma
+linha de despesas operacionais flexíveis (OPEX) protege a integridade do tesouro
+
+--- [pag. PDF 13] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 13 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+municipal. Práticas incipientes de Finanças em Nuvem (FinOps) orientam que se pague
+exclusivamente pelos ativos físicos e lógicos instanciados, extinguindo a manutenção
+paralisante de dezenas de computadores que jazem sem uso ou aguardam licitação de
+peças sobressalentes. O modelo reduz de forma mensurável o Custo Total de
+Propriedade (TCO).
+● Otimização Estratégica dos Recursos Humanos: Os quadros técnicos dos servidores
+de TI municipais e do consórcio vivenciam um crônico esgotamento (burnout), sendo
+sobrecarregados na resolução de incidentes microestruturais (impressoras,
+travamentos, suporte primário e "fadiga de alertas" de cibersegurança). O presente
+contrato repassará todo esse passivo burocrático e a triagem exaustiva de inteligência
+de ameaças para as plataformas do SOC e a IA do SOAR. Ao liberar os servidores da
+atuação reativa (o "apagar de incêndios"), a Administração ganha capital humano para
+fomentar inovações essenciais (ex.: portais de transparência, digitalização processual,
+análise preditiva na saúde e educação).
+● Segurança e Mitigação de Riscos Multimilionários: O sequestro de dados e o ataque
+persistente configuram o maior risco cibernético existencial da década. Sequer a melhor
+mitigação é isenta de vulnerabilidades. Com a blindagem pautada pelas matrizes de XDR
+e pela ISO 22301, mitiga-se exponencialmente as interrupções duradouras da máquina
+pública. Em contrapartida, caso um infortúnio ocorra, a rastreabilidade analítica exigida
+possibilitará o preenchimento cirúrgico dos severos relatórios demandados pela ANPD
+nos moldes da Resolução nº 15/2024, mitigando a aplicação de multas punitivas.
+11. Providências a serem adotadas pela Administração previamente à celebração do
+contrato
+Embora o arranjo mercadológico encarregue a licitante vencedora da maciça execução técnica
+da plataforma, a maturidade na gestão do ajuste exige o cumprimento formal e organizacional
+das esferas públicas consorciadas:
+● Governança, Fiscalização e Gestão de Contratos: Conforme ordenamento do art. 7º
+e art. 117 da Lei nº 14.133/2021, o CIMARG e as Prefeituras deverão promover a
+designação formal (mediante Portaria) de uma estrutura de governança qualificada. A
+segregação de funções requer a indicação do Gestor do Contrato e dos Fiscais
+Administrativo, Técnico e Setorial, cujas atribuições se voltarão primordialmente à gestão
+da conformidade e ao rigor na análise dos relatórios submetidos pela Contratada.
+
+--- [pag. PDF 14] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 14 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+● Capacitação para o Cômputo do Acordo de Nível de Serviço (SLA) e Glosas: A
+eficácia do contrato baseia-se num sistema de aferição objetiva e não no pagamento
+automático da fatura. Será indispensável o alinhamento (capacitação expressa) dos
+Fiscais para que interpretem tecnicamente as matrizes do Indicador de Nível de Serviço.
+Por exemplo: O modelo matemático do Anexo de SLA preverá que o faturamento sofrerá
+glosas punitivas escalonadas, ponderando severamente os descumprimentos do Tempo
+Médio de Reparo (MTTR), da disponibilidade dos endpoints em nuvem e dos atrasos na
+entrega dos relatórios executivos. Essa prática converte a fiscalização empírica e vaga
+em uma sanção econômica instantânea aplicada à medição mensal do pagamento.
+● Adequação Física e Inventário de Legado: Cada Município precisará inventariar seu
+maquinário legado, destinando local seguro e viável para o rollout de implantação da
+Contratada, de modo a assegurar transições ágeis no lapso exíguo de 15 dias
+concedidos para a efetivação.
+● Vinculação Orçamentária e Adesão Consorciada: Cumprimento do arcabouço
+normativo para assinatura de atas e formalização de Contratos Derivados entre a
+contratada e o ente aderente com emissão pontual e garantida da respectiva nota de
+empenho que suportará as mensalidades subsequentes.
+12. Descrição de possíveis impactos ambientais e respectivas medidas mitigadoras
+Como imperativo sistêmico de sustentabilidade e pilar de compras ecológicas referendado pelo
+art. 11, IV, da Lei nº 14.133/2021, o escopo deste Estudo Técnico absorve diretrizes modernas
+de responsabilidade corporativa (ESG) frente a um dos grandes flagelos ambientais urbanos do
+século XXI: o resíduo de equipamentos eletroeletrônicos (e-waste).
+A contratação prevê uma tripla vertente de neutralização e sustentabilidade:
+● Logística Reversa Obrigatória (Economia Circular): Evade-se, permanentemente, o
+modelo linear em que bens de informática encerram sua vida apodrecendo em depósitos
+municipais, gerando vazamento de metais pesados para os lençóis freáticos. Pelo
+modelo de aluguel (HaaS), a contratada, como titular proprietária, submete-se de ofício
+aos impositivos do Decreto Federal nº 10.240/2020. Exigir-se-á, de maneira inconteste,
+a remoção da infraestrutura física pela própria contratada ao fim da pactuação ou em
+trocas corretivas. Caberá a ela garantir o recondicionamento ou o encaminhamento
+ambientalmente certificado para os canais de reciclagem.
+● Eficiência de Insumos (Green IT): A especificação técnica restringe a participação e
+submissão de equipamentos cuja arquitetura demande fontes desreguladas ou que não
+
+--- [pag. PDF 15] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 15 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+apresentem selos internacionais (e.g., EPEAT, Energy Star ou certificações Procel
+compatíveis), maximizando a redução na fatura energética global dos Municípios ao
+substituir equipamentos obsoletos e hiper-consumidores.
+● Sanitização Ambiental Associada à Ciber-Resiliência: O desfazimento da vida útil do
+hardware esbarra em um severo impacto ambiental/informacional. Como medida
+mitigadora intransigível, a contratada deve aplicar, no momento do recolhimento, a rígida
+cartilha NIST SP 800-88 Revision 1 de Sanitização de Mídias. Esta normatização dita
+processos forenses (via Clear - sobrescrita zero-fill; ou Purge - comando criptográfico)
+para que a mídia magnética ou de memória flash possa ser devolvida, reaproveitada ou
+pulverizada sem carrear consigo fragmentos de dados dos cidadãos locais (mitigando
+acidentes de percurso perante as restrições da LGPD e do Conselho Deliberativo da
+ANPD). O processo finda com a certificação audível de sanitização outorgada à
+Administração.
+13. Posicionamento conclusivo sobre a adequação da contratação
+Alimentada pelas manifestações exaradas ao longo deste farto documento, a presente equipe
+técnica assenta um posicionamento insofismável quanto à VIABILIDADE TÉCNICA E
+ECONÔMICA, À LEGALIDADE E À NECESSIDADE IMPERIOSA de consecução deste
+certame licitatório nas exatas bases traçadas.
+A orquestração do Registro de Preços, pautada em HaaS/IaaS e centralizada pelo CIMARG,
+demonstrou consistência metodológica incomparável frente a modelos ultrapassados de
+aquisição departamental. Trata-se do alinhamento simétrico aos preceitos da Lei Federal nº
+14.133/2021 e à inteligência cristalizada nos manifestos Acórdãos do TCU quanto às premissas
+do Custo Total de Propriedade e aos cuidados na contratação e gestão em nuvem.
+O amálgama da infraestrutura escalável ao arcabouço protetivo do NIST Cybersecurity
+Framework 2.0 — com endpoints blindados por XDR, tráfego monitorado via SIEM e SOAR em
+ambiente SOC ininterrupto — não configura um capricho mercadológico, mas um dever basilar
+de conformidade com os regramentos da Autoridade Nacional de Proteção de Dados (Resolução
+CD/ANPD nº 15/2024). Garante-se, de ponta a ponta, que os Municípios do Alto Rio Grande
+possam migrar da defensiva reativa para o controle estratégico.
+Recomenda-se o prosseguimento regular da fase preparatória visando a ratificação e adoção do
+Termo de Referência em Anexo e a deflagração do Edital na modalidade Pregão Eletrônico, pelo
+critério de julgamento de Menor Preço Global por Lote, ratificando que a contratação
+
+--- [pag. PDF 16] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 16 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
+consubstancia o melhor e mais avançado arranjo de garantia da utilidade pública e proteção do
+erário, convergindo à excelência e transparência governamental exigidas no limiar do século XXI.
+14. Análise de riscos
+A equipe responsável identificou os principais riscos que podem comprometer o êxito da licitação
+ou a boa execução do contrato, bem como as respectivas medidas de mitigação e contingência.
+A seguir, apresentam-se os riscos mapeados:
+Risco Identificado Probabilidade Impacto Medidas Preventivas /
+Mitigadoras
+Fornecimento de materiais
+fora das especificações
+técnicas
+Médio Alto
+Exigir amostras e catálogos
+técnicos; penalidades
+contratuais
+Inadimplência da contratada Baixo Alto
+Rigor na habilitação jurídica,
+fiscal e econômico-
+financeira; análise de
+índices contábeis
+Ausência de destinação
+ambiental correta Médio Alto
+Exigir comprovação por
+meio de CDFs e controle
+documental periódico
+Conflito de interpretação
+técnica nas ordens de serviço Médio Médio
+Estabelecer modelo de OS
+padronizado e cronograma
+com metas físicas
+A presente análise será atualizada, caso necessário, durante a fase interna de elaboração do
+edital, com base nas manifestações recebidas na etapa de intenção de registro de preços e no
+levantamento definitivo das condições de mercado.
+Lavras - MG, 04 de Setembro de 2026.
+Arnaldo Messias Mesquita
+Secretário Executivo
+Responsável pela elaboração do Estudo Técnico Preliminar
+
+--- [pag. PDF 17] ---
+CIMARG
+CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DO ALTO RIO GRANDE
+Rua: Sebastião Barnabé Passos Júnior, 70 - Residencial Alphaville Cep: 37.203-676
+Email: amalglv02@gmail.com Telefone: (35) 3821 - 4566 - (35) 988180208
+CNPJ: 21.270.505/0001-46
+Página 17 de 17
+Aguanil - Bom Sucesso - Cana Verde - Candeias - Camacho - Campo Belo - Cristais -
+Ibituruna - Ijaci - Ingaí - Itumirim - Itutinga - Lavras - Luminárias - Nazareno -
+Nepomuceno - Oliveira - Passa Tempo - Perdões - Ribeirão Vermelho - Santana Do
+Jacaré - Santo Antônio Do Amparo - São Bento do Abade - São Francisco de Paula
