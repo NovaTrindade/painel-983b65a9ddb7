@@ -1,0 +1,322 @@
+=== DOCUMENTO 4: 18/2026.pdf ===
+tipo: Mapa de Riscos | páginas: 5 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/56089790000188/compras/2026/297/arquivos/4
+
+--- [pag. PDF 1] ---
+1 de 5
+ESP-GAB. SEC. MEIO AMBIENTE, INFRA LOG.
+Mapa de Gerenciamento de Riscos 18/2026
+1. Informações Básicas
+Número do Mapa de Gerenciamento de Riscos Responsável pela Edição Data de Criação
+18/2026 LUIZ GUSTAVO BESERRA SANTOS 02/07/2026 16:38
+Status do Mapa de Gerenciamento de Riscos
+Assinado ( )	Planejamento
+Objeto do Mapa de Riscos
+Locação contínua de computadores, workstations e notebooks com instalação, suporte, manutenção e gestão de ativos para a SEMIL.
+2. Histórico de Revisões
+Nenhuma Revisão encontrada.
+3. Riscos Identificados
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-01
+O certame pode atrair
+poucos competidores
+ou até fracassar por
+exigências técnicas e
+de certificação muito
+específicas.
+O documento traz requisitos bastante detalhados
+de hardware, software, certificações, marcas
+/modelos, mesma marca entre componentes e
+comprovações documentais.
+Planejamento Administração Alto
+Impactos
+1 Menor disputa, possível aumento do preço, atraso na contratação e necessidade de revisão do TR.
+Ações Preventivas
+P-01 Validar a aderência das especificações ao mercado disponível. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Revisar se todos os requisitos são realmente indispensáveis. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Revisar o Termo de Referência. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Ajustar requisitos excessivamente restritivos. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-03 Repetir a licitação, se necessário. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-02
+O licitante vencedor
+pode não comprovar
+habilitação jurídica,
+fiscal, trabalhista,
+econômico-financeira
+ou técnica.
+O documento exige certidões, registros,
+documentos técnicos, catálogos, declarações e
+comprovações de conformidade.
+Seleção do Fornecedor Administração Alto
+Impactos
+1 Desclassificação, retrabalho na análise, atraso na formalização do contrato.
+Ações Preventivas
+P-01 Conferir previamente toda a documentação exigida. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Exigir comprovações claras de conformidade técnica junto à proposta. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Verificar certidões e registros em fontes oficiais. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Inabilitar/desclassificar o fornecedor. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Convocar o próximo colocado. Responsável: LUIZ GUSTAVO BESERRA
+UASG 260101
+
+--- [pag. PDF 2] ---
+2 de 5
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-03
+Os equipamentos
+podem não ser
+e n t r e g u e s ,
+configurados e
+instalados dentro do
+prazo contratual.
+O objeto envolve grande quantitativo de
+equipamentos, diversas unidades atendidas e
+prazos de entrega e instalação definidos por
+etapa no cronograma de implantação do Termo
+de Referência, com possibilidade de atraso na
+execução das Ordens de Serviço.
+Gestão de Contrato Administração Alto
+Impactos
+1 Descontinuidade operacional, atraso no uso dos postos de trabalho, possível necessidade de prorrogação e glosas.
+Ações Preventivas
+P-01 Elaborar plano logístico detalhado. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Organizar cronograma por unidade e por item. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Garantir equipes e capacidade de transporte compatíveis com a demanda. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Priorizar entregas críticas. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Substituir temporariamente equipamentos atrasados. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-03 Aplicar penalidades contratuais cabíveis. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-04
+A Contratada pode não
+cumprir os prazos de
+início e conclusão do
+atendimento técnico,
+especialmente nas
+u n i d a d e s
+descentralizadas.
+Há SLA rigoroso para sede e demais unidades,
+com atendimento presencial e remoto, além de
+dispersão geográfica das localidades
+Gestão de Contrato Administração Alto
+Impactos
+1 Indisponibilidade de equipamentos, queda de produtividade, glosas e sanções.
+Ações Preventivas
+P-01 Manter central de atendimento estruturada. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Monitorar chamados e tempos de resposta continuamente. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Substituir imediatamente o equipamento por outro equivalente. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Reforçar o atendimento com equipe de apoio. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-03 Registrar e tratar a ocorrência para fins de sanção e glosa. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-05
+A Contratada pode não
+manter estoque de
+contingência suficiente
+ou não recompor a
+reserva no prazo
+exigido.
+O TR exige reserva técnica mínima de 2% em
+cada item, pronta para uso imediato e
+recomposição em até 48 horas.
+Gestão de Contrato Administração Alto
+Impactos
+1 Aumento do tempo de indisponibilidade, risco de descumprimento de SLA e continuidade do serviço.
+Ações Preventivas
+P-01 Manter controle permanente da reserva técnica. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Conferir a configuração padrão dos equipamentos de contingência. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Repor imediatamente os itens utilizados. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Providenciar substituição por outro equipamento equivalente. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Reforçar a reserva com recomposição urgente. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-03 Comunicar a fiscalização e registrar o descumprimento. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+
+--- [pag. PDF 3] ---
+3 de 5
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-06
+Dados, perfis ou
+configurações dos
+usuários podem ser
+perdidos, corrompidos
+ou não restaurados
+corretamente.
+A solução exige migração de dados, restauração
+de informações e validação após instalação,
+manutenção ou troca de equipamento.
+Gestão de Contrato Administração Alto
+Impactos
+1 Perda de arquivos, retrabalho, interrupção de atividades e risco à integridade das informações institucionais.
+Ações Preventivas
+P-01 Realizar backup e conferência prévia. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Validar a migração antes da liberação do equipamento. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Registrar todas as etapas de atendimento e restauração. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Restaurar dados e configurações a partir de cópias de segurança. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Reexecutar a migração. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-07
+Informações da
+SEMIL podem ser
+acessadas, expostas ou
+não eliminadas
+adequadamente ao
+final do contrato.
+Técnicos, prepostos e subcontratados terão
+acesso aos equipamentos e aos dados; o TR
+exige confidencialidade, LGPD e sanitização
+segura dos discos.
+Gestão de Contrato Administração Médio
+Impactos
+1 Vazamento de dados, quebra de confiança, responsabilização da contratada e risco de incidente de segurança.
+Ações Preventivas
+P-01 Restringir o acesso apenas a pessoal autorizado. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Exigir sigilo e cumprimento das políticas de segurança da informação. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Revogar acessos ao final do contrato. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-04 Sanitizar equipamentos conforme a norma prevista no TR. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Revogar imediatamente credenciais e acessos remotos. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Reexecutar a sanitização dos dispositivos. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-03 Substituir equipamentos/medidas de contenção conforme o caso. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-04 Registrar o incidente para apuração. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-08
+O sistema fornecido
+pela Contratada pode
+não suportar a
+rastreabilidade exigida,
+os relatórios mensais
+ou o acesso simultâneo.
+O TR exige software web, histórico completo,
+exportação de dados, 15 usuários simultâneos,
+acesso contínuo e relatórios gerenciais.
+Gestão de Contrato Administração Médio
+Impactos
+1 Dificuldade de fiscalização, atraso na validação de medições, glosas e perda de histórico.
+Ações Preventivas
+P-01 Validar previamente as funcionalidades do sistema. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Testar acesso simultâneo, exportação e relatórios. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Garantir alimentação contínua dos chamados e manutenção dos registros. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Adotar registros manuais temporários. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Exigir correção imediata do sistema. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+
+--- [pag. PDF 4] ---
+4 de 5
+C-03 Suspender/retardar o ateste até a regularização das informações. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-09
+Os equipamentos
+podem ser entregues
+sem atender às
+especificações
+mínimas, sem serem
+novos, ou sem as
+certificações exigidas.
+O TR exige equipamentos novos, de primeiro
+uso, em linha de fabricação, com várias
+certificações, compatibilidades e comprovações
+do fabricante.
+Seleção do Fornecedor Administração Extremo
+Impactos
+1 Rejeição dos bens, atraso na implantação, necessidade de substituição e risco de sanções.
+Ações Preventivas
+P-01 Exigir catálogos, manuais e declarações do fabricante. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Conferir marcas, modelos e números de série na entrega. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Realizar inspeção técnica na aceitação. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Rejeitar os bens desconformes. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Exigir substituição por itens equivalentes ou superiores, sem ônus adicional. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-03 Aplicar as penalidades previstas. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Número Risco Causa do Risco Fase Alocado para Nível do Risco (I x P) Nº Item
+R-10
+A movimentação dos
+equipamentos pode
+causar danos físicos às
+instalações ou aos bens
+da Administração.
+O TR atribui à Contratada a responsabilidade
+por transporte, remanejamento, instalação,
+desinstalação e retirada, inclusive em locais fora
+da sede.
+Gestão de Contrato Administração Médio
+Impactos
+1 Danos físicos, interrupção temporária de ambientes e custos de reparação.
+Ações Preventivas
+P-01 Planejar a logística de transporte e movimentação. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-02 Usar equipes treinadas e proteção adequada. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+P-03 Conferir o local e as condições de acesso antes da operação. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+Ações de Contingência
+C-01 Reparar imediatamente os danos causados. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+C-02 Registrar a ocorrência formalmente. Responsável: LUIZ GUSTAVO BESERRA
+SANTOS
+4. Acompanhamento das Ações de Tratamento de Riscos
+Nenhum acompanhamento incluído.
+5. Responsáveis / Assinantes
+Equipe de Planejamento
+LUIZ GUSTAVO BESERRA SANTOS
+Coordenador de Governança de Tecnologia e Infraestrutura
+Assinou eletronicamente em 27/08/2026 às 10:36:10.
+
+--- [pag. PDF 5] ---
+5 de 5
+Gestão de Contrato
+LUIZ GUSTAVO BESERRA SANTOS
+Coordenador de Governança de Tecnologia e Infraestrutura

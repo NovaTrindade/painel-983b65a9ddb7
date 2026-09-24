@@ -1,0 +1,42 @@
+{
+ "id": "56089790000188-2026-297",
+ "extraidoEm": "2026-09-24T11:59:31.485Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/56089790000188/2026/297",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Estudo-Tecnico-Preliminar.txt",
+   "titulo": "Estudo Tecnico Preliminar.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 13,
+   "caracteres": 60876
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Termo-de-Referencia.txt",
+   "titulo": "Termo de Referencia.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 52,
+   "caracteres": 183996
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Edital-90011-2026-GS-Edital-158-2026.txt",
+   "titulo": "Edital 90011-2026-GS (Edital 158-2026).pdf",
+   "tipo": "Edital",
+   "paginas": 138,
+   "caracteres": 423784
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-18-2026.txt",
+   "titulo": "18/2026.pdf",
+   "tipo": "Mapa de Riscos",
+   "paginas": 5,
+   "caracteres": 11775
+  }
+ ],
+ "totalPaginas": 208,
+ "totalCaracteres": 680431,
+ "comErro": 0
+}

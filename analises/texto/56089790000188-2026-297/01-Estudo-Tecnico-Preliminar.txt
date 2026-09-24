@@ -1,0 +1,639 @@
+=== DOCUMENTO 1: Estudo Tecnico Preliminar.pdf ===
+tipo: Estudo Técnico Preliminar | páginas: 13 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/56089790000188/compras/2026/297/arquivos/1
+
+--- [pag. PDF 1] ---
+1 de 13
+a.
+b.
+c.
+d.
+e.
+ESP-GAB. SEC. MEIO AMBIENTE, INFRA LOG.
+Estudo Técnico Preliminar 28/2026
+1. Informações Básicas
+Número do processo: 020.00009076/2026-73
+2. Descrição da necessidade
+2.1. A Secretaria de Meio Ambiente, Infraestrutura e Logística — SEMIL possui atualmente contratos distintos de locação de equipamentos de
+informática, celebrados por diferentes áreas e unidades administrativas. Esse cenário resulta em assimetria de configurações, variação dos níveis de
+serviço, aumento do esforço de gestão contratual e dificuldade de planejamento orçamentário.
+2.2. A presente contratação tem por finalidade unificar, em um único instrumento contratual, a locação de microcomputadores, , notebooks e	workstations
+equipamentos correlatos, bem como os serviços de instalação, configuração, manutenção preventiva e corretiva e suporte técnico. A solução abrangerá a
+sede da SEMIL, as unidades descentralizadas, e a demanda da Policia Ambiental.
+Com a consolidação da demanda em contrato único, busca-se:
+padronizar o parque tecnológico e os níveis de serviço;
+simplificar a gestão e a fiscalização contratual;
+assegurar atendimento homogêneo e coordenado às unidades abrangidas;
+ampliar a previsibilidade orçamentária; e
+elevar a disponibilidade e a qualidade dos recursos de tecnologia da informação utilizados nas atividades finalísticas e de apoio da SEMIL.
+2.3. A solução proposta deverá permitir maior eficiência administrativa, redução de custos de transação, racionalização dos processos de gestão e
+melhoria da continuidade operacional dos serviços de tecnologia da informação.
+2.4. Não será admitida a subcontratação do objeto principal. Excepcionalmente, poderá ser autorizada a subcontratação de atividades acessórias de
+logística e transporte de equipamentos, bem como de assistência técnica e manutenção em unidades descentralizadas, desde que executadas por rede
+credenciada ou autorizada pelo fabricante. Em qualquer hipótese, a futura Contratada permanecerá integralmente responsável perante a SEMIL pelo
+cumprimento dos prazos, níveis de serviço, requisitos de qualidade e obrigações de segurança da informação.
+3. Área requisitante
+Área Requisitante Responsável
+SEMIL-SGC-DTI-CGTI Luiz Gustavo Beserra Santos
+4. Necessidades de Negócio
+4.1. A contratação de locação de computadores visa, primordialmente, consolidar em um único contrato as diversas demandas hoje atendidas por
+instrumentos separados em diferentes áreas e unidades da SEMIL, incluindo a PAMB. A fragmentação atual de contratações gera heterogeneidade de
+configurações de equipamentos, níveis de serviço distintos, maior esforço de gestão e fiscalização e dificuldade para planejamento integrado de TI.
+Nesse contexto, as necessidades de negócio que orientam o planejamento da contratação são:
+Unificação contratual das locações de equipamentos de informática, abrangendo a sede e as unidades descentralizadas da SEMIL, de forma a
+substituir gradualmente os contratos vigentes dispersos.
+Padronização do parque tecnológico e dos níveis de serviço, garantindo que todos os usuários – independentemente da unidade de lotação –
+disponham de equipamentos com especificações mínimas homogêneas e suporte técnico sob as mesmas regras de atendimento.
+Racionalização da gestão e fiscalização contratual, por meio de um único contrato, um modelo de execução uniforme e um sistema centralizado
+de gestão de ativos e chamados, reduzindo custos de transação e retrabalho administrativo.
+UASG 260101
+
+--- [pag. PDF 2] ---
+2 de 13
+Melhor capacidade de planejamento orçamentário e de longo prazo, apoiada em um serviço contínuo, plurianual, com condições comerciais
+negociadas em escala e maior previsibilidade de despesa ao longo da vigência.
+Atendimento coordenado às necessidades institucionais de TI, permitindo que evoluções, reestruturações administrativas e inclusão de novas
+unidades (dentro do Estado de São Paulo) sejam tratadas dentro de um mesmo arranjo contratual, sem multiplicação de processos de contratação.
+4.2. Em síntese, o que se busca com a solução é um contrato único de locação de equipamentos de informática com serviços associados, capaz de
+sustentar, de forma padronizada e economicamente eficiente, as atividades finalísticas e de apoio da SEMIL.
+Justificativa para Admissão Parcial de Subcontratação
+4.3. Não será admitida a subcontratação do objeto principal da contratação. Excepcionalmente, será permitida a subcontratação parcial restrita a
+atividades acessórias de logística e transporte de equipamentos, bem como para a execução de serviços de assistência técnica e manutenção em unidades
+descentralizadas, desde que realizados por rede credenciada ou autorizada pelo fabricante.
+4.3.1. Em atendimento ao item 83 do Parecer Referencial NLC 05/2026, a admissão da subcontratação parcial justifica-se pela ampla dispersão
+geográfica das unidades da SEMIL no Estado de São Paulo. A exigência de execução direta dessas atividades acessórias pela contratada restringiria a
+competitividade do certame e elevaria substancialmente os custos da contratação.
+4.3.2. A utilização de rede credenciada local garante maior agilidade no tempo de resposta aos chamados no interior e litoral, sendo medida essencial
+para assegurar o cumprimento dos Acordos de Nível de Serviço (SLA), a preservação da garantia dos bens e a manutenção da qualidade técnica exigida.
+4.3.3. A autorização para subcontratação parcial não elide nem atenua as obrigações da empresa vencedora. A Contratada permanecerá respondendo
+direta e integralmente perante a Administração pelo cumprimento de todas as obrigações contratuais, pela qualidade dos serviços prestados, pela conduta
+dos profissionais envolvidos e pela estrita observância às políticas de segurança da informação e proteção de dados.
+5. Necessidades Tecnológicas
+5.1. A contratação deverá atender às necessidades de padronização, integração, segurança, sustentabilidade e continuidade operacional do ambiente
+tecnológico da SEMIL, considerando a dispersão geográfica das unidades e a necessidade de suporte técnico centralizado, tempestivo e rastreável.
+Padronização de equipamentos e configurações: os computadores (desktops, notebooks e workstations) devem ser novos, de linha de produção
+atual, com especificações técnicas mínimas detalhadas no Anexo I.1 do TR, garantindo compatibilidade com os sistemas corporativos, políticas
+de segurança e procedimentos internos da SEMIL.
+Integração com a infraestrutura existente: os equipamentos devem ser instalados, configurados e integrados à Rede Corporativa da SEMIL,
+incluindo sistemas de autenticação, políticas de acesso, antivírus, atualizações obrigatórias e demais padrões definidos pela área de TI.
+Gestão centralizada de ativos e chamados: a solução deve incluir sistema informatizado de gestão de ativos e chamados, acessível via web, que
+permita rastreamento individualizado dos equipamentos, histórico de manutenções, registro de atendimentos e geração de relatórios gerenciais
+para fiscalização e controle.
+Suporte técnico especializado e abrangência:
+Posto de trabalho residente na Sede da SEMIL, com atendimento presencial de segunda a sexta-feira, das 8h às 18h.
+Atendimento remoto e presencial às unidades abrangidas, observados os níveis de serviço e os prazos definidos no Termo de Referência.
+Logística para deslocamento de técnicos e transporte de equipamentos, inclusive para locais de instalação excepcionais, sem ônus
+adicional para a SEMIL.
+Segurança da informação:
+Os equipamentos devem ser entregues com sistema operacional e software básico padronizado, conforme políticas internas.
+Ao término do contrato, bem como nas hipóteses de substituição de unidades de armazenamento, a Contratada deverá realizar a
+sanitização segura dos dados, mediante método tecnicamente reconhecido e compatível com a tecnologia do dispositivo, de forma a
+impedir a recuperação indevida das informações. O procedimento deverá observar as políticas de segurança da informação da SEMIL e
+ser comprovado por relatório ou declaração de execução.
+Sustentabilidade e eficiência energética: os equipamentos deverão atender às certificações e aos requisitos ambientais definidos no Anexo I.1 do
+Termo de Referência, observadas as exigências específicas de cada tipologia.
+Flexibilidade e escalabilidade: possibilidade de remanejamento de até 30% dos equipamentos entre unidades, conforme necessidade operacional,
+sem impacto nos níveis de serviço ou custos adicionais.
+5.2. Essas necessidades visam assegurar que a solução contratada esteja alinhada ao ambiente tecnológico da SEMIL, promovendo interoperabilidade,
+segurança, rastreabilidade, sustentabilidade e suporte eficiente em todas as unidades da SEMIL.
+6. Demais requisitos necessários e suficientes à escolha da solução de TIC
+6.1 Requisitos internos funcionais
+Relacionam-se diretamente às funcionalidades que a solução deve prover aos usuários e à Administração:
+
+--- [pag. PDF 3] ---
+3 de 13
+Locação de equipamentos de informática, novos, sem uso anterior e em linha de produção do fabricante, nas especificações mínimas constantes
+do Anexo I.1.
+Fornecimento de todos os insumos para operação: sistema operacional e software básico padronizado, acessórios, travas de segurança, fontes,
+cabos e demais periféricos.
+Instalação física e lógica completa, incluindo:
+conexão à rede elétrica e lógica;
+instalação e configuração do sistema operacional e software básico padronizado;
+configuração na Rede Corporativa da SEMIL e integração com impressoras, scanners e outros periféricos;
+migração de dados e documentos dos equipamentos substituídos.
+Suporte técnico e operação assistida:
+atendimento “on site” prioritário na Sede, por meio de 1 posto de trabalho residente (8h às 18h, dias úteis);
+atendimento às demais unidades via Central de Atendimento, com registro de chamados.
+Manutenção preventiva periódica, com cronograma anual aprovado pela SEMIL, abrangendo limpeza física interna e externa, testes, regulagens,
+atualizações de sistema operacional e demais programas, e registro do histórico.
+Manutenção corretiva completa, incluindo diagnóstico, reparo, substituição de peças com especificações iguais ou superiores às originais,
+reinstalação e reconfiguração de software e, quando necessário, substituição temporária ou definitiva do equipamento.
+Gestão informatizada de ativos e chamados, com cadastro individualizado de cada equipamento, registro de todos os chamados e histórico de
+manutenções, relatórios gerenciais e acesso pela fiscalização.
+Procedimentos de transição e finalização, com desinstalação, retirada dos equipamentos, sanitização de dados, desinstalação de softwares da
+SEMIL e entrega de bases de dados e relatórios finais.
+6.2 Requisitos internos não funcionais
+Não se vinculam diretamente à funcionalidade de uso pelo usuário final, mas são essenciais para qualidade, desempenho, segurança e conformidade da
+solução:
+Níveis de serviço e desempenho:
+prazos máximos de início e conclusão de chamados na Sede (2h para início e 4h para solução) e nas demais unidades (4h para início e
+16h para solução);
+substituição de equipamento em até 8 horas úteis quando o reparo não for concluído no prazo;
+garantia de disponibilidade operacional dos equipamentos, descontadas apenas manutenções preventivas programadas.
+Segurança da informação:
+observância às políticas internas da SEMIL de segurança e uso de TI (configuração de estações, acesso à rede, antivírus, atualização de
+sistemas);
+tratamento sigiloso dos dados registrados no sistema de gestão de ativos e chamados, uso exclusivo para execução e gestão do contrato;
+sanitização definitiva dos dados em discos rígidos e SSDs conforme norma DoD 5220.22-M ao final do contrato ou na substituição de
+unidades de armazenamento.
+Sustentabilidade e eficiência energética:
+conformidade com RoHS, Energy Star e EPEAT;
+equipamentos projetados para baixo consumo de energia e com certificação de eficiência energética;
+destinação ambientalmente adequada dos equipamentos ao término do contrato, em conformidade com a Política Nacional de Resíduos
+Sólidos.
+Confiabilidade e continuidade de serviço:
+obrigação da Contratada de manter estrutura técnica e logística compatível com os níveis de serviço durante toda a vigência, sem
+redução de qualidade;
+garantia integral dos serviços de instalação, manutenção e suporte ao longo de toda a contratação.
+Usabilidade e acessibilidade operacional:
+sistema de gestão de ativos e chamados acessível via navegador web, sem necessidade de instalação de software adicional nas estações
+da SEMIL (salvo componentes estritamente necessários e autorizados);
+acesso simultâneo a, no mínimo, 10 usuários da SEMIL, com perfis diferenciados.
+6.3 Requisitos externos
+São requisitos decorrentes de normas, políticas públicas e padrões externos à SEMIL, que condicionam a solução:
+Conformidade legal e normativa:
+observância à Lei nº 14.133/2021 e aos Decretos estaduais nº 68.185/2023, nº 68.017/2023, nº 68.220/2023, nº 67.608/2023, entre
+outros mencionados no TR;
+enquadramento como serviço contínuo, com vigência plurianual e possibilidade de prorrogação até 10 anos, conforme legislação
+aplicável;
+atendimento às exigências de habilitação jurídica, fiscal, trabalhista, econômico-financeira e técnica previstas para o certame (pregão
+eletrônico, menor preço).
+Políticas de sustentabilidade e gestão de resíduos:
+cumprimento da Política Nacional de Resíduos Sólidos na retirada e destinação final de equipamentos ao término do contrato;
+alinhamento às diretrizes de não aquisição de bens de luxo (Decreto estadual nº 67.985/2023).
+Padrões de governo e auditoria:
+
+--- [pag. PDF 4] ---
+4 de 13
+manutenção e disponibilização de registros e relatórios que subsidiem fiscalização, auditorias internas e de órgãos de controle, inclusive
+com fornecimento de base de dados em formato aberto ao término do contrato;
+atendimento a eventuais exigências de cadastros (Sicaf, Ceis, Cnep, Cadin, e-Sanções, Tribunais de Contas etc.), garantindo a
+idoneidade da contratada.
+6.4. O atendimento conjunto desses requisitos funcionais, não funcionais e externos assegura que a solução de locação de computadores com serviços
+associados seja tecnicamente adequada, juridicamente regular, economicamente racional e alinhada às necessidades presentes e futuras da SEMIL.
+7. Estimativa da demanda - quantidade de bens e serviços
+7.1. A estimativa da demanda foi elaborada com base nos levantamentos realizados junto às unidades da SEMIL, incluindo a PAMB, considerando os
+equipamentos atualmente utilizados, as necessidades de substituição, expansão e remanejamento durante a vigência contratual.
+7.2. Considerando:
+I – a distribuição geográfica das unidades constantes do Termo de Referência, abrangendo a Sede, unidades administrativas, divisões regionais (DvTR),
+núcleos de lazer, parques, bases operacionais e demais vínculos, todas localizadas no Estado de São Paulo;
+II – a necessidade de assegurar estações de trabalho adequadas para o desempenho das atividades administrativas e finalísticas, inclusive aquelas que
+demandam maior capacidade de processamento (geoprocessamento, modelagem, análise de dados e atividades correlatas);
+III – a opção estratégica pela locação de equipamentos como serviço contínuo, com possibilidade de ajuste de quantitativos ao longo da vigência
+contratual, mediante emissão de ordens de serviço;
+7.3. Para fins de planejamento da demanda, adota-se a métrica de unidade/mês para cada tipo de equipamento, conforme as tipologias descritas no
+Termo de Referência:
+I – Tipo I – Mini-PC com 1 (um) monitor: destinado prioritariamente a postos de trabalho administrativos e operacionais com necessidade de uma única
+tela;
+II – Tipo II – Mini-PC com 2 (dois) monitores: destinado a usuários que necessitam trabalhar simultaneamente com múltiplas aplicações, documentos ou
+sistemas;
+III – Tipo III – Workstation com 2 (dois) monitores QHD: destinada a atividades técnicas que demandem maior capacidade de processamento, memória
+e recursos gráficos;
+IV – Tipo IV – Workstation com 2 (dois) monitores 4K: destinada a atividades especializadas de geoprocessamento, modelagem, análise de imagens e
+demais aplicações gráficas intensivas;
+V – Tipo V – Workstation de alto desempenho com 2 (dois) monitores 4K: destinada às cargas de trabalho de maior complexidade computacional,
+gráfica e inteligência artificial;
+VI – Tipo VI – Notebook: destinado a usuários que necessitam de mobilidade, atuação em campo, reuniões externas ou deslocamentos frequentes entre
+unidades.
+7.4. O quantitativo inicialmente estimado por tipo de equipamento decorre de levantamento realizado junto às áreas demandantes, considerando:
+I – a necessidade de substituição gradual de equipamentos atualmente locados em contratos distintos, que serão absorvidos por este novo instrumento;
+II – as expansões decorrentes da inclusão das demandas da PAMB e de eventual criação, reestruturação ou remanejamento de unidades, desde que
+situadas no território do Estado de São Paulo.
+III – projeção de margem técnica para atendimento de remanejamentos, substituições, expansões moderadas e alterações organizacionais ao longo da
+vigência contratual, observados os limites legais para alterações quantitativas e as condições previstas no Termo de Referência;
+7.5. A aplicação do método de cálculo consistiu, em síntese, em:
+I – identificação, por unidade, do número de usuários que necessitam de estação de trabalho computacional, segmentados por perfil de uso (básico,
+avançado/especializado e móvel);
+II – consolidação dos quantitativos informados pelas áreas responsáveis pela gestão de TI e pelas unidades demandantes, com eliminação de
+sobreposições e consideração das substituições de contratos vigentes;
+III – projeção de margem técnica para atendimento de remanejamentos e expansões moderadas ao longo da vigência, observados os limites legais para
+alterações contratuais;
+IV – definição de quantitativo global de referência para cada tipo de equipamento, expresso em unidade/mês, a ser contratado sob a forma de empreitada
+por preço unitário, com pagamento mensal em função da quantidade efetivamente locada.
+7.6. Em complemento, a contratação observará as seguintes diretrizes operacionais, diretamente relacionadas à estimativa de demanda:
+I – os equipamentos serão distribuídos entre a sede e as unidades administrativas da SEMIL constantes do Termo de Referência, admitido o
+remanejamento entre unidades conforme necessidade operacional;
+II – a SEMIL poderá reservar até 30% (trinta por cento) do total de máquinas locadas para instalação excepcional em outros locais, pelo tempo que se
+fizer necessário, sem alteração da métrica contratual de unidade/mês;
+
+--- [pag. PDF 5] ---
+5 de 13
+III – os locais de entrega e instalação poderão ser alterados durante a implantação e ao longo da vigência contratual, em razão de alteração de endereço,
+reorganização administrativa, remanejamento de usuários, criação, extinção, transferência ou desmembramento de unidades, bem como de outras
+necessidades operacionais da SEMIL observado o limite geográfico do Estado de São Paulo e as condições estabelecidas no Termo de Referência.
+7.7. Com base nas premissas e na metodologia descritas nos itens anteriores, foram estimados os quantitativos máximos de equipamentos a serem
+disponibilizados durante a vigência contratual, conforme quadro consolidado abaixo:
+Item Especificação Métrica ou Unidade de Medida Quantidade
+1 TIPO I – MINI-PC, 16GB RAM, SSD 512GB, 1 monitor 23,8" FULLHD unidade/mês 283
+2 TIPO II – MINI-PC, 16GB RAM, SSD 512GB, 2 monitores 23,8" FULLHD unidade/mês 854
+3 TIPO III – WORKSTATION, 64GB RAM, SSD 1TB + 2TB, vídeo 12GB, 2 monitores 24" QHD unidade/mês 25
+4 TIPO IV – WORKSTATION, 128GB RAM, SSD 1TB + 4TB, vídeo 24GB, 2 monitores 27" 4K unidade/mês 158
+5 TIPO V – WORKSTATION, 128GB RAM, SSD 1TB + 4TB, vídeo 48GB, 2 monitores 32" 4K unidade/mês 2
+6 TIPO VI – NOTEBOOK, 16GB RAM, tela 14" Full HD unidade/mês 131
+Quantitativo para cada etapa de entrega.
+Etapa Grupo de unidades Data-limite para conclusão da
+entrega
+Data-limite para conclusão da
+instalação
+Quantidade total por
+ETAPA
+1 Unidades do IPA e PAMB Até 09/12/2026 07/01/2027 441
+2 Unidades do DRHi Até 26/05/2027 24/06/2027 30
+3 Sede da SEMIL e demais unidades
+administrativas. Até 17/12/2027 30/01/2028 733
+4 Unidades da DPFA e DBB Regionais Até 17/02/2028 17/03/2028 249
+Os quantitativos foram definidos a partir da consolidação das demandas das unidades abrangidas, da substituição gradual dos equipamentos atualmente
+disponibilizados por contratos distintos, da incorporação das novas demandas, inclusive da PAMB, e da margem técnica destinada a remanejamentos e
+expansões moderadas.
+8. Levantamento de soluções
+8.1. Em atendimento ao disposto no inciso II do art. 11 da IN SGD/ME nº 1/2019, bem como às diretrizes da Lei nº 14.133/2021 e do Decreto estadual nº
+68.017/2023, procedeu-se ao levantamento de alternativas de solução capazes de atender às necessidades de negócio e tecnológicas descritas nos tópicos
+anteriores, com foco na unificação, em contrato único, da locação de equipamentos de informática atualmente contratada de forma fragmentada por
+diferentes áreas da SEMIL e na incorporação das novas demandas, inclusive da PAMB.
+I – aquisição de equipamentos de informática pela Administração, com posterior contratação, em separado, de serviços de instalação, manutenção e
+suporte técnico;
+II – manutenção do modelo atual de múltiplos contratos de locação, celebrados e geridos isoladamente por diferentes unidades e áreas da SEMIL;
+III – locação de equipamentos de informática, com serviços associados, por meio de contrato único, com abrangência institucional e perfis distintos de
+configuração, na forma descrita na solução proposta no Termo de Referência.
+8.2. Consideraram-se, em termos gerais:
+a) o modelo sem posto residente não atenderia de forma satisfatória à necessidade de resposta rápida e coordenação local das demandas oriundas da
+Sede, especialmente em razão do volume de usuários e da criticidade das atividades ali desenvolvidas;
+b) a segmentação entre múltiplos fornecedores manteria a heterogeneidade e a complexidade de gestão que se pretende superar, além de dificultar a
+integração da gestão de ativos em um sistema único;
+c) o modelo com único fornecedor, posto residente e Central de Atendimento integrada é o que melhor atende às necessidades de negócio e tecnológicas,
+
+--- [pag. PDF 6] ---
+6 de 13
+por assegurar padronização de procedimentos, rastreabilidade integral dos equipamentos e maior eficiência na fiscalização e no controle de níveis de
+serviço.
+8.3. Consideraram-se as condições ordinárias de infraestrutura existentes na SEMIL, incluindo espaço físico para o posto residente, pontos de rede e
+energia, bem como as rotinas internas de patrimônio e TI necessárias à execução contratual. Não foram identificadas necessidades de obras, reformas ou
+investimentos adicionais relevantes.
+8.4. Foi realizado levantamento de mercado com a finalidade de verificar a existência de soluções e fornecedores aptos a atender à contratação de
+locação de equipamentos de informática, abrangendo o fornecimento de desktops, notebooks, workstations, monitores e serviços associados de
+instalação, configuração, manutenção, suporte técnico, logística, gestão de ativos e atendimento em unidades situadas no Estado de São Paulo.
+O levantamento considerou, conforme documentação juntada aos autos:
+especificações técnicas e condições de execução utilizadas em contratações semelhantes;
+modelos de contratação adotados pelo mercado, inclusive contratação por item, por lote, por região ou por solução integrada;
+disponibilidade, em diferentes fabricantes, de equipamentos compatíveis com as tipologias previstas no Termo de Referência;
+capacidade de empresas especializadas para prestar os serviços de suporte técnico, manutenção, logística e gestão de ativos exigidos no objeto.
+8.5. Com base no levantamento realizado, verificou-se que as especificações técnicas foram definidas a partir de requisitos mínimos de desempenho,
+compatibilidade, segurança, sustentabilidade e adequação ao perfil de uso,.
+8.6. As tipologias previstas no Termo de Referência correspondem a categorias usuais de equipamentos de informática e podem ser atendidas por
+produtos de diferentes fabricantes, desde que observados os requisitos mínimos estabelecidos.
+8.7. As exigências de manutenção, suporte técnico, atendimento remoto e presencial, logística, sistema de gestão de ativos e níveis de serviço foram
+estabelecidas em razão das características e da dispersão geográfica da demanda, devendo ser comprovada sua proporcionalidade e compatibilidade com
+as práticas de mercado.
+8.8. Não foram identificados, no levantamento realizado, requisitos que direcionem a contratação a fornecedor específico ou que sejam desnecessários à
+execução do objeto.
+8.9. Diante do levantamento realizado, conclui-se que as especificações, os requisitos de execução, os níveis de serviço, as certificações e o modelo de
+contratação foram definidos de forma proporcional às necessidades da SEMIL.
+8.10. Conclui-se, ainda, que a solução é potencialmente atendível por mais de um fornecedor do mercado, permanecendo preservada a competitividade
+do certame, sem prejuízo da necessidade de observância, no Termo de Referência e no edital, da proporcionalidade dos requisitos de habilitação e de
+qualificação técnica.
+9. Análise comparativa de soluções
+9.1. Para fins desta análise, foram examinados, em nível de solução, os seguintes cenários:
+a) – aquisição de equipamentos de informática (bens permanentes), com contratações autônomas de serviços de instalação, manutenção e suporte técnico;
+b) – manutenção do modelo atual de múltiplos contratos de locação, celebrados e geridos por diferentes unidades e áreas da SEMIL e de seus órgãos
+vinculados;
+c) – locação de equipamentos de informática, com serviços associados, por meio de contrato único, com perfis distintos de equipamentos posto de
+trabalho residente na Sede e Central de Atendimento integrada, na forma descrita na solução do Termo de Referência.
+I – Aderência às necessidades de negócio (unificação e padronização)
+a) Aquisição de equipamentos: embora permita padronizar, em tese, as especificações técnicas no momento da compra, não resolve a fragmentação dos
+serviços associados, que tenderiam a permanecer dispersos em múltiplos contratos (instalação, manutenção, suporte), contrariando o objetivo de
+unificação contratual.
+b) Modelo atual de múltiplos contratos de locação: mantém a situação de heterogeneidade de configurações, níveis de serviço e datas de vigência, além
+de preservar a pulverização do esforço de gestão e fiscalização.
+c) Locação em contrato único com serviços associados: possibilita a consolidação de todas as demandas em um único instrumento, com padronização de
+especificações, de níveis de serviço e de procedimentos de gestão e fiscalização, atendendo integralmente ao objetivo de unificação.
+II – Capacidade de atendimento às necessidades tecnológicas e de suporte
+a) Aquisição de equipamentos: exige estrutura interna robusta de TI ou várias contratações complementares para suportar a entrega, a instalação, a
+manutenção preventiva e corretiva e o suporte a campo, sobretudo diante da dispersão geográfica de unidades, o que aumenta a complexidade e o risco
+operacional.
+b) Modelo atual de múltiplos contratos de locação: a experiência recente demonstra que, embora forneça equipamentos, não garante uniformidade de
+prazos de atendimento, de qualidade de suporte e de ferramentas de gestão de chamados, havendo variações entre contratos e fornecedores.
+c) Locação em contrato único com serviços associados: contempla, no próprio escopo, a entrega, instalação, configuração, manutenção preventiva e
+corretiva, logística de transporte, técnico residente na Sede e Central de Atendimento com sistema de gestão de ativos e chamados via web, assegurando
+capilaridade e tempestividade de atendimento, conforme os prazos e rotinas detalhados no Termo de Referência.
+
+--- [pag. PDF 7] ---
+7 de 13
+III – Gestão contratual, fiscalização e controle de resultados
+a) Aquisição de equipamentos: implicaria, para a SEMIL, gerir separadamente o contrato de aquisição e os contratos de serviços correlatos, com
+múltiplos marcos de vigência, reajustes e rotinas de fiscalização, elevando o custo de transação e a probabilidade de inconsistências na gestão do parque.
+b) Modelo atual de múltiplos contratos de locação: mantém a necessidade de fiscalização fragmentada, com diferentes métricas, obrigações e
+ferramentas de acompanhamento, dificultando a consolidação de informações gerenciais e a aplicação uniforme de sanções e glosas.
+c) Locação em contrato único com serviços associados: permite a adoção de um único modelo de gestão contratual, com indicadores padronizados, uso
+centralizado do sistema de gestão de ativos e chamados, emissão de relatórios mensais consolidados e maior facilidade de aferição de níveis de serviço, o
+que se coaduna com o modelo de gestão previsto no Termo de Referência
+IV – Aspectos econômicos e Custo Total de Propriedade (TCO)
+a) Aquisição de equipamentos: demanda desembolso concentrado em investimento (despesa de capital), além de custos recorrentes com manutenção,
+suporte, reposição de peças, descarte ambientalmente adequado e eventual renovação tecnológica, elevando o TCO ao longo do ciclo de vida dos bens.
+Ademais, a falta de escala em contratações de serviços correlatos e a necessidade de múltiplos instrumentos judiciais/contratuais tendem a reduzir a
+eficiência econômica.
+b) Modelo atual de múltiplos contratos de locação: a pulverização de contratos reduz o poder de barganha da Administração, dificulta a captura de
+ganhos de escala e tende a manter valores unitários mais elevados, além de gerar custos indiretos relevantes com gestão, fiscalização e sobreposição de
+estruturas.
+c) Locação em contrato único com serviços associados: possibilita a negociação de condições comerciais mais vantajosas, em razão do volume
+contratado; permite melhor distribuição do custo ao longo da vigência (serviço contínuo, com pagamento mensal por unidade/mês efetivamente locada);
+e internaliza, em uma só contratação, custos que, nas alternativas anteriores, estariam dispersos, resultando em TCO globalmente mais competitivo,
+conforme demonstrado na estimativa de valor e na justificativa de enquadramento como serviço contínuo constante do Termo de Referência.
+9.2. Da comparação realizada, depreende-se que:
+9.2.1. as alternativas de aquisição direta de equipamentos e de manutenção do atual modelo de múltiplos contratos de locação não atendem de
+forma satisfatória ao objetivo central de unificação contratual, nem promovem, com a mesma eficácia, a padronização tecnológica, a
+simplificação da gestão e a otimização do TCO;
+9.2.2. a solução de locação de equipamentos de informática, com serviços associados, por meio de contrato único, com perfis de equipamentos
+definidos, posto de trabalho residente e Central de Atendimento integrada, mostra-se a opção que reúne maior aderência às necessidades de
+negócio, melhor adequação tecnológica e vantagem econômica global, constituindo-se, portanto, na solução técnica e funcionalmente mais
+apropriada para atendimento da demanda descrita neste Estudo Técnico Preliminar.
+10. Registro de soluções consideradas inviáveis
+10.1. Em observância ao §1º do art. 11 da IN SGD/ME nº 1, de 2019, registram-se, neste tópico, as soluções identificadas na fase de levantamento
+(tópico 8) que, após análise, foram consideradas técnica e/ou funcionalmente inviáveis ou desvantajosas para atendimento da necessidade de unificação
+contratual da locação de equipamentos de informática da SEMIL.
+10.2. Aquisição direta de equipamentos de informática (bens permanentes), com contratações autônomas de serviços de instalação, manutenção e suporte
+técnico
+I – Descrição sucinta da solução:
+Consiste na compra, pela Administração, de computadores, como bens permanentes, seguida da contratação separada de serviços de instalação,
+manutenção preventiva e corretiva, suporte técnico e eventual substituição de equipamentos, por meio de um ou mais contratos específicos.
+II – Razões da inviabilidade:
+a) A solução exige aporte inicial elevado de recursos orçamentários para aquisição dos bens, em despesa de capital, destoando da natureza contínua e
+recorrente da necessidade (disponibilização permanente de estações de trabalho), já enquadrada como serviço continuado no Termo de Referência.
+b) A compra isolada de hardware não soluciona o problema central identificado, qual seja, a fragmentação contratual: os serviços de instalação,
+manutenção, suporte, logística e descarte permaneceriam dispersos em múltiplos instrumentos, com aumento de custo de transação e complexidade de
+gestão.
+c) A Administração teria de estruturar ou ampliar contratos adicionais para o gerenciamento do ciclo de vida dos equipamentos (remanejamentos,
+recolhimento, sanitização de dados, destinação ambientalmente adequada), contrariando a diretriz de simplificação e consolidação em contrato único.
+d) A aquisição direta reduz a flexibilidade para adequação de quantitativos durante a vigência, dificultando a absorção de mudanças organizacionais,
+inclusão de novas unidades ou variação de demanda, o que é melhor atendido por modelo de locação em serviço contínuo.
+À vista desses aspectos, a alternativa foi considerada incompatível com o objetivo de unificação contratual e menos vantajosa sob a ótica da
+economicidade e da gestão do ciclo de vida.
+10.3. Manutenção do modelo atual de múltiplos contratos de locação, celebrados e geridos por diferentes unidades e áreas da SEMIL:
+I – Descrição sucinta da solução:
+Consiste em manter, com eventuais ajustes, a prática vigente de contratação descentralizada de locação de computadores por diferentes unidades ou
+áreas, cada qual com seu próprio contrato, especificações, níveis de serviço e prazos de vigência, sem consolidação em instrumento único.
+
+--- [pag. PDF 8] ---
+8 de 13
+II – Razões da inviabilidade:
+a) A manutenção de múltiplos contratos preserva justamente o cenário que a presente contratação pretende superar: heterogeneidade de configurações,
+variação de níveis de serviço e dificuldade de padronização de procedimentos de suporte e manutenção.
+b) O arranjo pulverizado não oferece solução adequada para a unificação das demandas, inclusive a incorporação, em bases homogêneas, das
+necessidades da PAMB e de outras unidades da SEMIL.
+Por esses motivos, a alternativa foi considerada não aderente às necessidades de negócio e de gestão identificadas no ETP.
+10.4. Modelos descentralizados com múltiplos fornecedores de locação, segmentados por região, tipo de equipamento ou unidade
+I – Descrição sucinta da solução:
+Modelo em que a SEMIL realizaria mais de um procedimento licitatório para locação de equipamentos, dividindo o parque entre fornecedores distintos,
+seja por recorte territorial (regiões ou unidades), seja por tipo de equipamento ou por grupo de unidades administrativas.
+II – Razões da inviabilidade:
+a) Embora formalmente se trate de locação, tal solução recria a fragmentação contratual e a heterogeneidade de níveis de serviço que se busca evitar, ao
+distribuir a responsabilidade entre diferentes fornecedores e sistemas de gestão de chamados.
+b) A segmentação aumentaria a complexidade da gestão e fiscalização, exigindo acompanhamento paralelo de múltiplos contratos, indicadores e
+sistemas, o que contraria a diretriz de simplificação e de centralização descrita no Termo de Referência.
+c) A adoção de mais de um fornecedor reduziria o potencial de ganho de escala em relação à solução de contrato único, com possível impacto negativo
+sobre preços e condições comerciais.
+Diante dessas razões, o modelo com múltiplos fornecedores foi considerado tecnicamente desaconselhável e gerencialmente inadequado.
+10.5. Justificativa para o não parcelamento do objeto
+Foi analisada a possibilidade de parcelamento da contratação por tipo de equipamento, por região, por unidade administrativa e por natureza dos
+serviços. Concluiu-se que, neste caso, o não parcelamento do objeto é a opção mais adequada.
+A contratação conjunta da locação dos equipamentos e dos serviços associados permite padronizar as configurações, os procedimentos de instalação e
+manutenção, os níveis de serviço e o sistema de gestão de ativos e chamados.
+O parcelamento por tipo de equipamento poderia gerar diferentes fornecedores para desktops, notebooks e workstations, dificultando a identificação do
+responsável por falhas, substituições, manutenção, logística e atendimento aos usuários.
+O parcelamento por região ou unidade também aumentaria a quantidade de contratos, fiscais, sistemas de atendimento, indicadores e procedimentos de
+execução, mantendo a fragmentação que esta contratação pretende eliminar.
+A separação entre a locação dos equipamentos e os serviços de instalação, manutenção e suporte poderia gerar conflitos de responsabilidade e dificultar a
+garantia da continuidade operacional.
+A opção pelo não parcelamento não decorre apenas de conveniência administrativa ou de ganho de escala. Ela está fundamentada na necessidade de
+integração técnica, padronização, responsabilização única, gestão centralizada dos ativos e uniformidade dos níveis de serviço.
+Dessa forma, conclui-se que a contratação em lote único é técnica e economicamente adequada, desde que o levantamento de mercado demonstre a
+existência de mais de um fornecedor capaz de executar o objeto integralmente, preservando a competitividade do certame.
+10.6. Em síntese, registram-se como inviáveis, para fins deste Estudo Técnico Preliminar, as soluções baseadas em aquisição direta de equipamentos, na
+manutenção de múltiplos contratos de locação e na segmentação da locação entre diversos fornecedores, restando, assim, delimitado o escopo da análise
+de custos e benefícios à solução de locação de computadores com serviços associados, por meio de contrato único, com posto residente na Sede e Central
+de Atendimento integrada, tal como detalhada no Termo de Referência.
+11. Análise comparativa de custos (TCO)
+11.1. Em observância ao inciso III do art. 11 da IN SGD/ME nº 1/2019, a comparação do custo total de propriedade (TCO) das alternativas viáveis foi
+realizada em horizonte compatível com o prazo máximo de vigência contratual, considerando o ciclo de vida integral da solução, desde a
+disponibilização dos equipamentos até a sanitização e destinação final.
+11.2. A análise evidenciou que as alternativas de aquisição direta e de múltiplos contratos de locação resultam em TCO superior, em razão do maior
+desembolso inicial, da perda de ganhos de escala e do acréscimo de custos administrativos e de transação decorrentes da fragmentação contratual.
+11.3. A solução de locação de computadores com serviços associados, por meio de contrato único, mostrou-se a alternativa com menor TCO global, em
+virtude da consolidação da demanda em um só instrumento, da internalização de serviços relevantes no preço unitário de locação, da obtenção de
+melhores condições comerciais em função do volume contratado e da expressiva redução de custos de gestão e fiscalização.
+
+--- [pag. PDF 9] ---
+9 de 13
+a.
+b.
+c.
+d.
+11.4. O mapa comparativo elaborado demonstra, assim, que a solução de contrato único de locação é a opção mais econômica ao longo do ciclo de vida
+da contratação, mantendo aderência às necessidades de negócio, tecnológicas e de unificação contratual da SEMIL. A memória de cálculo detalhada,
+com as premissas e parâmetros utilizados, integra o Estudo Técnico Preliminar como anexo específico.
+12. Descrição da solução de TIC a ser contratada
+12.1. A solução de Tecnologia da Informação e Comunicação — TIC consiste na prestação de serviços continuados de locação de equipamentos de
+informática, compreendendo o fornecimento, a implantação, o suporte técnico, a manutenção e a gestão operacional do ambiente computacional
+destinado ao atendimento das demandas da Secretaria de Meio Ambiente, Infraestrutura e Logística — SEMIL.
+12.2. A solução abrangerá a disponibilização, em regime de locação, de microcomputadores, workstations, notebooks, monitores e periféricos correlatos,
+incluindo componentes de hardware, acessórios, dispositivos de segurança, cabos, conectores, fontes de alimentação e demais itens necessários ao pleno
+funcionamento dos equipamentos.
+12.3. Também serão fornecidos sistema operacional corporativo, softwares básicos padronizados e respectivas licenças, em conformidade com as
+especificações técnicas e os requisitos mínimos definidos no Anexo I do Termo de Referência.
+12.4. Todos os equipamentos deverão ser novos, sem uso anterior e estar em linha de produção do fabricante na data de entrega, atendendo integralmente
+aos requisitos de desempenho, compatibilidade, segurança, disponibilidade e sustentabilidade estabelecidos no Termo de Referência.
+12.5. A contratação compreenderá as atividades de logística, entrega, instalação, configuração, integração ao ambiente tecnológico da SEMIL, suporte
+técnico, manutenção preventiva e corretiva, substituição de equipamentos e componentes, gestão de ativos e chamados, atendimento presencial e remoto,
+posto técnico residente, transição e encerramento contratual.
+12.6. A solução deverá assegurar a identificação individualizada, o acompanhamento e a rastreabilidade dos equipamentos e dos serviços executados,
+mediante sistema de gestão de ativos e chamados, conforme requisitos definidos no Termo de Referência.
+12.7. A futura Contratada deverá possuir capacidade técnica, operacional e logística compatível com a distribuição geográfica das unidades atendidas,
+assegurando a continuidade dos serviços e o cumprimento dos níveis de serviço contratados, sem cobrança adicional em razão da localização da unidade.
+12.8. A execução contratual deverá observar as normas e políticas da SEMIL relativas à segurança da informação, à proteção de dados pessoais, ao
+controle de acesso, à sustentabilidade e à destinação ambientalmente adequada dos equipamentos.
+12.9. A solução será executada de forma integrada, contínua e orientada a níveis mínimos de serviço, com o objetivo de assegurar disponibilidade,
+confiabilidade, desempenho, padronização tecnológica e tempestividade no atendimento às demandas da SEMIL.
+13. Estimativa de custo total da contratação
+[Conteúdo Sigiloso | Justificativa: Conteúdo Sigiloso | Justificativa: Justifica-se o sigilo do preço referencial em consonância com o Parecer GPG. Cons. nº 107/2010, o qual
+recomenda que “No ‘Pregão’, à diferença das modalidades previstas na Lei Federal nº 8.666/93, a regra é a preservação do sigilo dos valores referenciais até a conclusão da sessão
+pública, a fim de não frustrar a etapa de lances nem a negociação entre o pregoeiro e o licitante que houver apresentado o melhor preço”, sendo esta regra aplicável sob a regência
+da Lei federal nº 14.133/2021, pois visa não prejudicar a etapa competitiva do certame, uma vez que as licitantes, na etapa de lances e posterior negociação, terão como base apenas
+suas composições de custos, pois, ao não terem conhecimento do preço referencial da Administração, não utilizarão o argumento de que sua proposta já está abaixo do limite
+]	aceitável, deixando de apresentar uma proposta que pudesse ser mais vantajosa para o Estado.
+14. Justificativa técnica da escolha da solução
+14.1. A solução tecnicamente mais adequada ao atendimento da necessidade identificada consiste na locação de equipamentos de informática com
+serviços associados, reunindo, em um único arranjo contratual, o fornecimento, a implantação, a sustentação, a manutenção e a gestão operacional do
+parque computacional da SEMIL.
+14.2. A escolha da solução justifica-se, sob o ponto de vista técnico, pelos seguintes fatores:
+atendimento à necessidade permanente de disponibilização de estações de trabalho, reduzindo riscos de interrupção decorrentes de processos
+autônomos de aquisição, substituição patrimonial, manutenção e suporte;
+padronização do parque tecnológico, com redução da diversidade de modelos, configurações e procedimentos de suporte;
+atendimento a distintos perfis de uso, mediante disponibilização de equipamentos adequados às atividades administrativas, técnicas e
+especializadas;
+centralização da responsabilidade pela operação e sustentação da solução em uma única Contratada, simplificando a fiscalização, a
+rastreabilidade dos ativos e a gestão dos níveis de serviço;
+
+--- [pag. PDF 10] ---
+10 de 13
+e.
+f.
+a.
+b.
+c.
+d.
+e.
+integração da manutenção preventiva e corretiva ao objeto, incluindo substituição de peças, recomposição de configurações, migração de dados
+e troca de equipamentos, quando necessária; e
+garantia de cobertura técnica por meio de posto residente na sede da SEMIL, central de atendimento integrada e mecanismos de contingência
+compatíveis com a dispersão geográfica das unidades atendidas.
+14.3. Em comparação com as alternativas de aquisição direta de equipamentos e de manutenção do modelo fragmentado de contratações, a solução de
+locação mediante contrato único com serviços associados mostra-se tecnicamente mais adequada. O modelo reduz a dispersão de responsabilidades,
+simplifica a gestão operacional, assegura maior uniformidade na prestação dos serviços e mantém a flexibilidade necessária para remanejamentos,
+expansões e adequações durante a vigência contratual.
+Indicação de marcas e tecnologias de referência
+14.4. A menção, no Termo de Referência, às tecnologias Intel vPro® Enterprise, AMD PRO e AMD Ryzen™ PRO possui caráter exclusivamente
+referencial e tem por finalidade facilitar a descrição dos recursos corporativos mínimos de desempenho, segurança e gerenciamento remoto requeridos
+para os equipamentos ofertados.
+14.5. Tais referências são utilizadas por representarem plataformas amplamente disponíveis no mercado e usualmente empregadas em equipamentos
+corporativos, capazes de disponibilizar recursos de gerenciamento remoto, inventário de hardware, identificação do equipamento, controles de segurança
+em nível de firmware e suporte a políticas corporativas de tecnologia da informação.
+14.6. A indicação não constitui exigência de fornecimento de equipamentos de marca ou fabricante específico. Serão aceitas soluções baseadas em
+processadores, plataformas ou tecnologias de quaisquer fabricantes, desde que comprovadamente equivalentes ou superiores e que atendam
+integralmente aos requisitos técnicos definidos no Termo de Referência, especialmente quanto:
+ao desempenho mínimo exigido para cada tipologia de equipamento;
+aos recursos de segurança de hardware e firmware;
+às funcionalidades de gerenciamento remoto corporativo;
+à compatibilidade com o sistema operacional, os periféricos e o ambiente tecnológico da SEMIL; e
+às demais especificações técnicas e certificações aplicáveis.
+14.7. Dessa forma, a referência às marcas e tecnologias indicadas visa exclusivamente assegurar a clareza da especificação técnica e a compatibilidade
+com o ambiente corporativo da SEMIL, preservando-se a competitividade do certame e a aceitação de soluções equivalentes ou superiores.
+15. Justificativa econômica da escolha da solução
+15.1. A contratação mostra-se economicamente mais vantajosa em comparação às alternativas analisadas (aquisição direta de equipamentos e
+manutenção do modelo fragmentado de contratos), conforme análise de custo total de propriedade (TCO) apresentada nos itens 9 e 11 deste Estudo
+Técnico Preliminar.
+15.2. Do ponto de vista econômico, a solução proposta:
+I – elimina a necessidade de aporte elevado de capital para aquisição de bens permanentes, convertendo despesa de capital em despesa corrente
+previsível, com pagamento mensal proporcional à quantidade de equipamentos efetivamente locados;
+II – reduz custos de transação e de gestão contratual, ao substituir múltiplos contratos de locação, aquisição e manutenção por um único instrumento,
+com matriz de níveis de serviço, sistema integrado de gestão de ativos e centralização de fiscalização;
+III – aproveita ganhos de escala decorrentes da contratação conjunta de todos os perfis de equipamentos (Tipos I a VI) e do respectivo suporte técnico,
+permitindo melhores condições comerciais de locação, manutenção e logística em relação às contratações isoladas por unidade ou órgão;
+IV – internaliza no preço da locação custos que, em outros modelos, seriam suportados diretamente pela Administração (substituição tecnológica, peças,
+transporte, logística reversa, sanitização de dados), conferindo maior previsibilidade orçamentária e simplificando o planejamento de despesas;
+15.3. A vigência inicial da contratação é de , contados da assinatura do contrato ou da emissão da primeira ordem de serviço,	60 (sessenta) meses
+prorrogável até o limite de 10 (dez) anos, na forma dos artigos 106 e 107 da Lei nº 14.133/2021, sendo a vigência plurianual economicamente justificada
+pela amortização de investimentos da contratada, redução de custos de transação e obtenção de melhores condições comerciais.
+15.4. Diante do exposto, conclui-se que a contratação, na forma proposta, é economicamente justificada, por apresentar melhor relação custobenefício ao
+longo do ciclo de vida da solução, maior racionalidade no uso de recursos públicos e aderência às diretrizes de planejamento, economicidade e eficiência
+previstas na Lei nº 14.133, de 2021, e na regulamentação estadual aplicável.
+16. Benefícios a serem alcançados com a contratação
+16.1. No âmbito interno da SEMIL, a contratação gerará, dentre outros, os seguintes benefícios:
+
+--- [pag. PDF 11] ---
+11 de 13
+Continuidade e estabilidade operacional
+Os níveis de serviço, o posto residente e os mecanismos de contingência reduzirão as interrupções por falhas de hardware, conferindo
+maior previsibilidade à disponibilidade das estações de trabalho.
+Padronização tecnológica e simplificação da gestão
+Homogeneização do parque computacional em torno de tipologias definidas (Tipos I a VI), com especificações mínima claras e
+certificações exigidas, reduzindo a heterogeneidade de modelos, configurações e procedimentos de suporte.
+Facilitação da gestão de inventário, da aplicação de políticas de segurança, da atualização de sistemas e da capacitação de usuários, com
+impacto direto na redução de erros operacionais e no tempo de resolução de incidentes.
+Melhoria da eficiência na gestão de ativos e da fiscalização contratual
+Disponibilização de sistema de gestão de ativos e chamados com histórico individualizado por equipamento, relatórios gerenciais
+mensais, extração de dados em formato aberto e acesso direto pela fiscalização da SEMIL.
+Aumento da transparência e da rastreabilidade de movimentações, manutenções, substituições e níveis de serviço, subsidiando a atuação
+dos fiscais técnico e administrativo e a aplicação de glosas e sanções quando cabível.
+Redução de custos de transação e racionalização de esforços administrativos
+Substituição de múltiplos contratos, processos e rotinas dispersas por um contrato único de locação com serviços associados, reduzindo
+o esforço de elaboração de editais, gestão, fiscalização e processamento de pagamentos.
+Maior aderência à lógica de serviço contínuo com vigência plurianual, permitindo melhor aproveitamento do tempo das equipes técnicas
+e administrativas em atividades de planejamento e governança de TIC.
+Fortalecimento da segurança da informação e da proteção de dados
+Consolidação de práticas de segurança compatíveis com as políticas internas e com a LGPD, incluindo sanitização definitiva de dados
+(norma DoD 5220.22-M), controle de acesso, desinstalação de softwares da SEMIL ao término e revogação de credenciais.
+Redução do risco de vazamento de informações sensíveis em processos de descarte, troca ou remanejamento de equipamentos, pela
+centralização dessas responsabilidades na contratada, com requisitos técnicos claros.
+Promoção da sustentabilidade ambiental e do consumo responsável de recursos
+Utilização de equipamentos com certificações de eficiência energética (Energy Star) e ambientais (RoHS, EPEAT, Green Eletron),
+contribuindo para redução de consumo elétrico e menor impacto ambiental do ciclo de vida dos ativos.
+Garantia de logística reversa e destinação ambientalmente adequada dos equipamentos ao final da locação, em consonância com a
+Política Nacional de Resíduos Sólidos e com as diretrizes ambientais da própria SEMIL.
+16.2. Em termos de benefícios à sociedade e aos públicos-alvo da SEMIL, a contratação contribui indiretamente para:
+Melhor qualidade e tempestividade dos serviços ambientais, de infraestrutura e logística prestados à população, na medida em que as equipes
+dispõem de infraestrutura computacional estável para execução de suas atividades;
+Aprimoramento da transparência e da accountability, pela maior rastreabilidade de ativos, de execução contratual e de uso de recursos de TIC,
+em conformidade com as normas de controle interno e externo;
+Maior capacidade de planejamento e resposta a demandas emergenciais e a projetos estratégicos, em razão da flexibilidade para remanejamento
+de equipamentos entre unidades e da manutenção de níveis mínimos de serviço em todo o território estadual.
+16.3. Os benefícios acima descritos materializam, em termos práticos, os objetivos da contratação previstos, evidenciando que a solução proposta atende
+à necessidade de disponibilização de estações de trabalho, e contribui para o incremento da eficiência administrativa, da segurança da informação, da
+sustentabilidade ambiental e da qualidade dos serviços públicos prestados pela SEMIL.
+17. Providências a serem Adotadas
+17.1. No que se refere à implantação e à infraestrutura operacional, a Contratada deverá:
+I – elaborar e submeter à aprovação da SEMIL, na reunião inicial, plano de implantação contendo cronograma detalhado de entrega, instalação e
+configuração dos equipamentos por unidade, contemplando a ordem de prioridade definida pela SEMIL e os prazos máximos estabelecidos no Termo de
+Referência;
+II – estruturar, previamente ao início da execução, a Central de Atendimento com os canais mínimos exigidos (telefone, e-mail e interface web),
+garantindo seu pleno funcionamento no horário comercial desde o primeiro dia de vigência contratual;
+III – designar formalmente o preposto do contrato, antes do início da prestação dos serviços, com poderes e deveres claramente definidos em relação à
+execução do objeto contratado, bem como indicar o técnico residente que atuará na Sede da SEMIL;
+IV – implantar e disponibilizar à SEMIL, antes da entrega dos primeiros equipamentos, o sistema informatizado de gestão de ativos e chamados, com
+acesso web, cadastro individualizado dos equipamentos e perfis de acesso configurados conforme definição da área de TI da SEMIL.
+17.2. No que se refere à transição dos contratos vigentes e à implantação gradual, a Contratada deverá:
+I – coordenar, em conjunto com a SEMIL, o cronograma de substituição dos equipamentos atualmente em uso pelas unidades, de forma a garantir a
+continuidade operacional dos usuários durante todo o processo de transição, sem sobreposição de locações nem períodos de inatividade;
+
+--- [pag. PDF 12] ---
+12 de 13
+II – executar, em cada substituição, a migração integral de dados, arquivos, perfis e configurações dos usuários para os novos equipamentos, assegurando
+que o usuário retorne à operação plena imediatamente após a instalação, sem perda de informações;
+III – elaborar, ao final da implantação, relatório de conclusão da entrega e instalação de cada lote de equipamentos, com identificação individualizada
+dos ativos, unidades atendidas e situação de cada item, a ser submetido à fiscalização técnica da SEMIL para fins de recebimento provisório.
+17.3. No que se refere à segurança da informação e à conformidade com as políticas institucionais da SEMIL, a Contratada deverá:
+I – configurar todos os equipamentos em estrita conformidade com as políticas de segurança, perfis de configuração e imagem padrão de software
+definidos pela SEMIL antes do início da instalação, não realizando qualquer entrega sem prévia validação dessas parametrizações pela área de TI da
+Contratante;
+II – orientar e vincular contratualmente seus técnicos, prepostos e eventuais subcontratados ao cumprimento das normas de segurança da informação e
+das políticas internas da SEMIL, especialmente quanto ao sigilo das informações acessadas durante a prestação dos serviços;
+III – adotar, desde o início da execução, procedimentos formais de controle de acesso físico e lógico aos equipamentos, registrando toda intervenção
+técnica no sistema de gestão de ativos e chamados, conforme exigido no Termo de Referência.
+17.4. No que se refere ao encerramento contratual, a Contratada deverá providenciar, com antecedência mínima de 60 dias antes do término da vigência
+ou da rescisão antecipada, a elaboração do cronograma de desinstalação e retirada dos equipamentos, coordenando com a SEMIL a substituição gradual
+dos ativos de forma a não comprometer a continuidade das atividades, observados integralmente os procedimentos de transição e finalização.
+17.5. Não foram identificadas necessidades de obras, reformas ou investimentos adicionais relevantes por parte da SEMIL para viabilizar a execução
+contratual. A Administração deverá disponibilizar as condições ordinárias de infraestrutura existentes, enquanto caberá à Contratada providenciar os
+recursos necessários à instalação, configuração, manutenção e operação dos equipamentos e serviços contratados.
+18. Declaração de Viabilidade
+Esta equipe de planejamento declara esta contratação.	viável
+18.1. Justificativa da Viabilidade
+A viabilidade da contratação é fundamentada nos seguintes elementos, consolidados ao longo deste Estudo Técnico Preliminar:
+I – a necessidade de disponibilização contínua de equipamentos de informática para o desempenho das atividades da SEMIL é permanente, real e
+devidamente comprovada, conforme levantamento de demanda realizado junto às unidades e áreas da Secretaria, incluindo a PAMB, detalhado nos
+tópicos iniciais deste ETP;
+II – a solução de locação de equipamentos de informática com serviços associados, por meio de contrato único celebrado com uma única empresa,
+mostrou-se a alternativa técnica e funcionalmente mais adequada, superando as soluções de aquisição direta de equipamentos e de manutenção do atual
+modelo fragmentado de contratos de locação.
+III – a análise de custo total demonstrou que a solução proposta apresenta menor custo global ao longo do ciclo de vida da contratação, em razão da
+internalização de serviços no preço unitário da locação, dos ganhos de escala obtidos pela consolidação da demanda em um único instrumento e da
+significativa redução de custos administrativos e de transação.
+IV – a solução escolhida é tecnicamente justificada pela padronização do parque computacional em torno de seis tipologias de equipamentos (Tipos I a
+VI), com especificações mínimas claras e certificações exigidas, pela disponibilização de posto de trabalho residente na sede, de central de atendimento
+integrada, de sistema de gestão de ativos e chamados com acesso da fiscalização e de medidas de continuidade operacional compatíveis com a dispersão
+geográfica das unidades atendidas;
+V – a contratação observa os requisitos de sustentabilidade, segurança da informação, proteção de dados e conformidade técnica definidos no Termo de
+Referência, incluindo a sanitização dos dados e a destinação ambientalmente adequada dos equipamentos ao término da locação;
+VI – o objeto está devidamente enquadrado como serviço contínuo, com vigência inicial de 60 (sessenta) meses, prorrogável até o limite de 10 (dez)
+anos, na forma dos artigos 106 e 107 da Lei nº 14.133, de 2021, sendo a vigência plurianual economicamente justificada pela amortização de
+investimentos, pela redução de custos de transação e pela obtenção de melhores condições comerciais de locação;
+VII – a modalidade licitatória escolhida é o pregão eletrônico, com critério de julgamento pelo menor preço, compatível com o objeto e com o regime de
+execução por empreitada por preço unitário, assegurando ampla competitividade e conformidade com os princípios da economicidade e da eficiência;
+Diante de todo o exposto conclui que a contratação é viável, apresenta adequada relação custo-benefício, atende à necessidade identificada e está em
+conformidade com a legislação aplicável, recomendando o prosseguimento do processo para as etapas subsequentes de seleção do fornecedor.
+
+--- [pag. PDF 13] ---
+13 de 13
+19. Responsáveis
+Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+.	2020
+LUIZ GUSTAVO BESERRA SANTOS
+Coordenador de Governança de Tecnologia e Infraestrutura
+Assinou eletronicamente em 18/09/2026 às 16:38:01.
