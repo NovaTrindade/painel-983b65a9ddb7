@@ -1,0 +1,50 @@
+{
+ "id": "24990099000184-2026-5",
+ "extraidoEm": "2026-09-29T13:08:31.284Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/24990099000184/2026/5",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Mapa-de-Riscos.txt",
+   "titulo": "Mapa-de-Riscos.pdf",
+   "tipo": "Mapa de Riscos",
+   "paginas": 12,
+   "caracteres": 17922
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-DFD.txt",
+   "titulo": "DFD.pdf",
+   "tipo": "Documento de Formalização da Demanda - DFD",
+   "paginas": 8,
+   "caracteres": 25007
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Termo-de-Referencia.txt",
+   "titulo": "Termo-de-Referencia.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 26,
+   "caracteres": 76152
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ETP.txt",
+   "titulo": "ETP.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 31,
+   "caracteres": 85543
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-Edital.txt",
+   "titulo": "Edital.pdf",
+   "tipo": "Edital",
+   "paginas": 71,
+   "caracteres": 206966
+  }
+ ],
+ "totalPaginas": 148,
+ "totalCaracteres": 411590,
+ "comErro": 0
+}

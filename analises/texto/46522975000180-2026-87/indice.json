@@ -1,0 +1,26 @@
+{
+ "id": "46522975000180-2026-87",
+ "extraidoEm": "2026-09-29T13:08:50.124Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/46522975000180/2026/87",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-Pregao-52-26.txt",
+   "titulo": "Edital_Pregao_52_26.pdf",
+   "tipo": "Edital",
+   "paginas": 79,
+   "caracteres": 173101
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-TR-SISTEMA-Pregao-52-26-REV-1.txt",
+   "titulo": "TR_-_SISTEMA_-_Pregao_52_26-_REV_1.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 278,
+   "caracteres": 792136
+  }
+ ],
+ "totalPaginas": 357,
+ "totalCaracteres": 965237,
+ "comErro": 0
+}

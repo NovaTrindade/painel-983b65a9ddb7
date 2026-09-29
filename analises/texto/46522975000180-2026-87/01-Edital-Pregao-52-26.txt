@@ -1,0 +1,3339 @@
+=== DOCUMENTO 1: Edital_Pregao_52_26.pdf ===
+tipo: Edital | páginas: 79 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/46522975000180/compras/2026/87/arquivos/1
+
+--- [pag. PDF 1] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+EDITAL
+
+--- [pag. PDF 2] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+PREGÃO ELETRÔNICO N° 52/2026
+EDITAL N° 136325/2026
+PROCESSO ADMINISTRATIVO N° 952/2026
+CONTRATANTE
+PREFEITURA MUNICIPAL DE RIO GRANDE DA SERRA, inscrita no CNPJ sob
+o nº 46.522.975/0001-80, com sede administrativa localizada na Rua do Progresso,
+700 – Centro – CEP 09450-000 – Rio Grande da Serra.
+OBJETO:
+Contratação de empresa especializada para o fornecimento de solução de sistemas de
+gestão pública municipal, na modalidade Software como Serviço (SaaS), incluindo
+licenciamento, hospedagem em nuvem, implantação, migração de dados, treinamentos,
+manutenção, suporte técnico e atualizações legais e tecnológicas.
+VALOR TOTAL DA CONTRATAÇÃO
+Valor total estimado em R$ 2.350.800,13 (dois milhões, trezentos e cinquenta mil,
+oitocentos reais e treze centavos).
+LOCAL E DATA DA SESSÃO PÚBLICA
+Através do site https://bnc.org.br/
+Dia 13/10/2026, às 10h00min (horário de Brasília).
+CRITÉRIO DE JULGAMENTO
+Menor preço por GLOBAL
+MODO DE DISPUTA
+Aberto
+EXCLUSIVO PARA ME/EPP: NÃO
+
+--- [pag. PDF 3] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+EDITAL N° 136325/2026
+PREGÃO ELETRÔNICO Nº 52/2026
+Torna-se público que a PREFEITURA MUNICIPAL DE RIO GRANDE DA SERRA, por
+meio do Departamento de Licitações, sediado na Rua do Progresso, nº 700, Jardim
+Progresso, CEP 09450-000, Rio Grande da Serra/SP, realizará licitação na modalidade
+PREGÃO, na forma ELETRÔNICA, pelo critério de julgamento de MENOR PREÇO
+GLOBAL, com modo de disputa ABERTO, por meio da Bolsa Nacional de Compras -
+BNC (https://bnc.org.br/), nos termos da Lei Federal nº 14.133, de 1º de abril de 2021, da
+Lei Complementar nº 123, de 14 de dezembro de 2006, do Decreto Federal nº 10.540, de
+5 de novembro de 2020, do Decreto Municipal nº 3.097, de 17 de janeiro de 2024, da Lei
+Federal nº 13.709, de 14 de agosto de 2018, e das demais normas aplicáveis, observadas
+as condições estabelecidas neste Edital e em seus anexos.
+1. DO OBJETO
+1.1. Constitui objeto da presente licitação a contratação de empresa especializada para
+o fornecimento de solução de sistemas de gestão pública municipal, na modalidade
+Software como Serviço (SaaS), compreendendo o licenciamento de uso, hospedagem em
+ambiente de computação em nuvem (datacenter), diagnóstico e elaboração do Plano de
+Implantação, parametrização, conversão e migração segura de dados legados, treinamento
+inicial e continuado dos usuários, manutenção corretiva, preventiva, adaptativa e
+evolutiva, suporte técnico especializado e atualizações legais e tecnológicas, pelo período
+inicial de 12 (doze) meses, conforme condições, quantidades, exigências e especificações
+estabelecidas no Termo de Referência e nos demais anexos deste Edital.
+2. DA PARTICIPAÇÃO NA LICITAÇÃO
+2.1. Poderão participar desta licitação as pessoas jurídicas legalmente constituídas cujo
+objeto social seja compatível com o objeto da contratação e que atendam
+integralmente às condições de credenciamento, participação e habilitação
+estabelecidas neste Edital e em seus anexos, observado o tratamento favorecido
+previsto na Lei Complementar nº 123/2006.
+2.2. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em
+seu nome, assume como firmes e verdadeiras suas propostas e seus lances, inclusive
+os atos praticados diretamente ou por seu representante, excluída a responsabilidade
+do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais
+danos decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros.
+2.3. Para a participação do licitante neste procedimento licitatório é necessário o seu
+cadastramento no Sistema da Bolsa Nacional de Compras (https://bnc.org.br/),
+sendo de sua responsabilidade as informações cadastradas
+2.4. Devendo conferir a exatidão dos seus dados cadastrais e mantê-los atualizados
+junto aos órgãos responsáveis pela informação, devendo proceder,
+
+--- [pag. PDF 4] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+imediatamente, à correção ou à alteração dos registros tão logo identifique
+incorreção ou aqueles se tornem desatualizados.
+2.5. A não observância do disposto no item anterior poderá́ ensejar desclassificação
+no momento da habilitação.
+2.6. Não haverá cota reservada nem item de participação exclusiva para
+microempresas e empresas de pequeno porte, em razão de o objeto constituir
+solução integrada e indivisível, adjudicada pelo menor preço global, sem prejuízo
+da aplicação dos benefícios previstos nos arts. 42 a 49 da Lei Complementar nº
+123/2006.
+2.7. Será́ concedido tratamento favorecido para as microempresas e empresas de
+pequeno porte, e para o microempreendedor individual – MEI, nos limites
+previstos da Lei Complementar n° 123, de 2006 e do Decreto n° 8.538, de 2015.
+2.8. Não poderão disputar esta licitação:
+2.8.1. aquele que não atenda às condições deste Edital e seu(s) anexo(s);
+2.8.2. autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa
+física ou jurídica, quando a licitação versar sobre serviços ou fornecimento
+de bens a ele relacionados;
+2.8.3. empresa, isoladamente ou em consórcio, responsável pela elaboração do
+projeto básico ou do projeto executivo, ou empresa da qual o autor do projeto
+seja dirigente, gerente, controlador, acionista ou detentor de mais de 5%
+(cinco por cento) do capital com direito a voto, responsável técnico ou
+subcontratado, quando a licitação versar sobre serviços ou fornecimento de
+bens a ela necessários;
+2.8.4. pessoa física ou jurídica que se encontre, ao tempo da licitação,
+impossibilitada de participar da licitação em decorrência de sanção que lhe
+foi imposta;
+2.8.5. aquele que mantenha vínculo de natureza técnica, comercial, econômica,
+financeira, trabalhista ou civil com dirigente do órgão ou entidade
+contratante ou com agente público que desempenhe função na licitação ou
+atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge,
+companheiro ou parente em linha reta, colateral ou por afinidade, até o
+terceiro grau;
+2.8.6. empresas controladoras, controladas ou coligadas, nos termos da Lei nº
+6.404, de 15 de dezembro de 1976, concorrendo entre si;
+2.8.7. pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do
+edital, tenha sido condenada judicialmente, com trânsito em julgado, por
+exploração de trabalho infantil, por submissão de trabalhadores a condições
+análogas às de escravo ou por contratação de adolescentes nos casos vedados
+pela legislação trabalhista;
+2.8.8. agente público do órgão ou entidade licitante;
+2.8.9. pessoas jurídicas reunidas em consórcio;1
+
+--- [pag. PDF 5] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+A participação de pessoas jurídicas reunidas em consórcio não será
+admitida, nos termos da decisão administrativa motivada constante da
+fase preparatória. A vedação decorre da natureza integrada e
+indivisível da solução, que exige responsabilidade única pela
+implantação, migração de dados, interoperabilidade dos módulos,
+segurança da informação, continuidade operacional, manutenção,
+atualizações e suporte técnico. A admissão de múltiplos responsáveis
+elevaria os riscos de incompatibilidade, descontinuidade e indefinição
+de responsabilidades, sem demonstrar ganho efetivo de
+competitividade.
+2.8.10. organizações da Sociedade Civil de Interesse Público - OSCIP, atuando
+nessa condição;
+2.8.11. cooperativas;
+2.8.12. Não poderá participar, direta ou indiretamente, da licitação ou da execução
+do contrato agente público do órgão ou entidade contratante, devendo ser
+observadas as situações que possam configurar conflito de interesses no
+exercício ou após o exercício do cargo ou emprego, nos termos da legislação
+que disciplina a matéria, conforme § 1º do art. 9º da Lei n.º 14.133, de 2021.
+2.9. O impedimento de que trata o item 2.8.4 será também aplicado ao licitante que
+atue em substituição a outra pessoa, física ou jurídica, com o intuito de burlar a
+efetividade da sanção a ela aplicada, inclusive a sua controladora, controlada ou
+coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta
+da personalidade jurídica do licitante.
+2.10. A critério da Administração e exclusivamente a seu serviço, o autor dos
+projetos e a empresa a que se referem os itens 2.4.2 e 2.4.3 poderão participar no
+apoio das atividades de planejamento da contratação, de execução da licitação ou
+de gestão do contrato, desde que sob supervisão exclusiva de agentes públicos do
+órgão ou entidade.
+2.11. Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo
+econômico.
+2.12. O disposto nos itens 2.4.2 e 2.4.3 não impede a licitação ou a contratação de
+serviço que inclua como encargo do contratado a elaboração do projeto básico e
+do projeto executivo, nas contratações integradas, e do projeto executivo, nos
+demais regimes de execução.
+2.13. Em licitações e contratações realizadas no âmbito de projetos e programas
+parcialmente financiados por agência oficial de cooperação estrangeira ou por
+organismo financeiro internacional com recursos do financiamento ou da
+contrapartida nacional, não poderá participar pessoa física ou jurídica que integre
+o rol de pessoas sancionadas por essas entidades ou que seja declarada inidônea
+nos termos da Lei nº 14.133/2021.
+2.14. A vedação de que trata o item 2.4.8 estende-se a terceiro que auxilie a
+condução da contratação na qualidade de integrante de equipe de apoio,
+
+--- [pag. PDF 6] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+profissional especializado ou funcionário ou representante de empresa que preste
+assessoria técnica.
+3. DA GARANTIA E APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS
+DE HABILITAÇÃO
+3.1. Como requisito de pré-habilitação, será exigida garantia da proposta, nos termos
+do art. 58 da Lei Federal nº 14.133/2021, no valor correspondente a 1% (um por cento)
+do valor estimado da contratação, equivalente a R$ 23.660,20 (vinte e três mil,
+seiscentos e sessenta reais e vinte centavos).
+3.1.1. A garantia da proposta poderá ser prestada nas modalidades previstas no §
+1º do art. 96 da Lei Federal nº 14.133/2021, observadas as disposições legais
+aplicáveis.
+3.1.2. A garantia da proposta será devolvida aos licitantes no prazo de até 10
+(dez) dias úteis, contado da assinatura do contrato ou da data em que for
+declarada fracassada a licitação.
+3.1.3. Implicará execução do valor integral da garantia da proposta a recusa
+injustificada do adjudicatário em assinar o contrato ou a não apresentação
+dos documentos necessários à contratação, quando regularmente convocado,
+sem prejuízo das demais sanções previstas neste Edital e na Lei Federal nº
+14.133/2021.
+3.2. Na presente licitação, a fase de habilitação sucederá as fases de apresentação de
+propostas e lances e de julgamento.
+3.3. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a
+proposta com o preço até a data e o horário estabelecidos para abertura da sessão pública.
+3.4. No cadastramento da proposta inicial, o licitante declarará, em campo próprio do
+sistema, que:
+3.4.1. Está ciente e concorda com as condições contidas no edital e seus
+anexos, bem como de que a proposta apresentada compreende a integralidade dos
+custos para atendimento dos direitos trabalhistas assegurados na Constituição
+Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de
+trabalho e nos termos de ajustamento de conduta vigentes na data de sua entrega
+em definitivo e que cumpre plenamente os requisitos de habilitação definidos no
+instrumento convocatório;
+3.4.2. Não emprega menor de 18 anos em trabalho noturno, perigoso ou
+insalubre e não emprega menor de 16 anos, salvo menor, a partir de 14 anos,
+na condição de aprendiz, nos termos do artigo 7°, XXXIII, da Constituição;
+3.4.3. Não possui empregados executando trabalho degradante ou forçado,
+observando o disposto nos incisos III e IV do art. 1o e no inciso III do art.
+5o da Constituição Federal;
+3.4.4. Cumpre as exigências de reserva de cargos para pessoa com deficiência e
+para reabilitado da Previdência Social, previstas em lei e em outras normas
+específicas.
+
+--- [pag. PDF 7] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+3.5. O licitante organizado em cooperativa deverá declarar, ainda, em campo próprio
+do sistema eletrônico, que cumpre os requisitos estabelecidos no artigo 16 da Lei
+no 14.133, de 2021.
+3.6. O fornecedor enquadrado como microempresa, empresa de pequeno porte ou
+sociedade cooperativa deverá declarar, ainda, em campo próprio do sistema
+eletrônico, que cumpre os requisitos estabelecidos no artigo 3° da Lei
+Complementar no 123, de 2006, estando apto a usufruir do tratamento favorecido
+estabelecido em seus arts. 42 a 49, observado o disposto nos § 1o ao 3o do art.
+4o, da Lei nº 14.133, de 2021.
+3.6.1. Nos itens exclusivos para participação de microempresas e empresas de
+pequeno porte, a assinalação do campo “não”, do Sistema impedirá o
+prosseguimento no certame, para aquele item;
+3.6.2. Nos itens em que a participação não for exclusiva para microempresas e
+empresas de pequeno porte, a assinalação do campo “não” apenas produzirá
+o efeito de o licitante não ter direito ao tratamento favorecido previsto na Lei
+Complementar no 123, de 2006, mesmo que microempresa, empresa de
+pequeno porte ou sociedade cooperativa.
+3.7. A falsidade da declaração de que trata os itens 4.3 ou 4.5 sujeitará o licitante às
+sanções previstas na Lei no 14.133, de 2021, e neste Edital.
+3.8. Não haverá́ ordem de classificação na etapa de apresentação da proposta e dos
+documentos de habilitação pelo licitante, o que ocorrerá somente após os
+procedimentos de abertura da sessão pública e da fase de envio de lances.
+3.9. Serão disponibilizados para acesso público os documentos que compõem a
+proposta dos licitantes convocados para apresentação de propostas, após a fases
+de envio de lances.
+3.10. Desde que disponibilizada a funcionalidade no sistema, o licitante poderá́
+parametrizar o seu valor final mínimo quando do cadastramento da proposta e
+obedecerá às seguintes regras:
+3.10.1. A aplicação do intervalo mínimo de diferença de valores entre os lances,
+que incidirá tanto em relação aos lances intermediários quanto em relação ao
+lance que cobrir a melhor oferta; e
+3.10.2. Os lances serão de envio automático pelo sistema, respeitado o valor final
+mínimo, caso estabelecido, e o intervalo de que trata o subitem acima.
+3.10.3. O valor final mínimo parametrizado no sistema poderá́ ser alterado pelo
+fornecedor durante a fase de disputa.
+3.10.4. Valor superior a lance já́ registrado pelo fornecedor no sistema, quando
+adotado o critério de julgamento por menor preço;
+3.10.5. Valor superior a lance já registrado pelo fornecedor no sistema, quando
+adotado o critério de julgamento por menor preço GLOBAL.
+3.11. Caberá ao licitante interessado em participar da licitação acompanhar as
+operações no sistema eletrônico durante o processo licitatório e se responsabilizar pelo
+ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas
+pela Administração ou de sua desconexão.
+
+--- [pag. PDF 8] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+3.12. O licitante deverá comunicar imediatamente ao provedor do sistema
+qualquer acontecimento que possa comprometer o sigilo ou a segurança, para
+imediato bloqueio de acesso.
+4. DO PREENCHIMENTO DA PROPOSTA
+4.1. O licitante deverá enviar sua proposta mediante o preenchimento, no sistema
+eletrônico, dos seguintes campos:
+4.1.1. Valor unitário dos itens e total do item;
+4.1.2. Marca;
+4.1.3. Fabricante;
+4.1.4. Quantidade cotada, devendo respeitar o mínimo de 100% (cem por
+cento);
+4.2. Todas as especificações do objeto contidas na proposta vinculam o licitante.
+4.2.1. O licitante não poderá oferecer proposta em quantitativo inferior ao
+máximo previsto para contratação.
+4.3. Nos valores propostos estarão inclusos todos os custos operacionais, encargos
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que
+incidam direta ou indiretamente na execução do objeto.
+4.4. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de
+exclusiva responsabilidade do licitante, não lhe assistindo o direito de pleitear
+qualquer alteração, sob alegação de erro, omissão ou qualquer outro pretexto.
+4.5. Se o regime tributário da empresa implicar o recolhimento de tributos em
+percentuais variáveis, a cotação adequada será a que corresponde à média dos
+efetivos recolhimentos da empresa nos últimos doze meses.
+4.6. Independentemente do percentual de tributo inserido na planilha, no pagamento
+serão retidos na fonte os percentuais estabelecidos na legislação vigente.
+4.7. Na presente licitação, a Microempresa e a Empresa de Pequeno Porte poderão se
+beneficiar do regime de tributação pelo Simples Nacional.
+4.8. A apresentação das propostas implica obrigatoriedade do cumprimento das
+disposições nelas contidas, em conformidade com o que dispõe o Termo de
+Referência, assumindo o proponente o compromisso de executar o objeto licitado
+nos seus termos, bem como de fornecer os materiais, equipamentos, ferramentas
+e utensílios necessários, em quantidades e qualidades adequadas à perfeita
+execução contratual, promovendo, quando requerido, sua substituição.
+4.8.1. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a
+contar da data de sua apresentação.
+4.8.2. Os licitantes devem respeitar os preços máximos estabelecidos nas normas
+de regência de contratações públicas federais, quando participarem de
+licitações públicas;
+4.8.3. Os preços estimados especificados neste edital, são apenas estimados para
+efeito de composição da média de preços.
+
+--- [pag. PDF 9] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+5. DA ABERTURA DA SESSÃO CLASSIFICAÇÃO DAS PROPOSTAS E DA
+FORMULAÇÃO DE LANCES
+5.1. A abertura da presente licitação dar-se-á automaticamente em sessão pública, por
+meio de sistema eletrônico, na data, horário indicados neste Edital.
+5.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de
+habilitação, quando for o caso, anteriormente inseridos no sistema, até a abertura
+da sessão pública.
+5.3. O sistema disponibilizará campo próprio para troca de mensagens entre o
+Pregoeiro e os licitantes.
+5.4. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances
+exclusivamente por meio de sistema eletrônico, sendo imediatamente informados
+do seu recebimento e do valor consignado no registro.
+5.5. O lance deverá ser ofertado pelo valor total GLOBAL;
+5.6. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para
+abertura da sessão e as regras estabelecidas no Edital.
+5.7. O licitante somente poderá oferecer lance de valor inferior ao último por ele
+ofertado e registrado pelo sistema.
+5.8. O intervalo mínimo de diferença de valores, que incidirá tanto em relação aos
+lances intermediários quanto em relação à proposta que cobrir a melhor oferta
+deverá ser de R$ 100,00 (cem) reais.
+5.9. O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo
+de quinze segundos após o registro no sistema, na hipótese de lance inconsistente
+ou inexequível o procedimento seguirá de acordo com o modo de disputa
+adotado.
+5.10. Será adotado para o envio de lances no pregão eletrônico o modo de disputa
+“aberto”, os licitantes apresentarão lances públicos e sucessivos, com
+prorrogações.
+5.10.1. A etapa de lances da sessão pública terá duração de dez minutos e, após
+isso, será prorrogada automaticamente pelo sistema quando houver lance
+ofertado nos últimos dois minutos do período de duração da sessão pública.
+5.10.2. A prorrogação automática da etapa de lances, de que trata o subitem
+anterior, será de dois minutos e ocorrerá sucessivamente sempre que houver
+lances enviados nesse período de prorrogação, inclusive no caso de lances
+intermediários.
+5.10.3. Não havendo novos lances na forma estabelecida nos itens anteriores, a
+sessão pública encerrar-se-á automaticamente, e o sistema ordenará e
+divulgará os lances conforme a ordem final de classificação.
+5.10.4. Definida a melhor proposta, se a diferença em relação à proposta
+classificada em segundo lugar for de pelo menos 5% (cinco por cento), o
+pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da
+disputa aberta, para a definição das demais colocações.
+5.10.5. Após o reinício previsto no item supra, os licitantes serão convocados
+
+--- [pag. PDF 10] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+para apresentar lances intermediários.
+5.11. Após o término dos prazos estabelecidos nos subitens anteriores, o sistema
+ordenará e divulgará os lances segundo a ordem crescente de valores.
+5.12. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que
+for recebido e registrado em primeiro lugar.
+5.13. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo
+real, do valor do menor lance registrado, vedada a identificação do licitante.
+5.14. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do
+Pregão, o sistema eletrônico poderá permanecer acessível aos licitantes para a recepção
+dos lances.
+5.15. Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo
+superior a dez minutos, a sessão pública será suspensa e reiniciada somente após
+decorridas vinte e quatro horas da comunicação do fato pelo Pregoeiro aos participantes,
+no sítio eletrônico utilizado para divulgação.
+5.16. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+5.16.1. Em relação a itens não exclusivos para participação de microempresas e
+empresas de pequeno porte, uma vez encerrada a etapa de lances, será
+efetivada a verificação automática, junto à Receita Federal, do porte da
+entidade empresarial. O sistema identificará em coluna própria as
+microempresas e empresas de pequeno porte participantes, procedendo à
+comparação com os valores da primeira colocada, se esta for empresa de
+maior porte, assim como das demais classificadas, para o fim de aplicar-se o
+disposto nos arts. 44 e 45 da Lei Complementar nº 123, de 2006,
+regulamentada pelo Decreto nº 8.538, de 2015. Nessas condições, as
+propostas de microempresas e empresas de pequeno porte que se
+encontrarem na faixa de até 5% (cinco por cento) acima da melhor proposta
+ou melhor lance serão consideradas empatadas com a primeira colocada.
+5.16.2. A melhor classificada nos termos do subitem anterior terá o direito de
+encaminhar uma última oferta para desempate, obrigatoriamente em valor
+inferior ao da primeira colocada, no prazo de 05 (cinco) minutos controlados
+pelo sistema, contados após a comunicação automática para tanto.
+5.16.3. Caso a microempresa ou a empresa de pequeno porte melhor classificada
+desista ou não se manifeste no prazo estabelecido, serão convocadas as
+demais licitantes microempresa e empresa de pequeno porte que se
+encontrem naquele intervalo de 5% (cinco por cento), na ordem de
+classificação, para o exercício do mesmo direito, no prazo estabelecido no
+subitem anterior.
+5.16.4. No caso de equivalência dos valores apresentados pelas microempresas
+e empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos
+subitens anteriores, será realizado sorteio entre elas para que se identifique aquela
+que primeiro poderá apresentar melhor oferta.
+5.17. Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre
+lances finais da fase fechada do modo de disputa aberto e fechado.
+5.17.1. Havendo eventual empate entre propostas ou lances, o critério de
+
+--- [pag. PDF 11] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+desempate será aquele previsto no art. 60 da Lei nº 14.133, de 2021, nesta
+ordem:
+5.17.1.1. Disputa final, hipótese em que os licitantes empatados poderão
+apresentar nova proposta em ato contínuo à classificação;
+5.17.1.2. Avaliação do desempenho contratual prévio dos licitantes, para a
+qual deverão preferencialmente ser utilizados registros cadastrais para
+efeito de atesto de cumprimento de obrigações previstos nesta Lei;
+5.17.1.3. Desenvolvimento pelo licitante de ações de equidade entre homens
+e mulheres no ambiente de trabalho, conforme regulamento;
+5.17.1.4. Desenvolvimento pelo licitante de programa de integridade,
+conforme orientações dos órgãos de controle.
+5.17.2. Persistindo o empate, será assegurada preferência, sucessivamente, aos
+bens e serviços produzidos ou prestados por:
+5.17.2.1. Empresas estabelecidas no território do Estado ou do Distrito
+Federal do órgão ou entidade da Administração Pública estadual ou
+distrital licitante ou, no caso de licitação realizada por órgão ou entidade
+de Município, no território do Estado em que este se localize;
+5.17.2.2. Empresas brasileiras;
+5.17.2.3. Empresas que invistam em pesquisa e no desenvolvimento de
+tecnologia no País;
+5.17.2.4. Empresas que comprovem a prática de mitigação, nos termos da Lei
+nº 12.187, de 29 de dezembro de 2009.
+5.18. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do
+primeiro colocado permanecer acima do preço máximo definido para a contratação, o
+pregoeiro poderá negociar condições mais vantajosas, após definido o resultado do
+julgamento.
+5.18.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem
+de classificação inicialmente estabelecida, quando o primeiro colocado,
+mesmo após a negociação, for desclassificado em razão de sua proposta
+permanecer acima do preço máximo definido pela Administração.
+5.18.2. A negociação será realizada por meio do sistema, podendo ser
+acompanhada pelos demais licitantes.
+5.18.3. O resultado da negociação será divulgado a todos os licitantes e anexado
+aos autos do processo licitatório.
+5.18.4. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de
+04 (quatro) horas, envie a proposta adequada ao último lance ofertado após
+a negociação realizada, acompanhada, se for o caso, dos documentos
+complementares, quando necessários à confirmação daqueles exigidos neste
+Edital e já apresentados.
+5.19. Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e
+julgamento da proposta.
+6. DA FASE DE JULGAMENTO
+
+--- [pag. PDF 12] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+6.1. Encerrada a etapa de negociação, o pregoeiro verificará se o licitante
+provisoriamente classificado em primeiro lugar atende às condições de
+participação no certame, conforme previsto no art. 14 da Lei nº 14.133/2021,
+legislação correlata e no item 3.7 do edital, especialmente quanto à existência de
+sanção que impeça a participação no certame ou a futura contratação, mediante a
+consulta aos seguintes cadastros:
+6.1.1. Cadastro Nacional de Empresas Inidôneas e Suspensas – CEIS, mantido
+pela Controladoria- Geral da União
+(https://www.portaltransparencia.gov.br/sancoes/ceis); e Cadastro Nacional
+de Empresas punidas – CNEP, mantido pela Controladoria- Geral da União
+(https://www.portaltransparencia.gov.br/sancoes/cnep ).
+6.2. A consulta aos cadastros será realizada em nome da empresa licitante e
+também de seu sócio majoritário, por força da vedação de que trata o artigo 12 da Lei n°
+8.429, de 1992.
+6.3. Caso conste na Consulta de Situação do licitante a existência de
+Ocorrências Impeditivas Indiretas, o Pregoeiro diligenciará para verificar se houve fraude
+por parte das empresas apontadas no Relatório de Ocorrências Impeditivas Indiretas. (IN
+nº 3/2018, art. 29, caput)
+6.3.1. A tentativa de burla será verificada por meio dos vínculos societários,
+linhas de fornecimento similares, dentre outros. (IN nº 3/2018, art. 29,
+§1º).
+6.3.2. O licitante será convocado para manifestação previamente a uma
+eventual desclassificação. (IN nº 3/2018, art. 29, §2º).
+6.3.3. Constatada a existência de sanção, o licitante será reputado inabilitado, por
+falta de condição de participação.
+6.4. Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado
+de algum tratamento favorecido às ME/EPPs, o pregoeiro verificará se faz jus ao
+benefício, em conformidade com as declarações em que trata a lei.
+6.5. Verificadas as condições de participação e de utilização do tratamento
+favorecido, o pregoeiro examinará a proposta classificada em primeiro lugar
+quanto à adequação ao objeto e à compatibilidade do preço em relação ao
+máximo estipulado para contratação neste Edital e em seus anexos, observado o
+disposto no artigo 29 a 35 da IN SEGES nº 73, de 30 de setembro de 2022.
+6.6. Será desclassificada a proposta vencedora que:
+6.6.1. Contiver vícios insanáveis;
+6.6.2. Não obedecer às especificações técnicas contidas no Termo de
+Referência;
+6.6.3. Apresentar preços inexequíveis ou permanecerem acima do preço
+máximo definido para a contratação;
+6.6.4. Não tiverem sua exequibilidade demonstrada, quando exigido pela
+Administração;
+6.6.5. Apresentar desconformidade com quaisquer outras exigências deste
+Edital os seus anexos, desde que insanável.
+
+--- [pag. PDF 13] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+6.6.6. Não apresentar e/ou não concluir a apresentação da prova de conceito no
+prazo determinado.
+6.7. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da
+necessidade de esclarecimentos complementares, poderão ser efetuadas
+diligências, para que a empresa comprove a exequibilidade da proposta.
+6.8. Para fins de análise da proposta quanto ao cumprimento das especificações do
+objeto, poderá ser colhida a manifestação escrita do setor requisitante do serviço
+ou da área especializada no objeto.
+6.9. Por meio de mensagem no sistema, será divulgado o local e horário de realização
+do procedimento da Prova de Conceito - POC, cuja presença será facultada a
+todos os interessados, incluindo os demais licitantes.
+6.10. Os resultados das avaliações serão divulgados por meio de mensagem no
+sistema.
+6.11. Se a POC apresentada pelo primeiro classificado não for(em) aceita(s), o
+Pregoeiro analisará a aceitabilidade da proposta ou lance ofertado pelo segundo
+classificado. Seguir-se-á com a verificação da(s) POC(s) e, assim,
+sucessivamente, até a verificação de uma que atenda às especificações constantes
+no Termo de Referência.
+7. DA EXIGÊNCIA DE PROVA DE CONCEITO (POC)
+7.1. A empresa licitante 1ª (primeira) classificada, antes da habilitação, terá o prazo
+de até 10 (dez) dias úteis a contar da data do recebimento da notificação de
+solicitação para iniciar a demonstração prática do objeto deste certame licitatório
+em local designado pela CONTRANTE, conforme o descrito no Termo de
+Referência. NOTA EXPLICATIVA: O prazo de 2 (dois) dias uteis estipulados
+quando da elaboração do ETP, foi reavaliado e considerado exíguo para a
+preparação da massa de dados da amostragem, e, consequentemente dilatado para
+10 (dez) dias úteis.
+7.2. Por meio de mensagem no sistema, será divulgado o local e horário de realização
+do procedimento para a avaliação das amostras (quando houver), cuja presença
+será facultada a todos os interessados, incluindo os demais licitantes.
+7.3. Os resultados das avaliações serão divulgados por meio de mensagem no sistema.
+7.4. No caso da licitante classificada em primeiro lugar não cumprir com as
+exigências da POC, a proposta do licitante será recusada.
+7.4.1. Se POC apresentada pelo primeiro classificado não for aceita, o Pregoeiro
+analisara a aceitabilidade da proposta ou lance ofertado pelo segundo
+classificado. Seguir-se-á com a verificação da(s) POC(s) e, assim,
+sucessivamente, até a verificação de uma que atenda as especificações
+constantes no Termo de Referência.
+8. DA FASE DE HABILITAÇÃO
+8.1. Encerrada a etapa de julgamento, negociação e aceitação, o pregoeiro verificara
+
+--- [pag. PDF 14] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+se o licitante provisoriamente classificado em primeiro lugar atende as condições
+de participação no certame, conforme previsto no art. 14 da Lei no 14.133/2021,
+legislação correlata e no item 2.8 do edital, especialmente quanto a existência de
+sanção que impeça a participação no certame ou a futura contratação, mediante
+a consulta aos seguintes cadastros:
+a) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido
+pela Controladoria-Geral da União
+(https://portaldatransparencia.gov.br/sancoes/consulta?cadastro=1%2C2); e
+b) Cadastro Nacional de Empresas Punidas – CNEP, mantido pela
+Controladoria-Geral da União:
+(https://portaldatransparencia.gov.br/sancoes/consulta?cadastro=1%2C2)
+c) Cadastro de Apenados do E. Tribunal de Contas do Estado de São
+Paulo;
+https://www4.tce.sp.gov.br/apenados/publico/#/
+8.2. Havendo dúvida sobre a veracidade do documento, que não possa ser dirimida
+de forma digital/eletrônica, será exigida a apresentação dos originais não digitais.
+8.3. Eventual inabilitação do licitante será considerada para fins de apuração da
+veracidade das informações prestadas na declaração de cumprimento aos
+requisitos de habilitação, conforme o art. 63, I, da Lei no 14.133/2021.
+8.4. A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades
+emissores de certidões constitui meio legal de prova, para fins de habilitação.
+8.5. Os documentos adicionais exigidos para habilitação serão enviados por meio do
+sistema, em formato digital, no prazo estipulado pelo pregoeiro.
+8.6. Após a vinculação dos documentos para habilitação, não será permitida a
+substituição ou a apresentação de novos documentos, salvo em sede de diligência
+para:
+8.6.1. complementação de informações acerca dos documentos já apresentados
+pelos licitantes e desde que necessária para apurar fatos existentes a época
+da abertura do certame; e
+8.6.2. atualização de documentos cuja validade tenha expirado após a data de
+recebimento das propostas;
+8.7. Caso atendidas as condições de participação, será iniciado o procedimento de
+habilitação.
+8.8. Caso o licitante provisoriamente classificado em primeiro lugar enquadre-se no
+tratamento favorecido as ME/EPPs, o pregoeiro obedecera ao disposto nos
+artigos 42 e 43 da Lei Complementar no 123/06.
+8.9. Os documentos previstos no Termo de Referência, necessários e suficientes para
+demonstrar a capacidade do licitante de realizar o objeto da licitação, serão
+exigidos para fins de habilitação, nos termos dos arts. 62 a 70 da Lei nº 14.133,
+de 2021.
+8.10. Quando permitida a participação de empresas estrangeiras que não
+funcionem no País, as exigências de habilitação serão atendidas mediante
+
+--- [pag. PDF 15] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+documentos equivalentes, inicialmente apresentados em tradução livre.
+8.11. Na hipótese de o licitante vencedor ser empresa estrangeira que não
+funcione no País, para fins de assinatura do contrato, os documentos exigidos para
+a habilitação serão traduzidos por tradutor juramentado no País e apostilados nos
+termos do disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro
+que venha a substituí-lo, ou consularizados pelos respectivos consulados ou
+embaixadas.
+8.12. Não será admitida a participação de consórcios de empresas pois
+trata-se de contratação de pequeno vulto e baixa complexidade técnica.
+8.13. Os documentos exigidos para fins de habilitação poderão ser
+apresentados em original, por cópia autenticada por Tabelião ou por Servidor
+designado pela Secretaria de Administração.
+8.14. Será verificado se o licitante apresentou declaração de que atende aos
+requisitos de habilitação, e o declarante responderá pela veracidade das
+informações prestadas, na forma da lei (art. 63, I, da Lei n° 14.133/2021).
+8.15. Será verificado se o licitante apresentou no sistema, sob pena de
+inabilitação, a declaração de que cumpre as exigências de reserva de cargos
+para pessoa com deficiência e para reabilitado da Previdência Social,
+previstas em lei e em outras normas específicas.
+8.16. O licitante deverá apresentar, sob pena de desclassificação, declaração de que suas
+propostas econômicas compreendem a integralidade dos custos para atendimento
+dos direitos trabalhistas assegurados na Constituição Federal, nas leis trabalhistas,
+nas normas infralegais, nas convenções coletivas de trabalho e nos termos de
+ajustamento de conduta vigentes na data de entrega das propostas.
+8.17. O não envio de quaisquer das declarações exigidas ou o envio com informações
+inverídicas, incompletas ou em desconformidade com o estabelecido neste edital
+acarretará a inabilitação da licitante, nos termos da legislação vigente.
+8.18. §2º Caso seja identificada falsidade em qualquer declaração, a licitante poderá,
+além da inabilitação, ser sujeita às sanções previstas nos arts. 155 a 159 da Lei nº
+14.133/2021, sem prejuízo das sanções penais e civis cabíveis.
+8.19. A habilitação será verificada por meio dos documentos apresentados.
+8.19.1. Somente haverá a necessidade de comprovação do preenchimento de
+requisitos mediante apresentação dos documentos originais não digitais quando
+houver dúvida em relação à integridade do documento digital ou quando a lei
+expressamente o exigir. (IN nº 3/2018, art. 4º, §1º, e art. 6º, §4º).
+8.20. É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais
+no Sistema e mantê-los atualizados junto aos órgãos responsáveis pela informação,
+devendo proceder, imediatamente, à correção ou à alteração dos registros tão logo
+identifique incorreção ou aqueles se tornem desatualizados. (IN nº 3/2018, art. 7º,
+caput).
+8.20.1. A não observância do disposto no item anterior poderá ensejar
+desclassificação no momento da habilitação. (IN nº 3/2018, art. 7º, parágrafo
+único).
+8.21. A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades
+
+--- [pag. PDF 16] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+emissores de certidões constitui meio legal de prova, para fins de habilitação.
+8.21.1. Os documentos exigidos para habilitação devem ser enviados por meio do
+sistema, em formato digital, no prazo de no mínimo, quatro horas, prorrogável
+por igual período, contado da solicitação do pregoeiro.
+8.22. A verificação dos documentos de habilitação será feita somente em relação ao
+licitante vencedor.
+8.22.1. Os documentos relativos à regularidade fiscal que constem do Termo de
+Referência somente serão exigidos, em qualquer caso, em momento
+posterior ao julgamento das propostas, e apenas do licitante mais bem
+classificado.
+8.22.2. Aceitabilidade dos Preços:
+8.22.3. Será desclassificada a proposta cujo valor global seja:
+8.22.4. Inferior a 50% (cinquenta por cento) do valor estimado pela
+Administração, salvo se a licitante comprovar, de forma detalhada e
+fundamentada, a exequibilidade de sua proposta, mediante apresentação de
+planilha analítica de custos, demonstrações contábeis, memória de cálculo,
+contratos similares anteriores ou outros elementos comprobatórios;
+8.22.5. Inexequível, nos termos do art. 59 da Lei nº 14.133/2021, ou que não
+demonstre a viabilidade econômico-financeira da execução contratual;
+Justificativa:
+Tal critério visa resguardar o interesse público e assegurar a execução contratual de
+forma regular, segura e eficaz, conforme o princípio da seleção da proposta mais
+vantajosa e os arts. 5º, inciso XII, e 59 da Lei nº 14.133/2021.
+8.23. Após a entrega dos documentos para habilitação, não será permitida a
+substituição ou a apresentação de novos documentos, salvo em sede de diligência,
+para (Lei 14.133/21, art. 64, e IN 73/2022, art. 39, §4º):
+8.23.1. Complementação de informações acerca dos documentos já apresentados
+pelos licitantes e desde que necessária para apurar fatos existentes à época da
+abertura do certame; e Atualização de documentos cuja validade tenha
+expirado após a data de recebimento das propostas
+8.24. Na análise dos documentos de habilitação, a comissão de contratação poderá
+sanar erros ou falhas, que não alterem a substância dos documentos e sua validade
+jurídica, mediante decisão fundamentada, registrada em ata e acessível a todos,
+atribuindo-lhes eficácia para fins de habilitação e classificação.
+8.25. Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro
+examinará a proposta subsequente e assim sucessivamente, na ordem de
+classificação, até a apuração de uma proposta que atenda ao presente edital.
+8.26. Somente serão disponibilizados para acesso público os documentos de
+habilitação do licitante cuja proposta atenda ao edital de licitação, após
+concluídos os procedimentos de que trata o subitem anterior.
+8.27. A comprovação de regularidade fiscal e trabalhista das microempresas e das
+empresas de pequeno porte somente será exigida para efeito de contratação, e não
+como condição para participação na licitação (art. 4º do Decreto nº 8.538/2015).
+
+--- [pag. PDF 17] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+9. DA FORMALIZAÇÃO DO CONTRATO
+9.1. Formalizado o contrato, as execuções dele decorrentes, dar-se-ão mediante a
+emissão de Ordem de Serviços ou instrumento equivalente, nos termos do art. 95,
+Lei 14.133/21, sendo que, conterá informações completas dos serviços que
+deverão ser realizados e os prazos máximos admitidos para cada etapa.
+9.2. Homologado o resultado da licitação, o licitante mais bem classificado terá o
+prazo de 7 (sete) dias, contados a partir da data de sua convocação, para assinar
+o contrato, cuja vigência inicial será de 12 (doze) meses, podendo ser prorrogado
+nos termos do artigo 106 da Lei nº 14.133/2021, sob pena de decadência do
+direito à contratação, sem prejuízo das sanções previstas no artigo 156 da Lei nº
+14.133/2021.
+9.3. O prazo de convocação poderá ser prorrogado uma vez, por igual período,
+mediante solicitação do licitante mais bem classificado, desde que
+(a)A solicitação seja devidamente justificada e apresentada dentro do prazo; e
+(b) A justificativa apresentada seja aceita pela Administração.
+9.4. O contrato será assinado por meio de assinatura digital e disponibilizado no
+sistema eletrônico de contratações, conforme exigências do artigo 174 da Lei nº
+14.133/2021 e do Decreto Municipal nº 3.097/2024.
+9.5. O contrato formalizado conterá a descrição do serviço de fornecimento da
+solução de sistemas de gestão pública, bem como as quantidades, preços, prazos
+e demais condições estabelecidas no Termo de Referência e na proposta
+vencedora.
+9.6. As informações do contrato, incluindo o fornecedor, os preços contratados e as
+condições, serão publicadas no Portal Nacional de Contratações Públicas
+(PNCP), conforme disposto no artigo 174 da Lei nº 14.133/2021, e permanecerão
+disponíveis durante toda a vigência contratual.
+9.7. Na hipótese de o licitante convocado não assinar o contrato no prazo e nas
+condições estabelecidas, a Administração poderá convocar os licitantes
+remanescentes, na ordem de classificação, para assiná-lo em igual prazo e nas
+mesmas condições propostas pelo primeiro classificado, conforme artigo 71, §
+2º, da Lei nº 14.133/2021.
+9.8. A execução do contrato será fiscalizada pelo gestor designado, nos termos do
+artigo 67 da Lei nº 14.133/2021, assegurando o cumprimento das condições
+pactuadas e a qualidade do serviço prestado.
+10. DOS RECURSOS
+10.1. A interposição de recurso referente ao julgamento das propostas, à habilitação ou
+inabilitação de licitantes, à anulação ou revogação da licitação, observará o disposto no art.
+165 da Lei nº 14.133, de 2021.
+10.2. O prazo recursal é de 03 (três) dias úteis, contados da data de intimação ou de
+lavratura da ata.
+10.3. Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de
+habilitação ou inabilitação do licitante:
+
+--- [pag. PDF 18] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+10.4. A intenção de recorrer deverá ser manifestada imediatamente, sob pena de
+preclusão;
+10.5. O prazo para a manifestação da intenção de recorrer não será inferior a 30
+(trinta) minutos.
+10.6. O prazo para apresentação das razões recursais será iniciado na data de
+intimação ou de lavratura da ata de habilitação ou inabilitação;
+10.7. Os recursos deverão ser encaminhados em campo próprio do sistema.
+O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão
+recorrida, a qual poderá reconsiderar sua decisão no prazo de 03 (três) dias úteis, ou, nesse
+mesmo prazo, encaminhar recurso para a autoridade superior, a qual deverá proferir sua
+decisão no prazo de 10 (dez) dias úteis, contado do recebimento dos autos.
+Os recursos interpostos fora do prazo não serão conhecidos.
+10.8. O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será
+de 3 (três) dias úteis, contados da data da intimação pessoal ou da divulgação da
+interposição do recurso, assegurada a vista imediata dos elementos indispensáveis à
+defesa de seus interesses.
+10.9. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da
+decisão recorrida até que sobrevenha decisão final da autoridade competente.
+10.10. O acolhimento do recurso invalida tão somente os atos insuscetíveis de
+aproveitamento.
+10.11. Os autos do processo permanecerão com vista franqueada aos interessados no sítio
+eletrônico: https://www.riograndedaserra.sp.gov.br na Aba de Licitações.
+11. DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES
+11.1. Comete infração administrativa, nos termos da lei, o licitante que, com
+dolo ou culpa:
+11.1.1. Deixar de entregar a documentação exigida para o certame ou não entregar
+qualquer documento que tenha sido solicitado pelo/a pregoeiro/a durante o
+certame;
+11.1.2. Salvo em decorrência de fato superveniente devidamente justificado, não
+mantiver a proposta em especial quando:
+11.1.2.1. Não enviar a proposta adequada ao último lance ofertado ou após
+a negociação;
+11.1.2.2. Recusar-se a enviar o detalhamento da proposta quando exigível;
+11.1.2.3. Pedir para ser desclassificado quando encerrada a etapa
+competitiva; ou
+11.1.2.4. Deixar de apresentar amostra;
+11.1.2.5. Apresentar proposta em desacordo com as especificações do
+edital;
+11.1.3. Não celebrar o contrato ou não entregar a documentação exigida para
+a contratação, quando convocado dentro do prazo de validade de sua
+proposta;
+
+--- [pag. PDF 19] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+11.1.3.1. Recusar-se, sem justificativa, a assinar o contrato ou a aceitar
+ou retirar o instrumento equivalente no prazo estabelecido pela
+Administração;
+11.1.4. Apresentar declaração ou documentação falsa exigida para o certame ou
+prestar declaração falsa durante a licitação;
+11.1.5. Fraudar a licitação;
+11.1.6. Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza,
+em especial quando:
+11.1.6.1. Agir em conluio ou em desconformidade com a lei;
+11.1.6.2. Induzir deliberadamente a erro no julgamento;
+11.1.6.3. Apresentar amostra falsificada ou deteriorada;
+11.1.7. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+11.1.8. Praticar ato lesivo previsto no art. 5º da Lei n.º 12.846, de 2013.
+11.2. Com fulcro na Lei nº 14.133, de 2021, a Administração poderá, garantida
+a prévia defesa, aplicar aos licitantes e/ou adjudicatários as seguintes sanções, sem
+prejuízo das responsabilidades civil e criminal:
+11.2.1. Advertência;
+11.2.2. Multa;
+11.2.3. Impedimento de licitar e contratar e
+11.2.4. Declaração de inidoneidade para licitar ou contratar, enquanto perdurarem
+os motivos determinantes da punição ou até que seja promovida sua
+reabilitação perante a própria autoridade que aplicou a penalidade.
+11.3. Na aplicação das sanções serão considerados:
+11.3.1. A natureza e a gravidade da infração cometida
+11.3.2. As peculiaridades do caso concreto.
+11.3.3. As circunstâncias agravantes ou atenuantes.
+11.3.4. Os danos que dela provierem para a Administração Pública.
+11.3.5. A implantação ou o aperfeiçoamento de programa de integridade,
+conforme normas e orientações dos órgãos de controle.
+11.4. A multa será recolhida em percentual de 0,05% a 30% incidente sobre o
+valor do contrato licitado, recolhida no prazo máximo de 20 (vinte) dias úteis, a
+contar da comunicação oficial.
+11.4.1. Para as infrações previstas nos itens 13.1.1, 13.1.2, e 13.1.3, a multa será
+de 15% do valor do contrato licitado.
+11.4.2. Para as infrações previstas nos itens 12.1.4, 12.1.5, 12.1.6, 12.1.7 e 12.1.8,
+a multa será de 30% do valor do contrato licitado.
+11.5. As sanções de advertência, impedimento de licitar e contratar e declaração
+de inidoneidade para licitar ou contratar poderão ser aplicadas, cumulativamente
+ou não, à penalidade de multa.
+11.6. Na aplicação da sanção de multa será facultada a defesa do interessado no
+prazo de 15 (quinze) dias úteis, contado da data de sua intimação.
+11.7. A sanção de impedimento de licitar e contratar será aplicada ao
+responsável em decorrência das infrações administrativas relacionadas nos itens
+13.1.1, 13.1.2, e 13.1.3, quando não se justificar a imposição de penalidade mais
+
+--- [pag. PDF 20] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+grave, e impedirá o responsável de licitar e contratar no âmbito da Administração
+Pública direta e indireta do ente federativo a qual pertencer o órgão ou entidade,
+pelo prazo máximo de 3 (três) anos.
+11.8. Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade
+para licitar ou contratar, em decorrência da prática das infrações dispostas nos
+itens 13.1.4, 13.1.5, 13.1.6, 13.1.7 e 13.1.8, bem como pelas infrações
+administrativas previstas nos itens 13.1.1, 13.1.2 e 13.1.3 que justifiquem a
+imposição de penalidade mais grave que a sanção de impedimento de licitar e
+contratar, cuja duração observará o prazo previsto no art. 156, §5º, da Lei n.º
+14.133/2021.
+11.9. A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar
+ou retirar o instrumento equivalente no prazo estabelecido pela Administração,
+descrita no item 13.1.3, caracterizará o descumprimento total da obrigação
+assumida e o sujeitará às penalidades e à imediata perda da garantia de proposta
+em favor do órgão ou entidade promotora da licitação, nos termos do art. 45, §4º
+da IN SEGES/ME n.º 73, de 2022.
+11.10. A apuração de responsabilidade relacionadas às sanções de impedimento
+de licitar e contratar e de declaração de inidoneidade para licitar ou contratar
+demandará a instauração de processo de responsabilização a ser conduzido por
+comissão composta por 2 (dois) ou mais servidores estáveis, que avaliará fatos e
+circunstâncias conhecidos e intimará o licitante ou o adjudicatário para, no prazo
+de 15 (quinze) dias úteis, contado da data de sua intimação, apresentar defesa
+escrita e especificar as provas que pretenda produzir.
+11.11. Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções
+de advertência, multa e impedimento de licitar e contratar, contado da data da
+intimação, o qual será dirigido à autoridade que tiver proferido a decisão
+recorrida, que, se não a reconsiderar no prazo de 5 (cinco) dias úteis, encaminhará
+o recurso com sua motivação à autoridade superior, que deverá proferir sua
+decisão no prazo máximo de 20 (vinte) dias úteis, contado do recebimento dos
+autos.
+11.12. Caberá a apresentação de pedido de reconsideração da aplicação da sanção
+de declaração de inidoneidade para licitar ou contratar no prazo de 15 (quinze)
+dias úteis, contado da data da intimação, e decidido no prazo máximo de 20
+(vinte) dias úteis, contado do seu recebimento.
+11.13. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou
+da decisão recorrida até que sobrevenha decisão final da autoridade competente.
+11.14. A aplicação das sanções previstas neste edital não exclui, em hipótese
+alguma, a obrigação de reparação integral dos danos causados.
+12. DA IMPUGNAÇÃO AO EDITAL E DOS PEDIDOS DE ESCLARECIMENTOS
+12.1. Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na
+aplicação da Lei nº 14.133, de 2021, devendo protocolar o pedido até 03 (três) dias úteis
+antes da data da abertura do certame.
+
+--- [pag. PDF 21] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+12.2. A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio
+eletrônico oficial no prazo de até 03 (três) dias úteis do pedido, limitado ao último dia útil
+anterior à data da abertura do certame.
+12.3. A impugnação e o pedido de esclarecimentos poderão ser realizados por forma
+eletrônica, pelo seguinte meio: licitacoes@riograndedaserra.sp.gov.br.
+12.4. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos
+no certame.
+12.4.1. A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser
+motivada pelo agente de contratação, nos autos do processo de licitação.
+12.5. Acolhida a impugnação, será definida e publicada nova data para a realização do
+certame.
+13. DAS DISPOSIÇÕES GERAIS
+13.1. Será divulgada ata da sessão pública no sistema eletrônico.
+13.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a
+realização do certame na data marcada, a sessão será automaticamente transferida para o
+primeiro dia útil subsequente, no mesmo horário anteriormente estabelecido, desde que
+não haja comunicação em contrário, pelo Pregoeiro.
+13.3. Todas as referências de tempo no Edital, no aviso e durante a sessão pública
+observarão o horário de Brasília - DF.
+13.4. A homologação do resultado desta licitação não implicará direito à contratação.
+13.5. As normas disciplinadoras da licitação serão sempre interpretadas em favor da
+ampliação da disputa entre os interessados, desde que não comprometam o interesse da
+Administração, o princípio da isonomia, a finalidade e a segurança da contratação.
+13.6. Os licitantes assumem todos os custos de preparação e apresentação de suas
+propostas e a Administração não será, em nenhum caso, responsável por esses custos,
+independentemente da condução ou do resultado do processo licitatório.
+13.7. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o
+dia do início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias
+de expediente na Administração.
+13.8. O desatendimento de exigências formais não essenciais não importará o
+afastamento do licitante, desde que seja possível o aproveitamento do ato, observados os
+princípios da isonomia e do interesse público.
+13.9. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais
+peças que compõem o processo, prevalecerá as deste Edital.
+13.10. O Edital e seus anexos estão disponíveis, na íntegra, no PNCP - Portal Nacional
+de Contratações Públicas e site oficial www.riograndedaserra.sp.gov.br.
+13.11. Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+
+--- [pag. PDF 22] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO I – TERMO DE REFERÊNCIA
+ANEXO II – MODELO DE PROPOSTA PADRONIZADA
+ANEXO III – PROVA DE CONCEITO - POC
+ANEXO IV – MINUTA DE CONTRATO
+ANEXO V – DOCUMENTOS NECESSÁRIOS PARA HABILITAÇÃO
+ANEXO VI – ESTUDO TÉCNICO PRELIMINAR
+ANEXO VII – MODELO DE DECLARAÇÃO GERAL
+Rio Grande da Serra, 25 de setembro de 2026.
+Autorizado por:
+Milton de Souza Martins
+Secretário Municipal de Administração
+
+--- [pag. PDF 23] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO I
+TERMO DE REFERÊNCIA
+
+--- [pag. PDF 24] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO II - MODELO DE PROPOSTA PADRONIZADA
+Ao
+Município de Rio Grande da Serra
+Departamento de Compras, Licitações e Contratos
+PREGÃO ELETRÔNICO Nº 52/2026
+................................................ (nome da empresa) inscrita no CNPJ sob o nº
+....................., com sede na ....................... (endereço completo), neste ato representada
+por (Nome completo), RG e CPF do sócio ou procurador com poderes para firmar
+declaração), vem pela presente apresentar sua proposta de preços para o edital em
+referência e de acordo com as exigências do mesmo e seu Termo de Referência, oferecer
+Proposta Comercial, conforme planilha abaixo:
+Contratação de empresa para fornecimento de solução de sistemas de gestão pública
+municipal, na modalidade software como serviços (SaaS), incluídos nos serviços de
+hospedagem em datacenter, serviços de implantação incluindo diagnóstico e
+elaboração de um plano de implantação, migração de dados legados e treinamento
+inicial de usuários, bem como os serviços continuados de manutenção e suporte
+técnico, que garantam as alterações legais, corretivas e/ou evolutivas, bem como as
+atualizações de versão dos sistemas licenciados, conforme descrição existente no
+presente Termo de Referência.
+I - LICENCIAMENTO MENSAL - PREFEITURA
+Ref. Descrição / Especificações dos serviços Qtd Un. Valor
+Unitário
+TOTAL
+(R$)
+I-0 SERVIÇOS DE HOSPEDAGEM EM
+DATACENTER (COMPUTAÇÃO EM
+NUVEM)
+10 mês
+I-1 SERVIÇOS DA FASE DE IMPLANTAÇÃO DOS SISTEMAS
+I-1.1 Diagnóstico – Plano de Implantação 1 mês
+I-1.2.1 Migração de dados do SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+4 mês
+I-1.2.2 Migração de Dados do Sistema de
+Arrecadação Tributária
+4 mês
+I-1.2.3 Migração de Dados do Sistema de Nota
+Fiscal Eletrônica
+4 mês
+I-1.2.4 Migração de Dados do Sistema de
+Peticionamento
+4 mês
+I-1.2.5 Migração de Dados do Sistema de Compras,
+Licitações e Gestão de Contratos
+4 mês
+I-1.2.6 Migração de Dados do Sistema de
+Almoxarifado
+4 mês
+
+--- [pag. PDF 25] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+I-1.2.7 Migração de Dados do Sistema de
+Patrimônio
+4 mês
+I-1.2.8 Migração de Dados do Sistema de Controle
+Interno
+4 mês
+I-1.2.9 Migração de Dados do Sistema de Portal da
+Transparência
+4 mês
+I-1.2.10 Migração de Dados do Sistema de Recursos
+Humanos e Folha de Pagamento
+4 mês
+I-1.2.11 Migração de Dados do Sistema de Medicina
+e Segurança do Trabalho
+4 mês
+I-1.2.12 Migração de Dados do Sistema de Cemitério 4 mês
+I-1.2.13 Migração de Dados do Sistema de Protocolo
+sem Papel
+4 mês
+I-1.2.14 Migração de Dados do Sistema de Gestão de
+Frotas
+4 mês
+I-1.2.15 Migração de Dados do Sistema de Ouvidoria 4 mês
+I-1.2.16 Migração de Dados do Sistema de
+Assistência Social
+4 mês
+I-1.2.17 Migração de Dados do Sistema de Gestão de
+Educação
+4 mês
+I-1.2.18 Migração de Dados do Sistema de Gestão de
+Saúde
+4 mês
+I-1.2.19 Migração de Dados do Sistema de Gestão
+Estratégica (BI)
+4 mês
+I-1.2.20 Migração de Dados do Sistema Portal
+Municipal
+4 mês
+I-1.3.1 Treinamento inicial para o SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+1 mês
+I-1.3.2 Treinamento inicial para o Sistema de
+Arrecadação Tributária
+1 mês
+I-1.3.3 Treinamento inicial para o Sistema de Nota
+Fiscal Eletrônica
+1 mês
+I-1.3.4 Treinamento inicial para o Sistema de
+Peticionamento
+1 mês
+I-1.3.5 Treinamento inicial para o Sistema de
+Compras, Licitações e Gestão de Contratos
+1 mês
+I-1.3.6 Treinamento inicial para o Sistema de
+Almoxarifado
+1 mês
+I-1.3.7 Treinamento inicial para o Sistema de
+Patrimônio
+1 mês
+I-1.3.8 Treinamento inicial para o Sistema de
+Controle Interno
+1 mês
+I-1.3.9 Treinamento inicial para o Sistema de Portal
+da Transparência
+1 mês
+I-1.3.10 Treinamento inicial para o Sistema de
+Recursos Humanos e Folha de Pagamento
+1 mês
+I-1.3.11 Treinamento inicial para o Sistema de
+Medicina e Segurança do Trabalho
+1 mês
+
+--- [pag. PDF 26] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+I-1.3.12 Treinamento inicial para o Sistema de
+Cemitério
+1 mês
+I-1.3.13 Treinamento inicial para o Sistema de
+Protocolo sem Papel
+1 mês
+I-1.3.14 Treinamento inicial para o Sistema de Gestão
+de Frotas
+1 mês
+I-1.3.15 Treinamento inicial para o Sistema de
+Ouvidoria
+1 mês
+I-1.3.16 Treinamento inicial para o Sistema de
+Assistência Social
+1 mês
+I-1.3.17 Treinamento inicial para o Sistema de Gestão
+de Educação
+1 mês
+I-1.3.18 Treinamento inicial para o Sistema de Gestão
+de Saúde
+1 mês
+I-1.3.19 Treinamento inicial para o Sistema de Gestão
+Estratégica (BI)
+1 mês
+I-1.3.20 Treinamento inicial para o Sistema Portal
+Municipal
+1 mês
+I-2 SERVIÇOS DA FASE DE MANUTENÇÃO E SUPORTE
+TÉCNICO
+I-2.1 SIAFIC - Sistema Único e Integrado de
+Execução Orçamentária, Financeira,
+Contábil e Controle
+10 mês
+I-2.2 Sistema de Arrecadação Tributária 10 mês
+I-2.3 Sistema de Nota Fiscal Eletrônica 10 mês
+I-2.4 Sistema de Peticionamento 10 mês
+I-2.5 Sistema de Compras, Licitações e Gestão de
+Contratos
+10 mês
+I-2.6 Sistema de Almoxarifado 10 mês
+I-2.7 Sistema de Patrimônio 10 mês
+I-2.8 Sistema de Controle Interno 10 mês
+I-2.9 Sistema de Portal da Transparência 10 mês
+I-2.10 Sistema de Recursos Humanos e Folha de
+Pagamento
+10 mês
+I-2.11 Sistema de Medicina e Segurança do
+Trabalho
+10 mês
+I-2.12 Sistema de Cemitério 10 mês
+I-2.13 Sistema de Protocolo sem Papel 10 mês
+I-2.14 Sistema de Gestão de Frotas 10 mês
+I-2.15 Sistema de Ouvidoria 10 mês
+I-2.16 Sistema de Assistência Social 10 mês
+I-2.17 Sistema de Gestão de Educação 10 mês
+I-2.18 Sistema de Gestão de Saúde 10 mês
+I-2.19 Sistema de Gestão Estratégica (BI) 10 mês
+I-2.20 Sistema Portal Municipal 10 mês
+Total I (R$)
+II - LICENCIAMENTO MENSAL – CÂMARA
+
+--- [pag. PDF 27] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Ref. Descrição / Especificações dos serviços Qtd Un.
+II-1 SERVIÇOS DA FASE DE IMPLANTAÇÃO DOS SISTEMAS
+II-1.1 Diagnóstico – Plano de Implantação 1 mês
+II-1.2.1 Migração de informações do SIAFIC -
+Sistema Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+4 mês
+II-1.2.2 Migração de informações do Sistema de
+Compras, Licitações e Gestão de Contratos
+4 mês
+II-1.2.5 Migração de informações do Sistema de
+Recursos Humanos e Folha de Pagamento
+4 mês
+II-1.3.1 Treinamento inicial para o SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+1 mês
+II-1.3.2 Treinamento inicial para o Sistema de
+Compras, Licitações e Gestão de Contratos
+1 mês
+II-1.3.5 Treinamento inicial para o Sistema de
+Recursos Humanos e Folha de Pagamento
+1 mês
+II-2 SERVIÇOS DA FASE DE MANUTENÇÃO E SUPORTE
+TÉCNICO
+II-2.1 SIAFIC - Sistema Único e Integrado de
+Execução Orçamentária, Financeira,
+Contábil e Controle
+10 mês
+II-2.2 Sistema de Compras, Licitações e Gestão de
+Contratos
+10 mês
+II-2.5 Sistema de Recursos Humanos e Folha de
+Pagamento
+10 mês
+Total II (R$)
+III - LICENCIAMENTO MENSAL – INSTITUTO DE PREVIDÊNCIA
+Ref. Descrição / Especificações dos serviços Qtd Un.
+III-1 SERVIÇOS DA FASE DE IMPLANTAÇÃO DOS SISTEMAS
+III-1.1 Diagnóstico – Plano de Implantação 1 mês
+III-1.2.1 Migração de informações do SIAFIC -
+Sistema Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+4 mês
+III-1.2.2 Migração de informações do Sistema de
+Compras, Licitações e Gestão de Contratos
+4 mês
+III-1.2.5 Migração de informações do Sistema de
+Recursos Humanos e Folha de Pagamento
+4 mês
+III-1.3.1 Treinamento inicial para o SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+1 mês
+III-1.3.2 Treinamento inicial para o Sistema de
+Compras, Licitações e Gestão de Contratos
+1 mês
+III-1.3.5 Treinamento inicial para o Sistema de
+Recursos Humanos e Folha de Pagamento
+1 mês
+
+--- [pag. PDF 28] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+III-2 SERVIÇOS DA FASE DE MANUTENÇÃO E SUPORTE
+TÉCNICO
+III-2.1 SIAFIC - Sistema Único e Integrado de
+Execução Orçamentária, Financeira,
+Contábil e Controle
+10 mês
+III-2.2 Sistema de Compras, Licitações e Gestão de
+Contratos
+10 mês
+III-2.5 Sistema de Recursos Humanos e Folha de
+Pagamento
+10 mês
+Total III (R$)
+VALOR GLOBAL = Total I + Total II + Total III (R$)
+Os preços ofertados têm como referência o mês de XXXX/2026 para pagamento
+conforme execução de cada etapa, contados do recebimento definitivo dos serviços pelas
+unidades recebedoras. O preço cotado será fixo e irreajustável pelo período de 12 (doze)
+meses, e nele estarão contidas todas as despesas diretas e indiretas, inclusive tributos,
+contribuições incidentes, impostos, e quaisquer despesas acessórias, necessárias à perfeita
+execução do objeto.
+1 - O prazo de validade da proposta é de 60 (sessenta) dias corridos, contados da
+entrega dos envelopes “PROPOSTA DE PREÇOS”.
+2 - O prazo de vigência do contrato será de 12 (doze) meses podendo ser prorrogado
+por iguais períodos, conforme interesse da Administração, até o limite de 120 (cento
+e vinte) meses conforme previsto na Lei 14.133/2021.
+3 Para a elaboração da proposta deverão ser considerados:
+• O valor da elaboração do plano de implantação;
+• Valor de conversão de dados para cada um dos módulos que serão
+convertidos;
+• A proposta comercial deverá considerar 10 (dez) meses de manutenção
+dos sistemas. Esse prazo deverá ser incluído integralmente no cálculo do
+valor total da proposta, independentemente do cronograma real de
+conversão de dados de cada módulo. O processo de conversão de dados
+poderá ocorrer em um período estimado entre 60 (sessenta) e 180 (cento
+e oitenta) dias. Caso um determinado módulo tenha seus dados
+totalmente convertidos e os usuários estejam devidamente treinados
+dentro de 60 (sessenta) dias, o pagamento da manutenção referente a
+esse módulo será iniciado imediatamente após o aceite formal do
+processo de conversão e capacitação. Contudo, para fins de composição
+do valor máximo da proposta, todos os módulos deverão ser
+considerados com 10 (dez) meses de manutenção contratual, ainda que,
+na prática, o valor efetivo a ser pago seja ajustado conforme o cronograma
+de aceite de cada módulo.
+
+--- [pag. PDF 29] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+• até 10 (dez) meses de serviços de manutenção em nuvem;
+• Treinamento no prazo previsto para cada órgão que compõe o Município
+de Rio Grande da Serra-SP
+4 - Apresentamos, conforme exigido, nossos dados bancários: NOME DO BANCO
+......................... N° ...............
+NOME DA AGÊNCIA ....................... N° ..............
+NÚMERO DA CONTA ..........................................
+local/data....................................................................................................
+Representante Legal (assinatura/nome/RG)
+
+--- [pag. PDF 30] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO III
+PROVA DE CONCEITO – POC
+PREGÃO ELETRÔNICO Nº XX/2026
+1. O critério de julgamento a ser adotado será o de Menor Preço Global.
+2. Após a etapa de lances, o licitante classificado em primeiro lugar deverá realizar
+a demonstração do “Sistema Proposto”, apresentando todas as funcionalidades
+requeridas no certame em estrita obediência a Prova de Conceito - POC.
+3. A apresentação deverá ser feita em ambiente simulado pelo proponente, contando
+com todos os equipamentos e conexões que o mesmo considerar necessárias, de
+modo a realizar EM TEMPO DE EXECUÇÃO, ou seja: cada funcionalidade
+deverá ser simulada contemplando inclusões de dados, exclusões de dados,
+alterações de dados, emissões de relatórios, gerações de consultas, produção de
+arquivos, enfim a realização efetiva de cada item constante em cada requisito
+exigido.
+4. A fim de compor os autos do processo, como prova irrefutável das operações
+realizadas, conforme exigências da comissão julgadora e por amostragem,
+deverão ser impressos relatórios e logs de operações realizadas, durante a
+apresentação.
+5. Caso, o proponente não consiga qualificar o seu produto nesta fase de
+apresentação, o mesmo deverá ser desclassificado e o proponente seguinte,
+conforme lista de classificados, deverá ser convocado para o mesmo processo de
+demonstração.
+6. Esta etapa deverá ser realizada até que um proponente consiga atender ao quanto
+exigido no certame.
+7. Caso nenhum proponente seja habilitado O Município de Rio Grande da Serra
+encerrará o certame sem proceder à homologação do objeto a nenhum dos
+interessados.
+8. As apresentações dos licitantes deverão ser integralmente documentadas
+utilizando-se os métodos e recursos que se fizerem necessários.
+9. Os arquivos gerados deverão ser juntados ao processo a fim de transmitir completa
+transparência e lisura ao mesmo, em relação a todos os atos praticados,
+demonstrando aos interessados, bem como, aos órgãos de fiscalização e controle
+a correção dos gestores e demais envolvidos no julgamento deste processo.
+
+--- [pag. PDF 31] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+10. A apresentação a que se refere o item anterior deverá ocorrer nos prazos
+estipulados no edital convocatório.
+11. A Proponente declarada vencedora do certame na fase de lances, deverá
+preparar uma amostra do ambiente real de um município a fim de demonstrar as
+exigências da Prova de Conceito - POC deste edital.
+12. Todos os itens selecionados para a POC serão indicados para demonstração
+pelo Proponente à “Comissão Especial de Equipe de Avaliação Técnica” nomeada
+pelo Município de Rio Grande da Serra atraves da Portaria n° 602/2026 e
+conforme as regras estabelecidas no Termo de Referência.
+13. A exposição ocorrerá em espaço físico determinado pelo Município de Rio
+Grande da Serra. Os projetores, computadores, impressoras, ativos de rede e
+outros materiais a serem utilizados na demonstração, deverão ser todos eles, de
+propriedade do proponente.
+14. Caso o Proponente entenda que existem outros recursos necessários à
+exposição, o proponente deverá providenciá-los e trazê-los para sua apresentação.
+15. Nenhuma falta será tolerada por alegação de desconhecimento ou
+despreparo por qualquer dos licitantes.
+16. O Município de Rio Grande da Serra deverá designar equipe técnica para
+avaliar as demonstrações.
+17. Cada item selecionado no Termo de Referência como essencial deverá ser
+indicado para demonstração e avaliação da comissão.
+18. Os itens a serem demonstrados deverão obedecer à ordem constante neste
+Termo de Referência, e nenhum item poderá ser apresentado antes que o item
+anterior seja efetivamente demonstrado. Ou seja: Itens não poderão ser saltados,
+ou deixados para depois no processo da apresentação.
+19. Durante a fase de licitação, a empresa declarada vencedora deverá realizar
+um PROVA DE CONCEITO – Prova de Conceito (POC), no qual será exigida
+a demonstração prática:
+• Que cada um dos sistemas integrantes da solução é "nativo da internet"
+(frequentemente chamado de Cloud Native ou nativo em nuvem) projetado desde
+a concepção para operar na internet, utilizando apenas “browsers” disponíveis no
+mercado, tais como Google Chrome, Microsoft Edge ou Mozilla Firefox, não
+serão aceitas quaisquer outras formas de acesso, tais como instalação local, acesso
+remoto ou emulação de máquinas. Sob pena de desclassificação sumária.
+• Que atende no mínimo, 80% (oitenta por cento) das funcionalidades, classificadas
+como essenciais, imprescindíveis para ao bom funcionamento de cada um dos
+sistemas, conforme definido neste Termo de Referência a ser realizado durante a
+Avaliação Técnica.
+
+--- [pag. PDF 32] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+20. As funcionalidades de cada sistema, deverão ser integralmente
+implementadas e disponibilizadas em até 180 (cento e oitenta) dias após a
+assinatura do contrato. É condição indispensável que a empresa licitante atenda
+às funcionalidades, classificadas como essenciais estabelecidos neste Termo de
+Referência, durante a demonstração em atendimento a POC e conforme as
+características descritas no item 11.1.1 sob pena de desclassificação.
+
+--- [pag. PDF 33] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO IV - MINUTA DE CONTRATO
+PREGÃO ELETRÔNICO Nº .../2026
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE
+SOLUÇÃO DE SISTEMAS DE GESTÃO PÚBLICA MUNICIPAL, NA
+MODALIDADE SOFTWARE COMO SERVIÇO (SAAS), INCLUINDO
+LICENCIAMENTO, HOSPEDAGEM EM NUVEM, IMPLANTAÇÃO, MIGRAÇÃO
+DE DADOS, TREINAMENTOS, MANUTENÇÃO, SUPORTE TÉCNICO E
+ATUALIZAÇÕES LEGAIS E TECNOLÓGICAS, CONFORME O TERMO DE
+REFERÊNCIA.
+O MUNICÍPIO DE RIO GRANDE DA SERRA, pessoa jurídica de direito público
+interno, com sede na Rua do Progresso, nº 700, Centro, na cidade de Rio Grande da Serra,
+regularmente inscrita no CNPJ/ MF sob o nº XX.XXX.XXX/XXXX-XX, neste ato
+denominada CONTRATANTE, representado pelo (a) Prefeito Municipal, Sr
+XXXXXXXXXXXXXXXXX, e a empresa
+......................................................................................... com sede na, n.º...........,
+Bairro........................., na cidade de XXXXXXXXXXXX , inscrita no CNPJ/MF sob o
+nº .........., neste ato denominada empresa CONTRATADA, representada
+por.............................., inscrito(a) no CPF/MF sob o nº , celebram o presente:
+CLÁUSULA PRIMEIRA - DO OBJETO
+Constitui objeto do presente contrato o fornecimento de solução de sistemas de gestão
+pública municipal, na modalidade Software como Serviço (SaaS), compreendendo
+licenciamento de uso, hospedagem em ambiente de computação em nuvem, diagnóstico
+e Plano de Implantação, parametrização, conversão e migração de dados, treinamento
+inicial e continuado, manutenção corretiva, preventiva, adaptativa e evolutiva, suporte
+técnico e atualizações legais e tecnológicas, conforme o Edital do Pregão Eletrônico nº
+XX/2026, o Termo de Referência, a proposta da CONTRATADA e os demais anexos, que
+integram este instrumento independentemente de transcrição.
+1.1 - Parágrafo Único - Fazem parte do presente instrumento, como se nele estivessem
+transcritos, o edital convocatório mencionado no caput desta cláusula e seus anexos.
+CLÁUSULA SEGUNDA – DO PREÇO
+2.1 - O valor global do presente Contrato é de
+R$.........................................(.........................), conforme quadro discriminativo
+abaixo:
+
+--- [pag. PDF 34] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Contratação de empresa para fornecimento de solução de sistemas de gestão pública
+municipal, na modalidade software como serviços (SaaS), incluídos nos serviços de
+hospedagem em datacenter, serviços de implantação incluindo diagnóstico e
+elaboração de um plano de implantação, migração de dados legados e treinamento
+inicial de usuários, bem como os serviços continuados de manutenção e suporte
+técnico, que garantam as alterações legais, corretivas e/ou evolutivas, bem como as
+atualizações de versão dos sistemas licenciados, conforme descrição existente no
+presente Termo de Referência.
+I - LICENCIAMENTO MENSAL - PREFEITURA
+Ref. Descrição / Especificações dos serviços Qtd Un. Valor
+Unitário
+TOTAL
+(R$)
+I-0 SERVIÇOS DE HOSPEDAGEM EM
+DATACENTER (COMPUTAÇÃO EM
+NUVEM)
+10 mês
+I-1 SERVIÇOS DA FASE DE IMPLANTAÇÃO DOS SISTEMAS
+I-1.1 Diagnóstico – Plano de Implantação 1 mês
+I-1.2.1 Migração de dados do SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+4 mês
+I-1.2.2 Migração de Dados do Sistema de
+Arrecadação Tributária
+4 mês
+I-1.2.3 Migração de Dados do Sistema de Nota
+Fiscal Eletrônica
+4 mês
+I-1.2.4 Migração de Dados do Sistema de
+Peticionamento
+4 mês
+I-1.2.5 Migração de Dados do Sistema de Compras,
+Licitações e Gestão de Contratos
+4 mês
+I-1.2.6 Migração de Dados do Sistema de
+Almoxarifado
+4 mês
+I-1.2.7 Migração de Dados do Sistema de
+Patrimônio
+4 mês
+I-1.2.8 Migração de Dados do Sistema de Controle
+Interno
+4 mês
+I-1.2.9 Migração de Dados do Sistema de Portal da
+Transparência
+4 mês
+I-1.2.10 Migração de Dados do Sistema de Recursos
+Humanos e Folha de Pagamento
+4 mês
+I-1.2.11 Migração de Dados do Sistema de Medicina
+e Segurança do Trabalho
+4 mês
+I-1.2.12 Migração de Dados do Sistema de Cemitério 4 mês
+I-1.2.13 Migração de Dados do Sistema de Protocolo
+sem Papel
+4 mês
+I-1.2.14 Migração de Dados do Sistema de Gestão de
+Frotas
+4 mês
+I-1.2.15 Migração de Dados do Sistema de Ouvidoria 4 mês
+I-1.2.16 Migração de Dados do Sistema de
+Assistência Social
+4 mês
+I-1.2.17 Migração de Dados do Sistema de Gestão de
+Educação
+4 mês
+
+--- [pag. PDF 35] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+I-1.2.18 Migração de Dados do Sistema de Gestão de
+Saúde
+4 mês
+I-1.2.19 Migração de Dados do Sistema de Gestão
+Estratégica (BI)
+4 mês
+I-1.2.20 Migração de Dados do Sistema Portal
+Municipal
+4 mês
+I-1.3.1 Treinamento inicial para o SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+1 mês
+I-1.3.2 Treinamento inicial para o Sistema de
+Arrecadação Tributária
+1 mês
+I-1.3.3 Treinamento inicial para o Sistema de Nota
+Fiscal Eletrônica
+1 mês
+I-1.3.4 Treinamento inicial para o Sistema de
+Peticionamento
+1 mês
+I-1.3.5 Treinamento inicial para o Sistema de
+Compras, Licitações e Gestão de Contratos
+1 mês
+I-1.3.6 Treinamento inicial para o Sistema de
+Almoxarifado
+1 mês
+I-1.3.7 Treinamento inicial para o Sistema de
+Patrimônio
+1 mês
+I-1.3.8 Treinamento inicial para o Sistema de
+Controle Interno
+1 mês
+I-1.3.9 Treinamento inicial para o Sistema de Portal
+da Transparência
+1 mês
+I-1.3.10 Treinamento inicial para o Sistema de
+Recursos Humanos e Folha de Pagamento
+1 mês
+I-1.3.11 Treinamento inicial para o Sistema de
+Medicina e Segurança do Trabalho
+1 mês
+I-1.3.12 Treinamento inicial para o Sistema de
+Cemitério
+1 mês
+I-1.3.13 Treinamento inicial para o Sistema de
+Protocolo sem Papel
+1 mês
+I-1.3.14 Treinamento inicial para o Sistema de Gestão
+de Frotas
+1 mês
+I-1.3.15 Treinamento inicial para o Sistema de
+Ouvidoria
+1 mês
+I-1.3.16 Treinamento inicial para o Sistema de
+Assistência Social
+1 mês
+I-1.3.17 Treinamento inicial para o Sistema de Gestão
+de Educação
+1 mês
+I-1.3.18 Treinamento inicial para o Sistema de Gestão
+de Saúde
+1 mês
+I-1.3.19 Treinamento inicial para o Sistema de Gestão
+Estratégica (BI)
+1 mês
+I-1.3.20 Treinamento inicial para o Sistema Portal
+Municipal
+1 mês
+I-2 SERVIÇOS DA FASE DE MANUTENÇÃO E SUPORTE
+TÉCNICO
+
+--- [pag. PDF 36] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+I-2.1 SIAFIC - Sistema Único e Integrado de
+Execução Orçamentária, Financeira,
+Contábil e Controle
+10 mês
+I-2.2 Sistema de Arrecadação Tributária 10 mês
+I-2.3 Sistema de Nota Fiscal Eletrônica 10 mês
+I-2.4 Sistema de Peticionamento 10 mês
+I-2.5 Sistema de Compras, Licitações e Gestão de
+Contratos
+10 mês
+I-2.6 Sistema de Almoxarifado 10 mês
+I-2.7 Sistema de Patrimônio 10 mês
+I-2.8 Sistema de Controle Interno 10 mês
+I-2.9 Sistema de Portal da Transparência 10 mês
+I-2.10 Sistema de Recursos Humanos e Folha de
+Pagamento
+10 mês
+I-2.11 Sistema de Medicina e Segurança do
+Trabalho
+10 mês
+I-2.12 Sistema de Cemitério 10 mês
+I-2.13 Sistema de Protocolo sem Papel 10 mês
+I-2.14 Sistema de Gestão de Frotas 10 mês
+I-2.15 Sistema de Ouvidoria 10 mês
+I-2.16 Sistema de Assistência Social 10 mês
+I-2.17 Sistema de Gestão de Educação 10 mês
+I-2.18 Sistema de Gestão de Saúde 10 mês
+I-2.19 Sistema de Gestão Estratégica (BI) 10 mês
+I-2.20 Sistema Portal Municipal 10 mês
+Total I (R$)
+II - LICENCIAMENTO MENSAL – CÂMARA
+Ref. Descrição / Especificações dos serviços Qtd Un.
+II-1 SERVIÇOS DA FASE DE IMPLANTAÇÃO DOS SISTEMAS
+II-1.1 Diagnóstico – Plano de Implantação 1 mês
+II-1.2.1 Migração de informações do SIAFIC -
+Sistema Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+4 mês
+II-1.2.2 Migração de informações do Sistema de
+Compras, Licitações e Gestão de Contratos
+4 mês
+II-1.2.5 Migração de informações do Sistema de
+Recursos Humanos e Folha de Pagamento
+4 mês
+II-1.3.1 Treinamento inicial para o SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+1 mês
+II-1.3.2 Treinamento inicial para o Sistema de
+Compras, Licitações e Gestão de Contratos
+1 mês
+II-1.3.5 Treinamento inicial para o Sistema de
+Recursos Humanos e Folha de Pagamento
+1 mês
+
+--- [pag. PDF 37] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+II-2 SERVIÇOS DA FASE DE MANUTENÇÃO E SUPORTE
+TÉCNICO
+II-2.1 SIAFIC - Sistema Único e Integrado de
+Execução Orçamentária, Financeira,
+Contábil e Controle
+10 mês
+II-2.2 Sistema de Compras, Licitações e Gestão de
+Contratos
+10 mês
+II-2.5 Sistema de Recursos Humanos e Folha de
+Pagamento
+10 mês
+Total II (R$)
+III - LICENCIAMENTO MENSAL – INSTITUTO DE PREVIDÊNCIA
+Ref. Descrição / Especificações dos serviços Qtd Un.
+III-1 SERVIÇOS DA FASE DE IMPLANTAÇÃO DOS SISTEMAS
+III-1.1 Diagnóstico – Plano de Implantação 1 mês
+III-1.2.1 Migração de informações do SIAFIC -
+Sistema Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+4 mês
+III-1.2.2 Migração de informações do Sistema de
+Compras, Licitações e Gestão de Contratos
+4 mês
+III-1.2.5 Migração de informações do Sistema de
+Recursos Humanos e Folha de Pagamento
+4 mês
+III-1.3.1 Treinamento inicial para o SIAFIC - Sistema
+Único e Integrado de Execução
+Orçamentária, Financeira, Contábil e
+Controle
+1 mês
+III-1.3.2 Treinamento inicial para o Sistema de
+Compras, Licitações e Gestão de Contratos
+1 mês
+III-1.3.5 Treinamento inicial para o Sistema de
+Recursos Humanos e Folha de Pagamento
+1 mês
+III-2 SERVIÇOS DA FASE DE MANUTENÇÃO E SUPORTE
+TÉCNICO
+III-2.1 SIAFIC - Sistema Único e Integrado de
+Execução Orçamentária, Financeira,
+Contábil e Controle
+10 mês
+III-2.2 Sistema de Compras, Licitações e Gestão de
+Contratos
+10 mês
+III-2.5 Sistema de Recursos Humanos e Folha de
+Pagamento
+10 mês
+Total III (R$)
+VALOR GLOBAL = Total I + Total II + Total III (R$)
+2.1 Nos preços unitário e global estão incluídos todos os custos diretos e indiretos para
+a perfeita execução do objeto contratual, como mão-de-obra, materiais, encargos
+trabalhistas e previdenciários, lucros, depreciações, despesas comerciais, diárias,
+viagens, encargos securitários e o que for necessário ao devido cumprimento do
+presente Contrato.
+
+--- [pag. PDF 38] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+2.2 Os pagamentos serão efetuados de acordo com as etapas efetivamente executadas,
+aceitas e atestadas, mediante apresentação da nota fiscal e dos respectivos Termos
+de Aceite, observado o prazo e as condições estabelecidas no Termo de Referência e
+neste contrato.
+CLÁUSULA TERCEIRA - DAS OBRIGAÇÕES DAS PARTES
+3.1 - DA CONTRATADA:
+3.1.1. Assinar o contrato com o Município de Rio Grande da Serra, dentro do prazo de 07
+dias após a convocação feita pelo órgão.
+3.1.2. A recusa injustificada da adjudicatária em assinar o presente contrato, aceitar ou
+retirar o instrumento equivalente dentro do prazo estabelecido pela Administração
+Pública, caracterizará descumprimento total da obrigação assumida, sujeitando a
+contratada às penalidades estabelecidas no edital.
+3.1.3. A contratada deverá manter durante toda a vigência do contrato, em compatibilidade
+com as obrigações assumidas, todas as condições de habilitação e qualificação,
+exigidas no edital, devendo comunicar à contratante, imediatamente, qualquer
+alteração que possa comprometer a manutenção ou qualidade do contrato.
+3.1.4. Escolher e contratar pessoal a ser fornecido em seu nome e sob sua responsabilidade,
+observando as leis trabalhistas, previdenciárias, fiscais, assistenciais e sindicais,
+sendo considerada nesse particular, como única empregadora;
+3.1.5. Cumprir e fazer cumprir as normas regulamentares de segurança, medicina e higiene
+do trabalho;
+3.1.6. Arcar com os ônus decorrentes de incidência de todos os tributos federais, estaduais
+e municipais que possam incidir sobre os materiais e serviços contratados, inclusive
+o ISSQN, fazendo prova deles quando requerido e, responsabilizando-se, pelo
+cumprimento de todas as exigências das repartições competentes, com total isenção
+do Município de Rio Grande da Serra em relação a tais encargos;
+3.1.7. A contratada deverá custear, aos funcionários da contratante, todos os treinamentos,
+cursos e certificações reconhecidos como oficiais pelos
+fabricantes/desenvolvedores, pertinentes à manutenção, configuração e expansão do
+hardware e softwares constantes deste Termo de Referência, seguindo cronograma e
+especificação fornecidos pelo Chefe da Sessão de Informática da contratante.
+Executar outras ações não previstas e compatíveis com o objeto da licitação somente
+quando os preços unitários sejam previamente submetidos e autorizados pelo
+Município de Rio Grande da Serra.
+3.1.8. Responsabilizar-se única e exclusivamente perante o Município de Rio Grande da
+Serra e terceiros, por todo o objeto fornecido
+3.1.9. É de inteira responsabilidade da contratada, a entrega, a configuração e testes
+
+--- [pag. PDF 39] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+necessários ao fiel e perfeito funcionamento do (s) produtos (s) licitados.
+3.1.10. A contratada deverá substituir, às suas expensas o(s) serviço(s) que esteja (m) em
+desacordo com o estabelecido no edital e anexos ou, nos quais se verifiquem
+distorções em relação às exigências e condições previamente fixadas, no prazo de
+48 (quarenta e oito) horas.
+3.1.11. A contratada deverá atender às solicitações de suporte e informações técnicas de
+utilização e manuseio dos sistemas, de acordo com a necessidade dos funcionários a
+serviço da contratante.
+3.1.12. A contratada deverá oferecer suporte técnico “in loco” após solicitação formalizada
+pela contratante, após a abertura do respectivo chamado de suporte.
+3.1.13. Dispor de pessoal necessário à execução dos serviços, sem interrupção, salvo por
+motivo de férias, cabendo à contratada, por exigência da Administração, em caso de
+não atendimento das previsões deste edital e do contrato, substituir qualquer de seus
+funcionários num prazo máximo de 48 (quarenta e oito) horas.
+3.1.14. Responder por qualquer acidente de trabalho na execução dos serviços, por danos
+resultantes de caso fortuito ou de força maior, por qualquer causa de destruição,
+danos ou defeitos dos bens do Município de Rio Grande da Serra e/ou da contratada,
+de seus funcionários ou de terceiros, bem como arcar com todos os custos
+decorrentes de imprudência, imperícia ou negligência no cumprimento de suas
+obrigações contratuais ou legais, tais como multas de trânsito.
+3.1.15. Responder por danos causados diretamente ao Município de Rio Grande da Serra ou
+a terceiros, decorrentes de sua culpa ou dolo na execução do contrato, não excluindo
+ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento pela
+Administração.
+3.1.16. Constatado o não atendimento às finalidades e/ou objetivo dos sistemas implantados
+de modo a não alcançar o conjunto de definições, especificações, normas, padrões e
+critérios estabelecidos neste Termo de Referência, a contratada, deverá adequá-los
+de modo a permitir a perfeita execução do objeto contratual nos prazos definidos,
+que poderá ser prorrogado a critério da contratante, desde que devidamente
+justificado. Caso tais modificações demandem conhecimentos específicos para a
+operação do sistema, a contratada deverá promover novo treinamento aos
+funcionários da contratante, em conformidade com as modificações que foram
+realizadas e com a nova técnica aplicada para a sua perfeita adequação.
+3.1.17. A contratada deverá ajustar os sistemas às alterações trazidas pela legislação Federal,
+Estadual, Municipal e pelo Tribunal de Contas da União e do Estado de São Paulo
+ou ainda outras às quais a contratante se submeta.
+3.1.18. Ao término do contrato, a CONTRATADA deverá disponibilizar à
+CONTRATANTE, sem ônus adicional, cópia integral e atualizada dos bancos de
+
+--- [pag. PDF 40] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+dados e demais informações pertencentes à Administração, em formato tecnicamente
+utilizável e acompanhado da documentação necessária à portabilidade, preservadas
+a integridade, a segurança e a confidencialidade dos dados.
+3.1.19. Permitir e facilitar à Fiscalização, prestando os esclarecimentos solicitados e
+atendendo às reclamações formuladas.
+3.1.20. Guardar sigilo absoluto sobre todas as informações recebidas do Município de Rio
+Grande da Serra e, bem assim, daquelas por si levantadas e de outras das quais venha
+a conhecer durante execução dos serviços, as quais não poderão ser por ela
+utilizadas, sob qualquer pretexto, para finalidades outras que não a do cumprimento
+deste objeto.
+3.1.21. Cuidar para que os elementos utilizados na execução dos serviços contratualmente
+previstos tenham tratamento reservado, por si ou por quaisquer de seus profissionais
+envolvidos no contrato, inclusive obrigando-se a não os reproduzir ou os ceder, sem
+a prévia e expressa autorização por escrito.
+3.1.22. O objeto desta contratação deverá ser entregue, de acordo com o cronograma
+proposto, de segunda a sexta-feira, de 08:00 às 18:00 horas, devendo a manutenção
+que possa comprometer o andamento dos serviços ser feita após o expediente ou no
+final de semana.
+3.1.23. Demonstrar à Contratante, sempre que solicitado, o modo de execução dos serviços,
+bem como prestar informações sobre a metodologia empregada e o andamento dos
+trabalhos.
+3.1.24. Comprometer-se pela integridade e sigilo dos materiais e informações prestadas pelo
+órgão para execução dos serviços.
+3.1. 26. Fazer contatos, sempre que necessário, com a equipe técnica do Município
+de Rio Grande da Serra.
+3.1.27. Controlar todas as atividades necessárias ao desenvolvimento e implantação
+do projeto.
+3.1.28. Estabelecer e acompanhar o cronograma de atividades do projeto.
+3.1.29. Devolver ao Município de Rio Grande da Serra todo o material de sua
+propriedade, utilizado durante a execução do serviço.
+3.1.30. Fornecer manual (is) de utilização do(s) produto(s), em linguagem acessível
+ao usuário final.
+3.1.31. Identificar as necessidades de cada setor usuário do sistema, indicando as
+ações pertinentes a serem tomadas, conforme o novo modelo implantado.
+3.1.32. Caso os dados fornecidos para os sistemas não estejam em meio digital, ou
+caso haja problemas na manipulação dos dados já existentes nesse meio, a
+
+--- [pag. PDF 41] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+empresa contratada promoverá a digitação das informações para o novo
+sistema a ser implantado.
+3.1.33. O fornecimento do material didático necessários à capacitação e instrução
+dos treinandos, bem como os instrutores/ professores serão de
+responsabilidade exclusiva da empresa Contratada.
+3.1.34. A contratada não poderá suspender o cumprimento de suas obrigações sem
+apresentar justificativas;
+3.1.34.1. As justificativas deverão ser protocolizadas junto à Secretaria Gestora do
+contrato, a qual caberá avaliar e determinar a aceitação.
+3.1.34.2. Caso não concorde com as justificativas apresentadas, a Secretaria Gestora
+do contrato poderá notificar a empresa contratada, estabelecendo prazos
+para a regularização dos serviços, sob pena de caracterização de
+descumprimento contratual, apurado mediante regular processo
+administrativo.
+3.2. DA CONTRATANTE:
+3.2.1. Emitir o Termo de Recebimento quando da implantação ou desenvolvimento
+definitivo de cada etapa dos sistemas para liberação dos respectivos pagamentos.
+3.2.2. Assegurar o livre acesso dos técnicos da contratada a todos os locais onde se fizerem
+necessários para a execução do objeto contratado, desde que estejam devidamente
+credenciados, portanto crachá de identificação e exclusivamente para execução dos
+serviços.
+3.2.3. Prover as condições para a realização das ações demandadas, desde que não
+constituam obrigações da contratada.
+3.2.4. Prestar os esclarecimentos e disponibilizar informações e ambientes que se fizerem
+necessários para o bom andamento do projeto de implantação e desenvolvimento dos
+sistemas no que couber, dentro do escopo do objeto contratado.
+3.2.5. Arcar com os ônus decorrentes de hospedagem e diárias de viagem para os
+servidores municipais necessários à participação em treinamentos, cursos e
+certificações que excepcionalmente não possam ser ministrados no Município de Rio
+Grande da Serra, desde que devidamente justificados pelo contratado e autorizados
+pela contratante.
+3.2.6. Manter atualizados os documentos próprios dos registros de ocorrência e
+atendimentos que tenham sido realizados.
+3.2.7. Fornecer dados, documentos, layouts, estruturas de arquivos, e demais itens que se
+fizerem necessários para a execução do contrato decorrente do presente processo
+licitatório.
+
+--- [pag. PDF 42] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+3.2.8. Definir metodologia e modelos de documentos para o estabelecimento de
+comunicação formal com o licitante vencedor no âmbito do contrato que será
+firmado entre as partes.
+3.2.9. A contratante deverá notificar a contratada, fixando-lhe prazo para proceder à
+correção do(s) serviço (s) que, dentro do prazo da garantia apresentar (em) defeitos
+e/ou irregularidades, devendo os mesmos ser (em) refeitos (s), com as mesmas
+características e qualificações exigidas no edital convocatório.
+3.2.10. A contratante deverá expedir através da Seção de Informática ou da Secretaria
+Municipal de Administração, atestado de inspeção dos serviços quando de sua
+entrega, que servirá de instrumento de avaliação do cumprimento das obrigações
+contratuais.
+3.2.11. Efetuar o pagamento na forma pactuada neste contrato.
+3.2.12. Designar equipe técnica e servidores do quadro local para participar dos trabalhos
+e assimilar a metodologia da execução dos serviços.
+3.2.13. Autorizar, juntamente com o responsável da Contratada, qualquer mudança no
+escopo ou no cronograma deste projeto desde que a mesma não signifique alteração
+de prazos e seja devidamente justificada.
+3.2.14. Preparar e executar procedimentos (testes) para a validação do(s) serviço(s).
+CLÁUSULA QUARTA – DO PAGAMENTO E REAJUSTE
+4.1. Para fins de pagamento das Etapas de Trabalho descritas nos itens “Licenciamento”,
+“Conversão”; “Instalação”, “Treinamento” e Manutenção” do Anexo I - Termo de
+Referência, a Seção de Informática deverá emitir “TERMO DE ACEITE” para
+recebimento oficial destes serviços.
+4.2. A contratada somente estará autorizada a emitir as notas fiscais quando do
+recebimento oficial dos serviços descritos nos itens acima.
+4.3. Os pagamentos dos itens acima, referentes às etapas de serviço, deverão ser
+realizados da seguinte forma:
+4.4. 1ª ETAPA- DIAGNÓSTICO – PLANO DE IMPLANTAÇÃO o pagamento
+deverá ser efetuado em 01 (uma) parcela após a emissão do “termo de aceite”
+correspondente a 100% (cem por cento) do valor total dos serviços em até 30 dias
+do recebimento oficial do serviço.
+4.5. 2ª ETAPA- IMPLANTAÇÃO DOS SISTEMAS (SERVIÇOS DE MIGRAÇÃO
+E TREINAMENTO DE USUÁRIOS): os pagamentos deverão ser efetuados em
+até 30 dias do recebimento oficial dos serviços em conformidade com o modelo de
+proposta: E para efeito do recebimento dos serviços de migração de dados os
+
+--- [pag. PDF 43] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+mesmos deverão ser validados pelos usuários. Os pagamentos do processo de
+conversão serão divididos em parcelas conforme cada sistema migrado, e o Termo
+de Aceite emitido pelo Município de Rio Grande da Serra. Os pagamentos dos
+serviços de treinamento serão divididos em parcelas conforme cada sistema
+treinamento, e o Termo de Aceite emitido pelo Município de Rio Grande da Serra.
+4.6. 3ª ETAPA – MANUTENÇÃO E SUPORTE TÉCNICO: os pagamentos deverão
+ser efetuados em até 30 dias do recebimento oficial dos serviços em conformidade
+com o modelo de proposta. os pagamentos serão efetuados em parcelas mensais
+durante a vigência contratual, devendo a primeira parcela ser paga a partir do
+recebimento oficial da instalação dos sistemas, conforme “TERMO DE ACEITE”
+emitido pela Seção de Informática para tal finalidade. As parcelas de manutenção
+começarão a serem pagas no primeiro mês que os sistemas entrarem em produção
+efetiva, e para efeitos de valores e pagamentos deverão ser considerados apenas os
+módulos dos sistemas implantados em produção.
+4.7. 5ª ETAPA –SERVIÇOS DE HOSPEDAGEM EM DATACENTER (COMPUTAÇÃO EM
+NUVEM): os pagamentos deverão ser efetuados em até 30 dias do recebimento oficial
+dos serviços em conformidade com o modelo de proposta até o final da vigência
+contratual.
+4.8. Deverá constar dos Documentos Fiscais o número do contrato, o número do
+empenho emitido para o contrato em referência e o número da parcela em cobrança.
+Sem esta informação o mesmo será devolvido para adequações necessárias.
+4.9. Decorrido o prazo de 12 (doze) meses, caso haja prorrogação do Contrato, o valor
+deste será reajustado, aplicando-se a variação do índice INPC do IBGE (Índice
+Nacional de Preços ao Consumidor) ou outro índice que o substitua em caso de
+extinção.
+4.9.1.Na primeira prorrogação, caso ocorra, a data base para o cálculo do reajuste deverá
+ser a data apresentação da proposta comercial vencedora do certame.
+4.10. Nos termos do art. 92, V, da Lei nº 14.133/2021, na ocorrência de atraso nos
+pagamentos devidos à CONTRATADA, os valores deverão ser corrigidos aplicando-
+se a variação do índice INPC do IBGE (Índice Nacional de Preços ao Consumidor)
+considerando-se a data do adimplemento da obrigação e a do efetivo pagamento.
+CLÁUSULA QUINTA - DA FISCALIZAÇÃO E ACOMPANHAMENTO DO
+CONTRATO
+5.1. A Gestão do Contrato resultante da licitação dos serviços objetos do presente Termo
+de Referência deverá ser de responsabilidade do órgão que poderá adotar as
+providências contratuais e legalmente previstas visando a sua perfeita execução.
+5.2. A fiscalização da execução dos módulos deverá ser exercida por servidor (es) do
+Município de Rio Grande da Serra, formalmente designado (s), a quem incumbirá a
+
+--- [pag. PDF 44] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+prática de todos e quaisquer atos próprios ao exercício deste mister, nas
+especificações dos serviços a serem executados.
+5.3. Devido à complexidade e singularidade do objeto contratual e a fim de auxiliar a sua
+perfeita execução, cada secretaria que possuir um módulo específico vinculado à
+prestação dos serviços contratados, deverá designar formalmente um servidor para
+juntamente com os técnicos especializados lotados na Seção de Informática,
+acompanhar e fiscalizar a implementação e a execução de cada módulo de sistema
+contratado.
+CLÁUSULA SEXTA - DA ATUALIZAÇÃO DE VERSÃO
+6.1. Compreende itens de manutenção preventiva/ evolutiva ou adaptativa, lançadas pela
+contratada em novas versões do sistema.
+6.2. As alterações decorrentes de modificações legais ou de erros do sistema serão
+realizadas sem ônus adicionais para os clientes da contratante, durante o período de
+vigência do contrato.
+6.3. Adaptações de Software, não exigíveis por alterações na Legislação, que impliquem
+em novos relatórios, telas, funções, rotinas ou alterações nos arquivos, deverão ser
+desenvolvidos, estando inclusos nos serviços de manutenção.
+6.4. As condições para prestação dos serviços objeto desta licitação deverão ser
+compreendidas de acordo com a tabela abaixo:
+1 Corretiva; Sempre que for recebida comunicação
+formal da CONTRATANTE relatando e
+detalhando a ocorrência de um erro ou falha
+nos sistemas contratados, a
+CONTRATADA deverá apresentar, em
+tempo hábil, resposta formal contendo o
+prazo estimado para a resolução do
+problema, bem como, quando aplicável, as
+medidas corretivas imediatas a serem
+adotadas para mitigar eventuais impactos até
+a solução definitiva;
+Não superior a 01
+(um) dia útil, 24
+horas;
+2 Evolutiva de
+ordem legal;
+Caso sobrevenham alterações na legislação
+vigente que demandem adequações nos
+sistemas contratados, caberá à
+CONTRATANTE formalizar as respectivas
+solicitações de alteração, especificando de
+forma clara e objetiva os novos requisitos e
+funcionalidades exigidas para o pleno
+atendimento às novas normas legais,
+regulamentares ou técnicas;
+Não superior a 30
+(trinta) dias
+corridos após a
+formalização do
+pedido;
+
+--- [pag. PDF 45] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+3 Evolutiva de
+ordem
+tecnológica;
+Durante a vigência do contrato, caso sejam
+disponibilizados avanços tecnológicos,
+melhorias ou atualizações de versão
+relacionadas aos sistemas objeto da
+contratação, a CONTRATANTE terá
+direito ao acesso e à utilização dessas
+atualizações, sem ônus adicional, desde que
+tais melhorias se enquadrem como evoluções
+naturais da solução originalmente
+contratada.
+Ficam excluídas desse direito as novas
+funcionalidades que extrapolem o escopo
+inicial do contrato, as quais poderão ser
+objeto de negociação específica, mediante
+justificativa técnica e, se for o caso,
+celebração de termo aditivo, nos termos da
+legislação vigente;
+Imediato na
+liberação de
+novas versões;
+6.5. Os problemas apontados pelos usuários deverão ser solucionados conforme critério
+de prioridade definido pelo usuário:
+6.5.1. Prioridade baixa: 240 horas
+6.5.2. Prioridade normal: 144 horas
+6.5.3. Prioridade crítica: 48 horas
+6.6. Todos os sistemas contratados deverão estar devidamente instalados e funcionando
+perfeitamente em prazo entre 60 (sessenta) a 180 (cento e oitenta) dias após a
+respectiva emissão da ordem de serviços a ser expedida com o empenho competente
+e da assinatura do contrato a ser celebrado com o licitante vencedor do certame.
+Todos os documentos referidos serão disponibilizados concomitantemente
+6.7. Conversão e migração total dos dados existentes para a base de dados do novo
+sistema, seguida de conferência e consistência dos dados deverá ser realizada no
+período entre 60 (sessenta) a 180 (cento e oitenta) dias após a respectiva emissão
+da ordem de serviço.
+6.8. Os serviços de conversão de dados, instalação dos sistemas e treinamento das
+equipes do funcionalismo municipal que estarão envolvidas no uso contínuo da
+solução, bem como, os demais serviços correlatos para a entrada em produção do
+sistema integrado que se contrata no presente certame deverão ocorrer
+paralelamente.
+6.9. Os serviços aqui referidos deverão ser prestados no prazo mencionado no item 9.3.1
+
+--- [pag. PDF 46] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+do Termo de Referência em virtude de representarem serviços de natureza essencial
+e, portanto, de uso permanente e urgente para o Município de Rio Grande da Serra.
+6.10. Contingência
+6.11. O software não poderá ficar indisponível por mais de 8 (oito) horas;
+6.12. Em caso de situações excepcionais onde houver a indisponibilidade do sistema
+acima do prazo previsto no item 9.4.1, do Termo de Referência a empresa contratada
+deverá apresentar justificativa ao gestor do contrato que poderá ou não aceitá-la,
+principalmente para fins de glosa do pagamento.
+6.13. Em casos de paralisação do software a empresa deverá apresentar alternativas
+emergenciais para soluções dos problemas;
+6.14. Não deverão ser realizadas alterações no software em horário de expediente.
+6.15. O Município de Rio Grande da Serra deverá estabelecer em conjunto com a
+empresa contratada, os horários em que serão realizadas as atualizações e/ ou
+manutenções do software.
+6.16. Toda manutenção (inclusão, alteração, correção, etc.) deverá ser testada em
+ambiente de homologação, sendo que só será transferida para a área de produção
+mediante aceite dos envolvidos;
+6.17. O sistema proposto deverá ser compatível com os serviços oferecidos de
+Datacenter na proposta do licitante.
+6.18. A Contratada deverá disponibilizar, ao fim do contrato, copia integral, em
+arquivo DUMP do banco de dados com todas as informações que pertencem ao
+MUNICIPIPIO DE RIO GRANDE DA SERRA.
+CLÁUSULA SÉTIMA - DO SUPORTE TÉCNICO E DA MANUTENÇÃO
+7.1 - O suporte técnico compreende a garantia de esclarecimentos de dúvidas, através de
+telefone, fax, link exclusivo, Internet ou correio e será prestada em dias úteis, de
+segunda a sexta-feira, no horário compreendido entre 08h00min às 18h00min horas.
+7.2 - Na solicitação constará imprescindivelmente o problema observado, programas
+envolvidos, o dia e horário de disponibilidade do equipamento e o nome do
+responsável pela requisição do serviço.
+7.3 - O Município de Rio Grande da Serra deverá colocar à disposição da
+CONTRATADA os equipamentos, programas e arquivos envolvidos no problema,
+para que o atendimento possa ser feito com presteza e eficiência.
+7.4 - Neste serviço inclui-se: Registro e canalização das dúvidas que possam vir a surgir
+em relação à funcionalidade do Sistema instalado ou em relação à informação
+recebida de Manutenção, além de toda solicitação de qualquer tipo que se considerar
+
+--- [pag. PDF 47] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+pertinente; Registro de incidências de Software ocorridas em suas instalações,
+comunicando tanto os dados que lhe forem solicitados como os que ele considerar
+convenientes para uma melhor e mais rápida resolução; Solicitação de recursos de
+Suporte Técnico ou Funcional; Solicitação de Melhoras da aplicação não incluídas
+no Sistema, comunicando de maneira precisa os requerimentos necessários;
+CLÁUSULA OITAVA - DA DOTAÇÃO ORÇAMENTÁRIA
+8 A(s) despesa(s) será(ão) suportada(s) pela(s) dotação(ões) orçamentária(s) serão
+as informadas a seguir:
+Dotação orçamentária
+PREFEITURA MUNICIPAL DE RIO GRANDE DA SERRA;
+Dotações
+Ou;
+CÂMARA MUNICIPAL DE RIO GRANDE DA SERRA;
+Dotação
+Ou;
+INSTITUTO DE PREVIDÊNCIA DE RIO GRANDE DA SERRA
+Dotação
+CLÁUSULA NONA - DAS PENALIDADES
+9.1 - Pela inexecução total ou parcial do contrato o Município de Rio Grande da Serra
+poderá, garantida a ampla defesa e o exercício do contraditório, aplicar à
+CONTRATADA as seguintes sanções:
+9.1.1- advertência;
+9.1.2- multa indenizatória pecuniária de até 5% (cinco por cento) sobre o valor da
+obrigação não cumprida, observado item 9.2 desta cláusula;
+9.1.3- suspensão temporária de participação em licitação e impedimento de contratar
+
+--- [pag. PDF 48] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+com a Administração, por prazo não superior a 02 (dois) anos.
+9.1.4- declaração de idoneidade para licitar ou contratar com a Administração
+Pública enquanto perdurarem os motivos determinantes da punição ou até que
+seja promovida a reabilitação perante a própria autoridade que aplicou a
+penalidade, que será concedida sempre que a CONTRATADA ressarcir a
+Administração pelos prejuízos resultantes e após decorrido o prazo da sanção
+aplicada com base no subitem 9.1.3 desta cláusula.
+9.1.5- as sanções previstas acima, poderão ser aplicadas cumulativamente, garantida
+a ampla defesa e contraditório do interessado, no respectivo processo, nos
+seguintes prazos:
+9.1.5.1 - das sanções estabelecidas no item 9.1, subitens 9.1.1, 9.1.2 e 9.1.3, no
+prazo de 05 (cinco) dias úteis da intimação da CONTRATADA;
+9.1.5.2 - da sanção estabelecida no item 9.1, subitem 9.1.4, no prazo de 10 (dez)
+dias da abertura de vista, podendo ser requerida a reabilitação 02 (dois) anos após a
+aplicação da pena;
+9.2 – PENALIDADES:
+9.2.1– Advertência. Será aplicado quando da ocorrência de falta leve, não
+reincidente.
+9.2.2– Multa de 1% (um por cento) sobre o valor do contrato. Será aplicada a
+multa no valor equivalente de 1% (um por cento) do valor do contrato, não
+reincidente, ou em reincidência de falta leve.
+9.2.3– Multa de 3% (três por cento) sobre o valor do contrato. Será aplicada a
+multa com o valor equivalente a 3% (três por cento) do valor do contrato para
+falta considerada grave, não reincidente ou em reincidência de falta média.
+9.2.4– Multa de 5% (cinco por cento) sobre o valor do contrato. Será aplicada a
+multa com o valor de 5% (cinco por cento) do valor do contrato para falta
+considerada gravíssima ou na reincidência de falta grave.
+9.3 FALTAS:
+9.3.1FALTAS LEVES: Serão consideradas faltas leves:
+9.3.1.1 Falta de zelo na execução dos serviços pelas equipes;
+9.3.1.2 Falta de polidez e urbanidade no trato com munícipes ou funcionários do
+Município de Rio Grande da Serra;
+9.3.1.3 Falta de equipamento pessoal de proteção ou uniformes, ou estando os
+mesmos incompletos ou danificados.
+
+--- [pag. PDF 49] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+9.3.2 FALTAS MÉDIAS: Serão consideradas faltas médias:
+9.3.2.1 Falta de funcionário (s), conforme o dimensionado em seus quantitativos
+para as equipes de serviços constantes neste edital;
+9.3.2.2 Não executar a contento os serviços.
+9.3.3 – FALTAS GRAVES: Serão consideradas faltas graves:
+9.3.3.1 Não cumprir totalmente as ordens de serviços, sem justificativa;
+9.3.3.2 Não executar totalmente os serviços previstos, sem justificativa;
+9.3.3.3. Atraso de mais de 08 (oito) horas da previsão dos serviços, sem
+justificativa;
+9.3.4– FALTAS GRAVÍSSIMAS: Serão consideradas faltas gravíssimas:
+9.3.4.1 Impedir ou dificultar a ação de fiscalização às dependências da contratada
+ou sobre a prestação dos serviços;
+9.3.4.2 Não cumprir determinação do Município de Rio Grande da Serra,
+pertinente ao contrato;
+9.3.4.3 Adulterar documentos;
+9.3.4.4 Fornecer dados ou informações inverídicas;
+9.3.4.5 Alterar a programação da ordem de serviço sem autorização da
+CONTRATANTE;
+CLÁUSULA DÉCIMA - DA RESCISÃO CONTRATUAL
+10.1. O contrato poderá ser extinto nas hipóteses e condições previstas nos arts.
+137 a 139 da Lei Federal nº 14.133/2021, assegurados o contraditório e a ampla
+defesa, sem prejuízo das sanções e demais consequências legais.
+10.2. Constituem causas de extinção contratual, além das previstas em lei, o
+inadimplemento das obrigações essenciais, a execução em desacordo com as
+especificações, a paralisação injustificada, o descumprimento das determinações da
+fiscalização e as demais hipóteses previstas no Edital, no Termo de Referência e
+neste contrato.
+10.2.1. Execução parcial do objeto contratado, por fatos de responsabilidade da
+CONTRATADA, por prazo superior a 60 (sessenta) dias da data estabelecida no
+cronograma convencionado para a execução dos serviços, salvo motivo de força
+maior devidamente comprovado e aceito pela CONTRATANTE.
+10.2.2. Executar o serviço em desacordo com as especificações ou utilizar
+material recusado pela fiscalização;
+
+--- [pag. PDF 50] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+10.2.3. Se a CONTRATADA se conduzir dolosamente;
+10.2.4. Se a CONTRATADA não cumprir as determinações da fiscalização.
+CLÁUSULA DÉCIMA PRIMEIRA - DA FUNDAMENTAÇÃO E VIGÊNCIA
+CONTRATUAL
+11.1. O presente contrato vincula-se ao Edital do Pregão Eletrônico nº XX/2026,
+ao Processo Administrativo nº 952/2026, ao Termo de Referência, à proposta da
+CONTRATADA e aos demais anexos, e será regido pela Lei Federal nº 14.133/2021,
+pelo Decreto Municipal nº 3.097/2024, pela Lei Federal nº 13.709/2018, pelo
+Decreto Federal nº 10.540/2020 e pelas demais normas aplicáveis.
+11.2. O contrato vigorará por 12 (doze) meses, contados da data indicada no
+instrumento ou na ordem de serviço, podendo ser prorrogado, desde que
+demonstradas a vantagem, a necessidade e a continuidade do serviço, observados os
+arts. 106 e 107 da Lei Federal nº 14.133/2021 e os limites legais aplicáveis.
+CLÁUSULA DÉCIMA SEGUNDA – DA ENTREGA E DO RECEBIMENTO DOS
+SERVIÇOS
+12.1. Os serviços deverão ser prestados de acordo com as regras específicas
+fixadas no presente Contrato e respectivo Edital e seus anexos e demais normas
+pertinentes a matéria.
+12.2. Os serviços e as etapas de implantação serão recebidos provisoriamente
+pelo fiscal técnico, mediante verificação inicial da conformidade, e definitivamente
+pelo gestor ou comissão designada, após a validação funcional, o saneamento de
+eventuais inconformidades e a emissão do respectivo Termo de Aceite, nos termos
+do art. 140 da Lei Federal nº 14.133/2021 e do Termo de Referência.
+12.3. O recebimento definitivo não exclui a responsabilidade da
+CONTRATADA pela segurança, qualidade, correção, integridade dos dados,
+desempenho e adequado funcionamento da solução durante a vigência contratual.
+12.4. Constatado o não atendimento às finalidades e/ou objetivos dos módulos
+do sistema implantados de modo a não alcançar o conjunto de definições,
+especificações, normas, padrões e critérios estabelecidos pela CONTRATANTE, a
+CONTRATADA deverá adequá-los de modo a permitir a perfeita execução dos
+serviços no prazo de 30 (trinta) dias, que poderá ser prorrogado por idêntico período
+a critério da CONTRATANTE, desde que devidamente justificado. Caso tais
+modificações demandem conhecimentos específicos para a operação do sistema, a
+CONTRATADA deverá prover o treinamento aos servidores da CONTRATANTE.
+12.4.1. Caso não exista esta possibilidade, a CONTRATANTE tomará as
+providências legais para a apuração da falta e punição dos responsáveis. O atraso na
+
+--- [pag. PDF 51] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+regularização/substituição dos serviços acarretará a suspensão dos pagamentos, além
+das penalidades previstas neste Contrato.
+12.5. Os serviços serão considerados recebidos por meio da emissão por
+parte da CONTRATANTE de Termos de Recebimento conforme previsão
+constante do edital de convocação e seus Anexos.
+12.6. Somente serão aceitos e recebidos os serviços que atendam às
+especificações constantes dos anexos e do edital convocatório.
+12.7. Verificada a desconformidade na entrega do objeto deste contrato, o(s)
+serviço(s) será(ão) recusado(s), cabendo ao CONTRATANTE notificar a
+CONTRATADA para que efetue a sua imediata substituição, sem prejuízo das
+penalidades previstas neste contrato.
+12.8. Caberá à CONTRATADA entregar o(s) serviço(s) e providenciar as
+atividades pertinentes, nos termos e na forma estabelecida no edital convocatório.
+CLÁUSULA DÉCIMA TERCEIRA – DAS ALTERAÇÕES
+As alterações contratuais observarão os arts. 124 a 136 da Lei Federal nº
+14.133/2021, mediante a devida instrução processual e formalização do instrumento
+cabível.
+CLÁUSULA DÉCIMA QUARTA – DOS ACRÉSCIMOS E/OU SUPRESSÕES
+CONTRATUAIS
+Os acréscimos ou supressões observarão os limites e condições previstos nos arts.
+124 e 125 da Lei Federal nº 14.133/2021.
+CLAUSULA DÉCIMA QUINTA – DA GARANTIA
+15.1. A CONTRATADA deverá prestar, como condição para a assinatura do
+contrato, garantia de execução correspondente a 2% (dois por cento) do valor inicial
+do contrato, em uma das modalidades previstas no art. 96, § 1º, da Lei Federal nº
+14.133/2021, com vigência suficiente para abranger todas as obrigações contratuais.
+15.2. I - caução em dinheiro ou em títulos da dívida pública;
+15.3. II - seguro-garantia, observado o parágrafo 3º do artigo 96 da Lei de
+Licitações§ 3º contemplando o prazo mínimo de 1 (um) mês, contado da data de
+homologação da licitação e anterior à assinatura do contrato, para a prestação da
+garantia pelo contratado quando optar pela modalidade prevista no inciso II do § 1º
+deste artigo.
+15.4. III - fiança bancária; ou IV - título de capitalização custeado por
+pagamento único, com resgate pelo valor total, nos termos da legislação vigente.
+
+--- [pag. PDF 52] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+15.5. Se o instrumento de garantia escolhido for seguro-garantia e fiança
+bancária, nele deverão constar as seguintes condicionantes:
+15.6. Que seja fornecida por instituição financeira com solidez reconhecida no
+mercado ou lastreada em títulos idôneos e líquidos;
+15.7. Todos os custos da garantia, seja fiança, seguro ou caução deverão correr
+à conta do contratado;
+15.8. Que o órgão figure como entidade segurada/beneficiária da indenização
+constituída pela fiança/apólice/caução;
+15.9. Deverá existir cláusula equivalente que estabeleça que a indenização seja
+paga ao beneficiário/segurado mesmo que o instituidor da caução/indenização/fiança
+não cumpra todas as condições estabelecidas;
+15.10. Referência ao número do contrato a que se refere o instrumento de
+garantia;
+15.11. Prazo de validade dos instrumentos de fiança/seguro/caução definido
+como: “até a extinção das obrigações do tomador/instituidor, no âmbito do referido
+contrato”;
+15.12. A não realização pela empresa contratada das obrigações assumidas deverá
+ser estabelecida como causa suficiente para pagamento da fiança/caução/seguro;
+15.13. Caso o valor da garantia seja usado total ou parcialmente em pagamento
+de qualquer obrigação, inclusive indenização a terceiros, a contratada deverá
+proceder à respectiva reposição no prazo de 05 (cinco) dias úteis, improrrogáveis,
+contados da data em que for efetivamente notificado pela contratante;
+15.14. A contratante poderá utilizar o valor da garantia prestada para descontar os
+valores referentes a eventuais multas aplicadas à Contratada, bem como, nos casos
+decorrentes de inadimplemento contratual e de indenização por danos causados ao
+patrimônio do Município de Rio Grande da Serra ou a terceiros, quando da execução
+dos serviços.
+15.15. A garantia deverá ter validade até o fim da vigência contratual, somente
+sendo liberada ante a comprovação de que não haja inadimplemento das obrigações
+contratuais e também das multas que venham a ser impostas à contratada.
+15.16. Em caso de aplicação de multa, se o valor desta for superior ao valor da
+garantia prestada, além da perda desta, responderá a contratada pela sua diferença, a
+qual será descontada dos pagamentos eventualmente devidos pela Administração, ou
+ainda, quando for o caso, cobrada judicialmente.
+15.17. A caução em dinheiro será atualizada monetariamente e devolvida após a
+extinção das obrigações contratuais, nos termos do art. 100 da Lei Federal nº
+
+--- [pag. PDF 53] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+14.133/2021.
+15.18. Tratando-se de Fiança Bancária deverá constar do instrumento a renúncia
+expressa pelo fiador dos benefícios previstos no art. 827 e 835 do Código Civil.
+15.19. Em se tratando de garantia prestada através de caução em dinheiro, o
+depósito deverá ser feito obrigatoriamente na Caixa Econômica Federal, conforme
+preceitua o artigo 82, do Decreto nº 93.872, de 23 de dezembro de 1986.
+15.20. A garantia será liberada ou restituída após a fiel execução do contrato ou
+após sua extinção por culpa exclusiva da Administração, observadas as condições do
+art. 100 da Lei Federal nº 14.133/2021.
+15.21. A não apresentação ou recomposição da garantia no prazo fixado
+caracterizará inadimplemento contratual e sujeitará a CONTRATADA às medidas e
+sanções previstas nos arts. 155 e 156 da Lei Federal nº 14.133/2021.
+CLÁUSULA DÉCIMA SEXTA - DO REEQUILÍBRIO ECONÔMICO
+FINANCEIRO
+16.1. O equilíbrio econômico-financeiro poderá ser restabelecido nas hipóteses
+e condições do art. 124, inciso II, alínea “d”, da Lei Federal nº 14.133/2021,
+mediante requerimento devidamente instruído e demonstração analítica do impacto
+econômico alegado.
+16.2. As eventuais solicitações deverão fazer-se acompanhar de comprovação
+da superveniência do fato imprevisível ou previsível, porém de consequências
+incalculáveis, bem como de demonstração analítica de seu impacto nos custos do
+contrato.
+CLÁUSULA DÉCIMA SÉTIMA - DA PROTEÇÃO DE DADOS, SEGURANÇA DA
+INFORMAÇÃO E DISPOSIÇÕES FINAIS
+A CONTRATADA deverá cumprir a Lei Federal nº 13.709/2018 (LGPD), atuar
+como operadora dos dados pessoais tratados em nome da CONTRATANTE, adotar
+medidas técnicas e administrativas de segurança, manter sigilo, comunicar
+incidentes sem demora injustificada, tratar dados somente para a execução
+contratual e assegurar sua devolução, portabilidade ou eliminação ao término do
+contrato, conforme determinação da CONTRATANTE e ressalvadas as obrigações
+legais de conservação. É vedada a subcontratação total do objeto; estando desde já
+a autorização dos serviços de hospedagem em datacenter, o que não afastará a
+responsabilidade integral da CONTRATADA.
+CLÁUSULA DÉCIMA OITAVA - DA PUBLICAÇÃO E DO FORO
+A eficácia do contrato observará a divulgação no Portal Nacional de Contratações
+Públicas - PNCP, nos termos do art. 94 da Lei Federal nº 14.133/2021. Fica eleito
+
+--- [pag. PDF 54] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+o foro da Comarca de Rio Grande da Serra, Estado de São Paulo, para dirimir
+controvérsias não solucionadas administrativamente.
+E, por estarem justas e contratadas, as partes firmam o presente contrato em 03 (três) vias
+de igual teor e forma, na presença das testemunhas abaixo.
+Rio Grande da Serra, ____ de __________________ de 2026.
+XXXXXXXXXXXXXXXXXXX
+SECRETÁRIO MUNICIPAL DE ADMINISTRAÇÃO
+CONTRATANTE
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+CONTRATADA
+TESTEMUNHAS :
+Nome: Nome:
+CPF: CPF:
+
+--- [pag. PDF 55] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO V - DOCUMENTOS NECESSÁRIOS PARA HABILITAÇÃO
+PREGÃO ELETRÔNICO Nº 52/2026
+1. HABILITAÇÃO JURÍDICA
+1.1. Registro empresarial na Junta Comercial, no caso de empresário individual (ou
+cédula de identidade em se tratando de pessoa física não empresária);
+1.2. Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado na
+Junta Comercial, tratando-se de sociedade empresária;
+1.3. Documentos de eleição ou designação dos atuais administradores, tratando-se de
+sociedade empresária;
+1.4. Ato constitutivo devidamente registrado no Registro Civil de Pessoas Jurídicas
+tratando-se de sociedade não empresária, acompanhado de prova da diretoria em
+exercício;
+1.5. Decreto de autorização, tratando-se de sociedade estrangeira no país e ato de registro
+ou autorização para funcionamento expedida pelo órgão competente, quando a
+atividade assim o exigir;
+1.6. Tratando-se de Microempresa (ME) e Empresa de Pequeno Porte (EPP), apresentar
+Declaração de Enquadramento ou Certidão Simplificada, ambas expedidas pela
+respectiva Junta Comercial com data da expedição do exercício atual, para fazer jus
+aos benefícios previstos na referida Lei 123/2006.
+1.6.1. Os microempresários individuais, por serem dispensados de apresentar Certidão
+expedida pela Junta Comercial, deverão comprovar o ramo de atividade compatível
+mediante a apresentação do Certificado de Condição de Microempreendedor
+Individual.
+2 REGULARIDADE FISCAL E TRABALHISTA
+2.1. Prova de Inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ) no
+Ministério da Fazenda;
+2.2. Prova de Inscrição no Cadastro de Contribuintes pertinente ao seu ramo de
+atividade e compatível com o objeto a ser contratado, a saber:
+2.2.1. Se o Ramo de Atividade da empresa for Comércio, deverá apresentar prova da
+Inscrição Estadual.
+2.2.2. Se o Ramo de Atividade da empresa for Prestação de Serviços, deverá apresentar prova
+da Inscrição Municipal.
+
+--- [pag. PDF 56] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+2.2.3. Se o Ramo de Atividade da empresa envolver Comércio e Prestação de Serviços,
+deverá apresentar prova da Inscrição Estadual e Municipal.
+2.3. Prova de Regularidade Fiscal para com a Fazenda Pública Federal – CND
+(Certidão Negativa de Débito ou Positiva com efeitos de Negativa) relativa a Tributos
+Federais (inclusive as contribuições sociais) e à Dívida Ativa da União.
+2.4. Prova de Regularidade Fiscal para com a Fazenda Estadual, referente ao
+domicílio ou sede do licitante, relativos à atividade da empresa, ou a declaração de
+isenção ou de não incidência, assinada pelo representante legal do licitante sob as
+penas da Lei.
+2.5. Prova de Regularidade Fiscal junto à Fazenda Municipal do domicílio ou sede
+da licitante mediante apresentação da Certidão Negativa de Tributos Mobiliários.
+2.6. Prova de Regularidade Relativa ao Fundo de Garantia por Tempo de Serviço
+– FGTS através do Certificado de Regularidade do FGTS – CRF, emitido pela Caixa
+Econômica Federal.
+2.7. Prova de Inexistência de Débitos Inadimplidos perante a Justiça do Trabalho,
+mediante apresentação de Certidão Negativa, nos termos do Título VII-A da
+Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei Nº 5.452, de 1º de
+maio de 1943.
+3 QUALIFICAÇÃO ECONÔMICO-FINANCEIRA
+3.1. Certidão negativa de falência expedida pelo distribuidor da sede da pessoa
+jurídica;
+4 QUALIFICAÇÃO TÉCNICA
+4.1. A qualificação técnico-operacional será comprovada por uma ou mais certidões ou
+atestados emitidos por pessoas jurídicas de direito público ou privado, em nome da
+licitante, que demonstrem a execução satisfatória de serviços similares, de
+complexidade tecnológica e operacional equivalente ou superior ao objeto, nos
+termos do art. 67 da Lei Federal nº 14.133/2021.
+4.1.1. Os atestados deverão contemplar, no mínimo, experiência em pelo menos 2 (dois)
+dos seguintes sistemas de maior relevância: Sistema de Arrecadação Tributária;
+SIAFIC; Sistema de Gestão da Educação; e Sistema de Recursos Humanos e Folha
+de Pagamento.
+4.2. Será admitido o somatório de atestados. Os documentos deverão identificar o
+emitente, descrever os serviços executados, indicar o período de execução e
+permitir a verificação da compatibilidade com o objeto. A Administração poderá
+realizar diligências para confirmar as informações apresentadas.
+
+--- [pag. PDF 57] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Não serão impostas restrições quanto ao tempo ou ao local de execução dos serviços
+comprovados, nem exigência de número mínimo de atestados, observados os princípios
+da pertinência, proporcionalidade, competitividade e o art. 67 da Lei Federal nº
+14.133/2021.
+6. DISPOSIÇÕES GERAIS
+6.1 Os documentos de habilitação deverão ser apresentados em original, por qualquer
+processo de cópia autenticada, inclusive nos termos dos art.12, inciso IV, da Lei de
+Licitações. Os documentos deverão estar em plena vigência, ficando, porém, a critério
+do pregoeiro solicitar as vias originais de quaisquer dos documentos, caso haja
+constatação de fatos supervenientes.
+6.2 O Pregoeiro reserva-se o direito de solicitar das licitantes, em qualquer tempo no curso
+da licitação, quaisquer esclarecimentos sobre documentos já entregues, fixando-lhes
+prazo para atendimento.
+6.3 A falta de quaisquer dos documentos mencionados, ou a apresentação dos mesmos em
+desacordo com o presente edital, implicará na inabilitação da licitante.
+6.4 A licitante deverá apresentar os documentos correspondentes ao estabelecimento
+(matriz ou filial) através do qual pretende firmar o contrato.
+6.5 É vedada a mesclagem de documentos de estabelecimentos diversos, exceto aqueles
+documentos que, pela própria natureza, comprovadamente, forem emitidos em nome
+da matriz e, válidos para todas as suas filiais.
+6.6 Poderão ser apresentadas Certidões Positivas com efeitos de negativa, conforme
+Artigo 206 do Código Tributário Nacional (Lei Nº 5.172, de 25 de outubro de 1.966).
+6.7 Todas as certidões e documentos deverão ser apresentadas na forma da Lei dentro do
+prazo de validade fixado nos documentos oficiais apresentados, ou de 90 (noventa)
+dias a contar da expedição dos mesmos, caso não estipulem qualquer prazo de validade.
+6.8 A verificação pelo Pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades
+emissoras de certidões constitui meio legal de prova, para fins de habilitação.
+6.9 Em atendimento ao disposto no Capítulo V da Lei Complementar Nº 123 de 14/12/06
+e alterações na Lei Nº 147 de 07/08/14, serão observados os seguintes procedimentos:
+6.9.1 As Microempresas, Empresas de Pequeno Porte e Microempresário Individual
+(MEI), por ocasião da habilitação, deverão apresentar toda documentação exigida
+para efeito de comprovação de regularidade fiscal, mesmo que esta apresente
+alguma restrição.
+6.9.2 Havendo alguma restrição quanto a regularidade fiscal e trabalhista, será assegurado
+o prazo de 05 (cinco) dias úteis, cujo termo inicial corresponderá ao momento em
+que for homologado o certame, para regularização da documentação.
+
+--- [pag. PDF 58] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+6.9.3 A não regularização da documentação implicará decadência do direito à
+contratação, sem prejuízo das sanções previstas no Artigo 155 da Lei Nº
+14.133/2021, sendo facultado à Administração convocar os licitantes
+remanescentes, na ordem de classificação, para assinatura do contrato, ou revogar a
+licitação.
+6.10 Não será aceita a substituição de documentos de habilitação por protocolo de
+requerimento de certidão.
+
+--- [pag. PDF 59] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO VI - ESTUDO TÉCNICO PRELIMINAR
+ESTUDO TÉCNICO PRELIMINAR
+Este estudo visa estabelecer as bases para a contratação de serviços, de acordo com as
+condições, quantidades, requisitos e estimativas definidas neste documento.
+1.Introdução
+Para a elaboração deste Termo de Referência foram consultadas empresas com fortes
+bases no mercado, as quais foram convidadas a apresentar opções que podem atender às
+necessidades de gestão da Prefeitura Municipal de Rio Grande da Serra. Entre essas,
+destacam-se a CECAM Consultoria Econômica, Contábil e Administrativa Municipal
+Ltda, empresa desenvolvedora de software voltado para a administração pública
+municipal, incluindo soluções para ajuizamento eletrônico em lote junto ao Tribunal de
+Justiça; a CONAM - Consultoria em Administração Municipal, com mais de 45 anos de
+experiência em gestão municipal, oferecendo soluções inovadoras para o
+desenvolvimento municipal e consultoria em planejamento e estratégias para municípios;
+e a MITRA - Conhecimento para Gestões Inteligentes, empresa de atuação nacional e
+pioneira em sistemas integrados para gestão municipal, especializada no desenvolvimento
+de soluções para cidades inteligentes, com mais de 15 anos de história e parte do Grupo
+Valid SA. As opções apresentadas por essas empresas, incluindo propostas técnicas,
+funcionalidades dos sistemas, custos associados e compatibilidade com as normas
+regulatórias vigentes, foram profundamente analisadas e debatidas pelas equipes
+multidisciplinares da prefeitura, compostas por profissionais das áreas de tecnologia da
+informação, administração, finanças e controle interno. Essa avaliação rigorosa permitiu
+identificar as melhores práticas e soluções alinhadas às necessidades operacionais e
+institucionais do Município de Rio Grande da Serra, garantindo eficiência, transparência
+e conformidade com a Lei Federal nº 14.133/2021, priorizando a modernização da gestão
+pública sem onerar desnecessariamente os recursos municipais.
+O presente estudo tem por objetivo apontar os fundamentos para contratação de serviços,
+conforme condições, quantidades, exigências e estimativas estabelecidas neste
+instrumento. Nos termos da Lei Federal nº 14.133/2021, Decreto nº 10.947/2022 e
+Instrução Normativa nº 40/2020. A modernização da administração pública é um dos
+pilares fundamentais para a promoção de uma gestão eficiente, transparente e orientada à
+melhoria contínua dos serviços prestados à população. Neste cenário, a utilização de
+soluções tecnológicas capazes de integrar os diversos setores e órgãos do poder público é
+imperativa, especialmente em municípios como o de Rio Grande da Serra – SP, que
+enfrenta desafios crescentes relacionados à complexidade dos processos administrativos,
+à gestão de dados e à prestação de contas aos órgãos de controle externo. O presente
+Estudo Técnico Preliminar tem como finalidade demonstrar a viabilidade da contratação
+de empresa especializada no fornecimento, implantação e manutenção de um Software
+Integrado de Gestão Pública. Trata-se de solução informatizada que deve abranger, de
+
+--- [pag. PDF 60] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+forma unificada, os sistemas de gestão administrativa, financeira, contábil, tributária,
+patrimonial, de pessoal, protocolo, abrangendo os serviços de secretarias como: saúde,
+educação, assistência social além de outras áreas essenciais ao funcionamento do Poder
+Executivo, Poder Legislativo (Câmara Municipal), Instituto de Previdência (Regime
+Próprio de Previdência Social). O objetivo central é garantir que todas as entidades
+públicas municipais operem em sincronia e dinamismo, com base em uma única base de
+dados confiável, segura e auditável.
+O escopo da contratação envolve não apenas a disponibilização das licenças de uso do
+sistema em regime de locação, mas também a sua instalação, configuração, conversão de
+dados históricos, integração entre módulos, suporte técnico contínuo, manutenções
+preventivas e corretivas, além da oferta de treinamentos presenciais para os servidores
+públicos. A plataforma deverá operar em ambiente de computação em nuvem, com alta
+disponibilidade, escalabilidade e acesso seguro, assegurando a continuidade das
+operações administrativas mesmo em situações de contingência. Importa destacar que o
+sistema a ser contratado deverá estar em total conformidade com as normativas técnicas
+e legais vigentes, especialmente aquelas emanadas pelo Tribunal de Contas do Estado de
+São Paulo (TCE-SP), que estabelece requisitos obrigatórios quanto à estruturação e
+integridade das informações públicas, à prestação de contas eletrônica e à transparência
+das ações governamentais. Dessa forma, a contratação de uma solução integrada permitirá
+à Administração Municipal não apenas atender aos requisitos legais, mas também elevar
+substancialmente o nível de governança e controle interno.
+A adoção de um software integrado proporcionará à gestão municipal inúmeros
+benefícios, como a eliminação de retrabalhos, a padronização de processos, o aumento da
+produtividade das equipes, a melhoria da qualidade da informação gerencial e o
+fortalecimento da transparência ativa junto à população. Em síntese, trata-se de um
+investimento estratégico que alinha o Município de Rio Grande da Serra às melhores
+práticas de gestão pública digital, promovendo a transformação da máquina
+administrativa em um modelo mais eficiente, ágil e centrado no cidadão.
+2. Descrição da necessidade da contratação ART 6º INCISO II
+A administração pública municipal, como estrutura essencial à garantia de direitos
+fundamentais e à promoção do desenvolvimento local, demanda eficiência, transparência
+e agilidade em seus processos. No entanto, o Município de Rio Grande da Serra – SP
+enfrenta dificuldades operacionais que comprometem a execução adequada de suas
+políticas públicas e a qualidade dos serviços oferecidos à população. A ausência de uma
+plataforma única e integrada de gestão tem acentuado a fragmentação de informações e
+dificultado a articulação entre os diversos setores da administração. A seguir, detalham-
+se os principais entraves enfrentados e que justificam, de maneira inequívoca, a
+necessidade de contratação de um sistema informatizado de gestão pública integrada.
+
+--- [pag. PDF 61] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Falta de integração entre secretarias e setores: A inexistência de um sistema unificado
+gera duplicidade de dados, inconsistência nas informações e retrabalho entre os
+servidores, dificuldade para a tomada de decisão correta baseadas em números corretos.
+Cada secretaria atua com ferramentas distintas, muitas vezes desconectadas entre si,
+dificultando a comunicação e o acompanhamento em tempo real das ações
+governamentais. Tal cenário compromete a eficiência administrativa e fragiliza o
+planejamento institucional, uma vez que a tomada de decisões deixa de ser embasada em
+dados consolidados e integrados.
+Burocracia e lentidão na tramitação de processos: Os fluxos internos dependem, em
+grande medida, de trâmites manuais, como movimentação física de documentos,
+preenchimento de formulários impressos e interações presenciais. Isso gera atrasos nos
+atendimentos, perda de prazos, sobrecarga das equipes e dificuldade no acompanhamento
+das demandas por parte da gestão. Um sistema digital permite automatizar esses fluxos,
+com rastreabilidade, padronização e controle, promovendo celeridade e segurança nos
+procedimentos.
+Baixa transparência e controle: A ausência de mecanismos integrados de gestão limita
+a capacidade de fiscalização interna e dificulta o cumprimento das exigências dos órgãos
+de controle externo, como o Tribunal de Contas do Estado de São Paulo. Sem um sistema
+com funcionalidades específicas para auditoria, controle e prestação de contas, há maior
+risco de erros, inconsistências e fragilidade na gestão fiscal, orçamentária e patrimonial
+do município.
+Excesso de trabalho manual e uso de papel: Grande parte das atividades cotidianas da
+administração pública ainda é realizada com uso intensivo de papel e registros manuais.
+Além do impacto ambiental, essa prática representa desperdício de recursos públicos,
+baixa produtividade e maior propensão a erros operacionais. A digitalização e automação
+dos processos administrativos proporcionam maior eficiência, redução de custos e
+melhoria na organização e no acesso às informações institucionais.
+Dificuldade da população em acessar os serviços públicos: A fragmentação dos
+sistemas e a ausência de canais digitais integrados tornam os serviços públicos municipais
+menos acessíveis, sobretudo à população que busca atendimento remoto ou digital.
+Muitos procedimentos ainda exigem deslocamento físico às repartições públicas,
+resultando em filas, insatisfação e limitações no exercício pleno da cidadania. Um sistema
+de gestão pública integrado, com módulos voltados ao atendimento digital ao cidadão,
+facilita o acesso a serviços, protocolos, consultas e requerimentos, promovendo maior
+proximidade entre o governo e a sociedade.
+
+--- [pag. PDF 62] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Diante do exposto, é evidente que a contratação de um software de gestão pública
+integrada é medida necessária, urgente e estratégica. Tal solução permitirá a
+reestruturação dos processos administrativos, com foco na eficiência, na transparência,
+na economicidade e na melhoria da qualidade dos serviços públicos. Trata-se de
+investimento essencial para modernizar a administração municipal, promover maior
+integração institucional e garantir que o Município de Rio Grande da Serra avance em
+direção a uma gestão pública inteligente, responsiva e centrada no cidadão.
+3. Demonstração da previsão da contratação no Plano Anual de Contratações ART
+6º INCISO II
+A presente contratação não foi prevista no Plano de Contratação Anual de 2.025,
+porém a mesma encontra-se respaldada nos instrumentos de planejamento
+governamental do Município de Rio Grande da Serra, em especial no Plano Plurianual
+2022-2025, aprovado por meio da Lei Municipal nº 2.416, de 21 de outubro de 2021.
+Conforme disposto no Anexo I do referido PPA, às páginas 15,16 e 28, está prevista como
+diretriz estratégica a modernização da gestão pública, modernizando sistemas de soluções
+tecnológicas, a automação de processos administrativos e a evolução de requisitos
+relacionados ao TI em busca da melhoria contínua da eficiência institucional.
+4. Requisitos da contratação ART 6º INCISO III
+Para atender às necessidades da Administração Pública Municipal de Rio Grande da
+Serra, a solução contratada deverá observar, no mínimo, os seguintes requisitos técnicos,
+funcionais e operacionais:
+A plataforma deverá ser modular e integrada, permitindo a comunicação direta e
+automática entre os diversos setores da Administração Pública, como contabilidade,
+finanças, orçamento, tributação, compras, contratos, patrimônio, recursos humanos,
+saúde, educação, controle interno, protocolo, previdência e demais áreas administrativas.
+Todos os módulos deverão operar em uma base de dados unificada, garantindo
+consistência, rastreabilidade e integridade das informações.
+A solução deverá estar disponível em ambiente de computação em nuvem, com alta
+disponibilidade, escalabilidade automática, acesso remoto via navegador web, e
+suporte a múltiplos perfis de usuários com níveis diferenciados de acesso. A
+infraestrutura deverá estar localizada em território nacional e atender às normas da
+Lei Geral de Proteção de Dados (Lei nº 13.709/2018).
+O sistema deverá incluir os serviços de instalação, configuração, parametrização,
+conversão e migração de dados históricos, bem como capacitação presencial e/ou virtual
+
+--- [pag. PDF 63] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+dos servidores públicos municipais para uso pleno da solução. Também deverá ser
+ofertado suporte técnico contínuo, com atendimento remoto e presencial, bem como
+manutenção corretiva, preventiva e evolutiva, durante toda a vigência contratual.
+A) Detalhamento dos serviços:
+1) MANUTENÇÃO CORRETIVA – A primeira atividade de manutenção decorre
+porque não é razoável presumir que a atividade de testes descobrirá todos os erros
+latentes na implantação de um grande sistema de software. Durante o uso de qualquer
+sistema de grande porte, erros ocorrerão e deverão ser relatados ao desenvolvedor
+para que este realize o processo que inclui o diagnóstico e a correção de um ou mais
+erros.
+2) MANUTENÇÃO PREVENTIVA ou EVOLUTIVA – A segunda atividade de
+manutenção ocorre quando o sistema é modificado para melhorar a confiabilidade,
+ou novas funções, ou oferecer uma infraestrutura melhor para futuras ampliações, ou
+ainda para atendimento de novas normas ou alteração daquelas já existentes e
+exigidas pelos órgãos de fiscalização e controle.
+3) ATUALIZAÇÃO DE VERSÃO – Compreende itens de manutenção preventiva/
+evolutiva ou adaptativa, lançadas pela contratada em novas versões do sistema.
+Os problemas apontados pelos usuários deverão ser solucionados conforme critério de
+prioridade definido pelo usuário:
+- Prioridade baixa: 96 horas
+- Prioridade normal: 72 horas
+- Prioridade crítica: 48 horas
+- Desenvolvimento de nova funcionalidade: Conforme cronograma definidos entre
+as partes após definições detalhada das funcionalidades desejadas e necessárias e
+após aprovação da proposta comercial apresentada.
+Imprescindível que o sistema esteja em conformidade com os requisitos técnicos
+estabelecidos pelo Tribunal de Contas do Estado de São Paulo (TCE-SP), devendo
+permitir extração de dados e relatórios em formatos aceitos pelos sistemas de fiscalização
+
+--- [pag. PDF 64] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+eletrônica, além de oferecer funcionalidades que facilitem a prestação de contas e o
+atendimento às exigências dos órgãos de controle externo e auditorias.
+Além disso, o sistema deverá contar com mecanismo de backup em nuvem, com
+criptografia de dados, alertas automáticos de falhas e retenção dos arquivos durante todo
+o período contratual. O serviço de monitoramento da aplicação deve operar em regime
+ininterrupto (24x7), com identificação proativa de falhas, garantindo segurança,
+estabilidade e continuidade dos serviços.
+Durante o período contratual deverá ser garantido atendimento para suporte técnico, no
+horário das 08h às 18h, de segundas às sextas-feiras, através de técnicos habilitados com
+o objetivo de:
+Esclarecer dúvidas que possam surgir durante a operação e utilização dos sistemas;
+Auxiliar o usuário, em caso de dúvidas, na elaboração de quaisquer atividades técnicas
+relacionadas à utilização dos sistemas.
+O atendimento a solicitação do suporte deverá ser realizado por atendente apto a prover
+o devido suporte ao sistema, ou redirecionar o atendimento a quem o solucione;
+O serviço de atendimento deverá ocorrer através de sistema de chamado eletrônico.
+B) Lista de Módulos e Sistemas necessários:
+1) PREFEITURA MUNICIPAL
+- Módulo de Almoxarifado:
+- Módulo de Aprovação de Projetos;
+- Módulo de Arrecadação Tributária;
+- Módulo de Atendimento ao Cidadão;
+- Módulo de Assistência Social;
+- Módulo de Bibliotecas;
+- Módulo de Cemitérios;
+- Módulo de Compras;
+- Módulo de Contabilidade e Tesouraria;
+- Módulo de Contratos e Convênios;
+- Módulo de Controle de Obras;
+- Módulo de Controle Interno;
+
+--- [pag. PDF 65] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+- Módulo de Educação;
+- Módulo de Processos Judiciais;
+- Módulo de Gestão da Saúde;
+- Módulos de Gestão de Frotas;
+- Módulo de Licitações;
+- Módulo de Medicina e Segurança do Trabalho;
+- Módulo de Nota Fiscal Eletrônica;
+- Módulo de Patrimônio;
+- Módulo de Orçamento;
+- Módulo de Protocolo e Gestão de Documentos;
+- Módulo de Recursos Humanos e Folha de Pagamento;
+- Módulo de Ouvidoria;
+- Módulo de Portal da Transparência;
+- Módulo de Fiscalização;
+- Módulo de Leis Municipais;
+- Módulo de Gestão de Gabinete;
+- Módulo de BI – Gestão Estratégica;
+- Módulo de Agricultura
+- Módulo de Guarda Municipal;
+- Aplicativos para o Cidadão
+- Aplicativos para os usuários de Sistema
+2) CÂMARA MUNICIPAL
+- Módulo de Almoxarifado:
+- Módulo de Compras;
+- Módulo de Contabilidade e Tesouraria;
+- Módulo de Contratos e Convênios;
+
+--- [pag. PDF 66] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+- Módulo de Controle Interno;
+- Módulos de Gestão de Frotas;
+- Módulo de Licitações;
+- Módulo de Medicina e Segurança do Trabalho;
+- Módulo de Patrimônio;
+- Módulo de Orçamento;
+- Módulo de Protocolo e Gestão de Documentos;
+- Módulo de Recursos Humanos e Folha de Pagamento;
+- Módulo de Ouvidoria;
+- Módulo de Portal da Transparência;
+3) INSTITUTO DE PREVIDÊNCIA DE RIO GRANDE DA SERRA
+- Módulo de Almoxarifado:
+- Módulo de Compras;
+- Módulo de Contabilidade e Tesouraria;
+- Módulo de Contratos e Convênios;
+- Módulo de Controle Interno;
+- Módulos de Gestão de Frotas;
+- Módulo de Licitações;
+- Módulo de Medicina e Segurança do Trabalho;
+- Módulo de Patrimônio;
+- Módulo de Orçamento;
+- Módulo de Protocolo e Gestão de Documentos;
+- Módulo de Recursos Humanos e Folha de Pagamento;
+- Módulo de Ouvidoria;
+- Módulo de Portal da Transparência;
+
+--- [pag. PDF 67] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+C) Prova de Conceito
+Com o objetivo de assegurar que a solução proposta atenda, de forma plena, aos requisitos
+técnicos e funcionais estabelecidos no edital, será realizada a etapa de Prova de Conceito
+(PoC), após a fase de lances, respeitado o prazo de dois dias úteis. Essa demonstração
+será realizada em local previamente indicado pelo Pregoeiro, e será conduzida pelo
+licitante classificado em primeiro lugar, que deverá apresentar o sistema ofertado em
+condições reais de operação.
+A apresentação ocorrerá em ambiente simulado, preparado exclusivamente pelo
+proponente, com todos os equipamentos, conexões e recursos que julgar necessários para
+a execução integral das funcionalidades exigidas. A demonstração deverá ocorrer em
+tempo real, com simulações práticas de inserções, exclusões e alterações de dados,
+emissão de relatórios, geração de consultas e arquivos, abrangendo de forma efetiva todos
+os itens e requisitos estabelecidos no edital.
+Para fins de comprovação das operações realizadas e composição dos autos do processo
+licitatório, será obrigatória a impressão de relatórios e logs das atividades executadas
+durante a apresentação, conforme exigência da equipe julgadora, podendo ocorrer por
+amostragem.
+A desclassificação será aplicada ao proponente que não conseguir demonstrar plenamente
+as funcionalidades exigidas nesta fase. Nesse caso, o licitante subsequente, conforme a
+ordem de classificação, será convocado para o mesmo procedimento, até que um dos
+proponentes consiga demonstrar adequadamente o atendimento integral às exigências do
+certame.
+A etapa de Prova de Conceito é, portanto, medida essencial para garantir a aderência da
+solução ofertada ao escopo funcional previsto, promovendo segurança técnica e respaldo
+jurídico à contratação pretendida.
+D) JULGAMENTO E QUALIFICAÇÃO TÉCNICA
+A fim de assegurar a capacidade técnica da empresa licitante para execução do objeto
+contratado, será exigida a apresentação de atestado(s) de capacidade técnica que
+comprovem a experiência anterior na prestação de serviços compatíveis com as
+características e complexidade do sistema pretendido.
+
+--- [pag. PDF 68] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Cada proponente deverá apresentar, no mínimo, 01 (um) atestado, emitido por pessoa
+jurídica de direito público ou privado, que comprove a realização de serviços semelhantes
+ao objeto deste certame, conforme descrito no termo de referência e demais documentos
+do processo licitatório.
+O atestado apresentado deverá conter, obrigatoriamente, o nome, endereço e telefone de
+contato da empresa ou órgão emitente, ou qualquer outra forma válida de comunicação
+que possibilite à Administração estabelecer contato direto para fins de verificação da
+veracidade das informações prestadas.
+Ressalta-se que, a critério do(a) Pregoeiro(a), poderão ser promovidas diligências junto
+às entidades emissoras dos atestados apresentados, visando averiguar a autenticidade, a
+fidedignidade das informações e a efetiva compatibilidade com o objeto licitado, em
+estrita observância ao princípio da busca da verdade material e da segurança jurídica do
+processo licitatório.
+Esses requisitos são essenciais para assegurar uma contratação que atenda às diretrizes
+legais, operacionais e estratégicas da gestão pública municipal, promovendo maior
+eficiência, transparência, controle e qualidade dos serviços prestados à população.
+5. Estimativas das quantidades e memórias de cálculo / interdependências para
+economia de escala
+O levantamento da demanda foi realizado com base na estrutura administrativa atual do
+Município de Rio Grande da Serra – SP, considerando a totalidade dos órgãos e entidades
+da administração direta e indireta que necessitam de um ambiente informatizado e
+integrado para a execução de suas atividades operacionais, contábeis, financeiras e
+administrativas. Foram mapeados os setores essenciais da Prefeitura Municipal, incluindo
+as Secretarias de Administração, Fazenda, Saúde, Educação, Planejamento, Assistência
+Social, Obras, Meio Ambiente e Desenvolvimento Econômico, bem como os órgãos
+vinculados, como Câmara Municipal e Instituto de Previdência.
+Chega-se então as seguintes estimativas prévias
+A) Estima-se
+• Módulos estimados: ≈ 34 módulos + aplicativos para usuários e cidadãos;
+• Treinamento estimado: 400 usuários no total;
+• Período de manutenção contratual considerado para cálculo de custo: 10
+meses para cada módulo, mesmo quando módulo completo for aceito previamente,
+para compor valor máximo da proposta;
+
+--- [pag. PDF 69] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+• Conversão de dados estimada entre 60 e 180 dias, dependendo da
+complexidade de cada módulo;
+• Período contratual inicial: 12 meses, com possibilidade de prorrogação até
+120 meses, conforme Lei 14.133/2021;
+B) Documentos de suporte / memórias de cálculo:
+Em atendimento ao disposto nos arts. 20 e 23 da Lei Federal nº 14.133/2021, a estimativa
+de preços e os documentos de suporte que integram este Estudo Técnico Preliminar
+contemplam:
+• Levantamento dos sistemas atualmente em uso,
+Constata-se, a partir da análise dos documentos de suporte, que a Administração
+Municipal utiliza atualmente soluções fragmentadas fornecidas por mais de um prestador
+de serviços. Tais soluções, embora atendam a determinadas áreas da gestão municipal,
+compõem um conjunto não integrado, com sobreposição de funcionalidades e ausência
+de comunicação entre os sistemas.
+O levantamento realizado aponta a existência de aproximadamente 15 módulos distintos,
+dedicados a diferentes setores da Administração, os quais, pela falta de
+interoperabilidade, resultam em maior custo operacional, retrabalho, inconsistência de
+dados e dificuldade de consolidação das informações para fins de gestão e de prestação
+de contas.
+• Projeções de expansão futura da demanda por módulos adicionais ou por
+usuários, de forma a possibilitar análise de custo-benefício em horizonte de médio
+prazo, atendendo ao princípio da economicidade.
+C) Interdependências relevantes:
+A infraestrutura de rede e de internet atualmente disponível na Prefeitura de Rio Grande
+da Serra é considerada suficiente e adequada para suportar o uso do sistema de gestão
+integrada, não havendo necessidade de investimentos adicionais de conectividade em
+razão desta contratação.
+Não se objetiva a integração do novo sistema com soluções legadas ou já existentes, uma
+vez que o objeto da presente contratação é justamente a adoção de uma plataforma
+integrada e unificada, eliminando redundâncias e reduzindo a dependência de sistemas
+paralelos.
+
+--- [pag. PDF 70] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Adicionalmente, a contratação prevê a capacitação dos servidores públicos que atuarão
+como usuários e gestores do sistema, bem como a disponibilização de operação assistida
+pela empresa contratada e de política de suporte técnico contínuo, garantindo que a
+solução seja corretamente utilizada e alcance o desempenho esperado.
+Por fim, destaca-se que não há interferência direta de contratos de manutenção de
+hardware ou de rede que comprometa a disponibilidade do ambiente, sendo a execução
+deste objeto plenamente compatível com a infraestrutura tecnológica já existente no
+Município.
+6. Estimativa do valor da contratação
+A estimativa de preços foi realizada por meio de consulta à Plataforma Nacional de
+Contratações Públicas (PNCP), com base em dois editais de outros entes, servindo como
+ponto de partida para a análise. Foram analisados editais de prefeituras interessadas em
+contratar softwares integrados para sistemas de gestão voltados à administração pública
+municipal, bem como referências de contratações similares. A tabela abaixo apresenta os
+valores estimados com base em processos licitatórios recentes:
+Município Processo
+Administrativo
+Valor Total Estimado
+(24 meses) Fonte
+Jardinópolis 112/2025 R$ 5.376.242,67 Pregão Eletrônico 033/2025
+Atibaia 32.280/2023 R$ 6.831.300,00 Pregão Eletrônico 100/2023
+Valor Médio R$ 6.103.771,34 Cálculo com base nas cotações
+Valor total estimado para os 12 primeiros meses (incluindo implantação, migração,
+licenças, manutenção, suporte, treinamento): R$ 6.103.771,34 (seis milhões, cento e três
+mil, setecentos e setenta e um reais e trinta e quatro centavos), porem destacamos que o
+valor estimado final a ser considerado será obtido por meio de pesquisas específicas
+conduzidas com base no Termo de Referência apresentado posteriormente.
+7. Levantamento de mercado e alternativas:
+O mercado nacional de tecnologia voltado à gestão pública dispõe de diversas soluções
+consolidadas, ofertadas por empresas especializadas em sistemas integrados e modulares
+para a Administração Pública Municipal. Essas plataformas são desenvolvidas de forma
+contínua e evolutiva para atender às exigências legais, técnicas e operacionais impostas
+pelos órgãos de controle, como o Tribunal de Contas do Estado de São Paulo (TCE-SP),
+além de promoverem maior eficiência na gestão, interoperabilidade entre setores e
+segurança na operação das informações públicas.
+
+--- [pag. PDF 71] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Dentre as possibilidades existentes, foram consideradas e descartadas duas alternativas
+frequentemente discutidas, mas que apresentam sérias limitações: a aquisição do código-
+fonte de um sistema e o desenvolvimento próprio por equipe interna ou contratada.
+Aquisição do código-fonte, embora aparente oferecer maior autonomia ao ente público,
+implica riscos operacionais e limitações técnicas significativas. A posse do código não
+garante, por si só, a capacidade de manutenção ou evolução da ferramenta, exigindo a
+formação de equipe técnica altamente especializada, com conhecimentos específicos
+sobre a estrutura do sistema, linguagem de programação utilizada, arquitetura da
+aplicação e integração com demais sistemas governamentais. Além disso, a atualização
+do sistema, a adaptação a normativas futuras, e a correção de falhas passam a depender
+exclusivamente da equipe interna, o que compromete a agilidade e segurança do processo,
+podendo expor o município a situações de descontinuidade e obsolescência tecnológica.
+Desenvolvimento próprio de um sistema de gestão pública: apresenta ainda mais
+fragilidades. Trata-se de um projeto de alta complexidade técnica, que exige análise
+minuciosa de requisitos, expertise em legislação pública, infraestrutura robusta e equipe
+multidisciplinar dedicada por tempo indeterminado. A experiência acumulada por
+administrações públicas demonstra que o desenvolvimento interno geralmente resulta em
+prazos longos, custos superiores aos inicialmente estimados, produtos com limitações
+funcionais, dificuldade de manutenção contínua e ausência de escalabilidade. Além disso,
+a responsabilidade por correções, adaptações legais frequentes e integração com sistemas
+estaduais e federais recairia exclusivamente sobre o Município, gerando insegurança
+jurídica e operacional.
+Frente a essas limitações, as soluções integradas já disponíveis no mercado, ofertadas por
+empresas consolidadas, especializadas em gestão pública, demonstram-se a alternativa
+mais eficiente, segura e economicamente vantajosa. Tais sistemas são entregues em
+modelo de serviço (SaaS), operam em ambiente de nuvem com alta disponibilidade,
+oferecem suporte técnico contínuo, atualizações automáticas conforme a legislação
+vigente e são desenvolvidos com base em boas práticas de segurança da informação e
+governança de dados.
+Dessa forma, a escolha por uma solução integrada fornecida por empresa especializada,
+em detrimento da aquisição de código-fonte ou desenvolvimento próprio, representa a
+decisão tecnicamente mais adequada, assegurando ao Município de Rio Grande da Serra
+a continuidade operacional, a conformidade legal e a eficiência na gestão pública
+
+--- [pag. PDF 72] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Alternativa Pontos Positivos Pontos de Atenção / Custos
+Manutenção do
+sistema atual com
+ajustes e extensões
+menor custo imediato; uso
+de competências já
+existentes
+limitações técnicas, insegurança,
+obsolescência, não resolve todos
+os problemas atuais
+Desenvolvimento
+interno (software
+próprio)
+maior controle sobre
+funcionalidades;
+customização específica
+custo alto de desenvolvimento e
+manutenção; risco de atrasos;
+necessidade de equipe
+especializada contínua
+Aquisição de sistema
+com licença perpétua +
+infraestrutura local
+propriedade do sistema;
+controle direto
+custo inicial elevado;
+infraestrutura de servidor,
+manutenção, atualizações;
+responsabilidade integral sobre
+segurança etc.
+Locação/licenciamento
+como serviço (SaaS),
+solução em nuvem
+menor custo inicial,
+atualização automática,
+escalabilidade, reduz
+responsabilidade de
+infraestrutura, suporte pelo
+fornecedor
+dependência de fornecedor;
+necessidade de garantir SLA forte,
+conectividade, segurança, custos
+recorrentes
+8. Justificativa técnica e econômica da solução escolhida (locação / SaaS):
+Após análise técnica das alternativas disponíveis no mercado e da experiência acumulada
+por órgãos públicos em contratações similares, verificou-se que a opção por múltiplos
+sistemas fornecidos por empresas distintas, ainda que com escopo aparentemente
+compatível, acarreta diversas desvantagens operacionais, financeiras e estratégicas à
+Administração Pública. A utilização de softwares distintos para cada área da gestão
+municipal tende a gerar fragmentação dos dados, aumento da complexidade de
+integração, dificuldades de interoperabilidade e sérios entraves à consolidação de
+informações para fins gerenciais e de prestação de contas.
+A contratação de sistemas variados acarreta ainda um aumento significativo dos custos,
+decorrentes de múltiplos contratos de licenciamento, integrações personalizadas,
+manutenções separadas, treinamentos diferenciados e suporte técnico específico para
+cada plataforma. Além disso, o gerenciamento descentralizado dos fornecedores aumenta
+a sobrecarga administrativa, dificultando o controle de atualizações, o acompanhamento
+de indicadores e a uniformização de processos internos.
+
+--- [pag. PDF 73] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Do ponto de vista da segurança da informação, a multiplicidade de fornecedores
+representa um risco relevante, uma vez que diferentes soluções apresentam diferentes
+níveis de proteção de dados, padrões de criptografia e respostas a incidentes, ampliando
+a vulnerabilidade do ambiente institucional e elevando o risco de violações e vazamentos
+de dados públicos sensíveis. Soma-se a isso a incompatibilidade funcional e visual entre
+sistemas, o que prejudica a experiência dos usuários internos e dificulta a padronização
+de rotinas administrativas.
+Considerando todos esses fatores, conclui-se que a escolha mais eficiente, segura e
+economicamente viável é a adoção de uma solução integrada, fornecida por empresa
+especializada, com um único ambiente de gestão, estrutura modular, base de dados
+unificada e suporte completo ao ciclo de vida da administração pública municipal. A
+centralização da solução em um único fornecedor reduz os riscos operacionais, assegura
+a continuidade do serviço, facilita o atendimento às normativas dos órgãos de controle
+externo e promove maior eficiência na execução das políticas públicas. Trata-se, portanto,
+da alternativa tecnicamente mais adequada para atender aos interesses da gestão
+municipal e da coletividade.
+Em suma:
+• Menor custo inicial e menor risco de obsolescência tecnológica;
+• Possibilidade de escalabilidade modular e rápida ativação de módulos;
+• Responsabilidade do fornecedor sobre infraestrutura, segurança, atualizações;
+• Economia de escala pela diluição de custos de hospedagem, manutenção e
+suporte;
+• Comparativo de custo total de propriedade (CapEx vs OpEx) mostra que em
+horizonte de 3-5 anos a solução locada será financeiramente mais vantajosa;
+• Facilita aderência às normas vigentes, com menor custo de adaptação futura;
+9. Descrição da solução como um todo
+A solução proposta consiste na contratação de uma empresa especializada para
+fornecimento, implantação, licenciamento e manutenção de um Sistema Integrado de
+Gestão Pública Municipal em ambiente de computação em nuvem, com arquitetura
+modular, escalável e interoperável, voltado ao atendimento das necessidades operacionais
+e estratégicas do Município de Rio Grande da Serra – SP.
+A solução contratada deverá contemplar:
+• Implantação completa dos módulos listados (licenciamento, instalação,
+configuração, parametrização);
+• Migração / conversão de todos os dados legados;
+
+--- [pag. PDF 74] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+• Treinamento técnico e operacional dos usuários;
+• Licença de uso conforme número de usuários / módulos;
+• Ambiente em nuvem com alta disponibilidade (mínimo 97,5% mensal),
+escalabilidade automática, segurança robusta;
+• Suporte técnico contínuo, com SLA definido (tempos de resposta para incidentes
+críticos, normais, falhas);
+• Manutenção preventiva, corretiva e evolutiva;
+• Atualizações de versões, inclusive adaptativas a novas exigências legais e
+tecnológicas;
+• Canais de atendimento diversos (remoto, e-mail, telefone, online) com segurança
+e autenticação;
+10. Justificativas para o parcelamento ou não da contratação
+A contratação pretendida possui natureza indivisível, uma vez que se refere à aquisição
+de um sistema integrado de gestão pública com módulos interdependentes, que devem
+operar de forma conjunta, contínua e sincronizada. A adoção de módulos isolados,
+contratados de forma parcelada ou por fornecedores distintos, comprometeria a principal
+característica da solução desejada: a integração plena dos dados e processos entre os
+diversos setores da administração pública municipal.
+A utilização de um único sistema do tipo GRP – Government Resource
+Planning proporciona um ambiente informatizado homogêneo, padronizado e seguro,
+eliminando redundâncias, retrabalhos e a formação de “ilhas” de informação. Tal
+arquitetura possibilita o processamento automático de cada operação por todos os setores
+envolvidos, com rotinas automatizadas e fluxos contínuos de dados, atendendo de forma
+transversal às necessidades administrativas, contábeis, financeiras, fiscais, educacionais
+e operacionais da Prefeitura, da Câmara Municipal, e do Instituto de Previdência.
+O parcelamento da solução, por sua vez, geraria significativa perda de eficiência, maior
+complexidade técnica, dificuldades de integração e aumento de custos com manutenção,
+suporte, treinamento e atualização. A contratação em lote único, com critério de
+julgamento pelo menor preço global, garante a compatibilidade nativa entre os módulos,
+maior controle técnico e gerencial, segurança da informação por meio de gestão unificada
+de usuários e permissões, além de facilitar auditorias e a consolidação de indicadores
+gerenciais.
+Ademais, o ambiente tecnológico unificado permite a redução expressiva dos custos
+operacionais e melhora o desempenho institucional, ao possibilitar que os usuários se
+
+--- [pag. PDF 75] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+familiarizem rapidamente com a interface e a lógica funcional do sistema,
+independentemente do módulo utilizado. A padronização favorece a simplificação dos
+processos, a rastreabilidade das informações e o atendimento célere às exigências dos
+órgãos de controle externo.
+Dessa forma, a contratação de um sistema único, completo e totalmente integrado se
+mostra técnica e economicamente mais vantajosa, sendo incompatível com o
+fracionamento do objeto. A opção pelo não parcelamento é, portanto, medida essencial
+para garantir a eficiência, a segurança, a economicidade e a sustentabilidade da solução
+tecnológica adotada pelo Município de Rio Grande da Serra.
+• Não parcelamento do objeto global, para garantir coerência, integração entre
+módulos, menor burocracia, evitar redundância de contratos, melhor gestão
+contratual.
+• Entretanto, parcelamento funcional/cronograma interno (fases de
+ativação/aceite dos módulos, migração, treinamento etc.) será adotado para reduzir
+riscos, garantir entregas graduais, permitir ajustes conforme experiência inicial.
+11. Demonstrativo dos resultados pretendidos
+Alguns dos resultados a serem alcançados:
+- Melhoria da eficiência administrativa: Automatizando processos
+administrativos como gestão de protocolos, controle de solicitações, emissão de
+documentos e monitoramento de serviços, o sistema reduz a carga de trabalho dos
+servidores municipais, permitindo que se concentrem em atividades estratégicas e no
+atendimento direto ao cidadão.
+- Aumento da transparência e comunicação: Um sistema integrado de gestão
+pública melhora a transparência administrativa e a comunicação com os cidadãos,
+fornecendo acesso facilitado a informações importantes, como status de processos,
+calendário de eventos municipais, prestações de contas e relatórios de gestão.
+- Melhoria na prestação de serviços públicos: Com ferramentas integradas para
+monitoramento de indicadores de desempenho dos serviços prestados, os gestores podem
+identificar áreas de melhoria em Rio Grande da Serra e implementar intervenções
+personalizadas, garantindo que as necessidades da população sejam atendidas de forma
+mais eficiente.
+- Otimização da gestão de recursos públicos: O sistema auxilia na gestão
+eficiente dos recursos financeiros, materiais e humanos do município, promovendo maior
+controle, transparência e eficiência na aplicação dos recursos disponíveis.
+- Tomada de decisão informada: Por meio de dados e análises detalhadas sobre
+diferentes aspectos da administração pública, o sistema capacita os gestores a tomarem
+
+--- [pag. PDF 76] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+decisões mais estratégicas, embasadas em indicadores de desempenho e na realidade
+municipal.
+- Aumento da participação cidadã: Com o acesso facilitado a informações sobre
+projetos, ações e serviços municipais, os cidadãos tornam-se mais engajados nos
+processos administrativos e nas iniciativas públicas, contribuindo para uma gestão mais
+participativa.
+- Redução de burocracia e aumento da agilidade: Com a automatização de
+tarefas administrativas e a integração entre setores, o sistema reduz a burocratização
+extrema e promove maior agilidade na prestação de serviços, beneficiando diretamente
+os cidadãos.
+- Promoção da equidade no acesso aos serviços públicos: Ao centralizar
+informações e integrar os diversos setores municipais, o sistema garante que todos os
+cidadãos tenham acesso igualitário a serviços e oportunidades, independentemente de sua
+localização ou condição socioeconômica.
+12. Providências a serem adotadas pela Administração previamente à celebração do
+contrato
+A contratação não demandará quaisquer providências previas à celebração do contrato
+uma vez que já faz uso de soluções de sistemas descentralizadas.
+13. Contratações correlatas e/ou interdependentes
+Após análise da contratação, não se prevê̂ nenhuma contratação correlata e/ou
+interdependente.
+14. Impactos ambientais e medidas mitigadoras
+A contratação do software de gestão integrada não implica na geração de impactos
+ambientais diretos de grande relevância, por não envolver obras ou utilização de insumos
+que causem degradação física ao meio ambiente. Contudo, considerando a perspectiva
+da sustentabilidade nas contratações públicas (art. 20, §1º, XII, e art. 25 da Lei nº
+14.133/2021). Ademais uma solução digita desta natureza implica na redução do consumo
+de papel, impressões e armazenamento físico de documentos. Além disso, a digitalização
+de processos diminui a necessidade de deslocamentos, reduzindo emissões de gases
+poluentes.
+15. Análise de Riscos
+A contratação de um sistema integrado de gestão pública envolve, como qualquer projeto
+de tecnologia da informação, a existência de riscos que podem comprometer a eficiência,
+a continuidade ou a segurança da solução contratada. No entanto, tais riscos podem ser
+mitigados ou neutralizados por meio da adoção de boas práticas contratuais, operacionais
+e de governança, conforme analisado a seguir.
+
+--- [pag. PDF 77] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+Evento de Risco Probabilid
+ade Impacto
+Nível
+de
+Risco
+Estratégia de Mitigação
+Contratação de
+sistema
+incompatível com
+as necessidades do
+Município
+Média Alto Alto
+Elaboração detalhada do
+termo de referência, prova de
+conceito, visitas técnicas e
+exigência de validação
+funcional prévia.
+Falha na migração
+ou perda de dados
+históricos
+Média Alto Alto
+Exigência de plano de
+migração validado, testes por
+amostragem, execução
+assistida por equipe técnica e
+backups prévios.
+Interrupções ou
+instabilidades nos
+serviços em nuvem
+Baixa Alto Médio
+Adoção de infraestrutura com
+alta disponibilidade, contrato
+com SLA, backups diários e
+plano de recuperação de
+desastres.
+Dependência
+excessiva do
+fornecedor após
+implantação
+Média Médio Médio
+Inclusão de cláusulas
+contratuais com obrigações
+de continuidade,
+documentação completa,
+treinamentos e direitos de
+acesso aos dados.
+Incidentes de
+segurança da
+informação ou
+vazamento de dados
+Baixa Alto Médio
+Exigência de conformidade
+com a LGPD, criptografia,
+autenticação forte, trilhas de
+auditoria e gestão de perfis de
+acesso.
+Resistência à
+mudança e
+dificuldades de
+adaptação por parte
+dos servidores
+Média Médio Médio
+Realização de treinamentos
+presenciais, manuais de uso,
+suporte técnico contínuo e
+estratégia de comunicação
+interna.
+Custos adicionais
+não previstos
+(customizações,
+integrações ou
+suporte)
+Baixa Médio Baixo
+Estabelecimento de escopo
+claro, orçamento detalhado,
+cláusulas contratuais para
+controle de aditivos e
+aprovação prévia de
+mudanças.
+Conclui-se, portanto, que embora existam riscos inerentes à contratação de soluções
+tecnológicas complexas, todos os cenários identificados são passíveis de controle e
+mitigação por meio de planejamento adequado, cláusulas contratuais específicas e
+
+--- [pag. PDF 78] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+fiscalização ativa da execução contratual, não representando, assim, impeditivo à
+continuidade do processo licitatório.
+16. Locais de Execução e Entrega
+O objeto será executado nos seguintes endereços: Prefeitura Municipal: Rua Av Dom
+Pedro I, 10 Centro. Rio Grande da Serra - São Paulo Cep. 09450-000. -. Em horário
+comercial de 8 às 18 horas ou conforme solicitação do setor requisitante.
+17. Posicionamento Conclusivo
+Após análise técnica, estratégica e econômica, conclui-se que a contratação de solução de
+software integrado de gestão pública, em regime de licenciamento em nuvem, com todos
+os serviços de manutenção, migração de dados e capacitação, é viável, necessária e
+vantajosa para atender às demandas do Município. Os benefícios esperados em termos
+de eficiência operacional, transparência, redução de custos e conformidade normativa
+justificam o investimento, sendo os riscos identificados considerados mitigáveis pelas
+medidas propostas. Assim, declaramos aprovado o presente Estudo Técnico Preliminar,
+para que sirva de fundamento à licitação, com observância rigorosa aos requisitos
+técnicos, de segurança e de desempenho contratual.
+
+--- [pag. PDF 79] ---
+PROCESSO RUBRICA
+NÚMERO EXERCÍCIO FOLHA
+952 2026
+ANEXO VII - DECLARAÇÃO GERAL
+PREGÃO ELETRÔNICO Nº XX/2026
+Eu ________________________________ (nome completo), RG nº
+___________________, CPF nº _________________, representante legal da empresa
+______________________________________________________________ (razão
+social da empresa), CNPJ nº 00.000.000/0000-00, DECLARO, sob as penas da lei:
+a) Para fins do disposto no inciso VI do art. 68 da Lei Federal nº 14.133/21, que não
+emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não
+emprega menor de dezesseis anos, salvo, a partir de 14 anos, na condição de aprendiz.
+b) Que, até a presente data, inexistem fatos impeditivos para a sua habilitação no presente
+processo licitatório, inclusive condenação judicial na proibição de contratar com o Poder
+Público ou receber benefícios ou incentivos fiscais ou creditícios, transitada em julgada
+ou não desafiada por recurso com efeito suspensivo, por ato de improbidade
+administrativa, estando ciente da obrigatoriedade de declarar ocorrências posteriores.
+c) Que não se encontra declarada inidônea, nem suspensa ou impedida de licitar e
+contratar com a Administração Pública.
+d) Que observou e atende plenamente aos requisitos previstos aos parágrafos §1º, §2º, §3º
+do art. 4º da Lei Federal nº 14.133/21 (aplicável a ME/EPP).
+e) Que suas propostas econômicas compreendem a integralidade dos custos para
+atendimento dos direitos trabalhistas assegurados na CF/88, leis trabalhistas, nas normas
+infralegais, nas convenções coletivas de trabalho e nos termos de ajustamento de conduta
+vigentes na data de entrega das propostas, sob pena de desclassificação.
+f) Que cumpre as exigências de reserva de cargos para pessoa com deficiência e para
+reabilitado da Previdência Social.
+g) Que não possui, em sua cadeia produtiva, empregados executando trabalho
+degradante ou forçado, observando o disposto nos incisos II e IV do art. 1º e no inciso
+III do art. 5º da CF/88.
+h) Que, em se tratando de microempresa, empresa de pequeno porte ou sociedade
+cooperativa, que cumpre os requisitos estabelecidos no art. 3º da Lei Complementar nº
+123, de 2006, estando apto a usufruir do tratamento estabelecido em seus arts. 42 a 49.
+(Local e Data)
+(Assinatura da proponente/representante legal da empresa)

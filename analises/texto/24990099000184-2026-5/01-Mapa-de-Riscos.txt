@@ -1,0 +1,389 @@
+=== DOCUMENTO 1: Mapa-de-Riscos.pdf ===
+tipo: Mapa de Riscos | páginas: 12 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/24990099000184/compras/2026/5/arquivos/12
+
+--- [pag. PDF 1] ---
+MAPA DE RISCOS E PLANOS DE CONTINGÊNCIA
+O gerenciamento de riscos é um componente essencial para o sucesso de qualquer processo
+contratual, sendo crucial no planejamento, organização e controle dos recursos envolvidos,
+especialmente no que diz respeito aos riscos que podem comprometer tanto a execução do objeto
+contratual quanto a gestão de todo o processo. Conforme estabelecido pelo artigo 18, inciso X, da Lei
+nº 14.133/2021, a análise de riscos desempenha um papel fundamental na fase de planejamento,
+servindo como alicerce para a elaboração do Estudo Técnico Preliminar (ETP) e do Termo de
+Referência (TR).
+O Mapa de Gerenciamento de Riscos/Plano de Contingência é a ferramenta central nesse
+processo, pois deve contemplar a identificação e análise dos principais riscos que possam impactar o
+sucesso da contratação. Isso envolve o levantamento de eventos potenciais — futuros e incertos —
+que podem afetar a execução e os resultados desejados do contrato. A análise de riscos tem como
+objetivo não apenas compreender a natureza desses riscos, mas também determinar seu nível, que
+resulta da combinação do impacto e da probabilidade de ocorrência de cada risco. Esses fatores são
+determinantes para avaliar como tais riscos podem afetar a efetividade da contratação e,
+consequentemente, os resultados esperados.
+Para cada risco identificado, é imprescindível que sejam estabelecidos os seguintes
+parâmetros: a probabilidade de ocorrência, a descrição dos danos potenciais que podem surgir, as
+ações preventivas a serem adotadas, as contingências necessárias e, ainda, a identificação dos
+responsáveis por cada ação. Essa abordagem garante que, mesmo diante de situações imprevistas, a
+resposta seja ágil e eficaz, minimizando impactos negativos sobre o contrato e assegurando a
+continuidade dos processos.
+Neste contexto, serão avaliados os riscos associados à contratação planejada pelo
+CONSANE nas três fases fundamentais do processo: Planejamento, Seleção Externa da Proposta e
+Gestão Contratual. Cada uma dessas fases requer uma atenção especial à identificação e classificação
+dos riscos, o que permitirá uma análise qualitativa e quantitativa dos potenciais eventos que possam
+ocorrer. Com essa metodologia estruturada de análise de riscos, a gestão contratual poderá ser
+realizada de forma mais eficiente, com maior segurança e confiabilidade no alcance dos objetivos
+estabelecidos.
+Objeto: registro de preços, na forma de licitação compartilhada, para futura e eventual
+contratação de empresa especializada no fornecimento e locação de equipamentos de informática,
+bem como na prestação de serviços de outsourcing de impressão corporativa, abrangendo impressão,
+cópia, digitalização departamental e demais funcionalidades correlatas, incluindo, quando aplicável,
+instalação, configuração, manutenção preventiva e corretiva, suporte técnico, reposição de peças,
+componentes e suprimentos, visando atender às demandas do CONSANE e de seus Municípios
+Consorciados.
+
+--- [pag. PDF 2] ---
+1. DEFINIÇÃO DOS IMPACTOS:
+A análise qualitativa dos riscos é realizada por meio da classificação escala da probabilidade
+e do impacto, conforme a tabela de referência a seguir. Descrição dos impactos:
+CLASSIFICAÇÃO 	PESO
+Baixo 	05
+Médio 	10
+Alto 	15
+Baixo: Danos que não comprometem o processo/serviço. Devem ser catalogados nos
+relatórios pós-contratuais com vistas a novo planejamento.
+Médio: Danos que comprometem parcialmente o processo/serviço, atrasando-o ou
+interferindo em sua qualidade.
+Alto: Danos que comprometem a essência do processo/serviço, impedindo-o de seguir seu
+curso.
+A análise quantitativa dos riscos consiste na classificação conforme a relação entre a
+probabilidade e o impacto, tal classificação resultará no nível do risco e direcionará as ações
+relacionadas aos riscos durante a fase de planejamento e gestão do contrato.
+A tabela 01 apresenta a Matriz Probabilidade x Impacto, instrumento responsável pela
+definição dos critérios quantitativos de classificação do nível de risco. O produto da probabilidade
+pelo impacto de cada risco deve se enquadrar em uma região da matriz probabilidade x impacto. Caso
+o risco enquadre-se na região verde, seu nível de risco é entendido como baixo, logo admite-se a
+aceitação ou adoção das medidas preventivas.
+Se estiver na região amarela, entende-se como médio e na região vermelha, entende-se como
+nível de risco alto. Nos casos de riscos classificados como médio e alto, serão adotadas as medidas
+preventivas previstas.
+Gráfico 01: Matriz Probabilidade x Impacto
+
+--- [pag. PDF 3] ---
+2. FASES DE ANÁLISE:
+Para cada risco identificado, define-se: a probabilidade de ocorrência dos eventos, os possíveis
+danos e impactos caso o risco ocorra, possíveis ações preventivas e de contingência (respostas aos
+riscos), a identificação de responsáveis pelas ações, bem como o registro e o acompanhamento das
+ações de tratamento dos riscos. Identificados os riscos no projeto estes devem ser registrados,
+avaliados e tratados da seguinte forma:
+a) 	Durante a fase de Planejamento (interna), a equipe de Planejamento da Contratação
+deve proceder às ações de gerenciamento de riscos e produzir o Mapa de Gerenciamento
+de Riscos;
+b) 	Durante a fase de Seleção da Proposta (externa), a Pregoeira juntamente com a
+Comissão de Contratação devem proceder às ações de gerenciamento dos riscos e
+atualizar o Mapa de Gerenciamento de Riscos;
+c) 	Durante a fase de Gestão Contratual (interna/externa), a Equipe de Fiscalização e de
+Gestão de Contrato, deverá proceder à atualização contínua do Mapa de Gerenciamento
+de Riscos, procedendo à reavaliação dos riscos identificados nas fases anteriores com a
+atualização de suas respectivas ações de tratamento, e proceder também com a
+identificação, análise, avaliação e tratamento de novos riscos.
+3. ÁREAS ENVOLVIDAS:
+A 	Equipe de Planejamento da Contratação é a equipe responsável pelo planejamento da
+contratação, nomeada pelo CONSANE ou seus Consorciados e composta por:
+a) 	Empregados Públicos representantes da Área de Técnica;
+b) 	Empregados Públicos representantes da Área Administrativa;
+c) 	Assessorias Externas representates das áreas orçamentárias e financeiras.
+A Equipe de Fiscalização do Contrato é a equipe responsável pela fiscalização do contrato,
+composta por:
+a) Fiscal do Contrato: empregado público com conhecimento técnico da área designado
+pelo CONSANE para fiscalizar tecnicamente o contrato;
+b) Fiscal indicado pelos Consorciados: servidores públicos indicados pelos Municípios
+Consorciados para acompanhar a execução do objeto.
+A Gestão Contratual responde pelas atribuições gerenciais do contrato, sendo comporta por:
+a) Gestor do Contrato: empregado público indicado pelo CONSANE com atribuições
+gerenciais para coordenar o processo de gestão contratual;
+b) Gestor indicado pelos Consorciados: servidor público indicados pelos Municípios
+Consorciados para fazer a gestão contratual.
+
+--- [pag. PDF 4] ---
+4. RISCOS RELACIONADOS À FASE DE PLANEJAMENTO:
+RISCO 1
+Seleção de equipe sem conhecimento técnico suficiente para o planejamento da contratação
+Probabilidade 	X 	Baixo 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Realizar ETP falho, incompleto ou impreciso, causando prejuízos à contratação
+2. Falha na identificação de soluções mais adequadas para resolver o problema, ocasionando
+contratações obsoletas
+Ação Preventiva 	Responsável
+1. Escolher equipe com conhecimento técnico
+para os estudos em tempo hábil para que não
+haja prejuízos durante a fase de planejamento
+Presidência
+2. Capacitar os servidores escolhidos para
+realizar as etapas de planejamento da
+contratação
+Superintendência
+Ação de Contingência 	Responsável
+1. Substituir membros da equipe de
+planejamento que não estejam apresentando
+bom rendimento
+Superintendência
+2. Designar membros com mais experiência
+em contratações Superintendência
+RISCO 2
+Dimensionamento inadequado dos equipamentos e quantitativos
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Aquisição ou locação de equipamentos acima ou abaixo das necessidades reais
+
+--- [pag. PDF 5] ---
+2. Ociosidade de equipamentos e desperdício de recursos públicos
+Ação Preventiva 	Responsável
+1. Realizar levantamento individualizado das
+necessidades do CONSANE e dos Municípios
+participantes
+Coordenação de Compras
+2. Estabelecer estimativas fundamentadas de
+consumo, caso alguns Consorciados não enviem
+seus quantitativos nos prazos estipulados
+Coordenação de Compras
+Ação de Contingência 	Responsável
+1. Redistribuir equipamentos entre unidades
+quando tecnicamente possível Gestores e Fiscais de Contratos
+2. Reajustar o quantitativo por Consorciado de
+forma a atender todos, sem exceção Coordenação de Compras
+RISCO 3
+Especificação de equipamentos com tecnologia obsoleta
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Contratação de equipamentos com baixa vida útil tecnológica
+2. Dificuldade de manutenção e reposição de componentes e possível incompatibilidade futura
+com sistemas e softwares utilizados.
+Ação Preventiva 	Responsável
+1. Exigir equipamentos novos ou em condições
+tecnológicas compatíveis com o prazo contratual Responsáveis pelo ETP e TR
+Ação de Contingência 	Responsável
+2. Proceder com a aquisição, mas também com a
+locação de equipamentos Responsáveis pelo ETP e TR
+
+--- [pag. PDF 6] ---
+RISCO 4
+Pesquisa de preços inadequada ou incompatível com o mercado
+Probabilidade 	X 	Baixo 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Licitação deserta ou fracassada.
+2. Estimativa superior ao preço real, com risco de contratação antieconômica
+Ação Preventiva 	Responsável
+1. Utilizar diferentes fontes válidas compondo
+cesta de preços (contratações públicas,
+forncecedores, bancos de preços)
+Coordenação de Compras com os
+responsáveis pelo ETP e TR
+2. Comparar equipamentos e serviços com
+especificações equivalentes
+Coordenação de Compras com os
+responsáveis pelo ETP e TR
+Ação de Contingência 	Responsável
+1. Atualizar a pesquisa de mercado e ever os
+valores estimados antes de eventual
+republicação do edital
+Coordenação de Compras com os
+responsáveis pelo ETP e TR
+5. RISCOS RELACIONADOS À FASE DE SELEÇÃO DA PROPOSTA:
+RISCO 5
+Atraso ou suspensão do processo em razão de pedidos de esclarecimento e impugnações
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Atraso na conclusão da licitação
+2. Necessidade de retificação do edital, reabertura dos prazos e prejuízo ao planejamento
+dos órgãos participantes
+Ação Preventiva 	Responsável
+1. Elaborar ETP e Termo de Referência
+tecnicamente robustos Responsáveis pelo ETP e TR
+
+--- [pag. PDF 7] ---
+2. Revisar critérios de habilitação,
+especificações e obrigações contratuais Responsáveis pelo ETP e TR
+3. Realizar análise jurídica da documentação 	Assessoria Jurídica do CONSANE
+Ação de Contingência 	Responsável
+1. Responder tempestivamente às
+impugnações Pregoeira/Comissão e Equipe Técnica
+2. Ajuste e republicação do edital com vistas a dar
+celeridade ao andamento do processo Coordenação de Licitações do CONSANE
+RISCO 6
+Propostas com preços aparentemente inexequíveis
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Contratação de empresa sem capacidade econômica para executar o objeto
+2. Fornecimento de equipamentos inferiores aos especificados
+3. Falhas na manutenção e suporte
+4. Desabastecimento de suprimentos
+5. Abandono ou inexecução contratual
+Ação Preventiva 	Responsável
+1. Analisar detalhadamente a composição e
+coerência da proposta Pregoeira/Comissão e Equipe Técnica
+2. Verificar a compatibilidade entre valores
+ofertados e obrigações assumidas Pregoeira/Comissão e Equipe Técnica
+Ação de Contingência 	Responsável
+1. Realizar diligência para comprovação da
+exequibilidade Pregoeira/Comissão e Equipe Técnica
+2. Desclassificar proposta cuja inexequibilidade
+seja demonstrada Pregoeira/Comissão e Equipe Técnica
+
+--- [pag. PDF 8] ---
+RISCO 7
+Equipamento ofertado não atender às especificações técnicas
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Aquisição ou locação de equipamento incompatível
+2. Problemas de integração com redes e sistemas existentes
+Ação Preventiva 	Responsável
+1. Exigir documentação técnica suficiente
+para comprovação das especificações Responsáveis pelo ETP e TR
+2. Solicitar apresentação de catálogos, fichas
+técnicas, manuais ou outros elementos
+comprobatórios, inclusive pós-seleção
+Pregoeira
+Ação de Contingência 	Responsável
+1. Realizar diligência para esclarecer
+características técnicas Pregoeira
+2. Notificar a empresa equipamento caso algum
+equipamento não atenda aos requisitos do edital Gestor e Fiscal de Contrato
+6. RISCOS RELACIONADOS À FASE DE GESTÃO DO CONTRATO:
+RISCO 8
+Atraso na entrega ou disponibilização dos equipamentos
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Indisponibilidade de equipamentos aos usuários
+2. Prejuízo às atividades administrativas
+3. Manutenção forçada de equipamentos antigos
+
+--- [pag. PDF 9] ---
+Ação Preventiva 	Responsável
+1. Definir prazos de entrega e instalação de
+forma clara no contrato 	Responsável pelo TR
+2. Acompanhar as solicitações e ordens de
+fornecimento 	Fiscais de Contrato
+Ação de Contingência 	Responsável
+1. Notificar formalmente a contratada 	Fiscais e Gestores de Contrato
+2. Aplicar as medidas contratuais previstas
+em caso de atraso injustificado
+Fiscais, Gestores de Contrato juntamente
+com a Assessoria Jurídica
+RISCO 9
+Equipamentos entregues em desacordo com as especificações
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Desempenho inferior ao contratado
+2. Pagamento por solução distinta daquela licitada
+Ação Preventiva 	Responsável
+1. Realizar conferência técnica no
+recebimento 	Fiscais de Contrato
+2. Comparar equipamentos entregues com
+proposta, catálogo e requisitos do TR 	Fiscais de Contrato
+Ação de Contingência 	Responsável
+1. Recusar o recebimento do equipamento
+inadequado Fiscais de Contrato
+2. Exigir substituição no prazo
+contratualmente estabelecido Gestores de Contrato
+3. Aplicar penalidades quando cabíveis 	Gestor/Assessoria Jurídica
+RISCO 10
+Falhas recorrentes ou indisponibilidade dos equipamentos locados
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+
+--- [pag. PDF 10] ---
+Dano/Consequência
+1. Interrupção das atividades
+2. Redução da produtividade
+3. Acúmulo de demandas administrativas
+Ação Preventiva 	Responsável
+1. Definir prazos de atendimento, reparo e
+substituição Equipe de Planejamento
+2. Acompanhar indicadores de
+indisponibilidade Fiscais e Gestores de Contrato
+Ação de Contingência 	Responsável
+1. Exigir equipamento substituto quando o
+reparo ultrapassar o prazo definido Fiscais e Gestores de Contrato
+2. Aplicar glosas ou sanções previstas no
+instrumento contratual, quando cabíveis Gestores de Contrato
+3. Solicitar substituição definitiva de
+equipamentos com falhas recorrentes Fiscais de Contrato
+RISCO 11
+Demora na manutenção corretiva ou atendimento técnico
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Redução da capacidade operacional das unidades
+2. Prejuízo aos serviços do CONSANE e dos Municípios
+3. Equipamentos indisponíveis por período excessivo
+Ação Preventiva 	Responsável
+1. Prever canais formais de abertura e
+acompanhamento de chamados Equipe de Planejamento
+
+--- [pag. PDF 11] ---
+2. Registrar tempos de atendimento e
+solução Fiscais e Gestores de Contrato
+Ação de Contingência 	Responsável
+1. Escalar chamados não atendidos 	Fiscais e Gestores de Contrato
+2. Exigir substituição temporária ou
+definitiva do equipamento Gestores de Contrato
+3. Aplicar penalidades previstas no contrato 	Gestor e Assessoria Jurídica
+RISCO 12
+Falta ou atraso no fornecimento de toner, cartuchos e demais suprimentos
+Probabilidade 	Baixo 	X 	Médio 	Alto
+Impacto 	Baixo 	Médio 	X 	Alto
+Dano/Consequência
+1. Impossibilidade de emissão de documentos
+2. Prejuízo às unidades administrativas
+3. Necessidade de aquisições emergenciais
+Ação Preventiva 	Responsável
+1. Definir responsabilidade da contratada
+pelo monitoramento e reposição dos
+suprimentos abrangidos pelo objeto
+Equipe de Planejamento
+2. Acompanhar consumo e níveis de
+suprimentos Fiscais de Contrato
+Ação de Contingência 	Responsável
+1. Exigir reposição imediata 	Fiscais e Gestores de Contrato
+2. Redistribuir estoques entre unidades,
+quando possível Gestores de Contrato
+3. Aplicar as medidas contratuais previstas 	Gestor e Assessoria Jurídica
+
+--- [pag. PDF 12] ---
+7. RELAÇÃO DE RISCOS:
+ID 	RISCO 	P 	I NÍVEL DE
+RISCO (PxI) CLASSIFICAÇÃO
+01 Equipe de planejamento inadequada 5 15 	75 	Médio
+02 Dimensionamento inadequado dos
+quantitativos 10 15 	150 	Alto
+03 Tecnologia obsoleta ou em
+descontinuação 10 15 	150 	Alto
+04 	Pesquisa de preços inadequada 	5 15 	75 	Médio
+05 Impugnações e pedidos de
+esclarecimento 10 15 	150 	Alto
+06 	Propostas inexequíveis 	10 15 	150 	Alto
+07 Equipamento ofertado em desacordo
+com especificações 10 15 	150 	Alto
+08 Atraso na entrega ou implantação 	10 15 	150 	Alto
+09 Equipamento entregue fora das
+especificações 10 15 	150 	Alto
+10 Falhas e indisponibilidade dos
+equipamentos 10 15 	150 	Alto
+11 Demora na manutenção e suporte 10 15 	150 	Alto
+12 Falta de toner e demais suprimentos 10 15 	150 	Alto
+Os Municípios Consorciados que formalizarem Contratos de Programa, deverão implementar,
+manter, monitorar e revisar o processo de gestão de riscos, compatível com sua missão e seus
+objetivos estratégicos. As avaliações de risco deverão ser acompanhadas pela Controladoria, Gestores
+e Fiscais de Contrato, grantindo o enfrentamento dos riscos e fornecendo segurança razoável na
+execução dos serviços.
+Lavras/MG, 21 de julho de 2026.
+Natália Caé Resende
+Coordenadora do Departamento de Compras e Licitações
+CONSANE

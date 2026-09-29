@@ -1,0 +1,26 @@
+{
+ "id": "08931495000184-2026-50",
+ "extraidoEm": "2026-09-29T13:08:10.922Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/08931495000184/2026/50",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Aviso-de-Contratacao-Direta.txt",
+   "titulo": "Aviso de Contratacao Direta",
+   "tipo": "Aviso de Contratação Direta",
+   "paginas": 1,
+   "caracteres": 1858
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Termo-de-Referencia.txt",
+   "titulo": "Termo de Referencia",
+   "tipo": "Termo de Referência",
+   "paginas": 9,
+   "caracteres": 23652
+  }
+ ],
+ "totalPaginas": 10,
+ "totalCaracteres": 25510,
+ "comErro": 0
+}

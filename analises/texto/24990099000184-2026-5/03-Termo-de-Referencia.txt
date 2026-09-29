@@ -1,0 +1,1382 @@
+=== DOCUMENTO 3: Termo-de-Referencia.pdf ===
+tipo: Termo de Referência | páginas: 26 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/24990099000184/compras/2026/5/arquivos/14
+
+--- [pag. PDF 1] ---
+TERMO DE REFERÊNCIA
+1). DEFINIÇÃO DO OBJETO:
+Constitui objeto do presente Termo de Referência o registro de preços, na forma de licitação compartilhada, para
+futura e eventual contratação de empresa especializada no fornecimento e locação de equipamentos de informática,
+bem como na prestação de serviços de outsourcing de impressão corporativa, abrangendo impressão, cópia,
+digitalização departamental e demais funcionalidades correlatas, visando atender às demandas do Consórcio
+Regional de Saneamento Básico – CONSANE e de seus Municípios Consorciados, conforme condições,
+especificações, quantitativos, exigências e critérios estabelecidos neste Termo de Referência e em seus anexos.
+A contratação será realizada mediante Sistema de Registro de Preços – SRP, considerando a natureza variável das
+demandas dos Municípios Consorciados, permitindo que os entes participantes promovam contratações conforme
+suas necessidades efetivas, disponibilidade orçamentária e planejamento administrativo, sem obrigatoriedade de
+contratação integral dos quantitativos registrados. Essa sistemática está em consonância com o planejamento
+desenvolvido no Estudo Técnico Preliminar, que reconheceu a contratação compartilhada e o SRP como
+instrumentos adequados à consolidação das demandas dos Municípios e à obtenção de maior flexibilidade
+administrativa.
+1.1). Natureza do Objeto:
+O objeto apresenta natureza mista, compreendendo o fornecimento de bens e a prestação de serviços, sendo
+divididos em lotes conforme sugestão constante do ETP. Desta maneira, os itens foram agrupados por similaridade,
+em lotes distintos, objetivando ampliar a competitividade. Os lotes foram distribuídos da seguinte maneira:
+a) Lote 1: Aquisição de Equipamentos de Informática;
+b) Lote 2: Locação de Equipamentos de Informática;
+c) Lote 3: Serviços de Outsourcing de Impressão Corporativa, Cópia, Digitalização Departamental.
+1.2). Quantitativos, Especificação dos Itens e Valor Estimado da Contratação:
+Os quantitativos a serem registrados serão aqueles constantes da Planilha Levantamento e Consolidação
+Quantitativo Final Lotes, elaborada a partir das necessidades consolidadas do CONSANE e dos Municípios
+Consorciados participantes.
+Os quantitativos possuem caráter estimativo, não constituindo obrigação de contratação integral por parte do
+CONSANE ou dos Municípios Consorciados. O Estudo Técnico Preliminar estabeleceu que, em razão da natureza
+do Sistema de Registro de Preços, as quantidades devem representar a demanda potencial da contratação,
+mantendo-se a possibilidade de contratação conforme a necessidade efetiva de cada ente.
+A distribuição dos quantitativos entre os Municípios e o CONSANE estão demonstrados no mesmo arquivo,
+constituindo memória de cálculo da contratação e permitindo a rastreabilidade da origem dos quantitativos
+registrados.
+LOTE 1: AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA
+ITEM 	ESPECIFICAÇÃO 	UNID. QUANT. VALOR
+UNIT. (R$)
+VALOR
+TOTAL (R$)
+01 NOTEBOOKS AVANÇADOS 	UN 	216 	R$8.937,00 R$1.930.392,00
+
+--- [pag. PDF 2] ---
+Especificações mínimas:
+Processador: Intel Core i7 (mínimo 13ª geração) ou
+equivalente
+Memória RAM: 32GB DDR5 ou superior
+Armazenamento: SSD NVMe de 1TB
+Tela: Full HD (1920x1080) ou superior, antirreflexo, 15,6"
+Placa de vídeo: Dedicada, NVIDIA GeForce RTX 4050
+(6GB) ou equivalente
+Conectividade: Wi-Fi 6, Bluetooth 5.0, RJ45
+Sistema Operacional: Windows 11 Pro
+Teclado: ABNT2
+Bateria: Autonomia mínima de 6 horas
+Portas: Mínimo de 2x USB A, 1x USB-C, 1x HDMI, 1x
+P2 (áudio)
+Qualidade igual ou superior a: Avell Storm 450 PRO
+02
+NOTEBOOKS INTERMEDIÁRIOS
+Especificações mínimas:
+Processador: Intel Core i5 (mínimo 12ª geração) ou
+equivalente
+Memória RAM: 16GB DDR4 ou superior
+Armazenamento: SSD NVMe de 512GB
+Tela: Full HD (1920x1080) ou superior, antirreflexo, 15,6"
+Placa de vídeo: Integrada ou superior
+Conectividade: Wi-Fi 6, Bluetooth 5.0, RJ45
+Sistema Operacional: Windows 11 pro
+Teclado: ABNT2
+Bateria: Autonomia mínima de 6 horas
+Portas: Mínimo de 2x USB A, 1x USB-C, 1x HDMI, 1x
+P2 (áudio)
+Qualidade igual ou superior a: IdeaPad 1i Intel Core i5
+UN 	419 	R$3.130,33 R$1.311.608,27
+03
+NOTEBOOKS BÁSICOS
+Especificações mínimas:
+Processador: Intel Core i3 (mínimo 12ª geração) ou
+equivalente
+Memória RAM: 8GB DDR4 ou superior
+Armazenamento: SSD NVMe de 256GB
+Tela: Full HD (1920x1080) ou superior, antirreflexo, 15,6"
+Placa de vídeo: Integrada ou superior
+Conectividade: Wi-Fi 6, Bluetooth 5.0, RJ45
+Sistema Operacional: Windows 11 pro
+Teclado: ABNT2
+Bateria: Autonomia mínima de 6 horas
+Peso máximo: 1,6kg
+Portas: Mínimo de 2x USB A, 1x USB-C, 1x HDMI, 1x
+P2 (áudio)
+Qualidade igual ou superior a: IdeaPad 1i Intel Core i3
+UN 	227 	R$3.037,33 R$689.473,91
+04
+TABLET PARA TRABALHO DE CAMPO
+Especificações mínimas:
+Tela: 8" WUXGA (1920 x 1200), multi-touch
+Processador: Octa-Core
+Memória RAM: 6 GB
+Armazenamento: 128 GB (expansível via MicroSD até 1
+TB)
+Câmeras: Traseira: 13 MP, gravação UHD 4K Frontal: 5
+MP
+Bateria: 5.050 mAh, até 15h de uso, carregamento rápido
+15W
+UN 	502 	R$2.744,92 R$1.377.949,84
+
+--- [pag. PDF 3] ---
+Conectividade: 5G, Wi-Fi, Bluetooth 5.3, NFC, GPS
+Resistência: Certificação IP68, corpo reforçado
+Sensores: Acelerômetro, Giroscópio, Geomagnético, Sensor
+Hall, Luz RGB, Proximidade
+Extras: Caneta inclusa, leitor de impressão digital, capa de
+proteção inclusa
+Sistema Operacional: Android
+Qualidade igual ou superior a: Tablet Samsung Galaxy
+Tab Active5 128GB
+05
+TABLET PARA GESTÃO, PLANEJAMENTO E
+MOBILIDADE
+Especificações mínimas:
+Tela: 12.4" WQXGA (2560 x 1600)
+Processador: Octa-Core (2.4 GHz + 2.0 GHz)
+Memória RAM: 8 GB
+Armazenamento: 128 GB (expansível até 1 TB)
+Câmeras: Traseira: Dupla 8 MP + 8 MP
+Frontal: 12 MP
+Gravação de vídeo: UHD 4K
+Bateria: 10.090 mAh (até 20h de reprodução)
+Conectividade: Wi-Fi 6, Bluetooth 5.3, USB-C 2.0, GPS
+Rede: 2G, 3G, 4G, 5G Sub6
+Sensores: Acelerômetro, Giroscópio, Impressão Digital
+Sistema Operacional: Android Acessórios: Caneta digital,
+capa protetora, carregador, cabo de dados
+Qualidade igual ou superior a: Tablet Samsung Galaxy
+Tab S9 Fe+ 128GB
+UN 	351 	R$3.321,92 R$1.165.993,92
+06
+MOUSE
+Especificações mínimas:
+Tipo: Mouse óptico
+Extensão do fio: 1,50 metros
+Conexão USB-A
+DPI ajustável até 8000 DPI
+Revestimento de Borracha
+6 botões
+Qualidade igual ou superior a: Mouse Gamer TGT Vector
+E1
+UN 	2.557 	R$37,00 	R$94.609,00
+07
+TECLADO COM FIO (ABNT2)
+Especificações mínimas:
+Padrão: ABNT2
+Conexão: USB (plug-and-play, sem necessidade de driver)
+Layout: Padrão, com teclado numérico integrado
+Teclas: Membrana silenciosa, com toque suave e resposta
+confortável
+Comprimento do cabo: 1,2 metros
+Material: Plástico resistente, com estrutura durável
+105 teclas
+Compatibilidade: Windows, macOS e Linux
+Resistência: Suporta respingos de líquidos
+Composição do Material: PP
+Cor: preto
+Qualidade igual ou superior a: Teclado Multi TF100 USB
+UN 	1.539 	R$31,46 	R$48.416,94
+08
+MOUSE PAD COM APOIO DE PUNHO EM GEL
+Especificações mínimas:
+Material: Superfície em tecido de microfibra ou neoprene
+Base: Emborrachada antiderrapante.
+Apoio de Punho: Fabricado em gel ou espuma viscoelástica
+UN 	1.336 	R$16,77 	R$22.404,72
+
+--- [pag. PDF 4] ---
+Design anatômico para suporte ergonômico ao punho.
+Largura mínima: 18 cm
+Comprimento mínima: 22 cm
+Altura mínima do apoio de punho: 1,5 cm
+Compatibilidade: Compatível com mouses ópticos e laser.
+Cor: Preto ou azul.
+Qualidade igual ou superior a: Mouse Pad Bright 0307
+09
+FONE DE OUVIDO COM CABO E MICROFONE
+Especificações mínimas:
+Com microfone.
+Cabo com 120 cm.
+Plugue estéreo de 3,5 mm.
+Drivers do alto-falante de 14,2 mm
+Impedância 32 ohm
+Intra-auricular
+Preto ou branco.
+Qualidade igual ou superior a: Philips TAUE101BK/00
+UN 	683 	R$36,67 	R$25.045,61
+10
+MONITOR
+Especificações mínimas:
+Tela LED IPS com 24 polegadas.
+Ajuste de altura, inclinação e rotação horizontal e vertical.
+Full HD 1920 x 1080p.
+Taxa de atualização de 75 Hz.
+Entrada HDMI.
+Preto.
+Qualidade igual ou superior a: 3green Pro 24 3GT
+UN 	727 	R$550,76 R$400.402,52
+11
+HUB USB
+Especificações mínimas:
+Conexão via USB-C
+Duas entradas USB-A, sendo no mínimo uma USB-A 3.0.
+Compatível com sistemas operacionais Windows, macOS
+e Linux.
+Transferência rápida de dados, Portátil, Plug and Play
+(ligar e usar).
+Slot para cartão SD: velocidade de até 104 MB/s
+Slot para cartão TF: velocidade de até 104 MB/s
+HDMI: Suporte 4K*2K (3840x2160) 30HzEntrada USB-
+C.
+Qualidade igual ou superior a: KABEWUS 6 em 1 uSB C
+HUB
+UN 	552 	R$74,98 	R$41.388,96
+12
+SUPORTE NOTEBOOK
+Especificações mínimas:
+Fabricado em alumínio.
+Com 7 regulagens de altura.
+Borracha no apoio frontal inferior.
+Compatibilidade: Notebooks e tablets de até 17".
+Cor Prata.
+Qualidade igual ou superior a: Suporte para Notebook
+Portátil em Metal Dobrável Ergonômico
+UN 	657 	R$25,02 	R$16.438,14
+13
+NOBREAK
+Especificações mínimas:
+Potência nominal de pico: 600 VA / 300 W
+Topologia: Interativo
+Forma de onda em modo Bateria: Semi ssenoidal
+(retangular)
+Frequência de saída em modo Bateria: 60 Hz ±1 Hz
+Frequência de entrada: 60 Hz ±3 Hz
+UN 	652 	R$445,67 R$290.576,84
+
+--- [pag. PDF 5] ---
+Tensão nominal de entrada: bivolt automático 120V~ ±20%
+(96-144 V~) / 220 V~
+±20% (176-264 V~)
+Tensão nominal de saída: 120 V~
+Regulação da tensão de saída: Modo Rede: 120V~ ±10%;
+Modo Bateria: 120V~ ±5%
+Tomadas de saída: 4 tomadas de 10 A (NBR 14136)
+Bateria interna: 1 selada (VRLA) 12 V 7 Ah
+Religamento automático: o nobreak reinicia
+automaticamente quando a rede elétrica volta à
+normalidade, mesmo quando a bateria está descarregada
+Função DC start: permite ligar o nobreak mesmo na
+ausência de energia elétrica
+Qualidade igual ou superior a: Nobreak Interativo ATTIV
+600VA Bivolt Preto Intelbras
+14
+SSD PARA NOTEBOOK
+Especificações mínimas:
+Capacidade: 480GB
+2,5 pol.
+Interface: SATA Rev. 3.0 (6Gb/s) — compatível com a
+versão anterior SATA Rev. 2.0 (3Gb/s).
+Performance de referência - até 500MB/s para leitura e
+450MB/s para gravação
+Temperatura de armazenamento: -40 °C a 85 °C
+Temperatura de operação: 0 °C a 70 °C
+Qualidade igual ou superior a: SSD Kingston
+SA400S37 480GB
+UN 	1.095 	R$267,30 R$292.693,50
+15
+CABO HDMI COMPACTO (1m)
+Especificações mínimas:
+Comprimento de 1 metro
+Conector macho-macho
+Padrão: HDMI 2.0 ou superior
+Largura de Banda: 18 Gbps
+Resolução Suportada: (4K)
+Cor Preto
+Qualidade igual ou superior a: PIX Cabo Hdmi 2.0 4K
+Hdr 19P 1M
+UN 	579 	R$30,47 	R$17.642,13
+16
+CABO HDMI GRANDE (5m)
+Especificações mínimas:
+Comprimento de 5 metros
+Conector macho-macho
+Padrão: HDMI 2.0 ou superior
+Largura de Banda: 18 Gbps
+Resolução Suportada: (4K)
+Cor Preto
+Qualidade igual ou superior a: PIX Cabo Hdmi 2.0 4K
+Hdr 19P 5M
+UN 	364 	R$31,40 	R$11.429,60
+17
+DESKTOP BÁSICO
+Especificações mínimas:
+Processador Intel Core i5-10400F, 6-Core, 12-Threads,
+2.9GHz (4.3GHz Turbo), Cache 12MB, LGA1200, ou
+equivalente.
+Placa-mãe Biostar H510M, DDR4, Socket LGA1200, M-
+ATX, Chipset Intel H510, ou equivalente.
+Memória Hiksemi Hiker, 8GB (1x8GB), DDR4, 3200MHz,
+HSC408U32Z1, ou equivalente.
+Placa de vídeo TGT GeForce GT610, 2GB, GDDR3, 64-bit,
+UN 	572 	R$2.304,21 R$1.318.008,12
+
+--- [pag. PDF 6] ---
+TGT-GT610-2GB, ou equivalente.
+SSD Mancer GC480, 480GB, 2.5", SATA III 6Gb/s, Leitura
+540MB/s, Gravação 490MB/s, MCR-GC480-BK01, ou
+equivalente.
+Gabinete TGT Z10, Preto, TGT-Z10-BK, ou equivalente.
+Fonte TGT Enfield, 600W, ATX, Bivolt, Preto, TGT-
+EFD6-BK01, ou equivalente.
+18
+DESKTOP INTERMEDIÁRIO
+Especificações mínimas:
+Processador Intel Core i5-12400F, 6-Core, 12-Threads,
+2.5GHz (4.4GHz Turbo), Cache 18MB, LGA1700, ou
+equivalente.
+Placa-mãe Asus Prime H610M-CS D4, DDR4, LGA1700,
+M-ATX, Chipset Intel H610, ou equivalente.
+Memória Corsair Vengeance LPX, 16GB (2x8GB), DDR4,
+3000MHz, CL15, Preta, CMK16GX4M2B3000C15, ou
+equivalente.
+Placa de vídeo Mancer GTX 1660 Super Heimdall, 6GB,
+GDDR6, 192-bit, MCR-GTX1660S-HDLL, ou
+equivalente.
+HD Toshiba Surveillance S300, 2TB, 3.5", 5400RPM, SATA
+III 6Gb/s, Cache 128MB, HDWT720UZSVA, ou
+equivalente.
+SSD Adata XPG GAMMIX S70 Blade, 512GB, M.2 2280,
+PCIe NVMe, Leitura 7200MB/s, Gravação 2600MB/s,
+AGAMMIXS70B-512G-CS, ou equivalente.
+Gabinete TGT Z10, Preto, TGT-Z10-BK, ou equivalente.
+Fonte TGT Enfield, 600W, ATX, Bivolt, Preto, TGT-EFD6-
+BK01, ou equivalente.
+UN 	767 	R$4.134,28 R$3.170.992,76
+19
+DESKTOP AVANÇADO
+Especificações mínimas:
+Processador Intel Core i7-12700K, 12-Core, 20-Threads,
+3.6GHz (5.0GHz Turbo), Cache 25MB, LGA1700, ou
+equivalente. Cooler Deepcool Gammaxx AG200, 92mm, R-
+AG200-BKNNMN-G, ou equivalente.
+Placa-mãe MSI PRO H610M-G, DDR4, LGA 1700, M-
+ATX, Chipset Intel H610, ou equivalente.
+Memória Corsair Vengeance LPX, 32GB (4x8GB),
+DDR4, 3600MHz, CL18, Preta,
+CMK32GX4M4D3600C18, ou equivalente.
+Placa de vídeo Mancer GeForce RTX 3070 Heimdall,
+8GB, GDDR6X, 256-bit, MCR-RTX30708GB-HDLL, ou
+equivalente.
+SSD Adata Ultimate SU650, 512GB, M.2 2280, SATA
+6Gb/s, ASU650NS38-512GT-C (x2) , ou equivalente.
+HD Seagate Skyhawk, 2TB, 3.5", 5400 RPM, SATA III
+6Gb/s, Cache 256MB, ST2000VX017, ou equivalente.
+Gabinete Aigo Q2506, Mini-Tower, Preto, Q2506-BK, ou
+equivalente.
+Fonte Aigo Darkflash PMT850A3, 850W, Full-
+Modular, 80 Plus Gold, Preto, AG-PMT850A3-BK, ou
+equivalente.
+UN 	133 	R$7.009,64 R$932.282,12
+Valor Total do Lote 1: 	R$13.157.748,90
+
+--- [pag. PDF 7] ---
+LOTE 2: LOCAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA
+ITEM 	ESPECIFICAÇÃO 	UNID. 	QUANT. VALOR
+UNIT. (R$)
+VALOR
+MENSAL (R$)
+VALOR ANUAL
+(R$)
+1
+COMPUTADOR PORTÁTIL
+(NOTEBOOK) Processador C i 3-
+1215 e ou similar, de 12ª Geração
+mínima, 8GB de memória RAM
+com possibilidade de expansão para
+até 16GB e SSD com 256GB de
+capacidade. Sistema operacional
+Windows 11 A tela de LED LCD
+com design ultrafino tem 15,6",
+resolução Full HD (1920x1080),
+possui 1 porta HDMI e 3 USB e
+teclado com padrão ABNT 2 e
+teclas de atalho com função
+multimídia GARANTIA: MÍNIMA
+DE 12 MESES ON SITE com
+substituição do produto, trocar as
+partes danificadas ou fazer reparos
+objetivos. Serviço de locação
+incluindo instalação, assistência
+técnica de manutenção preventiva
+e corretiva e fornecimento de
+software para governo.
+UN/
+MENSAL 2.040 	R$398,83 	R$813.613,20 	R$9.763.358,40
+2
+COMPUTADOR PORTÁTIL
+(NOTEBOOK) Processador: i5- (4-
+core, cache de 8MB, até 4.2GHz) e
+ou similar, 12a geração Mínima.
+Armazenamento: SSD de 256GB
+PCIe NVMe M.2 Memória RAM:
+Memória de 8GB, DDR4,
+2666MHz; expansível até 16GB.
+Placa de vídeo com memória gráfica
+compartilhada Teclado numérico
+padrão em português, com leitor de
+impressão digital (compatível
+apenas com Windows) Sistema
+Operacional: Windows 11 Pro
+Português (Brasil) Portas: 2 portas
+USB 3.2 de 1a Ger., 1 porta USB
+2.0, 1 porta HDMI 1.4, 1 conector de
+áudio e 1 porta Ethernet RJ45 ||.
+Áudio: Waves Maxx Áudio® Pro |
+Conectividade: Placa de rede
+802.11ac, WiFi 1x1 e Bluetooth &
+Bluetooth| Chipset: Chipset
+integrado com o processador | 100 -
+240 Volts AC (Bivolt) | Bateria de 4
+células e 54Wh (integrada) | Altura:
+35,85 cm | Largura: 1,75 cm |
+Profundidade: 23,56cm | Peso
+aproximado: 1.70Kg Kg | Webcam
+UN/
+MENSAL 1.220 	R$486,70 	R$593.774,00 	R$7.125.288,00
+
+--- [pag. PDF 8] ---
+HD widescreen integrada (720p)
+com Single Digital Microfone,
+garantia: mínima de 12 meses on site
+com substituição do produto, trocar
+as partes danificadas ou fazer
+reparos objetivos. Serviço de
+locação incluindo instalação,
+assistência técnica de manutenção
+preventiva e corretiva e
+fornecimento de software para
+governo.
+3
+MICROCOMPUTADOR ALL
+IN ONE: CPU: Intel Core i3-2100
+(Cache 3M, 3.10 GHz)
+Memória: 8GB DDR3
+Armazenamento: 240GB SSD
+Tela: 19" HD Widescreen
+Lan: RJ45 / Wireless / Bluetooth
+Funcionalidades: Ajuste de
+inclinação.
+2* USB 2.0
+2* USB 3.0
+1* VGA
+1* REDE 10/100/1000
+1* HDMI
+1* Áudio P2 Microfone / Caixa de
+som
+Serviço de locação incluindo
+instalação, assistência técnica de
+manutenção preventiva e
+corretiva e fornecimento de
+software para governo.
+UN/
+MENSAL 1.705 	R$337,97 	R$576.238,85 	R$6.914.866,20
+4
+MICROCOMPUTADOR ALL
+IN ONE: Processador: Intel Core
+i5 Super Turbo – 3360M 3,50GHz,
+3MB Cache
+Memória RAM: 16GB DDR3
+1600MHZ
+Armazenamento: SSD de 512GB
+Tela: 23,8” polegadas, PAINEL
+LED IPS, Resolução Full HD
+1920x1080 (COM AJUSTE
+ANGULAR)
+Conectividade: Wi-Fi 5 GHz
+Câmera: Web Cam 5.0M Integrada
+Conexões: 6x USB 2.0, 1x HDMI,
+1x VGA, 1x RJ-45, 1x Line-in
+(microfone), 1x Line-out (fone de
+ouvido), 2x Alto-falantes
+Serviço de locação incluindo
+instalação, assistência técnica de
+manutenção preventiva e
+corretiva e fornecimento de
+software para governo.
+UN/
+MENSAL 1.640 	R$402,20 	R$659.608,00 	R$7.915.296,00
+5
+NOBREAK BIVOLT 600VA 4
+Tomadas: Potência pico 600VA
+Potência nominal 600 VA Voltagem
+UN/
+MENSAL 2.145 	R$87,29 	R$187.237,05 	R$2.246.844,60
+
+--- [pag. PDF 9] ---
+Denominação de voltagem bivolt
+Faixa de voltagem de entrada 120,
+220v
+Serviço de locação incluindo
+instalação e assistência técnica de
+manutenção preventiva e
+corretiva.
+VALOR TOTAL DO LOTE 2: 	R$2.830.471,10 	R$33.965.653,20
+LOTE 3: SERVIÇOS DE OUTSOURCING DE IMPRESSÃO CORPORATIVA, CÓPIA, DIGITALIZAÇÃO
+DEPARTAMENTAL
+ITEM 	ESPECIFICAÇÃO 	UNID. 	QUANT.
+VALOR
+UNIT. (R$) VALOR
+MENSAL (R$)
+VALOR ANUAL
+(R$)
+1
+Multifuncional Monocromática
+Laser/Led A4 40ppm. Franquia
+Unitária Mensal: 4.000 páginas.
+Serviços de outsourcing de
+impressão corporativa, cópia,
+digitalização 	departamental,
+incluindo a disponibilização de
+equipamentos com os serviços de
+manutenção preventiva e corretiva,
+com a substituição de peças e
+suprimentos, fornecimento de
+insumos (incluindo papel), sistema
+de gerenciamento, contabilização de
+impressões/cópias e avaliações.
+UN/
+MENSAL 890 	R$842,95 	R$750.225,50 	R$9.002706,00
+2
+Multifuncional Monocromática
+Laser/Led A4 45ppm. Franquia
+Unitária Mensal: 8.000 páginas.
+Serviços de outsourcing de
+impressão corporativa, cópia,
+digitalização 	departamental,
+incluindo a disponibilização de
+equipamentos com os serviços de
+manutenção preventiva e corretiva,
+com a substituição de peças e
+suprimentos, fornecimento de
+insumos (incluindo papel), sistema
+de gerenciamento, contabilização de
+impressões/cópias e avaliações.
+UN/
+MENSAL 245 	R$1.473,67 R$361.049,15 	R$4.332.589,80
+3
+Multifuncional Monocromática
+Laser/Led A3 50 ppm. Franquia
+Unitária Mensal: 20.000 páginas.
+Serviços de outsourcing de
+impressão corporativa, cópia,
+digitalização 	departamental,
+incluindo a disponibilização de
+equipamentos com os serviços de
+manutenção preventiva e corretiva,
+com a substituição de peças e
+suprimentos, fornecimento de
+UN/
+MENSAL 126 	R$4.860,17 R$612.381,42 	R$7.348.557,04
+
+--- [pag. PDF 10] ---
+insumos (incluindo papel), sistema
+de gerenciamento, contabilização de
+impressões/cópias e avaliações.
+4
+Multifuncional Policromática
+Laser/Led A4 20 ppm. Franquia
+Unitária Mensal: 4.000 páginas.
+Serviços de outsourcing de
+impressão corporativa, cópia,
+digitalização 	departamental,
+incluindo a disponibilização de
+equipamentos com os serviços de
+manutenção preventiva e corretiva,
+com a substituição de peças e
+suprimentos, fornecimento de
+insumos (incluindo papel), sistema
+de gerenciamento, contabilização de
+impressões/cópias e avaliações.
+UN/
+MENSAL 248 	R$1.960,91 R$486.305,68 	R$5.835.668,16
+5
+Multifuncional Policromática
+Laser/Led A3 20 ppm. Franquia
+Unitária Mensal: 10.000 páginas.
+Serviços de outsourcing de
+impressão corporativa, cópia,
+digitalização 	departamental,
+incluindo a disponibilização de
+equipamentos com os serviços de
+manutenção preventiva e corretiva,
+com a substituição de peças e
+suprimentos, fornecimento de
+insumos (incluindo papel), sistema
+de gerenciamento, contabilização de
+impressões/cópias e avaliações.
+UN/
+MENSAL 	113 	R$6.259,33 R$707.304,29 	R$8.487.651,48
+6
+Multifuncional Monocromática
+Laser/Led A4. Excedente a franquia
+(incluindo papel)
+FOLHA/
+PAPEL 450.000 	R$0,30 	R$135.000,00 	R$1.620.000,00
+7
+Multifuncional Monocromática
+Laser/Led A3. Excedente a franquia
+(incluindo papel)
+FOLHA/
+PAPEL 445.000 	R$0,31 	R$137.950,00 	R$1.655.400,00
+8
+Multifuncional Policromática
+Laser/Led A4. Excedente a franquia
+(incluindo papel)
+FOLHA/
+PAPEL 420.000 	R$0,52 	R$218.400,00 	R$2.620.800,00
+9
+Multifuncional Policromática
+Laser/Led A3. Excedente a franquia
+(incluindo papel)
+FOLHA/
+PAPEL 420.000 	R$0,59 	R$247.800,00 	R$2.973.600,00
+VALOR TOTAL DO LOTE 3: 	R$3.656.416,04 	R$43.876.992,48
+*O Quantitativo foi levantado a partir da demanda real enviada por dez Municípios Consorciados somado à
+demanda potencial estimada dos demais Consorciados considerando o menor quantitativo enviado pelos
+Municípios.
+1.3). Vigência da Contratação:
+A Ata de Registro de Preços terá vigência de 12 meses, contados a partir da data de sua assinatura, com efeitos
+jurídicos vinculados à publicação do instrumento, podendo ser prorrogada conforme determina a legislação
+vigente. A prorrogação será precedida de justificativa técnica e mediante interesse público devidamente
+
+--- [pag. PDF 11] ---
+demonstrado, nos termos dos arts. 105 a 107 da Lei Federal nº. 14.133/2021. Nos casos de prorrogação, os
+quantitativos serão renovados conforme define a legislação em vigor.
+1.4). Adesão (Caronas):
+A adesão por órgãos não participantes (caronas) será permitida dentro dos limites do art. 86 da Lei Federal nº.
+14.133/2021 (50% individual e o dobro do valor global na totalidade das adesões), sempre mediante anuência do
+CONSANE, Órgão Gerenciador da Ata de Registro de Preços.
+2. FUNDAMENTOS DA CONTRATAÇÃO:
+A presente contratação encontra fundamento no planejamento administrativo desenvolvido pelo CONSANE para
+atendimento de necessidade comum aos Municípios Consorciados, relacionada à disponibilização de infraestrutura
+tecnológica adequada e à prestação de serviços de impressão corporativa de forma estruturada, padronizada e
+eficiente.
+Nos termos do art. 6º, inciso XXIII, alínea “b”, da Lei Federal nº. 14.133/2021, a fundamentação da contratação
+deve estar vinculada aos estudos técnicos preliminares correspondentes. Nesse sentido, o presente Termo de
+Referência decorre diretamente do Estudo Técnico Preliminar elaborado para esta contratação, no qual foram
+analisadas a necessidade administrativa, as alternativas disponíveis no mercado, os requisitos técnicos e
+operacionais da solução, os riscos, os resultados pretendidos e a viabilidade da contratação.
+O Estudo Técnico Preliminar demonstrou que a utilização de equipamentos de informática e de soluções de
+impressão constitui elemento essencial para o funcionamento das atividades administrativas do CONSANE e dos
+Municípios Consorciados, especialmente para execução de rotinas de gestão, atendimento, processamento de
+informações, utilização de sistemas, elaboração de documentos, impressão, cópia e digitalização.
+Também foi identificada a necessidade de reduzir problemas relacionados à obsolescência tecnológica,
+indisponibilidade de equipamentos, elevados custos de manutenção, ausência de padronização do parque
+tecnológico e dificuldades de gestão dos serviços de impressão.
+A contratação compartilhada apresenta-se adequada ao atendimento dessas necessidades porque permite a
+consolidação das demandas dos entes participantes, reduz a repetição de procedimentos licitatórios individuais e
+amplia a possibilidade de obtenção de ganhos de escala e melhores condições comerciais. A atuação conjunta por
+intermédio do CONSANE também possibilita maior padronização das especificações técnicas, uniformização dos
+requisitos de desempenho e estabelecimento de critérios comuns de execução, fiscalização e controle contratual.
+O Estudo Técnico Preliminar avaliou diferentes alternativas de atendimento da demanda, incluindo aquisição
+individualizada pelos Municípios, aquisição compartilhada, locação de equipamentos, utilização de modelo
+híbrido e contratação de outsourcing de impressão. A análise demonstrou que não existe solução única que seja
+necessariamente mais vantajosa para todas as situações. Para determinados equipamentos, a aquisição pode se
+mostrar adequada; para outros, especialmente aqueles sujeitos a rápida obsolescência ou que demandem
+manutenção contínua, a locação pode apresentar vantagens operacionais. Por essa razão, foi adotada solução
+flexível, permitindo que o procedimento contemple modalidades distintas, desde que devidamente especificadas.
+Quanto aos serviços de impressão, o outsourcing foi identificado como solução capaz de integrar disponibilização
+de equipamentos, manutenção preventiva e corretiva, reposição de peças e suprimentos, suporte técnico, controle
+de utilização e medição dos serviços, reduzindo a necessidade de gerenciamento isolado desses componentes pelos
+Municípios.
+A adoção do Sistema de Registro de Preços também se mostra compatível com a natureza da demanda. Os
+quantitativos efetivamente necessários podem variar entre os Municípios, tanto em razão da estrutura
+administrativa quanto do parque tecnológico existente, número de usuários, volume de impressão, disponibilidade
+
+--- [pag. PDF 12] ---
+orçamentária e planejamento interno. Dessa forma, o Sistema de Registro de Preços permite que cada ente
+participante utilize os itens registrados de acordo com sua necessidade efetiva, sem obrigatoriedade de contratação
+integral dos quantitativos estimados, preservando a autonomia administrativa dos Municípios.
+A contratação fundamenta-se ainda na busca pela melhoria da eficiência administrativa e da governança. A
+definição de requisitos técnicos padronizados, níveis mínimos de serviço, critérios objetivos de medição,
+procedimentos de manutenção e mecanismos de fiscalização tende a proporcionar maior controle sobre a execução
+e melhor utilização dos recursos públicos.
+Também foram considerados aspectos relacionados à segurança da informação, proteção de dados,
+sustentabilidade, consumo de energia, gestão de resíduos eletroeletrônicos, logística reversa de suprimentos de
+impressão e ciclo de vida dos equipamentos.
+A solução foi planejada de forma a permitir o atendimento de Municípios com diferentes portes e realidades
+administrativas, buscando evitar exigências técnicas excessivas ou restritivas e, ao mesmo tempo, assegurar
+desempenho, qualidade, segurança e continuidade operacional. Assim, a contratação encontra-se fundamentada:
+a) Na necessidade de assegurar infraestrutura tecnológica adequada às atividades administrativas;
+b) Na necessidade de modernização e renovação do parque tecnológico;
+c) Na busca pela redução da indisponibilidade de equipamentos;
+d) Na racionalização dos serviços de impressão, cópia e digitalização;
+e) Na padronização de especificações e procedimentos;
+f) Na possibilidade de obtenção de ganhos de escala mediante contratação compartilhada;
+g) Na redução dos custos administrativos decorrentes da realização de múltiplos certames;
+h) Na flexibilização proporcionada pelo sistema de registro de preços;
+i) Na melhoria dos mecanismos de gestão, fiscalização e controle;
+j) Na promoção de maior eficiência, economicidade e governança das contratações públicas.
+Diante das análises constantes do Estudo Técnico Preliminar, concluiu-se que a contratação pretendida é
+tecnicamente viável, administrativamente adequada e compatível com o interesse público, justificando o
+prosseguimento do procedimento licitatório compartilhado para formação de Ata de Registro de Preços destinada
+ao atendimento das demandas do CONSANE e dos Municípios Consorciados.
+2. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO:
+A solução consiste na formação de Ata de Registro de Preços, mediante licitação compartilhada conduzida pelo
+CONSANE, destinada à futura e eventual contratação de empresa especializada no fornecimento e locação de
+equipamentos de informática e na prestação de serviços de outsourcing de impressão corporativa, incluindo
+impressão, cópia, digitalização departamental e demais funcionalidades correlatas.
+A solução foi estruturada de forma a atender diferentes realidades administrativas e tecnológicas do CONSANE e
+dos Municípios Consorciados, permitindo que cada ente utilize os itens e serviços registrados conforme sua
+necessidade efetiva, disponibilidade orçamentária e planejamento administrativo, sem obrigatoriedade de
+contratação integral dos quantitativos previstos.
+A contratação deverá considerar todo o ciclo de vida do objeto, abrangendo desde a seleção e disponibilização dos
+equipamentos até sua utilização, manutenção, eventual substituição e destinação final dos insumos. Essa
+abordagem busca assegurar não apenas o atendimento imediato da demanda, mas também maior eficiência,
+durabilidade, continuidade operacional, economicidade e redução de impactos ambientais ao longo da execução.
+
+--- [pag. PDF 13] ---
+No caso dos equipamentos destinados à aquisição, a solução compreenderá o fornecimento de bens compatíveis
+com as especificações técnicas estabelecidas neste Termo de Referência, incluindo entrega, garantia com
+assistência técnica e demais componentes necessários à adequada utilização.
+Nos casos de locação, a solução compreenderá a disponibilização dos equipamentos durante o período contratual,
+acompanhada dos serviços necessários para manutenção de sua plena capacidade operacional. A contratada deverá
+realizar manutenção preventiva e corretiva, substituir peças e componentes, prestar suporte técnico e, quando
+necessário, substituir equipamentos defeituosos ou indisponíveis, de modo a preservar a continuidade dos serviços.
+Para o outsourcing de impressão, a solução deverá integrar equipamentos, manutenção, suporte técnico, reposição
+de peças, fornecimento de suprimentos (incluindo papel), monitoramento, controle de utilização e medição dos
+serviços. O objetivo é assegurar que a Administração Pública disponha de equipamentos adequados ao volume e
+às características de utilização de cada unidade, reduzindo períodos de indisponibilidade e melhorando o controle
+dos custos relacionados à impressão. A solução irá contemplar equipamentos de impressão monocromática e
+colorida, multifuncionais, em tamanhos A4 e A3, recursos de cópia e digitalização, impressão em rede e demais
+funcionalidades definidas nas especificações técnicas. A implantação deverá compreender a entrega, instalação,
+configuração, integração com a infraestrutura existente, testes, parametrização e liberação para utilização. A
+contratada deverá observar as características de rede, conectividade, sistemas operacionais e demais condições
+tecnológicas informadas pelo ente contratante.
+A manutenção preventiva dos equipamentos locados e do outsourcing de impressão deverá ser executada de forma
+a reduzir a ocorrência de falhas, preservar o desempenho e ampliar a vida útil dos equipamentos. A manutenção
+corretiva deverá compreender diagnóstico, reparo e substituição de peças ou equipamentos, observados os prazos
+e níveis de serviço definidos neste Termo de Referência.
+Nos serviços de outsourcing, o fornecimento de papel, toners, cartuchos e demais suprimentos abrangidos pelo
+contrato deverá ocorrer de forma planejada, evitando a interrupção dos serviços por ausência de insumos. A
+contratada deverá manter condições logísticas suficientes para reposição adequada, considerando os volumes de
+utilização dos equipamentos instalados, incluindo a obrigatoriedade de atender, ao mesmo tempo, 42 Municípios
+Consorciados, além daqueles que futuramente vierem a se consorciar.
+A execução também deverá contemplar mecanismos de monitoramento e controle que permitam aos gestores e
+fiscais acompanhar a utilização da solução. Deverão ser disponibilizadas informações suficientes para
+identificação dos equipamentos, localização, volumes de impressão, chamados técnicos, manutenções realizadas,
+períodos de indisponibilidade e demais dados necessários à fiscalização e validação das medições.
+No que se refere ao ciclo de vida tecnológico, a solução deverá evitar a disponibilização de equipamentos obsoletos
+ou incompatíveis com as necessidades da Administração Pública. Para os bens adquiridos, deverão ser
+consideradas características relacionadas à vida útil, garantia, disponibilidade de assistência técnica e possibilidade
+de manutenção. Para os equipamentos locados ou disponibilizados no outsourcing, deverá ser assegurada a
+substituição quando o equipamento deixar de apresentar desempenho compatível com as condições contratadas.
+A solução deverá também contemplar requisitos de segurança da informação. Equipamentos conectados às redes
+institucionais deverão ser configurados de forma adequada, com controle de acesso, proteção das informações
+processadas e restrição de serviços desnecessários. Nos equipamentos que possuam capacidade de armazenamento
+interno, deverão ser adotados procedimentos destinados à eliminação segura de informações antes de sua retirada,
+substituição ou devolução, observada, quando aplicável, a Lei Federal nº. 13.709/2018 (Lei Geral de Proteção de
+Dados – LGPD.
+Sob a perspectiva ambiental, o ciclo de vida deverá considerar o consumo de energia, a geração de resíduos
+eletroeletrônicos, a utilização de suprimentos de impressão, a substituição de peças e a destinação dos
+equipamentos ao final de sua utilização. Deverão ser adotados procedimentos de logística reversa e destinação
+
+--- [pag. PDF 14] ---
+ambientalmente adequada de cartuchos, toners, componentes eletrônicos, peças e equipamentos substituídos. A
+contratada também deverá observar práticas destinadas à redução de desperdícios, incluindo, quando tecnicamente
+aplicável, utilização de equipamentos energeticamente eficientes, disponibilizar recursos de impressão frente e
+verso, monitoramento dos volumes produzidos e redução de substituições prematuras decorrentes de baixa
+qualidade ou desempenho inadequado.
+Ao término da contratação, os equipamentos pertencentes à contratada deverão ser retirados de forma organizada,
+garantindo-se previamente a preservação ou eliminação segura das informações eventualmente armazenadas e
+evitando descontinuidade abrupta das atividades administrativas. Nos casos de aquisição definitiva, os bens
+permanecerão incorporados ao patrimônio dos respectivos entes contratantes, observadas as regras de gestão
+patrimonial aplicáveis.
+A solução deverá, portanto, ser compreendida de forma integrada, abrangendo planejamento, fornecimento ou
+disponibilização, instalação, operação, manutenção, suporte, medição, substituição, segurança, gestão ambiental e
+encerramento da execução. Dessa forma, a solução proposta busca assegurar ao CONSANE e aos Municípios
+Consorciados infraestrutura tecnológica adequada, continuidade operacional, padronização, controle dos serviços,
+racionalização dos custos e maior eficiência na utilização dos recursos públicos durante todo o ciclo de vida do
+objeto.
+3. REQUISITOS DA CONTRATAÇÃO:
+A contratação deverá observar requisitos técnicos, operacionais, ambientais, de segurança, suporte, continuidade
+e qualidade capazes de assegurar o adequado fornecimento dos equipamentos e a regular prestação dos serviços
+ao CONSANE e aos Municípios Consorciados. Conforme estabelecido no Documento de Formalização da
+Demanda – DFD nº. 07/2026, a solução irá contemplar simultaneamente as possibilidades de aquisição e locação
+de equipamentos de informática, em razão das diferentes necessidades dos entes participantes, além da prestação
+de serviços de outsourcing de impressão corporativa, incluindo impressão, cópia, digitalização departamental,
+manutenção, suporte técnico, fornecimento de insumos e sistema de gerenciamento de impressão.
+3.1. Requisitos gerais:
+A contratada deverá possuir estrutura técnica, operacional e logística suficiente para atender às demandas
+decorrentes da licitação compartilhada, inclusive quando houver solicitações simultâneas de diferentes Municípios
+Consorciados. Atualmente, o CONSANE possui 42 Municípios que o integram, podendo a qualquer tempo, vir a
+ter mais Municípios a se consorciar. Desta maneira, o(s) licitante(s) vencedor(es) deverão ter capacidade e estrutura
+para a atender a todos os Consorciados de forma simultânea. A solução deverá garantir:
+a) Fornecimento de equipamentos em conformidade com as especificações técnicas previstas neste Termo
+de Referência;
+b) Disponibilização dos equipamentos locados em perfeitas condições de funcionamento;
+c) Instalação, configuração e ativação dos equipamentos, quando aplicável;
+d) Manutenção preventiva e corretiva dos equipamentos abrangidos pelos serviços de locação e outsourcing;
+e) Assistência e suporte técnico durante toda a vigência contratual;
+f) Substituição de peças, componentes e equipamentos quando necessária;
+g) Fornecimento dos insumos necessários ao funcionamento dos equipamentos de impressão, conforme as
+condições previstas para o respectivo lote;
+h) Implantação e manutenção de sistema informatizado de gerenciamento e contabilização das impressões
+e cópias;
+i) Adequada execução das funcionalidades de impressão, cópia e digitalização departamental;
+j) Observância dos prazos, níveis de serviço e demais condições estabelecidas neste Termo de Referência.
+
+--- [pag. PDF 15] ---
+O DFD fundamenta essa solução na necessidade de padronização tecnológica, melhoria do desempenho, redução
+da heterogeneidade dos equipamentos e possibilidade de atualização tecnológica periódica nos casos dos serviços
+de locação.
+Além dos requisitos acima, considerando os parágrafos §1º e §2º, do artigo 67, da Lei Federal nº. 14.133/2021,
+poderá ser admitida a exigência de atestados com quantidades mínimas de até 50% (cinquenta por cento) das
+parcelas de maior relevância ou valor significativo do objeto da licitação, assim consideradas as que tenham valor
+individual igual ou superior a 4% (quatro por cento) do valor total estimado da contratação. Considerando que
+todos os lotes possuem valor superior aos 4% explícitos na legislação essa exigência encontra amparo legal. Desta
+forma, os quantitativos exigidos se mostram razoáveis, pois representam 5% do quantitativo total de cada item. A
+exigência se faz necessária tendo em vista a necessidade deste Consórcio em garantir que os serviços serão
+prestados a contento nos Consorciados.
+Juntamente com os documentos de habilitação, o(s) licitante(s) vencedor(es) deverá(ão) entregar um catálogo
+contendo todos os itens com fotos e seus descritivos (ficha técnica de cada produto) dos respectivos lotes
+arrematados. Todos os itens deverão atender aos requisitos de Avaliação da Conformidade para Bens de
+Informática definidos pela Portaria nº. 304, de 6 de novembro de 2023 do INMETRO, conforme sugestão constante
+no ETP.
+3.2. Requisitos específicos do Lote 1 – Aquisição de equipamentos de informática:
+Os equipamentos destinados à aquisição deverão atender integralmente às especificações mínimas estabelecidas
+neste Termo de Referência e em seus anexos, não sendo admitidos equipamentos com desempenho ou
+características inferiores às exigidas.
+Os bens deverão ser entregues completos, lacrados e em condições imediatas de utilização, acompanhados de todos
+os componentes, acessórios, cabos, fontes de alimentação, licenças obrigatórias, drivers e demais elementos
+necessários ao seu funcionamento. Os equipamentos deverão apresentar padrão tecnológico compatível com as
+necessidades atuais da Administração, considerando desempenho, durabilidade, segurança, compatibilidade e vida
+útil esperada.
+A contratada deverá garantir a conformidade dos equipamentos entregues e providenciar, sem ônus adicional, a
+substituição daqueles que apresentarem defeitos, vícios ou divergências em relação às especificações contratadas.
+Todos os itens deste lote deverão atender aos requisitos de Avaliação da Conformidade para Bens de Informática
+definidos pela Portaria nº. 304, de 6 de novembro de 2023 do INMETRO, conforme sugestão constante no ETP.
+Para este lote, será necessário apresentar atestados de capacidade técnica emitidos por pessoas jurídicas de direito
+público ou privado com quantidades mínimas de 5% do quantitativo do lote, ou seja, atestados que comprovem o
+fornecimento mínimo de 697 itens (podendo ser de quaisquer itens que compõe o lote 1 e desde que sejam de itens
+variados) demonstrando que a empresa tenha fornecido equipamentos e materiais de informática compatíveis com
+o objeto do certame, conforme possibilita o §2º, do artigo 67, da Lei Federal nº. 14.133/2021.
+3.2. Requisitos específicos do Lote 2 – Locação de equipamentos de informática:
+A locação deverá compreender os equipamentos e os serviços necessários à manutenção de sua plena capacidade
+operacional durante toda a execução contratual. Deverão estar incluídos:
+a) Instalação dos equipamentos;
+b) Assistência técnica;
+c) Manutenção preventiva;
+d) Manutenção corretiva;
+
+--- [pag. PDF 16] ---
+e) Suporte de hardware;
+f) Fornecimento das soluções de software previstas para o objeto;
+g) Substituição de componentes necessários ao funcionamento;
+h) Substituição do equipamento quando a recuperação não puder ocorrer dentro do prazo estabelecido.
+A contratada deverá manter os equipamentos em condições adequadas de funcionamento, evitando interrupções
+das atividades administrativas. As falhas deverão ser corrigidas dentro dos prazos estabelecidos e equipamentos
+com problemas recorrentes deverão ser substituídos imediatamente para que os serviços não sejam comprometidos.
+Todos os itens deste lote deverão atender aos requisitos de Avaliação da Conformidade para Bens de Informática
+definidos pela Portaria nº. 304, de 6 de novembro de 2023 do INMETRO, conforme sugestão constante no ETP.
+Para este lote, será necessário apresentar:
+a) Atestados de capacidade técnica emitidos por pessoas jurídicas de direito público ou privado com
+quantidades mínimas de 5% do quantitativo do lote, ou seja, atestados que comprovem o fornecimento
+mínimo de 438 itens (podendo ser de quaisquer itens que compõe o lote 2 e desde que sejam de itens
+variados) demonstrando que a empresa tenha prestado serviços de locação de equipamentos de
+informática (computador, notebook e nobreak), incluindo assistência técnica, suporte de hardware e
+licenças de software, sendo estes ininterruptos ou não e compatíveis com o objeto do certame, conforme
+possibilita o §2º, do artigo 67, da Lei Federal nº. 14.133/2021;
+b) Apresentar um catálogo contendo todos os itens do lote, com fotos coloridas e seus descritivos (ficha
+técnica de cada produto). Todos os itens deverão atender aos requisitos de Avaliação da Conformidade
+para Bens de Informática definidos pela Portaria nº. 304, de 6 de novembro de 2023 do INMETRO,
+conforme sugestão constante no ETP;
+c) Apresentar Manifestos de Transporte de Resíduos – MTR e Certificados de Destinação Final – CDF,
+conforme NBR nº. 1004, acompanhado de suas respectivas licenças, para fins de comprovação da efetiva
+movimentação e destinação dos resíduos;
+d) Apresentar Certificado de Regularidade no Cadastro Técnico Federal de Atividades Potencialmente
+Poluidoras e Utilizadoras de Recursos Ambientais – CTF/APP emitido pelo IBAMA em razão das
+atividades potencialmente poluidoras;
+e) Certidão Negativa de Embargos do IBAMA;
+f) Certidão Negativa de Débitos junto ao IBAMA;
+g) Comprovante de inscrição e registro no banco de dados do IBAMA indicando as atividades
+potencialmente poluidoras;
+h) Licença ou Declaração de Inexigibilidade de Licenciamento Ambiental/Dispensa emitida pelo órgão
+estadual competente;
+i) Licença, Declaração ou Certidão de Inexigibilidade de Licenciamento Ambiental//Dispensa emitida pelo
+órgão municipal competente;
+j) Licença de Operação para coleta e transporte de resíduos sólidos urbanos, resíduos Classes I e II;
+ Quando a licitante terceirizar os serviços ambientais, a documentação a ser apresentada poderá
+ser da empresa contratada pela licitante, desde que seja apresentado juntamente com os
+documentos o contrato ou instrumento equivalente que comprove a vinculação entre elas.
+k) Apresentar comprovação de que a empresa possui plano ou contratação vigente que garantam o
+gerenciamento, a coleta, o tratamento e a destinação final de resíduos gerados pela licitante;
+l) Apresentar declaração de disponibilidade dos equipamentos, ferramentas, insumos e demais recursos
+materiais indispensáveis à execução do objeto contratual;
+m) Apresentar atestado de visita técnica ou declaração de pleno conhecimento das condições locais de
+execução.
+
+--- [pag. PDF 17] ---
+3.2. Requisitos específicos do Lote 3 – Serviços de outsourcing de impressão:
+A prestação dos serviços de outsourcing de impressão deverá constituir solução integrada, abrangendo
+disponibilização dos equipamentos, papel, impressão, cópia, digitalização departamental e demais funcionalidades
+correlatas. A solução deverá contemplar:
+a) Disponibilização e instalação dos equipamentos;
+b) Configuração para utilização em rede;
+c) Impressão monocromática e/ou colorida, conforme o equipamento;
+d) Cópia;
+e) Digitalização;
+f) Manutenção preventiva;
+g) Manutenção corretiva;
+h) Assistência técnica;
+i) Fornecimento de peças e componentes;
+j) Fornecimento dos insumos abrangidos pela contratação;
+k) Substituição de equipamentos;
+l) Sistema informatizado de gerenciamento e contabilização das impressões e cópias;
+m) Geração de relatórios gerenciais.
+O sistema de gerenciamento deverá possibilitar o monitoramento do consumo, identificação de padrões de
+utilização e acompanhamento por unidade administrativa, setor ou usuário, quando tecnicamente aplicável. Essa
+ferramenta deverá ampliar o controle e a transparência sobre a utilização dos recursos de impressão e subsidiar
+medidas de racionalização do consumo. Os equipamentos multifuncionais deverão proporcionar os recursos de
+digitalização previstos nas especificações, contribuindo para os fluxos eletrônicos de documentos e para a redução
+da dependência de processos exclusivamente físicos.
+Para este lote, será necessário apresentar:
+a) Atestados de capacidade técnica emitidos por pessoas jurídicas de direito público ou privado com
+quantidades mínimas de 5% do quantitativo do lote, ou seja, atestados que comprovem o fornecimento
+mínimo de 82 itens (podendo ser de quaisquer itens que compõe o lote 3 e desde que sejam de itens
+variados) demonstrando que a empresa tenha executado serviços satisfatórios de outsourcing de
+impressão corporativa, abrangendo cópia, digitalização departamental e demais funcionalidades
+correlatas, incluindo assistência técnica, sendo estes ininterruptos ou não e compatíveis com o objeto do
+certame, conforme possibilita o §2º, do artigo 67, da Lei Federal nº. 14.133/2021;
+b) Apresentar um catálogo contendo todos os itens do lote, com fotos coloridas e seus descritivos (ficha
+técnica de cada produto). Todos os itens deverão atender aos requisitos de Avaliação da Conformidade
+para Bens de Informática definidos pela Portaria nº. 304, de 6 de novembro de 2023 do INMETRO,
+conforme sugestão constante no ETP;
+c) Apresentar Manifestos de Transporte de Resíduos – MTR e Certificados de Destinação Final – CDF,
+conforme NBR nº. 1004, acompanhado de suas respectivas licenças, para fins de comprovação da efetiva
+movimentação e destinação dos resíduos;
+d) Apresentar Certificado de Regularidade no Cadastro Técnico Federal de Atividades Potencialmente
+Poluidoras e Utilizadoras de Recursos Ambientais – CTF/APP emitido pelo IBAMA em razão das
+atividades potencialmente poluidoras;
+e) Certidão Negativa de Embargos do IBAMA;
+f) Certidão Negativa de Débitos junto ao IBAMA;
+g) Comprovante de inscrição e registro no banco de dados do IBAMA indicando as atividades
+potencialmente poluidoras;
+h) Licença ou Declaração de Inexigibilidade de Licenciamento Ambiental/Dispensa emitida pelo órgão
+estadual competente;
+
+--- [pag. PDF 18] ---
+i) Licença, Declaração ou Certidão de Inexigibilidade de Licenciamento Ambiental//Dispensa emitida pelo
+órgão municipal competente;
+j) Licença de Operação para coleta e transporte de resíduos sólidos urbanos, resíduos Classes I e II;
+ Quando a licitante terceirizar os serviços ambientais, a documentação a ser apresentada poderá
+ser da empresa contratada pela licitante, desde que seja apresentado juntamente com os
+documentos o contrato ou instrumento equivalente que comprove a vinculação entre elas.
+k) Apresentar comprovação de que a empresa possui plano ou contratação vigente que garantam o
+gerenciamento, a coleta, o tratamento e a destinação final de resíduos gerados pela licitante;
+l) Apresentar declaração de disponibilidade dos equipamentos, ferramentas, insumos e demais recursos
+materiais indispensáveis à execução do objeto contratual;
+m) Apresentar atestado de visita técnica ou declaração de pleno conhecimento das condições locais de
+execução.
+Quando a licitante terceirizar os serviços ambientais, a documentação a ser apresentada poderá ser da empresa
+contratada pela licitante, desde que seja apresentado juntamente com os documentos o contrato ou instrumento
+equivalente que comprove a vinculação entre elas.
+3.3. Exigência de amostras e prova de conceito:
+Considerando a recomendação expressa constante do ETP, considerando ainda complexidade e a diversidade dos
+equipamentos e soluções pretendidos, conforme previsto no parágrafo §3º, do artigo 17, da Lei Federal nº.
+14.133/2021, será exigido a apresentação de amostras dos equipamentos. Cada licitante, declarado provisoriamente
+vencendor do certame, deverá apresentar as amostras para os lotes dos quais participou, sendo uma amostra de
+cada item do lote. As amostras deverão ser entregues na sede do CONSANE, situado à Praça Tenente Francisco
+Souza Lima, nº. 22, Centro, Lavras/MG, CEP: 37200-022, das 8:00hs à 17:00hs (horário de funcionamento do
+Consórcio), em dias úteis. As amostras deverão ser entregues em até 3 (três) dias úteis, contados da convocação
+realizada pela Pregoeira, sob pena de desclassificação. A apresentação do material deve ocorrer devidamente
+embaladas em caixas, não podendo vir em embalagens abertas e/ou embalagens violadas, ou seja, os itens deverão
+ser apresentdos em embalagens fechadas e lacradas.
+Considerando que o Lote 3 compreende a contratação de solução integrada de outsourcing de impressão,
+abrangendo não apenas a disponibilização de equipamentos, mas também sistema informatizado de gerenciamento
+e contabilização de impressões e cópias, monitoramento do consumo, identificação de padrões de utilização,
+acompanhamento por unidade administrativa, setor ou usuário e geração de relatórios gerenciais, mostra-se
+tecnicamente necessária, além da amostra, a realização de Prova de Conceito – POC. A exigência tem por
+finalidade permitir à Administração verificar, de forma objetiva e prática, se a solução ofertada pelo licitante
+provisoriamente classificado em primeiro lugar atende efetivamente às funcionalidades e aos requisitos técnicos
+estabelecidos no Termo de Referência, reduzindo o risco de contratação de solução incompatível, insuficiente ou
+incapaz de atender às necessidades do CONSANE e dos Municípios Consorciados. A simples apresentação de
+catálogos, fichas técnicas ou declarações comerciais não permite, isoladamente, aferir de maneira adequada o
+funcionamento integrado do sistema, especialmente quanto às funcionalidades de gerenciamento, contabilização,
+monitoramento, geração de relatórios e integração dos equipamentos em rede. A Prova de Conceito constitui,
+portanto, mecanismo de verificação da conformidade da proposta com as especificações do objeto, contribuindo
+para o julgamento objetivo, a segurança da contratação, a eficiência administrativa e a prevenção de riscos
+relacionados à futura execução contratual.A avaliação irá ocorrer mediante os critérios previamente definidos,
+objetivos e verificáveis, constantes no Anexo deste Termo de Referência, sendo realizada exclusivamente em
+relação ao licitante provisoriamente classificado em primeiro lugar. A POC irá ocorrer no último dia útil para a
+entrega das amostras em horário a ser indicado pela Pregoeira no chat.
+
+--- [pag. PDF 19] ---
+Juntamente com a entrega das amostras, o(s) licitante(s) vencedor(es) deverá(ão) entregar um catálogo contendo
+todos os itens, com fotos e seus descritivos (ficha técnica de cada produto) dos respectivos lotes arrematados.
+Todos os itens deverão atender aos requisitos de Avaliação da Conformidade para Bens de Informática definidos
+pela Portaria nº. 304, de 6 de novembro de 2023 do INMETRO, conforme sugestão constante no ETP.
+4. EXECUÇÃO DO OBJETO:
+A execução do objeto deverá ocorrer de forma planejada, contínua e compatível com as necessidades do
+CONSANE e dos Municípios Consorciados, observando-se as condições definidas neste Termo de Referência, no
+Edital, na Ata de Registro de Preços, nas Ordens de Fornecimento ou Ordens de Serviço e nos respectivos
+instrumentos contratuais.
+A execução será realizada sob demanda, de acordo com as necessidades efetivamente apresentadas pelos entes
+participantes, não havendo obrigatoriedade de contratação integral dos quantitativos registrados. Cada contratação
+deverá indicar, no mínimo, o item ou serviço solicitado, quantitativo, local de entrega ou instalação, responsável
+pelo acompanhamento e demais informações necessárias à execução.
+A contratada somente deverá iniciar o fornecimento ou a prestação dos serviços após o recebimento formal da
+ordem correspondente, devendo observar rigorosamente as especificações, quantitativos, locais e prazos nela
+estabelecidos.
+A entrega dos equipamentos destinados ao lote de aquisição e a disponibilização dos equipamentos locados em
+pleno funcionamento deverão ocorrer no prazo máximo de 7 (sete) dias corridos, contado da emissão da Ordem
+de Fornecimento ou Ordem de Serviço. Para demandas caracterizadas como urgentes, o prazo previsto é de até 3
+(três) dias corridos.
+Eventuais solicitações de prorrogação deverão ser apresentadas antes do término do prazo, devidamente
+justificadas e acompanhadas dos elementos necessários à análise pela Administração, não sendo admitida
+prorrogação automática.
+4.1. Nível de serviço:
+Considerando o trato continuado e a necessidade de se manter os serviços de locação e outsourcing de impressão
+de forma ininterruptas, é necessário definir os seguintes prazos em termos de nível de serviço:
+SERVIÇOS PRAZO LIMITE PARA
+ATENDIMENTO
+Mudança de local e reinstalação de equipamentos; 	2 dias úteis
+Reposição de suprimentos utilizados até o fim, incluindo papel 	24 horas
+Atendimento de chamados de manutenção corretiva de qualquer
+equipamento pertencente à solução (chamado e chegada do técnico ao
+local)
+2 dias úteis
+Restabelecimento do perfeito funcionamento
+do software de gerenciamento da solução em caso de falha; Atendimento imediato
+Restabelecimento das perfeitas condições de funcionamento do
+equipamento de cópia/impressão/digitalização em manutenção corretiva Atendimento imediato
+Substituição de equipamento de cópia/impressão/digitalização em
+manutenção por outro igual 2 dias úteis
+Substituição imediata de equipamento de cópia/impressão/digitalização
+sem capacidade plena de funcionamento por outro igual. 3 dias úteis
+
+--- [pag. PDF 20] ---
+Entrega dos equipamentos 7 dias corridos após
+emissão da OS
+Entrega para demandas urgentes de equipamentos 3 dias corridos após
+emissão da OS
+Os contratados deverão disponibilizar canais de atendimento (e-mail e telefone) para que os contatos entre o
+CONSANE, os Municípios Consorciados e a empresa sejam efetivados de forma imediata.
+5. DA GESTÃO CONTRATUAL:
+A gestão e a fiscalização da execução contratual deverão ser realizadas de forma sistemática, documentada e
+compatível com a natureza do objeto, observando-se as disposições do Edital, da Ata de Registro de Preços, deste
+Termo de Referência, dos contratos decorrentes e das Ordens de Fornecimento ou Ordens de Serviço emitidas pelo
+CONSANE ou pelos Municípios Consorciados.
+O acompanhamento da execução deverá buscar assegurar o cumprimento integral das obrigações assumidas pela
+contratada, a conformidade dos equipamentos fornecidos ou locados, a continuidade dos serviços, o atendimento
+dos níveis de serviço, a correta medição dos serviços executados e a adequada aplicação dos recursos públicos.
+Para a gestão da Ata, será designado um Gestor e um Fiscal para acompanhar a execução do instrumento bem
+como par atuar junto aos Municípios Consorciados. Em paralelo, cada Município que utilizar a Ata, seja por meio
+de Contratos de Programa ou Adesão, deverão nomear seus Gestores e Fiscais de Contrato, inclusive para fazer a
+gestão de riscos da presente contratação.
+O gestor do contrato será responsável pela coordenação geral da execução contratual, cabendo-lhe acompanhar o
+cumprimento das obrigações administrativas, técnicas e financeiras. Compete ao gestor, entre outras atribuições:
+a) Acompanhar o desenvolvimento da execução contratual;
+b) Manter controle dos prazos e obrigações da contratada;
+c) Acompanhar as informações produzidas pela fiscalização;
+d) Adotar providências diante de ocorrências ou descumprimentos;
+e) Encaminhar notificações formais quando necessárias;
+f) Acompanhar a aplicação de glosas, retenções ou demais medidas previstas;
+g) Verificar a manutenção das condições necessárias à execução;
+h) Coordenar eventual aplicação de sanções;
+i) Promover os procedimentos necessários à prorrogação, alteração ou encerramento do contrato, quando
+cabível.
+A fiscalização técnica deverá verificar a conformidade dos equipamentos, serviços e demais obrigações
+relacionadas ao objeto. Nos equipamentos adquiridos, deverão ser conferidos, conforme aplicável:
+a) Quantidade;
+b) Marca e modelo;
+c) Especificações técnicas;
+d) Acessórios;
+e) Funcionamento;
+f) Instalação;
+g) Configuração;
+h) Garantia;
+i) Documentação apresentada.
+Nos equipamentos locados e nos serviços de outsourcing, a fiscalização deverá acompanhar:
+
+--- [pag. PDF 21] ---
+a) Disponibilidade dos equipamentos;
+b) Funcionamento regular;
+c) Manutenções preventivas e corretivas;
+d) Substituição de equipamentos;
+e) Reposição de peças e componentes;
+f) Fornecimento de suprimentos;
+g) Atendimento de chamados;
+h) Cumprimento dos níveis de serviço;
+i) Funcionamento do sistema de gerenciamento;
+j) Relatórios de medição e utilização.
+Durante toda a execução contratual, todas as ocorrências relevantes verificadas durante a execução deverão ser
+formalmente registradas. Esses registros deverão subsidiar a avaliação da execução, a medição dos serviços, a
+eventual aplicação de glosas e a adoção de medidas sancionatórias quando necessárias.
+6. CRITÉRIOS DE MEDIÇÃO E DE PAGAMENTO:
+A medição e o pagamento deverão observar a natureza específica de cada lote, de modo que somente sejam pagos
+os bens efetivamente recebidos e os serviços efetivamente prestados e aceitos pela Administração Pública. Para os
+serviços continuados, a medição deverá ser realizada mensalmente, com base em elementos objetivos que
+permitam verificar a execução e o cumprimento das obrigações contratuais.
+Os pagamentos serão realizados após o recebimento e aceite dos bens ou serviços, mediante apresentação da
+respectiva nota fiscal e dos documentos exigidos para liquidação da despesa. Após a liquidação, os pagamentos
+ocorrerão em ordem cronológica de pagamento, devendo ocorrer em até 30 dias corridos contados da data da
+liquidação da respectiva Nota Fiscal.
+Destaca-se que cada Município Consorciado será responsável pelo pagamento dos bens e serviços por ele
+efetivamente contratados, medidos e aceitos, não havendo transferência ao CONSANE da responsabilidade
+financeira por obrigações decorrentes de contratos firmados diretamente pelos entes participantes. Quando ocorer
+os Contratos de Programa, o prazo de 30 dias corridos para pagamento será contado a partir da data em que o
+Município efetivar a transferência financeira ao CONSANE.
+7. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR:
+Considerando tratar-se de itens e serviços comuns, sugere-se que o processo ocorra por meio da modalidade
+licitatória Pregão, em sua forma Eletrônica, utilizando o procedimento auxiliar Registro de Preços, tendo em
+vista que neste último caso, não há obrigatoriedade da contratação, o que possibilita à Administração Pública
+solicitar os itens à medida de sua demanda e disponibilidade orçamentária-financeira.
+O processo seguirá os ditames da Lei Federal nº. 14.133/2021, utilizando como critério de julgamento o menor
+preço (art. 33, I) em cada lote. A adoção do julgamento por lote mostra-se compatível com a natureza técnica
+integrada de cada grupo de solução, especialmente porque determinados componentes devem permanecer sob
+responsabilidade de um mesmo fornecedor para assegurar adequada execução, manutenção, suporte e
+responsabilização, tornando inviável a fragmentação entre múltiplos vencedores sem prejuízo da coesão técnica e
+da responsabilidade contratual.
+O modo de disputa adotado será o aberto, nos termos do art. 56, inciso I, da Lei Federal nº. 14.133/2021, com
+apresentação de lances públicos e sucessivos, em sessão pública conduzida pela Pregoeira designada.
+
+--- [pag. PDF 22] ---
+Conforme parágrafo §1º, artigo 58, da Lei Federal nº. 14.133/2021, no momento da apresentação das propostas,
+os licitantes deverão comprovar o recolhimento de quantia a título de garantia de proposta, como requisito de pré-
+habilitação no valor de 1% da contratação (referente ao(s) lotes(s) em que efetivamente participar). O licitante que
+não apresentar a garantia será desclassificado e estará impedido de seguir as próximas fases do certame. A garantia
+é destinada a assegurar a seriedade da proposta apresentada e resguardar a Administração Pública contra a retirada
+injustificada da proposta ou a adoção de comportamentos que comprometam a regularidade e a credibilidade do
+procedimento licitatório.
+A garantia poderá ser apresentada, a critério da licitante, em caução em dinheiro ou em títulos da dívida pública,
+seguro-garantia ou fiança bancária, nos termos do art. 96, § 1º, da Lei Federal nº. 14.133/2021. A garantia deverá
+ser apresentada em nome da licitante e em favor do CONSANE, devendo o respectivo comprovante integrar a
+documentação apresentada no sistema eletrônico como requisito de validade e aceitabilidade da proposta. A
+garantia da proposta possui natureza jurídica própria, restrita à fase licitatória, não se confundindo com a garantia
+de execução do contrato prevista no art. 96 da Lei Federal nº. 14.133/2021. A garantia da proposta será executada
+em favor do Consórcio caso a licitante vencedora retire injustificadamente sua proposta durante o prazo de validade
+ou pratique atos que comprometam a seriedade da proposta.
+Em razão da inversão de fases, todos os licitantes deverão enviar os documentos de habilitação, conforme descritos
+no item 3 “Requisitos da Contratação”. Além disso, deverão apresentar os documentos de habilitação jurídica;
+técnica; fiscal, social e trabalhista; bem como econômico-financeira que constarão do instrumento convocatório.
+Em razão dos valores vultuosos e da complexidade da solução, será exigido a apresentação do patrimônio líquido
+correspondente a 10% (dez por cento) do valor estimado da contratação.
+7.1. Justificativa para o parcelamento da solução:
+Conforme indicado no ETP, esta contratação irá adotar o parcelamento em três lotes distintos, considerando a
+relevância de se aumentar a competitividade no processo. Os itens foram agrupados por similaridade e separados
+em lotes considerando suas especificidades. A divisão adotada permite melhor organização do objeto, favorecendo
+a execução contratual por empresas com expertise específica em cada conjunto de atividades, sem comprometer a
+padronização e a eficiência dos serviços.
+Dessa forma, a estruturação do objeto mostra-se tecnicamente adequada e coerente, garantindo organização,
+especialização na execução e melhor gestão contratual, conforme detalhado na planilha de especificação.
+7.2. Inversão de Fases do Procedimento Licitatório:
+A adoção da inversão das fases de julgamento e habilitação, com a análise prévia da habilitação dos licitantes antes
+da apreciação das propostas de preços, encontra respaldo no art. 17, §1º, da Lei Federal nº. 14.133/2021, que
+autoriza expressamente a Administração Pública a alterar a ordem das fases do procedimento licitatório, desde que
+o faça de forma motivada, justificada e em atenção ao interesse público. De acordo com a referida Lei, observamos
+no artigo 17:
+Art. 17. O processo de licitação observará as seguintes fases, em sequência:
+I. Preparatória;
+II. De divulgação do edital de licitação;
+III. De apresentação de propostas e lances, quando for o caso;
+IV. De julgamento;
+V. De habilitação;
+VI. Recursal;
+VII. De homologação.
+
+--- [pag. PDF 23] ---
+“§ 1º A fase referida no inciso V do caput deste artigo poderá, mediante ato motivado com
+explicitação dos benefícios decorrentes, anteceder as fases referidas nos incisos III e IV do caput
+deste artigo, desde que expressamente previsto no edital de licitação’’ (Grifos nossos).
+O objeto a ser licitado consiste na contratação de empresa especializada no fornecimento e locação de
+equipamentos de informática, bem como na prestação de serviços de outsourcing de impressão corporativa,
+abrangendo impressão, cópia, digitalização departamental e demais funcionalidades correlatas, visando atender às
+demandas do Consórcio Regional de Saneamento Básico – CONSANE e de seus Municípios Consorciados. Trata-
+se, portanto, de contratação de grande vulto financeiro, de grande relevância operacional e estratégica, cuja
+execução inadequada impacta diretamente no funcionamento do CONSANE e dos Municípios, podendo
+comprometer a prestação de serviços públicos essenciais.
+No histórico de contratações similares realizadas por este Consórcio em procedimentos licitatórios com mesma
+complexidade, verificou-se, de forma reiterada, a participação de licitantes sem capacidade técnica, operacional e
+econômico-financeira compatível com o objeto, os quais apresentam propostas artificialmente reduzidas, com o
+único intuito de influenciar o resultado do certame, prática esta conhecida na jurisprudência do Tribunal de Contas
+da União como “prática do coelho” onde empresas dão lances muito baixos para liderar, mas depois desistem ou
+alegam inépcia, visando beneficiar um segundo colocado combinado ou frustrar a licitação. Tais condutas
+comprometem a competitividade saudável, geram atrasos, recursos infundados e desistências, ocasionando
+prejuízos ao erário e à continuidade dos serviços.
+A inversão das fases, ao permitir que a habilitação seja analisada previamente, assegura que somente licitantes
+efetivamente aptos, sob os aspectos técnico, operacional, econômico-financeiro e jurídico, participem da fase de
+apresentação e julgamento das propostas de preços. Com isso, evita-se que empresas desprovidas de estrutura
+mínima ou experiência comprovada interfiram artificialmente no resultado do certame, promovendo uma
+competição mais qualificada, realista e alinhada à capacidade de execução do objeto.
+Sob o ponto de vista técnico, a medida contribui para:
+a) Redução do risco de inexecução contratual;
+b) Mitigação de preços inexequíveis;
+c) Maior eficiência procedimental;
+d) Diminuição de recursos meramente protelatórios;
+e) Garantia da continuidade e qualidade dos serviços.
+Sob o aspecto jurídico, a inversão das fases não restringe a competitividade, tampouco viola o princípio da
+isonomia, ao contrário, qualifica a disputa, prestigia os princípios da eficiência, economicidade, planejamento,
+segurança jurídica e proteção ao interesse público, todos expressamente previstos na Lei Federal nº. 14.133/2021.
+Dessa forma, considerando o histórico do Consórcio em contratações de mesma complexidade, a ocorrência
+reiterada de licitantes aventureiros, o vulto, a complexidade e a essencialidade do objeto e a expressa autorização
+legal, resta plenamente justificada, adequada e proporcional a adoção da inversão das fases de julgamento e
+habilitação, como medida apta a resguardar o interesse público, assegurar a seleção da proposta mais vantajosa e
+garantir a contratação de empresa efetivamente capaz de executar o objeto licitado, nos termos do art. 17, §1º, da
+Lei Federal nº. 14.133/2021.
+8. DA VISITA TÉCNICA:
+Fica facultado aos licitantes a possibilidade de realizar vistoria, por visita técnica ao Consórcio ou aos Municípios
+Consorciados destinada ao reconhecimento das condições de execução do objeto. A visita técnica deverá ser
+agendada previamente à realização do certamente em horário comercial, de 8:00hs às 17:00hs (horário de Brasília)
+através do endereço eletrônico: licitacao@consane.mg.gov.br.
+
+--- [pag. PDF 24] ---
+Contudo, o licitante que optar por não realizar a referida visita deverá apresentar junto aos documentos de
+habilitação a Declaração de Conhecimento Tácito do objeto.
+9. ADEQUAÇÃO ORÇAMENTÁRIA E DISPONIBILIDADE FINANCEIRA:
+As despesas decorrentes da presente contratação correrão à conta de recursos orçamentários devidamente
+previstos, vinculados e consignados no orçamento vigente dos Consorciados. Nos termos do art. 82 da Lei nº.
+14.133/2021, o Sistema de Registro de Preços não impõe obrigatoriedade de contratação, razão pela qual não se
+exige a prévia disponibilidade de recursos financeiros para a realização do procedimento licitatório e a
+formalização da Ata de Registro de Preços. A exigência de disponibilidade orçamentária e financeira aplica-se
+apenas no momento da efetiva contratação.
+Entretanto, as despesas oriundas de objetos adquiridos ou locados pelo CONSANE correrão à conta das
+classificações orçamentárias: 01.001.000.17.512.001.1.003.4.4.90.52.00 (Equipamento e Material Permanente) -
+Ficha 01 - Fonte 1.500.000 e 01.001.000.17 512 003.2.001.3.3.90.39.00 (Outros Serviços de Terceiros Pessoa
+Jurídica) - Ficha 008 - Fonte 1.500.000, já consignadas na Resolução Orçamentária do presente exercício de 2026.
+10. DA PUBLICIDADE E DO SIGILO DAS INFORMAÇÕES:
+As informações constantes deste Termo de Referência revestem-se de natureza pública, não sendo classificadas
+como sigilosas, em observância aos princípios da transparência e da publicidade que regem a Administração
+Pública.
+Lavras/MG, 17 de agosto de 2026.
+Victor Diniz Bachmann
+Diretor de Obras e Planejamento Urbano
+Engenheiro Civil/CREA-MG 402352
+CONSANE
+
+--- [pag. PDF 25] ---
+ANEXO DO TR
+CRITÉRIOS PARA REALIZAÇÃO E AVALIAÇÃO DA PROVA DE CONCEITO – POC
+LOTE 3 – SERVIÇOS DE OUTSOURCING DE IMPRESSÃO CORPORATIVA
+A Prova de Conceito – POC tem por finalidade verificar, de forma prática e objetiva, a aderência da solução
+ofertada pelo licitante provisoriamente classificado em primeiro lugar no Lote 3 – Serviços de Outsourcing de
+Impressão Corporativa aos requisitos técnicos e funcionais estabelecidos no Termo de Referência.
+O Lote 3 compreende solução integrada envolvendo disponibilização e instalação de equipamentos, configuração
+para utilização em rede, impressão, cópia, digitalização, manutenção preventiva e corretiva, assistência técnica,
+fornecimento de peças, componentes e insumos, substituição de equipamentos, sistema informatizado de
+gerenciamento e contabilização das impressões e cópias e geração de relatórios gerenciais.
+A realização da POC busca verificar se as funcionalidades declaradas na proposta comercial se encontram
+efetivamente disponíveis e operacionais na solução apresentada, reduzindo o risco de contratação de sistema
+incompatível ou insuficiente para atendimento das necessidades do CONSANE e dos Municípios Consorciados.
+A Prova de Conceito será acompanhada por equipe designada pelo CONSANE, responsável pela verificação do
+atendimento aos requisitos deste Anexo. A demonstração ocorrerá na sede do CONSANE, situada à Praça Tenente
+Francisco Souza Lima, nº. 22, Centro, CEP: 37.200-022, Lavras/MG, no último dia permitido para a entrega das
+amostras. O horário será indicado pela Pregoeira no chat.
+Todos os testes serão executados mediante comandos e situações definidas pela equipe avaliadora, de forma a
+permitir a comprovação prática das funcionalidades. Não será considerada suficiente, para comprovação de
+funcionalidade submetida à POC, a mera apresentação de:
+a) Slides ou apresentações institucionais;
+b) Vídeos previamente gravados;
+c) Material publicitário;
+d) Declaração do fabricante ou do licitante desacompanhada da demonstração prática;
+e) Telas estáticas ou simulações sem efetiva operação do sistema.
+Manuais, catálogos e documentos técnicos poderão ser utilizados como elementos complementares, mas não
+substituirão a demonstração prática quando o requisito estiver incluído na matriz de testes.
+MATRIZ DE AVALIAÇÃO DA PROVA DE CONCEITO
+A solução deverá demonstrar, no mínimo, as seguintes funcionalidades:
+ITEM FUNCIONALIDADE A
+SER COMPROVADA PROCEDIMENTO DE VERIFICAÇÃO 	RESULTADO
+1 Acesso ao sistema de
+gerenciamento
+Demonstrar acesso ao sistema por meio de usuário
+autorizado, permitindo visualização do ambiente de
+gerenciamento.
+Atende / Não atende
+2 Identificação dos
+equipamentos
+Demonstrar que o sistema permite identificar e
+individualizar os equipamentos monitorados, possibilitando
+sua vinculação à estrutura administrativa correspondente.
+Atende / Não atende
+3 Monitoramento dos
+equipamentos
+Demonstrar a visualização dos equipamentos cadastrados e
+das informações necessárias ao acompanhamento de sua
+utilização.
+Atende / Não atende
+
+--- [pag. PDF 26] ---
+4 Contabilização de
+impressões
+Realizar impressão de teste e demonstrar seu registro no
+sistema de gerenciamento. Atende / Não atende
+5 	Contabilização de cópias Realizar cópia de documento e demonstrar seu respectivo
+registro no sistema. Atende / Não atende
+6
+Diferenciação de
+impressão
+monocromática e colorida
+Quando aplicável ao equipamento demonstrado, comprovar
+que o sistema diferencia e contabiliza impressões
+monocromáticas e coloridas.
+Atende / Não atende
+7 Acompanhamento do
+consumo
+Demonstrar consulta aos volumes de impressão e/ou cópia
+registrados no sistema. Atende / Não atende
+8 	Consulta por período Demonstrar a possibilidade de selecionar período
+determinado para consulta dos registros de utilização. Atende / Não atende
+9 Acompanhamento por
+unidade administrativa
+Demonstrar que o sistema possibilita identificar ou agrupar
+o consumo por unidade administrativa, quando configurado
+dessa forma.
+Atende / Não atende
+10 Acompanhamento por
+setor
+Demonstrar que o sistema possibilita identificar ou agrupar
+o consumo por setor administrativo, quando tecnicamente
+aplicável.
+Atende / Não atende
+11 Acompanhamento por
+usuário
+Demonstrar a possibilidade de acompanhamento do
+consumo por usuário, quando tecnicamente aplicável e
+configurado no ambiente.
+Atende / Não atende
+12 Geração de relatórios
+gerenciais
+Gerar relatório contendo informações de utilização dos
+equipamentos e quantitativos de impressões e/ou cópias. Atende / Não atende
+13 Aplicação de filtros aos
+relatórios
+Demonstrar aplicação de filtros, ao menos por período e
+equipamento ou unidade administrativa. Atende / Não atende
+14 Exportação de
+informações
+Demonstrar a possibilidade de exportação ou geração de
+arquivo contendo informações ou relatórios produzidos pelo
+sistema.
+Atende / Não atende
+15 Digitalização de
+documentos
+Demonstrar operação de digitalização em equipamento
+multifuncional ofertado. Atende / Não atende
+16 Utilização em ambiente
+de rede
+Demonstrar equipamento conectado e operacional em
+ambiente de rede, executando impressão a partir de estação
+conectada.
+Atende / Não atende
+17 Atualização dos registros
+no sistema
+Após realização das operações de teste, demonstrar a
+correspondente atualização das informações no sistema de
+gerenciamento.
+Atende / Não atende
+18 Disponibilização de
+informações gerenciais
+Demonstrar que as informações consolidadas pelo sistema
+possibilitam identificar padrões e volumes de utilização dos
+equipamentos.
+Atende / Não atende
+Os requisitos previstos na matriz serão classificados individualmente como:
+a) ATENDE: quando a funcionalidade for demonstrada e executada satisfatoriamente durante a POC;
+b) NÃO ATENDE: quando a funcionalidade não puder ser demonstrada, apresentar funcionamento
+incompatível com o requisito ou depender de solução não integrante da proposta apresentada.
+Por se tratar de requisitos vinculados às funcionalidades essenciais previstas no Termo de Referência, a solução
+deverá obter resultado “ATENDE” em todos os itens considerados obrigatórios na matriz de avaliação.
+O resultado será registrado como:
+a) APROVADA: quando a solução atender integralmente aos requisitos obrigatórios estabelecidos neste
+Anexo;
+b) REPROVADA: quando constatado o não atendimento de requisito obrigatório.
