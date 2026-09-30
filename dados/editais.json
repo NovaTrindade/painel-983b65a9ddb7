@@ -1,18 +1,18 @@
 {
- "gerado": "2026-09-29T05:19:35.140Z",
- "referencia": "2026-09-29",
+ "gerado": "2026-09-30T11:32:40.326Z",
+ "referencia": "2026-09-30",
  "criterioVersao": 3,
  "execucao": {
-  "universoAberto": 2970,
-  "descartados": 2942,
+  "universoAberto": 3020,
+  "descartados": 2992,
   "candidatos": 28,
   "itensObtidos": 28,
   "itensFalhou": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 654,
-    "novos": 645,
+    "total": 668,
+    "novos": 656,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -21,8 +21,8 @@
    },
    {
     "consulta": "gestao municipal",
-    "total": 757,
-    "novos": 348,
+    "total": 802,
+    "novos": 360,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -31,8 +31,8 @@
    },
    {
     "consulta": "sistema integrado",
-    "total": 1832,
-    "novos": 539,
+    "total": 1868,
+    "novos": 549,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -41,8 +41,8 @@
    },
    {
     "consulta": "licenciamento uso",
-    "total": 211,
-    "novos": 125,
+    "total": 212,
+    "novos": 127,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -51,7 +51,7 @@
    },
    {
     "consulta": "software gestao",
-    "total": 226,
+    "total": 227,
     "novos": 54,
     "paginasOk": 5,
     "paginasFalhas": 0,
@@ -61,8 +61,8 @@
    },
    {
     "consulta": "locacao software",
-    "total": 185,
-    "novos": 78,
+    "total": 181,
+    "novos": 75,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -71,8 +71,8 @@
    },
    {
     "consulta": "cessao uso",
-    "total": 117,
-    "novos": 57,
+    "total": 120,
+    "novos": 59,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -81,8 +81,8 @@
    },
    {
     "consulta": "arrecadacao",
-    "total": 308,
-    "novos": 258,
+    "total": 314,
+    "novos": 265,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -91,8 +91,8 @@
    },
    {
     "consulta": "tributaria",
-    "total": 314,
-    "novos": 75,
+    "total": 320,
+    "novos": 80,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,8 +101,8 @@
    },
    {
     "consulta": "folha pagamento",
-    "total": 265,
-    "novos": 202,
+    "total": 260,
+    "novos": 201,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -111,8 +111,8 @@
    },
    {
     "consulta": "gestao educacional",
-    "total": 50,
-    "novos": 3,
+    "total": 57,
+    "novos": 7,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -121,8 +121,8 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 152,
-    "novos": 27,
+    "total": 150,
+    "novos": 34,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -131,8 +131,8 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 904,
-    "novos": 528,
+    "total": 900,
+    "novos": 525,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -141,8 +141,8 @@
    },
    {
     "consulta": "conversao dados",
-    "total": 96,
-    "novos": 31,
+    "total": 93,
+    "novos": 28,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -155,16 +155,16 @@
   "paginasPerdidas": 0,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 8.6
+  "minutosBusca": 12.6
  },
  "resumo": {
   "total": 28,
-  "prioridade": 4,
+  "prioridade": 3,
   "avaliar": 0,
-  "triar": 24,
-  "urgentes7d": 6,
-  "valorTotal": 3811022.08,
-  "valorUrgentes": 1205180.01,
+  "triar": 25,
+  "urgentes7d": 7,
+  "valorTotal": 3349253.26,
+  "valorUrgentes": 1353430.77,
   "suspeitos": 1
  },
  "editais": [
@@ -177,7 +177,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "50",
    "fimVigencia": "2026-10-01T08:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 340322.75,
    "qtdItens": 10,
    "modulos": [
@@ -198,36 +198,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/46643474000152/2026/88"
   },
   {
-   "id": "88541354000194-2026-701",
-   "orgao": "MUNICIPIO DE PALMEIRA DAS MISSOES",
-   "municipio": "Palmeira das Missões",
-   "uf": "RS",
-   "objeto": "Destina-se a abertura de licitação - pregão eletrônico visando a contratação de solução integrada de tecnologia da informação, sob a forma de Software como Serviço (SaaS) em nuvem, destinada a atender o Poder Executivo Municipal, o Poder Legislativo Municipal (Câmara de Vereadores) e o Fundo Municipal de Aposentados e Pensionistas (FAPS), abrangendo implantação, migração de dados, suporte, manutenção corretiva/adaptativa/evolutiva, treinamento e todos os serviços necessários à disponibilização e operação de Sistema de Gestão Pública Municipal (SGM) que contemple, de forma integrada e segura, os processos administrativos, fiscais, financeiros, patrimoniais, de recursos humanos e gestão documental das três entidades, mediante módulos independentes gerenciados centralmente pelo Município, observadas as exigências do SIAFIC, legislação vigente, normas de proteção de dados pessoais (LGPD) e requisitos de interoperabilidade com sistemas legados e demais entes, assegurando eficiência, transparência, modernização contínua e compatibilização com as estruturas organizacionais existentes.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": null,
-   "fimVigencia": "2026-09-30T07:30",
-   "diasRestantes": 1,
-   "valorEstimado": 191815.18,
-   "qtdItens": 10,
-   "modulos": [
-    "gestao publica",
-    "contabil",
-    "recursos humanos",
-    "implantacao",
-    "migracao",
-    "saas",
-    "almoxarifado",
-    "transparencia",
-    "software",
-    "treinamento",
-    "nuvem"
-   ],
-   "ader": 96,
-   "score": 96,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/88541354000194/2026/701"
-  },
-  {
    "id": "03501533000145-2026-45",
    "orgao": "MUNICIPIO DE JARAGUARI",
    "municipio": "Jaraguari",
@@ -236,7 +206,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "018",
    "fimVigencia": "2026-10-07T10:00",
-   "diasRestantes": 8,
+   "diasRestantes": 7,
    "valorEstimado": 318502.58,
    "qtdItens": 2,
    "modulos": [
@@ -255,7 +225,7 @@
     "suporte tecnico"
    ],
    "ader": 100,
-   "score": 90,
+   "score": 95,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/03501533000145/2026/45"
   },
@@ -268,7 +238,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "52",
    "fimVigencia": "2026-10-13T10:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 266566.55,
    "qtdItens": 10,
    "modulos": [
@@ -298,7 +268,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "68",
    "fimVigencia": "2026-10-07T08:30",
-   "diasRestantes": 8,
+   "diasRestantes": 7,
    "valorEstimado": 97417,
    "qtdItens": 3,
    "modulos": [
@@ -306,7 +276,7 @@
     "tributar"
    ],
    "ader": 50,
-   "score": 65,
+   "score": 70,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/46523023000181/2026/164"
   },
@@ -319,7 +289,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "28",
    "fimVigencia": "2026-10-07T08:00",
-   "diasRestantes": 8,
+   "diasRestantes": 7,
    "valorEstimado": 194100,
    "qtdItens": 3,
    "modulos": [
@@ -331,7 +301,7 @@
     "suporte tecnico"
    ],
    "ader": 44,
-   "score": 63,
+   "score": 68,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/18591149000158/2026/73"
   },
@@ -344,7 +314,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "002",
    "fimVigencia": "2026-10-09T09:15",
-   "diasRestantes": 10,
+   "diasRestantes": 9,
    "valorEstimado": 75800,
    "qtdItens": 2,
    "modulos": [
@@ -369,7 +339,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "013",
    "fimVigencia": "2026-10-08T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 113885.29,
    "qtdItens": 1,
    "modulos": [
@@ -391,7 +361,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "19",
    "fimVigencia": "2026-10-08T07:59",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 58506,
    "qtdItens": 1,
    "modulos": [
@@ -412,7 +382,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2026-10-31T13:00",
-   "diasRestantes": 33,
+   "diasRestantes": 32,
    "valorEstimado": 644940,
    "qtdItens": 2,
    "modulos": [
@@ -433,7 +403,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "01",
    "fimVigencia": "2026-10-14T08:59",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 39406.5,
    "qtdItens": 3,
    "modulos": [
@@ -451,35 +421,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83497594000115/2026/41"
   },
   {
-   "id": "13750681000157-2026-68",
-   "orgao": "AGENCIA REGULADORA DOS SERVICOS DE SANEAMENTO DAS BACIAS DOS RIOS PIRACICABA, CAPIVARI E JUNDIAI",
-   "municipio": "Americana",
-   "uf": "SP",
-   "objeto": "Solução integrada de sistemas de informação e gestão administrativa, disponibilizada em ambiente de computação em nuvem, compreendendo licenciamento, implantação, configuração, migração e conversão de dados, treinamento, hospedagem, suporte técnico, manutenção e demais serviços necessários à plena operacionalização.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "000006",
-   "fimVigencia": "2026-09-29T09:29",
-   "diasRestantes": 0,
-   "valorEstimado": 269953.64,
-   "qtdItens": 10,
-   "modulos": [
-    "conversao de dados",
-    "gestao publica",
-    "contabil",
-    "implantacao",
-    "migracao",
-    "almoxarifado",
-    "transparencia",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 0,
-   "score": 53,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/13750681000157/2026/68"
-  },
-  {
    "id": "13784384000122-2026-43",
    "orgao": "MUNICIPIO DE MARAGOGIPE",
    "municipio": "Maragogipe",
@@ -488,7 +429,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "8",
    "fimVigencia": "2026-10-01T09:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 155847,
    "qtdItens": 2,
    "modulos": [
@@ -514,7 +455,7 @@
    "modalidade": "Concorrência - Eletrônica",
    "numero": "15",
    "fimVigencia": "2026-10-22T08:59",
-   "diasRestantes": 23,
+   "diasRestantes": 22,
    "valorEstimado": 618816.91,
    "qtdItens": 10,
    "modulos": [
@@ -536,7 +477,7 @@
    "modalidade": "Dispensa",
    "numero": "45",
    "fimVigencia": "2026-10-02T08:30",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 63794.2,
    "qtdItens": 6,
    "modulos": [
@@ -562,7 +503,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "5",
    "fimVigencia": "2026-10-06T09:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 183447.24,
    "qtdItens": 2,
    "modulos": [
@@ -588,7 +529,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "1",
    "fimVigencia": "2026-10-13T11:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 177900,
    "qtdItens": 5,
    "modulos": [
@@ -614,7 +555,7 @@
    "modalidade": "Pregão - Presencial",
    "numero": "28",
    "fimVigencia": "2026-10-13T23:59",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -633,6 +574,30 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/03184058000120/2026/104"
   },
   {
+   "id": "18675900000102-2026-172",
+   "orgao": "MUNICIPIO DE ESPIRITO SANTO DO DOURADO",
+   "municipio": "Espírito Santo do Dourado",
+   "uf": "MG",
+   "objeto": "Contratação de empresa especializada para cessão temporária de direito de uso de sistema de arrecadação e gestão de água e esgoto, incluindo implantação, migração de dados, treinamento, aplicativos, atualizações e suporte técnico, em atendimento às necessidades do Município de Espírito Santo do Dourado/MG.",
+   "modalidade": "Pregão - Presencial",
+   "numero": "35",
+   "fimVigencia": "2026-10-19T09:00:42",
+   "diasRestantes": 19,
+   "valorEstimado": 0,
+   "qtdItens": 2,
+   "modulos": [
+    "arrecadac",
+    "implantacao",
+    "migracao",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 52,
+   "score": 35,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/18675900000102/2026/172"
+  },
+  {
    "id": "83074294000123-2026-126",
    "orgao": "MUNICIPIO DE RIO DAS ANTAS",
    "municipio": "Rio das Antas",
@@ -641,7 +606,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2027-05-18T17:00",
-   "diasRestantes": 232,
+   "diasRestantes": 231,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -663,7 +628,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-30T00:00",
-   "diasRestantes": 1553,
+   "diasRestantes": 1552,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -685,7 +650,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "018",
    "fimVigencia": "2026-10-08T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -698,28 +663,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/09074592000160/2026/32"
   },
   {
-   "id": "83102475000116-2026-46",
-   "orgao": "MUNICIPIO DE GUARAMIRIM",
-   "municipio": "Guaramirim",
-   "uf": "SC",
-   "objeto": "Credenciamento de empresas ou instituições para implantação e gestão de soluções tecnológicas de integração dos sistemas tributários e de arrecadação do Município de Guaramirim/SC, possibilitando o pagamento de guias de arrecadação municipal por meio de uso de cartões de crédito, de forma à vista ou\nparcelada, sem ônus financeiro para o Município.",
-   "modalidade": "Credenciamento",
-   "numero": null,
-   "fimVigencia": "2027-05-03T17:00",
-   "diasRestantes": 217,
-   "valorEstimado": null,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao"
-   ],
-   "ader": 58,
-   "score": 32,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/83102475000116/2026/46"
-  },
-  {
    "id": "83102574000106-2023-199",
    "orgao": "MUNICIPIO DE RIO DO SUL",
    "municipio": "Rio do Sul",
@@ -728,7 +671,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2050-12-30T23:59",
-   "diasRestantes": 8859,
+   "diasRestantes": 8858,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -744,6 +687,28 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83102574000106/2023/199"
   },
   {
+   "id": "83102475000116-2026-46",
+   "orgao": "MUNICIPIO DE GUARAMIRIM",
+   "municipio": "Guaramirim",
+   "uf": "SC",
+   "objeto": "Credenciamento de empresas ou instituições para implantação e gestão de soluções tecnológicas de integração dos sistemas tributários e de arrecadação do Município de Guaramirim/SC, possibilitando o pagamento de guias de arrecadação municipal por meio de uso de cartões de crédito, de forma à vista ou\nparcelada, sem ônus financeiro para o Município.",
+   "modalidade": "Credenciamento",
+   "numero": null,
+   "fimVigencia": "2027-05-03T17:00",
+   "diasRestantes": 216,
+   "valorEstimado": null,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "tributar",
+    "implantacao"
+   ],
+   "ader": 58,
+   "score": 32,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/83102475000116/2026/46"
+  },
+  {
    "id": "83102756000179-2024-23",
    "orgao": "MUNICIPIO DE RIO NEGRINHO",
    "municipio": "Rio Negrinho",
@@ -752,7 +717,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-04-01T11:20",
-   "diasRestantes": 1280,
+   "diasRestantes": 1279,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -774,7 +739,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-18T00:00",
-   "diasRestantes": 1541,
+   "diasRestantes": 1540,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -787,6 +752,27 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/88775390000112/2025/566"
   },
   {
+   "id": "14217368000110-2026-132",
+   "orgao": "MUNICIPIO DE SANTA BRIGIDA",
+   "municipio": "Santa Brígida",
+   "uf": "BA",
+   "objeto": "[LICITANET] - SELEÇÃO DE INSTITUIÇÃO FINANCEIRA DE CLASSIFICAÇÃO S1 E S2 PARA OCUPAR E EXPLORAR, A TÍTULO PRECÁRIO, ATRAVÉS DE CONCESSÃO ONEROSA DE USO, PELO PERÍODO DE 05 (CINCO) ANOS, A EXCLUSIVIDADE DA GESTÃO DA FOLHA DE PAGAMENTO DOS SERVIDORES, A CONCESSÃO DE EMPRÉSTIMOS CONSIGNADOS SEM EXCLUSIVIDADE POR TODO PERÍODO DO CONTRATO CONFORME INDICADO NO TERMO DE REFERÊNCIA E A CENTRALIZAÇÃO DA ARRECADAÇÃO DAS RECEITAS MUNICIPAIS.",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "024",
+   "fimVigencia": "2026-10-21T09:00",
+   "diasRestantes": 21,
+   "valorEstimado": 0,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "folha de pagamento"
+   ],
+   "ader": 40,
+   "score": 29,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/14217368000110/2026/132"
+  },
+  {
    "id": "06553556000191-2026-14",
    "orgao": "SECRETARIA DA FAZENDA DO ESTADO DO PIAUI",
    "municipio": "Teresina",
@@ -795,7 +781,7 @@
    "modalidade": "Credenciamento",
    "numero": "11",
    "fimVigencia": "2027-06-16T09:00",
-   "diasRestantes": 260,
+   "diasRestantes": 259,
    "valorEstimado": 1.24,
    "qtdItens": 1,
    "modulos": [
@@ -816,7 +802,7 @@
    "modalidade": "Credenciamento",
    "numero": "008",
    "fimVigencia": "2027-09-08T23:59",
-   "diasRestantes": 345,
+   "diasRestantes": 344,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -837,7 +823,7 @@
    "modalidade": "Credenciamento",
    "numero": "1",
    "fimVigencia": "2027-02-04T15:55",
-   "diasRestantes": 129,
+   "diasRestantes": 128,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
