@@ -1,0 +1,26 @@
+{
+ "id": "46522991000173-2026-139",
+ "extraidoEm": "2026-10-01T13:33:32.569Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/46522991000173/2026/139",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-IMPRESSORAS-POS-PARECER.txt",
+   "titulo": "EDITAL_IMPRESSORAS_POS_PARECER",
+   "tipo": "Edital",
+   "paginas": 77,
+   "caracteres": 233397
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ERRATASOLUCAO-assinado.txt",
+   "titulo": "ERRATASOLUCAO_assinado",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 917
+  }
+ ],
+ "totalPaginas": 78,
+ "totalCaracteres": 234314,
+ "comErro": 0
+}
