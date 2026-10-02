@@ -1,0 +1,26 @@
+{
+ "id": "93845519000151-2026-239",
+ "extraidoEm": "2026-10-02T12:52:34.695Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/93845519000151/2026/239",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-2026.txt",
+   "titulo": "2026.pdf",
+   "tipo": "Edital",
+   "paginas": 84,
+   "caracteres": 423340
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Edital-Contrata-o-de-Empresa-de-Sistemas-Preg-o-Eletr-nico-6.txt",
+   "titulo": "Edital_Contrata__o_de_Empresa_de_Sistemas_-_Preg_o_Eletr_nico_66.2026.pdf",
+   "tipo": "Edital",
+   "paginas": 43,
+   "caracteres": 78612
+  }
+ ],
+ "totalPaginas": 127,
+ "totalCaracteres": 501952,
+ "comErro": 0
+}

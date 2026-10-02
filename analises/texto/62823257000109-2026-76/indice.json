@@ -1,0 +1,59 @@
+{
+ "id": "62823257000109-2026-76",
+ "extraidoEm": "2026-10-02T12:52:24.509Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/62823257000109/2026/76",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Termo-de-Participacao-ATA-CPS-Modelo-2.txt",
+   "titulo": "Termo de Participacao ATA_CPS - Modelo 2.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 2447
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ETP-com-Anexos-OK.txt",
+   "titulo": "ETP_com_Anexos_OK.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 93,
+   "caracteres": 224897
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Anexo-Edital-ATA-tablets.txt",
+   "titulo": "Anexo Edital - ATA tablets.docx",
+   "tipo": "Outros Documentos",
+   "paginas": 0,
+   "caracteres": 3676,
+   "aviso": "DOCX sem paginação: citar por seção, não por página"
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-Termo-de-Referencia-62-2026.txt",
+   "titulo": "Termo de Referencia 62.2026.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 91,
+   "caracteres": 211986
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-Edital-7-2026.txt",
+   "titulo": "Edital_7_2026.pdf",
+   "tipo": "Edital",
+   "paginas": 43,
+   "caracteres": 154142
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-66-2026.txt",
+   "titulo": "66/2026.pdf",
+   "tipo": "Mapa de Riscos",
+   "paginas": 2,
+   "caracteres": 2840
+  }
+ ],
+ "totalPaginas": 231,
+ "totalCaracteres": 599988,
+ "comErro": 0
+}

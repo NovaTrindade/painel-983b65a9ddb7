@@ -1,0 +1,1666 @@
+=== DOCUMENTO 2: 11530_Edital Contratacao de Empresa de Sistemas - Pregao Eletronico 662026.pdf ===
+tipo: Edital | páginas: 43 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/93845519000151/compras/2026/241/arquivos/2
+
+--- [pag. PDF 1] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+EDITAL DE PREGÃO ELETRÔNICO Nº 66/2026
+O PREFEITO MUNICIPAL DE PORTO MAUÁ - RS, no uso de suas
+atribuições, torna público, para conhecimento dos interessados, a realização de licitação na
+modalidade pregão, na forma eletrônica, do tipo menor preço por lote, objetivando a
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE
+CESSÃO DE USO DE SISTEMA INFORMATIZADO DE GESTÃO MUNICIPAL, EM
+AMBIENTE WEB (CLOUD COMPUTING), NO MODELO SOFTWARE AS A SERVICE
+(SAAS), INCLUINDO IMPLANTAÇÃO, PARAMETRIZAÇÃO, EVENTUAL MIGRAÇÃO DE
+DADOS, TREINAMENTO DE USUÁRIOS, SUPORTE TÉCNICO, MANUTENÇÃO
+CORRETIVA, EVOLUTIVA E ATUALIZAÇÕES, DESTINADO AO ATENDIMENTO DAS
+DEMANDAS DAS SECRETARIAS MUNICIPAIS DO MUNICÍPIO DE PORTO MAUÁ/RS,
+nos termos expressos nesse edital, seus anexos, e nos termos da Lei Federal nº 14.133, de
+01 de abril de 2021 e demais legislação aplicável.
+A sessão virtual do pregão eletrônico será realizada no seguinte endereço:
+www.portaldecompraspublicas.com.br, no dia 20 de outubro de 2026, às 09h, podendo as
+propostas serem enviadas até às 08h59min do mesmo dia, sendo que todas as referências
+de tempo observam o horário de Brasília.
+1. DO OBJETO
+Constitui objeto da presente licitação CONTRATAÇÃO DE EMPRESA
+ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE CESSÃO DE USO DE SISTEMA
+INFORMATIZADO DE GESTÃO MUNICIPAL, EM AMBIENTE WEB (CLOUD
+COMPUTING), NO MODELO SOFTWARE AS A SERVICE (SAAS), INCLUINDO
+IMPLANTAÇÃO, PARAMETRIZAÇÃO, EVENTUAL MIGRAÇÃO DE DADOS,
+TREINAMENTO DE USUÁRIOS, SUPORTE TÉCNICO, MANUTENÇÃO CORRETIVA,
+EVOLUTIVA E ATUALIZAÇÕES, DESTINADO AO ATENDIMENTO DAS DEMANDAS
+DAS SECRETARIAS MUNICIPAIS DO MUNICÍPIO DE PORTO MAUÁ/RS, cujas
+descrições e condições de entrega estão detalhadas no edital e seus referidos anexos.
+
+--- [pag. PDF 2] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+2. CREDENCIAMENTO E PARTICIPAÇÃO DO CERTAME
+2.1. Para participar do certame, o licitante deve providenciar o seu credenciamento,
+com atribuição de chave e senha, diretamente junto ao provedor do sistema, onde deverá
+informar-se a respeito do seu funcionamento, regulamento e instruções para a sua correta
+utilização.
+2.2. As instruções para o credenciamento podem ser acessadas no seguinte sítio
+eletrônico: www.portaldecompraspublicas.com.br ou solicitadas por meio do seguinte
+endereço de e-mail: compras@portomaua.rs.gov.br.
+2.3. É de responsabilidade do licitante, além de credenciar-se previamente no
+sistema eletrônico utilizado no certame e de cumprir as regras do presente edital:
+2.3.1. Responsabilizar-se formalmente pelas transações efetuadas em seu nome,
+assumir como firmes e verdadeiras suas propostas e seus lances, inclusive os atos
+praticados diretamente ou por seu representante, excluída a responsabilidade do provedor
+do sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes
+de uso indevido da senha, ainda que por terceiros.
+2.3.2. Acompanhar as operações no sistema eletrônico durante o processo licitatório e
+responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de
+mensagens emitidas pelo sistema ou de sua desconexão.
+2.3.3. Comunicar imediatamente ao provedor do sistema qualquer acontecimento que
+possa comprometer o sigilo ou a inviabilidade do uso da senha, para imediato bloqueio de
+acesso.
+2.3.4. Utilizar a chave de identificação e a senha de acesso para participar do pregão
+na forma eletrônica.
+2.3.5. Solicitar o cancelamento da chave de identificação ou da senha de acesso por
+interesse próprio.
+
+--- [pag. PDF 3] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+3. ENVIO DAS PROPOSTAS
+3.1. As propostas deverão ser enviadas exclusivamente por meio do sistema
+eletrônico, até a data e horário estabelecidos no preâmbulo deste edital, observando o item
+4 deste Edital.
+3.2. O licitante deverá declarar, em campo próprio do sistema, sendo que a falsidade
+da declaração sujeitará o licitante às sanções legais:
+3.2.1. Que tomou conhecimento de todas as informações e das condições locais para
+o cumprimento das obrigações objeto da licitação.
+3.2.2. Que cumpre as exigências de reserva de cargos para pessoa com deficiência e
+para reabilitado da Previdência Social, previstas em lei e em outras normas específicas.
+3.2.3. Se for o caso, que cumpre os requisitos legais para a qualificação como
+microempresa ou empresa de pequeno porte, microempreendedor individual, produtor rural
+pessoa física, agricultor familiar ou sociedade cooperativa de consumo, se for o caso,
+estando apto a usufruir do tratamento favorecido estabelecido nos arts. 42 ao 49 da Lei
+Complementar nº 123, de 14 de dezembro de 2006.
+3.2.4. Se for o caso, que no ano-calendário de realização da licitação, a microempresa
+ou a empresa de pequeno porte ainda não celebrou contratos com a Administração Pública,
+cujos valores somados extrapolem a receita bruta máxima admitida para fins de
+enquadramento como empresa de pequeno porte.
+3.2.5. Que suas propostas econômicas compreendem a integralidade dos custos para
+atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis
+trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos de
+ajustamento de conduta vigentes na data de entrega das propostas.
+3.2.6. Que atende ao disposto no artigo 7º, inciso XXXIII, da Constituição da República.
+3.3. Outras eventuais declarações complementares à proposta e à habilitação, que
+venham a ser solicitados pelo sistema do pregão eletrônico e/ou pregoeiro, deverão ser
+realizadas via sistema ou encaminhadas no prazo máximo de 02 (duas) horas, prorrogável
+por igual período.
+
+--- [pag. PDF 4] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+4. PROPOSTA
+4.1. O prazo de validade da proposta será de 60 (sessenta) dias, a contar da data de
+abertura da sessão do pregão, estabelecida no preâmbulo desse edital.
+4.2. Os licitantes deverão registrar suas propostas no sistema eletrônico, observando
+as diretrizes do Anexo III – Modelo de Proposta Comercial, com a indicação completa do
+produto ofertado, incluindo referências e demais dados técnicos, bem como com a indicação
+dos valores unitários e totais dos itens, englobando a tributação, os custos de entrega e
+quaisquer outras despesas incidentes para o cumprimento das obrigações assumidas.
+4.3. Qualquer elemento que possa identificar o licitante importará na desclassificação
+da proposta, razão pela qual os licitantes não poderão encaminhar documentos com timbre
+ou logomarca da empresa, assinatura ou carimbo de sócios ou outra informação que possa
+levar a sua identificação, até que se encerre a etapa de lances.
+OBS.: Em se tratando de licitação que envolva o fornecimento de bens, a Administração
+poderá, excepcionalmente, nos termos dos artigos 41, 42 e 43 da Lei nº 14.133/2021, indicar
+marcas ou modelos e/ou exigir amostra ou prova de conceito, mediante existente
+procedimento de padronização.
+4.4. Após a negociação do preço, o pregoeiro solicitará ao licitante mais bem
+classificado que, no prazo de até 04 (quatro) horas, envie a proposta adequada ao último
+lance ofertado após a negociação realizada, bem como, se constatado que os valores
+propostos pela licitante estão inexequíveis, será oportunizada a demonstração, por parte da
+licitante, através de documentação inequívoca, da exequibilidade da proposta, no mesmo
+prazo de 04 (quatro) horas, através de manifestação do pregoeiro no chat do sistema.
+4.5. A proposta resultante de lances deverá ser apresentada devidamente assinada e
+nela deverá constar, sob pena de desclassificação da proposta:
+a) nome da empresa e/ou pessoa física;
+b) número de CNPJ e/ou CPF;
+c) numeração de cada item;
+d) descrição completa do serviço ofertado;
+
+--- [pag. PDF 5] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+e) valor unitário do item;
+f) valor total para o item, ou seja, a multiplicação das quantidades pelos respectivos
+preços unitários, expresso em reais, com 2 (duas) casas decimais, englobando a
+tributação, os custos de entrega e quaisquer outras despesas incidentes para o
+cumprimento das obrigações assumidas.
+g) valor total geral para o lote;
+h) conta bancária;
+i) e-mail;
+j) dados do representante legal.
+4.6. O licitante classificado provisoriamente em primeiro lugar deverá realizar o teste
+de conformidade (prova de conceito) para avaliação técnica do objeto a ser contratado,
+conforme exigências detalhadas no TERMO DE REFERÊNCIA.
+4.7. Em razão da complexidade técnica e do valor estimado da contratação, a
+Administração exigirá, nos termos do art. 58 da Lei nº 14.133/2021, garantia de proposta no
+valor correspondente a 1% (um por cento) do valor estimado da contratação. O licitante
+deverá comprovar a prestação da garantia da proposta mediante o anexo do respectivo
+comprovante no Portal de Compras Públicas, juntamente com o cadastramento de sua
+proposta inicial. A garantia da proposta poderá ser prestada, à escolha do licitante, nas
+seguintes modalidades: caução em dinheiro, seguro-garantia ou fiança bancária, com
+validade mínima igual ao prazo de validade da proposta previsto no item 4.1 deste Edital.
+4.7.1 A exigência da garantia de proposta tem por finalidade assegurar a seriedade e a
+manutenção das propostas apresentadas, reduzir o risco de desistência injustificada do
+certame ou de recusa à celebração do contrato pelo licitante vencedor, bem como conferir
+maior segurança e eficiência ao procedimento licitatório, minimizando a possibilidade de
+insucesso da contratação e a necessidade de repetição do certame.
+4.7.2. A garantia de proposta constitui mecanismo destinado a assegurar o
+compromisso do licitante com as condições ofertadas e a sua capacidade de cumprir as
+obrigações decorrentes de eventual contratação, nos limites e hipóteses previstos na Lei
+Federal nº 14.133/2021.
+
+--- [pag. PDF 6] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+A garantia de proposta será devolvida aos licitantes não vencedores após a
+homologação do certame, e ao licitante vencedor após a assinatura do contrato, sendo
+executada em favor do órgão licitante na hipótese prevista no item 15.6 deste Edital. A
+presente exigência refere-se exclusivamente à garantia de proposta de que trata o art. 58 da
+Lei nº 14.133/2021, distinta e independente da garantia contratual tratada no Termo de
+Referência, cuja dispensa, nos termos de seu item 11.1, permanece inalterada.
+5. DOCUMENTOS DE HABILITAÇÃO
+Para fins de habilitação neste pregão, a licitante vencedora deverá enviar os seguintes
+documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar
+o objeto da licitação, nos termos dos artigos 62 a 70 da Lei nº 14.133, de 2021:
+5.1. HABILITAÇÃO JURÍDICA
+a) cópia do registro comercial, no caso de empresa individual;
+b) cópia do ato constitutivo, estatuto ou contrato social em vigor, devidamente
+registrado, em se tratando de sociedades comerciais, e, no caso de sociedade por ações,
+acompanhado de documentos de eleição de seus administradores;
+c) comprovante de inscrição no Cadastro Nacional de Pessoa Física (CPF), se o
+licitante for pessoa natural, ou no Cadastro Nacional da Pessoa Jurídica (CNPJ/MF), se o
+licitante for pessoa jurídica;
+d) cópia do decreto de autorização, em se tratando de empresa ou sociedade
+estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento
+expedido pelo órgão competente, quando a atividade assim o exigir;
+5.2. HABILITAÇÃO FISCAL, SOCIAL E TRABALHISTA
+a) comprovante de inscrição no cadastro de contribuintes estadual e/ou municipal,
+se houver, relativo ao domicílio ou sede do licitante, pertinente ao seu ramo de atividade e
+
+--- [pag. PDF 7] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+compatível com o objeto contratual;
+b) prova de regularidade perante as Fazendas Federal, Estadual e Municipal do
+domicílio ou sede do licitante;
+OBS 01: O próprio Município fará conferência interna para comprovação de que o
+fornecedor está regular com o Município de Porto Mauá, nos termos do art. 193 do Código
+Tributário Nacional.
+c) prova de regularidade relativa à Seguridade Social e ao FGTS, que
+demonstre cumprimento dos encargos sociais instituídos por lei;
+d) prova de regularidade perante a Justiça do Trabalho.
+e) Se for o caso, declaração de que se enquadra nos limites da lei complementar
+123/2006.
+5.3. HABILITAÇÃO ECONÔMICO-FINANCEIRA:
+a) certidão negativa de falência expedida pelo distribuidor da sede da pessoa
+jurídica, em prazo não superior a 90 dias da data designada para a apresentação do
+documento;
+5.4. QUALIFICAÇÃO TÉCNICA
+a) A licitante deverá apresentar, no mínimo, 01 (um) atestado de capacidade
+técnica, fornecido por pessoa jurídica de direito público, que comprove a prestação de
+serviços compatíveis em características com o objeto da presente contratação. Para fins de
+comprovação, serão considerados compatíveis os serviços que envolvam: fornecimento ou
+cessão de uso de sistema informatizado para órgãos públicos, especialmente prefeituras e
+câmaras de vereadores; prestação de serviços com suporte técnico e manutenção de
+sistemas. O(s) atestado(s) apresentado(s) deverá(ão) demonstrar que a licitante executou
+satisfatoriamente serviços similares, não sendo exigida comprovação de quantitativos
+mínimos, a fim de não restringir a competitividade do certame.
+
+--- [pag. PDF 8] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+b) A licitante deverá apresentar declaração assinada por seu representante legal,
+sob as penas da lei, de que dispõe de equipe técnica qualificada e suficiente para a
+execução do objeto, contemplando, no mínimo, profissionais aptos a: realizar a implantação
+do sistema; prestar suporte técnico aos usuários; executar manutenção corretiva, evolutiva e
+adaptativa da solução. A Administração poderá solicitar, a qualquer tempo, a comprovação
+das informações declaradas, para fins de verificação da capacidade técnica da contratada.
+c) A vistoria é facultativa, devendo, no entanto, ser substituída por declaração
+expressa de que a licitante tem ciência do(s) local(ais) e aceita as condições para a
+execução da obrigação contratual, se vencedora do certame, aceitando plenamente as
+exigências do edital.
+Obs. A visita técnica para conhecimento do local do objeto será de forma opcional,
+devendo ser agendada junto ao email compras@portomaua.rs.gov.br. A visita será
+acompanhada por equipe técnica e poderá ser realizada até 48h do horário marcado da data
+prevista para o início da sessão pública.
+5.5. Será exigida a apresentação dos documentos de habilitação apenas do licitante
+vencedor.
+5.6. Após a entrega dos documentos para habilitação, não será permitida a
+substituição ou a apresentação de novos documentos, salvo em sede de diligência, para:
+a) complementação de informações acerca dos documentos já apresentados pelos
+licitantes e desde que necessária para apurar fatos existentes à época da abertura do
+certame;
+b) atualização de documentos cuja validade tenha expirado após a data de
+recebimento das propostas.
+6. VEDAÇÕES
+6.1. Não poderão disputar licitação ou participar da execução de contrato, direta ou
+indiretamente:
+a) pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada
+
+--- [pag. PDF 9] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+de participar da licitação em decorrência de sanção que lhe foi imposta;
+b) aquele que mantenha vínculo de natureza técnica, comercial, econômica,
+financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente
+público que desempenhe função na licitação ou atue na fiscalização ou na gestão do
+contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por
+afinidade, até o terceiro grau;
+c) empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404,
+de 15 de dezembro de 1976, concorrendo entre si;
+d) pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do
+edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração de
+trabalho infantil, por submissão de trabalhadores a condições análogas às de escravo ou por
+contratação de adolescentes nos casos vedados pela legislação trabalhista;
+e) agente público do órgão licitante, devendo ser observadas as situações que
+possam configurar conflito de interesses no exercício ou após o exercício do cargo ou
+emprego, nos termos da legislação que disciplina a matéria.
+6.2. O impedimento de que trata a alínea “a” do item 6.1, supra, será também
+aplicado ao licitante que atue em substituição a outra pessoa, física ou jurídica, com o intuito
+de burlar a efetividade da sanção a ela aplicada, inclusive a sua controladora, controlada ou
+coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta da
+personalidade jurídica do licitante.
+6.3. Durante a vigência do contrato, é vedado ao contratado contratar cônjuge,
+companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, de
+dirigente do órgão contratante ou de agente público que desempenhe função na licitação ou
+atue na fiscalização ou na gestão do contrato.
+7. ABERTURA DA SESSÃO PÚBLICA
+7.1. No dia e hora indicados no preâmbulo, o pregoeiro abrirá a sessão pública,
+mediante a utilização de sua chave e senha.
+
+--- [pag. PDF 10] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+7.2. O licitante poderá participar da sessão pública na internet, mediante a utilização
+de sua chave de acesso e senha, e deverá acompanhar o andamento do certame e as
+operações realizadas no sistema eletrônico durante toda a sessão pública do pregão,
+ficando responsável pela perda de negócios diante da inobservância de mensagens emitidas
+pelo sistema ou de sua desconexão, conforme item 2.3.2 deste Edital.
+7.3. A comunicação entre o pregoeiro e os licitantes ocorrerá mediante troca de
+mensagens em campo próprio do sistema eletrônico.
+7.4. Iniciada a sessão, as propostas de preços contendo a descrição do objeto e do
+valor estarão disponíveis na internet.
+8. CLASSIFICAÇÃO INICIAL DAS PROPOSTAS E FORMULAÇÃO DE LANCES
+8.1. O pregoeiro verificará as propostas apresentadas e desclassificará
+fundamentadamente aquelas que não estejam em conformidade com os requisitos
+estabelecidos no edital.
+8.2. Serão desclassificadas as propostas que:
+a) contiverem vícios insanáveis;
+b) não obedecerem às especificações técnicas pormenorizadas no edital;
+c) apresentarem preços inexequíveis ou permanecerem acima do orçamento
+estimado para a contratação após a fase de lances;
+d) não tiverem sua exequibilidade demonstrada, quando exigido pela
+Administração;
+e) apresentarem desconformidade com quaisquer outras exigências do edital,
+desde que insanável.
+8.3. A verificação da conformidade das propostas poderá ser feita exclusivamente
+em relação à proposta mais bem classificada.
+8.4. Quaisquer inserções na proposta que visem modificar, extinguir ou criar direitos,
+sem previsão no edital, serão tidas como inexistentes, aproveitando-se a proposta no que
+
+--- [pag. PDF 11] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+não for conflitante com o instrumento convocatório.
+8.5. As propostas classificadas serão ordenadas pelo sistema e o pregoeiro dará
+início à fase competitiva, oportunidade em que todos os licitantes poderão encaminhar
+lances exclusivamente por meio do sistema eletrônico.
+8.6. Somente poderão participar da fase competitiva os autores das propostas
+classificadas.
+8.7. Os licitantes poderão oferecer lances sucessivos e serão informados, em tempo
+real, do valor do menor lance registrado, vedada a identificação do seu autor, observando o
+fixado para duração da etapa competitiva, e as seguintes regras:
+8.7.1. O licitante será imediatamente informado do recebimento do lance e do valor
+consignado no registro.
+8.7.2. O licitante somente poderá oferecer valor inferior ao último lance por ele ofertado
+e registrado pelo sistema.
+8.7.3. Não serão aceitos dois ou mais lances iguais e prevalecerá aquele que for
+recebido e registrado primeiro.
+8.7.4. O intervalo mínimo de diferença de valores entre os lances será de R$ 100,00,
+que incidirá tanto em relação aos lances intermediários, quanto em relação do lance que
+cobrir a melhor oferta.
+8.7.5. Serão considerados intermediários os lances iguais ou superiores ao menor já
+ofertado.
+8.7.6. Após a definição da melhor proposta, se a diferença em relação à proposta
+classificada em segundo lugar for de pelo menos 5% (cinco por cento), a Administração
+poderá admitir o reinício da disputa aberta, para a definição das demais colocações.
+8.8. A Administração poderá realizar diligências para aferir a exequibilidade das
+propostas ou exigir dos licitantes que ela seja demonstrada.
+8.9. O valor da proposta será reajustado pelo(s) índice(s) INPC com data-base
+vinculada à data do orçamento estimado.
+
+--- [pag. PDF 12] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+9. MODO DE DISPUTA
+9.1. Será adotado o modo de disputa aberto, em que os licitantes apresentarão
+lances públicos e sucessivos, observando as regras constantes no item 7.
+9.2. A etapa competitiva de envio de lances na sessão pública durará 10 (dez)
+minutos e, após isso, será prorrogada automaticamente pelo sistema quando houver lance
+ofertado nos últimos 2 (dois) minutos do período de duração da sessão pública.
+9.3. A prorrogação automática da etapa de envio de lances será de 2 (dois) minutos
+e ocorrerá sucessivamente sempre que houver lances enviados nesse período de
+prorrogação, inclusive quando se tratar de lances intermediários.
+9.4. Na hipótese de não haver novos lances, a sessão pública será encerrada
+automaticamente.
+9.5. Encerrada a sessão pública sem prorrogação automática pelo sistema, o
+pregoeiro poderá, assessorado pela equipe de apoio, admitir o reinício da etapa de envio de
+lances, em prol da consecução do melhor preço, se a diferença em relação à proposta
+classificada em segundo lugar for de pelo menos 5%.
+9.6. Na hipótese de o sistema eletrônico desconectar para o pregoeiro no decorrer da
+etapa de envio de lances da sessão pública e permanecer acessível aos licitantes, os lances
+continuarão sendo recebidos, sem prejuízo dos atos realizados.
+9.7. Quando a desconexão do sistema eletrônico para o pregoeiro persistir por
+tempo superior a 10 (dez) minutos, a sessão pública será suspensa e reiniciada somente
+decorridas 24 (vinte e quatro) horas após a comunicação do fato aos participantes, no
+mesmo endereço eletrônico que ocorreu a sessão.
+10. CRITÉRIOS DE DESEMPATE
+10.1. Encerrada etapa de envio de lances, será apurada a ocorrência de empate, nos
+termos dos arts. 44 e 45 da Lei Complementar nº 123/2006, sendo assegurada, como critério
+
+--- [pag. PDF 13] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+do desempate, preferência de contratação para as beneficiárias que tiverem apresentado as
+declarações de que tratam os itens 3.2.3 e 3.2.4 deste Edital;
+10.1.1. Entende-se como empate, para fins da Lei Complementar nº
+123/2006, aquelas situações em que as propostas apresentadas pelas beneficiárias sejam
+iguais ou superiores em até 5% (cinco por cento) à proposta de menor valor.
+10.1.2. Ocorrendo o empate, na forma do subitem anterior, proceder-se-á da seguinte
+forma:
+a) A beneficiária detentora da proposta de menor valor será convocada via sistema
+para apresentar, no prazo de 5 (cinco) minutos, nova proposta, inferior àquela considerada,
+até então, de menor preço, situação em que será declarada vencedora do certame;
+b) Se a beneficiária, convocada na forma da alínea anterior, não apresentar nova
+proposta, inferior à de menor preço, será facultada, pela ordem de classificação, às demais
+microempresas, empresas de pequeno porte ou cooperativas remanescentes, que se
+enquadrarem na hipótese do item 10.1. deste edital, a apresentação de nova proposta, no
+prazo previsto na alínea “a” deste item.
+10.1.3. O disposto no item 10.1.2. não se aplica às hipóteses em que a proposta de
+menor valor inicial tiver sido apresentado por beneficiária da LC nº 123/2006.
+10.2. Se não houver licitante que atenda ao item 10.1 e seus subitens, serão utilizados
+os seguintes critérios de desempate, nesta ordem:
+a) disputa final, hipótese em que os licitantes empatados poderão apresentar nova
+proposta em ato contínuo à classificação;
+b) avaliação do desempenho contratual prévio dos licitantes, para a qual serão ser
+utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações
+decorrentes de outras contratações;
+c) desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no
+ambiente de trabalho, conforme regulamento (SE HOUVER);
+d) desenvolvimento pelo licitante de programa de integridade, conforme orientações
+dos órgãos de controle.
+
+--- [pag. PDF 14] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+10.3. Em igualdade de condições, se não houver desempate, será assegurada
+preferência, sucessivamente, aos bens e serviços produzidos ou prestados por:
+a) empresas estabelecidas no território do Estado do Rio Grande do Sul;
+b) empresas brasileiras;
+c) empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+d) e) empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187,
+de 29 de dezembro de 2009.
+11. NEGOCIAÇÃO E JULGAMENTO
+11.1. Encerrada a etapa de envio de lances da sessão pública, inclusive com a
+realização do desempate, se for o caso, o pregoeiro deverá encaminhar, pelo sistema
+eletrônico, contraproposta ao licitante que tenha apresentado o melhor preço, para que seja
+obtida melhor proposta.
+11.2. A resposta à contraproposta e o envio de documentos complementares,
+necessários ao julgamento da aceitabilidade da proposta, inclusive a sua adequação ao
+último lance ofertado, que sejam solicitados pelo pregoeiro, deverão ser encaminhados no
+prazo fixado no item 3.3 deste Edital.
+11.3. Encerrada a etapa de negociação, será examinada a proposta classificada em
+primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em relação valor
+de referência da Administração.
+11.4. Não serão consideradas, para julgamento das propostas, vantagens não
+previstas no edital.
+12. VERIFICAÇÃO DA HABILITAÇÃO
+12.1. Encerrada a etapa de propostas, o licitante melhor classificado enviará a
+documentação de habilitação dentro do prazo de 4 (quatro) horas.
+12.2. Após a entrega dos documentos para habilitação, não será permitida a
+
+--- [pag. PDF 15] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+substituição ou a apresentação de novos documentos, salvo em sede de diligência, para:
+a) complementação de informações acerca dos documentos já apresentados pelos
+licitantes e desde que necessária para apurar fatos existentes à época da abertura do
+certame;
+b) atualização de documentos cuja validade tenha expirado após a data de
+recebimento das propostas.
+12.3. Na análise dos documentos de habilitação, o pregoeiro poderá sanar erros ou
+falhas que não alterem a substância dos documentos e sua validade jurídica, mediante
+despacho fundamentado registrado e acessível a todos, atribuindo-lhes eficácia para fins de
+habilitação e classificação.
+12.4. As certidões apresentadas na habilitação, que tenham sido expedidas em meio
+eletrônico, serão tidas como originais após terem a autenticidade de seus dados e
+certificação digital conferidos pela Administração, dispensando nova apresentação, exceto
+se vencido o prazo de validade.
+12.5. O beneficiário da Lei Complementar nº 123/2006, que tenha apresentado a
+declaração exigida no item 3.2.3 e 3.2.4 deste Edital e que possua alguma restrição na
+comprovação de regularidade fiscal e/ou trabalhista, terá sua habilitação condicionada ao
+envio de nova documentação, que comprove a sua regularidade, em 5 (cinco) dias úteis, a
+contar da data em que declarado vencedor, prazo que poderá ser prorrogado uma única vez,
+por igual período, a critério da Administração, desde que seja requerido pelo interessado, de
+forma motivada e durante o transcurso do respectivo prazo.
+12.6. Na hipótese de a proposta vencedora não for aceitável ou o licitante não atender
+às exigências para habilitação, o pregoeiro examinará a proposta subsequente e assim
+sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao
+edital. Nessa hipótese, classificada a proposta, será concedido o prazo previsto no item 12.1
+para o envio da documentação de habilitação.
+12.7. Na análise dos documentos de habilitação, a comissão de licitação poderá sanar
+erros ou falhas que não alterem a substância dos documentos e sua validade jurídica,
+mediante despacho fundamentado registrado e acessível a todos, atribuindo-lhes eficácia
+
+--- [pag. PDF 16] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+para fins de habilitação e classificação.
+12.8. A habilitação poderá ser realizada por processo eletrônico de comunicação a
+distância, nos termos dispostos em regulamento do Poder Público.
+12.9. Constatado o atendimento às exigências estabelecidas no Edital, o licitante será
+declarado vencedor, oportunizando-se a manifestação da intenção de recurso.
+13. DOS RECURSOS
+13.1. Caberá recurso, no prazo de 3 (três) dias úteis, contado da data de
+intimação ou de lavratura da ata, em face de:
+a) ato que defira ou indefira pedido de pré-qualificação de interessado ou de
+inscrição em registro cadastral, sua alteração ou cancelamento;
+b) julgamento das propostas;
+c) ato de habilitação ou inabilitação de licitante;
+d) anulação ou revogação da licitação.
+13.2. O prazo para apresentação de contrarrazões será o mesmo do recurso e terá
+início na data de intimação ou de divulgação da interposição do recurso.
+13.3. Quanto ao recurso apresentado em virtude do disposto nas alíneas “b” e “c” do
+item 13.1 do presente Edital, serão observadas as seguintes disposições:
+a) a intenção de recorrer deverá ser manifestada imediatamente, sob pena de
+preclusão, e o prazo para apresentação das razões recursais será iniciado na data de
+intimação ou de lavratura da ata de habilitação ou inabilitação;
+b) a apreciação dar-se-á em fase única.
+13.4. O recurso será dirigido à autoridade que tiver editado o ato ou proferido a
+decisão recorrida, que, se não reconsiderar o ato ou a decisão no prazo de 3 (três) dias
+úteis, encaminhará o recurso com a sua motivação à autoridade superior, a qual deverá
+proferir sua decisão no prazo máximo de 10 (dez) dias úteis, contado do recebimento dos
+autos.
+
+--- [pag. PDF 17] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+13.5. O acolhimento do recurso implicará invalidação apenas de ato insuscetível de
+aproveitamento.
+13.6. O recurso interposto dará efeito suspensivo ao ato ou à decisão recorrida, até
+que sobrevenha decisão final da autoridade competente.
+14. ENCERRAMENTO DA LICITAÇÃO
+14.1. Encerradas as fases de julgamento e habilitação, e exauridos os recursos
+administrativos, o processo licitatório será encaminhado à autoridade superior, que poderá:
+a) determinar o retorno dos autos para saneamento de irregularidades;
+b) revogar a licitação por motivo de conveniência e oportunidade;
+c) proceder à anulação da licitação, de ofício ou mediante provocação de terceiros,
+sempre que presente ilegalidade insanável;
+d) adjudicar o objeto e homologar a licitação.
+15. CONDIÇÕES DE CONTRATAÇÃO
+15.1. A presente contratação não será objeto de parcelamento, sendo o objeto licitado
+em lote único, compreendendo a totalidade dos serviços de cessão de uso do sistema
+informatizado de gestão municipal, implantação, parametrização, migração de dados,
+treinamento, suporte técnico, manutenção corretiva, evolutiva e atualizações, o que se
+mostra a alternativa que melhor atende ao interesse público, assegurando eficiência,
+economicidade, segurança da informação e adequada execução contratual, em
+conformidade com o disposto no art. 40, inciso V, alínea "b", e no art. 47, inciso II, da Lei nº
+14.133/2021.
+15.2. O licitante vencedor será convocado para assinar o termo de contrato ou para
+aceitar ou retirar o instrumento equivalente, dentro do prazo de 5 (cinco) dias úteis, sob pena
+de decair o direito à contratação, sem prejuízo das sanções previstas neste Edital.
+15.3. O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período,
+
+--- [pag. PDF 18] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+mediante solicitação da parte, durante seu transcurso, devidamente justificada, e desde que
+o motivo apresentado seja aceito pela Administração.
+15.4. Será facultado à Administração, quando o convocado não assinar o termo de
+contrato ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições
+estabelecidas neste Edital, convocar os licitantes remanescentes, na ordem de classificação,
+para a celebração do contrato nas condições propostas pelo licitante vencedor, sem prejuízo
+da aplicação das sanções cabíveis.
+15.5. Decorrido o prazo de validade da proposta indicado no item 4.1 deste Edital,
+sem convocação para a contratação, ficarão os licitantes liberados dos compromissos
+assumidos.
+15.6. Na hipótese de nenhum dos licitantes aceitar a contratação, nos termos do 15.3
+deste Edital, a Administração, observados o valor estimado e sua eventual atualização nos
+termos do edital, poderá:
+a) convocar os licitantes remanescentes para negociação, na ordem de
+classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do
+adjudicatário;
+b) adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes
+remanescentes, atendida a ordem classificatória, quando frustrada a negociação de melhor
+condição.
+15.7. A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou
+retirar o instrumento equivalente no prazo estabelecido pela Administração caracterizará o
+descumprimento total da obrigação assumida e o sujeitará às penalidades legalmente
+estabelecidas, previstas neste edital, e à imediata perda da garantia de proposta em favor do
+órgão licitante.
+16. VIGÊNCIA DO CONTRATO
+16.1. O contrato celebrado terá vigência pelo prazo de 12 (doze) meses, contando-se
+a partir do primeiro dia útil subsequente a data de divulgação no Portal Nacional de
+
+--- [pag. PDF 19] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+Contratações Públicas – PNCP, podendo ser prorrogado, justificadamente, a critério da
+Administração, com vigência máxima de 15 (quinze) anos, nos termos do art. 114, da Lei nº
+14.133, de 2021, mediante demonstração de que as condições e os preços permanecem
+vantajosos para o Município, permitida a negociação com o contratado ou a extinção
+contratual, sem ônus para qualquer das partes.
+16.2. Os valores propostos somente sofrerão reajustes após o período de 1 (um) ano,
+mediante requerimento, com base na variação do INPC, ou outro índice legal que vier a
+substituí-lo.
+17. PRAZOS E CONDIÇÕES DE PAGAMENTO
+17.1. O pagamento será efetuado em duas etapas, observadas as condições
+estabelecidas nos itens seguintes.
+17.1.1. A primeira etapa corresponde ao pagamento em parcela única dos serviços de
+implantação, migração, configuração e treinamento, devido mediante prévio empenho e
+apresentação da respectiva Nota Fiscal/Fatura, no prazo de até 30 (trinta) dias contados do
+recebimento definitivo dos serviços, nos termos do art. 92, XVI, da Lei nº 14.133/2021.
+17.1.2. A segunda etapa corresponde aos pagamentos mensais, devidos a partir do
+mês subsequente ao da efetiva execução dos serviços correspondentes, também mediante
+prévio empenho e apresentação da respectiva Nota Fiscal/Fatura, observado o mesmo
+prazo de 30 (trinta) dias previsto no item anterior.
+17.2. Nas duas etapas o pagamento será contra empenho, e mediante apresentação
+da Nota Fiscal/Fatura, correndo a despesa na seguinte dotação orçamentária:
+Projeto: 2001, 2025, 2040, 2080, 2062, 2009, 2051 e 2050
+Despesa: 3390 40 06 00 000
+Acesso: 472, 462, 464, 731, 544, 459, 477 e 730
+17.3. A nota fiscal/fatura emitida pelo fornecedor deverá conter, em local de fácil
+visualização, a indicação do número do processo, número do pregão eletrônico e da ordem
+
+--- [pag. PDF 20] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+de fornecimento, a fim de se acelerar o trâmite de recebimento do serviço e posterior
+liberação do documento fiscal para pagamento.
+17.4. O pagamento será efetuado contra empenho, após a execução do serviço, e
+mediante apresentação da Nota Fiscal/Fatura.
+17.5. Ocorrendo atraso no pagamento, os valores serão corrigidos monetariamente
+pelo índice IGPM/FGV do período, ou outro índice que vier a substituí-lo, e a Administração
+compensará a contratada com juros de 0,5% ao mês, pro rata.
+18. RECEBIMENTO DO OBJETO
+18.1. Será de responsabilidade da Contratada todos os custos necessários referentes
+a execução do serviço, objeto da presente licitação, devendo ser executados nos prazos
+previstos no termo de referência.
+18.2. Verificada a desconformidade de algum produto/serviço, a licitante vencedora
+deverá promover as correções necessárias no prazo determinado no termo de referência,
+sujeitando-se às penalidades previstas neste edital.
+19. SANÇÕES ADMINISTRATIVAS
+19.1. O licitante ou o contratado será responsabilizado administrativamente, mediante
+concessão do direito ao contraditório e à ampla defesa, pelas seguintes infrações:
+a) dar causa à inexecução parcial do contrato;
+b) dar causa à inexecução parcial do contrato que cause grave dano à
+Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo;
+c) dar causa à inexecução total do contrato;
+d) deixar de entregar a documentação exigida para o certame;
+e) não manter a proposta, salvo em decorrência de fato superveniente devidamente
+justificado;
+
+--- [pag. PDF 21] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+f) não celebrar o contrato ou não entregar a documentação exigida para a
+contratação, quando convocado dentro do prazo de validade de sua proposta;
+g) ensejar o retardamento da execução ou da entrega do objeto da licitação sem
+motivo justificado;
+h) apresentar declaração ou documentação falsa exigida para o certame ou prestar
+declaração falsa durante a licitação ou a execução do contrato;
+i) fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+j) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+k) praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+l) praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+19.2. Serão aplicadas ao responsável pelas infrações administrativas
+previstas no item 19.1 deste edital as seguintes sanções:
+a) advertência;
+b) multa de no mínimo 0,5% (cinco décimos por cento) e máximo de 30% (trinta por
+cento) do valor do objeto licitado ou contratado;
+c) impedimento de licitar e contratar, no âmbito da Administração Pública direta e
+indireta do órgão licitante, pelo prazo máximo de 3 (três) anos.
+d) declaração de inidoneidade para licitar ou contratar no âmbito da Administração
+Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e
+máximo de 6 (seis) anos.
+19.3. As sanções previstas nas alíneas “a”, “c” e “d” do item 19.2. do presente Edital
+poderão ser aplicadas cumulativamente com a prevista na alínea “b” do mesmo item.
+19.4. A aplicação de multa de mora não impedirá que a Administração a converta em
+compensatória e promova a extinção unilateral do contrato com a aplicação cumulada de
+outras sanções, conforme previsto no item 19.2 do presente Edital.
+19.5. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de
+pagamento eventualmente devido pela Administração ao contratado, além da perda desse
+
+--- [pag. PDF 22] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente.
+19.6. A aplicação das sanções previstas no item 19.2. deste Edital não exclui, em
+hipótese alguma, a obrigação de reparação integral do dano causado à Administração
+Pública.
+19.7. Na aplicação da sanção prevista no item 19.2, alínea “b”, do presente edital, será
+facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de
+sua intimação.
+19.8. Para aplicação das sanções previstas nas alíneas “c” e “d” do item 19.2 do
+presente Edital o licitante ou o contratado será intimado para, no prazo de 15 (quinze) dias
+úteis, contado da data de intimação, apresentar defesa escrita e especificar as provas que
+pretenda produzir.
+19.9. Na hipótese de deferimento de pedido de produção de novas provas ou de
+juntada de provas julgadas indispensáveis pela comissão, o licitante ou o contratado
+poderá apresentar alegações finais no prazo de 15 (quinze) dias úteis, contado da data da
+intimação.
+19.10. Serão indeferidas pela comissão, mediante decisão fundamentada, provas
+ilícitas, impertinentes, desnecessárias, protelatórias ou intempestivas.
+19.11. A personalidade jurídica poderá ser desconsiderada sempre que utilizada com
+abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos
+nesta Lei ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das
+sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios
+com poderes de administração, a pessoa jurídica sucessora ou a empresa do mesmo ramo
+com relação de coligação ou controle, de fato ou de direito, com o sancionado, observados,
+em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica
+prévia.
+19.12. É admitida a reabilitação do licitante ou contratado perante a própria autoridade
+que aplicou a penalidade, exigidos, cumulativamente:
+a) reparação integral do dano causado à Administração Pública;
+
+--- [pag. PDF 23] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+b) pagamento da multa;
+c) transcurso do prazo mínimo de 1 (um) ano da aplicação da penalidade, no caso
+de impedimento de licitar e contratar, ou de 3 (três) anos da aplicação da penalidade, no
+caso de declaração de inidoneidade;
+a) cumprimento das condições de reabilitação definidas no ato punitivo;
+b) análise jurídica prévia, com posicionamento conclusivo quanto ao cumprimento
+dos requisitos definidos neste artigo.
+19.13. A sanção pelas infrações previstas nas alíneas “h” e “m” do item 19.2 do
+presente edital exigirá, como condição de reabilitação do licitante ou contratado, a
+implantação ou aperfeiçoamento de programa de integridade pelo responsável.
+20. PEDIDOS DE ESCLARECIMENTOS E IMPUGNAÇÕES
+20.1. Os pedidos de esclarecimentos referentes ao processo licitatório e os pedidos
+de impugnações poderão ser enviados ao pregoeiro, até três dias úteis anteriores à data
+fixada para abertura da sessão pública, por meio do seguinte endereço eletrônico:
+www.portaldecompraspublicas.com.br.
+20.2. As respostas aos pedidos de esclarecimentos e às impugnações serão
+divulgadas no seguinte sítio eletrônico www.portaldecompraspublicas.com.br.
+21. DAS DISPOSIÇÕES GERAIS
+21.1. A proponente que vier a ser contratada ficará obrigada a aceitar, nas mesmas
+condições contratuais, os acréscimos ou supressões que se fizerem necessários, por
+conveniência da Administração, dentro do limite permitido pelo artigo 125 da Lei nº
+14.133/2021, sobre o valor inicial atualizado do contrato.
+21.2. Após a apresentação da proposta, não caberá desistência, salvo por motivo
+justo decorrente de fato superveniente e aceito pelo pregoeiro.
+21.3. A Administração tem a prerrogativa de fiscalizar o cumprimento satisfatório do
+
+--- [pag. PDF 24] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+objeto da presente licitação, por meio de agente designado para tal função, conforme o
+disposto na Lei nº 14.133/2021.
+21.4. Em caso de divergência entre o edital e seus anexos, prevalecerá o disposto no
+edital.
+21.5. Fica eleito o Foro da Comarca de Santa Rosa - RS para dirimir quaisquer litígios
+oriundos da licitação e do contrato dela decorrente, com expressa renúncia a outro qualquer,
+por mais privilegiado que seja.
+21.6. Constituem anexo e fazem parte integrante do presente edital:
+I – Minuta de Contrato;
+II – Termo de Referência do Objeto;
+III - Modelo de Proposta Comercial;
+IV - Modelo de declaração conjunta.
+Porto Mauá, 30 de setembro de 2026.
+CARLOS CESAR DINON
+Prefeito Municipal
+Este edital foi devidamente examinado e
+aprovado por esta Assessoria Jurídica.
+Em 30/09/2026
+Gilberto Luiz Bohm
+Assessor Jurídico
+
+--- [pag. PDF 25] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+ANEXO I – MINUTA DO CONTRATO
+Contrato nº ______
+Aos ____ dias do mês de __________ de 2026, de um lado o [Município de Porto Mauá –
+RS / a Câmara de Vereadores de Porto Mauá – RS], pessoa jurídica de direito público,
+inscrito no CNPJ sob o nº ______________, com sede na Rua Uruguai, nº 155, Centro,
+Porto Mauá/RS, neste ato representado por ____________, doravante denominado
+CONTRATANTE, e, de outro lado, a empresa ______________________, pessoa jurídica
+de direito privado, inscrita no CNPJ sob nº ______________, com sede na
+______________________, neste ato representada por ______________________,
+portador(a) do CPF nº ______________, doravante denominada CONTRATADA, celebram
+entre si o presente Contrato, regido pelas cláusulas e condições a seguir.
+CLÁUSULA PRIMEIRA – DA FUNDAMENTAÇÃO
+O presente instrumento é fundamentado no procedimento licitatório realizado pela
+CONTRATANTE através do Pregão Eletrônico nº 66/2026, na proposta vencedora e nos
+termos de homologação e adjudicação datados de ______________, regendo-se pelas
+cláusulas aqui previstas, pelo Edital, pelo Termo de Referência e demais anexos, que
+passam a integrar este contrato independentemente de transcrição, bem como pela Lei nº
+14.133/2021 e demais dispositivos legais aplicáveis, inclusive nos casos omissos.
+CLÁUSULA SEGUNDA – DO OBJETO E DA FORMA DE EXECUÇÃO
+O presente contrato tem por objeto a contratação de empresa especializada na prestação de
+serviços de cessão de uso de sistema informatizado de gestão municipal, em ambiente web
+(cloud computing), no modelo Software as a Service (SaaS), incluindo implantação,
+parametrização, eventual migração de dados, treinamento de usuários, suporte técnico,
+manutenção corretiva, evolutiva e atualizações, destinado ao atendimento das demandas do
+CONTRATANTE, conforme especificações, prazos e exigências descritas no Edital do
+Pregão Eletrônico nº _____/2026, no Termo de Referência e seus anexos.
+A execução observará as especificações, condições técnicas, níveis mínimos de serviço,
+cronograma de implantação e demais requisitos estabelecidos no Termo de Referência e na
+proposta da CONTRATADA. Os serviços de suporte técnico, manutenção e atualização legal
+serão prestados de forma contínua durante toda a vigência contratual, e os serviços técnicos
+especializados, consultorias, personalizações e atendimentos presenciais eventuais serão
+executados somente mediante solicitação formal da CONTRATANTE, observados os limites
+e condições do Termo de Referência.
+A CONTRATADA deverá disponibilizar a solução de forma ininterrupta, respeitado o índice
+mínimo de disponibilidade previsto no Termo de Referência, ressalvadas as manutenções
+
+--- [pag. PDF 26] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+programadas previamente comunicadas.
+Todos os serviços serão executados sob fiscalização da CONTRATANTE, que poderá
+realizar inspeções, auditorias, testes de conformidade e validações técnicas durante toda a
+vigência contratual, sem prejuízo da responsabilidade exclusiva da CONTRATADA pela
+perfeita execução do objeto.
+CLÁUSULA TERCEIRA – DO PREÇO
+O preço para a execução do objeto deste contrato é de R$ ______________
+(______________), conforme proposta vencedora da licitação, aceito pela CONTRATADA
+como preço justo e suficiente para a total execução do objeto, discriminado conforme tabela
+constante da proposta e do Termo de Referência.
+(Planilha da proposta vencedora)
+No valor estão incluídas todas as despesas diretas e indiretas necessárias à execução do
+objeto, incluindo tributos, encargos sociais, trabalhistas e previdenciários, deslocamentos,
+hospedagem, alimentação e demais custos incidentes, não sendo devido qualquer
+pagamento adicional a esse título.
+CLÁUSULA QUARTA – DAS CONDIÇÕES DE PAGAMENTO
+O pagamento observará, no que couber, o disposto no item 7 do Termo de Referência,
+compreendendo o pagamento em parcela única dos serviços de implantação, mediante
+prévio empenho e emissão de termo de recebimento definitivo, e o pagamento mensal da
+cessão de uso, suporte técnico, manutenção e atualizações, mediante apresentação de Nota
+Fiscal/Fatura.
+Em ambas as hipóteses, o pagamento será efetuado em até 30 (trinta) dias corridos,
+contados do recebimento da Nota Fiscal/Fatura devidamente atestada pelo fiscal do
+contrato, nos termos do art. 92, inciso XVI, da Lei nº 14.133/2021.
+A Nota Fiscal/Fatura deverá conter, em local de fácil visualização, a indicação do número do
+processo licitatório, do Pregão Eletrônico e da Ordem de Fornecimento correspondente.
+Ocorrendo atraso no pagamento por culpa exclusiva da CONTRATANTE, os valores devidos
+serão atualizados monetariamente pelo IPCA-E, ou outro índice que vier a substituí-lo, do
+vencimento até o efetivo pagamento, sem prejuízo de eventuais juros de mora, quando
+cabíveis.
+CLÁUSULA QUINTA – DO REAJUSTE
+Os preços contratados poderão ser reajustados, observado o interregno mínimo de 1 (um)
+ano, contado da data do orçamento estimado da licitação, mediante aplicação do INPC
+(Índice Nacional de Preços ao Consumidor), ou outro índice que venha a substituí-lo, nos
+termos do art. 6º, inciso LVIII, e do art. 25, § 8º, inciso I, da Lei nº 14.133/2021.
+
+--- [pag. PDF 27] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+O reajuste dependerá de requerimento da CONTRATADA e de prévia autorização da
+autoridade competente, sendo formalizado por despacho e registrado no contrato mediante
+simples apostila, nos termos do art. 136, inciso I, da mesma Lei, não se admitindo
+concessão de ofício nem efeito retroativo anterior à data do deferimento.
+CLÁUSULA SEXTA – DOS PRAZOS DE EXECUÇÃO
+A execução dos serviços deverá ser iniciada no prazo máximo de 5 (cinco) dias úteis,
+contados da publicação do contrato no PNCP e da emissão da ordem de início dos serviços
+dos módulos a serem contratados
+A implantação do sistema deverá ser concluída no prazo máximo de 60 (sessenta) dias
+corridos, contados do início da execução, observado o cronograma aprovado pela
+Administração, nos termos do item 5.2 do Termo de Referência.
+O Plano de Treinamento deverá ser entregue em até 5 (cinco) dias contados da assinatura
+do contrato, conforme o item 5.4 do Termo de Referência.
+CLÁUSULA SÉTIMA – DA VIGÊNCIA
+O contrato terá vigência de 12 (doze) meses, contados da data de sua assinatura ou da
+emissão da ordem de início, podendo ser prorrogado sucessivamente, a critério da
+CONTRATANTE, respeitada a vigência máxima decenal, nos termos do art. 106 e do art.
+107 da Lei nº 14.133/2021, condicionada cada prorrogação à demonstração de que os
+preços e as condições permanecem vantajosos para a Administração e à existência de
+dotação orçamentária.
+CLÁUSULA OITAVA – DA DOTAÇÃO ORÇAMENTÁRIA
+As despesas decorrentes deste contrato correrão à conta da seguinte dotação orçamentária
+do [ente contratante], prevista no orçamento para o exercício de 2026:
+Órgão: ______________ | Programa: ______________ | Ação: ______________ | Elemento
+de Despesa: ______________ | Dotação: ______________
+CLÁUSULA NONA – DO NÍVEL DE SERVIÇO E DAS PENALIDADES
+Os chamados de suporte técnico serão classificados, conforme o item 5.5 do Termo de
+Referência, em (i) críticos, assim entendidos aqueles que impossibilitem a operação de
+módulos essenciais, com prazo máximo de atendimento de 4 (quatro) horas úteis, e (ii)
+demais demandas, com prazo máximo de 1 (um) dia útil, contados da abertura do chamado.
+O descumprimento do prazo de atendimento de chamado crítico sujeitará a CONTRATADA
+à multa de 1% (um por cento) sobre o valor mensal do item afetado por hora útil de atraso,
+limitada a 10% (dez por cento) do valor mensal desse item, sem prejuízo de notificação para
+regularização.
+
+--- [pag. PDF 28] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+O descumprimento do prazo de atendimento das demais demandas sujeitará a
+CONTRATADA à multa de 0,5% (meio por cento) sobre o valor mensal do item afetado por
+dia útil de atraso, limitada a 10% (dez por cento) do valor mensal desse item, sem prejuízo
+de notificação para regularização.
+Além das multas previstas nesta cláusula, sem prejuízo das responsabilidades civil e criminal
+cabíveis e da faculdade de rescisão contratual, a CONTRATANTE poderá aplicar à
+CONTRATADA, nos termos do art. 155 e seguintes da Lei nº 14.133/2021, garantida a
+prévia defesa:
+I. Advertência, aplicada exclusivamente pela infração prevista no inciso I do caput do art. 155
+da Lei nº 14.133/2021, quando não se justificar penalidade mais grave;
+II. Multa correspondente a 1% (um por cento) do valor do contrato ou da solicitação de
+fornecimento por dia de atraso na entrega do objeto, até o limite de 15% (quinze por cento);
+7,5% (sete e meio por cento) do valor total da proposta, nas hipóteses de inexecução parcial
+do contrato, não entrega de documentação exigida para o certame, ou retardamento
+injustificado da execução; 10% (dez por cento) do valor total da proposta, em caso de
+inexecução parcial que cause grave dano à Administração ou aos serviços públicos, ou de
+não manutenção da proposta sem justificativa; e 15% (quinze por cento) do valor total da
+proposta, nas hipóteses de inexecução total, declaração ou documentação falsa, fraude à
+licitação ou ao contrato, comportamento inidôneo ou prática de ato lesivo previsto no art. 5º
+da Lei nº 12.846/2013;
+III. Impedimento de licitar e contratar no âmbito da Administração Pública direta e indireta do
+Município de Porto Mauá/RS, pelo prazo máximo de 3 (três) anos, nas hipóteses dos incisos
+II a VII do caput do art. 155 da Lei nº 14.133/2021, quando não se justificar penalidade mais
+grave;
+IV. Declaração de inidoneidade para licitar ou contratar no âmbito da Administração Pública
+de todos os entes federativos, pelo prazo mínimo de 3 (três) e máximo de 6 (seis) anos, nas
+hipóteses dos incisos VIII a XII do caput do art. 155 da Lei nº 14.133/2021, ou nas hipóteses
+dos incisos II a VII do mesmo artigo que justifiquem penalidade mais grave.
+A sanção de multa poderá ser cumulada com as demais sanções administrativas, exceto
+com as multas previstas nesta cláusula quando decorrerem do mesmo fato gerador. As
+sanções somente serão aplicadas mediante regular processo administrativo, assegurados o
+contraditório e a ampla defesa, na forma dos arts. 155 a 163 da Lei nº 14.133/2021, sendo o
+extrato da decisão publicado no Diário Oficial do Município e comunicado ao controle interno
+para as providências cabíveis.
+CLÁUSULA DÉCIMA – DA GESTÃO E FISCALIZAÇÃO DO CONTRATO
+A execução do contrato será acompanhada e fiscalizada por fiscal designado por portaria da
+
+--- [pag. PDF 29] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+autoridade competente do CONTRATANTE, nos termos do art. 117 da Lei nº 14.133/2021,
+cabendo-lhe anotar em registro próprio as ocorrências relacionadas à execução,
+determinando o que for necessário à regularização das faltas ou defeitos observados (art.
+117, § 1º), e informar aos superiores, em tempo hábil, a situação que ultrapassar sua
+competência (art. 117, § 2º).
+CLÁUSULA DÉCIMA PRIMEIRA – DAS OBRIGAÇÕES DA CONTRATADA E DA
+CONTRATANTE
+As obrigações da CONTRATADA e da CONTRATANTE são as previstas nos itens 6.4 e 6.5
+do Termo de Referência, que passam a integrar este contrato independentemente de
+transcrição, aplicando-se subsidiariamente as disposições da Lei nº 14.133/2021.
+CLÁUSULA DÉCIMA SEGUNDA – DA ALTERAÇÃO OU EXTINÇÃO DO CONTRATO
+As alterações contratuais regem-se pelos arts. 124 e seguintes da Lei nº 14.133/2021, sendo
+a CONTRATADA obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou
+supressões necessários até o limite de 25% (vinte e cinco por cento) do valor inicial
+atualizado do contrato.
+Os valores poderão ser revisados, mediante pedido fundamentado da CONTRATADA, em
+caso de força maior, caso fortuito, fato do príncipe, ou fato imprevisível ou previsível de
+consequências incalculáveis que inviabilize a execução do contrato tal como pactuado,
+sendo o prazo de resposta ao pedido de 30 (trinta) dias, prorrogável por igual período
+mediante justificativa.
+A extinção do contrato poderá se dar por ato unilateral e motivado da Administração, exceto
+quando esta tiver dado causa, por acordo entre as partes, desde que haja interesse da
+Administração, ou por decisão arbitral ou judicial, nos termos do art. 137 da Lei nº
+14.133/2021, assegurados, em todos os casos, o contraditório e a ampla defesa.
+CLÁUSULA DÉCIMA TERCEIRA – DA VINCULAÇÃO AO PROCESSO LICITATÓRIO
+Este contrato vincula-se ao Processo Licitatório nº _____/2026, Pregão Eletrônico nº
+_____/2026, ao Edital, ao Termo de Referência, ao Estudo Técnico Preliminar e à proposta
+vencedora, que passam a integrá-lo independentemente de transcrição.
+CLÁUSULA DÉCIMA QUARTA – DA LEGISLAÇÃO APLICÁVEL
+Aplica-se a este contrato a Lei nº 14.133/2021, no que couber, os preceitos de direito público
+e, supletivamente, os princípios da teoria geral dos contratos e as disposições de direito
+privado.
+CLÁUSULA DÉCIMA QUINTA – DO FORO
+Fica eleito o foro da Comarca de Santa Rosa/RS para dirimir quaisquer questões
+
+--- [pag. PDF 30] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+relacionadas a este contrato, com renúncia expressa a qualquer outro.
+E, por estarem justos e contratados, as partes assinam o presente instrumento em duas vias
+de igual teor e forma, juntamente com duas testemunhas.
+Porto Mauá/RS, ____ de __________ de 2026.
+CONTRATANTE ______________________ CONTRATADA ______________________
+Testemunhas: 1. ______________________ 2. ______________________
+
+--- [pag. PDF 31] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+ANEXO II – TERMO DE REFERÊNCIA DO OBJETO
+Especificações do objeto - quantitativos, qualitativos e valores estimados.
+LOTE ITEM DESCRIÇÃO QTDE UN VALOR
+UNITÁRIO VALOR TOTAL
+01
+1 MÓDULO CONTABILIDADE
+PÚBLICA PREFEITURA 12 UN R$1.906,64 R$
+22.879,68
+2 MÓDULO PRESTAÇÃO DE
+CONTAS PREFEITURA 12 UN R$653,16 R$
+7.837,92
+3
+MÓDULO PLANEJAMENTO E
+CONTROLE DE ORÇAMENTO
+PREFEITURA
+12 UN R$959,89 R$
+11.518,68
+4
+MÓDULO CONTROLE DE
+CONTRATOS, CONVÊNIOS E
+PARCERIAS PREFEITURA
+12 UN R$702,53 R$
+8.430,36
+5
+MÓDULO CONTROLE DE
+DIÁRIAS E ADIANTAMENTOS
+PREFEITURA
+12 UN R$334,80 R$
+4.017,60
+6 MÓDULO CONTROLE
+INTERNO PREFEITURA 12 UN R$486,68 R$
+5.840,16
+7
+MÓDULO EMENDAS
+PARLAMENTARES
+PREFEITURA
+12 UN R$1.150,00 R$
+13.800,00
+8 MÓDULO CONTROLE DE
+TESOURARIA PREFEITURA 12 UN R$746,01 R$
+8.952,12
+9
+MÓDULO CONTROLE DE
+PATRIMÔNIO PÚBLICO
+PREFEITURA
+12 UN R$755,77 R$
+9.069,24
+10
+MÓDULO CONTROLE DE
+ALMOXARIFADO/ESTOQUE
+PREFEITURA
+12 UN R$597,24 R$
+7.166,88
+11 MÓDULO LICITAÇÕES E
+COMPRAS PREFEITURA 12 UN R$1.374,39 R$
+16.492,68
+12 MÓDULO LICITACON OBRAS 12 UN R$467,36 R$
+5.608,32
+13 MODULO DE CONTROLE DE 12 UN R$565,23 R$
+
+--- [pag. PDF 32] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+VEÍCULOS E FROTAS 6.782,76
+14 MÓDULO DE OBRAS E
+SERVIÇOS 12 UN R$471,81 R$
+5.661,72
+15 MÓDULO FOLHA DE
+PAGAMENTO PREFEITURA 12 UN R$1.923,09 R$
+23.077,08
+16 MÓDULO ATENDIMENTO AO
+E-SOCIAL PREFEITURA 12 UN R$759,43 R$
+9.113,16
+17 MÓDULO CONTROLE DE
+PONTO ELETRÔNICO 12 UN R$790,95 R$
+9.491,40
+18
+MÓDULO PORTAL DO
+SERVIDOR PÚBLICO
+PREFEITURA
+12 UN R$409,00 R$
+4.908,00
+19 MÓDULO PROCURADORIA 12 UN R$501,24 R$
+6.014,88
+20 MÓDULO TRIBUTOS E
+RECEITAS MUNICIPAIS 12 UN R$2.104,63 R$
+25.255,56
+21 MÓDULO DECLARAÇÃO
+ELETRÔNICA DO ISS 12 UN R$671,77 R$
+8.061,24
+22 MÓDULO ITBI ELETRÔNICO 12 UN R$378,73 R$
+4.544,76
+23 MÓDULO PROTESTO
+ELETRÔNICO 12 UN R$411,29 R$
+4.935,48
+24 MÓDULO NOTA FISCAL
+ELETRÔNICA 12 UN R$1.135,64 R$
+13.627,68
+25
+MÓDULO CONTROLE DE
+LEITURA E FATURAMENTO
+DE ÁGUA
+12 UN R$758,26 R$
+9.099,12
+26
+MÓDULO PROTOCOLO
+ONLINE E PROCESSO
+DIGITAL
+12 UN R$1.198,49 R$
+14.381,88
+27 MÓDULO PROCESSO
+DIGITAL PARA ENGENHARIA 12 UN R$490,97 R$
+5.891,64
+28 MÓDULO DE
+LICENCIAMENTO AMBIENTAL 12 UN R$922,68 R$
+11.072,16
+29 MÓDULO CONTROLE DE
+IMÓVEIS (SINTER) 12 UN R$750,00 R$
+9.000,00
+30 MÓDULO OUVIDORIA 12 UN R$238,00 R$
+
+--- [pag. PDF 33] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+2.856,00
+31 MÓDULO ATENDIMENTO AO
+CIDADÃO 12 UN R$602,86 R$
+7.234,32
+32
+MÓDULO PORTAL DA
+TRANSPARÊNCIA
+PREFEITURA
+12 UN R$717,70 R$
+8.612,40
+33 MÓDULO PORTAL DA
+PREFEITURA 12 UN R$771,52 R$
+9.258,24
+34 APLICATIVO DO CIDADÃO 12 UN R$510,00 R$
+6.120,00
+35 MÓDULO INDICADORES DE
+GESTÃO 12 UN R$638,85 R$
+7.666,20
+36 MÓDULO SECRETARIA
+ESCOLAR 12 UN R$1.722,03 R$
+20.664,36
+37 MÓDULO PAIS E ALUNOS 12 UN R$524,19 R$
+6.290,28
+38 MÓDULO PROFESSORES 12 UN R$665,35 R$
+7.984,20
+39 MÓDULO MERENDA
+ESCOLAR 12 UN R$431,26 R$
+5.175,12
+40 MÓDULO BIBLIOTECA 12 UN R$437,98 R$
+5.255,76
+41 MÓDULO ESTOQUE DA
+FARMÁCIA MUNICIPAL 12 UN R$981,28 R$
+11.775,36
+42 MÓDULO CONTROLE DE
+VACINAÇÃO 12 UN R$415,80 R$
+4.989,60
+43 MÓDULO SAÚDE DOMICILIAR
+(AGENTE COMUNITÁRIO) 12 UN R$432,10 R$
+5.185,20
+44 MÓDULO ASSISTÊNCIA
+SOCIAL 12 UN R$573,78 R$
+6.885,36
+45
+MÓDULO SERVIÇO DE
+HOSPEDAGEM EM DATA
+CENTER
+12 UN R$2.896,13 R$
+34.753,56
+46
+MÓDULO CONTABILIDADE
+PÚBLICA CÂMARA DE
+VEREADORES
+12 UN R$633,39 R$
+7.600,68
+47 MÓDULO PRESTAÇÃO DE 12 UN R$207,51 R$
+
+--- [pag. PDF 34] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+CONTAS CÂMARA DE
+VEREADORES
+2.490,12
+48
+MÓDULO PLANEJAMENTO E
+CONTROLE DE ORÇAMENTO
+CÂMARA DE VEREADORES
+12 UN R$293,61 R$
+3.523,32
+49
+MÓDULO CONTROLE DE
+PATRIMÔNIO PÚBLICO
+CÂMARA DE VEREADORES
+12 UN R$300,13 R$
+3.601,56
+50 MÓDULO DE PORTAL DA
+TRANSPARÊNCIA 12 UN R$364,39 R$
+4.372,68
+51
+MÓDULO CONTROLE DE
+ALMOXARIFADO/ESTOQUE
+CÂMARA DE VEREADORES
+12 UN R$245,80 R$
+2.949,60
+52
+MÓDULO LICITAÇÕES E
+COMPRAS CÂMARA DE
+VEREADORES
+12 UN R$450,31 R$
+5.403,72
+53 MÓDULO PORTAL DA
+CÂMARA DE VEREADORES 12 UN R$314,94 R$
+3.779,28
+54 MODULO DE FOLHA DE
+PAGAMENTO 12 UN R$594,50 R$
+7.134,00
+55
+MÓDULO ATENDIMENTO AO
+E-SOCIAL CÂMARA DE
+VEREADORES
+12 UN R$305,12 R$
+3.661,44
+56
+MÓDULO PORTAL DO
+SERVIDOR PÚBLICO
+CÂMARA DE VEREADORES
+12 UN R$209,00 R$
+2.508,00
+57
+SERVIÇO DE HOSPEDAGEM
+EM DATA CENTER CÂMARA
+DE VEREADORES
+12 UN R$587,29 R$
+7.047,48
+58
+MÓDULO CONTABILIDADE
+PÚBLICA FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN R$387,34 R$
+4.648,08
+59
+MÓDULO CONTROLE DE
+TESOURARIA FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN R$160,61 R$
+1.927,32
+60 MÓDULO FOLHA DE
+PAGAMENTO FUNDO DE 12 UN R$414,36 R$
+4.972,32
+
+--- [pag. PDF 35] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+61
+MÓDULO ATENDIMENTO AO
+E-SOCIAL FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN R$243,72 R$
+2.924,64
+62
+MÓDULO PORTAL DO
+SERVIDOR PÚBLICO FUNDO
+DE APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN R$85,82 R$
+1.029,84
+63
+MÓDULO PORTAL DA
+TRANSPARÊNCIA FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN R$160,93 R$
+1.931,16
+64
+SERVIÇO DE HOSPEDAGEM
+EM DATA CENTER FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 SER R$413,42 R$
+4.961,04
+65
+SERVIÇO DE IMPLANTAÇÃO,
+CONVERSÃO, MIGRAÇÃO E
+TREINAMENTO
+1 SER R$43.952,12 R$
+43.952,12
+66 ATENDIMENTO TÉCNICO
+PRESENCIAL 1 SER R$202,05 R$
+202,05
+VALOR TOTAL DO LOTE: R$ 563.858,57
+
+--- [pag. PDF 36] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+ANEXO III – MODELO DE PROPOSTA COMERCIAL
+Empresa: ________________
+Endereço: ________________
+CNPJ: ________________
+Telefone ________________
+Email: ________________
+Responsável: ________________
+Dados bancários: ____________
+LOTE ITEM DESCRIÇÃO QTDE UN VALOR
+UNITÁRIO VALOR TOTAL
+01
+1 MÓDULO CONTABILIDADE
+PÚBLICA PREFEITURA 12 UN
+2 MÓDULO PRESTAÇÃO DE
+CONTAS PREFEITURA 12 UN
+3
+MÓDULO PLANEJAMENTO E
+CONTROLE DE ORÇAMENTO
+PREFEITURA
+12 UN
+4
+MÓDULO CONTROLE DE
+CONTRATOS, CONVÊNIOS E
+PARCERIAS PREFEITURA
+12 UN
+5
+MÓDULO CONTROLE DE
+DIÁRIAS E ADIANTAMENTOS
+PREFEITURA
+12 UN
+6 MÓDULO CONTROLE
+INTERNO PREFEITURA 12 UN
+7
+MÓDULO EMENDAS
+PARLAMENTARES
+PREFEITURA
+12 UN
+8 MÓDULO CONTROLE DE
+TESOURARIA PREFEITURA 12 UN
+9
+MÓDULO CONTROLE DE
+PATRIMÔNIO PÚBLICO
+PREFEITURA
+12 UN
+10
+MÓDULO CONTROLE DE
+ALMOXARIFADO/ESTOQUE
+PREFEITURA
+12 UN
+
+--- [pag. PDF 37] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+11 MÓDULO LICITAÇÕES E
+COMPRAS PREFEITURA 12 UN
+12 MÓDULO LICITACON OBRAS 12 UN
+13 MODULO DE CONTROLE DE
+VEÍCULOS E FROTAS 12 UN
+14 MÓDULO DE OBRAS E
+SERVIÇOS 12 UN
+15 MÓDULO FOLHA DE
+PAGAMENTO PREFEITURA 12 UN
+16 MÓDULO ATENDIMENTO AO
+E-SOCIAL PREFEITURA 12 UN
+17 MÓDULO CONTROLE DE
+PONTO ELETRÔNICO 12 UN
+18
+MÓDULO PORTAL DO
+SERVIDOR PÚBLICO
+PREFEITURA
+12 UN
+19 MÓDULO PROCURADORIA 12 UN
+20 MÓDULO TRIBUTOS E
+RECEITAS MUNICIPAIS 12 UN
+21 MÓDULO DECLARAÇÃO
+ELETRÔNICA DO ISS 12 UN
+22 MÓDULO ITBI ELETRÔNICO 12 UN
+23 MÓDULO PROTESTO
+ELETRÔNICO 12 UN
+24 MÓDULO NOTA FISCAL
+ELETRÔNICA 12 UN
+25
+MÓDULO CONTROLE DE
+LEITURA E FATURAMENTO
+DE ÁGUA
+12 UN
+26
+MÓDULO PROTOCOLO
+ONLINE E PROCESSO
+DIGITAL
+12 UN
+27 MÓDULO PROCESSO
+DIGITAL PARA ENGENHARIA 12 UN
+28 MÓDULO DE
+LICENCIAMENTO AMBIENTAL 12 UN
+
+--- [pag. PDF 38] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+29 MÓDULO CONTROLE DE
+IMÓVEIS (SINTER) 12 UN
+30 MÓDULO OUVIDORIA 12 UN
+31 MÓDULO ATENDIMENTO AO
+CIDADÃO 12 UN
+32
+MÓDULO PORTAL DA
+TRANSPARÊNCIA
+PREFEITURA
+12 UN
+33 MÓDULO PORTAL DA
+PREFEITURA 12 UN
+34 APLICATIVO DO CIDADÃO 12 UN
+35 MÓDULO INDICADORES DE
+GESTÃO 12 UN
+36 MÓDULO SECRETARIA
+ESCOLAR 12 UN
+37 MÓDULO PAIS E ALUNOS 12 UN
+38 MÓDULO PROFESSORES 12 UN
+39 MÓDULO MERENDA
+ESCOLAR 12 UN
+40 MÓDULO BIBLIOTECA 12 UN
+41 MÓDULO ESTOQUE DA
+FARMÁCIA MUNICIPAL 12 UN
+42 MÓDULO CONTROLE DE
+VACINAÇÃO 12 UN
+43 MÓDULO SAÚDE DOMICILIAR
+(AGENTE COMUNITÁRIO) 12 UN
+44 MÓDULO ASSISTÊNCIA
+SOCIAL 12 UN
+45
+MÓDULO SERVIÇO DE
+HOSPEDAGEM EM DATA
+CENTER
+12 UN
+46
+MÓDULO CONTABILIDADE
+PÚBLICA CÂMARA DE
+VEREADORES
+12 UN
+47 MÓDULO PRESTAÇÃO DE
+CONTAS CÂMARA DE 12 UN
+
+--- [pag. PDF 39] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+VEREADORES
+48
+MÓDULO PLANEJAMENTO E
+CONTROLE DE ORÇAMENTO
+CÂMARA DE VEREADORES
+12 UN
+49
+MÓDULO CONTROLE DE
+PATRIMÔNIO PÚBLICO
+CÂMARA DE VEREADORES
+12 UN
+50 MÓDULO DE PORTAL DA
+TRANSPARÊNCIA 12 UN
+51
+MÓDULO CONTROLE DE
+ALMOXARIFADO/ESTOQUE
+CÂMARA DE VEREADORES
+12 UN
+52
+MÓDULO LICITAÇÕES E
+COMPRAS CÂMARA DE
+VEREADORES
+12 UN
+53 MÓDULO PORTAL DA
+CÂMARA DE VEREADORES 12 UN
+54 MODULO DE FOLHA DE
+PAGAMENTO 12 UN
+55
+MÓDULO ATENDIMENTO AO
+E-SOCIAL CÂMARA DE
+VEREADORES
+12 UN
+56
+MÓDULO PORTAL DO
+SERVIDOR PÚBLICO
+CÂMARA DE VEREADORES
+12 UN
+57
+SERVIÇO DE HOSPEDAGEM
+EM DATA CENTER CÂMARA
+DE VEREADORES
+12 UN
+58
+MÓDULO CONTABILIDADE
+PÚBLICA FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN
+59
+MÓDULO CONTROLE DE
+TESOURARIA FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN
+60
+MÓDULO FOLHA DE
+PAGAMENTO FUNDO DE
+APOSENTADORIA E
+12 UN
+
+--- [pag. PDF 40] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+PENSÕES DOS SERVIDORES
+61
+MÓDULO ATENDIMENTO AO
+E-SOCIAL FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN
+62
+MÓDULO PORTAL DO
+SERVIDOR PÚBLICO FUNDO
+DE APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN
+63
+MÓDULO PORTAL DA
+TRANSPARÊNCIA FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 UN
+64
+SERVIÇO DE HOSPEDAGEM
+EM DATA CENTER FUNDO DE
+APOSENTADORIA E
+PENSÕES DOS SERVIDORES
+12 SER
+65
+SERVIÇO DE IMPLANTAÇÃO,
+CONVERSÃO, MIGRAÇÃO E
+TREINAMENTO
+1 SER
+66 ATENDIMENTO TÉCNICO
+PRESENCIAL 1 SER
+VALOR TOTAL DO LOTE: R$
+O prazo de validade dessa proposta é de 60 (sessenta) dias corridos contados a
+partir da data de entrega da mesma.
+Declaramos que examinamos, conhecemos e nos submetemos a todas as condições
+contidas no Edital e seus anexos, bem como verificamos todas as especificações nele
+contidas, não havendo qualquer discrepância entre quaisquer informações e/ou documentos
+que dele fazem parte, e estamos cientes de todas as condições que possam de qualquer
+forma influir nos custos, assim como de qualquer despesa relativa à realização integral de
+seu objeto, assumindo total responsabilidade pelas informações, erros ou omissões
+existentes nesta proposta.
+Declaramos, ainda, que estão incluídos no preço proposto todas as despesas
+relacionadas com o objeto do Edital, como impostos, fretes, seguros, taxas, encargos
+
+--- [pag. PDF 41] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+trabalhistas, previdenciários, sociais, fiscais e comerciais, gastos com transportes, prêmios
+de seguros e outras despesas decorrentes de exigência legal.
+Data / /
+Carimbo e assinatura:
+Responsável: CPF:
+
+--- [pag. PDF 42] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+ANEXO IV – MODELO DE DECLARAÇÃO CONJUNTA
+A empresa__________________ inscrita no CNPJ sob o nº __________ representada pelo
+(a) Sr. (a)__________________, CPF nº __________________, declara:
+a) Que tomou conhecimento de todas as informações e das condições locais para o
+cumprimento das obrigações objeto da licitação;
+b) Que cumpre as exigências de reserva de cargos para pessoa com deficiência e para
+reabilitado da Previdência Social, previstas em lei e em outras normas específicas;
+c) Que cumpre os requisitos legais para a qualificação como microempresa ou empresa de
+pequeno porte, microempreendedor individual, produtor rural pessoa física, agricultor familiar
+ou sociedade cooperativa de consumo, se for o caso, estando apto a usufruir do tratamento
+favorecido estabelecido nos arts. 42 ao 49 da Lei Complementar nº 123, de 14 de dezembro
+de 2006;
+d) Que no ano-calendário de realização da licitação, a microempresa ou a empresa de
+pequeno porte ainda não celebrou contratos com a Administração Pública, cujos valores
+somados extrapolem a receita bruta máxima admitida para fins de enquadramento como
+empresa de pequeno porte;
+e) Que suas propostas econômicas compreendem a integralidade dos custos para
+atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis
+trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos de
+ajustamento de conduta vigentes na data de entrega das propostas;
+f) Que atende ao disposto no artigo 7º, inciso XXXIII, da Constituição da República, o qual
+traz a proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de
+qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de
+quatorze anos;
+
+--- [pag. PDF 43] ---
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE PORTO MAUÁ
+Rua Uruguai, 155 – Porto Mauá – RS – CEP: 98.947-000 – Fone/Fax: (55) 3187-0146
+www.portomaua.rs.gov.br - E-mail: compras@portomaua.rs.gov.br
+“Doe Órgãos, Doe Sangue: Salve Vidas”
+g) Que os sócios e procuradores da empresa não possuem vínculo de natureza técnica,
+comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade
+contratante ou com agente público que desempenhe função na licitação ou atue na
+fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente
+em linha reta, colateral ou por afinidade, até o terceiro grau.
+Data / /
+Carimbo e assinatura:
+Responsável: CPF:

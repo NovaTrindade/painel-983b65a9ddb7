@@ -1,0 +1,51 @@
+{
+ "id": "93845519000151-2026-241",
+ "extraidoEm": "2026-10-02T12:52:30.437Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/93845519000151/2026/241",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-63926387697237246811530-1-11414-DFD.txt",
+   "titulo": "63926387697237246811530_1_11414_DFD.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 84,
+   "caracteres": 423340
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-11530-Edital-Contratacao-de-Empresa-de-Sistemas-Pregao-Eletr.txt",
+   "titulo": "11530_Edital Contratacao de Empresa de Sistemas - Pregao Eletronico 662026.pdf",
+   "tipo": "Edital",
+   "paginas": 43,
+   "caracteres": 78612
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-11530-PUBLICADO-MURAL-DA-ENTIDADE.txt",
+   "titulo": "11530_PUBLICADO MURAL DA ENTIDADE.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 21,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-11530-PUBLICADO-FAMURS.txt",
+   "titulo": "11530_PUBLICADO FAMURS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 10369
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-11530-PUBLICADO-JORNAL-CIDADES.txt",
+   "titulo": "11530_PUBLICADO JORNAL CIDADES.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 5382
+  }
+ ],
+ "totalPaginas": 131,
+ "totalCaracteres": 517724,
+ "comErro": 0
+}
