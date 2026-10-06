@@ -1,0 +1,26 @@
+{
+ "id": "24851453000190-2026-39",
+ "extraidoEm": "2026-10-06T13:27:00.226Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/24851453000190/2026/39",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-07-EDITAL-PREGAO-016-2026.txt",
+   "titulo": "07 EDITAL PREGAO 016-2026.pdf",
+   "tipo": "Edital",
+   "paginas": 51,
+   "caracteres": 123391
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-03-TR.txt",
+   "titulo": "03 TR.pdf",
+   "tipo": "Edital",
+   "paginas": 16,
+   "caracteres": 34732
+  }
+ ],
+ "totalPaginas": 67,
+ "totalCaracteres": 158123,
+ "comErro": 0
+}

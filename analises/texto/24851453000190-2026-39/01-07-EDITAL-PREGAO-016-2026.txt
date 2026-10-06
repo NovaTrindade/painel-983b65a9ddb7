@@ -1,0 +1,2296 @@
+=== DOCUMENTO 1: 07 EDITAL PREGAO 016-2026.pdf ===
+tipo: Edital | páginas: 51 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/24851453000190/compras/2026/39/arquivos/3
+
+--- [pag. PDF 1] ---
+1
+EDITAL DE LICITAÇÃO
+PREGÃO ELETRÔNICO Nº 016/2026
+PREÂMBULO
+O MUNICÍPIO DE BARROLÂNDIA – TOCANTINS, Pessoa Jurídica de Direito Público Interno,
+inscrito no CNPJ sob o nº 24.851.453/0001-90, com endereço à Av. Bernardo Sayão, s/n,
+Centro, Barrolândia/TO, por intermédio da Pregoeira e Agente de Contratação, conforme
+Decreto nº 004/2025, de 02 de janeiro de 2025, torna público que realizará licitação, na
+modalidade Pregão, na forma Eletrônica, regida pela Lei Federal nº 14.133/2021, Lei Ordinária
+Municipal nº 336/2025 e demais legislações aplicáveis ao objeto deste certame.
+ABERTURA E JULGAMENTO DAS PROPOSTAS: 22/10/2026 ÀS 08:00 HORAS
+REFERÊNCIA DE TEMPO: horário de Brasília (DF).
+LOCAL: Portal: LICITANET - www.licitanet.com.br
+MODO DE DISPUTA: Aberto
+1. DO OBJETO
+1.1. O presente Pregão Eletrônico tem por objeto a contratação de empresa especializada
+para disponibilização, no modelo Software as a Service – SaaS, de sistema integrado de
+gestão pública municipal, 100% web e hospedado em nuvem, incluindo implantação,
+parametrização, migração e validação de dados, treinamento, suporte técnico, manutenção
+corretiva, preventiva, adaptativa e evolutiva, atualizações legais e tecnológicas, hospedagem,
+cópias de segurança, recuperação de dados e transição assistida ao final da contratação, pelo
+período inicial de 12 (doze) meses, conforme condições, quantidades, módulos, níveis de
+serviço e exigências estabelecidas neste Edital e no Termo de Referência.
+1.2. A presente licitação compreende 01 (um) item único, com adjudicação global, sendo
+adotado como critério de julgamento o menor preço global, observadas as especificações
+técnicas, as condições de execução, os níveis mínimos de serviço, os requisitos de segurança
+da informação, bem como as exigências de suporte técnico, manutenção, implantação,
+migração de dados, treinamento de usuários e demais condições estabelecidas neste Edital e
+em seus Anexos.
+1.3. A adoção de item único justifica-se pela interdependência técnica e operacional entre os
+módulos do sistema, a necessidade de base de dados integrada, a responsabilização única
+pela implantação, migração, segurança da informação, suporte técnico, manutenção,
+atualizações legais, continuidade dos serviços e desempenho global da solução contratada.
+1.4. Em caso de divergência entre os documentos que compõem a contratação, prevalecerá
+a seguinte ordem:
+I – Lei Federal nº 14.133/2021 e demais normas aplicáveis;
+II – Edital;
+III – Termo de Referência e anexos técnicos;
+IV – Contrato;
+e V – proposta da CONTRATADA, desde que não contrarie o instrumento convocatório.
+
+--- [pag. PDF 2] ---
+2
+A interpretação preservará a isonomia, a competitividade, o julgamento objetivo e a seleção
+da proposta mais vantajosa.
+1.5. A contratação será formalizada mediante contrato administrativo para prestação
+continuada dos serviços pelo período inicial de 12 (doze) meses, sem adoção do Sistema de
+Registro de Preços, observadas a disponibilidade orçamentária, a manutenção das condições
+de habilitação e as demais exigências deste Edital e do Termo de Referência.
+1.6. O objeto caracteriza-se como serviço comum de tecnologia da informação e
+comunicação, de natureza continuada, cujos padrões de desempenho e qualidade podem
+ser objetivamente definidos no Edital e no Termo de Referência, sendo adotado o regime de
+execução por preço mensal, com valor global estimado para o período inicial de 12 (doze)
+meses.
+1.7. O preço ofertado deverá compreender todos os custos diretos e indiretos necessários à
+execução integral do objeto, inclusive disponibilização/licenciamento da solução, implantação,
+parametrização, migração e validação de dados, treinamento, suporte técnico, manutenção,
+atualizações legais e tecnológicas, hospedagem, backups, recuperação de dados, transição
+assistida, encargos, tributos e demais despesas necessárias ao fiel cumprimento das
+obrigações contratuais.
+2. DO VALOR ESTIMADO
+2.1. O valor máximo estimado da contratação é de R$ 144.000,00 (cento e quarenta e
+quatro mil reais), correspondente ao valor mensal máximo de R$ 12.000,00 (doze mil
+reais), pelo período inicial de 12 (doze) meses, apurado com base em pesquisa de
+preços realizada pela Administração, análise crítica das fontes e memorial de cálculo
+constantes dos autos, nos termos do art. 23 da Lei Federal nº 14.133/2021 e da
+Instrução Normativa SEGES/ME nº 65/2021, conforme documentação constante do
+Processo Administrativo nº 529/2026.
+2.2. O valor indicado no item 2.1 corresponde ao limite máximo admitido para o período
+inicial de 12 (doze) meses. O pagamento será mensal e limitado aos serviços
+efetivamente executados, medidos, atestados e regularmente liquidados, sem prejuízo
+da obrigação de execução integral do objeto contratado.
+2.3. A adjudicação e a homologação do certame não obrigam a Administração à
+assinatura do contrato, ficando a formalização condicionada à manutenção das
+condições de habilitação, à disponibilidade orçamentária e ao atendimento das
+exigências do Edital e do Termo de Referência.
+2.4. O preço ofertado deverá compreender todos os custos diretos e indiretos
+necessários à execução integral do objeto, inclusive disponibilização/licenciamento da
+solução, implantação, parametrização, migração e validação de dados, treinamento,
+suporte técnico, manutenção corretiva, preventiva, adaptativa e evolutiva, atualizações
+legais e tecnológicas, hospedagem, cópias de segurança, recuperação de dados,
+transição assistida, encargos trabalhistas, previdenciários, fiscais, comerciais, tributos,
+seguros e demais despesas necessárias ao fiel cumprimento das obrigações
+contratuais.
+3. DO REGIME DE EXECUÇÃO E DA FORMALIZAÇÃO DA CONTRATAÇÃO
+3.1. A licitação resultará na celebração de contrato administrativo para prestação continuada
+
+--- [pag. PDF 3] ---
+3
+dos serviços pelo período inicial de 12 (doze) meses, não sendo adotado o Sistema de Registro
+de Preços.
+3.2. A contratação compreende item único e indivisível, com quantitativo certo correspondente
+a 12 (doze) meses de prestação, em razão da interdependência técnica e operacional entre os
+módulos, da base de dados integrada e da necessidade de responsabilização única pela
+implantação, migração, segurança da informação, suporte, manutenção e continuidade da
+solução.
+3.3. O regime de execução será por preço mensal, com julgamento pelo menor preço global
+para o período inicial de 12 (doze) meses, sendo os pagamentos realizados mensalmente após
+a execução, medição, atesto e regular liquidação da despesa.
+3.4. A adjudicação e a homologação não geram direito subjetivo à contratação, ficando a
+formalização condicionada à manutenção das condições de habilitação, à disponibilidade
+orçamentária e à convocação regular da licitante vencedora.
+3.5. O contrato poderá ser prorrogado sucessivamente, nos termos dos arts. 106 e 107 da Lei
+Federal nº 14.133/2021, desde que demonstradas a continuidade da necessidade, a
+vantajosidade, a regularidade da execução, a disponibilidade orçamentária e o interesse
+público.
+4. DOS RECURSOS ORÇAMENTÁRIOS
+4.1. As despesas decorrentes da presente licitação correrão à conta das dotações
+orçamentárias próprias do Município de Barrolândia – TO, consignadas no orçamento
+vigente e confirmadas antes da assinatura do contrato, nos termos do art. 7º, §2º, da Lei nº
+14.133/2021.
+CLASSIFICAÇÃO ORÇAMENTARIA ELEMENTO DE DESPESA/FONTE
+03.03.04.122.2.2.011 33.90.40/1.500.0000.000000
+5. DO CREDENCIAMENTO E DA PARTICIPAÇÃO NO SISTEMA ELETRÔNICO
+5.1. Poderão participar deste Pregão Eletrônico pessoas jurídicas, inclusive
+Microempresas – ME e Empresas de Pequeno Porte – EPP, cujo ramo de atividade
+seja compatível com o objeto desta licitação, qual seja, a
+disponibilização/licenciamento de sistema integrado de gestão pública municipal em
+ambiente web/nuvem, no modelo Software as a Service – SaaS, observadas as
+condições estabelecidas neste Edital, no Termo de Referência e na legislação vigente.
+5.2. A participação no certame ocorrerá exclusivamente por meio do sistema eletrônico
+LICITANET, cabendo ao licitante realizar previamente seu credenciamento, cadastro,
+habilitação de acesso e demais procedimentos exigidos pelo provedor da plataforma.
+5.3. O credenciamento no sistema eletrônico implica responsabilidade legal do licitante
+e de seu representante por todos os atos praticados no ambiente virtual, inclusive
+envio de propostas, formulação de lances, apresentação de documentos,
+manifestações, recursos e demais comunicações realizadas durante o procedimento
+licitatório.
+5.4. O licitante será integralmente responsável por todas as operações efetuadas em
+
+--- [pag. PDF 4] ---
+4
+seu nome no sistema, assumindo como firmes, verdadeiras e vinculantes suas
+propostas, lances, declarações e manifestações, ainda que realizadas por
+representante, procurador ou usuário autorizado.
+5.5. O acesso ao sistema eletrônico será realizado mediante login, senha ou outro
+meio de autenticação disponibilizado pela plataforma, de uso pessoal e intransferível,
+sendo de responsabilidade exclusiva do licitante a guarda, sigilo e correta utilização
+de suas credenciais.
+5.6. A Administração não se responsabilizará por danos, perdas, falhas de
+participação, envio indevido de informações, perda de prazo ou prática de atos no
+sistema decorrentes de uso indevido de senha, acesso não autorizado, falha de
+conexão, instabilidade de equipamento do licitante ou ausência de acompanhamento
+da sessão pública.
+5.7. Caberá ao licitante acompanhar todas as operações no sistema eletrônico durante
+a sessão pública, bem como verificar mensagens, convocações, diligências, prazos e
+decisões registradas na plataforma, ficando responsável pelos ônus decorrentes da
+perda de oportunidade ou inobservância das comunicações emitidas pelo sistema ou
+pelo Pregoeiro.
+5.8. O licitante deverá manter seus dados cadastrais atualizados no sistema eletrônico,
+especialmente razão social, CNPJ, endereço, e-mail, telefone, representante legal e
+demais informações necessárias à comunicação oficial, sendo de sua exclusiva
+responsabilidade eventual prejuízo decorrente de informação incorreta, incompleta ou
+desatualizada.
+5.9. O credenciamento e a participação no sistema eletrônico importam aceitação
+integral e irretratável das condições estabelecidas neste Edital, no Termo de
+Referência, nos anexos e nas regras operacionais da plataforma, sem prejuízo do
+direito de impugnação, esclarecimento e recurso nos prazos legais.
+6. DA PARTICIPAÇÃO NA LICITAÇÃO
+6.1. Poderão participar deste Pregão Eletrônico exclusivamente pessoas jurídicas,
+inclusive Microempresas – ME e Empresas de Pequeno Porte – EPP, que estejam
+devidamente cadastradas no sistema LICITANET e cujo ramo de atividade seja
+compatível com o objeto desta licitação, qual seja, a disponibilização/licenciamento
+de sistema integrado de gestão pública municipal em ambiente web/nuvem, no
+modelo Software as a Service – SaaS, observadas as condições estabelecidas
+neste Edital, no Termo de Referência e na legislação vigente.
+6.2. Não poderão participar desta licitação, direta ou indiretamente:
+I – aqueles que não atendam às condições deste Edital, do Termo de Referência e
+de seus Anexos;
+II – pessoas físicas, por se tratar de objeto cuja execução exige estrutura
+empresarial, equipe técnica, infraestrutura tecnológica, ambiente de hospedagem,
+suporte contínuo, manutenção, segurança da informação e responsabilidade
+operacional compatíveis com pessoa jurídica especializada;
+III – pessoa jurídica que se encontre, ao tempo da licitação, impossibilitada de
+participar em razão de sanção que lhe tenha sido aplicada, observados os limites e
+
+--- [pag. PDF 5] ---
+5
+efeitos da penalidade;
+IV – licitante que atue em substituição a outra pessoa jurídica, com o intuito de burlar
+a efetividade de sanção aplicada, inclusive sua controladora, controlada ou coligada,
+desde que comprovado o ilícito ou a utilização fraudulenta da personalidade jurídica;
+V – aquele que mantenha vínculo de natureza técnica, comercial, econômica,
+financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante, com
+agente público que desempenhe função na licitação ou que atue na fiscalização ou
+na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha
+reta, colateral ou por afinidade, até o terceiro grau, nos termos do art. 9º da Lei
+Federal nº 14.133/2021;
+VI – agente público do órgão ou entidade licitante, bem como pessoa jurídica que,
+direta ou indiretamente, possua vínculo com agente público que atue na licitação, na
+fiscalização ou na gestão do contrato, em situação que configure conflito de
+interesses ou vedação legal;
+VII – empresas controladoras, controladas ou coligadas, nos termos da Lei nº
+6.404/1976, concorrendo entre si;
+VIII – pessoa jurídica que, nos 5 anos anteriores à divulgação do edital, tenha sido
+condenada judicialmente, com trânsito em julgado, por exploração de trabalho
+infantil, submissão de trabalhadores a condições análogas às de escravo ou
+contratação de adolescentes nos casos vedados pela legislação trabalhista;
+IX – pessoa jurídica que integre o rol de pessoas sancionadas por agência oficial de
+cooperação estrangeira ou organismo financeiro internacional, quando a contratação
+for financiada, total ou parcialmente, por tais entidades;
+X – empresas cujos sócios ou dirigentes exerçam mandato eletivo que gere
+impedimento constitucional ou legal para contratar com a Administração Pública;
+XI – pessoa jurídica reunida em consórcio, salvo se expressamente admitido neste
+Edital e no Termo de Referência.
+6.3. A participação na licitação implica declaração da licitante de que conhece e
+aceita integralmente as condições deste Edital e de seus Anexos, responsabilizando-
+se pela veracidade das informações prestadas e pela autenticidade dos documentos
+apresentados.
+6.4. A Administração poderá realizar diligências para verificar impedimentos,
+sanções, vínculos, conflito de interesses, compatibilidade do ramo de atividade,
+autenticidade documental e demais condições de participação, inclusive mediante
+consulta ao CEIS, CNEP, SICAF, CNPJ e demais cadastros oficiais disponíveis.
+6.5. A constatação de impedimento, declaração falsa, omissão relevante, tentativa
+de burla à sanção ou participação em desconformidade com este Edital poderá
+ensejar a desclassificação da proposta, inabilitação da licitante, anulação dos atos
+praticados e aplicação das sanções cabíveis, assegurados o contraditório e a ampla
+defesa.
+
+--- [pag. PDF 6] ---
+6
+7. DOS CRITÉRIOS TERRITORIAIS DE DESEMPATE
+7.1. Persistindo o empate após a aplicação dos critérios previstos no caput do art. 60 da Lei
+Federal nº 14.133/2021, será assegurada preferência, sucessivamente, às empresas
+estabelecidas no território do Estado do Tocantins, às empresas brasileiras, às empresas que
+invistam em pesquisa e no desenvolvimento de tecnologia no País e às empresas que
+comprovem a prática de mitigação das emissões de gases de efeito estufa, na forma da
+legislação aplicável.
+7.2. Para fins do critério previsto no item 7.1, inciso I, será considerado o estabelecimento
+empresarial regularmente registrado no território do Estado do Tocantins, mediante
+comprovação por CNPJ e demais registros oficiais válidos.
+7.3. A Lei Municipal nº 336/2025 será aplicada somente nas hipóteses e nos limites compatíveis
+com a Lei Complementar nº 123/2006 e com a Lei Federal nº 14.133/2021, não podendo
+restringir, substituir ou modificar o parâmetro territorial estadual estabelecido no art. 60, § 1º,
+inciso I, da norma geral federal.
+7.4. Não será adotada preferência exclusiva com fundamento apenas na sede no Município de
+Barrolândia – TO, nem margem territorial de preferência sem fundamento legal específico,
+motivação na fase preparatória e previsão compatível com as normas gerais de licitações.
+7.5. A aplicação dos critérios de desempate observará a isonomia, a competitividade, o
+julgamento objetivo, a transparência, a seleção da proposta mais vantajosa e a ordem legal de
+preferência.
+8. DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+8.1. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, até a data
+e o horário estabelecidos para a abertura da sessão pública, a proposta de preços e os
+documentos de habilitação exigidos neste Edital.
+8.2. O envio da proposta e dos documentos será realizado mediante login e senha, sendo de
+inteira responsabilidade do licitante as informações prestadas.
+8.3. No cadastramento da proposta inicial, o licitante deverá declarar, em campo próprio do
+sistema:
+I – que cumpre os requisitos para a habilitação e que sua proposta está em conformidade com
+as exigências do Edital;
+II – que está ciente e concorda com as condições do Edital e de seus Anexos;
+III – que a proposta apresentada compreende a integralidade dos custos necessários ao
+cumprimento das obrigações trabalhistas, previdenciárias, fiscais e comerciais;
+IV – quando for o caso, que se enquadra como microempresa ou empresa de pequeno porte,
+nos termos da Lei Complementar nº 123/2006;
+V – quando organizado em cooperativa, que atende ao disposto no art. 16 da Lei nº
+14.133/2021.
+8.4. Até a abertura da sessão pública, o licitante poderá retirar ou substituir a proposta e os
+documentos de habilitação anteriormente inseridos no sistema.
+8.5. Não haverá ordem de classificação na fase de envio das propostas, a qual ocorrerá
+somente após a etapa de lances e julgamento.
+8.6. Durante a fase de disputa, os licitantes poderão encaminhar lances, observadas as regras
+do sistema eletrônico.
+
+--- [pag. PDF 7] ---
+7
+8.7. O sistema poderá permitir a definição de valor mínimo ou percentual máximo de
+desconto, observadas as regras operacionais da plataforma.
+8.8. Os documentos de habilitação e a proposta do licitante melhor classificado somente serão
+disponibilizados para análise do pregoeiro e para acesso público após o encerramento da fase
+de lances.
+8.9. Caberá ao licitante acompanhar as operações no sistema eletrônico durante toda a sessão
+pública, ficando responsável pelos ônus decorrentes da perda de negócios diante da
+inobservância de mensagens emitidas pelo sistema ou de sua desconexão.
+8.10. As microempresas e empresas de pequeno porte deverão apresentar a documentação
+de habilitação, ainda que contenha alguma restrição de regularidade fiscal ou trabalhista, nos
+termos do art. 43, §1º, da Lei Complementar nº 123/2006.
+9. DO PREENCHIMENTO DA PROPOSTA
+9.1. A licitante deverá encaminhar sua proposta exclusivamente por meio do sistema eletrônico,
+mediante o preenchimento dos campos exigidos pela plataforma, observadas as condições
+deste Edital e do Termo de Referência, contendo, no mínimo:
+I – valor mensal proposto para a disponibilização da solução integrada;
+II – valor global proposto para o período inicial de 12 (doze) meses;
+III – identificação/nome comercial do sistema ou solução ofertada, quando houver;
+IV – descrição objetiva da solução ofertada, compatível com as especificações, módulos,
+funcionalidades, níveis de serviço, requisitos técnicos, segurança da informação, implantação,
+migração, treinamento, suporte e manutenção previstos no Termo de Referência;
+V – declaração de que o preço proposto contempla todos os custos necessários à execução
+integral do objeto.
+9.2. Todas as especificações, funcionalidades, módulos, condições de execução, níveis de
+serviço e demais informações constantes da proposta vinculam a licitante durante todo o
+procedimento licitatório e eventual execução contratual.
+9.3. Nos valores propostos deverão estar inclusos todos os custos diretos e indiretos
+necessários à perfeita execução do objeto, inclusive disponibilização/licenciamento da solução,
+implantação, parametrização, migração e validação de dados, treinamento, suporte técnico,
+manutenção corretiva, preventiva, adaptativa e evolutiva, atualizações legais e tecnológicas,
+hospedagem, backups, recuperação de dados, transição assistida, encargos trabalhistas,
+previdenciários, fiscais, comerciais, tributos, seguros, deslocamentos, diárias e demais
+despesas necessárias ao cumprimento das obrigações contratuais.
+9.4. Os preços ofertados, tanto na proposta inicial quanto na etapa de lances, serão de
+exclusiva responsabilidade da licitante, não lhe assistindo o direito de pleitear alteração
+posterior sob alegação de erro, omissão, desconhecimento das condições do Edital, variação
+de custos ou qualquer outro pretexto, salvo nas hipóteses legais de reequilíbrio econômico-
+financeiro devidamente comprovadas.
+
+--- [pag. PDF 8] ---
+8
+9.5. A proposta deverá ter validade mínima de 60 (sessenta) dias, contados da data de sua
+apresentação, salvo prazo superior indicado pela própria licitante.
+9.6. Quando o regime tributário da empresa implicar recolhimento de tributos em percentuais
+variáveis, a licitante deverá considerar, na formação do preço, a média dos recolhimentos
+efetivos e todos os encargos incidentes sobre a execução contratual.
+9.7. Independentemente do percentual de tributos considerado na proposta, quando do
+pagamento serão efetuadas as retenções tributárias previstas na legislação vigente, quando
+aplicáveis.
+9.8. A apresentação da proposta implica compromisso da licitante em cumprir integralmente as
+condições estabelecidas no Edital, no Termo de Referência e em seus Anexos, prestando os
+serviços nos padrões, prazos, níveis mínimos de serviço, condições técnicas, operacionais,
+legais e de segurança da informação exigidos.
+9.9. As licitantes deverão observar o valor máximo estimado pela Administração, sendo vedada
+proposta com valor global superior ao limite estabelecido para a contratação, salvo se o sistema
+permitir disputa e posterior negociação para adequação ao preço máximo aceitável.
+9.10. A proposta que omitir informações essenciais, apresentar descrição incompatível com o
+Termo de Referência, condicionar sua validade a cláusulas não previstas no Edital, restringir
+indevidamente a execução do objeto ou não contemplar todos os custos necessários poderá
+ser desclassificada, mediante decisão motivada, assegurada a possibilidade de diligência
+quando cabível.
+10. DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E LANCES
+10.1. A abertura da sessão pública ocorrerá por meio de sistema eletrônico, na data, horário
+e endereço eletrônico indicados neste Edital.
+10.2. O Pregoeiro procederá à análise das propostas iniciais, desclassificando, de forma
+fundamentada, aquelas que:
+I – não atendam às exigências deste Edital e de seus anexos;
+II – apresentem vícios insanáveis;
+III – estejam em desacordo com as especificações do Termo de Referência;
+IV – contenham identificação do licitante nos campos próprios do sistema.
+10.2.1. A desclassificação será registrada no sistema, com a devida motivação, sendo
+acompanhável em tempo real.
+10.2.2. A classificação preliminar não impede o julgamento definitivo da proposta na fase de
+aceitação.
+10.3. Até a abertura da sessão pública, os licitantes poderão retirar ou substituir suas
+propostas.
+10.4. O sistema ordenará automaticamente as propostas classificadas, que participarão
+da fase de lances.
+10.5. Da etapa de lances
+
+--- [pag. PDF 9] ---
+9
+10.5.1. Iniciada a fase competitiva, os licitantes apresentarão lances exclusivamente pelo
+sistema eletrônico.
+10.5.2. Os lances deverão ser ofertados pelo valor global do item único, correspondente ao
+valor total da contratação para o período inicial de 12 (doze) meses, observadas as regras
+operacionais do sistema eletrônico.
+10.5.3. O licitante somente poderá ofertar lance inferior ao último por ele registrado.
+10.5.4. O intervalo mínimo entre os lances será:
+I – 3 (três) segundos entre lances de licitantes distintos;
+II – 20 (vinte) segundos entre lances do mesmo licitante.
+10.5.5. A diferença mínima entre lances será de R$ 0,01 (um centavo).
+10.5.6. O modo de disputa será ABERTO, nos termos da Lei nº 14.133/2021.
+10.5.7. A etapa de lances terá duração inicial de 10 (dez) minutos, sendo automaticamente
+prorrogada por 2 (dois) minutos sempre que houver lance nos últimos dois minutos.
+10.5.8. A prorrogação ocorrerá sucessivamente enquanto houver novos lances.
+10.5.9. Encerrada a etapa, o sistema divulgará a classificação provisória.
+10.6. DO JULGAMENTO E DOS CRITÉRIOS DE DESEMPATE
+10.6.1. O critério de julgamento adotado será o de menor preço global, considerando o valor
+total ofertado para o item único, observadas as especificações, condições de execução,
+requisitos técnicos e demais exigências estabelecidas neste Edital e em seus anexos.
+10.6.2. Encerrada a etapa de lances e verificada a ocorrência de empate entre propostas, serão
+aplicados, sucessivamente, os critérios previstos no art. 60 da Lei Federal nº 14.133/2021:
+I – disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta
+em ato contínuo à classificação;
+II – avaliação do desempenho contratual prévio dos licitantes, mediante utilização de registros
+cadastrais para efeito de atesto de cumprimento de obrigações, quando disponíveis;
+III – desenvolvimento, pelo licitante, de ações de equidade entre homens e mulheres no
+ambiente de trabalho, conforme regulamento;
+IV – desenvolvimento, pelo licitante, de programa de integridade, conforme regulamento.
+10.6.2.1. Persistindo o empate, será assegurada preferência, sucessivamente:
+I – às empresas estabelecidas no território do Estado do Tocantins;
+II – às empresas brasileiras;
+III – às empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+IV – às empresas que comprovem a prática de mitigação das emissões de gases de efeito
+estufa, nos termos da legislação aplicável.
+10.6.2.2. Persistindo o empate após a aplicação de todos os critérios legais, será realizado
+sorteio em ato público, com prévia comunicação aos licitantes e registro no sistema eletrônico.
+10.6.3. A aplicação dos critérios de desempate será realizada pela Pregoeira, de forma
+motivada, com registro no sistema eletrônico, observados a isonomia, a competitividade, a
+transparência, o julgamento objetivo e a vinculação ao instrumento convocatório.
+
+--- [pag. PDF 10] ---
+10
+10.6.4. Quando aplicável, será assegurado o tratamento favorecido às microempresas e
+empresas de pequeno porte, nos termos dos arts. 44 e 45 da Lei Complementar nº 123/2006,
+antes da aplicação dos critérios gerais de desempate do art. 60 da Lei Federal nº 14.133/2021.
+10.7. Do tratamento favorecido às ME e EPP
+10.7.1. Será assegurado o tratamento diferenciado previsto nos arts. 44 e 45 da Lei
+Complementar nº 123/2006.
+10.7.2. Considerar-se-ão empatadas as propostas apresentadas por ME ou EPP até 5% (cinco
+por cento) superiores à melhor classificada.
+10.7.3. A ME ou EPP melhor classificada nessa condição poderá apresentar nova proposta
+inferior à primeira colocada, no prazo de 5 (cinco) minutos, controlado pelo sistema.
+10.7.4. O não exercício desse direito no prazo implicará decadência do benefício.
+10.8. Da negociação
+10.8.1. Encerrada a etapa de lances, o Pregoeiro poderá encaminhar contraproposta ao
+licitante melhor classificado visando à obtenção de melhor preço.
+10.8.2. A negociação ocorrerá exclusivamente por meio do sistema eletrônico.
+10.9. Da aceitação da proposta
+10.9.1. O licitante melhor classificado deverá encaminhar, no prazo de 2 (duas) horas, a
+proposta adequada ao último lance.
+10.9.2. O Pregoeiro procederá à análise da aceitabilidade da proposta.
+11. DO JULGAMENTO, ACEITAÇÃO E ANÁLISE DA PROPOSTA
+11.1. Após o encerramento da etapa de lances e da negociação, quando houver, o Pregoeiro
+examinará a proposta classificada em primeiro lugar quanto à sua aceitabilidade, observando
+o critério de julgamento de menor preço global, considerando o valor total ofertado para o item
+único.
+11.2. A proposta será analisada quanto:
+I – à conformidade com o objeto licitado;
+II – ao atendimento das especificações, módulos, funcionalidades, condições de execução,
+requisitos técnicos, níveis mínimos de serviço, segurança da informação, suporte, manutenção,
+implantação, migração, treinamento e demais exigências previstas no Termo de Referência;
+III – à compatibilidade do preço ofertado com o valor máximo estimado pela Administração e
+com os preços praticados no mercado;
+IV – à composição do valor mensal e do valor global para o período inicial de 12 (doze) meses;
+V – à inclusão de todos os custos diretos e indiretos necessários à plena execução do objeto,
+inclusive disponibilização/licenciamento da solução, implantação, parametrização, migração e
+validação de dados, treinamento, suporte técnico, manutenção corretiva, preventiva, adaptativa
+e evolutiva, atualizações legais e tecnológicas, hospedagem, backups, recuperação de dados,
+
+--- [pag. PDF 11] ---
+11
+transição assistida, tributos, encargos, seguros, despesas administrativas e demais custos
+necessários ao cumprimento integral das obrigações contratuais.
+11.3. DA DESCLASSIFICAÇÃO E DA PROVA DE CONCEITO - POC
+11.3.1. Será desclassificada, mediante decisão motivada, a proposta que contenha vícios
+insanáveis; não atenda às especificações técnicas, operacionais, funcionais ou de segurança
+previstas no Termo de Referência; apresente valor superior ao máximo aceitável sem
+adequação em negociação; apresente preço inexequível não justificado; omita custos
+indispensáveis; deixe de apresentar a proposta readequada no prazo fixado; ou contenha
+informações falsas ou incompatíveis com o objeto.
+11.3.2. A licitante provisoriamente classificada em primeiro lugar, após a análise preliminar de
+sua proposta e antes da aceitação definitiva, será convocada para realização de PROVA DE
+CONCEITO - POC, destinada a verificar a aderência efetiva da solução ofertada aos requisitos
+técnicos, funcionais e operacionais estabelecidos no Termo de Referência e no Anexo II deste
+Edital.
+11.3.3. A Prova de Conceito integra a fase de julgamento da proposta e não constitui requisito
+de habilitação. A sua exigência recairá exclusivamente sobre a licitante provisoriamente
+classificada em primeiro lugar.
+11.3.4. Para aprovação, a solução deverá demonstrar atendimento mínimo de 85% (oitenta e
+cinco por cento) dos requisitos avaliados em CADA MÓDULO INDIVIDUALMENTE
+CONSIDERADO, vedada a compensação do percentual de um módulo pelo resultado obtido
+em outro.
+11.3.5. O percentual de atendimento de cada módulo será calculado pela fórmula: Percentual
+de Atendimento = (Quantidade de requisitos atendidos no módulo / Quantidade total de
+requisitos avaliados no módulo) x 100.
+11.3.6. Cada requisito constante do Roteiro da POC será registrado como ATENDIDO ou NÃO
+ATENDIDO. Será considerada APROVADA a solução que alcançar percentual igual ou
+superior a 85% em todos os módulos avaliados.
+11.3.7. Será considerada REPROVADA a solução que obtiver percentual inferior a 85% em
+qualquer módulo. A reprovação acarretará a desclassificação da proposta, mediante decisão
+técnica motivada, prosseguindo-se com a convocação da licitante subsequente, observada a
+ordem de classificação, para submissão aos mesmos procedimentos e critérios.
+11.3.8. A POC será realizada perante Comissão Técnica ou equipe de servidores formalmente
+designada, mediante convocação no sistema eletrônico, com indicação de data, horário, local
+ou plataforma de videoconferência e demais orientações necessárias.
+11.3.9. A demonstração poderá ocorrer de forma presencial, remota ou híbrida. A licitante
+deverá disponibilizar, sem ônus para a Administração, ambiente funcional de demonstração,
+acessos, dados fictícios, equipamentos e demais recursos necessários aos testes.
+11.3.10. Será assegurado aos demais licitantes interessados o acompanhamento da POC,
+
+--- [pag. PDF 12] ---
+12
+preservada a organização dos trabalhos e vedada interferência na apresentação ou na
+avaliação. Eventuais manifestações deverão ser apresentadas pelos meios e momentos
+previstos neste Edital.
+11.3.11. A sessão será registrada em ata e poderá ser gravada em áudio e vídeo, com capturas
+de tela, relatórios ou outras evidências. Ao final, a Comissão emitirá Relatório Técnico
+Conclusivo contendo os módulos e requisitos avaliados, resultado de cada requisito,
+percentuais obtidos por módulo e conclusão pela aprovação ou reprovação.
+11.3.12. Durante a demonstração, a Comissão poderá solicitar repetição de operação, emissão
+de relatório, alteração de parâmetro, consulta de registro, demonstração de integração ou
+esclarecimento técnico diretamente relacionado aos itens do roteiro, vedada a exigência de
+funcionalidade nova ou não prevista previamente.
+11.3.13. Funcionalidades que dependam exclusivamente de parametrização ordinária,
+credenciais oficiais, certificado digital, integração com ambiente de órgão externo ou dados
+reais do Município poderão ser demonstradas por ambiente equivalente, documentação
+técnica, telas, logs, relatórios, APIs ou outros meios objetivos que comprovem sua existência
+e disponibilidade.
+11.3.14. Não será admitida, para fins de aprovação, mera promessa de desenvolvimento futuro
+de requisito que deva estar disponível na data da POC. Será admitida apenas parametrização
+ordinária, desde que não represente desenvolvimento de nova funcionalidade ou alteração
+substancial da solução originalmente ofertada.
+11.3.15. Será admitida diligência para esclarecimento de dúvida objetiva surgida durante a
+POC, desde que não implique substituição da solução ofertada, desenvolvimento posterior de
+funcionalidade inexistente, alteração substancial da proposta ou tratamento desigual.
+11.3.16. O não comparecimento injustificado, a recusa em realizar a POC ou a impossibilidade
+de demonstração por fato imputável à licitante poderá ensejar a desclassificação da proposta,
+mediante decisão motivada.
+11.3.17. A aprovação na POC não afasta a obrigação da futura contratada de cumprir
+integralmente todas as especificações, funcionalidades, integrações, níveis de serviço, prazos
+de implantação e demais obrigações do Edital, Termo de Referência e contrato.
+11.4. DA ANÁLISE DE EXEQUIBILIDADE DA PROPOSTA
+11.4.1. A análise de exequibilidade da proposta será realizada sempre que o Pregoeiro
+identificar indícios de preço manifestamente reduzido, incompatibilidade entre o valor ofertado
+e os custos necessários à execução do objeto, ou quando houver necessidade de comprovação
+da viabilidade econômica, técnica e operacional da proposta.
+11.4.2. A inexequibilidade não será presumida de forma automática, devendo ser apurada
+mediante diligência, assegurada à licitante a oportunidade de demonstrar a viabilidade da
+execução do objeto pelo preço ofertado, por meio de documentos, planilhas, memória de
+cálculo, notas explicativas, contratos similares, composição de custos, declaração de
+capacidade operacional e demais elementos pertinentes.
+
+--- [pag. PDF 13] ---
+13
+11.4.3. Para fins de diligência, o Pregoeiro poderá solicitar da licitante, no prazo fixado no
+sistema, a apresentação de Memória de Cálculo de Exequibilidade, contendo, no mínimo, os
+seguintes elementos, conforme a natureza do objeto:
+I – valor global mensal e anual ofertado;
+II – detalhamento dos custos diretos necessários à execução do objeto;
+III – custos com equipe técnica, suporte, implantação, treinamento, migração de dados,
+manutenção, atualizações, licenças, hospedagem, infraestrutura tecnológica, segurança da
+informação e atendimento aos níveis mínimos de serviço, quando aplicável;
+IV – custos indiretos, administrativos, operacionais, tributários, encargos, seguros,
+deslocamentos, ferramentas, softwares, equipamentos, comunicação e demais despesas
+incidentes;
+V – margem de lucro ou resultado econômico esperado;
+VI – comprovação de que o preço ofertado é suficiente para cobrir todos os custos da execução
+contratual, sem prejuízo da qualidade, continuidade, segurança, suporte, manutenção e demais
+obrigações previstas no Edital e em seus anexos.
+11.4.4. A Memória de Cálculo de Exequibilidade poderá observar o seguinte modelo mínimo:
+MODELO DE MEMÓRIA DE CÁLCULO DE EXEQUIBILIDADE
+a) Valor mensal ofertado: R$ ____________
+b) Valor anual ofertado: R$ ____________
+c) Prazo de vigência considerado: ______ meses
+Composição estimada dos custos mensais:
+1. Equipe técnica, suporte e atendimento: R$ ____________
+2. Implantação, parametrização e configuração, quando diluídas no contrato: R$
+____________
+3. Migração/conversão de dados, quando diluída no contrato: R$ ____________
+4. Treinamento de usuários, quando diluído no contrato: R$ ____________
+5. Licenças, cessão de uso, módulos e manutenção do sistema: R$ ____________
+6. Hospedagem, banco de dados, servidores, nuvem, backups e infraestrutura: R$
+____________
+7. Segurança da informação, certificados, monitoramento e proteção de dados: R$
+____________
+8. Atualizações legais, corretivas, evolutivas e suporte técnico continuado: R$
+____________
+9. Custos administrativos, operacionais e comerciais: R$ ____________
+10. Tributos, encargos, taxas e demais incidências legais: R$ ____________
+11. Deslocamentos, diárias, visitas técnicas e treinamentos presenciais, se houver: R$
+____________
+
+--- [pag. PDF 14] ---
+14
+12. Reserva técnica, contingência operacional e demais custos necessários: R$
+____________
+13. Margem de lucro ou resultado econômico esperado: R$ ____________
+Total dos custos mensais estimados: R$ ____________
+Valor mensal ofertado: R$ ____________
+Resultado mensal estimado: R$ ____________
+Declaro, sob as penas da lei, que o preço ofertado contempla todos os custos diretos e indiretos
+necessários à plena execução do objeto, inclusive suporte, implantação, migração,
+treinamento, manutenção, atualizações, segurança da informação, encargos, tributos, custos
+administrativos e demais despesas necessárias ao cumprimento integral das obrigações
+previstas no Edital, no Termo de Referência e na minuta contratual.
+Local e data: ___________________________
+Representante legal: ___________________________
+CPF: ___________________________
+Assinatura: ___________________________
+11.4.5. A licitante poderá comprovar a exequibilidade da proposta mediante a apresentação de
+documentos complementares, tais como contratos similares em execução ou já executados,
+notas fiscais, planilhas internas, demonstração de economia de escala, comprovação de
+estrutura própria, tecnologia já desenvolvida, equipe permanente, infraestrutura existente,
+condições comerciais especiais, ganhos de produtividade, redução de custos operacionais ou
+outros elementos objetivos que demonstrem a viabilidade do preço ofertado.
+11.4.6. A Administração poderá considerar, para fins de análise, a compatibilidade do preço
+ofertado com os valores de mercado, a complexidade do objeto, a estrutura mínima exigida, os
+níveis de serviço, os prazos de implantação, a continuidade do suporte, a capacidade técnica
+da licitante, os custos de manutenção, atualização, segurança da informação, migração de
+dados, treinamento e demais obrigações contratuais.
+11.4.7. Será declarada inexequível e desclassificada a proposta quando, após a realização de
+diligência, a licitante não apresentar comprovação suficiente da viabilidade do preço ofertado,
+apresentar memória de cálculo inconsistente, omitir custos indispensáveis à execução,
+demonstrar resultado econômico negativo sem justificativa idônea, ou quando ficar evidenciado
+que o valor proposto compromete a adequada execução do objeto, a continuidade dos serviços,
+a segurança da informação, o suporte técnico ou o cumprimento das obrigações editalícias.
+11.4.8. A eventual aceitação da proposta não afastará a responsabilidade integral da
+contratada pela execução do objeto pelo preço ofertado, vedada a alegação posterior de erro
+de cálculo, omissão de custos, desconhecimento das condições de execução ou insuficiência
+do valor contratado para justificar inexecução, atraso, queda de qualidade, pedido de
+reequilíbrio indevido ou descumprimento das obrigações assumidas.
+11.4.9. A análise de exequibilidade será registrada de forma motivada no sistema eletrônico ou
+nos autos do processo, assegurada a observância aos princípios da isonomia, julgamento
+
+--- [pag. PDF 15] ---
+15
+objetivo, competitividade, razoabilidade, transparência e vinculação ao instrumento
+convocatório.
+11.5. Das diligências
+11.5.1. O Pregoeiro poderá promover diligências para esclarecer ou complementar
+informações, vedada a inclusão posterior de documentos que deveriam constar originalmente
+da proposta.
+11.6. Da habilitação
+11.6.1. Aceita a proposta, será verificada a habilitação do licitante vencedor, mediante
+consulta aos cadastros oficiais e apresentação da documentação exigida neste Edital.
+11.6.2. Serão consultados, no mínimo:
+I – CEIS;
+II – CNEP;
+III – CNPJ;
+IV – SICAF ou sistema equivalente, como meio de comprovação.
+12. DA HABILITAÇÃO
+12.1. Regras gerais
+12.1.1. Para fins de habilitação serão exigidos apenas os documentos necessários e
+suficientes, nos termos dos arts. 62 a 69 da Lei nº 14.133/2021, observada a fase
+procedimental da licitação.
+12.1.2. A comprovação da habilitação poderá ser realizada por meio do SICAF ou sistema
+equivalente, quando disponível, sem prejuízo da apresentação de documentos
+complementares exigidos neste Edital.
+12.1.3. Os documentos de habilitação deverão ser encaminhados exclusivamente pelo sistema
+eletrônico, somente pelo licitante provisoriamente vencedor, após o encerramento da fase
+de lances, no prazo definido pelo pregoeiro.
+12.2. Documentos exigidos na FASE DE APRESENTAÇÃO DA PROPOSTA
+(DECLARAÇÕES ELETRÔNICAS)
+Na fase inicial da licitação, não será exigido envio de documentos físicos ou digitalizados,
+devendo o licitante declarar, em campo próprio do sistema eletrônico, que:
+I – cumpre plenamente os requisitos de habilitação;
+II – conhece e aceita integralmente as condições do Edital e de seus Anexos;
+III – sua proposta contempla todos os custos diretos e indiretos necessários à execução do
+objeto;
+IV – não se encontra em situação de impedimento para licitar ou contratar com a
+Administração Pública;
+V – quando for o caso, enquadra-se como Microempresa ou Empresa de Pequeno Porte,
+nos termos da LC nº 123/2006.
+12.3. Documentos exigidos na FASE DE HABILITAÇÃO (LICITANTE VENCEDOR)
+12.3.1. Habilitação Jurídica
+
+--- [pag. PDF 16] ---
+16
+I – ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, com todas
+as alterações ou consolidação;
+II – no caso de empresário individual, inscrição no Registro Público de Empresas
+Mercantis;
+III – prova de poderes de representação do signatário da proposta, quando for o caso.
+12.3.2. Regularidade Fiscal, Social e Trabalhista
+I – prova de inscrição no CNPJ ou CPF;
+II – prova de regularidade com a Fazenda Federal, Estadual e Municipal do domicílio ou
+sede do licitante;
+III – prova de regularidade relativa ao FGTS;
+IV – prova de regularidade relativa à Seguridade Social (INSS);
+V – prova de inexistência de débitos trabalhistas, mediante apresentação de CNDT.
+12.3.3. DA QUALIFICAÇÃO ECONÔMICO-FINANCEIRA
+12.3.3.1. Para comprovação da qualificação econômico-financeira, a licitante deverá
+apresentar:
+I – certidão negativa de feitos sobre falência, expedida pelo distribuidor da sede da licitante,
+válida na data de apresentação dos documentos;
+II – balanço patrimonial, demonstração do resultado do exercício e demais demonstrações
+contábeis dos 2 (dois) últimos exercícios sociais, já exigíveis e apresentados na forma da lei,
+vedada a substituição por balancetes ou balanços provisórios;
+III – demonstração dos índices de Liquidez Geral – LG, Liquidez Corrente – LC e Solvência
+Geral – SG, calculados com base no balanço patrimonial do último exercício social exigível,
+mediante aplicação das seguintes fórmulas:
+12.3.3.2. Será considerada economicamente qualificada a licitante que apresentar resultados
+iguais ou superiores a 1,00 para os índices de Liquidez Geral – LG, Liquidez Corrente – LC
+e Solvência Geral – SG.
+12.3.3.3. A licitante que apresentar resultado inferior a 1,00 em qualquer dos índices previstos
+no item anterior poderá comprovar sua capacidade econômico-financeira mediante
+patrimônio líquido mínimo equivalente a 10% (dez por cento) do valor estimado da
+contratação, demonstrado por meio do balanço patrimonial do último exercício social
+exigível.
+12.3.3.4. A exigência prevista no item 12.3.3.3 não será cumulativa com a exigência de
+atendimento aos índices contábeis, constituindo meio alternativo de comprovação da
+capacidade econômico-financeira.
+12.3.3.5. Os documentos contábeis deverão estar assinados pelo representante legal da
+empresa e por profissional da contabilidade legalmente habilitado, observadas as normas
+aplicáveis à escrituração contábil digital ou convencional.
+12.3.3.6. As demonstrações contábeis apresentadas por meio do Sistema Público de
+Escrituração Digital – SPED deverão estar acompanhadas, quando aplicável, dos
+respectivos termos de abertura e encerramento, recibo de entrega da escrituração contábil
+digital e demais documentos que permitam verificar sua autenticidade.
+12.3.3.7. A pessoa jurídica constituída há menos de 2 (dois) anos apresentará as
+demonstrações contábeis correspondentes ao último exercício social exigível.
+
+--- [pag. PDF 17] ---
+17
+12.3.3.8. A empresa constituída no exercício financeiro da licitação poderá substituir as
+demonstrações contábeis pelo balanço de abertura, devidamente elaborado e registrado na
+forma da legislação aplicável.
+12.3.3.9. As microempresas e empresas de pequeno porte deverão apresentar os documentos
+de qualificação econômico-financeira exigidos neste Edital, não se aplicando dispensa de
+balanço patrimonial exclusivamente em razão do enquadramento empresarial, por se tratar
+de contratação de serviços continuados e não de fornecimento de bens para pronta entrega
+ou locação de materiais.
+12.3.3.10. O Microempreendedor Individual – MEI poderá apresentar a documentação
+compatível com o regime jurídico e contábil ao qual esteja submetido, inclusive balanço de
+abertura, declaração de faturamento, relatório mensal de receitas brutas, declaração anual
+ou outros documentos legalmente admitidos, sem prejuízo da comprovação objetiva de
+capacidade econômica para execução do objeto.
+12.3.3.11. Caso a certidão prevista no inciso I do item 12.3.3.1 não indique prazo de validade,
+será considerada válida quando emitida nos 90 (noventa) dias anteriores à data estabelecida
+para apresentação da documentação de habilitação.
+12.3.3.12. A existência de recuperação judicial ou extrajudicial não implicará inabilitação
+automática, desde que a licitante apresente certidão judicial ou documento equivalente que
+demonstre a aprovação ou homologação do plano de recuperação e sua aptidão econômica
+para executar o contrato, sem prejuízo de diligência e de decisão motivada.
+12.3.3.13. A Administração poderá realizar diligência para confirmar a autenticidade das
+demonstrações contábeis, dos registros digitais, dos índices apresentados, da certidão
+judicial e dos demais documentos de qualificação econômico-financeira.
+12.3.3.14. Será admitido o saneamento de falhas formais e a apresentação, em diligência, de
+documento destinado a comprovar situação preexistente à data da sessão pública, vedada
+a constituição posterior de condição econômica inexistente no momento exigido.
+12.3.3.15. Não serão exigidos faturamento mínimo anterior, índices de rentabilidade ou
+lucratividade, nem índices ou valores não usualmente adotados para avaliação da
+capacidade econômico-financeira, nos termos do art. 69, §§ 2º e 5º, da Lei Federal nº
+14.133/2021.
+12.3.4. DA QUALIFICAÇÃO TÉCNICA
+12.3.4.1. Para comprovação da qualificação técnico-operacional, a licitante deverá apresentar
+um ou mais atestados de capacidade técnica, emitidos por pessoa jurídica de direito público
+ou privado, que comprovem a execução satisfatória, anterior ou atual, de serviços com
+características semelhantes e complexidade tecnológica e operacional equivalente ou
+superior às parcelas de maior relevância do objeto desta licitação.
+12.3.4.2. Para atendimento do item anterior, o atestado deverá comprovar experiência na
+disponibilização, licenciamento, cessão de uso, locação ou fornecimento de sistema
+informatizado de gestão pública ou solução tecnológica integrada, executada em ambiente
+web, nuvem ou modelo Software as a Service – SaaS, abrangendo atividades de
+implantação, parametrização, conversão ou migração de dados, treinamento, suporte
+técnico, manutenção e atualização da solução.
+12.3.4.3. Não será exigida identidade absoluta entre a nomenclatura, a composição dos
+módulos, a estrutura administrativa ou as funcionalidades do serviço anteriormente
+
+--- [pag. PDF 18] ---
+18
+executado e o objeto licitado, desde que o conjunto documental demonstre, de forma
+objetiva, experiência compatível com a natureza, a complexidade tecnológica e as condições
+operacionais da contratação.
+12.3.4.4. Será admitida a apresentação de mais de um atestado para comprovação conjunta
+da capacidade técnico-operacional, desde que os documentos, considerados em conjunto,
+demonstrem experiência suficiente para a execução do objeto.
+12.3.4.5. Os atestados poderão ser apresentados em nome da matriz ou da filial da licitante,
+observada a identidade da pessoa jurídica e a compatibilidade das atividades comprovadas.
+12.3.4.6. O atestado deverá conter, sempre que possível:
+I – identificação da pessoa jurídica emitente;
+II – identificação da empresa que executou os serviços;
+III – descrição suficiente do objeto executado;
+IV – período ou situação da execução;
+V – identificação, nome, cargo e contato do responsável pela emissão; e
+VI – manifestação quanto à execução satisfatória dos serviços.
+12.3.4.7. A ausência de alguma das informações previstas no item anterior não implicará
+inabilitação automática quando a capacidade técnica puder ser comprovada pelo conteúdo
+do próprio atestado ou mediante diligência regularmente instaurada.
+12.3.4.8. A licitante deverá apresentar declaração formal de que dispõe ou disporá, até o início
+da execução contratual, de equipe técnica, infraestrutura tecnológica, ambiente de
+hospedagem, mecanismos de segurança da informação, rotinas de backup, suporte técnico
+e condições operacionais suficientes para atender aos módulos, funcionalidades,
+integrações, prazos e níveis mínimos de serviço previstos no Termo de Referência.
+12.3.4.9. A declaração prevista no item anterior não substituirá o atestado de capacidade
+técnica, destinando-se exclusivamente à comprovação do compromisso de disponibilização
+dos recursos necessários à execução contratual.
+12.3.4.10. Quando a licitante não for proprietária, desenvolvedora ou titular dos direitos de
+comercialização da solução ofertada, deverá apresentar declaração, contrato, certificado,
+autorização, termo de parceria ou documento equivalente que comprove possuir poderes
+suficientes para comercializar, licenciar, implantar, parametrizar, manter, atualizar e prestar
+suporte técnico ao sistema durante toda a vigência contratual.
+12.3.4.11. O documento previsto no item anterior poderá ser emitido pelo fabricante,
+desenvolvedor, titular dos direitos da solução ou por integrante autorizado da respectiva
+cadeia de comercialização, desde que permita verificar a legitimidade e a extensão dos
+poderes conferidos à licitante.
+12.3.4.12. A exigência de autorização não será aplicada quando a própria licitante for
+proprietária, desenvolvedora ou titular dos direitos necessários à disponibilização da solução,
+hipótese em que deverá apresentar declaração correspondente, sem prejuízo de diligência
+para confirmação das informações.
+12.3.4.13. A licitante deverá apresentar declaração de compromisso com o cumprimento da Lei
+Federal nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais — LGPD, bem como
+com a adoção de medidas técnicas e administrativas relacionadas à confidencialidade,
+integridade, disponibilidade, rastreabilidade, controle de acesso, registros de auditoria,
+backup, recuperação de dados, continuidade dos serviços e transição assistida.
+12.3.4.14. A Administração poderá promover diligência para verificar:
+
+--- [pag. PDF 19] ---
+19
+I – a autenticidade e a legitimidade dos atestados;
+II – a compatibilidade dos serviços anteriormente executados;
+III – a capacidade técnico-operacional da licitante;
+IV – a existência da relação contratual declarada;
+V – a legitimidade da autorização para comercialização e suporte da solução;
+VI – a aderência técnica da solução ofertada ao Termo de Referência; e
+VII – fatos ou condições existentes na data de abertura da sessão pública.
+12.3.4.15. Para fins de diligência, poderão ser solicitados contratos, notas fiscais, ordens de
+serviço, termos de recebimento, declarações complementares do emitente do atestado,
+relatórios de implantação, documentos de aceite, registros de atendimento, informações
+institucionais, endereços, contatos ou outros elementos aptos a confirmar a execução dos
+serviços declarados.
+12.3.4.16. Será admitida, em sede de diligência, a apresentação de documento destinado a
+complementar informações, sanar falhas formais ou comprovar condição de habilitação
+preexistente à abertura da sessão pública, ainda que não tenha sido juntado inicialmente,
+desde que não resulte na criação posterior de condição inexistente na data exigida, na
+alteração substancial da proposta ou em tratamento desigual entre as licitantes.
+Essa redação segue o entendimento de que a vedação à juntada de documento novo não
+alcança documentos comprobatórios de condições preexistentes à sessão pública.
+12.3.4.17. Os erros ou falhas que não alterem a substância dos documentos nem sua validade
+jurídica poderão ser saneados por decisão fundamentada, registrada no sistema eletrônico
+e acessível aos interessados, nos termos do art. 64, § 1º, da Lei Federal nº 14.133/2021.
+12.3.4.18. Não será exigido registro da empresa ou de profissional em conselho de fiscalização
+profissional, certificação profissional específica, anotação ou registro de responsabilidade
+técnica, salvo quando a exigência decorrer expressamente de lei especial e possuir
+pertinência direta com atividade indispensável à execução do objeto.
+12.3.4.19. Não serão estabelecidas limitações quanto ao local ou à época de execução dos
+serviços constantes dos atestados, ressalvada eventual necessidade de comprovação de
+experiência mínima em serviços contínuos, desde que expressamente prevista,
+tecnicamente justificada no Estudo Técnico Preliminar e observados os limites do art. 67 da
+Lei Federal nº 14.133/2021.
+A Lei nº 14.133/2021 permite exigência de experiência temporal em serviços contínuos, mas
+ela precisa ser tecnicamente fundamentada. O TCU também considera irregular a exigência
+de atestados sem delimitação clara das características mínimas necessárias ou sem
+demonstração das parcelas relevantes.
+12.3.4.20. Não será exigida comprovação de quantitativo mínimo de módulos, usuários, órgãos
+atendidos, unidades administrativas, municípios ou contratos anteriores, salvo se houver
+justificativa técnica específica no Estudo Técnico Preliminar e no Termo de Referência,
+observados os limites estabelecidos no art. 67 da Lei Federal nº 14.133/2021.
+12.3.4.21. A apresentação de documento falso, adulterado, inidôneo ou materialmente
+incompatível com os serviços declarados sujeitará a licitante à inabilitação e às demais
+providências legais cabíveis, assegurados o contraditório e a ampla defesa.
+12.3.4.22. A inabilitação por ausência ou insuficiência de qualificação técnica dependerá de
+decisão motivada, com indicação objetiva da exigência não atendida, da análise dos
+documentos apresentados e, quando juridicamente cabível, da diligência realizada.
+
+--- [pag. PDF 20] ---
+20
+12.3.4.23. A avaliação da qualificação técnica deverá observar os princípios da razoabilidade,
+proporcionalidade, competitividade, julgamento objetivo, formalismo moderado, segurança
+jurídica e seleção da proposta apta a produzir o resultado mais vantajoso para a
+Administração.
+12.4. Documentos exigidos na FASE DE CONTRATAÇÃO
+Após a homologação e antes da assinatura do contrato ou instrumento equivalente, o
+adjudicatário deverá apresentar, quando solicitado:
+I – comprovação de manutenção das condições de habilitação;
+II – dados bancários para pagamento;
+III – declaração de inexistência de fato superveniente impeditivo;
+IV – documentos complementares necessários à formalização do contrato.
+12.5. Disposições finais sobre a habilitação
+12.5.1. As microempresas e empresas de pequeno porte deverão apresentar toda a
+documentação exigida, ainda que contenha restrição quanto à regularidade fiscal ou
+trabalhista, sendo assegurado o prazo legal para regularização, nos termos da Lei
+Complementar nº 123/2006.
+12.5.2. A ausência de documento exigido ou a apresentação em desconformidade poderá
+ensejar a inabilitação do licitante, observado o direito à diligência previsto no art. 64 da Lei
+nº 14.133/2021.
+13. DO ENCAMINHAMENTO DA PROPOSTA FINAL
+13.1. Encerrada a fase de negociação, o licitante classificado em primeiro lugar deverá
+encaminhar, por meio do sistema eletrônico, no prazo de 02 (duas) horas, prorrogável por
+decisão do Pregoeiro, a proposta final ajustada ao último lance ofertado.
+13.2. A proposta deverá conter, no mínimo:
+I – descrição completa do objeto e identificação da solução ofertada, quando houver;
+II – valor mensal proposto;
+III – valor global proposto para o período inicial de 12 (doze) meses;
+IV – declaração de que o preço contempla todos os custos diretos e indiretos necessários à
+execução integral do objeto;
+V – prazo de validade da proposta.
+13.3. A proposta deverá observar o modelo do Anexo II.
+13.4. Todas as condições e especificações constantes da proposta vincularão a contratada
+durante toda a execução do contrato.
+13.5. A proposta será considerada parte integrante do processo administrativo e do contrato.
+14. DOS RECURSOS
+14.1. Caberá recurso administrativo, nos termos do art. 165 da Lei nº 14.133/2021.
+14.2. Declarado o vencedor, será concedido prazo mínimo de 30 (trinta) minutos para que
+qualquer licitante manifeste, de forma motivada, a intenção de recorrer, em campo próprio do
+sistema.
+14.3. Admitida a intenção, o recorrente terá o prazo de 03 (três) dias úteis para apresentar
+suas razões.
+14.4. Os demais licitantes poderão apresentar contrarrazões no prazo de 03 (três) dias úteis.
+
+--- [pag. PDF 21] ---
+21
+14.5. O recurso será dirigido à autoridade que praticou o ato, que poderá reconsiderá-lo em até
+03 (três) dias úteis, ou encaminhá-lo à autoridade superior.
+14.6. O recurso terá efeito suspensivo, nos termos do art. 168 da Lei nº 14.133/2021.
+14.7. O acolhimento do recurso invalidará apenas os atos que não puderem ser aproveitados.
+15. DA REABERTURA DA SESSÃO PÚBLICA
+15.1. A sessão pública poderá ser reaberta quando:
+I – houver provimento de recurso que implique a invalidação de atos;
+II – o licitante vencedor não assinar o contrato ou não regularizar sua situação fiscal, quando
+aplicável.
+15.2. Todos os licitantes remanescentes serão convocados pelo sistema eletrônico.
+16. DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO
+16.1 Encerradas as fases de julgamento, habilitação e exauridos os recursos administrativos,
+o processo licitatório será encaminhado à autoridade competente para adjudicação do objeto
+ao licitante vencedor e homologação do certame, nos termos do art. 71, inciso IV, da Lei nº
+14.133/2021.
+17. DO TERMO DE CONTRATO OU INSTRUMENTO EQUIVALENTE
+17.1 Após a homologação da licitação, sendo realizada a contratação, será formalizado Termo
+de Contrato ou emitido instrumento equivalente, conforme previsto no art. 95 da Lei nº
+14.133/2021.
+17.2 A formalização ocorrerá, preferencialmente, por meio de assinatura eletrônica ou digital,
+admitidos os meios legalmente válidos.
+17.3 O adjudicatário terá o prazo de 05 (cinco) dias úteis, contados da convocação, para
+assinar o contrato ou aceitar o instrumento equivalente (nota de empenho, autorização de
+fornecimento ou carta contrato), sob pena de decair do direito à contratação, sem prejuízo da
+aplicação das sanções legais.
+17.4 A aceitação da Nota de Empenho ou do instrumento equivalente implica o reconhecimento
+de que:
+I – o referido instrumento substitui o contrato, nos termos do art. 95 da Lei nº 14.133/2021;
+II – a contratada se vincula integralmente à sua proposta, ao edital e aos seus anexos;
+III – aplicam-se à relação contratual as hipóteses de extinção previstas nos arts. 137 a 139 da
+Lei nº 14.133/2021.
+17.5 Quando formalizado Termo de Contrato, este terá vigência de até 12 (doze) meses,
+admitidas prorrogações nos termos dos arts. 106 e 107 da Lei nº 14.133/2021, desde que haja
+interesse da Administração e vantajosidade econômica.
+17.6 Previamente à contratação, o Município de Barrolândia–TO realizará consulta ao CEIS e
+ao CNEP, para verificação de impedimentos à contratação, nos termos do art. 11 da Lei nº
+14.133/2021.
+17.7 A contratada deverá manter, durante toda a vigência do contrato, as condições de
+habilitação e qualificação exigidas no edital.
+
+--- [pag. PDF 22] ---
+22
+17.8 Caso o vencedor não comprove as condições de habilitação ou se recuse a assinar o
+contrato ou instrumento equivalente, a Administração poderá convocar os licitantes
+remanescentes, observada a ordem de classificação, nos termos do art. 90 da Lei nº
+14.133/2021.
+17.9 Na hipótese de frustração da contratação, a Administração poderá convocar os licitantes
+remanescentes para contratação nas condições do licitante vencedor, nos termos do §2º do
+art. 90 da Lei nº 14.133/2021.
+18. DAS CONDIÇÕES DE EXECUÇÃO E DA FISCALIZAÇÃO
+18.1 A execução do objeto será acompanhada e fiscalizada por servidor ou comissão
+designada pela Administração, nos termos do art. 117 da Lei nº 14.133/2021.
+18.2 O objeto será considerado definitivamente recebido após verificação de sua conformidade
+com as especificações do edital e do termo de referência.
+18.3 Verificada qualquer irregularidade, a contratada será notificada para sanar as falhas no
+prazo fixado pela Administração, sem ônus adicional.
+18.4 Compete ao fiscal do contrato:
+I – acompanhar e fiscalizar a execução;
+II – atestar as notas fiscais como condição para pagamento;
+III – comunicar à Administração qualquer descumprimento contratual.
+18.5 O modelo de gestão do contrato observará o disposto nos arts. 117 e 118 da Lei nº
+14.133/2021, cabendo ao fiscal designado acompanhar a execução, registrar ocorrências,
+propor penalidades e atestar o recebimento.
+19. DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA
+19.1 As obrigações da Contratante e da Contratada são aquelas estabelecidas no Termo de
+Referência, no Edital e no Contrato, em conformidade com os arts. 92 e 115 da Lei nº
+14.133/2021.
+20. DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
+20.1. O licitante ou o contratado que descumprir as disposições deste Edital, do Termo de
+Referência ou do Contrato ficará sujeito às sanções previstas nos arts. 155 a 163 da Lei
+Federal nº 14.133/2021, assegurados o contraditório e a ampla defesa.
+20.2. DAS INFRAÇÕES ADMINISTRATIVAS
+20.2.1. Comete infração administrativa, nos termos do art. 155 da Lei Federal nº 14.133/2021,
+o licitante ou o contratado que:
+a) der causa à inexecução parcial do contrato;
+b) der causa à inexecução parcial do contrato que provoque grave dano à Administração, ao
+funcionamento dos serviços públicos ou ao interesse coletivo;
+c) der causa à inexecução total do contrato;
+d) deixar de entregar a documentação exigida para o certame;
+e) não mantiver a proposta, salvo em decorrência de fato superveniente devidamente
+
+--- [pag. PDF 23] ---
+23
+justificado;
+f) não celebrar o contrato, não entregar a documentação exigida para a contratação, quando
+convocado dentro do prazo de validade da proposta;
+g) ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo
+justificado;
+h) apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração
+falsa durante a licitação ou a execução do contrato;
+i) fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+j) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+k) praticar atos ilícitos com a finalidade de frustrar os objetivos da licitação;
+l) praticar ato lesivo previsto no art. 5º da Lei Federal nº 12.846/2013.
+20.3. DAS SANÇÕES APLICÁVEIS
+20.3.1. Ao licitante ou ao contratado que incorrer nas infrações descritas neste Edital poderão
+ser aplicadas, isolada ou cumulativamente, conforme o caso e nos termos dos arts. 155 a 163
+da Lei Federal nº 14.133/2021, as seguintes sanções:
+I – advertência, exclusivamente quando houver inexecução parcial de menor gravidade e não
+se justificar penalidade mais grave, nos termos do art. 156, § 2º;
+II – multa, nas seguintes modalidades:
+a) multa moratória de 0,5% (meio por cento) por dia de atraso injustificado, incidente sobre o
+valor da parcela inadimplida, limitada a 10% (dez por cento);
+b) multa compensatória por inexecução parcial de até 10% (dez por cento) sobre o valor da
+parcela não executada, aplicada conforme a gravidade da infração;
+c) multa compensatória por inexecução total de até 20% (vinte por cento) sobre o valor total do
+contrato;
+d) multa compensatória por infração que envolva fraude, dolo ou falsidade documental de até
+20% (vinte por cento) sobre o valor total do contrato, sem prejuízo das demais sanções
+cabíveis;
+III – impedimento de licitar e contratar com a Administração Pública direta e indireta do
+Município de Barrolândia – TO, pelo prazo máximo de 3 (três) anos, quando não se justificar
+penalidade mais grave;
+IV – declaração de inidoneidade para licitar ou contratar no âmbito da Administração Pública
+direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo
+de 6 (seis) anos.
+20.3.2. A multa poderá ser aplicada cumulativamente com as demais sanções, quando cabível.
+20.4. DAS REGRAS DE APLICAÇÃO E DA DOSIMETRIA
+20.4.1. Na aplicação das sanções serão considerados a natureza e a gravidade da infração, as
+peculiaridades do caso concreto, as circunstâncias agravantes ou atenuantes, os danos
+causados à Administração, a vantagem auferida ou pretendida, a reincidência e a implantação
+ou o aperfeiçoamento de programa de integridade, nos termos do art. 156, § 1º, da Lei Federal
+nº 14.133/2021.
+20.4.2. A aplicação das sanções não exclui a obrigação de reparação integral do dano causado
+
+--- [pag. PDF 24] ---
+24
+à Administração.
+20.4.3. Antes da aplicação da multa será assegurado prazo de 15 (quinze) dias úteis para
+apresentação de defesa, contado da intimação.
+20.4.4. Quando a multa e as indenizações forem superiores aos valores devidos pela
+Administração, a diferença será descontada da garantia contratual, quando prestada, ou
+cobrada administrativa ou judicialmente.
+20.4.5. Não haverá aplicação cumulativa de multas com o mesmo fundamento e decorrentes
+do mesmo fato gerador.
+20.5. DO PROCESSO SANCIONADOR
+20.5.1. A aplicação de qualquer sanção será precedida de regular processo administrativo, com
+indicação dos fatos, das provas, do enquadramento legal e da penalidade aplicável,
+assegurados o contraditório e a ampla defesa.
+20.5.2. As sanções de impedimento de licitar e contratar e de declaração de inidoneidade
+dependerão de processo de responsabilização conduzido por comissão composta por 2 (dois)
+ou mais servidores estáveis, nos termos do art. 158 da Lei Federal nº 14.133/2021.
+20.5.3. A competência para aplicação das sanções observará a Lei Federal nº 14.133/2021, a
+estrutura administrativa e a regulamentação vigente do Município de Barrolândia – TO, exigida
+análise jurídica prévia para a declaração de inidoneidade.
+20.6. DA LEI ANTICORRUPÇÃO E DA DESCONSIDERAÇÃO DA PERSONALIDADE
+JURÍDICA
+20.6.1. As infrações que também configurem atos lesivos previstos na Lei Federal nº
+12.846/2013 serão apuradas e julgadas conjuntamente, nos mesmos autos, observados o rito
+procedimental e a autoridade competente.
+20.6.2. A personalidade jurídica poderá ser desconsiderada nas hipóteses e condições
+previstas no art. 160 da Lei Federal nº 14.133/2021.
+20.7. DA PUBLICIDADE E DA REABILITAÇÃO
+20.7.1. As sanções de impedimento de licitar e contratar e de declaração de inidoneidade serão
+informadas e mantidas atualizadas no CEIS e no CNEP, no prazo legal.
+20.7.2. A reabilitação observará os requisitos previstos no art. 163 da Lei Federal nº
+14.133/2021.
+20.8. DA COBRANÇA E COMPENSAÇÃO DOS DÉBITOS
+20.8.1. As multas e indenizações poderão ser descontadas dos créditos decorrentes do próprio
+contrato ou da da garantia contratual, quando prestada, ou cobradas administrativa ou
+judicialmente.
+20.8.2. A compensação com créditos decorrentes de outros contratos somente ocorrerá
+quando houver regulamentação municipal específica ou ato formal que autorize o
+procedimento.
+21. DAS IMPUGNAÇÕES E DOS PEDIDOS DE ESCLARECIMENTO
+21.1 Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na
+
+--- [pag. PDF 25] ---
+25
+aplicação da Lei nº 14.133/2021, devendo protocolar o pedido até 3 (três) dias úteis antes da
+data da abertura do certame.
+21.2 A resposta às impugnações e aos pedidos de esclarecimento será divulgada no sítio
+eletrônico oficial e no sistema eletrônico utilizado, no prazo de até 3 (três) dias úteis, limitado
+ao último dia útil anterior à data da abertura do certame.
+21.3 As impugnações e os pedidos de esclarecimento deverão ser apresentados
+exclusivamente por meio eletrônico, através da plataforma LICITANET.
+21.4 As impugnações e os pedidos de esclarecimento não suspendem os prazos do certame,
+salvo decisão motivada do agente de contratação.
+21.4.1 A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser
+devidamente fundamentada nos autos do processo de licitação.
+21.5 Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+21.6 As respostas aos pedidos de esclarecimentos e às impugnações vincularão os licitantes
+e o Município de Barrolândia – TO.
+22. DAS DISPOSIÇÕES GERAIS
+22.1 Da sessão pública do Pregão será lavrada ata, que será divulgada no sistema eletrônico.
+22.2 Não havendo expediente ou ocorrendo fato superveniente que impeça a realização do
+certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil
+subsequente, no mesmo horário, salvo comunicação em contrário pelo agente de contratação.
+22.3 Todas as referências de horário no Edital, no aviso e durante a sessão pública observarão
+o horário de Brasília – DF.
+22.4 No julgamento das propostas e da habilitação, o agente de contratação poderá sanar erros
+ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica,
+mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes
+validade e eficácia para fins de habilitação e classificação.
+22.5 A homologação do resultado desta licitação não implicará direito à contratação.
+22.6 As normas deste Edital serão interpretadas em favor da ampliação da disputa, desde que
+não comprometam o interesse público, a isonomia, a finalidade e a segurança da contratação.
+22.7 Os licitantes assumem todos os custos de preparação e apresentação de suas propostas,
+não cabendo ao Município de Barrolândia – TO qualquer responsabilidade por tais custos,
+independentemente do resultado do certame.
+22.8 Na contagem dos prazos estabelecidos neste Edital e em seus Anexos, excluir-se-á o dia
+do início e incluir-se-á o do vencimento, iniciando-se e vencendo-se apenas em dias de
+expediente no Município de Barrolândia – TO.
+22.9 O descumprimento de exigências formais não essenciais não importará o afastamento do
+licitante, desde que seja possível o aproveitamento do ato, observados os princípios da
+isonomia e do interesse público.
+22.10. Aplica-se a ordem de prevalência documental estabelecida no item 1.4 deste Edital.
+22.11 O Edital está disponibilizado, na íntegra, no sítio oficial do Município de Barrolândia – TO
+e no Portal LICITANET.
+22.12 Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+
+--- [pag. PDF 26] ---
+26
+I – Termo de Referência;
+II – Modelo de Proposta Comercial;
+III – Declaração de enquadramento como Microempresa ou Empresa de Pequeno Porte,
+quando aplicável;
+IV – Declaração de elaboração independente de proposta, nos termos da legislação vigente;
+V – Declaração de cumprimento do disposto no art. 7º, XXXIII, da Constituição Federal;
+VI – Declaração de cumprimento do art. 63 da Lei nº 14.133/2021;
+VII – Declaração de atendimento às exigências de reserva de cargos para pessoa com
+deficiência e reabilitados da Previdência Social, quando aplicável;
+VIII – Declaração de inexistência de impedimento para licitar e contratar com a Administração
+Pública;
+IX – Declaração de que não utiliza, em sua cadeia produtiva, trabalho degradante ou em
+condições análogas à de escravo;
+X – Declaração de que não mantém vínculo societário ou funcional com agente público que
+atue direta ou indiretamente na presente licitação, nos termos do art. 14 da Lei nº 14.133/2021;
+XI – Minuta do Contrato;
+BARROLÂNDIA –TO, 30 d e s e t e m b r o d e 2 0 2 6 .
+Keury Juliana Nunes da Silva
+SECRETÁRIA MUNICIPAL DE ADMINISTRAÇÃO
+
+--- [pag. PDF 27] ---
+27
+MODELO
+PREGÃO ELETRÔNICO Nº 016/2026
+MODELO DE PROPOSTA COMERCIAL FINAL
+(a ser apresentada apenas pelo licitante vencedor, após a fase de lances)
+AO MUNICIPIO DE BARROLÂNDIA – TO
+Objeto: disponibilização/licenciamento, no modelo Software as a Service – SaaS, de sistema
+integrado de gestão pública municipal, incluindo implantação, parametrização, migração e
+validação de dados, treinamento, suporte, manutenção, atualizações, hospedagem, backups,
+segurança da informação e transição assistida, conforme Edital, Termo de Referência e
+anexos.
+Apresentamos nossa PROPOSTA COMERCIAL FINAL, em conformidade com o último lance
+ofertado e com as condições estabelecidas no Edital e seus anexos.
+1. IDENTIFICAÇÃO DO LICITANTE
+Razão Social: ______________________________
+CNPJ: ____________________________________
+Inscrição Estadual/Municipal (se houver): ______________
+Endereço: _________________________________
+Telefone: _________________________________
+E-mail: ___________________________________
+Dados bancários para pagamento:
+Banco: ______ Agência: _____ Conta: _______
+2. PREÇOS
+Os preços estão ajustados ao último lance ofertado no sistema eletrônico:
+Item Descrição do
+serviço
+Solução
+ofertada Período Valor mensal
+(R$)
+Valor global – 12 meses
+(R$)
+Valor mensal da proposta: R$ ______________________
+Valor global para 12 (doze) meses: R$ ______________________
+(__________________________________________)
+3. CONDIÇÕES GERAIS
+Declaramos que:
+a) Conhecemos e aceitamos integralmente os termos do Edital, do Termo de Referência e de
+seus anexos;
+b) Os preços incluem todos os custos diretos e indiretos, tributos, encargos trabalhistas,
+previdenciários, fiscais, comerciais, fretes e demais despesas necessárias à perfeita execução
+do objeto;
+c) As especificações ofertadas atendem integralmente às exigências do Edital;
+
+--- [pag. PDF 28] ---
+28
+d) Esta proposta vincula esta empresa durante toda a execução contratual.
+1. VALIDADE DA PROPOSTA
+A presente proposta é válida por no mínimo 60 (sessenta) dias, contados da data de sua
+apresentação no sistema eletrônico.
+Local e data: _______________________________
+Assinatura do representante legal: ____________________________
+Nome: _________________________________________________
+Cargo: ________________________________________________
+
+--- [pag. PDF 29] ---
+29
+MODELOS
+PREGÃO ELETRÔNICO Nº 016/2026
+DECLARAÇÃO DE ENQUADRAMENTO COMO MICROEMPRESA (ME) OU EMPRESA DE
+PEQUENO PORTE (EPP)
+Nos termos da Lei Complementar nº 123, de 14 de dezembro de 2006 A empresa
+___________________________________________, inscrita no CNPJ nº
+_______________________, com sede à
+_________________________________________________, por intermédio de seu
+representante legal infra-assinado, declara, para fins de participação no Pregão Eletrônico nº
+016/2026, sob as penas da lei, que:
+✔ Enquadra-se como Microempresa (ME) ou Empresa de Pequeno Porte (EPP), nos termos
+do art. 3º da Lei Complementar nº 123, de 2006;
+✔ Atende integralmente aos requisitos legais para fruição do tratamento diferenciado e
+favorecido previsto nos arts. 42 a 49 da Lei Complementar nº 123, de 2006;
+✔ Não se enquadra em nenhuma das hipóteses de vedação previstas nos §§ 4º e 5º do art. 3º
+da Lei Complementar nº 123, de 2006.
+Declara, ainda, que está ciente de que a prestação de informação falsa poderá ensejar a
+aplicação das penalidades previstas na Lei nº 14.133/2021 e demais normas aplicáveis.
+Local e data: _______________________________________
+Nome do representante legal: ____________________________
+CPF: ______________________________________________
+Assinatura: __________________________________________
+MODELO
+DECLARAÇÃO DE ELABORAÇÃO INDEPENDENTE DE PROPOSTA E CONFORMIDADE
+COM A LEI ANTICORRUPÇÃO
+A empresa ________________________________, inscrita no CNPJ nº
+____________________, por intermédio de seu representante legal abaixo assinado,
+DECLARA, sob as penas da lei, que:
+I – A proposta apresentada foi elaborada de maneira independente, sem comunicação, acordo,
+ajuste ou influência de qualquer outro licitante;
+II – Não tentou influenciar a decisão de qualquer outro licitante ou agente público;
+III – O conteúdo da proposta não foi divulgado antes da abertura oficial;
+IV – Atua em conformidade com a Lei nº 12.846/2013 (Lei Anticorrupção) e com a Lei nº
+14.133/2021.
+Local e data: _______________________
+Assinatura: ________________________
+Nome e CPF do representante legal
+
+--- [pag. PDF 30] ---
+30
+MODELO
+DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA
+Declaramos que a empresa _____________________________, CNPJ nº
+__________________, está ciente e concorda integralmente com as condições do Edital do
+Pregão Eletrônico nº 016/2026 e seus anexos, e que a proposta apresentada contempla todos
+os custos necessários à execução do objeto.
+Local e data: _______________________
+Assinatura: ________________________
+MODELO
+DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE HABILITAÇÃO
+A empresa ___________________________, CNPJ nº ____________________, declara que
+cumpre plenamente os requisitos de habilitação exigidos no Edital do Pregão Eletrônico nº
+016/2026.
+Local e data: _______________________
+Assinatura: ________________________
+MODELO
+DECLARAÇÃO DE RESERVA DE CARGOS
+Declaramos que cumprimos a reserva legal de cargos para pessoas com deficiência ou
+reabilitados da Previdência Social, nos termos do art. 63, IV, da Lei nº 14.133/2021.
+Local e data: _______________________
+Assinatura: ________________________
+MODELO
+DECLARAÇÃO DE INEXISTÊNCIA DE FATOS IMPEDITIVOS
+Declaramos que não existem fatos impeditivos à nossa habilitação no Pregão Eletrônico nº
+016/2026.
+Local e data: _______________________
+Assinatura: ________________________
+MODELO
+DECLARAÇÃO DE TRABALHO DIGNO
+Declaramos que não utilizamos trabalho degradante ou forçado em nossa cadeia produtiva,
+conforme Constituição Federal.
+Local e data: _______________________
+Assinatura: ________________________
+
+--- [pag. PDF 31] ---
+31
+MODELO
+DECLARAÇÃO DE NÃO EMPREGO DE MENOR
+Declaramos que não empregamos menores em condições vedadas pela legislação
+trabalhista.
+Local e data: _______________________
+Assinatura: ________________________
+MODELO
+DECLARAÇÃO DE NÃO INIDONEIDADE
+Declaramos que não fomos declarados inidôneos para licitar ou contratar com o Poder
+Público.
+Local e data: _______________________
+Assinatura: ________________________
+MODELO
+DECLARAÇÃO DE AUSÊNCIA DE VÍNCULO COM AGENTE PÚBLICO
+Declaramos que não há, em nosso quadro societário ou funcional, agente público do
+Município de Barrolândia -TO.
+Local e data: _______________________
+Assinatura: ________________________
+
+--- [pag. PDF 32] ---
+1
+ANEXO I
+PREGÃO ELETRÔNICO Nº 016/2026
+PROCESSO ADMINISTRATIVO Nº 529/2026
+MINUTA DE CONTRATO ADMINISTRATIVO Nº ___/2026
+O MUNICÍPIO DE BARROLÂNDIA – TO, pessoa jurídica de direito público interno, inscrito no
+CNPJ nº 24.851.453/0001-90, com sede administrativa na Av. Bernardo Sayão, s/n, Centro,
+Barrolândia – TO, neste ato representado pelo Prefeito Municipal, Sr. João Machado Alves,
+doravante denominado CONTRATANTE, e, de outro lado, a empresa
+____________________________, pessoa jurídica de direito privado, inscrita no CNPJ nº
+____________________, com sede à ____________________________, neste ato
+representada por ____________________________, doravante denominada CONTRATADA,
+resolvem celebrar o presente Contrato Administrativo, decorrente do Pregão Eletrônico nº
+016/2026, Processo Administrativo nº 529/2026 e regido pela Lei Federal nº 14.133/2021, pela
+Lei Federal nº 13.709/2018 — LGPD, pelo Edital, Termo de Referência, proposta da contratada
+e demais normas aplicáveis, mediante as cláusulas seguintes.
+CLÁUSULA PRIMEIRA – DO OBJETO
+1.1. O presente contrato tem por objeto a contratação de empresa especializada para
+disponibilização, no modelo Software as a Service – SaaS, de sistema integrado de gestão
+pública municipal, 100% web e hospedado em nuvem, incluindo implantação, parametrização,
+migração e validação de dados, treinamento, suporte técnico, manutenção corretiva,
+preventiva, adaptativa e evolutiva, atualizações legais e tecnológicas, hospedagem, cópias de
+segurança, recuperação de dados, segurança da informação e transição assistida ao final da
+contratação, conforme condições, módulos, funcionalidades, níveis mínimos de serviço e
+exigências estabelecidas no Edital, Termo de Referência, proposta da CONTRATADA.
+1.2. Integram o objeto todos os serviços necessários ao pleno funcionamento da solução
+contratada, ainda que não expressamente mencionados, desde que indispensáveis à
+execução regular, contínua, segura e eficiente do sistema.
+1.3. A execução ocorrerá mediante ordem de serviço emitida pelo CONTRATANTE,
+observadas a disponibilidade orçamentária e as condições estabelecidas no Edital, no Termo
+de Referência e neste contrato.
+1.4. A contratação não gera obrigação de consumo mínimo ou de utilização integral do
+valor estimado, sendo devidos apenas os pagamentos correspondentes aos serviços
+efetivamente solicitados, executados, atestados e regularmente liquidados.
+CLÁUSULA SEGUNDA – DA VINCULAÇÃO
+2.1. O presente contrato vincula-se integralmente ao Edital do Pregão Eletrônico nº 016/2026,
+ao Termo de Referência, à proposta da CONTRATADA, aos documentos de habilitação e aos
+demais elementos constantes do Processo Administrativo nº 529/2026.
+2.2. Em caso de divergência entre os documentos da contratação, será observada a ordem de
+prevalência definida no item 1.4 do Edital.
+
+--- [pag. PDF 33] ---
+2
+CLÁUSULA TERCEIRA – DO VALOR CONTRATUAL
+3.1. O valor mensal do contrato será de R$ ____________ (________________), perfazendo
+o valor global de R$ ____________ (________________) para o período inicial de 12 (doze)
+meses, conforme a proposta vencedora.
+3.3. O valor contratado compreende todos os custos diretos e indiretos necessários à
+execução integral do objeto, inclusive disponibilização/licenciamento da solução,
+implantação, parametrização, migração e validação de dados, treinamento, suporte
+técnico, manutenção, atualizações legais e tecnológicas, hospedagem, backups,
+recuperação de dados, segurança da informação, transição assistida, tributos, encargos,
+seguros, despesas administrativas, operacionais e demais custos necessários ao
+cumprimento das obrigações assumidas.
+3.4. A CONTRATADA não poderá alegar erro, omissão de custos, desconhecimento das
+condições de execução ou insuficiência do valor contratado para justificar inexecução,
+atraso, interrupção, queda de qualidade ou pedido indevido de reequilíbrio econômico-
+financeiro.
+CLÁUSULA QUARTA – DOS RECURSOS ORÇAMENTÁRIOS
+4.1. As despesas decorrentes da presente contratação correrão à conta das dotações
+orçamentárias próprias do Município de Barrolândia – TO, consignadas no orçamento
+vigente, especialmente:
+Classificação Orçamentária: 03.03.04.122.2.2.011
+Elemento de Despesa/Fonte: 33.90.40 / 1.500.0000.000000
+4.2. Havendo utilização por fundos, secretarias ou unidades administrativas diversas, as
+dotações correspondentes poderão ser indicadas no momento da emissão da ordem de
+serviço, nota de empenho ou instrumento equivalente, desde que compatíveis com o objeto
+contratado.
+CLÁUSULA QUINTA – DA VIGÊNCIA
+5.1. O presente contrato terá vigência de 12 (doze) meses, contados da data de sua assinatura,
+podendo a execução iniciar-se na data indicada na ordem de serviço, quando emitida
+posteriormente, observadas as condições estabelecidas no Edital, no Termo de Referência e
+neste instrumento.
+5.2. A vigência contratual será regida pelas disposições da Lei Federal nº 14.133/2021, do
+Edital, do Termo de Referência e deste instrumento.
+5.3. Por se tratar de serviço de natureza continuada, a vigência contratual poderá ser
+prorrogada sucessivamente, mediante termo aditivo, respeitada a vigência máxima
+decenal prevista no art. 107 da Lei Federal nº 14.133/2021, desde que estejam presentes,
+cumulativamente, os seguintes requisitos:
+I – previsão no edital e neste contrato;
+II – demonstração de que a prorrogação permanece vantajosa para a Administração;
+III – manutenção da necessidade administrativa e da natureza continuada dos serviços;
+IV – execução regular e satisfatória do objeto;
+V – manifestação favorável do fiscal e do gestor do contrato;
+
+--- [pag. PDF 34] ---
+3
+VI – manutenção das condições de habilitação e qualificação da CONTRATADA;
+VII – compatibilidade dos preços contratados com os praticados no mercado;
+VIII – existência de disponibilidade orçamentária para o período prorrogado;
+IX – concordância expressa da CONTRATADA; e
+X – autorização motivada da autoridade competente.
+5.4. A vantajosidade da prorrogação será demonstrada mediante pesquisa de preços,
+análise comparativa de mercado ou outro meio tecnicamente idôneo, podendo ser
+considerada a existência de custos de substituição da solução, migração de dados,
+implantação, treinamento, integração, interrupção dos serviços e riscos à continuidade
+administrativa.
+5.5. A prorrogação dependerá de processo administrativo próprio, instruído, no mínimo,
+com:
+I – relatório do fiscal do contrato acerca da execução dos serviços;
+II – manifestação do gestor do contrato;
+III – justificativa técnica e econômica da prorrogação;
+IV – demonstração da compatibilidade dos preços;
+V – comprovação da manutenção das condições de habilitação;
+VI – indicação da dotação orçamentária;
+VII – manifestação da CONTRATADA quanto ao interesse na prorrogação;
+VIII – parecer jurídico, quando exigível; e
+IX – autorização da autoridade competente.
+5.6. A prorrogação deverá ser formalizada antes do encerramento da vigência contratual,
+vedada a prorrogação de contrato já extinto.
+5.7. A prorrogação não constitui direito subjetivo da CONTRATADA e dependerá da
+avaliação de conveniência e oportunidade da Administração, podendo ser recusada
+mediante decisão motivada.
+5.8. A cada prorrogação, poderão ser negociadas condições mais vantajosas para a
+Administração, inclusive redução ou adequação dos preços, atualização dos níveis de
+serviço, aprimoramento das medidas de segurança da informação e ajustes necessários à
+evolução tecnológica, desde que preservada a natureza do objeto e observados os limites
+legais.
+5.9. O reajuste dos preços e a prorrogação da vigência constituem institutos distintos,
+podendo ser formalizados no mesmo instrumento quando preenchidos os respectivos
+requisitos legais e contratuais.
+CLÁUSULA SEXTA – DA EXECUÇÃO DOS SERVIÇOS
+6.1. A execução dos serviços deverá observar rigorosamente o Edital, o Termo de Referência,
+a proposta da CONTRATADA, a este contrato e as ordens de serviço emitidas pelo
+CONTRATANTE.
+6.2. A CONTRATADA deverá disponibilizar a solução tecnológica em ambiente
+web/nuvem, garantindo acesso contínuo aos usuários autorizados, funcionamento dos
+módulos contratados, segurança das informações, suporte técnico, manutenção,
+atualizações e demais obrigações previstas.
+6.3. A implantação, parametrização, migração, validação de dados, treinamento e
+
+--- [pag. PDF 35] ---
+4
+disponibilização operacional da solução deverão ocorrer nos prazos previstos no Termo de
+Referência ou na ordem de serviço.
+6.4. A CONTRATADA deverá manter equipe técnica suficiente e qualificada para
+atendimento das demandas, solução de incidentes, correção de falhas, orientação de
+usuários, manutenção do sistema e atendimento aos níveis mínimos de serviço.
+6.5. A execução deverá assegurar a continuidade dos serviços administrativos, a
+integridade da base de dados, a rastreabilidade das operações, a segurança da informação
+e a conformidade com a legislação aplicável à Administração Pública.
+CLÁUSULA SÉTIMA – DA IMPLANTAÇÃO, MIGRAÇÃO E TREINAMENTO
+7.1. A CONTRATADA será responsável pela implantação da solução, parametrização dos
+módulos, configuração de perfis de acesso, migração/conversão de dados, testes,
+validação e entrada em operação assistida.
+7.2. A migração de dados deverá ser realizada de forma segura, íntegra, rastreável e
+validada pela Administração, observadas as bases, formatos, prazos e responsabilidades
+definidos no Termo de Referência.
+7.3. A CONTRATADA deverá prestar treinamento aos usuários indicados pelo
+CONTRATANTE, contemplando, no mínimo, a utilização dos módulos contratados, fluxos
+operacionais, rotinas de segurança, emissão de relatórios e procedimentos de suporte.
+7.4. A fase de implantação não afasta a obrigação de suporte, correção de falhas, ajustes
+de parametrização e atendimento às necessidades operacionais da Administração.
+CLÁUSULA OITAVA – DO SUPORTE TÉCNICO, MANUTENÇÃO E ATUALIZAÇÕES
+8.1. A CONTRATADA deverá prestar suporte técnico contínuo aos usuários autorizados,
+por canais formais de atendimento, tais como sistema de chamados, telefone, e-mail,
+atendimento remoto ou outro meio previsto no Termo de Referência.
+8.2. O suporte técnico deverá compreender orientação operacional, correção de erros,
+esclarecimento de dúvidas, atendimento a incidentes, apoio à utilização dos módulos e
+acompanhamento das rotinas essenciais.
+8.3. A manutenção do sistema deverá abranger manutenção corretiva, preventiva,
+adaptativa e evolutiva, incluindo correções de falhas, melhorias, adequações legais,
+atualizações tecnológicas e ajustes necessários ao funcionamento regular da solução.
+8.4. As atualizações legais deverão ser implementadas tempestivamente, de modo a
+garantir a conformidade da solução com alterações normativas aplicáveis à gestão pública
+municipal.
+8.5. A CONTRATADA não poderá suspender, limitar ou interromper o suporte técnico, a
+manutenção, as atualizações, o acesso ao sistema ou a hospedagem dos dados, salvo por
+motivo justificado, previamente comunicado e aceito pela Administração, ou em razão de
+caso fortuito ou força maior devidamente comprovado.
+CLÁUSULA NONA – DOS NÍVEIS MÍNIMOS DE SERVIÇO
+9.1. A CONTRATADA deverá observar os níveis mínimos de serviço previstos no Termo
+de Referência, especialmente quanto à disponibilidade da solução, tempo de resposta,
+tempo de solução de incidentes, suporte técnico, backups, recuperação de dados e
+continuidade operacional.
+
+--- [pag. PDF 36] ---
+5
+9.2. As falhas, indisponibilidades, atrasos ou descumprimentos dos níveis mínimos de
+serviço deverão ser registrados pelo fiscal do contrato e poderão ensejar glosas,
+descontos, aplicação de penalidades ou outras medidas administrativas cabíveis.
+9.3. A indisponibilidade programada deverá ser comunicada previamente à Administração,
+com indicação de data, horário, duração estimada e justificativa técnica, devendo ocorrer
+preferencialmente em períodos de menor impacto operacional.
+9.4. Indisponibilidades injustificadas, falhas recorrentes, ausência de suporte ou demora
+excessiva na solução de incidentes poderão caracterizar inexecução parcial do contrato.
+9.5. A glosa será calculada sobre o valor mensal devido, proporcionalmente ao descumprimento
+verificado, sem prejuízo da aplicação de sanção quando houver culpa, reincidência ou dano:
+I – indisponibilidade não programada acima do limite mensal estabelecido no Termo de Referência:
+glosa de 1% (um por cento) do valor mensal por ponto percentual excedente, limitada a 20% (vinte
+por cento) da fatura mensal;
+II – descumprimento injustificado do prazo de resposta ou solução de chamado: glosa de 0,5%
+(meio por cento) do valor mensal por ocorrência, limitada a 10% (dez por cento) da fatura mensal;
+III – módulo essencial inoperante por período superior ao prazo de solução: glosa proporcional ao
+período de indisponibilidade, calculada pela fórmula G = VM × (HI/HM), em que G é a glosa, VM é
+o valor mensal, HI é o total de horas de indisponibilidade indevida e HM é o total de horas do mês;
+IV – ausência injustificada de suporte ou falha reiterada no atendimento: glosa de 1% (um por
+cento) do valor mensal por ocorrência, limitada a 10% (dez por cento) da fatura mensal.
+9.6. A glosa dependerá do registro da ocorrência, da comunicação à CONTRATADA e da
+oportunidade de manifestação, não se confundindo com penalidade administrativa e não afastando
+a obrigação de correção integral da falha.
+CLÁUSULA DÉCIMA – DA SEGURANÇA DA INFORMAÇÃO E DA LGPD
+10.1. A CONTRATADA deverá observar a Lei Federal nº 13.709/2018 — Lei Geral de
+Proteção de Dados — LGPD, bem como as boas práticas de segurança da informação,
+confidencialidade, integridade, disponibilidade, rastreabilidade, controle de acesso, logs de
+auditoria, backups, recuperação de dados e continuidade dos serviços.
+10.2. Os dados inseridos, processados, armazenados ou gerados no sistema pertencem
+ao CONTRATANTE, sendo vedado à CONTRATADA utilizá-los para finalidade diversa da
+execução contratual.
+10.3. A CONTRATADA deverá manter sigilo absoluto sobre informações, documentos,
+dados pessoais, dados fiscais, financeiros, funcionais, contábeis, administrativos ou
+estratégicos a que tiver acesso em razão da execução contratual.
+10.4. A CONTRATADA deverá adotar mecanismos de controle de acesso por usuário,
+perfis de permissão, registro de operações, logs de auditoria, autenticação, proteção contra
+acessos indevidos e medidas técnicas compatíveis com a natureza dos dados tratados.
+10.5. Em caso de incidente de segurança, vazamento, acesso indevido, perda,
+indisponibilidade relevante ou comprometimento de dados, a CONTRATADA deverá
+comunicar imediatamente o CONTRATANTE, indicando as medidas adotadas para
+contenção, correção, recuperação e prevenção de novos incidentes.
+10.6. Ao final da contratação, a CONTRATADA deverá assegurar a devolução, exportação
+ou disponibilização integral dos dados do CONTRATANTE em formato acessível,
+
+--- [pag. PDF 37] ---
+6
+estruturado e tecnicamente utilizável, vedada a retenção indevida, bloqueio ou
+condicionamento de acesso.
+CLÁUSULA DÉCIMA PRIMEIRA – DOS BACKUPS, HOSPEDAGEM E CONTINUIDADE
+11.1. A CONTRATADA será responsável pela hospedagem da solução, manutenção do
+ambiente tecnológico, realização de cópias de segurança, proteção da base de dados e
+recuperação das informações, conforme previsto no Termo de Referência.
+11.2. As rotinas de backup deverão garantir a preservação, integridade e recuperação dos
+dados, observada periodicidade compatível com a criticidade das informações públicas
+gerenciadas.
+11.3. A CONTRATADA deverá manter mecanismos de contingência e recuperação em
+caso de falhas, indisponibilidade, perda de dados, ataques, incidentes técnicos ou eventos
+que comprometam a continuidade dos serviços.
+11.4. A ausência de backup, falha de recuperação, perda de dados ou comprometimento
+da integridade das informações poderá caracterizar falta grave, sem prejuízo da
+responsabilização administrativa, civil e demais sanções cabíveis.
+CLÁUSULA DÉCIMA SEGUNDA – DA TRANSIÇÃO ASSISTIDA E ENCERRAMENTO
+CONTRATUAL
+12.1. Ao final da vigência contratual, em caso de rescisão, substituição de fornecedor ou
+encerramento da contratação, a CONTRATADA deverá realizar transição assistida,
+garantindo a continuidade dos serviços e a preservação integral dos dados da
+Administração.
+12.2. A transição assistida compreenderá, no mínimo, a disponibilização da base de dados,
+relatórios, arquivos, layouts, documentação técnica necessária, apoio à exportação de
+informações e suporte razoável para transferência a novo sistema ou solução definida pela
+Administração.
+12.3. A CONTRATADA não poderá reter, bloquear, excluir, dificultar ou condicionar a
+entrega dos dados públicos municipais ao pagamento de valores não reconhecidos,
+discussão contratual, renovação ou qualquer outra exigência não prevista legalmente.
+12.4. O descumprimento das obrigações de transição assistida poderá ensejar retenção de
+pagamentos, aplicação de sanções, responsabilização por perdas e danos e demais
+medidas legais cabíveis.
+CLÁUSULA DÉCIMA TERCEIRA – DO RECEBIMENTO DOS SERVIÇOS
+13.1. Os serviços serão recebidos provisoriamente pelo fiscal do contrato, para fins de
+verificação da conformidade com o Termo de Referência, ordem de serviço, proposta e
+demais condições contratuais.
+13.2. O recebimento definitivo ocorrerá após a conferência da efetiva execução,
+funcionamento da solução, cumprimento das obrigações contratadas, atendimento aos
+níveis mínimos de serviço e regularidade dos documentos apresentados.
+13.3. O recebimento provisório ou definitivo não exclui a responsabilidade da
+CONTRATADA por falhas, vícios, inconsistências, indisponibilidades, defeitos, erros de
+sistema ou obrigações não cumpridas identificadas posteriormente.
+13.4. A Administração poderá rejeitar, glosar ou determinar a correção de serviços
+
+--- [pag. PDF 38] ---
+7
+executados em desconformidade com o contrato, sem prejuízo da aplicação de sanções
+cabíveis.
+CLÁUSULA DÉCIMA QUARTA – DO PAGAMENTO
+14.1. O pagamento será efetuado mensalmente, em até 30 (trinta) dias contados da regular
+liquidação da despesa, mediante apresentação de Nota Fiscal idônea, relatório de execução
+dos serviços, comprovação do cumprimento das obrigações contratadas e atesto do fiscal do
+contrato, observada a ordem cronológica prevista no art. 141 da Lei Federal nº 14.133/2021.
+14.2. A liquidação da despesa ficará condicionada à verificação da efetiva disponibilização
+e funcionamento da solução contratada, incluindo suporte técnico, manutenção,
+atualizações, hospedagem, backups, segurança da informação, atendimento aos níveis
+mínimos de serviço e demais obrigações previstas no Termo de Referência.
+14.3. Havendo erro na Nota Fiscal, inconsistência nos documentos apresentados, falha na
+execução, indisponibilidade injustificada do sistema, descumprimento dos níveis mínimos
+de serviço ou qualquer circunstância que impeça a liquidação da despesa, o pagamento
+ficará suspenso até a regularização da pendência, sem prejuízo da aplicação das sanções
+cabíveis.
+14.4. O pagamento observará a ordem cronológica de exigibilidade, quando aplicável, nos
+termos do art. 141 da Lei Federal nº 14.133/2021, e será realizado por meio de ordem
+bancária em conta indicada pela CONTRATADA.
+14.5. A Administração poderá realizar retenções tributárias, glosas, descontos ou
+compensações de valores decorrentes de multas, falhas de execução, indisponibilidade do
+sistema, descumprimento contratual ou obrigações legais, assegurado o contraditório e a
+ampla defesa quando cabíveis.
+14.6. Nenhum pagamento será efetuado à CONTRATADA enquanto houver pendência de
+liquidação, documentação fiscal irregular, descumprimento contratual não sanado ou
+ausência de atesto regular pelo fiscal do contrato.
+CLÁUSULA DÉCIMA QUINTA – DO REAJUSTE, REVISÃO E REEQUILÍBRIO
+15.1. Os preços contratados serão reajustados após o interregno mínimo de 12 (doze) meses,
+contado da data do orçamento estimado, mediante aplicação do Índice Nacional de Preços ao
+Consumidor Amplo – IPCA, ou índice oficial que venha a substituí-lo, sem prejuízo da revisão
+extraordinária nas hipóteses legais de restabelecimento do equilíbrio econômico-financeiro.
+15.2. O reajuste será formalizado por apostilamento, mediante aplicação do IPCA sobre o valor
+vigente, observada a data-base definida no item anterior e a legislação aplicável.
+15.3. A revisão ou reequilíbrio econômico-financeiro dependerá de requerimento formal da
+parte interessada, acompanhado de documentação idônea que comprove fato
+superveniente, imprevisível ou previsível de consequências incalculáveis, impacto efetivo
+nos custos e nexo causal com a execução contratual.
+15.4. Não serão admitidos pedidos de reequilíbrio fundados em erro de proposta, omissão
+de custos, variação ordinária de mercado, má gestão empresarial, encargos já previsíveis
+ou riscos assumidos pela CONTRATADA.
+CLÁUSULA DÉCIMA SEXTA – DA GESTÃO, FISCALIZAÇÃO E GARANTIA
+CONTRATUAL
+
+--- [pag. PDF 39] ---
+8
+16.1. A execução do contrato será acompanhada e fiscalizada por servidor, gestor e/ou
+comissão formalmente designados pela Administração, nos termos do art. 117 da Lei Federal
+nº 14.133/2021.
+16.2. Compete ao fiscal do contrato acompanhar a execução do objeto, registrar as
+ocorrências verificadas, aferir o cumprimento das obrigações contratuais e dos níveis de
+serviço, atestar os serviços regularmente prestados, solicitar correções, propor glosas quando
+cabíveis, comunicar falhas ao gestor e subsidiar a adoção de providências administrativas e
+sancionatórias.
+16.3. A fiscalização exercida pela Administração não exclui nem reduz a responsabilidade da
+CONTRATADA pela perfeita execução do objeto, inclusive quanto aos danos causados à
+Administração ou a terceiros.
+16.4. A CONTRATADA deverá facilitar o exercício da fiscalização, prestar todas as
+informações e esclarecimentos solicitados, apresentar relatórios, permitir auditorias
+relacionadas à execução contratual, demonstrar o funcionamento da solução e atender
+tempestivamente às determinações formais expedidas pela Administração.
+16.5. O gestor e os fiscais deverão registrar em instrumento próprio as ocorrências
+relacionadas à execução contratual e adotar ou propor as providências necessárias à
+regularização de falhas ou irregularidades constatadas.
+16.6. Será exigida da CONTRATADA garantia de execução correspondente a 5% (cinco por
+cento) do valor inicial do contrato, nos termos dos arts. 96 a 100 da Lei Federal nº 14.133/2021.
+16.7. Caberá à CONTRATADA optar por uma das modalidades legalmente admitidas:
+I – caução em dinheiro ou em títulos da dívida pública, na forma da legislação aplicável;
+II – seguro-garantia;
+III – fiança bancária emitida por banco ou instituição financeira devidamente autorizada a
+operar no País pelo Banco Central do Brasil; ou
+IV – título de capitalização custeado por pagamento único, com resgate pelo valor total, nos
+termos da legislação vigente.
+16.8. Quando escolhida modalidade diversa do seguro-garantia, a garantia deverá ser
+apresentada no prazo estabelecido na convocação para assinatura do contrato ou em até 10
+(dez) dias úteis contados da assinatura, conforme definido pela Administração.
+16.9. Na hipótese de opção pelo seguro-garantia, deverá ser observado o prazo mínimo
+previsto no art. 96, § 3º, da Lei nº 14.133/2021, assegurando-se período mínimo de 1 (um)
+mês, contado da homologação da licitação e anterior à assinatura do contrato, para sua
+prestação.
+16.10. A garantia terá por finalidade assegurar o fiel cumprimento das obrigações assumidas
+pela CONTRATADA, podendo responder, nos limites legais e contratuais, pelos prejuízos
+decorrentes da inexecução, multas aplicadas e demais valores devidos à Administração.
+16.11. Considerando a natureza da solução contratada, a garantia abrangerá também os
+riscos relacionados à continuidade operacional, migração, transição assistida, portabilidade e
+disponibilização integral dos dados, documentos, históricos, metadados e demais informações
+pertencentes à Administração, quando o inadimplemento dessas obrigações gerar prejuízo
+indenizável.
+16.12. A garantia deverá permanecer válida durante toda a vigência contratual e ser mantida
+ou renovada sempre que necessário, devendo acompanhar eventuais alterações de vigência
+e ser complementada proporcionalmente quando houver acréscimo do valor contratual.
+
+--- [pag. PDF 40] ---
+9
+16.13. No caso de seguro-garantia, o prazo de vigência da apólice deverá ser igual ou superior
+ao prazo do contrato e acompanhar suas alterações mediante os respectivos endossos.
+16.14. Caso a garantia seja utilizada total ou parcialmente para ressarcimento de prejuízos,
+pagamento de multas ou outra finalidade legalmente admitida, a CONTRATADA deverá
+recompor seu valor no prazo fixado pela Administração.
+16.15. A garantia será liberada ou restituída após a fiel execução do contrato ou nas demais
+hipóteses previstas no art. 100 da Lei Federal nº 14.133/2021, observadas eventuais
+responsabilidades pendentes.
+CLÁUSULA DÉCIMA SÉTIMA – DAS OBRIGAÇÕES DA CONTRATADA
+17.1. São obrigações da CONTRATADA, além das previstas no Edital, Termo de Referência,
+legislação aplicável:
+I – executar integralmente o objeto contratado, observando prazos, módulos,
+funcionalidades, níveis mínimos de serviço, padrões de desempenho e requisitos técnicos
+exigidos;
+II – disponibilizar sistema 100% web, hospedado em nuvem, com acesso aos usuários
+autorizados e funcionamento adequado dos módulos contratados;
+III – realizar implantação, parametrização, migração, validação de dados, treinamento,
+suporte técnico, manutenção e atualizações;
+IV – manter equipe técnica qualificada e estrutura operacional suficiente para atendimento
+às demandas da Administração;
+V – assegurar a segurança, confidencialidade, integridade, disponibilidade e
+rastreabilidade das informações;
+VI – cumprir a LGPD e as normas de segurança da informação aplicáveis;
+VII – realizar backups e manter mecanismos de recuperação de dados;
+VIII – corrigir falhas, erros, inconsistências e indisponibilidades no menor prazo possível,
+conforme níveis mínimos de serviço;
+IX – manter canais formais de suporte e registro de chamados;
+X – comunicar imediatamente qualquer incidente que possa afetar a execução contratual,
+a segurança das informações ou a continuidade dos serviços;
+XI – manter, durante toda a execução contratual, as condições de habilitação e qualificação
+exigidas na licitação;
+XII – responsabilizar-se por tributos, encargos trabalhistas, previdenciários, fiscais,
+comerciais, seguros e demais despesas decorrentes da execução;
+XIII – não transferir, ceder ou subcontratar o objeto sem autorização prévia e expressa da
+Administração, quando admitido;
+XIV – garantir transição assistida ao final da contratação, com entrega integral dos dados
+da Administração;
+XV – responder por danos causados à Administração ou a terceiros em razão de ação,
+omissão, falha técnica, negligência, imperícia, imprudência, dolo ou culpa na execução
+contratual.
+CLÁUSULA DÉCIMA OITAVA – DAS OBRIGAÇÕES DO CONTRATANTE
+18.1. São obrigações do CONTRATANTE:
+I – emitir ordem de serviço ou instrumento equivalente para início da execução;
+
+--- [pag. PDF 41] ---
+10
+II – disponibilizar informações, documentos, bases de dados e acessos necessários à
+implantação e execução, quando cabível;
+III – designar fiscal ou comissão para acompanhamento contratual;
+IV – acompanhar, fiscalizar, avaliar e atestar a execução dos serviços;
+V – comunicar formalmente falhas, inconsistências, atrasos ou descumprimentos;
+VI – efetuar os pagamentos devidos, após regular liquidação da despesa e atesto do fiscal;
+VII – aplicar sanções, glosas ou medidas corretivas quando houver descumprimento
+contratual;
+VIII – zelar pela utilização adequada do sistema pelos usuários autorizados;
+IX – preservar as credenciais de acesso sob sua responsabilidade;
+X – fornecer à CONTRATADA as informações necessárias à execução, observados os
+deveres de sigilo e proteção de dados.
+CLÁUSULA DÉCIMA NONA – DAS VEDAÇÕES
+19.1. É vedado à CONTRATADA:
+I – suspender ou interromper injustificadamente o acesso ao sistema;
+II – bloquear, reter, excluir ou dificultar o acesso aos dados da Administração;
+III – utilizar dados públicos ou pessoais para finalidade diversa da execução contratual;
+IV – condicionar a entrega da base de dados a renovação contratual ou pagamento de
+valores controvertidos;
+V – transferir a terceiros a execução contratual sem autorização formal da Administração;
+VI – reduzir funcionalidades, suporte, manutenção, hospedagem ou segurança sem
+autorização;
+VII – executar o objeto de forma diversa da proposta, do Edital, do Termo de Referência
+ou deste contrato;
+VIII – alegar desconhecimento das obrigações contratuais para justificar descumprimento.
+CLÁUSULA VIGÉSIMA – DAS SANÇÕES ADMINISTRATIVAS
+20.1. Pelo descumprimento total ou parcial das obrigações assumidas, a CONTRATADA
+ficará sujeita às sanções previstas na Lei Federal nº 14.133/2021, no Edital e neste
+contrato, assegurados o contraditório e a ampla defesa.
+20.2. Poderão ser aplicadas as seguintes sanções:
+I – advertência;
+II – multa moratória por atraso injustificado;
+III – multa compensatória por inexecução parcial ou total;
+IV – impedimento de licitar e contratar;
+V – declaração de inidoneidade para licitar ou contratar.
+20.3. A multa moratória será de 0,5% (meio por cento) por dia de atraso injustificado, calculada
+sobre o valor da parcela mensal afetada, limitada a 10% (dez por cento) do respectivo valor
+mensal.
+20.4. A multa compensatória será aplicada nos seguintes limites:
+I – até 10% (dez por cento) sobre o valor da parcela não executada, em caso de inexecução
+parcial, conforme a gravidade e os efeitos da infração;
+II – até 20% (vinte por cento) sobre o valor total atualizado do contrato, em caso de inexecução
+total ou extinção contratual imputável à CONTRATADA.
+
+--- [pag. PDF 42] ---
+11
+I – até 10% (dez por cento) sobre o valor da parcela inadimplida, em caso de inexecução
+parcial;
+II – até 20% (vinte por cento) sobre o valor global contratado, em caso de inexecução total,
+rescisão por culpa da CONTRATADA ou falha grave que comprometa a continuidade dos
+serviços.
+20.5. As multas somente poderão ser descontadas de créditos da CONTRATADA após a
+conclusão do processo administrativo correspondente, assegurados o contraditório, a ampla
+defesa e o prazo legal para manifestação, sem prejuízo da cobrança administrativa ou judicial
+e da reparação integral dos danos.
+20.6. A aplicação de sanção será precedida de processo administrativo, assegurados o
+contraditório, a ampla defesa e a decisão motivada.
+CLÁUSULA VIGÉSIMA PRIMEIRA – DA EXTINÇÃO CONTRATUAL
+21.1. O presente contrato poderá ser extinto nas hipóteses previstas nos arts. 137 a 139
+da Lei Federal nº 14.133/2021, bem como nos casos de descumprimento das obrigações
+contratuais, interesse público devidamente justificado, caso fortuito, força maior ou acordo
+entre as partes.
+21.2. Constituem motivos para extinção contratual, sem prejuízo de outras hipóteses legais:
+I – não cumprimento ou cumprimento irregular de cláusulas contratuais;
+II – atraso injustificado na implantação ou disponibilização da solução;
+III – paralisação ou interrupção injustificada dos serviços;
+IV – falhas graves ou recorrentes que comprometam a continuidade administrativa;
+V – perda, vazamento, bloqueio ou retenção indevida de dados da Administração;
+VI – descumprimento das obrigações de segurança da informação ou LGPD;
+VII – transferência não autorizada do objeto;
+VIII – perda das condições de habilitação;
+IX – decretação de falência, insolvência ou dissolução da CONTRATADA;
+X – razões de interesse público, devidamente motivadas.
+21.3. A extinção contratual não exime a CONTRATADA da obrigação de realizar transição
+assistida, entregar integralmente os dados da Administração e responder por danos,
+multas e obrigações pendentes.
+CLÁUSULA VIGÉSIMA SEGUNDA – DA RESPONSABILIDADE CIVIL E
+ADMINISTRATIVA
+22.1. A CONTRATADA responderá por danos causados diretamente à Administração ou a
+terceiros em razão da execução contratual, inclusive por falhas técnicas, perda de dados,
+indisponibilidade indevida, vazamento de informações, negligência, imprudência,
+imperícia, dolo ou culpa.
+22.2. A responsabilização da CONTRATADA não será afastada pela fiscalização ou
+acompanhamento realizado pela Administração.
+22.3. A CONTRATADA deverá reparar, corrigir, remover, reconstruir, restaurar ou
+substituir, às suas expensas, serviços, dados, rotinas ou funcionalidades executadas em
+desconformidade, sem prejuízo de perdas e danos.
+CLÁUSULA VIGÉSIMA TERCEIRA – DA SUBCONTRATAÇÃO
+
+--- [pag. PDF 43] ---
+12
+23.1. A subcontratação total do objeto é vedada.
+23.2. A subcontratação parcial de serviços acessórios somente será admitida quando
+expressamente autorizada pela Administração e desde que não comprometa a
+responsabilidade integral da CONTRATADA pela execução do objeto.
+23.3. A eventual subcontratação não afastará a responsabilidade direta, integral e
+exclusiva da CONTRATADA perante o CONTRATANTE.
+CLÁUSULA VIGÉSIMA QUARTA – DA ALTERAÇÃO CONTRATUAL
+24.1. O contrato poderá ser alterado nas hipóteses previstas na Lei Federal nº
+14.133/2021, mediante justificativa formal, disponibilidade orçamentária, demonstração de
+interesse público e celebração de termo aditivo, quando exigido.
+24.2. Nenhuma alteração, acréscimo, supressão, substituição de solução, mudança de
+escopo ou modificação relevante poderá ser executada sem autorização prévia e formal
+da Administração.
+CLÁUSULA VIGÉSIMA QUINTA – DA PUBLICAÇÃO
+25.1. O extrato do presente contrato será publicado na forma da legislação aplicável, como
+condição de eficácia, observadas as regras de transparência pública e divulgação no Portal
+Nacional de Contratações Públicas — PNCP, quando cabível.
+CLÁUSULA VIGÉSIMA SEXTA – DOS CASOS OMISSOS
+26.1. Os casos omissos serão resolvidos com fundamento na Lei Federal nº 14.133/2021, no
+Edital, no Termo de Referência, na na proposta da CONTRATADA, na Lei Federal nº
+13.709/2018, nos princípios da Administração Pública e demais normas aplicáveis.
+CLÁUSULA VIGÉSIMA SÉTIMA – DO FORO
+27.1. Fica eleito o foro da Comarca de Miranorte – TO para dirimir eventuais controvérsias
+decorrentes deste contrato, com renúncia expressa a qualquer outro, por mais privilegiado
+que seja.
+E, por estarem justas e contratadas, as partes assinam o presente instrumento em vias de
+igual teor e forma, juntamente com as testemunhas abaixo.
+Barrolândia – TO, ____ de __________________ de 2026.
+MUNICÍPIO DE BARROLÂNDIA – TO
+CONTRATANTE
+Representante: João Machado Alves
+Prefeito Municipal
+
+--- [pag. PDF 44] ---
+13
+________________________________________
+CONTRATADA
+Representante legal: ____________________________
+CPF nº ____________________________
+TESTEMUNHAS:
+1. Nome: ____________________________________
+CPF: _____________________________________
+Assinatura: _______________________________
+2. Nome: ____________________________________
+CPF: _____________________________________
+Assinatura: _______________________________
+
+--- [pag. PDF 45] ---
+14
+ANEXO II
+ROTEIRO DA PROVA DE CONCEITO - POC
+PREGÃO ELETRÔNICO Nº 016/2026 - PROCESSO ADMINISTRATIVO Nº 529/2026
+1. OBJETIVO
+O presente roteiro estabelece os procedimentos e os critérios objetivos para avaliação da solução
+ofertada pela licitante provisoriamente classificada em primeiro lugar, com a finalidade de verificar
+a aderência da solução aos requisitos essenciais da contratação.
+2. CRITÉRIO DE APROVAÇÃO
+A solução deverá alcançar, em cada módulo individualmente considerado, percentual mínimo de
+85% (oitenta e cinco por cento) dos requisitos avaliados. Não haverá compensação entre módulos.
+Cada requisito será classificado como ATENDIDO ou NÃO ATENDIDO.
+3. MÓDULOS E REQUISITOS MÍNIMOS A SEREM DEMONSTRADOS
+Módulo Nº Requisito a demonstrar Resultado Observação
+Planejamento
+governamental -
+PPA, LDO e
+LOA
+1
+Elaboração, alteração,
+consolidação e
+acompanhamento de PPA,
+LDO e LOA.
+☐ Atendido ☐
+Não atendido
+2
+Classificação por órgão,
+unidade, função,
+subfunção, programa,
+ação, natureza e
+fonte/destinação.
+☐ Atendido ☐
+Não atendido
+3
+Projeção de
+receitas/despesas e
+geração de demonstrativos
+legais.
+☐ Atendido ☐
+Não atendido
+4
+Integração com
+contabilidade e execução
+orçamentária.
+☐ Atendido ☐
+Não atendido
+Contabilidade
+pública e
+execução
+orçamentária
+1
+PCASP e movimentação
+contábil compatível com
+normas vigentes.
+☐ Atendido ☐
+Não atendido
+2
+Empenho, liquidação,
+pagamento, anulações,
+restos a pagar e receitas.
+☐ Atendido ☐
+Não atendido
+3
+Controle por
+fontes/destinações e
+créditos adicionais.
+☐ Atendido ☐
+Não atendido
+4
+Emissão de diário, razão,
+balancetes e
+demonstrativos legais.
+☐ Atendido ☐
+Não atendido
+
+--- [pag. PDF 46] ---
+15
+5
+Geração de informações
+para STN/TCE-TO e
+integração com módulos
+correlatos.
+☐ Atendido ☐
+Não atendido
+Tesouraria 1 Cadastro e movimentação
+de contas bancárias.
+☐ Atendido ☐
+Não atendido
+2
+Pagamentos,
+recebimentos,
+transferências e
+conciliação.
+☐ Atendido ☐
+Não atendido
+3 Controle de saldos
+integrado à contabilidade.
+☐ Atendido ☐
+Não atendido
+4 Relatórios de caixa, saldos
+e extratos.
+☐ Atendido ☐
+Não atendido
+Patrimônio 1
+Cadastro, tombamento,
+localização, transferência,
+depreciação e baixa.
+☐ Atendido ☐
+Não atendido
+2
+Histórico das
+movimentações e termos
+de responsabilidade.
+☐ Atendido ☐
+Não atendido
+3 Inventário patrimonial e
+etiquetas.
+☐ Atendido ☐
+Não atendido
+4 Integração com
+contabilidade e compras.
+☐ Atendido ☐
+Não atendido
+Compras,
+licitações,
+contratos, atas e
+fornecedores
+1
+Controle de PCA, DFD,
+solicitações, cotações e
+pesquisa de preços.
+☐ Atendido ☐
+Não atendido
+2
+Gestão de licitações,
+dispensas, inexigibilidades,
+contratos, atas e aditivos.
+☐ Atendido ☐
+Não atendido
+3
+Controle de saldos de
+contratos, atas e ordens de
+fornecimento.
+☐ Atendido ☐
+Não atendido
+4
+Publicação/integração das
+informações necessárias
+ao PNCP.
+☐ Atendido ☐
+Não atendido
+5
+Relatórios, histórico de
+compras e preços
+praticados.
+☐ Atendido ☐
+Não atendido
+Almoxarifado e
+estoque 1 Entradas, saídas,
+requisições,
+☐ Atendido ☐
+Não atendido
+
+--- [pag. PDF 47] ---
+16
+transferências, devoluções
+e inventário.
+2 Controle físico e financeiro
+de estoque.
+☐ Atendido ☐
+Não atendido
+3 Controle de entrega parcial
+e saldo de ordens.
+☐ Atendido ☐
+Não atendido
+4 Integração com compras,
+contratos e contabilidade.
+☐ Atendido ☐
+Não atendido
+Gestão de frota 1
+Cadastro de veículos,
+máquinas, motoristas e
+responsáveis.
+☐ Atendido ☐
+Não atendido
+2
+Controle de
+abastecimentos, consumo,
+quilometragem/horímetro e
+viagens.
+☐ Atendido ☐
+Não atendido
+3
+Manutenções, multas,
+seguros, licenciamento e
+custos.
+☐ Atendido ☐
+Não atendido
+4 Alertas, histórico e
+relatórios gerenciais.
+☐ Atendido ☐
+Não atendido
+Protocolo,
+processos e
+documentos
+digitais
+1
+Registro e numeração de
+processos com histórico
+completo.
+☐ Atendido ☐
+Não atendido
+2 Tramitação eletrônica com
+data/hora e responsável.
+☐ Atendido ☐
+Não atendido
+3 Anexação e controle de
+documentos e permissões.
+☐ Atendido ☐
+Não atendido
+4 Fluxos parametrizáveis,
+consultas e relatórios.
+☐ Atendido ☐
+Não atendido
+5
+Abertura/acompanhamento
+externo quando
+configurado.
+☐ Atendido ☐
+Não atendido
+Arrecadação
+tributária e não
+tributária
+1
+Cadastro econômico,
+imobiliário e de
+contribuintes.
+☐ Atendido ☐
+Não atendido
+2
+Lançamento, arrecadação,
+parcelamento, dívida ativa
+e certidões.
+☐ Atendido ☐
+Não atendido
+3
+Emissão de
+guias/documentos e
+integração bancária
+quando aplicável.
+☐ Atendido ☐
+Não atendido
+
+--- [pag. PDF 48] ---
+17
+4 Integração contábil da
+receita e relatórios.
+☐ Atendido ☐
+Não atendido
+5 Parametrização e
+preservação de histórico.
+☐ Atendido ☐
+Não atendido
+NFS-e e
+ISS/IBS 1
+Emissão, consulta,
+cancelamento/substituição
+e armazenamento de NFS-
+e.
+☐ Atendido ☐
+Não atendido
+2
+Gestão de ISS e
+adaptações aplicáveis à
+transição do IBS.
+☐ Atendido ☐
+Não atendido
+3
+Integração com cadastro
+econômico, arrecadação e
+contabilidade.
+☐ Atendido ☐
+Não atendido
+4 Atualização de layouts e
+regras legais.
+☐ Atendido ☐
+Não atendido
+Recursos
+humanos e folha
+de pagamento
+1
+Cadastro funcional,
+cargos, vínculos, lotações,
+férias e afastamentos.
+☐ Atendido ☐
+Não atendido
+2
+Cálculo de folha mensal,
+férias, 13º, rescisões e
+complementares.
+☐ Atendido ☐
+Não atendido
+3
+Integração/transmissão de
+eSocial e EFD-Reinf
+quando aplicável.
+☐ Atendido ☐
+Não atendido
+4 Portal/consulta de
+contracheques e informes.
+☐ Atendido ☐
+Não atendido
+5 Integração contábil. ☐ Atendido ☐
+Não atendido
+Assistência
+social 1
+Cadastro de pessoas e
+famílias e composição
+familiar.
+☐ Atendido ☐
+Não atendido
+2 Histórico de atendimentos. ☐ Atendido ☐
+Não atendido
+3 Registro e gestão de
+benefícios e serviços.
+☐ Atendido ☐
+Não atendido
+4
+Relatórios por beneficiário,
+família, benefício e
+período, com controle de
+acesso.
+☐ Atendido ☐
+Não atendido
+Gestão de
+cemitério 1
+Cadastro de cemitérios,
+quadras, lotes, jazigos e
+sepultamentos.
+☐ Atendido ☐
+Não atendido
+
+--- [pag. PDF 49] ---
+18
+2
+Controle de exumações,
+responsáveis e
+disponibilidade.
+☐ Atendido ☐
+Não atendido
+3
+Histórico de
+movimentações e
+relatórios.
+☐ Atendido ☐
+Não atendido
+Portal da
+Transparência 1
+Publicação de receitas,
+despesas, licitações,
+contratos e pessoal.
+☐ Atendido ☐
+Não atendido
+2 Pesquisa, filtros e
+exportação.
+☐ Atendido ☐
+Não atendido
+3 Atualização tempestiva e
+rastreabilidade.
+☐ Atendido ☐
+Não atendido
+e-SIC e
+Ouvidoria 1
+Registro, protocolo e
+encaminhamento de
+pedidos e manifestações.
+☐ Atendido ☐
+Não atendido
+2 Controle de prazos e
+unidades responsáveis.
+☐ Atendido ☐
+Não atendido
+3 Histórico e resposta ao
+cidadão.
+☐ Atendido ☐
+Não atendido
+Serviços on-line
+ao cidadão,
+servidores e
+fornecedores
+1
+Consulta/emissão de
+documentos e certidões
+quando permitidos.
+☐ Atendido ☐
+Não atendido
+2 Acompanhamento de
+processos e débitos.
+☐ Atendido ☐
+Não atendido
+3 Acesso autenticado e
+proteção de dados.
+☐ Atendido ☐
+Não atendido
+4 Registro de operações
+relevantes.
+☐ Atendido ☐
+Não atendido
+Aplicativo e
+painéis
+gerenciais
+1
+Recursos responsivos e/ou
+aplicativo para acesso
+facilitado.
+☐ Atendido ☐
+Não atendido
+2
+Dashboards com
+indicadores gerenciais e
+filtros.
+☐ Atendido ☐
+Não atendido
+3
+Respeito a perfis de
+acesso e origem oficial dos
+dados.
+☐ Atendido ☐
+Não atendido
+4. APURAÇÃO DO RESULTADO
+Para cada módulo, será apurado o percentual de atendimento pela fórmula: (requisitos atendidos
+÷ requisitos avaliados no módulo) x 100. O módulo será aprovado quando o resultado for igual ou
+
+--- [pag. PDF 50] ---
+19
+superior a 85%. A solução somente será aprovada se TODOS os módulos avaliados alcançarem
+o percentual mínimo.
+5. RELATÓRIO TÉCNICO
+A Comissão Técnica registrará, em relatório conclusivo, os requisitos demonstrados, os resultados
+por módulo, os percentuais de atendimento, eventuais diligências e a conclusão pela aprovação ou
+reprovação da solução.
+6. QUADRO-SÍNTESE
+Módulo Requisitos avaliados Requisitos
+atendidos Percentual
+Planejamento
+governamental - PPA,
+LDO e LOA
+____ ____ ____%
+Contabilidade pública
+e execução
+orçamentária
+____ ____ ____%
+Tesouraria ____ ____ ____%
+Patrimônio ____ ____ ____%
+Compras, licitações,
+contratos, atas e
+fornecedores
+____ ____ ____%
+Almoxarifado e
+estoque ____ ____ ____%
+Gestão de frota ____ ____ ____%
+Protocolo, processos
+e documentos digitais ____ ____ ____%
+Arrecadação tributária
+e não tributária ____ ____ ____%
+NFS-e e ISS/IBS ____ ____ ____%
+Recursos humanos e
+folha de pagamento ____ ____ ____%
+Assistência social ____ ____ ____%
+Gestão de cemitério ____ ____ ____%
+Portal da
+Transparência ____ ____ ____%
+e-SIC e Ouvidoria ____ ____ ____%
+Serviços on-line ao
+cidadão, servidores e
+fornecedores
+____ ____ ____%
+Aplicativo e painéis
+gerenciais ____ ____ ____%
+Resultado final: ☐ APROVADA ☐ REPROVADA
+
+--- [pag. PDF 51] ---
+20
+Data: ____/____/2026.
+Comissão Técnica:
+1. ____________________________________
+2. ____________________________________
+3. ____________________________________

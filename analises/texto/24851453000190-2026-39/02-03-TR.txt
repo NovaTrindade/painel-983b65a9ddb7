@@ -1,0 +1,646 @@
+=== DOCUMENTO 2: 03 TR.pdf ===
+tipo: Edital | páginas: 16 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/24851453000190/compras/2026/39/arquivos/4
+
+--- [pag. PDF 1] ---
+1 de 16
+TERMO DE REFERÊNCIA – TR
+PROCESSO ADMINISTRATIVO Nº 529/2026
+Contratação de solução integrada de gestão pública municipal em ambiente web
+(SaaS)
+1. IDENTIFICAÇÃO E FUNDAMENTAÇÃO
+Órgão/Entidade: Município de Barrolândia – TO.
+Unidade requisitante: Secretaria Municipal de Administração.
+Responsável pela demanda: Keury Juliana Nunes da Silva.
+Fundamentação legal: Lei Federal nº 14.133/2021, especialmente arts. 5º, 6º, XIII, XV, XX
+e XXIII, 11, 18, 23, 33, 40 a 42, 92, 106, 107, 117, 124 a 136, 140, 141 e 155 a 163; Lei
+Complementar nº 123/2006; Lei nº 12.527/2011; Lei Complementar nº 131/2009; Lei nº
+13.709/2018 (LGPD); Lei nº 4.320/1964; Lei Complementar nº 101/2000; normas da
+Secretaria do Tesouro Nacional – STN, do Tribunal de Contas do Estado do Tocantins –
+TCE/TO e demais normas aplicáveis.
+2. JUSTIFICATIVA DA CONTRATAÇÃO
+A contratação destina-se a assegurar continuidade, integração, segurança e eficiência aos
+processos administrativos, contábeis, orçamentários, financeiros, patrimoniais, tributários,
+de pessoal, compras, licitações, contratos, almoxarifado, frota, protocolo, transparência e
+demais rotinas de gestão municipal. O Município necessita de solução informatizada capaz
+de manter dados integrados, emitir relatórios legais e gerenciais, atender obrigações
+perante os órgãos de controle e reduzir retrabalho, inconsistências e riscos de
+descontinuidade operacional.
+O Município não dispõe de solução própria que contemple integralmente o conjunto de
+módulos e serviços necessários, inclusive hospedagem, atualização legal e tecnológica,
+migração, treinamento, suporte, segurança, cópias de segurança e assistência de transição.
+A adoção do modelo Software as a Service – SaaS permite acesso remoto, atualização
+contínua, centralização das informações e prestação continuada do serviço, preservada a
+propriedade e a portabilidade dos dados municipais.
+A contratação deverá observar critérios de eficiência, economicidade, competitividade,
+segurança da informação, interoperabilidade e continuidade dos serviços, vedadas
+especificações desnecessárias que restrinjam a competição ou criem dependência
+tecnológica artificial.
+
+--- [pag. PDF 2] ---
+2 de 16
+3. DEFINIÇÃO DO OBJETO E CONDIÇÕES GERAIS
+Contratação de empresa especializada para disponibilização, no modelo Software as a
+Service – SaaS, de sistema integrado de gestão pública municipal, 100% web e hospedado
+em nuvem, incluindo implantação, parametrização, migração e validação de dados,
+treinamento, suporte técnico, manutenção corretiva, preventiva, adaptativa e evolutiva,
+atualizações legais e tecnológicas, hospedagem, cópias de segurança, recuperação de
+dados e transição ao final do contrato, pelo período inicial de 12 (doze) meses.
+Natureza do objeto: serviço comum de tecnologia da informação e comunicação, de
+natureza continuada, com padrões de desempenho e qualidade objetivamente definidos.
+Regime de execução: prestação continuada, por preço mensal. Forma de adjudicação: item
+único. Critério de julgamento: menor preço global. A contratação não utilizará Sistema de
+Registro de Preços, considerando a demanda definida e a prestação continuada
+diretamente vinculada à necessidade do Município.
+4. QUANTITATIVO E VALOR MÁXIMO ESTIMADO
+Item Descrição Unid. Qtd. Valor mensal
+máximo
+Valor global
+máximo
+1
+Solução
+integrada
+com todos os
+módulos e
+serviços
+previstos
+neste TR
+mês 12 R$ 12.000,00 R$ 144.000,00
+O preço deverá compreender todos os custos diretos e indiretos necessários à execução
+integral do objeto, inclusive implantação, parametrização, migração, treinamento, suporte,
+manutenção, hospedagem, backups, licenças, deslocamentos, diárias, encargos
+trabalhistas, previdenciários, fiscais, comerciais, seguros, tributos e demais despesas
+incidentes, vedada cobrança adicional por serviços ordinários previstos neste TR.
+5. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+A solução deverá abranger todo o ciclo de vida da contratação: preparação do ambiente,
+conversão e validação das bases existentes, implantação e parametrização,
+disponibilização dos módulos integrados, capacitação dos usuários, operação assistida,
+manutenção contínua, atualização legal, suporte, segurança da informação,
+interoperabilidade, portabilidade e encerramento contratual sem descontinuidade dos
+serviços.
+Os módulos deverão funcionar de forma integrada, preferencialmente com cadastros
+compartilhados e mecanismos de interoperabilidade que evitem redigitação e
+
+--- [pag. PDF 3] ---
+3 de 16
+inconsistências. Não será exigido que todos os componentes sejam desenvolvidos pelo
+mesmo fabricante, desde que a licitante assuma integral responsabilidade pela solução,
+integração, suporte, segurança, níveis de serviço e cumprimento do objeto.
+6. REQUISITOS GERAIS DA SOLUÇÃO
+• Acesso 100% web, interface responsiva e compatibilidade com navegadores atuais, sem
+necessidade de instalação de componentes locais para as funcionalidades ordinárias,
+ressalvados componentes de assinatura digital ou integração tecnicamente justificados;
+• Arquitetura multiusuário, com controle de concorrência, integridade transacional e
+disponibilidade para uso simultâneo pelas unidades municipais;
+• Controle de acesso por usuário, perfil, unidade e função, com segregação de permissões
+para inclusão, alteração, consulta, exclusão, aprovação e demais operações;
+• Registro de logs e trilhas de auditoria contendo, no mínimo, usuário, data, hora, operação
+e identificação do registro afetado, preservados pelo período necessário às atividades
+de controle;
+• Criptografia TLS em trânsito e controles adequados de proteção dos dados
+armazenados, autenticação segura e mecanismos de prevenção contra acesso indevido;
+• Disponibilidade mensal mínima de 99%, excluídas manutenções programadas
+comunicadas com antecedência mínima de 48 horas;
+• Backup diário, retenção mínima de 30 dias, cópia em ambiente distinto e testes
+periódicos de restauração;
+• Plano de continuidade de negócios, recuperação de desastre e resposta a incidentes;
+• Integrações mediante APIs, webservices, arquivos padronizados ou outros meios
+documentados, quando exigidas por órgãos de controle ou necessárias aos módulos da
+solução;
+• Exportação integral dos dados, documentos e metadados em formatos abertos,
+estruturados, documentados e reutilizáveis, sem custo adicional, durante a vigência e ao
+término do contrato;
+• Compatibilidade permanente com alterações legais, layouts e obrigações da STN,
+TCE/TO, Receita Federal e demais órgãos competentes, no âmbito dos módulos
+contratados;
+• Vedação de dependência tecnológica artificial, retenção indevida de dados ou imposição
+de custos adicionais para acesso, extração ou portabilidade de informações do
+Município;
+• Geração de relatórios em tela e possibilidade de exportação, conforme a funcionalidade,
+para formatos usuais como PDF e planilhas;
+• Licenciamento suficiente para os usuários necessários ao funcionamento das unidades
+abrangidas, sem restrições artificiais incompatíveis com o objeto.
+
+--- [pag. PDF 4] ---
+4 de 16
+7. MÓDULOS E FUNCIONALIDADES MÍNIMAS
+7.1 Planejamento governamental – PPA, LDO e LOA
+• Elaboração, alteração, consolidação e acompanhamento do PPA, LDO e LOA, com
+estrutura de órgão, unidade, função, subfunção, programa, ação, natureza da despesa,
+fontes/destinações de recursos e demais classificações aplicáveis;
+• Projeção de receitas e despesas, metas e riscos fiscais, renúncia de receita e margem
+de expansão, quando aplicável;
+• Emissão dos demonstrativos e anexos legais, com consistência entre planejamento e
+orçamento;
+• Integração com contabilidade e execução orçamentária, evitando redigitação de dados.
+7.2 Contabilidade pública e execução orçamentária
+• Plano de Contas Aplicado ao Setor Público – PCASP e movimentação contábil
+compatível com as normas vigentes;
+• Empenho, liquidação, pagamento, anulações, estornos, restos a pagar, receitas
+orçamentárias e extraorçamentárias, retenções e movimentações patrimoniais;
+• Controle por fontes/destinações de recursos, créditos adicionais e alterações
+orçamentárias, com indicação do ato autorizativo;
+• Emissão de diário, razão, balancetes, demonstrativos contábeis, anexos da Lei nº
+4.320/1964 e relatórios da Lei de Responsabilidade Fiscal;
+• Geração e conferência de arquivos e informações exigidos pela STN, TCE/TO e demais
+órgãos competentes, conforme layouts vigentes;
+• Integração com folha, compras/licitações/contratos, patrimônio, arrecadação, tesouraria
+e demais módulos pertinentes.
+7.3 Tesouraria
+• Cadastro e movimentação de contas bancárias, pagamentos, recebimentos,
+transferências e conciliação bancária;
+• Controle dos saldos bancários e financeiros, com integração à contabilidade;
+• Geração de arquivos de pagamento conforme padrões das instituições financeiras,
+quando aplicável;
+• Relatórios de movimento de caixa, saldos, transferências e extratos por período.
+7.4 Patrimônio
+• Cadastro, tombamento, localização, responsável, transferência, cessão, comodato,
+reavaliação, depreciação e baixa de bens móveis e imóveis;
+• Histórico integral das movimentações e termos de responsabilidade/guarda;
+• Inventário patrimonial, emissão e leitura de etiquetas, inclusive código de barras ou
+tecnologia equivalente;
+• Integração com contabilidade e compras, quando pertinente, e geração das informações
+exigidas pelo TCE/TO.
+
+--- [pag. PDF 5] ---
+5 de 16
+7.5 Compras, licitações, contratos, atas e fornecedores
+• Elaboração e acompanhamento do Plano de Contratações Anual – PCA e Documento
+de Formalização de Demanda – DFD;
+• Controle de solicitações, cotações, pesquisa de preços, processos de contratação,
+licitações, dispensas, inexigibilidades, credenciamentos, contratos, atas, aditivos,
+reajustes, repactuações quando cabíveis e sanções;
+• Operação compatível com a Lei nº 14.133/2021, inclusive critérios aplicáveis a ME/EPP,
+sem utilização de rotinas obsoletas como fundamento autônomo;
+• Publicação ou disponibilização das informações necessárias ao Portal Nacional de
+Contratações Públicas – PNCP e demais meios oficiais, diretamente ou por integração
+documentada;
+• Controle de saldos de atas, contratos, licitações e ordens de fornecimento, evitando
+aquisição acima do saldo autorizado;
+• Cadastro e acompanhamento de validade de documentos de fornecedores, sem
+substituir as verificações oficiais exigidas no procedimento;
+• Integração com contabilidade, almoxarifado, frota e patrimônio, conforme a natureza da
+aquisição;
+• Relatórios gerenciais, mapas de preços, histórico de compras e preços praticados.
+7.6 Almoxarifado e estoque
+• Entradas, saídas, requisições, transferências, devoluções, ajustes, inventário e controle
+de validade;
+• Controle físico e financeiro do estoque, estoques mínimos e necessidade de reposição;
+• Controle de entrega parcial e saldo de ordens de fornecimento;
+• Integração com compras, contratos e contabilidade, quando pertinente.
+7.7 Gestão de frota
+• Cadastro de veículos, máquinas e equipamentos, responsáveis, motoristas e
+departamentos;
+• Controle de abastecimentos, consumo, quilometragem/horímetro, viagens,
+manutenções, garantias, multas, sinistros, seguros, licenciamento e demais ocorrências;
+• Apuração de custos por veículo, unidade, motorista e grupo de despesa;
+• Alertas de manutenção e vencimentos, histórico de movimentações e relatórios
+gerenciais;
+• Integração com compras/ordens de fornecimento e demais módulos pertinentes.
+7.8 Protocolo, processos e documentos digitais
+• Registro de processos com numeração, assunto, interessado, origem, situação e
+histórico completo;
+• Tramitação eletrônica entre usuários e unidades, com data/hora e responsável por cada
+movimentação;
+
+--- [pag. PDF 6] ---
+6 de 16
+• Anexação, visualização e controle de documentos, permissões e assinatura eletrônica
+quando aplicável;
+• Fluxos parametrizáveis, consulta por diversos critérios, arquivamento e relatórios de
+processos em trânsito, parados ou concluídos;
+• Possibilidade de abertura e acompanhamento externo de processos/serviços pelo
+cidadão, quando configurado.
+7.9 Arrecadação tributária e não tributária
+• Cadastro econômico, imobiliário e de contribuintes, lançamentos, arrecadação,
+cobrança, parcelamentos, dívida ativa e certidões;
+• Cálculo e controle de tributos e taxas municipais conforme legislação local
+parametrizada;
+• Conta corrente fiscal, emissão de guias/documentos de arrecadação, integração
+bancária e conciliação, quando disponível;
+• Integração contábil da receita e relatórios analíticos e gerenciais de arrecadação;
+• Mecanismos de atualização legal e parametrização sem perda do histórico.
+7.10 Nota Fiscal de Serviço eletrônica e ISS/IBS
+• Emissão, consulta, cancelamento/substituição e armazenamento de documentos fiscais
+de serviços, conforme legislação e padrões aplicáveis;
+• Gestão do ISS e adaptações necessárias às regras de transição e obrigações
+relacionadas ao IBS e à Nota Fiscal de Serviço eletrônica, no que couber à competência
+e às obrigações municipais;
+• Integração com cadastro econômico, arrecadação, contabilidade e serviços ao
+contribuinte;
+• Atualização tempestiva dos layouts e regras obrigatórias decorrentes de alterações
+legais e normativas.
+7.11 Recursos humanos e folha de pagamento
+• Cadastro funcional, cargos, vínculos, lotações, eventos, férias, afastamentos, benefícios,
+consignações e demais dados de pessoal;
+• Cálculo da folha mensal, férias, 13º salário, rescisões e folhas complementares, com
+parametrização legal;
+• Geração e transmissão/integração das obrigações pertinentes, inclusive eSocial e EFD-
+Reinf quando aplicável;
+• Portal ou funcionalidade para disponibilização de contracheques e informes aos
+servidores, com autenticação segura;
+• Integração com contabilidade para geração dos registros correspondentes.
+7.12 Assistência social
+• Cadastro de pessoas e famílias atendidas, composição familiar e histórico de
+atendimentos;
+
+--- [pag. PDF 7] ---
+7 de 16
+• Registro, solicitação, concessão, aprovação ou indeferimento de benefícios e serviços;
+• Relatórios por beneficiário, família, benefício e período, com observância da LGPD e
+controle rigoroso de acesso.
+7.13 Gestão de cemitério
+• Cadastro de cemitérios, quadras, lotes, jazigos, sepultamentos, exumações,
+responsáveis e disponibilidade;
+• Histórico de movimentações e documentos relacionados, com consultas e relatórios
+gerenciais.
+7.14 Portal da Transparência
+• Disponibilização de receitas, despesas, licitações, contratos, pessoal e demais
+informações exigidas pela legislação de transparência e pelas normas de controle;
+• Pesquisa, filtros, exportação e atualização tempestiva dos dados, preservando
+acessibilidade, disponibilidade e rastreabilidade das informações.
+7.15 e-SIC e Ouvidoria
+• Registro, protocolo, encaminhamento, acompanhamento e resposta a pedidos de
+acesso à informação e manifestações do cidadão;
+• Controle de prazos, situações, unidades responsáveis e histórico, em conformidade com
+a Lei nº 12.527/2011 e regulamentação aplicável.
+7.16 Serviços on-line ao cidadão, servidores e fornecedores
+• Consulta e emissão de documentos e certidões, quando permitidos, acompanhamento
+de processos e débitos, serviços fiscais e demais funcionalidades definidas pelo
+Município;
+• Acesso autenticado quando necessário, proteção de dados pessoais e registro das
+operações relevantes.
+7.17 Aplicativo e painéis gerenciais
+• Disponibilização de recursos responsivos e/ou aplicativo para acesso facilitado a
+informações e serviços municipais definidos pela Administração;
+• Dashboards com indicadores gerenciais e filtros, respeitando os perfis de acesso e a
+origem oficial dos dados.
+8. IMPLANTAÇÃO, MIGRAÇÃO, TREINAMENTO E ACEITE
+• A contratada deverá apresentar plano de implantação em até 5 (cinco) dias úteis da
+assinatura do contrato, contendo etapas, responsáveis, cronograma, dependências,
+metodologia de migração, testes, treinamento e entrada em produção;
+• A migração deverá contemplar os dados históricos e cadastrais disponibilizados pelo
+Município, com extração/conversão, saneamento quando necessário, validação,
+conferência e homologação;
+
+--- [pag. PDF 8] ---
+8 de 16
+• A implantação e migração deverão ser concluídas, como regra, em até 30 (trinta) dias
+contados da disponibilização das bases e informações necessárias, admitida adequação
+motivada do cronograma mediante aprovação da Administração;
+• Nenhuma base original poderá ser alterada ou descartada durante a migração. Deverão
+ser mantidas cópias de segurança e registros que permitam reprocessamento;
+• O treinamento inicial deverá abranger usuários-chave, gestores e fiscais, com material
+de apoio e registro de presença, podendo ocorrer presencialmente, remotamente ou de
+forma híbrida conforme o plano aprovado;
+• A entrada em produção dependerá de validação da Administração e da inexistência de
+falhas críticas impeditivas;
+• A contratada deverá prestar operação assistida durante o período inicial definido no
+plano de implantação, sem custo adicional;
+• O aceite da implantação não afasta a obrigação de corrigir inconsistências de migração
+ou parametrização identificadas posteriormente e relacionadas às bases ou serviços sob
+responsabilidade da contratada.
+9. NÍVEIS DE SERVIÇO – SLA E SUPORTE
+Severidade Descrição Prazo de resposta Prazo de
+solução/contorno
+Crítica
+Sistema indisponível
+ou falha que impeça
+serviço essencial
+Até 2 horas úteis
+Até 8 horas úteis
+para contorno, com
+plano de solução
+definitiva
+Alta
+Falha relevante que
+prejudique rotina
+essencial sem
+paralisação total
+Até 4 horas úteis Até 24 horas úteis
+Média
+Erro funcional com
+alternativa
+operacional
+Até 8 horas úteis Até 3 dias úteis
+Baixa Dúvidas, ajustes não
+críticos e melhorias Até 2 dias úteis Conforme plano
+aprovado
+O suporte deverá ser prestado por canais adequados, tais como central de chamados,
+telefone, acesso remoto, correio eletrônico, chat ou videoconferência, com registro do
+atendimento. Atendimento presencial poderá ser exigido quando tecnicamente necessário
+e não solucionável pelos meios remotos, sem cobrança adicional quando decorrente de
+falha abrangida pelo objeto.
+Descumprimentos recorrentes de SLA, indisponibilidades imputáveis à contratada ou
+módulos inoperantes poderão gerar glosa proporcional, exigência de plano corretivo e
+aplicação das sanções previstas, assegurados contraditório e ampla defesa.
+
+--- [pag. PDF 9] ---
+9 de 16
+10. VERIFICAÇÃO DE CONFORMIDADE DA SOLUÇÃO
+A conformidade da solução ofertada será verificada mediante análise da proposta,
+documentação técnica, declarações e demais elementos apresentados pela licitante
+provisoriamente classificada em primeiro lugar. A Administração poderá promover diligência
+técnica e solicitar esclarecimentos, catálogos, manuais, telas, relatórios ou demonstrações
+pontuais exclusivamente para confirmar características já declaradas na proposta, vedada
+a criação posterior de condição inexistente na data da sessão.
+Não será exigida prova de conceito autônoma como condição ordinária. Caso a
+Administração entenda indispensável a realização de prova de conceito, deverá haver
+previsão expressa no instrumento convocatório, roteiro objetivo, critérios de aprovação
+previamente definidos, tratamento isonômico e observância dos prazos legais.
+11. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+A seleção do fornecedor será realizada mediante Pregão Eletrônico, sem utilização do
+Sistema de Registro de Preços, adotando-se o critério de julgamento de menor preço global
+do item único, por se tratar de serviço comum de Tecnologia da Informação e Comunicação
+– TIC, cujos padrões de desempenho e qualidade podem ser objetivamente definidos por
+especificações usuais de mercado.
+A contratação será adjudicada de forma global, considerando a interdependência técnica e
+operacional dos módulos, a integração da base de dados, a implantação, migração, suporte,
+manutenção, segurança da informação e demais serviços que compõem a solução.
+A licitante provisoriamente classificada em primeiro lugar deverá, antes da aceitação
+definitiva de sua proposta, submeter a solução ofertada à Prova de Conceito – POC,
+conforme critérios, procedimentos e percentuais estabelecidos neste Termo de Referência
+e no respectivo roteiro de avaliação.
+11.1. Habilitação Técnica
+A qualificação técnica será comprovada mediante apresentação de um ou mais atestados
+de capacidade técnica, emitidos por pessoa jurídica de direito público ou privado, que
+demonstrem experiência anterior da licitante na execução de serviços de natureza
+compatível com o objeto da contratação.
+Os atestados deverão comprovar, de forma individual ou conjunta, experiência na
+disponibilização, licenciamento ou locação de sistema integrado de gestão pública ou
+solução tecnológica de complexidade compatível, incluindo, conforme aplicável:
+a) implantação e parametrização de sistemas;
+
+--- [pag. PDF 10] ---
+10 de 16
+b) migração, conversão ou importação de dados;
+c) treinamento de usuários;
+d) suporte técnico e manutenção;
+e) hospedagem, disponibilização em ambiente web ou nuvem;
+f) integração entre módulos ou sistemas;
+g) atendimento continuado a entidades públicas ou organizações de complexidade
+equivalente.
+Será admitido o somatório de atestados, quando necessário à demonstração da capacidade
+técnica da licitante, desde que, em conjunto, comprovem experiência compatível com as
+parcelas relevantes do objeto.
+Os atestados não precisarão reproduzir integralmente todos os módulos, quantitativos,
+número de usuários, valores contratuais ou especificações do objeto licitado, sendo
+suficiente a demonstração de compatibilidade em características, natureza e complexidade
+tecnológica.
+Não será exigida comprovação de execução anterior de objeto absolutamente idêntico ao
+licitado, nem experiência específica no Município de Barrolândia ou no Estado do Tocantins.
+É vedada a exigência de que a licitante possua sede, filial, escritório, equipe permanente ou
+estabelecimento previamente instalado no Estado do Tocantins como condição de
+habilitação, sem prejuízo da obrigação da futura contratada de assegurar o atendimento aos
+níveis de serviço e suporte presencial quando tecnicamente necessário.
+Não será exigida marca específica, linguagem de programação determinada, banco de
+dados proprietário ou de código aberto específico, vínculo exclusivo com fabricante ou
+tecnologia determinada, salvo quando houver justificativa técnica formal, prévia e
+indispensável à adequada execução do objeto.
+A Administração poderá realizar diligência, nos termos do art. 64 da Lei nº 14.133/2021,
+para esclarecimento ou complementação de informações relativas aos documentos já
+apresentados, inclusive para verificação da autenticidade e compatibilidade dos atestados,
+vedada a apresentação posterior de documento destinado a comprovar condição que não
+existia na data pertinente.
+A Prova de Conceito não integra a habilitação técnica, constituindo procedimento de
+verificação da conformidade e aderência da solução ofertada durante a fase de julgamento
+da proposta.
+
+--- [pag. PDF 11] ---
+11 de 16
+11.2. Aceitabilidade da Proposta
+A proposta deverá:
+a) apresentar valor mensal e valor global para o período de 12 (doze) meses;
+b) possuir valor global igual ou inferior ao valor máximo estimado pela Administração;
+c) conter prazo de validade conforme estabelecido no Edital;
+d) declarar que todos os custos diretos e indiretos necessários à execução integral do objeto
+estão incluídos nos preços ofertados;
+e) contemplar todos os módulos, funcionalidades, implantação, parametrização, migração
+de dados, treinamento, hospedagem, suporte, manutenção, atualizações, segurança da
+informação, backups, recuperação de dados, transição assistida e demais obrigações
+previstas no Termo de Referência;
+f) apresentar informações suficientes para identificação da solução ofertada e verificação
+preliminar de sua compatibilidade com o objeto.
+A Administração poderá promover diligências para esclarecimento de inconsistências,
+inexequibilidade, omissões materiais ou dúvidas quanto à proposta, desde que não seja
+permitida alteração substancial do conteúdo originalmente apresentado ou modificação que
+resulte em vantagem indevida à licitante.
+11.3. Prova de Conceito como Critério de Aceitação da Proposta
+A proposta da licitante provisoriamente classificada em primeiro lugar somente será
+considerada definitivamente aceita após a aprovação da solução na Prova de Conceito –
+POC.
+A avaliação observará os critérios estabelecidos no item 4.12 deste Termo de Referência e
+no Roteiro de Prova de Conceito, devendo a solução demonstrar atendimento mínimo de
+85% (oitenta e cinco por cento) dos requisitos avaliados em cada módulo individualmente
+considerado.
+Não será admitida compensação entre módulos, de modo que percentual superior a 85%
+em determinado módulo não suprirá eventual resultado inferior ao mínimo exigido em outro.
+A reprovação da solução na Prova de Conceito acarretará a desclassificação da proposta,
+mediante decisão técnica fundamentada, após o que será convocada a licitante
+subsequente, observada a ordem de classificação, para submissão aos mesmos
+procedimentos e critérios.
+
+--- [pag. PDF 12] ---
+12 de 16
+11.4. Análise de Exequibilidade
+A Administração poderá realizar diligência quando houver indícios de que o preço ofertado
+seja inexequível ou incompatível com os custos necessários à execução do objeto.
+A licitante poderá ser solicitada a apresentar elementos destinados a demonstrar a
+viabilidade econômica da proposta, tais como composição de custos, contratos similares,
+notas fiscais, documentos contábeis, estrutura de pessoal, infraestrutura tecnológica, custos
+de hospedagem, suporte, licenciamento e demais elementos pertinentes.
+A análise de exequibilidade deverá considerar a natureza continuada da contratação, o
+período de 12 meses, a abrangência dos módulos, os custos de implantação e migração,
+treinamento, suporte, hospedagem, manutenção e todas as demais obrigações previstas no
+Termo de Referência.
+12. OBRIGAÇÕES DA CONTRATADA
+• Executar integralmente o objeto conforme edital, proposta, contrato, este TR e plano de
+implantação aprovado;
+• Manter equipe técnica suficiente e as condições de habilitação durante toda a execução;
+• Corrigir falhas, restaurar serviços e preservar a continuidade operacional;
+• Cumprir a LGPD, manter sigilo e adotar medidas técnicas e administrativas adequadas
+de segurança;
+• Comunicar incidentes de segurança à Administração em até 24 horas da ciência,
+apresentando informações necessárias à avaliação e resposta;
+• Responsabilizar-se pelas licenças, propriedade intelectual, encargos e direitos de
+terceiros necessários à execução;
+• Fornecer relatórios, documentação, layouts, dados e assistência de transição, inclusive
+ao término do contrato;
+• Manter cópias de segurança e mecanismos de recuperação conforme este TR;
+• Atualizar a solução para atendimento das alterações legais e dos layouts obrigatórios
+abrangidos pelo objeto, sem custo adicional;
+• Reparar danos causados à Administração ou a terceiros, sem prejuízo das sanções
+cabíveis.
+13. OBRIGAÇÕES DA CONTRATANTE
+• Disponibilizar informações, bases, acessos e equipe para validação e implantação;
+• Designar gestor e fiscais do contrato e acompanhar a execução;
+• Comunicar ocorrências e conceder prazo para correção quando cabível;
+• Atestar os serviços regularmente prestados e registrar não conformidades;
+• Efetuar pagamentos após liquidação regular da despesa;
+
+--- [pag. PDF 13] ---
+13 de 16
+• Manter controles internos de usuários, senhas e perfis de acesso sob sua
+responsabilidade;
+• Adotar as providências administrativas cabíveis em caso de inadimplemento.
+14. PROTEÇÃO DE DADOS, SIGILO, SEGURANÇA E PROPRIEDADE DAS
+INFORMAÇÕES
+O Município atuará como controlador e a contratada como operadora dos dados pessoais
+tratados por conta da execução, salvo hipóteses legais em que a contratada seja
+controladora independente. Os dados, metadados, documentos, históricos, logs e demais
+informações produzidos ou tratados no âmbito da contratação pertencem ao Município,
+ressalvados direitos preexistentes sobre o software.
+• É vedado utilizar dados municipais para finalidade diversa da execução contratual,
+compartilhá-los sem base legal/autorização ou retê-los ao término do contrato,
+ressalvadas retenções legais comprovadas;
+• A contratada deverá controlar acessos privilegiados, manter registros de segurança,
+proteger credenciais e aplicar atualizações de segurança pertinentes;
+• Incidentes que envolvam indisponibilidade relevante, perda, destruição, alteração,
+vazamento ou acesso não autorizado deverão ser comunicados e tratados conforme
+plano de resposta;
+• O Município poderá solicitar evidências razoáveis das medidas de segurança e dos
+procedimentos de backup/restauração, preservados segredos comerciais legítimos.
+15. PORTABILIDADE, TRANSIÇÃO E ENCERRAMENTO CONTRATUAL
+• A contratada deverá assegurar, durante a vigência e ao término do contrato, exportação
+integral dos dados e documentos em formatos abertos, estruturados e documentados,
+acompanhados de dicionário de dados ou documentação equivalente suficiente à
+reutilização;
+• A entrega dos dados e da documentação de transição não poderá ser condicionada à
+celebração de novo contrato, pagamento de licença adicional ou contratação de serviço
+não previsto;
+• Quando necessário, a contratada deverá prestar transição assistida por período razoável
+definido pela Administração, sem interrupção abrupta dos serviços, observadas as
+condições do contrato;
+• Após confirmação formal de recebimento e encerradas as retenções legalmente
+exigidas, a contratada deverá eliminar cópias de dados municipais sob sua posse,
+mediante declaração quando solicitada.
+16. PAGAMENTO, RECEBIMENTO E GLOSAS
+O pagamento será mensal, em até 30 (trinta) dias após apresentação de nota fiscal idônea,
+relatório de execução, comprovação de regularidade quando exigida, atesto do fiscal e
+
+--- [pag. PDF 14] ---
+14 de 16
+regular liquidação da despesa, observada a ordem cronológica prevista no art. 141 da Lei
+nº 14.133/2021. O recebimento provisório e definitivo observará o art. 140 da mesma Lei.
+Serviços não prestados, indisponibilidades imputáveis à contratada, descumprimentos de
+SLA ou módulos inoperantes poderão ser glosados proporcionalmente, assegurada
+manifestação prévia. Erros na nota fiscal ou pendências de responsabilidade da contratada
+interrompem a contagem do prazo de pagamento até a regularização.
+Os pagamentos mensais regulares serão devidos após a disponibilização operacional da
+solução e o aceite correspondente, sem prejuízo do tratamento contratual específico de
+etapas de implantação, se houver previsão expressa no edital e na proposta vencedora.
+17. VIGÊNCIA, REAJUSTE, REEQUILÍBRIO E PRORROGAÇÃO
+A vigência inicial será de 12 (doze) meses. A prorrogação dependerá de justificativa,
+avaliação de desempenho, demonstração de vantajosidade e disponibilidade orçamentária,
+observados os arts. 106 e 107 da Lei nº 14.133/2021. O reajuste observará o IPCA após o
+interregno mínimo de 12 (doze) meses contado da data do orçamento estimado, mediante
+apostila quando cabível. O reequilíbrio econômico-financeiro poderá ser reconhecido nas
+hipóteses legais, mediante comprovação do fato, nexo causal e efetiva repercussão nos
+custos.
+18. GESTÃO E FISCALIZAÇÃO DO CONTRATO
+A execução será acompanhada por gestor e fiscal(is) formalmente designados, nos termos
+do art. 117 da Lei nº 14.133/2021. A fiscalização registrará ocorrências, verificará níveis de
+serviço, implantação, migração, segurança, entrega de relatórios e demais obrigações,
+podendo solicitar correções e evidências necessárias ao aceite.
+A fiscalização não transfere à Administração a responsabilidade técnica da contratada nem
+exclui ou reduz sua responsabilidade por falhas, danos, encargos ou descumprimentos.
+19. SANÇÕES ADMINISTRATIVAS
+• Advertência, nas hipóteses legalmente cabíveis;
+• Multa moratória de 0,5% (cinco décimos por cento) por dia sobre o valor da parcela em
+atraso, limitada a 10% (dez por cento), conforme previsão editalícia/contratual;
+• Multa compensatória de até 10% (dez por cento) para inexecução parcial grave e de até
+20% (vinte por cento) para inexecução total, sem prejuízo da reparação de danos e
+observada a proporcionalidade;
+• Impedimento de licitar e contratar;
+• Declaração de inidoneidade para licitar ou contratar;
+• Reparação integral dos danos causados.
+A aplicação de sanções observará os arts. 155 a 163 da Lei nº 14.133/2021, o contraditório,
+a ampla defesa e a proporcionalidade.
+
+--- [pag. PDF 15] ---
+15 de 16
+20. MATRIZ E GESTÃO DE RISCOS
+Risco Prob. Impacto Prevenção/Mitigação Contingência
+Migração
+incompleta ou
+inconsistente
+Média Alta
+Plano de migração,
+backups, testes,
+validação e aceite
+formal
+Restauração,
+reprocessamento,
+correção, glosa e
+sanções
+Indisponibilidade
+da solução Média Alta
+SLA, redundância,
+monitoramento e
+continuidade
+Acionamento
+emergencial,
+contingência,
+glosa e
+penalidade
+Dependência
+tecnológica/lock-
+in
+Média Alta
+Portabilidade,
+documentação e
+formatos abertos
+Transição
+assistida e
+retenção do
+serviço até
+entrega dos
+dados
+Falha de suporte Média Alta Central de chamados,
+SLA e indicadores
+Escalonamento,
+plano corretivo,
+glosa e sanções
+Incidente de
+segurança/LGPD Baixa/Média Alta
+Controles de acesso,
+criptografia, logs,
+backups e resposta a
+incidentes
+Isolamento,
+recuperação,
+comunicação,
+investigação e
+medidas
+corretivas
+Desatualização
+legal/layouts Média Alta
+Monitoramento
+normativo e
+manutenção
+adaptativa/evolutiva
+Correção
+prioritária e
+contingência
+operacional
+21. DOTAÇÃO ORÇAMENTÁRIA
+As despesas decorrentes da contratação correrão por conta das dotações orçamentárias
+próprias consignadas no orçamento vigente, a serem indicadas no procedimento e nas
+respectivas notas de empenho, observada a disponibilidade orçamentária e financeira.
+22. DISPOSIÇÕES FINAIS
+As especificações deste TR estabelecem requisitos mínimos de resultado, funcionalidade,
+desempenho, segurança e integração. Eventual equivalência técnica poderá ser aceita
+desde que não reduza a capacidade da solução nem comprometa o atendimento às
+obrigações legais e operacionais do Município.
+
+--- [pag. PDF 16] ---
+16 de 16
+Ficam afastadas exigências de localização geográfica da licitante, marca/fabricante
+específico, tecnologia proprietária ou open source determinada e outras condições que não
+sejam indispensáveis ao atendimento do objeto, salvo se posteriormente justificadas
+tecnicamente no processo e previstas no edital.
+Os casos omissos serão resolvidos conforme a Lei nº 14.133/2021, o instrumento
+convocatório, o contrato e as demais normas aplicáveis.
+Barrolândia – TO, 01 de setembro de 2026.
+________________________________________
+KEURY JULIANA NUNES DA SILVA
+Responsável pela elaboração
