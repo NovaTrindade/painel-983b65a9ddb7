@@ -1,0 +1,74 @@
+{
+ "id": "60747318000162-2026-1422",
+ "extraidoEm": "2026-10-07T13:38:20.906Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/60747318000162/2026/1422",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-1324-2026.txt",
+   "titulo": "EDITAL 1324 2026.pdf",
+   "tipo": "Edital",
+   "paginas": 74,
+   "caracteres": 232310
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ANEXO-II-PORTARIA-29-2025-APLICACAO-DE-PENALIDADES.txt",
+   "titulo": "ANEXO II - PORTARIA 29-2025 - APLICACAO DE PENALIDADES.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 7,
+   "caracteres": 15965
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-ANEXO-III-MINUTA-DE-CONTRATO.txt",
+   "titulo": "ANEXO III - MINUTA DE CONTRATO.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 13,
+   "caracteres": 42175
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ANEXO-IV-MODELO-DE-PROPOSTAS.txt",
+   "titulo": "ANEXO IV - MODELO DE PROPOSTAS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 552
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-ANEXO-V-MODELO-DECLARACOES.txt",
+   "titulo": "ANEXO V - MODELO DECLARACOES.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 5766
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-ANEXO-VI-MODELO-DE-ATESTADO-DE-VISTORIA.txt",
+   "titulo": "ANEXO VI - MODELO DE ATESTADO DE VISTORIA.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 4,
+   "caracteres": 3620
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-ANEXO-I-TERMO-DE-REFERENCIA.txt",
+   "titulo": "ANEXO I - TERMO DE REFERENCIA.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 25,
+   "caracteres": 97661
+  },
+  {
+   "ordem": 8,
+   "arquivo": "08-1324-2026.txt",
+   "titulo": "1324/2026.pdf",
+   "tipo": "Edital",
+   "paginas": 20,
+   "caracteres": 65922
+  }
+ ],
+ "totalPaginas": 147,
+ "totalCaracteres": 463971,
+ "comErro": 0
+}
