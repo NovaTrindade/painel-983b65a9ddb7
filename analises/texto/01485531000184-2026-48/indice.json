@@ -1,0 +1,71 @@
+{
+ "id": "01485531000184-2026-48",
+ "extraidoEm": "2026-10-08T13:45:08.511Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/01485531000184/2026/48",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-n-010-2026.txt",
+   "titulo": "Edital nº 010-2026.",
+   "tipo": "Edital",
+   "paginas": 59,
+   "caracteres": 128587
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Documento-de-Oficializacao-de-Demanda.txt",
+   "titulo": "Documento de Oficialização de Demanda",
+   "tipo": "Documento de Formalização da Demanda - DFD",
+   "paginas": 6,
+   "caracteres": 136,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Estudo-Tecnico-Preliminar.txt",
+   "titulo": "Estudo Técnico Preliminar",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 4,
+   "caracteres": 90,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-Cotacao.txt",
+   "titulo": "Cotação",
+   "tipo": "Outros Documentos",
+   "paginas": 39,
+   "caracteres": 925,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-Termo-de-Referencia-compressed-1.txt",
+   "titulo": "Termo de Referência_compressed (1)",
+   "tipo": "Termo de Referência",
+   "paginas": 50,
+   "caracteres": 1189,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-Parecer-juridico-Nova-Lei-Inicial-Pregao-Presencial-010.txt",
+   "titulo": "Parecer jurídico Nova Lei - Inicial - Pregão Presencial 010.2026",
+   "tipo": "Outros Documentos",
+   "paginas": 10,
+   "caracteres": 21223
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-Aviso-de-Edital-n-00102026.txt",
+   "titulo": "Aviso de Edital nº 00102026",
+   "tipo": "Edital",
+   "paginas": 1,
+   "caracteres": 21,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  }
+ ],
+ "totalPaginas": 169,
+ "totalCaracteres": 152171,
+ "comErro": 0
+}
