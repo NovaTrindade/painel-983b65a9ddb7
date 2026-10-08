@@ -1,6 +1,6 @@
 {
- "gerado": "2026-10-07T05:28:59.297Z",
- "referencia": "2026-10-07",
+ "gerado": "2026-10-08T05:38:28.583Z",
+ "referencia": "2026-10-08",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
  "regraValor": {
@@ -10,29 +10,29 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2769,
-  "excluidosPorPalavraChave": 1459,
-  "excluidosQueSeriamCandidatos": 104,
+  "universoAberto": 2740,
+  "excluidosPorPalavraChave": 1437,
+  "excluidosQueSeriamCandidatos": 110,
   "custoPorTermo": {
-   "aquisicao": 91,
-   "fornecimento": 10
+   "aquisicao": 94,
+   "fornecimento": 12
   },
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1200,
+  "descartadosPorAderencia": 1193,
   "candidatos": 110,
   "itensObtidos": 110,
   "itensFalhou": 0,
-  "foraPorValor": 76,
+  "foraPorValor": 77,
   "semValorPublicado": 16,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 546,
-    "novos": 546,
+    "total": 543,
+    "novos": 543,
     "paginasOk": 11,
     "paginasFalhas": 0,
     "parcial": false,
@@ -42,8 +42,8 @@
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 19,
-    "novos": 6,
+    "total": 22,
+    "novos": 8,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -54,7 +54,7 @@
     "consulta": "chromebook",
     "linha": "hardware",
     "total": 15,
-    "novos": 5,
+    "novos": 6,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -64,8 +64,8 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 248,
-    "novos": 104,
+    "total": 244,
+    "novos": 100,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -75,19 +75,19 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 995,
-    "novos": 549,
-    "paginasOk": 18,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 990,
+    "novos": 513,
+    "paginasOk": 17,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 302,
-    "novos": 77,
+    "total": 312,
+    "novos": 80,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -97,9 +97,9 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 147,
-    "novos": 82,
-    "paginasOk": 3,
+    "total": 157,
+    "novos": 89,
+    "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -108,9 +108,9 @@
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
-    "total": 48,
-    "novos": 10,
-    "paginasOk": 1,
+    "total": 59,
+    "novos": 13,
+    "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -119,9 +119,9 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 350,
-    "novos": 205,
-    "paginasOk": 8,
+    "total": 331,
+    "novos": 193,
+    "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -130,8 +130,8 @@
    {
     "consulta": "tablets",
     "linha": "hardware",
-    "total": 89,
-    "novos": 18,
+    "total": 90,
+    "novos": 19,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -141,8 +141,8 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 46,
-    "novos": 42,
+    "total": 47,
+    "novos": 43,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -152,30 +152,30 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 150,
-    "novos": 8,
-    "paginasOk": 4,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 159,
+    "novos": 10,
+    "paginasOk": 3,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 62,
+    "total": 60,
     "novos": 0,
     "paginasOk": 2,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 886,
-    "novos": 749,
+    "total": 885,
+    "novos": 753,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -185,8 +185,8 @@
    {
     "consulta": "ged",
     "linha": "ged",
-    "total": 13,
-    "novos": 10,
+    "total": 12,
+    "novos": 9,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -196,8 +196,8 @@
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 279,
-    "novos": 103,
+    "total": 293,
+    "novos": 109,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -218,8 +218,8 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 33,
-    "novos": 18,
+    "total": 30,
+    "novos": 15,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -229,8 +229,8 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 137,
-    "novos": 74,
+    "total": 139,
+    "novos": 76,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -284,8 +284,8 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 133,
-    "novos": 76,
+    "total": 131,
+    "novos": 72,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -295,8 +295,8 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 56,
-    "novos": 42,
+    "total": 57,
+    "novos": 44,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -306,8 +306,8 @@
    {
     "consulta": "climatizacao [RJ]",
     "linha": "climatizacao",
-    "total": 14,
-    "novos": 7,
+    "total": 11,
+    "novos": 6,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -317,8 +317,8 @@
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 56,
-    "novos": 34,
+    "total": 60,
+    "novos": 35,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -339,7 +339,7 @@
    {
     "consulta": "btus [RJ]",
     "linha": "climatizacao",
-    "total": 7,
+    "total": 8,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -349,28 +349,28 @@
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 0,
-  "paginasPerdidas": 0,
+  "consultasParciais": 3,
+  "paginasPerdidas": 3,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 8.6
+  "minutosBusca": 12.6
  },
  "resumo": {
-  "total": 34,
+  "total": 33,
   "prioridade": 3,
-  "avaliar": 7,
-  "triar": 8,
+  "avaliar": 8,
+  "triar": 6,
   "semValor": 16,
   "rj": 5,
   "urgentes7d": 15,
-  "valorTotal": 210099102.98,
-  "valorRJ": 724812,
-  "valorUrgentes": 160367859.94,
+  "valorTotal": 167199886.84,
+  "valorRJ": 707208,
+  "valorUrgentes": 114588112.24,
   "suspeitos": 0,
   "porLinha": {
-   "hardware": 25,
+   "hardware": 23,
    "ged": 9,
-   "climatizacao": 3
+   "climatizacao": 4
   }
  },
  "editais": [
@@ -386,7 +386,7 @@
    ],
    "numero": "045",
    "fimVigencia": "2026-10-20T09:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 26590469.76,
    "qtdItens": 4,
    "modulos": [
@@ -422,7 +422,7 @@
    ],
    "numero": "00000926",
    "fimVigencia": "2026-10-08T08:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 91000394.58,
    "qtdItens": 3,
    "modulos": [
@@ -455,7 +455,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-10-27T09:00",
-   "diasRestantes": 20,
+   "diasRestantes": 19,
    "valorEstimado": 4099665.24,
    "qtdItens": 9,
    "modulos": [
@@ -492,7 +492,7 @@
    ],
    "numero": "158",
    "fimVigencia": "2026-10-08T09:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -527,7 +527,7 @@
    ],
    "numero": "64",
    "fimVigencia": "2026-10-09T08:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 6080,
    "qtdItens": 2,
    "modulos": [
@@ -557,7 +557,7 @@
    ],
    "numero": "71",
    "fimVigencia": "2026-10-09T10:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 10292105.16,
    "qtdItens": 10,
    "modulos": [
@@ -576,6 +576,37 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/04794681000168/2026/94"
   },
   {
+   "id": "42498600000171-2026-3973",
+   "orgao": "ESTADO DO RIO DE JANEIRO",
+   "municipio": "Rio de Janeiro",
+   "uf": "RJ",
+   "objeto": "Contratação de serviços de natureza continuada de empresa especializada para prestação de serviços técnicos de manutenção preventiva, corretiva e assistência técnica – com fornecimento de peças – dos aparelhos de ar condicionado centrais, splits, K7, de janela e cortinas de ar; instalados na sede e suas filiais, da Imprensa Oficial do Estado do Rio de Janeiro, pelo período de 12 (doze) meses, conforme especificado e quantificado no Termo de Referência.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "climatizacao"
+   ],
+   "numero": "PE001",
+   "fimVigencia": "2026-10-14T16:00",
+   "diasRestantes": 7,
+   "valorEstimado": 678282,
+   "qtdItens": 1,
+   "modulos": [
+    "ar condicionado",
+    "split",
+    "assistencia tecnica",
+    "manutencao preventiva",
+    "prestacao de servicos"
+   ],
+   "ader": 48,
+   "score": 72,
+   "suspeito": [],
+   "semPiso": true,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/42498600000171/2026/3973"
+  },
+  {
    "id": "22980973000177-2026-164",
    "orgao": "FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV",
    "municipio": "Belém",
@@ -588,7 +619,7 @@
    ],
    "numero": "29",
    "fimVigencia": "2026-10-16T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
@@ -620,7 +651,7 @@
    ],
    "numero": "1526",
    "fimVigencia": "2026-10-22T09:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 3,
    "modulos": [
@@ -641,6 +672,35 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/60747318000162/2026/1422"
   },
   {
+   "id": "00394502000144-2026-13187",
+   "orgao": "COMANDO DA MARINHA",
+   "municipio": "São Pedro da Aldeia",
+   "uf": "RJ",
+   "objeto": "APARELHO AR CONDICIONADO, CAPACIDADE REFRIGERAÇÃO: 55.000 BTU, (UNIDADES CONDENSADORA E A EVAPORADORA), TENSÃO: 220 V, FREQÜÊNCIA: 60 HZ, TIPO: SPLIT INVERTER, SELO PROCEL A. TIPO TETO PISO, CARACTERÍSTICAS ADICIONAIS 1: CICLO FRIO, CONTROLE REMOTO SEM FIO. DISPLAY DIGITAL. FLUIDO REFRIGERANTE ECOLÓGICO R32; SISTEMA DE FILTRAGEM DE AR E GARANTIA TAC-55CSGS",
+   "modalidade": "Dispensa",
+   "linhas": [
+    "climatizacao"
+   ],
+   "numero": "161",
+   "fimVigencia": "2026-10-14T08:00",
+   "diasRestantes": 6,
+   "valorEstimado": 22846,
+   "qtdItens": 1,
+   "modulos": [
+    "ar condicionado",
+    "refrigeracao",
+    "split"
+   ],
+   "ader": 49,
+   "score": 69,
+   "suspeito": [],
+   "semPiso": true,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/00394502000144/2026/13187"
+  },
+  {
    "id": "03979663000198-2026-211",
    "orgao": "TRIBUNAL DE JUSTICA DO ESTADO MATO GROSSO DO SUL",
    "municipio": "Campo Grande",
@@ -652,7 +712,7 @@
    ],
    "numero": "112",
    "fimVigencia": "2026-10-14T09:30",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 7961570.5,
    "qtdItens": 1,
    "modulos": [
@@ -670,95 +730,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/03979663000198/2026/211"
   },
   {
-   "id": "76416965000121-2026-113",
-   "orgao": "SECRETARIA DE ESTADO DA EDUCACAO E DO ESPORTE",
-   "municipio": "Curitiba",
-   "uf": "PR",
-   "objeto": "SRP nº 79/2026 ComprasGOV 15/2026 - Prestação de serviços contínuos de gerenciamento de canal eletrônico (Mural digital). Este registro\nvisa à locação, instalação e manutenção de equipamentos de transmissão de informação em regime\nde comodato, incluindo transporte, gerenciamento do sistema e serviços associados, conforme\nespecificações estabelecidas neste Termo de Referência.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "15",
-   "fimVigencia": "2026-10-07T10:00",
-   "diasRestantes": 0,
-   "valorEstimado": 46440425.7,
-   "qtdItens": 1,
-   "modulos": [
-    "locacao",
-    "comodato",
-    "instalacao",
-    "prestacao de servicos"
-   ],
-   "ader": 37,
-   "score": 68,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/76416965000121/2026/113"
-  },
-  {
-   "id": "36507127000149-2026-213",
-   "orgao": "FUNDO MUNICIPAL DE SAUDE",
-   "municipio": "Barra Mansa",
-   "uf": "RJ",
-   "objeto": "PROCESSADOR PARA  COMPUTADOR DESKTOP LGA1200",
-   "modalidade": "Dispensa",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "71",
-   "fimVigencia": "2026-10-07T08:30",
-   "diasRestantes": 0,
-   "valorEstimado": 40450,
-   "qtdItens": 1,
-   "modulos": [
-    "desktop",
-    "computador"
-   ],
-   "ader": 32,
-   "score": 66,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/36507127000149/2026/213"
-  },
-  {
-   "id": "42498600000171-2026-3973",
-   "orgao": "ESTADO DO RIO DE JANEIRO",
-   "municipio": "Rio de Janeiro",
-   "uf": "RJ",
-   "objeto": "Contratação de serviços de natureza continuada de empresa especializada para prestação de serviços técnicos de manutenção preventiva, corretiva e assistência técnica – com fornecimento de peças – dos aparelhos de ar condicionado centrais, splits, K7, de janela e cortinas de ar; instalados na sede e suas filiais, da Imprensa Oficial do Estado do Rio de Janeiro, pelo período de 12 (doze) meses, conforme especificado e quantificado no Termo de Referência.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "climatizacao"
-   ],
-   "numero": "PE001",
-   "fimVigencia": "2026-10-14T16:00",
-   "diasRestantes": 8,
-   "valorEstimado": 678282,
-   "qtdItens": 1,
-   "modulos": [
-    "ar condicionado",
-    "split",
-    "assistencia tecnica",
-    "manutencao preventiva",
-    "prestacao de servicos"
-   ],
-   "ader": 48,
-   "score": 66,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/42498600000171/2026/3973"
-  },
-  {
    "id": "22980973000177-2026-207",
    "orgao": "FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV",
    "municipio": "Belém",
@@ -770,7 +741,7 @@
    ],
    "numero": "29",
    "fimVigencia": "2026-10-16T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
@@ -801,7 +772,7 @@
    ],
    "numero": "7",
    "fimVigencia": "2026-10-19T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 0,
    "qtdItens": 7,
    "modulos": [
@@ -832,7 +803,7 @@
    ],
    "numero": "PE012",
    "fimVigencia": "2026-10-19T11:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -863,7 +834,7 @@
    ],
    "numero": "059",
    "fimVigencia": "2026-10-08T13:30",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 4626834,
    "qtdItens": 10,
    "modulos": [
@@ -893,7 +864,7 @@
    ],
    "numero": "0911.01DIV",
    "fimVigencia": "2027-09-18T08:05:45",
-   "diasRestantes": 346,
+   "diasRestantes": 345,
    "valorEstimado": 0,
    "qtdItens": 6,
    "modulos": [
@@ -930,7 +901,7 @@
    ],
    "numero": "028",
    "fimVigencia": "2026-10-16T08:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -961,7 +932,7 @@
    ],
    "numero": "42",
    "fimVigencia": "2026-10-14T08:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -980,34 +951,33 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/46392072000122/2026/35"
   },
   {
-   "id": "45787660000100-2026-317",
-   "orgao": "MUNICIPIO DE SUMARE",
-   "municipio": "Sumaré",
-   "uf": "SP",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPLANTAÇÃO, DISPONIBILIZAÇÃO E MANUTENÇÃO DE SOLUÇÃO TECNOLÓGICA INTEGRADA DE MONITORAMENTO ELETRÔNICO, EM REGIME DE PRESTAÇÃO CONTINUADA, CONTEMPLANDO O FORNECIMENTO, POR MEIO DE LOCAÇÃO DOS EQUIPAMENTOS, SOFTWARES, LICENÇAS, INFRAESTRUTURA TECNOLÓGICA, CONECTIVIDADE, INSTALAÇÃO, CONFIGURAÇÃO, INTEGRAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO PREVENTIVA E CORRETIVA E DEMAIS SERVIÇOS NECESSÁRIOS AO MONITORAMENTO REMOTO DAS UNIDADES PÚBLICAS INICIALMENTE CONTEMPLADAS PELA CONTRATAÇÃO E DE SEUS RESPECTIVOS ENTORNOS",
+   "id": "00037457000170-2026-29",
+   "orgao": "CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL - NOVACAP",
+   "municipio": "Brasília",
+   "uf": "DF",
+   "objeto": "Registro de Preços para a prestação de serviços continuados de outsourcing de impressão, plotagem e cópia, na modalidade franquia mensal de páginas/metro linear acrescida de excedente, com fornecimento de equipamentos, sistema de gerenciamento, manutenção, reposição de peças e insumos, incluindo papel, bem como para a locação de scanners e fragmentadoras de papel, conforme condições, quantidades e exigências estabelecidas no Termo de Referência, Edital e seus anexos.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
     "hardware"
    ],
-   "numero": null,
-   "fimVigencia": "2026-10-20T08:00",
-   "diasRestantes": 13,
-   "valorEstimado": 2410287.4,
-   "qtdItens": 10,
+   "numero": "PE048",
+   "fimVigencia": "2026-10-29T09:00",
+   "diasRestantes": 21,
+   "valorEstimado": 5969100.96,
+   "qtdItens": 2,
    "modulos": [
+    "outsourcing",
     "locacao",
-    "manutencao preventiva",
-    "suporte tecnico",
-    "instalacao"
+    "prestacao de servicos"
    ],
-   "ader": 31,
+   "ader": 40,
    "score": 51,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/45787660000100/2026/317"
+   "pncpUrl": "https://pncp.gov.br/app/editais/00037457000170/2026/29"
   },
   {
    "id": "45787660000100-2026-311",
@@ -1021,7 +991,7 @@
    ],
    "numero": "042",
    "fimVigencia": "2026-10-19T08:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 2410287.6,
    "qtdItens": 10,
    "modulos": [
@@ -1051,7 +1021,7 @@
    ],
    "numero": "042",
    "fimVigencia": "2026-10-20T08:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 2410287.6,
    "qtdItens": 10,
    "modulos": [
@@ -1081,7 +1051,7 @@
    ],
    "numero": "007",
    "fimVigencia": "2026-10-08T09:15",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -1110,7 +1080,7 @@
    ],
    "numero": "01",
    "fimVigencia": "2026-10-16T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1139,7 +1109,7 @@
    ],
    "numero": "31",
    "fimVigencia": "2026-10-16T08:59",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -1170,7 +1140,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-10-14T09:59",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1199,7 +1169,7 @@
    ],
    "numero": "90005",
    "fimVigencia": "2026-10-09T09:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 4,
    "modulos": [
@@ -1230,7 +1200,7 @@
    ],
    "numero": "7",
    "fimVigencia": "2026-10-09T09:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 4,
    "modulos": [
@@ -1261,7 +1231,7 @@
    ],
    "numero": "88",
    "fimVigencia": "2026-10-22T08:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1292,7 +1262,7 @@
    ],
    "numero": "5",
    "fimVigencia": "2026-10-13T09:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1321,7 +1291,7 @@
    ],
    "numero": "099",
    "fimVigencia": "2026-10-13T08:59",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 0,
    "qtdItens": 5,
    "modulos": [
@@ -1352,7 +1322,7 @@
    ],
    "numero": "000016",
    "fimVigencia": "2027-07-22T12:59",
-   "diasRestantes": 289,
+   "diasRestantes": 288,
    "valorEstimado": 6901883.52,
    "qtdItens": 8,
    "modulos": [
@@ -1382,7 +1352,7 @@
    ],
    "numero": "006",
    "fimVigencia": "2027-04-28T00:00",
-   "diasRestantes": 203,
+   "diasRestantes": 202,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1410,7 +1380,7 @@
    ],
    "numero": "18",
    "fimVigencia": "2026-10-28T09:30",
-   "diasRestantes": 21,
+   "diasRestantes": 20,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
