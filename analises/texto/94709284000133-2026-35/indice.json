@@ -1,0 +1,43 @@
+{
+ "id": "94709284000133-2026-35",
+ "extraidoEm": "2026-10-09T13:31:37.646Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/94709284000133/2026/35",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-AVISO-DE-LICITACAO.txt",
+   "titulo": "AVISO-DE-LICITACAO",
+   "tipo": "Edital",
+   "paginas": 1,
+   "caracteres": 1289
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ETP.txt",
+   "titulo": "ETP",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 14,
+   "caracteres": 31884
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-EDITAL-50-2026.txt",
+   "titulo": "EDITAL-50/2026",
+   "tipo": "Edital",
+   "paginas": 72,
+   "caracteres": 136496
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ANEXO-VII-VALOR-DE-REFERENCIA.txt",
+   "titulo": "ANEXO-VII---VALOR-DE-REFERENCIA",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 21,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  }
+ ],
+ "totalPaginas": 88,
+ "totalCaracteres": 169690,
+ "comErro": 0
+}

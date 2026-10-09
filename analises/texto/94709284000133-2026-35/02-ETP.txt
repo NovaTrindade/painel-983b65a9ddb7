@@ -1,0 +1,681 @@
+=== DOCUMENTO 2: ETP ===
+tipo: Estudo Técnico Preliminar | páginas: 14 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/94709284000133/compras/2026/35/arquivos/2
+
+--- [pag. PDF 1] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+ESTUDO TÉCNICO PRELIMINAR
+Setor Requisitante: Gerência de Tecnologia da Informação
+Responsável(is) pela elaboração: Vinícius Costa (Gerente de Tecnologia da
+Informação)
+Natureza: Serviço Comum de Tecnologia da Informação
+Prazo estimado: 60 (sessenta) meses
+OBJETO DO ESTUDO TÉCNICO PRELIMINAR
+Contratação de empresa especializada para prestação de serviços de outsourcing
+de equipamentos de informática, mediante disponibilização de desktops corporativos,
+estações de trabalho (workstations), notebooks corporativos e monitores de alta
+resolução, em regime de locação, pelo prazo estimado de 60 (sessenta) meses, com
+fornecimento integral dos equipamentos, instalação, configuração, suporte técnico
+especializado, manutenção preventiva e corretiva, substituição de equipamentos
+defeituosos, atualização tecnológica quando aplicável, gerenciamento centralizado do
+parque computacional, atendimento aos níveis mínimos de serviço (SLA), logística
+necessária à execução contratual e demais serviços indispensáveis à continuidade da
+infraestrutura tecnológica da Câmara Municipal de Novo Hamburgo.
+O escopo compreende, de forma integrada: fornecimento dos equipamentos
+durante toda a vigência contratual; entrega, instalação e configuração inicial dos
+equipamentos; migração operacional quando necessária; manutenção preventiva e
+corretiva; substituição de equipamentos em caso de falha ou indisponibilidade;
+disponibilização de equipamentos; suporte técnico especializado; gerenciamento remoto
+do parque computacional; atualização de BIOS, drivers e firmwares quando aplicável;
+inventário dos ativos disponibilizados; emissão de relatórios gerenciais; atendimento aos
+níveis mínimos de serviço estabelecidos; recolhimento dos equipamentos ao término do
+contrato e demais atividades necessárias à plena disponibilidade da solução.
+1. DESCRIÇÃO DA NECESSIDADE (JUSTIFICATIVA)
+A presente contratação decorre da necessidade de assegurar a continuidade da
+disponibilização dos equipamentos de informática utilizados pelos servidores, vereadores,
+estagiários e colaboradores da Câmara Municipal de Novo Hamburgo, considerando a
+proximidade do encerramento da vigência do contrato atualmente responsável pelo
+fornecimento dos computadores utilizados nas atividades institucionais.
+A infraestrutura computacional constitui elemento indispensável ao funcionamento
+das atividades administrativas e legislativas da Câmara, permitindo o acesso aos
+sistemas corporativos, aos processos administrativos eletrônicos, aos sistemas
+
+--- [pag. PDF 2] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+legislativos, às plataformas de comunicação institucional, aos recursos de
+armazenamento de informações, aos serviços de rede e aos demais sistemas essenciais
+ao desempenho das competências constitucionais e administrativas desta Casa
+Legislativa.
+O levantamento realizado pela Gerência de Tecnologia da Informação demonstra
+que a necessidade administrativa não se limita à simples aquisição de novos
+computadores. A evolução tecnológica, o aumento das exigências de desempenho dos
+sistemas atualmente utilizados, a necessidade de redução dos tempos de
+indisponibilidade dos equipamentos, a modernização da infraestrutura computacional e a
+racionalização da gestão dos ativos tecnológicos justificam a adoção de solução integrada
+de outsourcing de equipamentos de informática.
+Além da disponibilização dos equipamentos, a solução deverá assegurar
+manutenção preventiva e corretiva, substituição rápida dos equipamentos defeituosos,
+disponibilidade de equipamentos de backup, gerenciamento centralizado do parque
+computacional, atualização tecnológica durante a execução contratual, suporte técnico
+especializado e atendimento mediante níveis mínimos de serviço (SLA), reduzindo
+significativamente o risco de interrupção das atividades institucionais.
+A indisponibilidade dos equipamentos poderá comprometer diretamente o
+funcionamento dos setores administrativos e legislativos, ocasionando atrasos na
+tramitação de processos, redução da produtividade dos usuários, prejuízo à realização
+das sessões legislativas, dificuldades de atendimento ao público e riscos à continuidade
+dos serviços públicos prestados pela Câmara Municipal.
+A solução proposta também busca reduzir custos indiretos relacionados à
+manutenção de equipamentos próprios, minimizar os impactos decorrentes da
+obsolescência tecnológica, simplificar a gestão contratual e assegurar maior
+previsibilidade orçamentária ao longo da vigência da contratação.
+A necessidade administrativa caracteriza-se como demanda permanente de
+infraestrutura tecnológica, cuja continuidade é indispensável ao funcionamento da
+Câmara Municipal de Novo Hamburgo, justificando a realização de contratação
+especializada para disponibilização dos equipamentos e prestação dos serviços
+correlatos.
+Caracterização essencial da necessidade: A demanda não corresponde à
+simples locação de equipamentos de informática, mas à contratação de solução integrada
+de outsourcing de infraestrutura computacional, compreendendo fornecimento dos
+equipamentos, gerenciamento do parque tecnológico, suporte técnico especializado,
+manutenção preventiva e corretiva, substituição de equipamentos, atualização
+tecnológica, atendimento por níveis mínimos de serviço (SLA) e demais serviços
+necessários à continuidade das atividades administrativas e legislativas da Câmara
+Municipal.
+
+--- [pag. PDF 3] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+2. DEMONSTRAÇÃO DA PREVISÃO DA CONTRATAÇÃO NO PLANO DE
+CONTRATAÇÕES ANUAL
+Para o exercício de 2026, a Câmara Municipal de Novo Hamburgo não dispõe de
+Plano de Contratações Anual – PCA formalmente publicado. Dessa forma, a presente
+contratação não pode ser vinculada a item específico desse instrumento.
+A demanda encontra-se alinhada às diretrizes da Lei de Diretrizes Orçamentárias e
+da Lei Orçamentária Anual, especialmente às ações voltadas à manutenção da
+infraestrutura tecnológica, continuidade dos serviços administrativos e legislativos,
+modernização dos recursos de tecnologia da informação e segurança dos ativos
+computacionais.
+O prosseguimento da contratação permanece condicionado à manifestação da
+Contabilidade quanto à existência de dotação orçamentária suficiente.
+3. REQUISITOS DA CONTRATAÇÃO
+Documento / Evidência
+DOCUMENTO CONTRIBUIÇÃO
+Documento de Formalização de demanda Formalização da necessidade
+Inventário do Parque Computacional Base para Quantitativos
+Especificações Técnicas Definição dos requisitos mínimos
+Pesquisa de Preços Estimativa de Valor
+Termo de Referência Consolidação da solução
+Tabela de Requisitos
+CATEGORIA REQUISITO MÍNIMO JUSTIFICATIVA FORMA DE
+COMPROVAÇÃO
+Equipamentos Equipamentos novos, sem uso
+anterior
+Garantir vida util e
+confiabilidade
+Catálogos de declaração
+do fabricante
+Desempenho Processadores, memória e
+armazenamento compatíveis
+com especificações mínimas
+Garantir desempenho
+adequado às aplicações
+corporativas
+Catálogos técnicos do
+fabricante
+Suporte Atendimento por SLA Continuidade dos
+serviços Relatórios de
+atendimento
+Manutenção Preventiva e corretiva Disponibilidade dos
+equipamentos
+Relatórios técnicos
+Backup Equipamentos para substituição
+imediata
+Evitar paralisações Inventário
+Segurança BIOS protegida, TPM, Secure Segurança da informaçãoDocumentação técnica
+
+--- [pag. PDF 4] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+Boot
+Sustentabilidade Equipamentos com baixo
+consumo energético
+Redução de custos Certificações Energy Star
+ou equivalente
+3.1 Qualificação e preservação da competitividade:
+A documentação da contratação deverá exigir qualificação técnico-operacional
+compatível com o objeto, demonstrando experiência na prestação de serviços de
+outsourcing de equipamentos de informática, gerenciamento de parque computacional e
+suporte técnico especializado, preservando a ampla competitividade entre as empresas
+do setor. As exigências deverão limitar-se ao necessário para assegurar a adequada
+execução contratual, vedadas estrições indevidas à participação de licitantes.
+4. ESTIMATIVAS DAS QUANTIDADES
+A estimativa das quantidades foi elaborada com base no parque computacional
+atualmente utilizado pela Câmara Municipal de Novo Hamburgo, demostrado em planilha
+anexada considerando o quantitativo de equipamentos disponibilizados no contrato
+vigente, o histórico de utilização, as demandas das unidades administrativas e gabinetes
+parlamentares bem como a projeção de crescimento do corpo funcional e institucional
+desta Casa Legislativa.
+Embora o contrato vigente tenha servido como referência para a definição dos
+quantitativos, foram promovidos ajustes em razão da evolução das necessidades
+institucionais, contemplando a ampliação do número de equipamentos destinados ao
+atendimento das unidades organizacionais, bem como a previsão de equipamentos de
+backup, destinados à substituição imediata de equipamentos indisponíveis, ao
+atendimento de demandas supervenientes e à implantação de novos postos de trabalho.
+Também foi incluída a previsão de fornecimento de monitores curvos de 49
+polegadas, inexistentes no contrato atualmente vigente, destinados às atividades que
+demandam maior área útil de visualização, como edição de documentos complexos,
+acompanhamento simultâneo de múltiplos sistemas, painéis de monitoramento e outras
+atividades técnicas específicas.
+Os quantitativos estimados resultam do levantamento do parque computacional
+atualmente utilizado pela Câmara Municipal, acrescidos da previsão de expansão
+institucional, substituições programadas e reserva técnica necessária à continuidade dos
+serviços. A contratação em lote único preserva a padronização tecnológica, simplifica a
+gestão contratual e evita a multiplicação de custos administrativos.
+Dessa forma, estima-se a necessidade dos seguintes equipamentos:
+
+--- [pag. PDF 5] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+ITEM UNIDADE QUANTIDADE MEMÓRIA DE CALCULO FONTE
+Desktop unidade 140 Parque atual acrescido da
+expansão prevista
+Inventário TI
+Workstation unidade 10 Levantamento das áreas
+técnicas
+TI
+Notebook unidade 25 Usuários móveis TI
+Notebook
+Intermediário
+unidade 10 Usuários específicos TI
+Monitor 49” unidade 5 Usuários que utilizam vários
+sistemas
+TI
+5. LEVANTAMENTO DE MERCADO E ANÁLISE DAS ALTERNATIVAS
+Foram avaliadas as principais soluções disponíveis no mercado para atendimento
+da necessidade de disponibilização de equipamentos de informática destinados às
+atividades administrativas e legislativas da Câmara Municipal de Novo Hamburgo. O
+levantamento de mercado concentrou-se na análise dos modelos de contratação
+atualmente adotados por órgãos da Administração Pública e por empresas especializadas
+em infraestrutura de tecnologia da informação, considerando aspectos técnicos,
+operacionais, econômicos e relacionados ao ciclo de vida dos equipamentos.
+O mercado nacional dispõe de diversas empresas especializadas na prestação de
+serviços de outsourcing de equipamentos de informática, oferecendo soluções que
+integram fornecimento dos equipamentos, manutenção preventiva e corretiva, suporte
+técnico especializado, substituição de equipamentos, gerenciamento centralizado do
+parque computacional, atualização tecnológica e atendimento mediante níveis mínimos de
+serviço (SLA).
+Trata-se de serviço amplamente difundido no mercado, executado por empresas
+especializadas e cujos requisitos de desempenho, qualidade e disponibilidade podem ser
+definidos objetivamente por meio do Termo de Referência, permitindo ampla
+competitividade entre os potenciais licitantes.
+Foram analisadas as seguintes alternativas:
+ALTERNATIVA VIABILIDADE
+TÉCNICA/OPERACI
+ONAL
+ASPECTOS ECONÔMICOS E
+CICLO DE VIDA
+CONCLUSÃO
+Manter a
+situação atual
+Não atende à
+necessidade de
+continuidade após o
+encerramento do
+contrato vigente.
+Equipamentos
+Posterga a solução e aumenta os
+riscos de interrupção das atividades
+administrativas e legislativas.
+Inadequada
+
+--- [pag. PDF 6] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+poderão tornar-se
+indisponíveis ou
+insuficientes para
+atender as demandas
+institucionais, além de
+que o contrato não
+pode ser renovado.
+Aquisição dos
+equipamentos
+com o
+patrimônio
+próprio
+Exige aquisição,
+gestão patrimonial,
+manutenção,
+substituição e
+atualização
+tecnológica sob
+responsabilidade da
+Administração.
+Elevado investimento inicial, custos
+permanentes de manutenção, maior
+exposição à obsolescência
+tecnológica e necessidade de
+futuras aquisições.
+Pouco
+recomendada
+Aquisição de
+equipamentos
+com
+contratação
+separada de
+manutenção
+Requer gestão de
+contratos distintos,
+dificultando a
+definição de
+responsabilidades e
+aumentando a
+complexidade da
+fiscalização.
+Custos administrativos superiores e
+maior risco de conflitos entre
+fornecedores.
+Não
+recomendada
+Justificativa da solução escolhida
+A contratação de serviços de outsourcing de equipamentos de informática mostrou-
+se a alternativa mais adequada para atender às necessidades da Câmara Municipal de
+Novo Hamburgo, por reunir, em um único contrato, todos os serviços necessários à
+disponibilização contínua da infraestrutura computacional utilizada pelos servidores,
+vereadores e estagiários.
+A solução reduz significativamente os riscos relacionados à indisponibilidade dos
+equipamentos, elimina a necessidade de investimentos elevados para aquisição de ativos
+próprios, transfere à contratada a responsabilidade pela manutenção, suporte técnico
+especializado e substituição dos equipamentos, além de permitir atualização tecnológica
+ao longo da vigência contratual, quando prevista.
+Sob o aspecto operacional, o outsourcing proporciona maior padronização do
+parque computacional, simplifica a gestão contratual, facilita a fiscalização da execução e
+assegura maior previsibilidade dos custos, contribuindo para a continuidade dos serviços
+públicos prestados pela Câmara Municipal de Novo Hamburgo.
+
+--- [pag. PDF 7] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+6. ESTIMATIVAS DO VALOR A SER CONTRATADO
+O valor estimado da contratação será definido mediante pesquisa de preços
+realizada em conformidade com o art. 23 da Lei nº 14.133/2021 e com a regulamentação
+aplicável às contratações públicas.
+Considerando a natureza do objeto, a estimativa contemplará a prestação de
+serviços de outsourcing de equipamentos de informática pelo prazo de 60 (sessenta)
+meses, abrangendo a disponibilização dos equipamentos, instalação, configuração,
+suporte técnico especializado, manutenção preventiva e corretiva, substituição de
+equipamentos defeituosos, disponibilização de equipamentos de backup atualização
+tecnológica quando prevista, gerenciamento do parque computacional, logística e demais
+serviços necessários à continuidade da infraestrutura tecnológica da Câmara Municipal de
+Novo Hamburgo.
+Não foram identificadas, no LicitaCon-RS nem no Portal Nacional de Contratações
+Públicas (PNCP), contratações com especificações integralmente equivalentes às
+constantes deste Estudo Técnico Preliminar. Em razão das particularidades da solução
+pretendida, especialmente quanto às especificações técnicas dos equipamentos,
+quantitativos, níveis de serviço (SLA), gerenciamento do parque computacional e prazo de
+vigência contratual, a estimativa de preços foi elaborada com base em cotações obtidas
+junto a empresas atuantes no ramo, cujos valores serviram de parâmetro para o cálculo
+do preço médio estimado.
+Após a análise comparativa das propostas comerciais e dos valores praticados nas
+contratações públicas consultadas, como forma de validação da pesquisa de preços,
+também foram analisados processos licitatórios com objetos similares disponíveis no
+Portal Nacional de Contratações Públicas (PNCP), conforme tabela abaixo, verificando-se
+que os valores obtidos nas cotações de mercado mostram-se compatíveis com os preços
+praticados pela Administração Pública, atendendo aos princípios da economicidade, da
+razoabilidade e da vantajosidade.
+Antes da publicação do edital, a pesquisa de preços deverá ser revisada e
+compatibilizada com a versão definitiva do Termo, assegurando que os quantitativos,
+especificações técnicas, níveis de serviço (SLA), prazos e demais condições da
+contratação estejam refletidos de forma consistente na estimativa do valor.
+Fonte/
+Documento
+Referência Utilização Observações
+PNCP
+Edital nº 45212008000150/2026/272
+Complementação
+de pesquisa
+Contratação
+Similar
+PNCP
+Edital nº 01614977000161/2025/56
+Complementação
+de pesquisa
+Contratação
+Similar
+PNCP Edital nº 42498600000171/2024/5373 Complementação
+de pesquisa
+Contratação
+Similar
+
+--- [pag. PDF 8] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+PNCP Edital nº 95422986000102/2025/12 Complementação
+de pesquisa
+Contratação
+Similar
+Cotações do
+Mercado
+Empresas especializadas Referência de
+Preço
+Contratação exata
+Pesquisa de preços – Outsourcing de equipamentos de informática
+Item Descrição Orçamento 1 Orçamento 2Orçamento 3 Orçamento 4 Média
+01 Desktop R$ 315,00 R$ 295,00 R$ 384,00 R$ 324,50 R$ 329,63
+02 Workstation R$ 820,00 R$ 796,00 R$ 845,00 R$ 875,60 R$ 834,15
+03 Notebook – 16 GB R$ 296,00 R$ 250,00 R$ 288,00 R$ 275,00 R$ 277,25
+04 Notebook – 32 GB R$ 598,00 R$ 580,00 R$ 550,00 R$ 638,00 R$ 591,50
+05 Monitor Curvo - 49” R$ 300,00 R$ 215,00 R$ 380,00 R$ 236,50 R$ 282,88
+Estimativa da contratação
+Item Quantidade
+Valor mensal
+unitário
+estimado
+Valor mensal
+total estimado
+Valor estimado
+para 60
+(sessenta)
+meses
+Desktop Corporativo 140 R$ 329,63 R$ 46.148,20 R$ 2.768,892,00
+Estação de Trabalho
+(Workstation) 10 R$ 834,15 R$ 8.341,50 R$ 500.490,00
+Notebook Corporativo 25 R$ 277,25 R$ 6.931,25 R$ 415.875,00
+Notebook Corporativo
+Intermediário 10 R$ 591,50 R$ 5.915,00 R$ 354.900,00
+Monitor Curvo de, no
+mínimo, 49 polegadas 5 R$ 282,88 R$ 1.414,40 R$ 84.864,00
+Quantidade total estimada: 190 equipamentos.
+Valor mensal estimado da contratação: R$ 68.750,35.
+Valor total estimado para 60 (sessenta) meses: R$ 4.125,021,00.
+
+--- [pag. PDF 9] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+7. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+A solução consiste na contratação de empresa especializada para prestação de
+serviços de outsourcing de equipamentos de informática, mediante disponibilização dos
+equipamentos durante toda a vigência contratual, incluindo fornecimento, instalação,
+configuração, gerenciamento centralizado, manutenção preventiva e corretiva,
+substituição de equipamentos defeituosos, suporte técnico especializado, atendimento
+aos níveis mínimos de serviço, atualização tecnológica quando prevista, disponibilização
+de equipamentos backup, inventário dos ativos e recolhimento dos equipamentos
+ao término da contratação.
+COMPONENTE/
+ENTREGA
+CONTEÚDO DA SOLUÇÃO RESPONSÁVEL MOMENTO/PRAZO
+Fornecimento Disponibilização dos
+equipamentos
+Contratada Início
+Instalação Configuração Contratada Implantação
+Suporte Atendimento SLA Contratada Toda Vigência
+Manutenção Preventiva e Corretiva Contratada Toda Vigência
+Encerramento Recolhimento Contratada Final do Contrato
+Classificação, modalidade e regime de execução
+A contratação caracteriza-se como serviço comum de tecnologia da informação,
+cujos padrões de desempenho e qualidade podem ser objetivamente definidos por meio
+de especificações usuais de mercado, nos termos da Lei nº 14.133/2021.
+Modalidade recomendada: Pregão Eletrônico
+Critério: Menor preço global
+8. JUSTIFICATIVA PARA O PARCELAMENTO OU NÃO DA CONTRATAÇÃO
+Nos termos do art. 47, inciso II, da Lei Federal nº 14.133/2021, as licitações
+deverão observar o princípio do parcelamento do objeto, quando este se mostrar
+tecnicamente viável e economicamente vantajoso para a Administração. O §1º do referido
+artigo estabelece que, na aplicação desse princípio, devem ser considerados aspectos
+relacionados à responsabilidade técnica, aos custos de gestão de contratos, à ampliação
+da competitividade e à prevenção da concentração de mercado.
+No presente caso, embora a Administração tenha avaliado a possibilidade de
+parcelamento da contratação por tipos de equipamentos ou serviços distintos, conclui-se
+
+--- [pag. PDF 10] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+que a divisão do objeto não se apresenta como a alternativa mais vantajosa sob os
+aspectos técnico, operacional e econômico.
+A solução de outsourcing de equipamentos de informática possui natureza
+integrada, abrangendo não apenas a disponibilização dos equipamentos, mas também os
+serviços de entrega, instalação, configuração inicial, suporte técnico relacionado aos
+equipamentos disponibilizados, manutenção preventiva e corretiva, reparos e substituição
+dos equipamentos quando necessário durante a vigência contratual, gerenciamento do
+parque computacional e atendimento aos níveis de serviço (SLA) estabelecidos para
+execução contratual. Dessa forma, os equipamentos e os serviços associados constituem
+uma solução única e interdependente, cuja fragmentação entre diferentes fornecedores
+poderia comprometer a padronização tecnológica, a compatibilidade entre os
+equipamentos, a uniformidade dos procedimentos de manutenção, o cumprimento dos
+níveis de serviço, a centralização da responsabilidade contratual e a eficiência da
+fiscalização, além de aumentar a possibilidade de conflitos quanto às responsabilidades
+pelo atendimento e pela continuidade da solução.
+Além disso, a contratação em lote único tende a proporcionar ganhos de escala,
+permitindo a obtenção de condições comerciais mais vantajosas, redução dos custos
+administrativos relacionados ao gerenciamento e à fiscalização contratual e simplificação
+da gestão da infraestrutura tecnológica. Soma-se a isso o fato de que concentrar a
+manutenção dos equipamentos em um único fornecedor otimiza a gestão do parque
+tecnológico, padronizando os chamados técnicos, unificando os SLAs de atendimento e
+facilitando o controle operacional e preventivo dos ativos.
+Ressalta-se que o não parcelamento do objeto não tem como finalidade restringir a
+competitividade, mas sim assegurar a obtenção da solução mais eficiente para
+atendimento das necessidades da Câmara Municipal de Novo Hamburgo. A
+competitividade será preservada mediante especificações técnicas compatíveis com o
+mercado, requisitos de habilitação proporcionais ao objeto e ampla divulgação do
+procedimento licitatório.
+Dessa forma, considerando as características técnicas, operacionais e econômicas
+da contratação, conclui-se que o agrupamento do objeto em lote único representa a
+alternativa mais adequada, por proporcionar maior padronização tecnológica, eficiência na
+gestão contratual, clareza na definição das responsabilidades e maior segurança quanto à
+continuidade dos serviços de tecnologia da informação.
+
+--- [pag. PDF 11] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+9. DEMONSTRATIVO DOS RESULTADOS PRETENDIDOS
+RESULTADO PRETENDIDO INDICADOR META
+Disponibilidades dos Equipamentos Percentual Equipamentos
+disponíveis
+100%
+Atendimento SLA Chamados atendidos no prazo 100%
+Redução da Indisponibilidade Tempo Médio de Reparo Conforme TR
+Atualização Tecnológica Equipamentos compatíveis 100%
+Continuidade dos serviços Setores atendidos 100%
+10. PROVIDÊNCIAS A SEREM ADOTADAS PELA ADMINISTRAÇÃO
+PROVIDÊNCIA NECESSÁRIA RESPONSÁVEL
+Elaborar Termo de Referência TI
+Concluir Pesquisa de Preços Compras
+Designar Fiscais Direção administrativa
+Confirmar dotação Contabilidade
+Elaborar Edital Pregoeira
+11. CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES
+Não foram identificadas contratações interdependentes indispensáveis à execução
+da solução, sendo o objeto autônomo. A contratação deverá apenas ser coordenada com
+os contratos vigentes relacionados à infraestrutura de tecnologia da informação e aos
+serviços de rede utilizados pela Câmara Municipal.
+12. DESCRIÇÃO DE POSSÍVEIS IMPACTOS AMBIENTAIS
+ASPECTO MEDIDA
+Consumo energético Equipamento de Energy Star
+Resíduos Eletrônicos Destinação conforme PNRS
+Logística Reversa Recolhimento pela contratada
+Embalagens Destinação ambiental adequada
+Ciclo de Vida Atualização Tecnológica para prolongar utilização
+13. ANÁLISE DOS RISCOS DA CONTRATAÇÃO
+A presente contratação envolve a disponibilização de equipamentos de informática
+essenciais ao funcionamento das atividades administrativas e legislativas da Câmara
+Municipal de Novo Hamburgo. Dessa forma, foram identificados os principais riscos
+relacionados à execução da solução, bem como as medidas de prevenção e mitigação
+aplicáveis.
+
+--- [pag. PDF 12] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+Risco identificado Possível impacto Medida de prevenção/mitigação
+Atraso na
+disponibilização dos
+equipamentos
+Prejuízo ao início da
+utilização da solução e
+impacto nas atividades dos
+usuários
+Definição de prazos de entrega,
+instalação e disponibilização dos
+equipamentos no instrumento
+contratual
+Indisponibilidade de
+equipamentos durante a
+execução contratual
+Interrupção das atividades
+dos usuários e redução da
+produtividade
+Previsão de suporte técnico,
+manutenção corretiva e
+substituição dos equipamentos
+conforme níveis de serviço
+estabelecidos
+Falha na prestação do
+suporte técnico e
+manutenção dos
+equipamentos
+disponibilizados pela
+contratada
+Aumento do tempo de
+indisponibilidade dos
+recursos tecnológicos
+Definição de canais de
+atendimento, prazos para
+diagnóstico, reparo, manutenção e
+substituição dos equipamentos no
+Termo de Referência
+Defasagem tecnológica
+dos equipamentos
+disponibilizados
+Redução do desempenho e
+incompatibilidade com
+sistemas utilizados pela
+Administração
+Estabelecimento de requisitos
+técnicos mínimos e demais
+condições previstas no Termo de
+Referência
+Dificuldade de gestão
+contratual
+Comprometimento da
+fiscalização e
+acompanhamento dos
+serviços
+Definição clara das
+responsabilidades da contratada e
+dos mecanismos de
+acompanhamento contratual
+Além das medidas de mitigação acima indicadas, a solução deverá contemplar
+níveis mínimos de serviço (Service Level Agreement – SLA), estabelecendo prazos para
+atendimento de chamados, manutenção preventiva e corretiva, substituição de
+equipamentos defeituosos e solução de incidentes, de forma a assegurar a
+disponibilidade da infraestrutura tecnológica compatível com as necessidades da Câmara
+Municipal de Novo Hamburgo. Os níveis de serviço serão detalhados no Termo de
+Referência e servirão como parâmetro para o acompanhamento da execução contratual e
+avaliação do desempenho da contratada.
+Os requisitos técnicos, especificações dos equipamentos, níveis de serviço (SLA),
+da contratada e demais condições necessárias à execução da solução serão detalhados
+no Termo de Referência, documento integrante da fase preparatória da contratação.
+Os riscos identificados serão monitorados durante toda a execução contratual pelos
+fiscais designados, podendo ser revisadas as estratégias de mitigação sempre que
+constatadas alterações nas condições de execução ou novos fatores capazes de impactar
+a prestação dos serviços.
+
+--- [pag. PDF 13] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+14. CONCLUSÃO DO ESTUDO TÉCNICO PRELIMINAR
+Considerando as características do objeto, o volume estimado da contratação, a
+necessidade de avaliação das alternativas disponíveis no mercado e a necessidade de
+demonstração da viabilidade técnica e econômica da solução pretendida, foi elaborado o
+presente Estudo Técnico Preliminar, nos termos do art. 18 da Lei Federal nº 14.133/2021.
+O presente documento tem por finalidade subsidiar a definição da solução mais
+adequada para atendimento das necessidades da Câmara Municipal de Novo Hamburgo,
+avaliando aspectos técnicos, operacionais e econômicos relacionados à contratação de
+serviços de outsourcing de equipamentos de informática.
+15. DECLARAÇÃO DE VIABILIDADE
+Com base nas informações apresentadas neste Estudo Técnico Preliminar,
+considerando a necessidade administrativa identificada, as alternativas avaliadas, os
+aspectos técnicos e econômicos analisados e a disponibilidade orçamentária prevista
+para atendimento da demanda, conclui-se pela viabilidade da contratação de empresa
+especializada para prestação de serviços de outsourcing de equipamentos de informática.
+A solução proposta demonstra-se adequada para assegurar a continuidade da
+infraestrutura tecnológica necessária ao desenvolvimento das atividades administrativas e
+legislativas da Câmara Municipal de Novo Hamburgo, proporcionando maior
+previsibilidade dos custos, disponibilidade dos recursos computacionais, suporte técnico
+especializado relacionados aos equipamentos disponibilizados pela contratada e redução
+dos riscos relacionados à manutenção, indisponibilidade e obsolescência tecnológica.
+Verifica-se, ainda, que a solução selecionada apresenta viabilidade técnica,
+operacional e econômica, encontra-se compatível com as práticas atualmente adotadas
+pela Administração Pública para gerenciamento do parque computacional e atende aos
+princípios da eficiência, economicidade, continuidade do serviço público e planejamento
+das contratações estabelecidos pela Lei Federal nº 14.133/2021.
+A contratação deverá observar as condições, requisitos e obrigações estabelecidos
+no Termo de Referência e nos demais documentos integrantes do processo
+administrativo, de forma a assegurar a adequada execução contratual, o
+acompanhamento da prestação dos serviços e o atendimento ao interesse público.
+
+--- [pag. PDF 14] ---
+CÂMARA MUNICIPAL DE NOVO HAMBURGO / RS
+RUA ALMIRANTE BARROSO, N. 261 - CENTRO
+CEP: 93510-290 – NOVO HAMBURGO – RS
+CNPJ: 94.709.284/0001-33 FONE: (51) 3477-1233
+E-mail: compras@camaranh.rs.gov.br
+RESPONSÁVEIS PELA ELABORAÇÃO OU ANÁLISE DO DOCUMENTO
+NOME UNIDADE/CARGO PAPEL NA ELABORAÇÃO OU
+ANÁLISE DO DOCUMENTO
+ASSINATURA E DATA
+Vinícius Costa Gerente de
+Tecnologia da
+Informação
+Gerente de Tecnologia da
+Informação
+Tasso, Tais e Pedro Equipe de Apoio
+à Licitações
+Membros da comissão de
+licitação
+Novo Hamburgo/RS, 22 de Julho de 2026.
+Responsáveis pela Formalização da Demanda:
+Vinícius de Oliveira Costa
+Gerente de TI
+VIABILIDADE DECLARADA PELA AUTORIDADE SUPERIOR:
+DATA: ___/___/20___
+____________________________

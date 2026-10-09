@@ -1,0 +1,42 @@
+{
+ "id": "03330461000110-2026-165",
+ "extraidoEm": "2026-10-09T13:31:33.939Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/03330461000110/2026/165",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-compressed-15.txt",
+   "titulo": "Edital_compressed_15",
+   "tipo": "Edital",
+   "paginas": 74,
+   "caracteres": 210075
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ETP-1-compressed.txt",
+   "titulo": "ETP_1_compressed",
+   "tipo": "Outros Documentos",
+   "paginas": 63,
+   "caracteres": 143164
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-ilovepdf-merged-4-3-CORRETO.txt",
+   "titulo": "ilovepdf_merged_4_3_CORRETO",
+   "tipo": "Outros Documentos",
+   "paginas": 161,
+   "caracteres": 393947
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-TR-compressed-4.txt",
+   "titulo": "TR_compressed_4",
+   "tipo": "Outros Documentos",
+   "paginas": 223,
+   "caracteres": 547712
+  }
+ ],
+ "totalPaginas": 521,
+ "totalCaracteres": 1294898,
+ "comErro": 0
+}
