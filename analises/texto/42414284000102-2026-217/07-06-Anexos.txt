@@ -1,0 +1,435 @@
+=== DOCUMENTO 7: 06 - Anexos.pdf ===
+tipo: Outros Documentos | páginas: 10 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/42414284000102/compras/2026/217/arquivos/7
+
+--- [pag. PDF 1] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+ANEXO III – RELATÓRIO DE LEVANTAMENTO INICIAL E DIAGNÓSTICO
+(A ser entregue em planilha eletrônica editável em até 15 dias úteis do início do contrato)
+Identific
+ação
+(Patrimô
+nio)
+Localiza
+ção
+(Setor/
+Sala)
+Marc
+a e
+Mod
+elo
+Capacid
+ade
+(BTUs)
+e
+Tensão
+Tip
+o
+de
+Flui
+do
+(Gá
+s)
+Estado Geral
+(Bom/Regular
+/Ruim)
+Funcionand
+o?
+(Sim/Não/P
+arcial)
+Avarias/Cor
+rosão/
+Vazamento?
+Dificuldade
+de
+Peças/Obs
+oleto?
+Recomen
+dação
+Técnica e
+Justificati
+va
+Síntese Gerencial do Levantamento:
+• Quantidade total de equipamentos avaliados: ______
+• Equipamentos em condição satisfatória: ______
+• Equipamentos que demandam intervenção imediata: ______
+• Equipamentos obsoletos com recomendação de substituição: ______
+
+--- [pag. PDF 2] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+ANEXO IV
+ORDEM DE SERVIÇO DE MANUTENÇÃO PREVENTIVA
+ORDEM DE SERVIÇO PREVENTIVA Nº ____/20____
+A manutenção preventiva será realizada mediante Ordem de Serviço vinculada ao cronograma previamente aprovado
+e ao PMOC. A OS deverá ser emitida pela fiscalização e encaminhada à CONTRATADA antes da execução, devendo ser
+preenchida durante a realização dos serviços.
+1. IDENTIFICAÇÃO DA PREVENTIVA
+Competência: _______________________________________________________
+Data prevista no cronograma: _______________________________________________________
+Data de emissão da OS: _______________________________________________________
+Data de envio à CONTRATADA: _______________________________________________________
+Local/Setor: _______________________________________________________
+Equipamento: _______________________________________________________
+Marca/Modelo: _______________________________________________________
+Capacidade: __________ BTUs Tensão: __________ V Patrimônio:
+_______________________________________________________
+Tipo de fluido refrigerante: _______________________________________________________
+( ) Atividade prevista no PMOC
+Periodicidade prevista no PMOC: _______________________________________________________
+2. EXECUÇÃO DA MANUTENÇÃO PREVENTIVA
+Data da execução: _______________________________________________________
+Hora de início: ______ Hora de término: _____________________________________________________________
+Técnico responsável: _______________________________________________________
+Para cada atividade, registrar: E – Executado | V – Verificado, sem necessidade de intervenção | NA – Não aplicável |
+NC – Não concluído
+Item 	Atividade 	E 	V 	NA 	NC / Observação
+a
+Limpeza e
+higienização de
+filtros
+( ) 	( ) 	( ) ( )
+__________________
+b
+Limpeza e
+higienização de
+bandejas de
+condensado
+( ) 	( ) 	( ) ( )
+__________________
+c
+Limpeza e
+higienização de
+serpentinas
+( ) 	( ) 	( ) ( )
+__________________
+d
+Aplicação dos
+produtos
+previstos para
+higienização,
+quando aplicável
+( ) 	( ) 	( ) ( )
+__________________
+e Limpeza geral do
+equipamento ( ) 	( ) 	( ) ( )
+__________________
+
+--- [pag. PDF 3] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+f
+Verificação e
+limpeza do
+sistema elétrico
+( ) 	( ) 	( ) ( )
+__________________
+g
+Verificação e
+limpeza do
+sistema
+eletrônico
+( ) 	( ) 	( ) ( )
+__________________
+h
+Verificação e
+limpeza do
+sistema de
+drenagem
+( ) 	( ) 	( ) ( )
+__________________
+i
+Verificação dos
+parâmetros do
+circuito
+frigorígeno,
+inclusive pressão
+e temperatura
+( ) 	( ) 	( ) ( )
+__________________
+j
+Inspeção e teste
+dos componentes
+de controle e
+segurança
+( ) 	( ) 	( ) ( )
+__________________
+k Verificação de
+termostatos ( ) 	( ) 	( ) ( )
+__________________
+l Verificação de
+ventiladores ( ) 	( ) 	( ) ( )
+__________________
+m Verificação de
+motores ( ) 	( ) 	( ) ( )
+__________________
+n
+Verificação das
+condições de
+ventilação e
+exaustão
+( ) 	( ) 	( ) ( )
+__________________
+o Verificação do
+fluxo de ar ( ) 	( ) 	( ) ( )
+__________________
+p Verificação de
+isolação ( ) 	( ) 	( ) ( )
+__________________
+q Verificação de
+vazamentos ( ) 	( ) 	( ) ( )
+__________________
+r
+Ajustes e
+reapertos em
+terminais de
+cabos
+( ) 	( ) 	( ) ( )
+__________________
+s Verificação de
+fusíveis ( ) 	( ) 	( ) ( )
+__________________
+t
+Verificação/ajuste
+do encaixe de
+aletas
+( ) 	( ) 	( ) ( )
+__________________
+u
+Inspeção geral
+dos componentes
+do aparelho
+( ) 	( ) 	( ) ( )
+__________________
+3. MEDIÇÕES E CONDIÇÃO DO EQUIPAMENTO
+Tensão medida: ______ V Corrente nominal: ______ A Corrente medida: ______ A__________
+
+--- [pag. PDF 4] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+Temperatura de insuflamento: ______ ºC__________
+Foi constatado vazamento? ( ) Não ( ) Sim Local/causa provável: ______________________________
+O equipamento estava funcionando antes da preventiva? ( ) Sim ( ) Não ( ) Parcialmente
+Condição após a preventiva: ( ) Funcionando normalmente ( ) Funcionando parcialmente ( ) Não funcionando
+4. ACHADOS DA MANUTENÇÃO PREVENTIVA / INFORMAÇÃO PREDITIVA
+Durante a manutenção foram identificados sinais de falha, desgaste ou necessidade futura de intervenção? ( ) Não ( )
+Sim
+Descrição: _________________________________________________________________
+Há risco de quebra ou necessidade provável de substituição de componente? ( ) Não ( ) Sim
+Componente: _________________________________________________________________
+Justificativa técnica: ____________________________________________________________
+Estimativa de necessidade: ( ) Imediata ( ) Até 3 meses ( ) Até 6 meses ( ) Sem prazo definido
+5. NECESSIDADE DE MANUTENÇÃO CORRETIVA
+A manutenção preventiva identificou falha que exige manutenção corretiva? ( ) Não ( ) Sim
+Descrição da ocorrência: __________________________________________________________
+Nesse caso, deverá ser emitida OS de Manutenção Corretiva específica. A presente OS preventiva não autoriza
+pagamento específico de peça ou de intervenção corretiva não prevista que implique despesa adicional.
+OS Corretiva nº: _______________________________________________________
+6. MATERIAIS E INSUMOS UTILIZADOS
+Materiais de consumo utilizados na preventiva: _____________________________________________
+Os custos com mão de obra, materiais de consumo e materiais de reposição de natureza ordinária necessários à
+manutenção preventiva estão incluídos no valor mensal contratado. As peças e componentes expressamente
+classificados como peças de reposição na planilha contratual observarão a sistemática específica do Termo de
+Referência.
+7. TESTE DE FUNCIONAMENTO
+( ) Equipamento testado e funcionando normalmente.
+( ) Equipamento apresenta funcionamento parcial.
+( ) Equipamento apresenta falha que exige OS corretiva.
+Observações: _________________________________________________________________
+8. REGISTRO NO PMOC
+Serviço registrado no PMOC? ( ) Sim ( ) Não
+Data do registro: _____________________________________________
+Responsável pelo registro: _____________________________________________
+9. ASSINATURAS E ENCERRAMENTO
+Técnico da CONTRATADA – Nome: ________________________________________________
+Data: ________________________________________________
+
+--- [pag. PDF 5] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+Assinatura: ________________________________________________
+Servidor do setor – Nome: ________________________________________________
+Declaro ciência quanto à realização da manutenção preventiva e à condição de funcionamento registrada nesta OS.
+Data: _______________________________________________________
+Assinatura: _______________________________________________________
+Fiscalização: ( ) Preventiva realizada e documentação conferida. ( ) Preventiva realizada parcialmente. ( ) Preventiva
+não aceita.
+Motivo/Observações: _______________________________________________________
+Fiscal do contrato: ________________________________________________
+Data: _______________________________________________________
+Assinatura: _______________________________________________________
+
+--- [pag. PDF 6] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+ANEXO V
+ORDEM DE SERVIÇO DE MANUTENÇÃO CORRETIVA
+ORDEM DE SERVIÇO Nº ____/20____
+A Ordem de Serviço será emitida pela fiscalização e encaminhada à CONTRATADA antes do início do atendimento.
+Após o recebimento, a CONTRATADA deverá utilizá-la como documento de acompanhamento de todas as etapas do
+chamado, desde o diagnóstico até o encerramento. Nenhuma peça sujeita a pagamento específico nem intervenção
+corretiva não prevista que implique despesa adicional poderá ser executada para fins de faturamento sem vinculação à
+respectiva OS e, quando exigido pelo Termo de Referência, sem prévia autorização da fiscalização e adoção do
+instrumento jurídico cabível.
+1. ABERTURA DA ORDEM DE SERVIÇO – PREENCHIMENTO PELA FISCALIZAÇÃO
+OS nº: __________________________________________________
+Data e hora da emissão: __________________________________________________
+Data e hora do envio à CONTRATADA: __________________________________________________
+Setor/Sala: __________________________________________________
+Servidor/usuário que comunicou a ocorrência: __________________________________________________
+Equipamento: __________________________________________________
+Marca/Modelo: __________________________________________________
+Capacidade: ______ BTUs Patrimônio: __________________________________________________
+Defeito/sintoma informado pelo usuário: __________________________________________________
+Classificação inicial do chamado:
+( ) Emergencial – atendimento/início da intervenção em até 6 horas
+( ) Prioritário – atendimento/início da intervenção em até 24 horas
+( ) Normal – início da intervenção em até 4 dias
+Fiscal responsável pela emissão: ________________________________________________
+2. RECEBIMENTO E ATENDIMENTO – PREENCHIMENTO PELA CONTRATADA
+Data e hora do recebimento da OS: ________________________________________________
+Data e hora da chegada ao local: ________________________________________________
+Técnico responsável pelo atendimento: ________________________________________________
+2.1. Diagnóstico técnico
+Defeito constatado: _______________________________________________________
+Causa provável da falha, quando identificável: _______________________________________________________
+Diagnóstico técnico: _______________________________________________________
+2.2. Verificações e medições, quando aplicáveis
+Tensão medida: ______ V Corrente nominal: ______ A Corrente medida: ______ A Temperatura de insuflamento:
+______ ºC_____
+Foi constatado vazamento de fluido refrigerante? ( ) Não ( ) Sim
+Em caso positivo, local/causa identificada: ________________________________________________
+Providências adotadas para identificação e correção do vazamento: ______________________________________
+
+--- [pag. PDF 7] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+2.3. Avaliação preditiva
+Há sinais de falha iminente ou necessidade provável de substituição de componente? ( ) Não ( ) Sim
+Componente: ____________________________________________________________
+Justificativa técnica: _______________________________________________________
+Prazo estimado para necessidade de intervenção/substituição: ___________________________________
+3. DEFINIÇÃO DA INTERVENÇÃO
+Após o diagnóstico, o atendimento enquadra-se como:
+( ) Manutenção corretiva ordinária, integralmente incluída no valor mensal do contrato.
+( ) Necessidade de peça ou componente previsto na planilha contratual, sujeito a pagamento pelo preço unitário
+contratado.
+( ) Necessidade de peça ou componente não previsto na planilha contratual, sujeita ao procedimento do item 5.3.7 do
+Termo de Referência.
+( ) Intervenção corretiva não expressamente prevista na planilha contratual, necessária ao restabelecimento do
+equipamento, nos termos dos itens 5.3.6.1.3 a 5.3.6.1.7 do Termo de Referência.
+( ) Necessidade simultânea de peça e intervenção corretiva não prevista.
+3.1. Manutenção corretiva ordinária
+Serviços executados: ____________________________________________________________
+Materiais e insumos incluídos no valor contratual utilizados: ______________________________________
+Quando o serviço puder ser integralmente realizado como manutenção corretiva ordinária, a CONTRATADA deverá
+executá-lo no âmbito da parcela mensal, prosseguindo para o item 6 – Execução e Teste, sem cobrança adicional.
+4. SOLICITAÇÃO DE AUTORIZAÇÃO – PEÇA OU INTERVENÇÃO NÃO PREVISTA
+Esta etapa será preenchida quando o diagnóstico indicar necessidade de peça sujeita a pagamento específico ou de
+intervenção corretiva não prevista que possa gerar despesa adicional. A documentação deverá ser submetida à
+fiscalização antes da execução, ressalvadas as situações de urgência admitidas no Termo de Referência.
+4.1. Peça ou componente previsto na planilha contratual
+Peça/componente: _____________________________________________
+Item da planilha contratual: _____________________________________________
+Marca/modelo/código ou referência: _____________________________________________
+Quantidade: _____________________________________________
+Preço unitário contratado: R$ _____________________________________________
+Justificativa técnica para substituição: _____________________________________________
+A peça integra os materiais ordinários incluídos no valor mensal? ( ) Não
+Laudo técnico/registro fotográfico anexado: _____________________________________________
+4.2. Peça ou componente não previsto na planilha contratual
+Peça/componente: __________________________________________
+Especificação técnica completa: __________________________________________
+Marca/modelo/código ou referência, quando existente: __________________________________________
+Quantidade necessária: __________________________________________
+Justificativa técnica: __________________________________________
+
+--- [pag. PDF 8] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+A CONTRATANTE realizará a pesquisa de preços e definirá o tratamento jurídico cabível, sendo vedado o fornecimento
+ou pagamento sem prévia autorização e adoção do instrumento jurídico pertinente.
+Preço definido pela CONTRATANTE, quando cabível: R$ ___________________________________
+Instrumento jurídico adotado: _____________________________________________
+4.3. Intervenção corretiva não expressamente prevista na planilha contratual
+Descrição da intervenção: _____________________________________________
+Justificativa técnica: _____________________________________________
+Faixa de capacidade do equipamento, quando aplicável: _____________________________________________
+Documentação técnica anexada: _____________________________________________
+Não será devido pagamento adicional por mão de obra ordinária ou por atividade já compreendida na parcela mensal.
+Eventual pagamento adicional ficará condicionado à prévia definição do preço pela CONTRATANTE, à observância da
+regulamentação aplicável e à adoção do instrumento jurídico cabível.
+Preço previamente definido pela CONTRATANTE, quando cabível: R$ ______________________________
+Instrumento jurídico adotado: _____________________________________________
+5. AUTORIZAÇÃO DA FISCALIZAÇÃO
+Peça prevista na planilha contratual
+( ) AUTORIZADO ( ) NÃO AUTORIZADO
+Item/Quantidade autorizada: _____________________________________________
+Valor unitário contratado: R$ _____________________________________________
+Observações: ____________________________________________________________
+Peça não prevista na planilha contratual
+( ) AUTORIZADO ( ) NÃO AUTORIZADO
+Valor autorizado, quando cabível: R$ ________________________________________
+Instrumento jurídico: _____________________________________________
+Observações: ____________________________________________________________
+Intervenção corretiva não prevista
+( ) AUTORIZADO ( ) NÃO AUTORIZADO
+Valor autorizado, quando cabível: R$ ________________________________________
+Instrumento jurídico: _____________________________________________
+Observações: ____________________________________________________________
+Fiscal responsável: __________________________________________________
+Data e hora da autorização: _____________________________________________
+Assinatura: _______________________________________________________
+A execução de parcela sujeita a pagamento específico somente poderá prosseguir após autorização e cumprimento
+das condições previstas no Termo de Referência, ressalvadas exclusivamente as situações de urgência nele admitidas.
+6. EXECUÇÃO APÓS AUTORIZAÇÃO / PROSSEGUIMENTO
+Data e hora do reinício/prosseguimento: _____________________________________________
+
+--- [pag. PDF 9] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+Serviços efetivamente executados: _____________________________________________
+Peça/componente substituído: _____________________________________________
+Peça retirada – marca/modelo/código: _____________________________________________
+Nº de série, quando existente: _____________________________________________
+Peça instalada – marca/modelo/código: _____________________________________________
+Nº de série, quando existente: _____________________________________________
+6.1. Rastreabilidade da peça retirada
+( ) Peça substituída apresentada/entregue no local indicado pela fiscalização.
+( ) Apresentação física inviável, com justificativa e registro fotográfico anexados.
+Justificativa, quando aplicável: ________________________________________________
+( ) Registro fotográfico anexado
+7. PENDÊNCIA PARA SOLUÇÃO DEFINITIVA
+A solução definitiva depende de:
+( ) Não há pendência.
+( ) Disponibilização/autorização de peça prevista na planilha.
+( ) Pesquisa de preços e instrumento jurídico para peça não prevista.
+( ) Definição/autorização de intervenção corretiva não prevista.
+( ) Outra providência técnica.
+Descrição da pendência: ____________________________________________________
+Providência necessária: __________________________________________________
+Estimativa de prazo para conclusão: _____________________________________________
+Os prazos de 6 horas, 24 horas e 4 dias correspondem ao atendimento ou início da intervenção, conforme a
+classificação do chamado, e não necessariamente à solução definitiva. Quando a conclusão depender de peça,
+autorização, instrumento jurídico ou impedimento técnico, a ocorrência deverá permanecer registrada nesta OS.
+8. TESTE DE FUNCIONAMENTO E ENCERRAMENTO
+Data e hora da conclusão: ________________________________________________
+Teste de funcionamento realizado:
+( ) Equipamento funcionando normalmente.
+( ) Equipamento funcionando parcialmente.
+( ) Equipamento não restabelecido.
+Resultado do teste: ____________________________________________________________
+Recomendações técnicas decorrentes da intervenção: _____________________________________________
+Necessidade de nova intervenção? ( ) Não ( ) Sim
+Motivo: _________________________________________________________________
+8.1. Ciência do setor usuário
+Servidor do setor: _______________________________________________________
+Declaro ciência quanto ao atendimento realizado e à condição de funcionamento informada acima.
+Data: _______________________________________________________
+Assinatura: _______________________________________________________
+
+--- [pag. PDF 10] ---
+Anexos do Termo de Referência – Manutenção de Climatização
+8.2. Técnico da CONTRATADA
+Nome: ____________________________________________________________
+Data: _______________________________________________________
+Assinatura: _______________________________________________________
+8.3. Fiscalização
+( ) OS concluída.
+( ) OS permanece aberta em razão de pendência registrada no item 7.
+( ) Documentação insuficiente para encerramento.
+Observações: ____________________________________________________________
+Fiscal do contrato: __________________________________________________
+Data: _______________________________________________________
+Assinatura: _______________________________________________________

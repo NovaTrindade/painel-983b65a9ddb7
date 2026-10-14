@@ -1,0 +1,74 @@
+{
+ "id": "42414284000102-2026-217",
+ "extraidoEm": "2026-10-14T12:08:27.282Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/42414284000102/2026/217",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Autorizacao.txt",
+   "titulo": "Autorizacao.pdf",
+   "tipo": "Ato que autoriza a Contratação Direta",
+   "paginas": 1,
+   "caracteres": 817
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-01-Aviso-de-licitacao.txt",
+   "titulo": "01 - Aviso de licitacao.pdf",
+   "tipo": "Aviso de Contratação Direta",
+   "paginas": 16,
+   "caracteres": 43566
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-02-ETP.txt",
+   "titulo": "02 - ETP.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 35,
+   "caracteres": 103728
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-03-TR.txt",
+   "titulo": "03 - TR.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 35,
+   "caracteres": 104863
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-07-Minuta-do-Contrato.txt",
+   "titulo": "07 - Minuta do Contrato.pdf",
+   "tipo": "Minuta do Contrato",
+   "paginas": 11,
+   "caracteres": 31385
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-04-Anexo-I-Relacao-de-aparelhos.txt",
+   "titulo": "04 - Anexo I - Relacao de aparelhos.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 878
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-06-Anexos.txt",
+   "titulo": "06 - Anexos.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 10,
+   "caracteres": 19951
+  },
+  {
+   "ordem": 8,
+   "arquivo": "08-05-Anexo-II-IMR.txt",
+   "titulo": "05 - Anexo II -  IMR.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 7384
+  }
+ ],
+ "totalPaginas": 112,
+ "totalCaracteres": 312572,
+ "comErro": 0
+}

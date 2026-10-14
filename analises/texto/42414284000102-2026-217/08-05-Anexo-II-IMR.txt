@@ -1,0 +1,128 @@
+=== DOCUMENTO 8: 05 - Anexo II -  IMR.pdf ===
+tipo: Outros Documentos | páginas: 3 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/42414284000102/compras/2026/217/arquivos/8
+
+--- [pag. PDF 1] ---
+INSTRUMENTO DE MEDIÇÃO DE RESULTADO – IMR
+Contrato/Processo Contratação emergencial – manutenção de climatização
+Competência ________________
+Parcela mensal fixa sujeita ao IMR
+(R$) R$ 37.840,00
+Instrução Na coluna "Houve falha?", marque apenas Sim ou Não. Todo o restante é
+automático.
+RESULTADO AUTOMÁTICO DA COMPETÊNCIA
+Pontuação 0 Grau G0 – Pleno
+Desconto 0% Valor da glosa -
+Valor líquido R$ 37.840,00
+Situação PLENO ATENDIMENTO
+Observação
+A glosa do IMR não
+substitui a rejeição/não
+pagamento de parcela não
+executada ou não aceita.
+ID Indicador Meta Peso Fonte Houve falha? Pontos
+IMR-01 Levantamento inicial e diagnóstico Apresentar relatório completo no prazo de até 15 dias úteis do início do contrato. 2 TR 5.1.1.1 a 5.1.1.5; Anexo III Não 0
+IMR-02 PMOC e atualização do histórico Apresentar o PMOC em até 30 dias corridos e mantê-lo atualizado durante a execução. 3 TR 5.3.1.2 a 5.3.1.4; 5.3.2.4 Não 0
+IMR-03 Manutenção preventiva mensal Executar mensalmente a preventiva de todos os equipamentos abrangidos, conforme
+cronograma aprovado. 6 TR 5.3.3.1 Não 0
+IMR-04 Qualidade e registros da preventiva/preditiva Executar o escopo mínimo e registrar atividades, medições, achados e recomendações
+exigidos. 4 TR 5.3.1; 5.3.2; 5.3.3.2; Anexo IV Não 0
+IMR-05 Atendimento corretivo emergencial Atender/iniciar intervenção em até 6 horas da emissão da OS. 6 TR 5.3.5.1; Anexo V Não 0
+IMR-06 Atendimento corretivo prioritário Atender/iniciar intervenção em até 24 horas da emissão da OS. 5 TR 5.3.5.2; Anexo V Não 0
+IMR-07 Atendimento corretivo normal Iniciar intervenção em até 4 dias da emissão da OS. 3 TR 5.3.5.3; Anexo V Não 0
+IMR-08 Providência após diagnóstico e gestão de
+pendências
+Iniciar imediatamente a solução quando possível e registrar impedimentos,
+providências e prazo estimado. 4 TR 5.3.4.2.5 e 5.3.4.2.6; Anexo V Não 0
+IMR-09 Completude da OS corretiva Manter OS com diagnóstico, causa, serviço, materiais/peças, conclusão, responsável e
+teste de funcionamento. 3 TR 5.3.4.2.2 e 5.3.4.2.3; Anexo V Não 0
+IMR-10 Materiais, ferramentas, insumos e gases
+incluídos
+Disponibilizar integralmente os recursos incluídos no preço, sem cobrança adicional
+indevida. 4 TR 5.4 a 5.4.7 Não 0
+IMR-11 Peças de reposição e intervenções corretivas
+não previstas
+Executar somente com diagnóstico e autorização exigidos, observando documentação,
+rastreabilidade e vedação à duplicidade. 4 TR 5.3.5.6; 5.3.6; 5.3.7; Anexo V Não 0
+IMR-12 Qualidade final e ausência de retrabalho
+imputável à contratada
+Entregar serviços aptos ao recebimento, sem vícios, defeitos, danos ou uso de material
+inadequado atribuível à contratada. 4 TR 5.3.5.4.8; critérios de recebimento e pagamento Não 0
+REGRAS DE USO
+1. Marcar “Sim” somente quando houver falha objetivamente comprovada na competência.
+2. Quando uma mesma ocorrência puder enquadrar-se em mais de um indicador, evitar duplicidade e utilizar o indicador mais específico, salvo se houver descumprimentos autônomos.
+
+--- [pag. PDF 2] ---
+PARÂMETROS DO IMR – MANUTENÇÃO DE CLIMATIZAÇÃO
+Pontuação mínima Pontuação máxima Grau Desconto
+0 0 Grau 0 – Pleno atendimento 0%
+1 10 Grau 1 – Falha leve 1%
+11 14 Grau 2 – Falha moderada 2%
+15 18 Grau 3 – Desempenho abaixo do esperado 3%
+19 22 Grau 4 – Desempenho insatisfatório 4%
+23 24 Grau 5 – Desempenho deficiente 6%
+25 30 Grau 6 – Desempenho grave 8%
+31 34 Grau 7 – Desempenho crítico 10%
+Regra Descrição
+Preenchimento A fiscalização preenche somente "Sim" ou "Não" na coluna Houve falha?
+Sim Indica que houve ao menos uma falha no indicador durante a competência avaliada.
+Não Indica que não foi constatada falha no indicador durante a competência avaliada.
+Base do ajuste O percentual do IMR incide sobre a parcela mensal fixa sujeita à medição.
+
+--- [pag. PDF 3] ---
+BASE CONTRATUAL DOS INDICADORES DO IMR
+ID Indicador Meta Peso Fonte no TR/Anexos Critério objetivo de falha
+IMR-01 Levantamento inicial e diagnóstico Apresentar relatório completo no prazo de até 15 dias úteis do início do
+contrato. 2 TR 5.1.1.1 a 5.1.1.5; Anexo III Falha se o relatório não for apresentado no prazo ou estiver
+incompleto quanto às informações exigidas.
+IMR-02 PMOC e atualização do histórico Apresentar o PMOC em até 30 dias corridos e mantê-lo atualizado
+durante a execução. 3 TR 5.3.1.2 a 5.3.1.4; 5.3.2.4
+Falha se o PMOC não for apresentado no prazo, não estiver
+assinado pelo responsável técnico ou não receber os registros
+exigidos.
+IMR-03 Manutenção preventiva mensal Executar mensalmente a preventiva de todos os equipamentos
+abrangidos, conforme cronograma aprovado. 6 TR 5.3.3.1 Falha se algum equipamento devido no período deixar de receber
+a preventiva sem justificativa aceita pela fiscalização.
+IMR-04 Qualidade e registros da
+preventiva/preditiva
+Executar o escopo mínimo e registrar atividades, medições, achados e
+recomendações exigidos. 4 TR 5.3.1; 5.3.2; 5.3.3.2; Anexo IV Falha se a preventiva for executada de forma incompleta ou sem
+os registros técnicos exigidos.
+IMR-05 Atendimento corretivo emergencial Atender/iniciar intervenção em até 6 horas da emissão da OS. 6 TR 5.3.5.1; Anexo V
+Falha se houver OS classificada como emergencial cujo
+atendimento/início da intervenção ultrapasse 6 horas sem causa
+aceita.
+IMR-06 Atendimento corretivo prioritário Atender/iniciar intervenção em até 24 horas da emissão da OS. 5 TR 5.3.5.2; Anexo V
+Falha se houver OS classificada como prioritária cujo
+atendimento/início da intervenção ultrapasse 24 horas sem causa
+aceita.
+IMR-07 Atendimento corretivo normal Iniciar intervenção em até 4 dias da emissão da OS. 3 TR 5.3.5.3; Anexo V Falha se houver OS normal cujo início da intervenção ultrapasse 4
+dias sem causa aceita.
+IMR-08 Providência após diagnóstico e gestão de
+pendências
+Iniciar imediatamente a solução quando possível e registrar
+impedimentos, providências e prazo estimado. 4 TR 5.3.4.2.5 e 5.3.4.2.6; Anexo V
+Falha se houver demora injustificada após o diagnóstico ou
+pendência não registrada com a providência necessária e
+estimativa de conclusão.
+IMR-09 Completude da OS corretiva Manter OS com diagnóstico, causa, serviço, materiais/peças, conclusão,
+responsável e teste de funcionamento. 3 TR 5.3.4.2.2 e 5.3.4.2.3; Anexo V Falha se houver OS encerrada ou apresentada para recebimento
+sem os elementos mínimos exigidos.
+IMR-10 Materiais, ferramentas, insumos e gases
+incluídos
+Disponibilizar integralmente os recursos incluídos no preço, sem
+cobrança adicional indevida. 4 TR 5.4 a 5.4.7
+Falha se a execução for prejudicada por falta de recurso de
+responsabilidade da contratada ou houver tentativa de cobrança
+de item já incluído.
+IMR-11 Peças de reposição e intervenções
+corretivas não previstas
+Executar somente com diagnóstico e autorização exigidos, observando
+documentação, rastreabilidade e vedação à duplicidade. 4 TR 5.3.5.6; 5.3.6; 5.3.7; Anexo V
+Falha se houver fornecimento, execução ou cobrança sem
+autorização exigida, ausência de documentação obrigatória,
+duplicidade de cobrança ou descumprimento da rastreabilidade.
+IMR-12 Qualidade final e ausência de retrabalho
+imputável à contratada
+Entregar serviços aptos ao recebimento, sem vícios, defeitos, danos ou
+uso de material inadequado atribuível à contratada. 4 TR 5.3.5.4.8; critérios de recebimento e pagamento Falha se o serviço for rejeitado ou exigir correção/reexecução por
+vício, defeito, dano ou inadequação imputável à contratada.
