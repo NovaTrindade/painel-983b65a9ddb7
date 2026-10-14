@@ -1,6 +1,6 @@
 {
- "gerado": "2026-10-13T14:45:29.118Z",
- "referencia": "2026-10-13",
+ "gerado": "2026-10-14T05:33:04.550Z",
+ "referencia": "2026-10-14",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
  "regraValor": {
@@ -10,9 +10,9 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2552,
-  "excluidosPorPalavraChave": 1347,
-  "excluidosQueSeriamCandidatos": 109,
+  "universoAberto": 2651,
+  "excluidosPorPalavraChave": 1402,
+  "excluidosQueSeriamCandidatos": 108,
   "custoPorTermo": {
    "aquisicao": 89,
    "fornecimento": 16
@@ -21,18 +21,18 @@
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1098,
-  "candidatos": 107,
-  "itensObtidos": 107,
+  "descartadosPorAderencia": 1136,
+  "candidatos": 113,
+  "itensObtidos": 113,
   "itensFalhou": 0,
-  "foraPorValor": 73,
-  "semValorPublicado": 14,
+  "foraPorValor": 77,
+  "semValorPublicado": 15,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 519,
-    "novos": 519,
+    "total": 544,
+    "novos": 544,
     "paginasOk": 11,
     "paginasFalhas": 0,
     "parcial": false,
@@ -42,8 +42,8 @@
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 20,
-    "novos": 6,
+    "total": 21,
+    "novos": 7,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -53,7 +53,7 @@
    {
     "consulta": "chromebook",
     "linha": "hardware",
-    "total": 13,
+    "total": 14,
     "novos": 6,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -64,8 +64,8 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 231,
-    "novos": 90,
+    "total": 247,
+    "novos": 96,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -75,8 +75,8 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 923,
-    "novos": 549,
+    "total": 966,
+    "novos": 546,
     "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
@@ -86,9 +86,9 @@
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 299,
-    "novos": 69,
-    "paginasOk": 6,
+    "total": 312,
+    "novos": 73,
+    "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -97,8 +97,8 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 155,
-    "novos": 83,
+    "total": 160,
+    "novos": 89,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -108,8 +108,8 @@
    {
     "consulta": "estacoes trabalho",
     "linha": "hardware",
-    "total": 57,
-    "novos": 12,
+    "total": 63,
+    "novos": 15,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -119,8 +119,8 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 303,
-    "novos": 167,
+    "total": 312,
+    "novos": 172,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -130,8 +130,8 @@
    {
     "consulta": "tablets",
     "linha": "hardware",
-    "total": 86,
-    "novos": 17,
+    "total": 92,
+    "novos": 19,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -141,8 +141,8 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 43,
-    "novos": 40,
+    "total": 47,
+    "novos": 44,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -152,8 +152,8 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 145,
-    "novos": 7,
+    "total": 149,
+    "novos": 9,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -163,8 +163,8 @@
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 58,
-    "novos": 1,
+    "total": 60,
+    "novos": 0,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -174,9 +174,9 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 821,
-    "novos": 686,
-    "paginasOk": 17,
+    "total": 854,
+    "novos": 707,
+    "paginasOk": 18,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -196,8 +196,8 @@
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 273,
-    "novos": 90,
+    "total": 285,
+    "novos": 95,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -218,7 +218,7 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 24,
+    "total": 25,
     "novos": 10,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -229,8 +229,8 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 126,
-    "novos": 69,
+    "total": 131,
+    "novos": 75,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -240,7 +240,7 @@
    {
     "consulta": "indexacao documentos",
     "linha": "ged",
-    "total": 21,
+    "total": 22,
     "novos": 2,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -273,7 +273,7 @@
    {
     "consulta": "tratamento arquivistico",
     "linha": "ged",
-    "total": 3,
+    "total": 4,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -284,8 +284,8 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 114,
-    "novos": 55,
+    "total": 125,
+    "novos": 64,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -295,8 +295,8 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 51,
-    "novos": 38,
+    "total": 54,
+    "novos": 41,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -306,8 +306,8 @@
    {
     "consulta": "climatizacao [RJ]",
     "linha": "climatizacao",
-    "total": 13,
-    "novos": 8,
+    "total": 15,
+    "novos": 9,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -317,7 +317,7 @@
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 39,
+    "total": 42,
     "novos": 18,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -339,7 +339,7 @@
    {
     "consulta": "btus [RJ]",
     "linha": "climatizacao",
-    "total": 6,
+    "total": 7,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -353,24 +353,24 @@
   "paginasPerdidas": 0,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 14.7
+  "minutosBusca": 10.3
  },
  "resumo": {
-  "total": 34,
-  "prioridade": 3,
+  "total": 36,
+  "prioridade": 4,
   "avaliar": 9,
   "triar": 8,
-  "semValor": 14,
-  "rj": 5,
-  "urgentes7d": 16,
-  "valorTotal": 99194401.82,
-  "valorRJ": 4607755.2,
-  "valorUrgentes": 46714110.78,
+  "semValor": 15,
+  "rj": 6,
+  "urgentes7d": 17,
+  "valorTotal": 99269237.91,
+  "valorRJ": 4682591.29,
+  "valorUrgentes": 46788946.87,
   "suspeitos": 0,
   "porLinha": {
-   "hardware": 23,
-   "ged": 10,
-   "climatizacao": 3
+   "hardware": 24,
+   "climatizacao": 4,
+   "ged": 10
   }
  },
  "editais": [
@@ -386,7 +386,7 @@
    ],
    "numero": "045",
    "fimVigencia": "2026-10-20T09:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 26590469.76,
    "qtdItens": 4,
    "modulos": [
@@ -421,7 +421,7 @@
    ],
    "numero": "0050",
    "fimVigencia": "2026-10-26T14:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 4198458,
    "qtdItens": 5,
    "modulos": [
@@ -454,7 +454,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-10-27T09:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 4099665.24,
    "qtdItens": 9,
    "modulos": [
@@ -480,6 +480,40 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/83102228000110/2026/111"
   },
   {
+   "id": "42414284000102-2026-217",
+   "orgao": "COLEGIO PEDRO II",
+   "municipio": "Rio de Janeiro",
+   "uf": "RJ",
+   "objeto": "Contratação emergencial, por dispensa de licitação, de serviços de empresa especializada para prestação de serviços de manutenção preventiva e corretiva e serviços correlatos, incluídas instalações e desinstalações, nos aparelhos de ar-condicionado, com assistência técnica e eventual fornecimento de peças, materiais, insumos, componentes de equipamentos e ferramentas necessárias para o bom funcionamento dos sistemas de ar, suprindo demanda do Campus Realengo II",
+   "modalidade": "Dispensa",
+   "linhas": [
+    "climatizacao"
+   ],
+   "numero": "10",
+   "fimVigencia": "2026-10-19T08:00",
+   "diasRestantes": 5,
+   "valorEstimado": 74836.09,
+   "qtdItens": 10,
+   "modulos": [
+    "ar condicionado",
+    "ar-condicionado",
+    "refrigeracao",
+    "btus",
+    "split",
+    "assistencia tecnica",
+    "manutencao preventiva",
+    "prestacao de servicos"
+   ],
+   "ader": 73,
+   "score": 83,
+   "suspeito": [],
+   "semPiso": true,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/42414284000102/2026/217"
+  },
+  {
    "id": "22980973000177-2026-164",
    "orgao": "FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV",
    "municipio": "Belém",
@@ -492,7 +526,7 @@
    ],
    "numero": "29",
    "fimVigencia": "2026-10-16T09:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
@@ -524,7 +558,7 @@
    ],
    "numero": "PE001",
    "fimVigencia": "2026-10-14T16:00",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 678282,
    "qtdItens": 1,
    "modulos": [
@@ -555,7 +589,7 @@
    ],
    "numero": "29",
    "fimVigencia": "2026-10-16T09:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 2115039.96,
    "qtdItens": 10,
    "modulos": [
@@ -586,7 +620,7 @@
    ],
    "numero": "112",
    "fimVigencia": "2026-10-14T09:30",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 7961570.5,
    "qtdItens": 1,
    "modulos": [
@@ -615,7 +649,7 @@
    ],
    "numero": "161",
    "fimVigencia": "2026-10-14T08:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 22846,
    "qtdItens": 1,
    "modulos": [
@@ -644,7 +678,7 @@
    ],
    "numero": "0814.01DIV",
    "fimVigencia": "2026-10-27T09:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 0,
    "qtdItens": 6,
    "modulos": [
@@ -681,7 +715,7 @@
    ],
    "numero": "1526",
    "fimVigencia": "2026-10-22T09:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 3,
    "modulos": [
@@ -713,7 +747,7 @@
    ],
    "numero": "130",
    "fimVigencia": "2026-10-30T08:00",
-   "diasRestantes": 17,
+   "diasRestantes": 16,
    "valorEstimado": 3906627.2,
    "qtdItens": 10,
    "modulos": [
@@ -744,7 +778,7 @@
    ],
    "numero": "71",
    "fimVigencia": "2026-10-27T10:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 10292105.16,
    "qtdItens": 10,
    "modulos": [
@@ -774,7 +808,7 @@
    ],
    "numero": "7",
    "fimVigencia": "2026-10-19T09:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 0,
    "qtdItens": 7,
    "modulos": [
@@ -805,7 +839,7 @@
    ],
    "numero": "PE012",
    "fimVigencia": "2026-10-19T11:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -836,7 +870,7 @@
    ],
    "numero": "158",
    "fimVigencia": "2026-11-03T09:00",
-   "diasRestantes": 21,
+   "diasRestantes": 20,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -871,7 +905,7 @@
    ],
    "numero": "028",
    "fimVigencia": "2026-10-16T08:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -891,6 +925,35 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/02762633000162/2026/67"
   },
   {
+   "id": "05667941000105-2026-38",
+   "orgao": "SUBPREFEITURA DE GUAIANASES",
+   "municipio": "São Paulo",
+   "uf": "SP",
+   "objeto": "SEI 6038.2026/0002998-3 - LOCAÇÃO DE PC´S, TELAS ADICIONAIS E NOTEBOOK´S",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "54",
+   "fimVigencia": "2026-10-29T10:00",
+   "diasRestantes": 15,
+   "valorEstimado": 2284483.2,
+   "qtdItens": 1,
+   "modulos": [
+    "estacao de trabalho",
+    "notebook",
+    "locacao"
+   ],
+   "ader": 50,
+   "score": 62,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/05667941000105/2026/38"
+  },
+  {
    "id": "63325328000106-2026-2",
    "orgao": "MUNICIPIO DE SAO JOAO DO PIAUI - CAMARA MUNICIPAL",
    "municipio": "São João do Arraial",
@@ -902,7 +965,7 @@
    ],
    "numero": "01",
    "fimVigencia": "2026-10-16T09:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -931,7 +994,7 @@
    ],
    "numero": "31",
    "fimVigencia": "2026-10-16T08:59",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -962,7 +1025,7 @@
    ],
    "numero": "0911.01DIV",
    "fimVigencia": "2027-09-18T08:05:45",
-   "diasRestantes": 340,
+   "diasRestantes": 339,
    "valorEstimado": 0,
    "qtdItens": 6,
    "modulos": [
@@ -988,6 +1051,35 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/07598618000144/2026/102"
   },
   {
+   "id": "00037457000170-2026-29",
+   "orgao": "CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL - NOVACAP",
+   "municipio": "Brasília",
+   "uf": "DF",
+   "objeto": "Registro de Preços para a prestação de serviços continuados de outsourcing de impressão, plotagem e cópia, na modalidade franquia mensal de páginas/metro linear acrescida de excedente, com fornecimento de equipamentos, sistema de gerenciamento, manutenção, reposição de peças e insumos, incluindo papel, bem como para a locação de scanners e fragmentadoras de papel, conforme condições, quantidades e exigências estabelecidas no Termo de Referência, Edital e seus anexos.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "PE048",
+   "fimVigencia": "2026-10-29T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 5969100.96,
+   "qtdItens": 2,
+   "modulos": [
+    "outsourcing",
+    "locacao",
+    "prestacao de servicos"
+   ],
+   "ader": 40,
+   "score": 58,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/00037457000170/2026/29"
+  },
+  {
    "id": "45787660000100-2026-317",
    "orgao": "MUNICIPIO DE SUMARE",
    "municipio": "Sumaré",
@@ -999,7 +1091,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-10-20T08:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 2410287.4,
    "qtdItens": 10,
    "modulos": [
@@ -1029,7 +1121,7 @@
    ],
    "numero": "042",
    "fimVigencia": "2026-10-19T08:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 2410287.6,
    "qtdItens": 10,
    "modulos": [
@@ -1059,7 +1151,7 @@
    ],
    "numero": "042",
    "fimVigencia": "2026-10-20T08:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 2410287.6,
    "qtdItens": 10,
    "modulos": [
@@ -1078,33 +1170,32 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/45787660000100/2026/318"
   },
   {
-   "id": "05667941000105-2026-38",
-   "orgao": "SUBPREFEITURA DE GUAIANASES",
-   "municipio": "São Paulo",
-   "uf": "SP",
-   "objeto": "SEI 6038.2026/0002998-3 - LOCAÇÃO DE PC´S, TELAS ADICIONAIS E NOTEBOOK´S",
+   "id": "76105543000135-2026-249",
+   "orgao": "MUNICIPIO DE SAO JOSE DOS PINHAIS",
+   "municipio": "São José dos Pinhais",
+   "uf": "PR",
+   "objeto": "REGISTRO DE PREÇOS para locação de equipamentos tecnológicos Chromebooks e carrinhos de recarga para uso educacional, com o objetivo de apoiar a implementação da Educação Digital nas unidades escolares do Município, com as especificações técnicas mínimas e detalhamentos consignados no Termo de Referência, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
     "hardware"
    ],
-   "numero": "54",
-   "fimVigencia": "2026-10-29T10:00",
-   "diasRestantes": 16,
-   "valorEstimado": 2284483.2,
-   "qtdItens": 1,
+   "numero": "184",
+   "fimVigencia": "2026-10-29T08:29",
+   "diasRestantes": 15,
+   "valorEstimado": 3879234,
+   "qtdItens": 2,
    "modulos": [
-    "estacao de trabalho",
-    "notebook",
+    "chromebook",
     "locacao"
    ],
-   "ader": 50,
-   "score": 56,
+   "ader": 36,
+   "score": 55,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/05667941000105/2026/38"
+   "pncpUrl": "https://pncp.gov.br/app/editais/76105543000135/2026/249"
   },
   {
    "id": "46392072000122-2026-35",
@@ -1118,7 +1209,7 @@
    ],
    "numero": "42",
    "fimVigencia": "2026-10-14T08:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1148,7 +1239,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-10-14T09:59",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1166,61 +1257,34 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/42498600000171/2026/3941"
   },
   {
-   "id": "00037457000170-2026-29",
-   "orgao": "CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL - NOVACAP",
-   "municipio": "Brasília",
-   "uf": "DF",
-   "objeto": "Registro de Preços para a prestação de serviços continuados de outsourcing de impressão, plotagem e cópia, na modalidade franquia mensal de páginas/metro linear acrescida de excedente, com fornecimento de equipamentos, sistema de gerenciamento, manutenção, reposição de peças e insumos, incluindo papel, bem como para a locação de scanners e fragmentadoras de papel, conforme condições, quantidades e exigências estabelecidas no Termo de Referência, Edital e seus anexos.",
+   "id": "14043574000151-2026-391",
+   "orgao": "MUNICIPIO DE FEIRA DE SANTANA",
+   "municipio": "Feira de Santana",
+   "uf": "BA",
+   "objeto": "CONTRATAÇÃO DE SOLUÇÃO INTEGRADA DE LOCAÇÃO (OUTSOURCING) DE IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO CORPORATIVA, COMPREENDENDO A DISPONIBILIZAÇÃO DE EQUIPAMENTOS NOVOS, DE PRIMEIRO USO, DEVIDAMENTE DIMENSIONADOS COM BASE NA VOLUMETRIA DE IMPRESSÃO CONFORME TERMO DE REFERÊNCIA",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware"
+    "hardware",
+    "ged"
    ],
-   "numero": "PE048",
-   "fimVigencia": "2026-10-29T09:00",
-   "diasRestantes": 16,
-   "valorEstimado": 5969100.96,
-   "qtdItens": 2,
+   "numero": "81-2026-PE",
+   "fimVigencia": "2026-10-29T08:00",
+   "diasRestantes": 15,
+   "valorEstimado": 10948733.76,
+   "qtdItens": 10,
    "modulos": [
+    "digitalizacao",
     "outsourcing",
-    "locacao",
-    "prestacao de servicos"
+    "locacao"
    ],
-   "ader": 40,
+   "ader": 26,
    "score": 52,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/00037457000170/2026/29"
-  },
-  {
-   "id": "76105543000135-2026-249",
-   "orgao": "MUNICIPIO DE SAO JOSE DOS PINHAIS",
-   "municipio": "São José dos Pinhais",
-   "uf": "PR",
-   "objeto": "REGISTRO DE PREÇOS para locação de equipamentos tecnológicos Chromebooks e carrinhos de recarga para uso educacional, com o objetivo de apoiar a implementação da Educação Digital nas unidades escolares do Município, com as especificações técnicas mínimas e detalhamentos consignados no Termo de Referência, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "184",
-   "fimVigencia": "2026-10-29T08:29",
-   "diasRestantes": 16,
-   "valorEstimado": 3879234,
-   "qtdItens": 2,
-   "modulos": [
-    "chromebook",
-    "locacao"
-   ],
-   "ader": 36,
-   "score": 49,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/76105543000135/2026/249"
+   "pncpUrl": "https://pncp.gov.br/app/editais/14043574000151/2026/391"
   },
   {
    "id": "57659583000184-2026-43",
@@ -1234,7 +1298,7 @@
    ],
    "numero": "88",
    "fimVigencia": "2026-10-22T08:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1253,36 +1317,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/57659583000184/2026/43"
   },
   {
-   "id": "14043574000151-2026-391",
-   "orgao": "MUNICIPIO DE FEIRA DE SANTANA",
-   "municipio": "Feira de Santana",
-   "uf": "BA",
-   "objeto": "CONTRATAÇÃO DE SOLUÇÃO INTEGRADA DE LOCAÇÃO (OUTSOURCING) DE IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO CORPORATIVA, COMPREENDENDO A DISPONIBILIZAÇÃO DE EQUIPAMENTOS NOVOS, DE PRIMEIRO USO, DEVIDAMENTE DIMENSIONADOS COM BASE NA VOLUMETRIA DE IMPRESSÃO CONFORME TERMO DE REFERÊNCIA",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware",
-    "ged"
-   ],
-   "numero": "81-2026-PE",
-   "fimVigencia": "2026-10-29T08:00",
-   "diasRestantes": 16,
-   "valorEstimado": 10948733.76,
-   "qtdItens": 10,
-   "modulos": [
-    "digitalizacao",
-    "outsourcing",
-    "locacao"
-   ],
-   "ader": 26,
-   "score": 46,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/14043574000151/2026/391"
-  },
-  {
    "id": "27174143000176-2026-70",
    "orgao": "MUNICIPIO DE SAO GABRIEL DA PALHA",
    "municipio": "São Gabriel da Palha",
@@ -1294,7 +1328,7 @@
    ],
    "numero": "000016",
    "fimVigencia": "2027-07-22T12:59",
-   "diasRestantes": 283,
+   "diasRestantes": 282,
    "valorEstimado": 6901883.52,
    "qtdItens": 8,
    "modulos": [
@@ -1324,7 +1358,7 @@
    ],
    "numero": "130",
    "fimVigencia": "2026-10-27T10:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1352,7 +1386,7 @@
    ],
    "numero": "012",
    "fimVigencia": "2026-10-29T09:29",
-   "diasRestantes": 16,
+   "diasRestantes": 15,
    "valorEstimado": 0,
    "qtdItens": 5,
    "modulos": [
@@ -1363,13 +1397,44 @@
     "prestacao de servicos"
    ],
    "ader": 35,
-   "score": 31,
+   "score": 37,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": false,
    "passaPiso": false,
    "semValor": true,
    "pncpUrl": "https://pncp.gov.br/app/editais/01612369000118/2026/41"
+  },
+  {
+   "id": "04628376000104-2026-27",
+   "orgao": "MUNICIPIO DE ITAMARATI",
+   "municipio": "Itamarati",
+   "uf": "AM",
+   "objeto": "[Portal de Compras Públicas] - Registro de preços para eventual prestação de serviços de manutenção preventiva e corretiva de computadores, impressoras e notebook das Secretarias Municipais de Itamarati/AM",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "015",
+   "fimVigencia": "2026-10-23T09:59",
+   "diasRestantes": 9,
+   "valorEstimado": 0,
+   "qtdItens": 10,
+   "modulos": [
+    "notebook",
+    "computador",
+    "manutencao preventiva",
+    "instalacao",
+    "prestacao de servicos"
+   ],
+   "ader": 17,
+   "score": 28,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/04628376000104/2026/27"
   },
   {
    "id": "14105704000133-2026-58",
@@ -1383,7 +1448,7 @@
    ],
    "numero": "006",
    "fimVigencia": "2027-04-28T00:00",
-   "diasRestantes": 197,
+   "diasRestantes": 196,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1411,7 +1476,7 @@
    ],
    "numero": "18",
    "fimVigencia": "2026-10-28T09:30",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
