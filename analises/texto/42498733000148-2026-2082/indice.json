@@ -1,0 +1,42 @@
+{
+ "id": "42498733000148-2026-2082",
+ "extraidoEm": "2026-10-15T11:45:24.822Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/42498733000148/2026/2082",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-4-ESTUDO-TECNICO-PRELIMINAR-LOCACAO-DE-AR-CONDICIONADO.txt",
+   "titulo": "4) ESTUDO TECNICO PRELIMINAR LOCACAO DE AR CONDICIONADO.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 6,
+   "caracteres": 15951
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-13-EDITAL-PE-1770-2026-LOCACAO-E-MANUTENCAO-DE-AR-CONDICIONA.txt",
+   "titulo": "13)EDITAL PE 1770-2026 LOCACAO E MANUTENCAO DE AR CONDICIONADO.pdf",
+   "tipo": "Edital",
+   "paginas": 81,
+   "caracteres": 166192
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-1-ANALISE-DE-RISCOS-LOCACAO-DE-AR-CONDICIONADO-assinado.txt",
+   "titulo": "1) ANALISE DE_RISCOS LOCACAO DE AR CONDICIONADO-assinado.pdf",
+   "tipo": "Mapa de Riscos",
+   "paginas": 6,
+   "caracteres": 10906
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-5-TERMO-DE-REFERENCIA-N-015-LOCACAO-DE-AR-CONDICIONADO.txt",
+   "titulo": "5)TERMO DE REFERENCIA N 015 - LOCACAO DE AR CONDICIONADO.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 10,
+   "caracteres": 19834
+  }
+ ],
+ "totalPaginas": 103,
+ "totalCaracteres": 212883,
+ "comErro": 0
+}

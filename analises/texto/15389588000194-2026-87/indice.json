@@ -1,0 +1,30 @@
+{
+ "id": "15389588000194-2026-87",
+ "extraidoEm": "2026-10-15T11:45:19.974Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/15389588000194/2026/87",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-ANEXO-I-TERMO-DE-REFERENCIA.txt",
+   "titulo": "ANEXO_I-TERMO_DE_REFERENCIA.pdf",
+   "tipo": "Edital",
+   "paginas": 114,
+   "caracteres": 343761
+  },
+  {
+   "ordem": 2,
+   "titulo": "EDITAL_PE_062-2026.doc",
+   "tipo": "Edital",
+   "erro": "formato não suportado"
+  },
+  {
+   "ordem": 3,
+   "titulo": "PROPOSTA_GLOBAL_POR_LOTE_000133.xlsx",
+   "tipo": "Edital",
+   "erro": "formato não suportado"
+  }
+ ],
+ "totalPaginas": 114,
+ "totalCaracteres": 343761,
+ "comErro": 2
+}
