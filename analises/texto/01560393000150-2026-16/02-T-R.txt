@@ -1,0 +1,2243 @@
+=== DOCUMENTO 2: T_R_ ===
+tipo: Outros Documentos | páginas: 64 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/01560393000150/compras/2026/16/arquivos/2
+
+--- [pag. PDF 1] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 1 de 63
+TERMO DE REFERÊNCIA
+1 CONDIÇÕES GERAIS DA CONTRATAÇÃO
+1.1 Contratação de empresa especializada na prestação de serviços de locação de
+notebooks, macbooks e monitores, incluindo assistência técnica on-site e gestão dos
+equipamentos, para atender as necessidades do Departamento Estadual de Trânsito de
+Sergipe - DETRAN/SE, nos termos da tabela abaixo, conforme condições e exigências
+estabelecidas neste instrumento.
+GRUPO ÚNICO
+ITEM ESPECIFICAÇÃO
+UNIDADE
+DE
+MEDIDA
+QUANTIDADE VALOR UNITÁRIO
+MENSAL
+VALOR TOTAL
+MENSAL
+VALOR TOTAL
+ANUAL
+VALOR TOTAL 60
+(SESSENTA)
+MESES
+1 NOTEBOOK
+TIPO I. UND 46 R$ 502,23 R$ 23.102,58 R$ 277.230,96 R$ 1.386.154,80
+2 NOTEBOOK
+TIPO II. UND 60 R$ 513,00 R$ 30.780,00 R$ 369.360,00 R$ 1.846.800,00
+3 MACBOOK. UND 4 R$ 2.557,50 R$ 10.230,00 R$ 122.760,00 R$ 613.800,00
+4 MONITOR TIPO I. UND 50 R$ 194,83 R$ 9.741,50 R$ 116.898,00 R$ 584.490,00
+VALOR TOTAL 60 (SESSENTA) MESES R$ 4.431.244,80
+1.2 O(s) serviço(s) objeto desta contratação são caracterizados como comuns, nos termos
+do artigo 6°, inciso XIII da Lei Federal n° 14.133/2021, uma vez que possui padrões de
+desempenho e qualidade que podem ser objetivamente definidos pelo edital, por meio de
+especificações usuais de mercado.
+1.3 O prazo de vigência da contratação é de 60 (sessenta) meses contados da assinatura
+do Contrato, prorrogável para até 10 anos, na forma dos artigos 120 e 121 da do Decreto
+Estadual n° 342/2023.
+1.3.1 O serviço é enquadrado como continuado tendo em vista que sua interrupção pode
+comprometer as atividades desempenhadas pelo DETRAN/SE, e consequentemente,
+comprometer o alcances das metas institucionais. Trata-se, portanto, de atividade que deve ser
+prestada de maneira contínua, estendendo-se assim por mais de um exercício financeiro, por
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 1 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 2] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 2 de 63
+se tratar de serviços para a manutenção da atividade administrativa, decorrentes de
+necessidades permanentes ou prolongadas, nos termos do 6°, inciso XV da Lei Federal n°
+14.133/2021.
+1.3.2 O prazo de vigência da contratação de 60 (sessenta) é mais vantajoso para
+Administração, tendo em vista que traz economia de escala para o certame, considerando o
+maior aproveitamento da vida útil dos equipamentos e o menor custo de contratação,
+considerando que o licitante amortizará o custo dos equipamentos durante o prazo de vigência
+contratual.
+1.4 O contrato oferece maior detalhamento das regras que serão aplicadas em relação à
+vigência da contratação.
+2 DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERADO O CICLO DE VIDA
+DO OBJETO E ESPECIFICAÇÃO DO PRODUTO
+2.1 Contratação de empresa especializada na prestação de serviços de locação de
+notebooks, macbooks e monitores, incluindo assistência técnica on-site e gestão dos
+equipamentos, para atender as necessidades do Departamento Estadual de Trânsito de
+Sergipe - DETRAN/SE.
+3 FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+3.1 O Departamento Estadual de Trânsito de Sergipe - DETRAN/SE, entidade executiva de
+trânsito do Estado de Sergipe, conforme art. 6° da Lei Estadual n° 5.785/2005, “tem por
+finalidade essencial realizar o planejamento, coordenação, fiscalização, controle e execução da
+política estadual de trânsito, com ênfase na operacionalização de programas e projetos na área
+de educação para condutores e pedestres, com objetivo de, através de ações preventivas,
+reduzir os índices de acidentes de trânsito, oferecendo tranquilidade e segurança à população”.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 2 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 3] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 3 de 63
+3.2 Dentro da sua estrutura interna a Assessoria Geral de Informática - AGIN, é a
+responsável por assessorar na área de informática de acordo com o art. 19 da Lei Estadual n°
+5.785/2005. Compete a AGIN, alinhar as necessidades do DETRAN/SE aos objetivos
+estratégicos da Tecnologia da Informação.
+3.3 O alinhamento estratégico de TI é um processo contínuo de ajustes que as organizações
+utilizam para obter-se a interligação entre os objetivos e estratégias de negócios e os objetivos
+e estratégias da área de TI, com o intuito de obter a maior efetividade nas entregas de TI ao
+negócio.
+3.4 À vista disso, o fortalecimento da Qualidade Tecnológica é fator precípuo e necessário
+para evolução dos objetivos estratégicos da instituição.
+3.5 Além disso, é necessário melhorar a integração entre serviços e áreas internas nos
+novos desafios de gestão, para que a instituição possa crescer, dentro de sua capacidade, de
+maneira orgânica, e seguindo as melhores práticas da Administração Pública Estadual. Isso se
+dá, dentre outras práticas, por meio de serviços de alto nível tecnológico, como arquitetura e
+design de soluções de TI, formalização de metodologias e normas para desenvolvimento,
+automatização de processos, integração e entregas contínuas.
+3.6 Por essa razão, o Departamento Estadual de Trânsito de Sergipe - DETRAN/SE,
+visando atender essa missão, e, por consequência, o interesse público, mantém seu parque
+tecnológico atualizado. Ainda mais com o advento do Decreto n° 26.510 de 01 de outubro de
+2009 e do Art. 5° do Decreto n° 40.588, de 27 de abril de 2020 que implanta o processo digital
+no âmbito da Administração Pública Estadual por meio plataforma e-doc.
+3.7 Para atender essa demanda de tecnologia, o DETRAN/SE possuia o Contrato n°
+005/2021, firmado com a empresa SIMPRESS - COMÉRCIO, LOCAÇÃO E SERVIÇOS LTDA,
+inscrita no CNPJ sob n° 07.432.517/0001-07, que tinha por objeto a locação de computadores
+e outros em geral, através da contratação de empresa especializada em outsourcing (para
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 3 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 4] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 4 de 63
+locação, instalação, configuração, gerenciamento remoto e suporte) dos seguintes
+equipamentos: microcomputadores, notebooks, monitores e servidores com fornecimento de
+hardware, software e suporte técnico, cujo prazo expirou em 08/04/2026.
+3.8 Nestes termos, faz-se necessária nova contratação de equipamentos de informática, a
+fim de garantir que todos os colaboradores do DETRAN/SE tenham as condições para
+desenvolver suas atividades, bem como mitigar o risco de diminuição significativa no
+quantitativo de recursos tecnológicos comportados no Contrato n° 005/2021, já que o mesmo
+se extinguiu.
+4 REQUISITOS DA CONTRATAÇÃO
+Descrição dos serviços/detalhamento do objeto
+4.1 Dos equipamentos
+4.1.1 Os equipamentos deverão ser novos, de primeiro uso, classificados no site do fabricante
+como de uso corporativo (válido apenas nos casos em que o fabricante fizer a distinção entre
+equipamentos de uso corporativo e equipamentos de uso residencial). Será aceita
+comprovação por meio de catálogo oficial do produto ou documento oficial que comprove que o
+equipamento pertence a linha corporativa do fabricante.
+4.1.2 Especificações
+NOTEBOOK TIPO I
+PROCESSADOR
+Processador de no mínimo 12 (doze) núcleos reais;
+Cache de no mínimo 12MB;
+Processador com índice mínimo 16.500 (Dezessete mil e quinhentos) pontos (sem overclock)
+tendo como referência a base de dados Passmark CPU Mark disponível no site:
+http://www.cpubenchmark.net;
+O processador deverá ser compatível com tecnologias de gerenciamento remoto Out Of Band,
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 4 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 5] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 5 de 63
+NOTEBOOK TIPO I
+inclusive em redes sem fio;
+Compatibilidade com Frameworks de Inteligência Artificial (IA);
+Possuir unidade de processamento neural dedicada (NPU), com capacidade para aceleração
+de tarefas relacionadas à inteligência artificial (IA), como processamento de redes neurais e
+aprendizado de máquina;
+Suporte à arquitetura 64 bits;
+Processador disponibilizados no mercado a partir do segundo semestre de 2023.
+MEMÓRIA RAM
+Mínimo de 32 (trinta e dois) GB de RAM;
+Suporte a memórias DDR5 SO-DIMM 4800MHz ou superior;
+O computador deverá suportar expansibilidade de memória total de, no mínimo, 64GB.
+ARMAZENAMENTO
+Interface PCIe NVMe M.2 Gen4X4 ou superior;
+Capacidade de 512GB ou superior.
+TELA
+Deve ser padrão FHD (1920 x 1080) ou superior;
+Deverá possuir diagonal de 14" polegadas de comprimento;
+Antirreflexo.
+WEBCAM
+Webcam integrada ao gabinete do notebook com infravermelho, compatível com Windows
+Hello;
+Resolução mínima de 5MP;
+A câmera deverá possuir recurso de privacidade.
+MOUSE
+Dispositivo apontador sensível ao toque (touchpad), para controle do cursor, inserido no
+gabinete do equipamento;
+Deve suportar gestos multitoque;
+Deve possuir dois botões;
+Deve possuir área de rolagem (scroll) ou rolagem através da função multitoque.
+MOUSE EXTERNO
+Mouse sem fio, com dois botões e rolagem (scroll), do mesmo fabricante do notebook.
+TECLADO
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 5 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 6] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 6 de 63
+NOTEBOOK TIPO I
+Compatível com o padrão ABNT2;
+A impressão sobre as teclas deverá ser do tipo permanente, não podendo apresentar
+desgaste por abrasão ou uso prolongado;
+Deve possuir retroiluminação nas teclas;
+Deve possuir proteção contra derramamento de líquidos.
+TECLADO EXTERNO
+Teclado sem fio, compatível com o padrão ABNT2 do mesmo fabricante do notebook.
+MOCHILA
+Compatível com a dimensão do notebook;
+Sendo do mesmo fabricante;
+Proteção Reforçada, Resistência à Água, Organização Inteligente e Design Sustentável com
+60% de Material Reciclado;
+Tipo de fechamento - Zíper;
+Tipo de alça - De ombro;
+Número de compartimentos - 7;
+Número de bolsos - 7;
+Número de puxadores - 2;
+Capacidade - 21 litros;
+Serão aceitas mochilas de outros fabricantes que apresentem características compatíveis com
+a finalidade pretendida, incluindo resistência à água, sustentabilidade, capacidade adequada
+de armazenamento e organização interna dos acessórios, admitindo-se pequenas variações
+quanto ao número de compartimentos, bolsos ou configuração construtiva, desde que não
+comprometam a funcionalidade do item.
+CONTROLADORA DE VÍDEO
+Controladora gráfica integrada ao processador, capaz de alocar a memória RAM disponível de
+forma dinâmica;
+Deve suportar resolução gráfica, de no mínimo 1920x1080p;
+Deverá ser compatível com DirectX 12 e OpenGL 4.5 ou superior.
+ÁUDIO
+Controladora integrada à placa-mãe, sem adaptações;
+Compatível com o padrão HD Audio Codec;
+Alto-falante integrado ao gabinete, com no mínimo 2Wde potência;
+Não serão aceitas caixas de som externas.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 6 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 7] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 7 de 63
+NOTEBOOK TIPO I
+INTERFACE DE REDE
+WIFI 6E WLAN dual band wireless 802.11ax (2x2);
+Interface de rede padrão Gigabit Ethernet;
+Deverão possuir recursos de Wake on LAN (WOL) e Pré-boot Execution Enviroment (PXE);
+Bluetooth 5.3 ou superior.
+PORTAS DE COMUNICAÇÃO
+Todos os conectores das portas de entrada/saída de sinal integrados à placa-mãe, devem ser
+identificados por nomes ou símbolos;
+Deverá possuir interface de rede com conector padrão RJ45;
+01 (uma) interface de áudio tipo combo jack 3.5mm;
+Possuir 01 (uma) saída HDMI 2.0 ou superior, para uso de 02 (duas) telas simultaneamente
+com opção de modo imagem ou extensão;
+Deverá possuir, no mínimo, 2 portas do tipo USB-A ou superior;
+Deverá possuir, no mínimo, 2 porta do tipo USB-C Thunderbolt 4 com velocidade de no
+mínimo 20Gbps.
+BATERIA
+A bateria deverá ser do tipo Íons de Lítio ou Polímero de Lítio, não removível;
+Deve possuir ao menos 3 (três) células de 47WHr ou superior.
+PLACA-MÃE E BIOS
+Deve ser desenvolvida pelo mesmo fabricante do equipamento, vedado soluções em regime
+OEM ou customizações de nomes, marcas ou inicialização;
+As atualizações da BIOS, quando necessárias, deverão ser disponibilizadas no site do
+fabricante;
+Deverá possuir recursos de controle de permissão através de senhas, uma para inicializar o
+computador e outra para acesso e alterações das configurações do BIOS;
+Ter suporte a tecnologia dual channel para gerenciamento da memória RAM;
+A placa-mãe deverá possuir o número de série e modelo do equipamento registrado na BIOS;
+A placa-mãe deverá possuir memória não volátil, para gravação de informações de inventário
+de hardware (placa-mãe, processador, memória e disco), que sejam acessíveis remotamente
+pela rede;
+Deverá possuir integrado à placa-mãe do computador (on-board), sem adaptações,
+subsistema de segurança TPM (Trusted Platform Module) versão 2.0 ou superior, não sendo
+aceito solução em slot;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 7 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 8] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 8 de 63
+NOTEBOOK TIPO I
+Deverá ser entregue solução que seja capaz de apagar os dados definitivamente contidos nas
+unidades de armazenamento em conformidade com a NIST SP800-88, acessível pela BIOS
+ou acessada pelo menu de boot do equipamento ou alternativamente por sistema bootavel,
+independe de Sistema Operacional;
+O equipamento deve oferecer suporte a KVM remoto (monitor, mouse e teclado) via rede
+cabeada ou sem fio, durante o processo de boot. Quando conectado remotamente, o
+equipamento deve alterar a borda da tela ou possuir um mecanismo de segurança que
+informe ao usuário que o equipamento está sendo acessado;
+Deve incluir recurso de gerenciamento remoto integrado à arquitetura do processador e
+ativado na BIOS, permitindo suporte remoto aos usuários, mesmo em casos de falha no
+sistema operacional, quando o equipamento se torna inutilizável. A plataforma deve permitir os
+administradores gerenciar e reparar computadores remotamente, mesmo quando estão
+desligados ou com o sistema operacional inoperante;
+BIOS desenvolvida pelo mesmo fabricante do equipamento ofertado e em conformidade com
+a especificação UEFI 2.1, comprovada através do site http://www.uefi.org constante na
+categoria PROMOTERS.
+GABINETE E FONTE
+Deve possuir certificado militar MIL-STD-810 para assegurar sua qualidade em uso intensivo;
+Deve possuir leitor de impressão digital;
+Possuir botão liga/desliga;
+Serão aceitas apenas as cores: preta, cinza, prata;
+Fonte de alimentação com seleção automática de tensão entre 110VAC a 240VAC, de no
+mínimo 45W, capaz de sustentar a configuração máxima do computador;
+Deve possuir peso máximo de 1,5Kg;
+Deve possuir luz de indicação de que o equipamento está ligado;
+Slot para trava de segurança.
+SISTEMA OPERACIONAL
+O notebook deverá ser entregue com licença do sistema operacional corporativo MSWindows
+11 Professional 64 bits ou superior;
+O equipamento e todos os seus periféricos deverão ser compatíveis com o sistema
+operacional ofertado;
+Deverá ser disponibilizado acesso pela contratante ao sistema operacional, todos os drivers e
+softwares de configuração e instalação necessários, para a realização de instalações ou
+configurações;
+Possuir solução de segurança baseada em hardware e/ou software, integrada ao
+equipamento, que possua capacidade de micro virtualizar containers, e criar sessões do
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 8 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 9] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 9 de 63
+NOTEBOOK TIPO I
+navegador de internet, de forma completamente isolados do sistema operacional e hardware
+hospedeiro, para navegação nas páginas web (suporte ao menos a Internet Explorer e
+Chrome), evitando que estes ataques tenham a capacidade de explorar vulnerabilidades e
+infectar o sistema/hardware com malwares, vírus ou até mesmos as ameaças do tipo
+ransomware. Este recurso pode ser de terceiros, desde que seja homologado pelo fabricante
+do equipamento, esta comprovação deverá ser apresentada através de carta do fabricante. A
+solução também deverá proteger de forma igual anexos de email (PDF, XLS, DOC, PPT).
+Serão aceitas soluções de segurança nativas ou de terceiros, desde que atendam
+integralmente aos requisitos de segurança estabelecidos no edital e proporcionem nível de
+proteção equivalente ou superior ao exigido;
+Possuir solução para prover proteção em tempo real contra malwares, utilizando tecnologia
+deep learning. Deve funcionar mesmo que desconectado da Internet (offline), sem a
+necessidade de updates frequentes. A solução deverá consumir o mínimo de recursos como
+CPU e memória. A solução deverá identificar o arquivo contaminado e colocar em quarenta de
+forma rápida, abaixo de 12s;
+Possuir solução para instalar remotamente o sistema operacional original do equipamento
+através de uma conexão via Internet segura, realizando uma autenticação segura entre o
+equipamento e a nuvem para iniciar o download e instalação do sistema operacional. A
+conexão poderá ser feita via cabo ethernet ou via Wireless.
+CERTIFICAÇÕES DOS EQUIPAMENTOS
+Os equipamentos devem estar em conformidade com o padrão Energy Star para eficiência de
+consumo elétrico. Serão aceitos certificados nacionais, desde que emitido por de laboratório
+credenciado ao INMETRO;
+O modelo do microcomputador ofertado deverá possuir certificado EPEAT (Eletronic Product
+Environmental Assessment Tool) na categoria Gold ou superior;
+Deve possuir declaração de conformidade com padrões de segurança elétrica,
+IEC60950/EN60950, emitida pelo fabricante, sendo este acreditado por laboratório nacional ou
+internacional em conformidade a ISO/IEC7050;
+O equipamento ofertado deve estar em acordo com as normas de emissão de ruídos para
+ambientes de escritório, ISO 7779 e ISO 9296;
+O computador deve estar em conformidade com o padrão RoHS (Restriction of Hazardous
+Substances), isso é ser construído com materiais que não agridem o meio ambiente;
+O equipamento ofertado deverá constar no Microsoft Windows Catalog (HCL) para o sistema
+operacional solicitado. A comprovação da compatibilidade será efetuada pela apresentação do
+documento Compatibility Test Report, emitido especificamente para o modelo no sistema
+operacional ofertado;
+O equipamento ofertado deverá ser compatível com sistema operacional Linux na distribuição
+Ubuntu, mediante a comprovação por meio de HCL obtido através do site
+https://ubuntu.com/certified;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 9 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 10] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 10 de 63
+NOTEBOOK TIPO I
+Deverá ser apresentado certificado indicando que o fabricante do equipamento é membro do
+consórcio DMTF (Desktop Management Task Force) que especifica o padrão “DMI” de
+gerenciamento. O fabricante deverá ser membro na categoria BOARD ou LEADERSHIP. O
+certificado será conferido através de acesso à página http://www.dmtf.org/about/list;
+A fabricante dos equipamentos deverá possuir o certificado OHSAS 18001 (ISO 45001), para
+garantia de conformidade com o Sistema de Gestão de Segurança e Saúde Ocupacional
+(SGSSO), que visa proteger e assegurar que os colaboradores de uma organização tenham
+um ambiente de trabalho saudável e seguro;
+O fabricante do equipamento deverá ser CSR Gold na ecoVadis (plataforma de classificação
+de sustentabilidade para cadeias de suprimento);
+O fabricante dos equipamentos deve possuir Cadastro Técnico Federal de Atividades
+Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais com código 5-2 (fabricação
+de materiais elétricos, eletrônicos e equipamentos para telecomunicação e informática),
+garantindo, assim, estar em conformidade com as obrigações cadastrais e de prestação de
+informação ambientais sobre as atividades desenvolvidas sob controle e fiscalização da qual
+trata a Instrução Normativa 13, de 23 de agosto de 2021, do IBAMA;
+O monitor e o microcomputador devem possuir certificação de sustentabilidade para produtos
+de TI, que atendem aos requisitos da ISO 14024 comprovado através do site:
+https://tcocertified.com/product-finder;
+Todos os drivers do equipamento deverão ser homologados pela Microsoft com pacotes
+disponíveis para funcionamento no Microsoft Configuration Manager (SCCM), com
+comprovação através do site oficial da Microsoft disponível atualmente no endereço
+eletrônico: https://learn.microsoft.com/en-us/mem/configmgr/sum/deployuse/third-party-
+software-update- catalogs.
+NOTEBOOK TIPO II
+PROCESSADOR
+Processador de no mínimo 10 (Dez) núcleos reais;
+Cache de no mínimo 12MB;
+Processador com índice mínimo 17.000 (Dezessete mil) pontos (sem overclock) tendo como
+referência a base de dados Passmark CPU Mark disponível no site:
+http://www.cpubenchmark.net;
+Compatibilidade com Frameworks de Inteligência Artificial (IA);
+Possuir unidade de processamento neural dedicada (NPU), com capacidade para aceleração
+de tarefas relacionadas à inteligência artificial (IA), como processamento de redes neurais e
+aprendizado de máquina;
+Suporte à arquitetura 64 bits;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 10 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 11] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 11 de 63
+NOTEBOOK TIPO II
+Deverá ter sido lançado a partir de Janeiro de 2025.
+MEMÓRIA RAM
+SDRAM tipo DDR5 ou superior, com capacidade instalada mínima de 16 GB;
+O equipamento deverá possuir capacidade de expansão mínima para 32 GB.
+ARMAZENAMENTO
+1 (uma) unidade de armazenamento em estado sólido (SSD – Solid State Drive) com
+capacidade mínima de 512Gb, interface PCIe NVMe, padrão M.2, compatível com o
+equipamento fornecido.
+PLACA-MÃE
+A placa-mãe deve ser projetada e homologada pelo fabricante do equipamento, podendo ser
+fabricada pelo próprio fabricante ou por terceiros (OEM), desde que devidamente certificada e
+suportada oficialmente pelo fabricante do computador. Não serão aceitas placa de livre
+comercialização, sem homologação ou sem suporte direto do fabricante do equipamento;
+Possuir instruções que implementem extensões de virtualização de I/O;
+Deverá possuir Módulo de Plataforma Confiável (TPM – Trusted Platform Module) em chip
+soldado no equipamento, versão 2.0 ou superior. Não serão aceitas as formas de
+implementação do TPM em firmware.
+INTERFACE DE REDE
+Controladora de rede Ethernet integrada à placa-mãe com interface RJ-45. Alternativamente,
+caso o equipamento não possua interface RJ-45 nativa, deverá ser obrigatoriamente fornecida
+solução oficial do fabricante do equipamento, por meio de adaptador USB-C ou Thunderbolt,
+fornecido juntamente com o equipamento, desde que totalmente compatível e suportado,
+garantindo o pleno funcionamento da interface de rede cabeada;
+A controladora deverá ser compatível com os padrões Ethernet, Fast-Ethernet e Gigabit
+Ethernet (10/100/1000 Mbps), com autosense, full-duplex, plug-and-play e totalmente
+configurável por software. Não serão aceitas soluções baseadas em adaptadores genéricos
+de mercado, sem homologação ou suporte oficial do fabricante do equipamento;
+Controladora de rede wireless integrada, compatível com o padrão IEEE 802.11ax (Wi-Fi 6E
+ou superior), com suporte às bandas de 2,4 GHz e 5 GHz e 6 GHz, com antenas internas
+integradas ao equipamento;
+Possuir bluetooth versão 5.2 ou superior integrado.
+INTERFACE DE GRÁFICOS
+Controladora de vídeo integrada ao processador, com suporte à alocação dinâmica de
+memória compartilhada com a memória principal do sistema, com capacidade mínima de 1GB
+para processamento gráfico;
+Suporte a resolução mínima de 1920x1080, com profundidade de cores de 32bits de forma
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 11 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 12] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 12 de 63
+NOTEBOOK TIPO II
+independente (imagens diferentes em cada monitor), com taxa de atualização mínima de 60
+Hz e padrão plug-and-play;
+Driver de vídeo compatível com WDDM (Windows Display Driver Model) com suporte à API
+Microsoft DirectX 12 ou superior.
+BIOS
+Deve ser do tipo flash EPROM, atualizável por software, compatível com o padrão plug-and-
+play, com suporte a atualização remota por meio de software de gerenciamento. A BIOS deve
+ser homologada e suportada oficialmente pelo fabricante do equipamento, podendo ser
+desenvolvida diretamente por este ou fornecida por terceiros (OEM), desde que devidamente
+certificada. O fabricante do equipamento deverá ser totalmente responsável pelo fornecimento
+e pela atualização da BIOS durante o período de garantia, promovendo as alterações
+necessárias e corrigindo eventuais falhas. A BIOS deverá possuir mecanismo de proteção que
+permita o auto reparo em caso de corrupção, manter cópia de segurança integrada ao
+hardware, permitir controle de permissões de acesso por senha (para inicialização e para
+alteração de configurações), suportar boot por dispositivos USB e por rede, bem como permitir
+a inserção de código de identificação do equipamento (número de patrimônio ou de série).
+Serão aceitas soluções com programação via software desde que devidamente licenciadas,
+fornecidas junto com os drivers e aplicativos do equipamento, podendo também estar
+disponíveis para download no site oficial do fabricante.
+CONEXÕES USB E INTERFACES
+Possuir, no mínimo, 2 (duas) portas USB 3.2 Tipo A ou superior;
+O equipamento deverá possuir, no mínimo, uma (1) porta HDMI, sendo desejável padrão 2.1
+ou superior, e duas (2) portas USB-C com suporte ao modo alternativo DisplayPort (Alt Mode)
+ou tecnologia equivalente e fornecimento de energia (Power Delivery), com velocidade de
+20Gbps ou superior;
+A combinação das interfaces de vídeo deverá permitir a exibição simultânea de imagens
+independentes (modo estendido) no display interno do notebook e em, no mínimo, dois
+monitores externos, com resolução mínima de 1920x1080, podendo, para tal, ser utilizada
+solução de expansão de portas (dock station, replicador de portas ou similar), desde que
+fornecida e homologada pelo fabricante do equipamento, garantindo total compatibilidade,
+suporte técnico e pleno funcionamento das interfaces exigidas;
+Para fins de compatibilidade com o parque tecnológico existente, caso o equipamento não
+disponha de interface VGA nativa, o fornecedor deverá obrigatoriamente fornecer adaptadores
+ou conversores ativos que possibilitem a conexão com monitores que utilizem interface
+analógica VGA, devendo tais acessórios ser do fabricante do equipamento ou por ele
+homologados, garantindo plena compatibilidade e funcionamento;
+1 (um) conector de áudio P2 (3,5 mm) para fone de ouvido e microfone, podendo ser em
+portas separadas ou em conector combinado (combo).
+GABINETE
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 12 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 13] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 13 de 63
+NOTEBOOK TIPO II
+Construído em material de alta resistência mecânica, podendo ser composto por liga metálica,
+polímero técnico ou materiais equivalentes (exemplo: alumínio, magnésio, fibra de vidro ou
+PC/ABS), assegurando durabilidade e confiabilidade para uso corporativo. O equipamento
+deverá atender aos testes de resistência baseados no padrão MIL-STD-810H, comprovado
+por documentação oficial do fabricante ou material técnico do produto;
+Produzido em cores sóbrias, tais como preta, cinza, prata, grafite ou tonalidades equivalentes;
+Deverá possuir botão de liga/desliga e indicador luminoso de funcionamento (poweron),
+localizado no próprio botão ou em área visível do equipamento.
+BATERIA E ENERGIA
+Bateria principal de Íon de Lítio (Lithium-Íon) ou polímero de Lítio com capacidade mínima de
+50Wh, devendo proporcionar autonomia mínima de 5 horas em condições típicas de uso,
+conforme especificações publicadas pelo fabricante do equipamento ou metodologia de
+referência do setor;
+Fonte externa bivolt automática (100 a 240 VAC), frequência 50/60 Hz, com potência
+compatível com a configuração máxima do equipamento fornecido pelo fabricante; Deverá
+acompanhar cabo de alimentação padrão brasileiro ABNT NBR 14136 de 03 pinos, compatível
+com a fonte fornecida;
+O equipamento poderá suportar carregamento por meio de porta USB-C compatível com
+padrão Power Delivery, sem prejuízo do uso da fonte dedicada.
+TELA
+De LED de, no mínimo, 14” polegadas, de formato 16:9 ou 16:10 (widescreen);
+Resolução FHD mínima de 1920x1080, modo de 16.7 milhões de cores;
+Possuir tratamento antirreflexivo.
+PESO
+Máximo de 2,4kg, inclusas a unidade de armazenamento e a bateria principal (sem contar
+acessórios).
+SEGURANÇA
+Deve possuir fenda (slot) de segurança tipo “kensington” ou “noble wedge” ou similar; deve
+ser fornecido cabo com trava de segurança compatível, que não conflite, em termos de
+espaço, com os conectores das interfaces adjacentes.
+MALETA/MOCHILA/CASE
+O equipamento deverá ser fornecido com maleta, mochila ou case apropriado para transporte,
+compatível com o tamanho do notebook, devendo possuir compartimento acolchoado para
+proteção do equipamento e espaço para acomodação da fonte de alimentação e acessórios.
+TECLADO
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 13 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 14] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 14 de 63
+NOTEBOOK TIPO II
+Integrado ao equipamento, preferencialmente retroiluminado, padrão ABNT-2 (Português do
+Brasil), contendo todos os caracteres da língua portuguesa, incluindo “ç”. A identificação dos
+caracteres nas teclas deverá possuir gravação permanente, resistente ao desgaste decorrente
+do uso normal do equipamento. O teclado deverá possuir sistema de proteção contra
+derramamento acidental de líquidos ou solução construtiva equivalente que minimize danos
+ao equipamento.
+MOUSE EXTERNO
+Mouse óptico com 03 (três) botões (incluindo scroll de rolagem), com formato ergonômico e
+conformação ambidestra;
+Tecnologia LED, Laser ou Glass laser (glaser);
+Resolução mínima de 800 dpi;
+Interface USB.
+TOUCHPAD
+Deve possuir touchpad (também chamado de clickpad) com superfície sensível ao toque,
+compatível com gestos multitarefa (como rolagem, clique com dois dedos, zoom, etc.), com
+suporte a, no mínimo, as funções de clique esquerdo e direito;
+Serão aceitos dispositivos com botões físicos separados ou incorporados na própria superfície
+sensível (clickpad unificado), desde que garantam plena funcionalidade e compatibilidade com
+os sistemas operacionais Microsoft Windows 11;
+Tecnologia LED, Laser ou Glass laser (glaser);
+Resolução mínima de 800 dpi;
+Interface USB.
+RECURSOS DE ÁUDIO E VÍDEO
+O equipamento deverá possuir recursos de áudio e vídeo integrados;
+Controladora de áudio integrada compatível com padrão High Definition Audio (HD Audio),
+com alto-falantes estéreo integrados ao equipamento e microfone embutido no gabinete;
+Webcam compatível com tecnologia infravermelho e possua resolução mínima de 5MP,
+possuir maneira física de inibir a imagem capturada a fim de prover privacidade ao usuário;
+A webcam deverá possuir mecanismo físico de privacidade que permita bloquear a captura de
+imagem (privacy shutter), integrado ao projeto original do equipamento e descrito na
+documentação técnica do fabricante. Não serão aceitas adaptações ou acessórios externos
+para esta finalidade.
+SISTEMA OPERACIONAL
+Deverá ser fornecida licença do sistema operacional Microsoft® Windows 11 Professional 64
+bits ou superior, para uso corporativo, em português do Brasil (PTBR) na modalidade OEM,
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 14 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 15] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 15 de 63
+NOTEBOOK TIPO II
+com a respectiva chave de ativação gravada na memória flash da BIOS, reconhecida
+automaticamente na instalação do Sistema Operacional, devidamente licenciado,
+acompanhada de todos os drivers de dispositivos do equipamento fornecido.
+CERTIFICAÇÕES E COMPATIBILIDADE
+Demonstrar (mediante apresentação de catálogos, especificações, manuais, etc) que os
+equipamentos fornecidos, periféricos, acessórios e componentes da instalação não contém
+substâncias perigosas como mercúrio (Hg), chumbo (Pb), cromo hexavalente (Cr(VI)), cádmio
+(Cd), bifenilpolibromados (PBBs), éteres difenilpolibromados (PBDEs) em concentração acima
+da recomendada pela diretiva da Comunidade Econômica Européia Restriction of Certain
+Hazardous Substances RoHS (IN nº 1/2010 – Secretaria de Logística e Tecnologia da
+Informação (SLTI) do Ministério do Planejamento, Orçamento e Gestão);
+Em atendimento às diretrizes da Lei nº 12.305/2010, que institui a Política Nacional de
+Resíduos Sólidos, o fabricante do equipamento ofertado se responsabiliza pelo mecanismo de
+logística reversa. Será apresentada carta do fabricante do equipamento ofertado
+responsabilizando-se, pela logística de coleta, reciclagem e correta destinação dos resíduos
+sólidos;
+Os equipamentos devem estar em conformidade com o padrão Energy Star para eficiência de
+consumo elétrico. Serão aceitos certificados nacionais, desde que emitido por de laboratório
+credenciado ao INMETRO;
+O modelo do microcomputador ofertado deverá possuir certificado EPEAT (Eletronic Product
+Environmental Assessment Tool) na categoria Gold ou superior;
+Deve possuir declaração de conformidade com padrões de segurança elétrica,
+IEC60950/EN60950, emitida pelo fabricante, sendo este acreditado por laboratório nacional ou
+internacional em conformidade a ISO/IEC7050;
+O equipamento ofertado deve estar em acordo com as normas de emissão de ruídos para
+ambientes de escritório, ISO 7779 e ISO 9296;
+O computador deve estar em conformidade com o padrão RoHS (Restriction of Hazardous
+Substances), isso é ser construído com materiais que não agridem o meio ambiente;
+O equipamento ofertado deverá constar no Microsoft Windows Catalog (HCL) para o sistema
+operacional solicitado. A comprovação da compatibilidade será efetuada pela apresentação do
+documento Compatibility Test Report, emitido especificamente para o modelo no sistema
+operacional ofertado;
+Deverá ser apresentado certificado indicando que o fabricante do equipamento é membro do
+consórcio DMTF (Desktop Management Task Force) que especifica o padrão “DMI” de
+gerenciamento. O fabricante deverá ser membro na categoria BOARD ou LEADERSHIP. O
+certificado será conferido através de acesso à página http://www.dmtf.org/about/list;
+A fabricante dos equipamentos deverá possuir o certificado OHSAS 18001 (ISO 45001), para
+garantia de conformidade com o Sistema de Gestão de Segurança e Saúde Ocupacional
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 15 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 16] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 16 de 63
+NOTEBOOK TIPO II
+(SGSSO), que visa proteger e assegurar que os colaboradores de uma organização tenham
+um ambiente de trabalho saudável e seguro;
+O fabricante do equipamento deverá ser CSR Gold na ecoVadis (plataforma de classificação
+de sustentabilidade para cadeias de suprimento);
+O fabricante dos equipamentos deve possuir Cadastro Técnico Federal de Atividades
+Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais com código 5-2 (fabricação
+de materiais elétricos, eletrônicos e equipamentos para telecomunicação e informática),
+garantindo, assim, estar em conformidade com as obrigações cadastrais e de prestação de
+informação ambientais sobre as atividades desenvolvidas sob controle e fiscalização da qual
+trata a Instrução Normativa 13, de 23 de agosto de 2021, do IBAMA;
+O monitor e o microcomputador devem possuir certificação de sustentabilidade para produtos
+de TI, que atendem aos requisitos da ISO 14024 comprovado através do site:
+https://tcocertified.com/product-finder;
+Todos os drivers do equipamento deverão ser homologados pela Microsoft com pacotes
+disponíveis para funcionamento no Microsoft Configuration Manager (SCCM), com
+comprovação através do site oficial da Microsoft disponível atualmente no endereço
+eletrônico: https://learn.microsoft.com/en- us/mem/configmgr/sum/deployuse/third-party-
+software-update-catalogs.
+MACBOOK
+Chip M4 da Apple;
+CPU de 10 núcleos (4 de desempenho e 6 de eficiência);
+GPU de 8 núcleos, GPU de 10 núcleos;
+Traçado de raios acelerado por hardware;
+Neural Engine de 16 núcleos;
+120 GB/s de largura de banda da memória.
+MEMÓRIA
+Memória unificada de 16 GB.
+ARMAZENAMENTO
+SSS 512 GB.
+MONITOR TIPO I
+TECNOLOGIA DE TELA
+Matriz ativa retroiluminada por LEDs;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 16 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 17] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 17 de 63
+MONITOR TIPO I
+Tratamento antirreflexo;
+Painel IPS ou VA.
+TAMANHO E FORMATO
+Tela curva;
+Ultrawide;
+Mínimo de 34 polegadas.
+AJUSTES E CONTROLES
+Controle digital de brilho, cores e contraste (OSD), com menu em português ou inglês e
+ajustes via botões físicos. Brilho mínimo: 250 cd/m2; contraste mínimo: 1000:1. Será exigida
+verificação do OSD na entrega;
+Controles mínimos (linguagem, nitidez/contraste/ brilho/ saturação/gama/presets);
+Função de reset para padrão de fábrica.
+CORES
+Capacidade de exibir no mínimo 16 milhões de cores.
+AJUSTES FÍSICOS
+Ajuste de altura;
+Ajuste de inclinação.
+BRILHO E CONTRASTE
+Brilho mínimo de 250 cd/m2;
+Aumento de brilho deve resultar em maior nitidez, sem opacidade;
+Contraste mínimo de 1000:1.
+TEMPO DE RESPOSTA
+8 ms ou inferior.
+QUALIDADE DE IMAGEM
+Ajuste de brilho não deve causar distorção ou borrões acentuados;
+Imagem sem distorções: sem contornos desalinhados ou afunilamento dos cantos.
+FONTE DE ALIMENTAÇÃO
+Bivolt automático (110/220 V);
+Fonte de alimentação interna.
+ENTRADAS DE VÍDEO
+Mínimo de 2 entradas digitais: HDMI e/ou DisplayPort.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 17 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 18] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 18 de 63
+MONITOR TIPO I
+CABOS E ACESSÓRIOS
+Cabo de vídeo digital sem necessidade de adaptadores;
+HDMI ou DisplayPort;
+Cabo de alimentação;
+Softwares necessários à operacionalização.
+RESOLUÇÃO E FREQUÊNCIA
+Resolução mínima de 3440 x 1440 pixels;
+Frequência mínima de 60 Hz;
+Todos os monitores fornecidos devem ser novos e do mesmo fabricante garantindo
+padronização do parque.
+4.2 Da garantia e da assistência técnica
+4.2.1 O período de Garantia Técnica, incluindo a bateria, deve ter o mínimo de 60 (sessenta)
+meses on-site. Caso o vencedor do certame seja, também, o fabricante dos equipamentos, os
+serviços relacionados à garantia e assistência técnica poderão ser executados por sua rede
+credenciada, permanecendo a licitante vencedora totalmente responsável por tais serviços.
+4.2.2 Durante a vigência do contrato, a CONTRATADA deverá prestar serviço de assistência
+técnica aos equipamentos contratados, por meio de suporte técnico remoto e presencial, sem
+ônus para o CONTRATANTE.
+4.2.3 Entende-se por assistência técnica a série de procedimentos destinados a sanar
+problemas no uso dos equipamentos, compreendendo substituição de peças e mão de obra, de
+acordo com os manuais e normas técnicas específicas para os equipamentos. Compreende a
+correção de problemas preestabelecidos e qualquer outro problema que venha a ocorrer
+durante o prazo de vigência do contrato, ressalvados os casos comprovadamente de mau uso,
+dolo ou negligência do CONTRATANTE, competindo à CONTRATADA comprovar por meio de
+laudo técnico a ser apreciado pelo Gestor/Fiscal do Contrato.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 18 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 19] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 19 de 63
+4.2.4 A assistência técnica será executada sob demanda, por meio da abertura de Ordens de
+Serviço (OS), e deverá estar disponível de segunda a sexta-feira, em dias úteis e horário
+comercial.
+4.2.5 A assistência técnica deverá ser do tipo on-site e deverá ser prestada pela
+CONTRATADA por meio de sua rede de assistências técnicas autorizadas.
+4.2.6 Nos casos em que não seja possível realizar a manutenção no local de instalação do
+equipamento, este deverá ser substituído por outro equivalente ou superior e em perfeito
+estado de funcionamento, em caráter temporário, até que a manutenção seja finalizada e o
+equipamento original seja reinstalado ou substituído definitivamente, sem ônus para o
+CONTRATANTE. Faculta-se à CONTRATADA, em caso de necessidade de substituição de
+equipamentos, a opção de realizá-la em caráter definitivo.
+4.2.7 A atuação da equipe técnica da CONTRATADA deve ocorrer de modo a causar o mínimo
+de interferência no ambiente e na rotina de seus ocupantes ou usuários. Os ambientes devem
+ser mantidos em perfeitas condições de higiene e segurança. Após a conclusão dos serviços, a
+equipe da CONTRATADA deverá efetuar limpeza geral no ambiente, caso ele tenha sido
+afetado por sua atuação.
+4.2.8 As peças e os componentes destinados à reparação dos produtos em manutenção
+deverão ser novos e originais ou, no caso de não serem originais, atender as especificações
+técnicas do fabricante.
+4.2.9 A CONTRATADA fica obrigada, durante o período de vigência do contrato, em caso de
+necessidade de substituição de produtos ou componentes que não mais existam no mercado,
+ou que estejam fora de linha de fabricação em razão de evolução tecnológica, ou ainda que por
+qualquer outro motivo o fabricante não mais os produza, a proceder à substituição por produtos
+ou componentes tecnologicamente equivalentes ou superiores.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 19 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 20] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 20 de 63
+4.2.10 A CONTRATADA deverá promover a substituição de equipamentos que
+apresentarem falhas recorrentes mais de 02 (duas) ocorrências do mesmo problema num
+intervalo de 30 (trinta) dias corridos para análise da causa raiz e resolução definitiva do
+problema.
+4.2.11 A CONTRATADA é responsável pelo fornecimento/instalação/reinstalação de
+todos os drivers necessários à instalação do Sistema Operacional, referente aos equipamentos
+ofertados.
+4.2.12 Em caso de problemas relacionados à unidade de armazenamento ou ao Sistema
+Operacional, é responsabilidade da CONTRATADA realizar a restauração do Sistema
+Operacional, se necessário. Caso seja possível copiar os dados dos usuários armazenados na
+unidade de armazenamento (backup), essa tarefa será de responsabilidade da CONTRATADA
+(apenas à cópia dos arquivos, sem incluir a migração de dados de programas).
+4.2.13 No primeiro ano de vigência do contrato, caso sejam identificados problemas em
+um mesmo dispositivo (ex.: placa de rede, fonte de alimentação ou memória) em mais de 20%
+(vinte por cento) dos equipamentos, a CONTRATADA estará obrigada a substituir o dispositivo
+correspondente em todos os equipamentos entregues ao CONTRATANTE, no prazo máximo
+de 90 (noventa) dias, contados a partir da data da comunicação.
+4.2.14 Não fazem parte dos serviços da CONTRATADA, a remoção de vírus, a
+instalação/suporte a softwares aplicativos e o suporte ao uso do Sistema Operacional.
+4.2.15 Problemas decorrentes de acidentes elétricos, oscilações de energia, surtos de
+tensão, aterramento e infraestrutura inadequada, assim como intempéries ou o mau uso do
+equipamento, não serão cobertos pela assistência técnica, desde que tais ocorrências sejam
+devidamente comprovadas por laudo técnico emitido pela CONTRATADA.
+4.2.16 A CONTRATADA responsabilizar-se-á pela substituição, sendo de sua
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 20 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 21] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 21 de 63
+responsabilidade as despesas de deslocamento de técnicos, desinstalação, transporte,
+reinstalação e outras decorrentes da atividade, sem ônus para o CONTRATANTE.
+4.2.17 A CONTRATADA é responsável pela realização de todos os procedimentos
+necessários à substituição, não cabendo ônus ao CONTRATANTE nos casos de haver danos
+no equipamento decorrentes da realização da atividade.
+4.2.18 Os equipamentos utilizados na substituição deverão ser identificados
+(etiqueta/placa de identificação) nos mesmos moldes dos equipamentos fornecidos
+originalmente na solução.
+4.2.19 A substituição poderá ser temporária ou definitiva. Em ambos os casos, o
+equipamento substituto deverá ser equivalente ou superior ao equipamento original e estar em
+perfeito estado de funcionamento. Na substituição temporária, não será exigido que o
+equipamento substituto seja novo, de primeiro uso. No caso de substituição definitiva, esta
+deverá ser por um equipamento novo, de primeiro uso.
+4.2.20 As partes deverão determinar a formalização necessária à retirada de
+equipamentos do ambiente do CONTRATANTE pela equipe técnica da CONTRATADA.
+4.2.21 Os equipamentos substitutos deverão ser mantidos nos moldes dos
+equipamentos fornecidos originalmente na solução.
+4.2.22 Da unidade de armazenamento
+4.2.22.1 Em caso de necessidade de troca da unidade de armazenamento por falha, a
+CONTRATADA deverá se responsabilizar pela destruição dos dados do usuário, de forma
+definitiva e irrecuperável, ou deixar a unidade defeituosa em posse do CONTRATANTE, por
+medida de segurança e confidencialidade de informações.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 21 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 22] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 22 de 63
+4.2.22.2 Nos casos em que a unidade de armazenamento não apresente falha, mas o
+equipamento com defeito tenha que ser removido para manutenção, a CONTRATADA deverá,
+mediante solicitação do CONTRATANTE, instalar a unidade de armazenamento original na
+máquina substituta. A instalação da unidade de armazenamento deverá ser realizada no local
+onde o equipamento encontra-se instalado.
+4.2.22.3 Caso não seja possível instalar a unidade de armazenamento original na máquina
+substituta, a CONTRATADA deverá, mediante solicitação do CONTRATANTE, realizar a cópia
+dos arquivos dos usuários para o novo equipamento (apenas à cópia dos arquivos, sem incluir
+a migração de dados de programas).
+4.3 Gestão do parque
+4.3.1 A LICITANTE deverá possuir ferramenta própria web que permita a abertura e
+acompanhamento de chamados técnicos de qualquer natureza, permitindo a criação de níveis
+de acesso e administração por usuários;
+4.3.2 O sistema deverá permitir o acompanhamento de evolução e detalhado dos incidentes e
+solicitações de apoio em aberto ou concluídas, por períodos;
+4.3.3 O sistema deverá permitir o acompanhamento do inventário completo dos equipamentos
+instalados;
+4.3.4 O sistema deverá permitir o controle do departamento onde o equipamento está
+alocado, o centro de custo ao qual ele pertence, o contato do responsável pela fiscalização da
+execução contratual e mostrar a produção média de cada equipamento;
+4.3.5 Permitir que os usuários efetuem consultas, via WEB, sobre a situação (status) dos seus
+chamados técnicos ou pedidos e que eles possam incluir ou solicitar informações adicionais;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 22 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 23] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 23 de 63
+4.3.6 Permitir emissão de consulta relativa à quantidade de chamados abertos, com
+possibilidade de filtrar por data e status do chamado;
+4.3.7 O sistema deverá disponibilizar todas as suas funcionalidades operacionais através da
+WEB (Internet e Intranet) e estar em língua portuguesa;
+4.3.8 Chat online para atendimento, com tempo de resposta inferior a 60 segundos, sendo
+aceito sistema de chatbot;
+4.3.9 O sistema deverá disponibilizar API para integração com o sistema de chamados desta
+Administração;
+4.3.10 O sistema deverá possibilitar a extração de relatório com detalhamento do
+monitoramento dos equipamentos contendo mapa com visualização por localidade e tipo de
+equipamento;
+4.3.11 O sistema deverá ter informações de Faturamento, disponibilizando a
+CONTRATANTE relatórios de Pré-faturamento para Aprovação, assim como as Notas Fiscais;
+4.3.12 O sistema deve permitir o envio de Pesquisa de Satisfação. Após a solução do
+chamado, o solicitante poderá avaliar o atendimento, através do preenchimento da pesquisa de
+satisfação pós serviços, que deverá ser encaminhada automaticamente através da ferramenta
+de chamados/suporte da contratada, a cada chamado fechado; Deve ser disponibilizado a
+CONTRATANTE relatórios com indicadores de SLA, contendo informações de quantidade de
+chamados técnicos, e definindo aqueles que foram atendidos dentro do prazo de SLA exigidos
+pela Administração;
+4.3.13 O sistema deverá dispor de repositório de arquivos, onde a CONTRATANTE
+poderá segregar o acesso por níveis hierárquicos. Este repositório deverá ser capaz de
+armazenar e disponibilizar arquivos de extensões PDF, DOC, DOCX, XLX, XLSX, PPT e PPTX.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 23 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 24] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 24 de 63
+4.4 SLA e coberturas por dano acidental, furto e roubo
+4.4.1 Manutenção corretiva em caso de defeitos apresentados por mau uso, danos acidentais,
+ações do tempo, furto ou roubo, incluindo a substituição de peças ou do equipamento por
+novos do mesmo modelo ou superiores, de forma a garantir o pleno funcionamento dos
+produtos locados;
+4.4.2 Central para atendimento das solicitações de manutenção corretiva e suporte técnico em
+regime 24 (vinte e quatro) horas, 07 (sete) dias por semana, 365 (trezentos e sessenta e cinco)
+dias por ano, incluindo software de gestão de chamados próprio para registro, histórico e
+relatório dos atendimentos, com portal interativo para acesso e dois canais de comunicação: e-
+mail e telefone, sem limite de atendimentos.
+4.5 Nível de serviço por disponibilidade
+4.5.1 Atender 95% de disponibilidade do parque.
+DISPONIBILIDADE DOS
+EQUIPAMENTOS (%)
+DESCONTO SOBRE O
+ALUGUEL DOS
+EQUIPAMENTOS
+AFETADOS
+≥ 95% Sem penalidade.
+94,9% a 91% 1% sobre o valor mensal.
+90,9% a 88,5% 2% sobre o valor mensal.
+88,4% a 85% 3,5% sobre o valor mensal.
+≤ 84,9% 5% sobre o valor mensal.
+4.6 Gestão de ativos
+4.6.1 A CONTRATADA deverá realizar um inventário detalhado de hardware e software dos
+equipamentos contratados, incluindo informações como especificações técnicas, número de
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 24 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 25] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 25 de 63
+série, número e vigência do contrato de locação, data de início e término, e local de instalação;
+4.6.2 O inventário deverá ser realizado por meio de ferramenta automatizada fornecida pela
+CONTRATADA, sem custos adicionais ao CONTRATANTE;
+4.6.3 A ferramenta de inventário deverá permitir a inclusão de campos customizados para a
+inserção de dados adicionais;
+4.6.4 A CONTRATADA deverá disponibilizar uma etiqueta virtual na área de trabalho dos
+usuários, visível como uma marca d'água, com as seguintes informações mínimas:
+a) Nome do computador;
+b) Endereço IP;
+c) Endereço MAC;
+d) Domínio de login.
+4.6.5 As informações da etiqueta virtual deverão ser atualizadas a cada login do usuário.
+Identificação de equipamentos inativos (sem comunicação com a console de monitoramento)
+por mais de 30 dias corridos;
+4.6.6 Alertas de adição, alteração ou remoção de hardware;
+4.6.7 Identificação de equipamentos ociosos ou com baixa utilização;
+4.6.8 A ferramenta de gestão deverá ser capaz de gerar dashboards dinâmicos para a
+visualização de dados;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 25 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 26] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 26 de 63
+4.6.9 A CONTRATADA deverá customizar relatórios específicos para serem apresentados nos
+dashboards conforme as necessidades do CONTRATANTE;
+4.6.10 O monitoramento deverá ser feito por software específico, utilizando agentes
+instalados nos equipamentos;
+4.6.11 Caberá à CONTRATADA a instalação do agente de inventário e monitoramento
+em todos os ativos contratados;
+4.6.12 A solução deverá ser baseada em arquitetura cliente-servidor, com possibilidade
+de monitoramento remoto via console de gerenciamento web;
+4.6.13 A CONTRATADA deverá oferecer serviço de análise de dados para cruzamento
+de informações relevantes à gestão de TI do CONTRATANTE;
+4.6.14 Deverá ser prestado serviço de geolocalização aproximada dos equipamentos
+contratados, utilizando tecnologia de GeoIP ou similar;
+4.6.15 Deverá ser possível configurar limites geográficos para uso dos equipamentos
+(Cerca Eletrônica), com alertas em caso de saída dos limites pré-definidos;
+4.6.16 Deverá ser possível rastrear os equipamentos contratados conectados à internet
+e com a imagem original instalada;
+4.6.17 A visualização da última localização reportada deverá estar disponível em um
+mapa na ferramenta.
+4.7 Gestão de imagens
+4.7.1 As características de cada imagem serão confirmadas em reunião de alinhamento entre
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 26 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 27] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 27 de 63
+o CONTRATANTE e a CONTRATADA;
+4.7.2 O processo de criação e replicação das imagens deverá ser realizado nas dependências
+da CONTRATADA ou do fabricante;
+4.7.3 A CONTRATADA deverá manter uma cópia de segurança (backup) das imagens em
+suas instalações durante toda a vigência do Contrato;
+4.7.4 O CONTRATANTE disponibilizará todos os softwares e suas respectivas licenças de uso
+para confecção da imagem, a exceção do sistema operacional e drivers de dispositivos;
+4.7.5 A CONTRATADA deverá encaminhar ao CONTRATANTE uma amostra de todas as
+imagens, incluindo os respectivos softwares e licenças de uso, para validação prévia. Somente
+após validação e autorização por parte do CONTRATANTE, a CONTRATADA poderá dar
+seguimento à replicação das imagens nos equipamentos incluídos nos serviços contratados;
+4.7.6 Em caso de problemas, a CONTRATADA deverá refazer a imagem e encaminhar ao
+CONTRATANTE até que seja emitido parecer favorável;
+4.7.7 A CONTRATADA executará o processo de replicação de imagens conforme cronograma
+previsto e acordado com o CONTRATANTE;
+4.7.8 Caso solicitado pelo CONTRATANTE, a CONTRATADA deverá atualizar a imagem
+(geração de nova imagem);
+4.7.9 A imagem fornecida pela CONTRATADA deverá permitir a ativação do sistema
+operacional por meio da leitura da chave armazenada no BIOS.
+4.8 Sanitização de dados
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 27 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 28] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 28 de 63
+4.8.1 Durante a desinstalação dos equipamentos locados, a equipe técnica do fornecedor
+executará o software de sanitização em todos os equipamentos contratados. Cada dispositivo
+sanitizado gerará, de forma automática, um relatório com dados do hardware, informações
+sobre o processo de sanitização e informações do provedor do serviço. Os relatórios ficarão
+disponíveis para consulta, validação e controle da entidade durante o contrato e serão
+encaminhados no seu encerramento.
+Vistoria
+4.9 Não há necessidade de realização de avaliação prévia do local de execução dos
+serviços.
+Sustentabilidade
+4.10 Além dos critérios de sustentabilidade eventualmente inseridos na descrição do objeto,
+devem ser atendidos, no que couber, os requisitos do art. 7° do Decreto Estadual n° 622/2024
+que institui o Programa Estadual de Contratações Públicas Sustentáveis e do Guia Nacional de
+Contratações Sustentáveis.
+4.11 A empresa contratada será responsável pelo recolhimento, descarte e gerenciamento
+adequado dos dispositivos utilizados e dos resíduos gerados. Esses resíduos devem ser
+tratados de maneira ambientalmente responsável, em conformidade com a legislação
+ambiental vigente.
+4.12 A abertura de chamados técnicos e o encaminhamento de demandas, assim como todos
+os relatórios e documentos produzidos, devem ser realizados de forma eletrônica. Além disso
+as configurações de hardware e software devem ser otimizadas para garantir alto desempenho,
+com uso eficiente de energia, evitando sobrecarga de equipamentos ou dispositivos elétricos.
+4.13 A contratada deverá ser responsável pela neutralização parcial ou total dos gases de
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 28 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 29] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 29 de 63
+efeito estufa (CO2) emitido pelos dispositivos disponibilizados pelo período contratual, além de
+fornecer os meios necessários que comprove o processo de neutralização, com todos os
+certificados comprobatórios das práticas utilizadas para a compensação de CO2.
+4.14 O programa utilizado para neutralização e/ou compensação de CO2 deve seguir as boas
+práticas ambientais, além de obrigatoriamente fornecer a contratante, laudos técnicos como
+FSC e/ou Ibama;
+4.15 A qualquer momento, a contratante poderá realizar auditoria local para validação do
+programa.
+Subcontratação
+4.16 Não é admitida a subcontratação do objeto contratual.
+Garantia da Contratação
+4.17 Será exigida a garantia da contratação de que tratam os arts. 96 e seguintes da Lei n°
+14.133, de 2021, com validade durante a execução do contrato e 90 (noventa) dias após
+término da vigência contratual, podendo o Contratado optar pela caução em dinheiro ou em
+títulos da dívida pública, seguro-garantia, fiança bancária ou título de capitalização, em valor
+correspondente a 5% (cinco por cento) do valor total da contratação.
+4.18 Em caso de opção pelo seguro-garantia, a parte adjudicatária deverá apresentá-la, no
+máximo, até a data de assinatura do contrato.
+4.18.1 A apólice de seguro-garantia permanecerá em vigor mesmo que o Contratado não
+pague o prêmio nas datas convencionadas.
+4.18.2 Caso o adjudicatário não apresente a apólice de seguro de garantia antes da
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 29 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 30] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 30 de 63
+assinatura do contrato, ocorrerá a preclusão do direito de escolha dessa modalidade de
+garantia.
+4.18.3 A apólice de seguro-garantia deverá acompanhar as modificações referentes à
+vigência do contrato principal mediante a emissão do respectivo endosso pela seguradora.
+4.18.4 Será permitida a substituição da apólice de seguro-garantia na data de renovação
+ou de aniversário, desde que mantidas as condições e coberturas da apólice vigente e nenhum
+período fique descoberto, ressalvados os períodos de suspensão contratual.
+4.18.5 Caso o adjudicatário não opte pelo seguro-garantia ou não apresente a apólice de
+seguro de garantia antes da assinatura do contrato, deverá apresentar, no prazo máximo de 10
+(dez) dias úteis, prorrogáveis por igual período, a critério do Contratante, contado da assinatura
+do contrato, comprovante de prestação de garantia nas modalidades de caução em dinheiro ou
+títulos da dívida pública, fiança bancária ou títulos de capitalização.
+4.19 Caso seja a garantia em dinheiro a modalidade de garantia escolhida pelo Contratado,
+deverá ser efetuada em favor do Contratante, em conta específica na Caixa Econômica
+Federal, com correção monetária.
+4.20 Caso a opção seja por utilizar títulos da dívida pública, estes devem ter sido emitidos
+sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia
+autorizado pelo Banco Central do Brasil, e avaliados pelos seus valores econômicos, conforme
+definido pelo Ministério competente.
+4.21 No caso de garantia na modalidade de fiança bancária, deverá ser emitida por banco ou
+instituição financeira devidamente autorizada a operar no País pelo Banco Central do Brasil, e
+deverá constar expressa renúncia do fiador aos benefícios do artigo 827 do Código Civil.
+4.22 Na hipótese de opção pelo título de capitalização, a garantia deverá ser custeada por
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 30 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 31] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 31 de 63
+pagamento único, com resgate pelo valor total, sob a modalidade de instrumento de garantia,
+emitido por sociedades de capitalização regulamente constituídas e autorizadas pelo Governo
+Federal.
+4.22.1 O título de capitalização deverá ser apresentado ao Contratante com as
+condições gerais e o número do processo administrativo sob o qual o plano de capitalização foi
+aprovado pela Susep (art. 8°, III, da Circular SUSEP n° 656, de 11 de março de 2022).
+4.23 A garantia assegurará, qualquer que seja a modalidade escolhida, sob pena de não
+aceitação, o pagamento de:
+4.23.1 Prejuízos advindos do não cumprimento do objeto do contrato e do não
+adimplemento das demais obrigações nele previstas;
+4.23.2 Multas moratórias e punitivas aplicadas pela Administração à contratada; e
+4.23.3 Obrigações trabalhistas e previdenciárias de qualquer natureza e para com o
+FGTS, não adimplidas pelo Contratado.
+4.24 Em caso de seguro-garantia, a apólice deverá ter cobertura para pagamento direto ao
+empregado após decisão definitiva em processo administrativo que apure montante líquido e
+certo a ele devido em razão de inadimplência do Contratado, independentemente de trânsito
+em julgado de decisão judicial.
+4.25 No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia
+deverá ser ajustada ou renovada, no prazo máximo de 10 (dez) dias úteis, prorrogáveis por
+igual período, contado da data de assinatura do termo aditivo ou da emissão do apostilamento,
+seguindo os mesmos parâmetros utilizados quando da contratação.
+4.26 Na hipótese de suspensão do contrato por ordem ou inadimplemento da Administração,
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 31 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 32] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 32 de 63
+o Contratado ficará desobrigado de renovar a garantia ou de endossar a apólice de seguro até
+a ordem de reinício da execução ou o adimplemento pela Administração.
+4.27 Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer
+obrigação, o Contratado obriga-se a fazer a respectiva reposição no prazo máximo de 10 (dez)
+dias úteis, prorrogáveis por igual período, a critério do Contratante, contados da data em que
+for notificada.
+4.28 O Contratante executará a garantia na forma prevista na legislação que rege a matéria.
+4.28.1 O emitente da garantia ofertada pelo Contratado deverá ser notificado pelo
+Contratante quanto ao início de processo administrativo para apuração de descumprimento de
+cláusulas contratuais.
+4.28.2 Caso se trate da modalidade seguro-garantia, ocorrido o sinistro durante a
+vigência da apólice, sua caracterização e comunicação poderão ocorrer fora desta vigência,
+não caracterizando fato que justifique a negativa do sinistro, desde que respeitados os prazos
+prescricionais aplicados ao contrato de seguro, nos termos do art. 20 da Circular Susep n° 662,
+de 11 de abril de 2022.
+4.29 Extinguir-se-á a garantia com a restituição da carta fiança, autorização para a liberação
+de importâncias depositadas em dinheiro a título de garantia ou anuência ao resgate do título
+de capitalização, acompanhada de declaração do Contratante, mediante termo
+circunstanciado, de que o Contratado cumpriu todas as cláusulas do contrato.
+4.29.1 A extinção da garantia na modalidade seguro-garantia observará a
+regulamentação da Susep.
+4.29.2 A Administração deverá apurar se há alguma pendência contratual antes do
+término da vigência da apólice.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 32 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 33] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 33 de 63
+4.30 A garantia somente será liberada ou restituída após a fiel execução do contrato ou após
+a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, será atualizada
+monetariamente.
+4.30.1 Em se tratando de serviços executados com dedicação exclusiva de mão de obra,
+a garantia somente será liberada ante a comprovação de que o Contratado pagou todas as
+verbas rescisórias decorrentes da contratação, sendo que, caso esse pagamento não ocorra
+até o fim do segundo mês após o encerramento da vigência contratual, a garantia deverá ser
+utilizada para o pagamento dessas verbas trabalhistas, incluindo suas repercussões
+previdenciárias e relativas ao FGTS, observada a legislação que rege a matéria.
+4.30.2 Também poderá haver liberação da garantia se a empresa comprovar que os
+empregados serão realocados em outra atividade de prestação de serviços, sem que ocorra a
+interrupção do contrato de trabalho.
+4.30.3 Por ocasião do encerramento da prestação dos serviços Contratados, a
+Administração Contratante poderá utilizar o valor da garantia prestada para o pagamento direto
+aos trabalhadores vinculados ao contrato no caso da não comprovação: (1) do pagamento das
+respectivas verbas rescisórias ou (2) da realocação dos trabalhadores em outra atividade de
+prestação de serviços.
+4.30.4 O Contratado autoriza o Contratante a reter, a qualquer tempo, a garantia, na
+forma prevista neste Termo de Referência.
+4.30.5 O garantidor não é parte para figurar em processo administrativo instaurado pelo
+Contratante com o objetivo de apurar prejuízos e/ou aplicar sanções à contratada.
+4.30.6 A garantia de execução é independente de eventual garantia do produto ou
+serviço prevista neste Termo de Referência.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 33 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 34] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 34 de 63
+5 PAPÉIS E RESPONSABILIDADES
+5.1 São obrigações da CONTRATANTE:
+5.1.1 Nomear Gestor e Fiscais Técnico e Administrativo do contrato para acompanhar e
+fiscalizar a execução dos contratos;
+5.1.2 Encaminhar à CONTRATADA os relatórios de acompanhamento da execução dos
+serviços, devidamente elaborados e assinados pelo fiscal do CONTRATO, com os registros de
+eventuais falhas verificadas e das medidas corretivas necessárias;
+5.1.3 Analisar e atestar as Faturas/Notas Fiscais emitidas e efetuar os respectivos
+pagamentos nas condições e nos prazos estabelecidos;
+5.1.4 Liberar o pagamento da parcela incontroversa da execução do objeto contratado,
+quando houver controvérsia sobre a dimensão, qualidade e quantidade do objeto executado;
+5.1.5 Notificar os emitentes das garantias quanto ao início de processo administrativo para
+apuração de descumprimento de cláusulas contratuais;
+5.1.6 Encaminhar formalmente a demanda por meio de Ordem de Serviço, de acordo com os
+critérios estabelecidos no Termo de Referência;
+5.1.7 Receber o objeto fornecido pelo contratado que esteja em conformidade com a proposta
+aceita, conforme inspeções realizadas;
+5.1.8 Aplicar à contratada as sanções administrativas regulamentares e contratuais cabíveis;
+5.1.9 Liquidar o empenho e efetuar o pagamento à contratada, dentro dos prazos
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 34 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 35] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 35 de 63
+preestabelecidos em contrato;
+5.1.10 Comunicar à contratada todas e quaisquer ocorrências relacionadas com o
+fornecimento da solução de TIC;
+5.1.11 Prestar à CONTRATADA as informações e esclarecimentos que esta vier a
+solicitar para o desenvolvimento dos trabalhos;
+5.1.12 Fornecer pontos de energia elétrica conforme padrão definido pela norma NBR
+14.136. No caso de tomadas no padrão antigo, fornecer adaptadores certificados pelo
+INMETRO;
+5.1.13 Devolver ao final do contrato todos os equipamentos contratados no prazo
+estabelecido no item 6.1.2.
+5.1.14 O remanejamento de equipamentos entre endereços será de responsabilidade do
+CONTRATANTE.
+5.2 São obrigações da CONTRATADA:
+5.2.1 Designar preposto que tenha poder para resolução de possíveis ocorrências durante a
+execução contratual, o qual deverá disponibilizar endereço de e-mail válido e número de
+telefone móvel que permita contato imediato com o fiscal do CONTRATO de forma
+permanente;
+5.2.2 Substituir o preposto designado se houver recusa motivada da CONTRATANTE quanto à
+anterior indicação;
+5.2.3 Atender prontamente quaisquer orientações e exigências da Equipe de Fiscalização do
+Contrato, inerentes à execução do objeto contratual;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 35 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 36] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 36 de 63
+5.2.4 Reparar quaisquer danos diretamente causados à contratante ou a terceiros por culpa
+ou dolo de seus representantes legais, prepostos ou empregados, em decorrência da relação
+contratual, não excluindo ou reduzindo a responsabilidade da fiscalização ou o
+acompanhamento da execução dos serviços pela contratante;
+5.2.5 Propiciar todos os meios necessários à fiscalização do contrato pela contratante, cujo
+representante terá poderes para sustar o fornecimento, total ou parcial, em qualquer tempo,
+desde que motivadas as causas e justificativas desta decisão;
+5.2.6 Manter, durante toda a execução do contrato, as mesmas condições da habilitação;
+5.2.7 Quando especificada, manter, durante a execução do contrato, equipe técnica composta
+por profissionais devidamente habilitados, treinados e qualificados para fornecimento da
+solução de TIC;
+5.2.8 Quando especificado, manter a produtividade ou a capacidade mínima de fornecimento
+da solução de TIC durante a execução do contrato;
+5.2.9 Fazer a transição contratual, quando for o caso;
+5.2.10 Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, de
+acordo com o Código de Defesa do Consumidor (Lei n° 8.078, de 1990), bem como por todo e
+qualquer dano causado à Administração ou terceiros, não reduzindo essa responsabilidade a
+fiscalização ou o acompanhamento da execução contratual pela CONTRATANTE, que ficará
+autorizado a descontar dos pagamentos devidos ou da garantia, caso exigida, o valor
+correspondente aos danos sofridos;
+5.2.11 Responsabilizar-se pelos encargos trabalhistas, previdenciários, fiscais e
+comerciais resultantes da execução do objeto, cuja inadimplência não transfere a
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 36 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 37] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 37 de 63
+responsabilidade à CONTRATANTE e não poderá onerar o objeto do CONTRATO, sendo que
+eventual pessoal alocado ao CONTRATO não terá nenhum vínculo empregatício com a
+CONTRATANTE;
+5.2.12 Guardar sigilo sobre todas as informações obtidas em decorrência da execução
+do CONTRATO e cumprir a Lei n° 13.709, de 14 de agosto de 2018 (LGPD), quanto a todos os
+dados pessoais a que tenha acesso em razão do certame ou do contrato administrativo,
+independentemente de declaração ou de aceitação expressa.
+5.2.13 Além das obrigações dispostas a cima, são requeridas as seguintes obrigações
+específicas na presente contratação:
+a) Realizar os serviços de manutenção e assistência técnica no local de instalação dos
+equipamentos;
+b) Responsabilizar-se pelo transporte, arcando com toda despesa decorrente deste e
+outras despesas que forem necessárias à entrega e retirada dos equipamentos;
+c) Identificar todos os equipamentos disponibilizados na solução com etiqueta ou placa de
+difícil remoção, em material resistente ao desgaste por abrasão, em local visível e de fácil
+acesso;
+d) Quando da prestação dos serviços, seguir as normas e políticas de segurança do
+CONTRATANTE;
+e) Submeter a entidade contratante a solicitação de posterior alteração dos modelos
+registrados na proposta para aprovação/homologação. A entidade contratante poderá solicitar
+apoio técnico à AGIN, que informará se o novo equipamento está de acordo com as
+especificações técnicas do Edital;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 37 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 38] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 38 de 63
+f) Entregar os equipamentos contratados no(s) local(is) indicado(s) pelo CONTRATANTE.
+Da mesma forma, a CONTRATADA é responsável pela retirada do equipamento do local de
+instalação ao final do contrato. O serviço de cópia de segurança (backup) dos dados do usuário
+é de responsabilidade do CONTRATANTE;
+g) Destruição dos dados armazenados (sanitização), de forma definitiva e irrecuperável,
+quando da retirada dos equipamentos, por medida de segurança e confidencialidade das
+informações;
+h) Todos os dados transmitidos e armazenados deverão ser criptografados com algoritmos
+e protocolos atualizados para garantir segurança contra acessos não autorizados;
+i) Implementar controle de acesso apropriado às aplicações objeto deste TR, incluindo
+autenticação, autorização e monitoramento de acesso;
+j) Implementar medidas técnicas e administrativas adequadas para proteger os dados
+pessoais armazenados e processados.
+6 MODELO DE EXECUÇÃO DO CONTRATO
+6.1 Da execução dos serviços
+6.1.1 Do prazo, local e horário de prestação dos serviços
+6.1.1.1 A disponibilização dos equipamentos deverá ocorrer no prazo de até 90 (noventa)
+dias corridos, em dias úteis, das 8h às 16h, de segunda a sexta-feira, no(s) endereço(s) a
+ser(em) informado(s) pelo CONTRATANTE.
+6.1.1.2 A CONTRATADA deverá comunicar, com antecedência mínima de 48 (quarenta e
+oito) horas, a data e o horário de entrega dos equipamentos.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 38 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 39] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 39 de 63
+6.1.1.3 As embalagens de transporte dos equipamentos deverão conter etiqueta ou
+gravação com os seguintes dados: n° do contrato, descrição do conteúdo (ao menos, marca e
+modelo do equipamento) e indicação do fornecedor.
+6.1.1.4 Os equipamentos deverão vir lacrados, com lacre personalizado do fornecedor, de
+forma que a sua violação identifique o acesso não autorizado ao interior do equipamento. Em
+caso de intervenção que implique na abertura do equipamento, o lacre deverá ser recolocado.
+6.1.1.5 O início da execução contratual deverá se dar no prazo máximo de 90 (noventa)
+dias corridos, contados a partir da assinatura do contrato.
+6.1.2 Da retirada dos equipamentos ao final do contrato
+6.1.2.1 A CONTRATADA responsabilizar-se-á pela retirada dos equipamentos das
+instalações do CONTRATANTE, nos mesmos locais em que forem entregues, nos seguintes
+casos:
+a) Ao término da vigência do contrato;
+b) Rescisão contratual.
+6.1.2.2 A retirada acima prevista se dará sem custo para o CONTRATANTE, devendo a
+CONTRATADA retirar os equipamentos no prazo máximo de 30 (trinta) dias corridos a contar
+da data de término da vigência do contrato ou da rescisão contratual.
+6.1.2.3 Ao aproximar-se do término do contrato, a CONTRATADA, com o apoio do
+CONTRATANTE, deverá elaborar cronograma de retirada dos equipamentos.
+6.1.2.4 A CONTRATADA deverá realizar o procedimento de retirada dos equipamentos de
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 39 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 40] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 40 de 63
+acordo com o cronograma estabelecido.
+6.1.2.5 Os equipamentos que permanecerem no local após o término da vigência
+contratual, devido à não retirada pela CONTRATADA por sua exclusiva responsabilidade, não
+gerarão custos de locação para o CONTRATANTE.
+6.1.2.6 A CONTRATADA deverá emitir, para cada equipamento retirado da solução, um
+recibo de retirada a ser entregue ao CONTRATANTE. As partes deverão definir o conteúdo e o
+modo de emissão e recebimento desses recibos.
+6.1.2.7 No processo de retirada dos equipamentos, caso a CONTRATADA constate
+alguma inconformidade no equipamento em relação àquele que foi entregue ao
+CONTRATANTE, esta deverá ser comunicada e formalizada imediatamente ao Fiscal/Gestor
+do Contrato.
+6.1.2.8 A CONTRATADA deverá providenciar a desmontagem, embalagem e retirada dos
+equipamentos dos locais de instalação. O serviço de cópia de segurança (backup) dos dados
+dos usuários é responsabilidade do CONTRATANTE.
+6.1.2.9 Antes de recolher os equipamentos, a CONTRATADA deverá realizar, nas
+dependências do CONTRATANTE, a sanitização das unidades de armazenamento. O processo
+de sanitização deverá obedecer ao padrão NIST SP 800-88 Rev. 1.
+6.1.2.10 O processo de sanitização consiste em limpar/apagar, de forma irreversível, todos
+os dados de uma unidade de armazenamento.
+7 MODELO DE GESTÃO DO CONTRATO
+7.1 O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas
+avençadas e as normas da Lei n° 14.133, de 2021, e cada parte responderá pelas
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 40 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 41] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 41 de 63
+consequências de sua inexecução total ou parcial.
+7.2 Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o
+cronograma de execução será prorrogado automaticamente pelo tempo correspondente,
+anotadas tais circunstâncias mediante simples apostila.
+7.3 As comunicações entre a entidade e a contratada devem ser realizadas por escrito
+sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse
+fim.
+7.4 A entidade poderá convocar representante da empresa para adoção de providências que
+devam ser cumpridas de imediato.
+7.5 Após a assinatura do contrato ou instrumento equivalente, a entidade poderá convocar o
+representante da empresa contratada para reunião inicial para apresentação do plano de
+fiscalização, que conterá informações acerca das obrigações contratuais, dos mecanismos de
+fiscalização, das estratégias para execução do objeto, do plano complementar de execução da
+contratada, quando houver, do método de aferição dos resultados e das sanções aplicáveis,
+dentre outros.
+7.6 A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do
+contrato, ou pelos respectivos substitutos (Lei n° 14.133, de 2021, art. 117, caput).
+7.7 O fiscal do contrato acompanhará a execução do contrato, para que sejam cumpridas
+todas as condições estabelecidas no contrato, de modo a assegurar os melhores resultados
+para a Administração.
+7.7.1 O fiscal do contrato anotará no histórico de gerenciamento do contrato todas as
+ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para
+a regularização das faltas ou dos defeitos observados (Lei n ° 14.133, de 2021, art. 117, §1°).
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 41 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 42] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 42 de 63
+7.7.2 Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá
+notificações para a correção da execução do contrato, determinando prazo para a correção.
+7.7.3 O fiscal do contrato informará ao gestor do contato, em tempo hábil, a situação que
+demandar decisão ou adoção de medidas que ultrapassem sua competência, para que adote
+as medidas necessárias e saneadoras, se for o caso.
+7.7.4 No caso de ocorrências que possam inviabilizar a execução do contrato nas datas
+aprazadas, o fiscal técnico do contrato comunicará o fato imediatamente ao gestor do contrato.
+7.7.5 O fiscal do contrato comunicar ao gestor do contrato, em tempo hábil, o término do
+contrato sob sua responsabilidade, com vistas à renovação tempestiva ou à prorrogação
+contratual.
+7.7.6 O gestor do contrato acompanhará os registros realizados pelos fiscais do contrato, de
+todas as ocorrências relacionadas à execução do contrato e as medidas adotadas, informando,
+se for o caso, à autoridade superior àquelas que ultrapassarem a sua competência.
+7.8 O fiscal do contrato verificará a manutenção das condições de habilitação da contratada,
+acompanhará o empenho, o pagamento, as garantias, as glosas e a formalização de
+apostilamento e termos aditivos, solicitando quaisquer documentos comprobatórios pertinentes,
+caso necessário.
+7.8.1 Caso ocorram descumprimento das obrigações contratuais, o fiscal do contrato atuará
+tempestivamente na solução do problema, reportando ao gestor do contrato para que tome as
+providências cabíveis, quando ultrapassar a sua competência.
+7.9 O gestor do contrato coordenará a atualização do processo de acompanhamento e
+fiscalização do contrato contendo todos os registros formais da execução no histórico de
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 42 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 43] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 43 de 63
+gerenciamento do contrato, a exemplo da ordem de serviço, do registro de ocorrências, das
+alterações e das prorrogações contratuais, elaborando relatório com vistas à verificação da
+necessidade de adequações do contrato para fins de atendimento da finalidade da
+administração.
+7.9.1 O gestor do contrato acompanhará a manutenção das condições de habilitação da
+contratada, para fins de empenho de despesa e pagamento, e anotará os problemas que
+obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos
+eventuais.
+7.9.2 O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos
+fiscais quanto ao cumprimento de obrigações assumidas pelo contratado, com menção ao seu
+desempenho na execução contratual, baseado nos indicadores objetivamente definidos e
+aferidos, e a eventuais penalidades aplicadas, devendo constar do cadastro de atesto de
+cumprimento de obrigações.
+7.9.3 O gestor do contrato tomará providências para a formalização de processo
+administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido pela
+comissão de que trata o art. 221 do Decreto Estadual n° 342/2023.
+7.10 O fiscal do contrato comunicará ao gestor do contrato, em tempo hábil, o término do
+contrato sob sua responsabilidade, com vistas à tempestiva renovação ou prorrogação
+contratual.
+7.11 O gestor do contrato deverá elaborará relatório final com informações sobre a
+consecução dos objetivos que tenham justificado a contratação e eventuais condutas a serem
+adotadas para o aprimoramento das atividades da Administração.
+7.12 O gestor do contrato deverá enviar a documentação pertinente ao setor de contratos
+para a formalização dos procedimentos de liquidação e pagamento, no valor dimensionado
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 43 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 44] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 44 de 63
+pela fiscalização e gestão nos termos do contrato.
+8 CRITÉRIOS DE MEDIÇÃO E DE PAGAMENTO
+8.1 Os serviços executados serão objeto de medição mensal, devendo a CONTRATADA
+encaminhar, até o primeiro dia útil subsequente ao mês em que forem prestados, relatório com
+a descrição dos serviços realizados e os respectivos valores.
+8.2 Os serviços serão recebidos provisoriamente pelo fiscal do CONTRATO no prazo de 5
+(cinco) dias, mediante termo detalhado que ateste o cumprimento das exigências de caráter
+técnico e administrativo e a comprovação da prestação dos serviços.
+8.3 O termo detalhado do recebimento provisório, com a análise das ocorrências registradas
+na execução do CONTRATO serão encaminhados ao gestor para fins de apuração dos
+descontos e glosas cabíveis na fatura correspondente, em virtude de serviços total ou
+parcialmente não executados.
+8.4 O fiscal indicará a retenção ou glosa no pagamento, nos termos do item 4.5.
+8.5 A CONTRATADA fica obrigada a reparar, corrigir, remover, reconstruir ou substituir, às
+suas expensas, no todo ou em parte, o objeto em que se verificarem vícios, defeitos ou
+incorreções resultantes da execução ou materiais empregados.
+8.6 O recebimento provisório também ficará sujeito, quando cabível, à conclusão de todos
+os testes de campo exigidos por normas técnicas oficiais, às expensas da CONTRATADA, e à
+entrega dos Manuais e Instruções exigíveis.
+8.7 Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as
+especificações constantes no Termo de Referência e na proposta, sem prejuízo da aplicação
+das penalidades.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 44 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 45] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 45 de 63
+8.8 Até que sejam sanadas todas as eventuais pendências técnicas, o fiscal não deverá
+emitir o termo de Recebimento Provisório.
+8.9 Os serviços serão recebidos definitivamente no prazo de 5 (cinco) dias, contados do
+recebimento provisório, por servidor ou comissão designada pela autoridade competente.
+8.10 O recebimento definitivo ocorrerá mediante termo detalhado que comprove o
+atendimento das exigências contratuais, após a análise dos relatórios e de toda documentação
+apresentada pela fiscalização, com a verificação da qualidade e quantidade do serviço
+prestado.
+8.11 Os prazos de recebimento não correrão enquanto pendente a solução, pela
+CONTRATADA, de inconsistências verificadas na execução do objeto.
+8.12 Sanadas as pendências e aplicadas eventuais glosas, a CONTRATANTE comunicará à
+CONTRATADA o valor aprovado pela fiscalização e gestão, autorizando a emissão da Nota
+Fiscal ou Fatura correspondente.
+8.13 No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e
+quantidade, deverá ser observado o teor do art. 143 da Lei n° 14.133, de 2021, comunicando-
+se à empresa para emissão de Nota Fiscal no que pertine à parcela incontroversa da execução
+do objeto, para efeito de liquidação e pagamento.
+8.14 O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e
+pela segurança do serviço nem a responsabilidade ético-profissional pela perfeita execução do
+CONTRATO.
+8.15 A realização das glosas indicadas não prejudica a aplicação de sanções à
+CONTRATADA em virtude da inexecução dos serviços, quando for o caso.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 45 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 46] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 46 de 63
+Prazo de pagamento
+8.16 O valor dos pagamentos será obtido mediante a aplicação dos preços unitários
+contratados às correspondentes quantidades de serviços efetivamente executados, aplicando-
+se eventual desconto ou glosa.
+8.17 O pagamento será feito diretamente pela CONTRATANTE, no prazo de até 30 (trinta)
+dias, por meio de ordem bancária para crédito em conta-corrente da CONTRATADA, à vista de
+termo de recebimento definitivo dos serviços acompanhado dos documentos de comprovação
+da regularidade fiscal e trabalhista e da apresentação e atesto da Nota Fiscal ou documento de
+cobrança equivalente, na forma prevista nos parágrafos seguintes.
+8.18 A CONTRATADA deverá emitir as notas fiscais em observância às regras de retenção de
+imposto de renda estabelecidas na Instrução Normativa RFB n° 1.234/2012, e alterações
+posteriores, de acordo com as alíquotas constantes do Anexo I da referida norma, ou em
+observância à norma que venha a substituí-la, sob pena de devolução do documento para as
+correções cabíveis ou de retenção no valor total do documento fiscal, caso não realizadas as
+correções.
+8.19 Quando não for possível verificar diretamente, a regularidade fiscal e trabalhista da
+CONTRATADA será comprovada mediante a apresentação das seguintes certidões:
+8.19.1 Certidão Negativa de Débitos relativos a Créditos Tributários Federais e à Dívida
+Ativa da União (CND);
+8.19.2 Certidões que comprovem a regularidade perante as Fazendas Estadual/Distrital
+e Municipal do domicílio ou sede da CONTRATADA;
+8.19.3 Certidão de Regularidade do FGTS (CRF); e
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 46 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 47] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 47 de 63
+8.19.4 Certidão Negativa de Débitos Trabalhistas (CNDT).
+8.20 Caso não seja(m) apresentado(s) quaisquer dos documentos de regularidade ou os
+documentos encaminhados contenham pendências, a CONTRATADA terá 10 (dez) dias para
+sanar a ausência identificada, prazo em que o pagamento correspondente ao mês em
+referência ficará suspenso.
+8.21 Caso não seja sanada a pendência no prazo estipulado, estará configurada a não
+manutenção das condições de habilitação pela CONTRATADA, devendo a CONTRATANTE
+instaurar processo administrativo para extinção do CONTRATO e comunicar aos órgãos de
+fiscalização da regularidade fiscal quanto à inadimplência da CONTRATADA, sem prejuízo da
+retomada dos pagamentos pelos serviços efetivamente executados.
+8.22 Havendo erro na apresentação da Nota Fiscal/Fatura, ou circunstância que impeça a
+liquidação da despesa, esta ficará sobrestada até que a CONTRATADA providencie as
+medidas saneadoras.
+8.23 Quando do pagamento, deverá ser efetuada a retenção do imposto sobre a renda, nos
+termos previstos na Instrução Normativa RFB n° 1.234/2012, e alterações posteriores, ou em
+norma que venha a substituí-la, além de outras retenções previstas na legislação tributária
+aplicável.
+8.24 A CONTRATADA regularmente optante pelo Simples Nacional, nos termos da Lei
+Complementar n° 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e
+contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à
+apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento
+tributário favorecido previsto na referida Lei Complementar.
+8.25 No caso de atraso pelo Contratante, os valores devidos ao contratado serão atualizados
+monetariamente entre o termo final do prazo de pagamento até a data de sua efetiva
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 47 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 48] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 48 de 63
+realização, mediante aplicação do Índice Nacional de Preços ao Consumidor Amplo - IPCA de
+correção monetária.
+Reajuste
+8.26 Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano
+contado da data do orçamento estimado.
+8.27 Após o interregno de um ano, os preços iniciais serão reajustados, mediante a
+aplicação, pelo Contratante, do Índice Nacional de Preços ao Consumidor Amplo - IPCA,
+exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+8.28 Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a
+partir dos efeitos financeiros do último reajuste.
+8.29 No caso de atraso ou não divulgação do(s) índice (s) de reajustamento, o Contratante
+pagará ao Contratado a importância calculada pela última variação conhecida, liquidando a
+diferença correspondente tão logo seja(m) divulgado(s) o(s) índice(s) definitivo(s).
+8.30 Nas aferições finais, o(s) índice(s) utilizado(s) para reajuste será(ão), obrigatoriamente,
+o(s) definitivo(s).
+8.31 Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s) ou de
+qualquer forma não possa(m) mais ser utilizado(s), será(ão) adotado(s), em substituição, o(s)
+que vier(em) a ser determinado(s) pela legislação então em vigor.
+8.32 Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo
+índice oficial, para reajustamento do preço do valor remanescente, por meio de termo aditivo.
+8.33 O reajuste será realizado por apostilamento.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 48 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 49] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 49 de 63
+9 INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
+9.1 Comete infração administrativa, nos termos da Lei n° 14.133, de 2021, o Contratado
+que:
+a) Der causa à inexecução parcial do contrato;
+b) Der causa à inexecução parcial do contrato que cause grave dano à Administração ou
+ao funcionamento dos serviços públicos ou ao interesse coletivo;
+c) Der causa à inexecução total do contrato;
+d) Ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo
+justificado;
+e) Apresentar documentação falsa ou prestar declaração falsa durante a execução do
+contrato;
+f) Praticar ato fraudulento na execução do contrato;
+g) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+h) Praticar ato lesivo previsto no art. 5° da Lei n° 12.846, de 1° de agosto de 2013.
+9.2 Serão aplicadas ao Contratado que incorrer nas infrações acima descritas as seguintes
+sanções:
+9.2.1 Advertência, quando o Contratado der causa à inexecução parcial do contrato, sempre
+que não se justificar a imposição de penalidade mais grave;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 49 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 50] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 50 de 63
+9.2.2 Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas
+“b”, “c” e “d” do subitem acima, sempre que não se justificar a imposição de penalidade mais
+grave;
+9.2.3 Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas
+descritas nas alíneas “e”, “f”, “g” e “h” do subitem acima, bem como nas alíneas “b”, “c” e “d”,
+que justifiquem a imposição de penalidade mais grave;
+9.2.4 Multa:
+9.2.4.1 Moratória, para as infrações descritas no item “d”, de 0,5% (cinco décimos por
+cento) por dia de atraso injustificado sobre o valor da parcela inadimplida, até o limite de 30
+(trinta) dias.
+9.2.4.2 Moratória de 0,7% (sete centésimos por cento) por dia de atraso injustificado
+sobre o valor total do contrato, até o máximo de 2% (dois por cento), pela inobservância do
+prazo fixado para apresentação, suplementação ou reposição da garantia.
+9.2.4.2.1 O atraso superior a 25 (vinte e cinco) dias para apresentação, suplementação ou
+reposição da garantia autoriza a Administração a promover a extinção do contrato por
+descumprimento ou cumprimento irregular de suas cláusulas, conforme dispõe o inciso I do art.
+137 da Lei n° 14.133, de 2021.
+9.2.4.3 Compensatória, para as infrações descritas acima alíneas “e” a “h” de 0,5% (cinco
+décimos por cento) a 30% (trinta por cento) do valor da contratação.
+9.2.4.4 Compensatória, para a inexecução total do contrato prevista acima na alínea “c”,
+de 0,5% (cinco décimos por cento) a 30% (trinta por cento) do valor da contratação.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 50 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 51] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 51 de 63
+9.2.4.5 Compensatória, para a infração descrita acima na alínea “b”, de 0,5% (cinco
+décimos por cento) a 30% (trinta por cento) do valor da contratação.
+9.2.4.6 Compensatória, em substituição à multa moratória para a infração descrita acima
+na alínea “d”, de 0,5% (cinco décimos por cento) a 30% (trinta por cento) do valor da
+contratação.
+9.2.4.7 Compensatória, para a infração descrita acima na alínea “a”, de 0,5% (cinco
+décimos por cento) a 30% (trinta por cento) do valor da contratação.
+9.3 A aplicação das sanções previstas neste Termo de Referência não exclui, em hipótese
+alguma, a obrigação de reparação integral do dano causado ao Contratante.
+9.4 Todas as sanções previstas neste Termo de Referência poderão ser aplicadas
+cumulativamente com a multa.
+9.5 Antes da aplicação da multa será facultada a defesa do interessado no prazo de 15
+(quinze) dias úteis, contado da data de sua intimação.
+9.6 Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento
+eventualmente devido pelo Contratante ao Contratado, além da perda desse valor, a diferença
+será descontada da garantia prestada ou será cobrada judicialmente.
+9.7 A multa poderá ser recolhida administrativamente no prazo máximo de 30 (trinta) dias, a
+contar da data do recebimento da comunicação enviada pela autoridade competente.
+9.8 A aplicação das sanções realizar-se-á em processo administrativo que assegure o
+contraditório e a ampla defesa ao Contratado, observando-se o procedimento previsto no caput
+e parágrafos do art. 158 da Lei n° 14.133, de 2021, para as penalidades de impedimento de
+licitar e contratar e de declaração de inidoneidade para licitar ou contratar.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 51 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 52] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 52 de 63
+9.8.1 Para a garantia da ampla defesa e contraditório, as notificações serão enviadas
+eletronicamente para os endereços de e-mail informados na proposta comercial, bem como os
+cadastrados pela empresa no COMPRASNET.SE.
+9.8.2 Os endereços de e-mail informados na proposta comercial e/ou cadastrados no
+COMPRASNET.SE serão considerados de uso contínuo da empresa, não cabendo alegação
+de desconhecimento das comunicações a eles comprovadamente enviadas.
+9.9 Na aplicação das sanções serão considerados:
+9.9.1 A natureza e a gravidade da infração cometida;
+9.9.2 As peculiaridades do caso concreto;
+9.9.3 As circunstâncias agravantes ou atenuantes;
+9.9.4 Os danos que dela provierem para o Contratante; e
+9.9.5 A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+orientações dos órgãos de controle.
+9.10 Os atos previstos como infrações administrativas na Lei n° 14.133, de 2021, ou em
+outras leis de licitações e contratos da Administração Pública que também sejam tipificados
+como atos lesivos na Lei n° 12.846, de 2013, serão apurados e julgados conjuntamente, nos
+mesmos autos, observados o rito procedimental e autoridade competente definidos na referida
+Lei.
+9.11 A personalidade jurídica do Contratado poderá ser desconsiderada sempre que utilizada
+com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 52 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 53] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 53 de 63
+neste Termo de Referência ou para provocar confusão patrimonial, e, nesse caso, todos os
+efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e
+sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa do mesmo
+ramo com relação de coligação ou controle, de fato ou de direito, com o Contratado,
+observados, em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise
+jurídica prévia.
+9.12 O Contratante deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de
+aplicação da sanção, informar e manter atualizados os dados relativos às sanções por ela
+aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas
+(CEIS) e no Cadastro Nacional de Empresas Punidas (CNEP), instituídos no âmbito do Poder
+Executivo Federal.
+9.13 As penalidades serão obrigatoriamente registradas no Cadastro de Fornecedores
+Impedidos de Licitar e Contratar com a Administração Pública Estadual - CADFIMP.
+9.14 As sanções de impedimento de licitar e contratar e declaração de inidoneidade para
+licitar ou contratar são passíveis de reabilitação na forma do art. 163 da Lei n° 14.133, de 2021.
+9.15 Os débitos do Contratado para com a Administração Contratante, resultantes de multa
+administrativa e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados,
+total ou parcialmente, com os créditos devidos pela referida entidade decorrentes deste mesmo
+contrato ou de outros contratos administrativos que o Contratado possua com a mesma
+entidade ora Contratante.
+10 FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+Forma de seleção e critério de julgamento da proposta
+10.1 O fornecedor será selecionado por meio da realização de procedimento de LICITAÇÃO,
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 53 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 54] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 54 de 63
+na modalidade PREGÃO, sob a forma ELETRÔNICA, com adoção do critério de julgamento
+pelo MENOR PREÇO POR GRUPO, com base no seguinte fundamento: Art. 6°, inciso XLI, c/c
+art. 28, inciso I e 29 da Lei n° 14.133/2021.
+Regime de Execução
+10.2 O objeto será executado por meio do regime de EMPREITADA POR PREÇO UNITÁRIO.
+Da vedação a participação de Pessoas Físicas
+10.3 É vedada a participação de pessoas físicas na presente contratação, considerando o
+objeto e as exigências de qualificação técnica e econômico-financeira presentes no TR.
+Exigências de habilitação
+10.4 Para fins de habilitação, deverá o licitante comprovar os seguintes requisitos:
+Habilitação jurídica
+10.5 Empresário individual: inscrição no Registro Público de Empresas Mercantis, a cargo da
+Junta Comercial da respectiva sede;
+10.6 Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor
+Individual - CCMEI, cuja aceitação ficará condicionada à verificação da autenticidade no sítio
+https://www.gov.br/empresas-e-negocios/pt-br/empreendedor;
+10.7 Sociedade empresária, sociedade limitada unipessoal - SLU ou sociedade identificada
+como empresa individual de responsabilidade limitada - EIRELI: inscrição do ato constitutivo,
+estatuto ou contrato social no Registro Público de Empresas Mercantis, a cargo da Junta
+Comercial da respectiva sede, acompanhada de documento comprobatório de seus
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 54 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 55] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 55 de 63
+administradores;
+10.8 Sociedade empresária estrangeira: portaria de autorização de funcionamento no Brasil,
+publicada no Diário Oficial da União e arquivada na Junta Comercial da unidade federativa
+onde se localizar a filial, agência, sucursal ou estabelecimento, a qual será considerada como
+sua sede, conforme Instrução Normativa DREI/ME n° 77, de 18 de março de 2020;
+10.9 Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas
+do local de sua sede, acompanhada de documento comprobatório de seus administradores;
+10.10 Filial, sucursal ou agência de sociedade simples ou empresária: inscrição do ato
+constitutivo da filial, sucursal ou agência da sociedade simples ou empresária,
+respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro Público de Empresas
+Mercantis onde opera, com averbação no Registro onde tem sede a matriz;
+10.11 Sociedade cooperativa: ata de fundação e estatuto social, com a ata da
+assembleia que o aprovou, devidamente arquivado na Junta Comercial ou inscrito no Registro
+Civil das Pessoas Jurídicas da respectiva sede, além do registro de que trata o art. 107 da Lei
+n° 5.764, de 16 de dezembro 1971;
+10.12 Os documentos apresentados deverão estar acompanhados de todas as
+alterações ou da consolidação respectiva.
+Habilitação fiscal, social e trabalhista
+10.13 Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas;
+10.14 Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação
+de certidão expedida conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela
+Procuradoria-Geral da Fazenda Nacional (PGFN), referente a todos os créditos tributários
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 55 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 56] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 56 de 63
+federais e à Dívida Ativa da União (DAU) por elas administrados, inclusive aqueles relativos à
+Seguridade Social, nos termos da Portaria Conjunta n° 1.751, de 02 de outubro de 2014, do
+Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional;
+10.15 Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+10.16 Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho,
+mediante a apresentação de certidão negativa ou positiva com efeito de negativa, nos termos
+do Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei n° 5.452, de
+1° de maio de 1943;
+10.17 Declaração de cumprimento do disposto no inciso XXXIII do art. 7° da
+Constituição Federal;
+10.18 Prova de inscrição no cadastro de contribuintes Estadual/Distrital ou Municipal
+relativo ao domicílio ou sede do fornecedor, pertinente ao seu ramo de atividade e compatível
+com o objeto contratual;
+10.19 Prova de regularidade com a Fazenda Estadual/Distrital e Municipal do domicílio
+ou sede do fornecedor, relativa à atividade em cujo exercício contrata ou concorre;
+10.20 Caso o fornecedor seja considerado isento dos tributos relacionados ao objeto
+contratual, deverá comprovar tal condição mediante a apresentação de declaração da Fazenda
+respectiva do seu domicílio ou sede, ou outra equivalente, na forma da lei.
+10.21 O fornecedor enquadrado como microempreendedor individual que pretenda
+auferir os benefícios do tratamento diferenciado previstos na Lei Complementar n° 123, de
+2006, estará dispensado da prova de inscrição nos cadastros de contribuintes estadual e
+municipal.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 56 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 57] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 57 de 63
+Qualificação Econômico-Financeira
+10.22 Certidão negativa de falência expedida pelo distribuidor da sede do fornecedor
+(Lei n° 14.133, de 2021, art. 69, caput, inciso II);
+10.23 Balanço patrimonial, demonstração de resultado de exercício e demais
+demonstrações contábeis dos 2 (dois) últimos exercícios sociais, comprovando:
+10.23.1 Índices de Liquidez Geral (LG), Liquidez Corrente (LC), e Solvência Geral (SG)
+superiores a 1 (um), obtidos por meio da aplicação das seguintes fórmulas:
+LG = Ativo Circulante + Realizável a Longo Prazo
+Passivo Circulante + Passivo Não Circulante
+LC = Ativo Circulante
+Passivo Circulante
+SG = Ativo Total
+Passivo Circulante + Passivo Não Circulante
+10.24 Caso a empresa licitante apresente resultado inferior ou igual a 1 (um) em
+qualquer dos índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC),
+será exigido para fins de habilitação patrimônio líquido mínimo de 10% (dez por cento) do valor
+total estimado da contratação para o período de 12 (doze) meses.
+10.24.1 As empresas criadas no exercício financeiro da licitação deverão atender a todas
+as exigências da habilitação e poderão substituir os demonstrativos contábeis pelo balanço de
+abertura; e
+10.24.2 Os documentos referidos acima limitar-se-ão ao último exercício no caso de a
+pessoa jurídica ter sido constituída há menos de 2 (dois) anos;
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 57 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 58] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 58 de 63
+10.24.3 Os documentos referidos acima deverão ser exigidos com base no limite definido
+pela Receita Federal do Brasil para transmissão da Escrituração Contábil Digital - ECD ao
+Sped.
+10.25 As empresas criadas no exercício financeiro da licitação deverão atender a todas
+as exigências da habilitação e poderão substituir os demonstrativos contábeis pelo balanço de
+abertura (Lei n° 14.133, de 2021, art. 65, §1°).
+10.26 O atendimento dos índices econômicos previstos neste item deverá ser atestado
+mediante declaração assinada por profissional habilitado da área contábil, apresentada pelo
+fornecedor.
+Qualificação Técnica
+10.27 Declaração de que o licitante tomou conhecimento de todas as informações e das
+condições locais para o cumprimento das obrigações objeto da licitação;
+10.27.1 A declaração acima poderá ser substituída por declaração formal assinada pelo
+responsável técnico do licitante acerca do conhecimento pleno das condições e peculiaridades
+da contratação.
+Qualificação Técnico-Operacional
+10.28 Comprovação de aptidão para execução de serviço de complexidade tecnológica
+e operacional equivalente ou superior com o objeto desta contratação, ou com o item
+pertinente, por meio da apresentação de certidões ou atestados, por pessoas jurídicas de
+direito público ou privado, ou regularmente emitido(s) pelo conselho profissional competente,
+quando for o caso.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 58 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 59] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 59 de 63
+10.29 Para fins de comprovação, os atestados/certidões devem dizer respeito a
+prestação de serviços de locação ou contratação como serviço de estações de trabalho, com
+as seguintes características mínimas: fornecimento de equipamentos e prestação de serviços
+de assistência técnica on-site. Serão aceitos atestados de computadores, microcomputadores,
+desktops, notebooks, estações de trabalho, workstations, servidores e afins. Não serão aceitos
+atestados de impressoras, tablets e smartphones.
+10.29.1 Será considerado compatível com a quantidade os atestados ou certidões que
+apresentarem, no mínimo, 20% (vinte por cento) das quantidades estimadas na licitação.
+10.29.2 Será admitida, para fins de comprovação de quantitativo mínimo, a apresentação
+e o somatório de diferentes atestados executados de forma concomitante.
+10.30 Os atestados de capacidade técnica poderão ser apresentados em nome da
+matriz ou da filial do fornecedor.
+10.31 O fornecedor disponibilizará todas as informações necessárias à comprovação da
+legitimidade dos atestados, apresentando, quando solicitado pela Administração, cópia do
+contrato que deu suporte à contratação, endereço atual da contratante e local em que foi
+executado o objeto contratado, dentre outros documentos.
+10.32 Os atestados deverão referir-se a serviços prestados no âmbito de sua atividade
+econômica principal ou secundária especificadas no contrato social vigente.
+10.33 Serão aceitos atestados ou outros documentos hábeis emitidos por entidades
+estrangeiras quando acompanhados de tradução para o português, salvo se comprovada a
+inidoneidade da entidade emissora.
+10.34 A apresentação, pelo fornecedor, de certidões ou atestados de desempenho
+anterior emitido em favor de consórcio do qual tenha feito parte será admitida, desde que
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 59 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 60] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 60 de 63
+atendidos os requisitos do art. 67, §§ 10 e 11, da Lei n° 14.133/2021 e regulamentos sobre o
+tema.
+Disposições gerais sobre habilitação
+10.35 Quando permitida a participação na licitação/contratação de empresas
+estrangeiras que não funcionem no País, as exigências de habilitação serão atendidas
+mediante documentos equivalentes, inicialmente apresentados em tradução livre.
+10.36 Na hipótese de o fornecedor ser empresa estrangeira que não funcione no País,
+para assinatura do contrato ou da ata de registro de preços ou do aceite do instrumento
+equivalente, os documentos exigidos para a habilitação serão traduzidos por tradutor
+juramentado no País e apostilados nos termos do disposto no Decreto n° 8.660, de 29 de
+janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos
+consulados ou embaixadas.
+10.37 Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF
+diferentes, salvo aqueles legalmente permitidos.
+10.38 Se o fornecedor for a matriz, todos os documentos deverão estar em nome da
+matriz, e se o fornecedor for a filial, todos os documentos deverão estar em nome da filial,
+exceto para atestados de capacidade técnica, e no caso daqueles documentos que, pela
+própria natureza, comprovadamente, forem emitidos somente em nome da matriz.
+10.39 Serão aceitos registros de CNPJ de fornecedor matriz e filial com diferenças de
+números de documentos pertinentes ao CND e ao CRF/FGTS, quando for comprovada a
+centralização do recolhimento dessas contribuições.
+Documentação complementar para cooperativas
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 60 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 61] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 61 de 63
+10.40 Caso admitida a participação de cooperativas, será exigida a seguinte
+documentação complementar:
+10.40.1 A relação dos cooperados que atendem aos requisitos técnicos exigidos para a
+contratação e que executarão o contrato, com as respectivas atas de inscrição e a
+comprovação de que estão domiciliados na localidade da sede da cooperativa, respeitado o
+disposto nos arts. 4°, inciso XI, 21, inciso I e 42, §§2° a 6° da Lei n° 5.764, de 1971;
+10.40.2 A declaração de regularidade de situação do contribuinte individual - DRSCI, para
+cada um dos cooperados indicados;
+10.40.3 A comprovação do capital social proporcional ao número de cooperados
+necessários à prestação do serviço;
+10.40.4 O registro previsto na Lei n° 5.764, de 1971, art. 107;
+10.40.5 A comprovação de integração das respectivas quotas-partes por parte dos
+cooperados que executarão o contrato; e
+10.40.6 Os seguintes documentos para a comprovação da regularidade jurídica da
+cooperativa: a) ata de fundação; b) estatuto social com a ata da assembleia que o aprovou; c)
+regimento dos fundos instituídos pelos cooperados, com a ata da assembleia; d) editais de
+convocação das três últimas assembleias gerais extraordinárias; e) três registros de presença
+dos cooperados que executarão o contrato em assembleias gerais ou nas reuniões seccionais
+e f) ata da sessão que os cooperados autorizaram a cooperativa a contratar o objeto da
+licitação;
+10.40.7 A última auditoria contábil-financeira da cooperativa, conforme dispõe o art. 112
+da Lei n° 5.764, de 1971, ou uma declaração, sob as penas da lei, de que tal auditoria não foi
+exigida pelo órgão fiscalizador.
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 61 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 62] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 62 de 63
+Documentos complementares
+10.41 Declaração de cumprimento das exigências de reserva de cargos para pessoa
+com deficiência e para reabilitado da Previdência Social, previstas em lei e em outras normas
+específicas.
+10.42 Declaração de que não possui em seu quadro societário ou de pessoal agente
+público do órgão ou entidade licitante ou contratante, nos termos do art. 9°, §1° da Lei n°
+14.133/2021.
+10.43 Declaração de que não incorre em qualquer uma das vedações impostas no art.
+14 da Lei n° 14.133/2021 aplicáveis ao objeto da presente licitação.
+10.44 Declaração de que atende às disposições da Lei Geral de Proteção de Dados
+(LGPD).
+11 ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+11.1 O custo estimado total da contratação, que é o máximo aceitável, é de R$ 4.431.244,80
+(quatro milhões, quatrocentos e trinta e um mil, duzentos e quarenta e quatro reais e
+oitenta centavos), conforme custos unitários apostos na tabela contida no item 1.1.
+12 ADEQUAÇÃO ORÇAMENTÁRIA
+12.1 As despesas decorrentes da presente contratação correrão à conta de recursos
+específicos consignados no DETRAN/SE.
+12.2 A contratação será atendida pela seguinte dotação:
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 62 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 63] ---
+COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS - DETRAN
+Página 63 de 63
+UNIDADE
+ORÇAMENTÁRIA
+CLASSIFICAÇÃO
+FUNCIONAL
+PROGRAMÁTICA
+PROJETO OU
+ATIVIDADE
+ELEMENTO DE
+DESPESA
+FONTE DE
+RECURSO
+22201 06.126.0036 0207 3.3.90.40 1753
+12.3 A dotação relativa aos exercícios financeiros subsequentes será indicada após
+aprovação da Lei Orçamentária respectiva e liberação dos créditos correspondentes.
+13 DISPOSIÇÕES FINAIS
+13.1 As informações contidas neste Termo de Referência não são classificadas como
+sigilosas.
+14 RESPONSÁVEIS
+Aracaju, dia/mes/ano.
+______________________________________
+CARLOS ALBERTO DOS SANTOS ARAÚJO
+Diretor de Operações
+Integrante Técnico
+______________________________________
+JOÃO MIGUEL SANTOS DE ALBUQUERQUE
+Chefe de Serviço
+Integrante Planejamento
+Aprovo,
+______________________________________
+NALEIDE DE ANDRADE SANTOS
+Diretora-Presidente
+Av. Tancredo Neves, s/n, Ponto Novo
+CEP: 49.097-510, Aracaju/SE, www.detran.se.gov.br
+e-DOC+ - Documento Virtual válido conforme Decreto nº 40.394/2019
+Documento assinado utilizando login/senha do sistema (DOCFLOW) Verificação em: http://edocsergipe.se.gov.br/consultacodigo. Utilize o
+código: X5EM-FEFR-FYNV-FKFD Página 63 de 63
+Este documento foi assinado via DocFlow por CARLOS ALBERTO DOS SANTOS ARAUJO, Joao Miguel Santos de Albuquerque e NALEIDE DE ANDRADE SANTOS
+
+--- [pag. PDF 64] ---
+Protocolo de Assinatura(s)
+O documento acima foi proposto para assinatura digital. Para verificar as assinaturas acesse o
+endereço http://edocsergipe.se.gov.br/consultacodigo e utilize o código abaixo para verificar se este
+documento é válido.
+Código de verificação: X5EM-FEFR-FYNV-FKFD
+O(s) nome(s) indicado(s) para assinatura, bem como seu(s) status em 16/10/2026 é(são) :
+Legenda: Aprovada Indeterminada Pendente
+CARLOS ALBERTO DOS SANTOS ARAUJO ***75490*** DIRETORIA DE OPERAÇÕES - DETRAN Departamento
+Estadual de Trânsito 14/09/2026 08:31:19 (Docflow)
+Joao Miguel Santos de Albuquerque ***79029*** COORDENADORIA DE PROGRAMAS, PROJETOS E CONVÊNIOS -
+DETRAN Departamento Estadual de Trânsito 14/09/2026 08:37:20 (Docflow)
+NALEIDE DE ANDRADE SANTOS ***61166*** DIRETORIA EXECUTIVA - DETRAN Departamento Estadual de
+Trânsito 14/09/2026 08:44:33 (Docflow)

@@ -1,0 +1,28 @@
+{
+ "id": "00394502000144-2026-13896",
+ "extraidoEm": "2026-10-20T11:52:08.432Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/00394502000144/2026/13896",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Aviso-de-Dispensa-Eletronica-791140-77-2026-DISP-ELE-AR-COND.txt",
+   "titulo": "Aviso_de_Dispensa_Eletronica_791140_-_77_-_2026_-_DISP_ELE_-_AR_CONDICIONADO_ATU_assinado.pdf",
+   "tipo": "Aviso de Contratação Direta",
+   "paginas": 24,
+   "caracteres": 565,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Documento-de-Justificativa-da-Contratacao-Direta-791140-77-2.txt",
+   "titulo": "Documento_de_Justificativa_da_Contratacao_Direta_791140_-_77_-_2026_-_AR_CONDICIONADO_assinado_assinado.pdf",
+   "tipo": "Ato que autoriza a Contratação Direta",
+   "paginas": 3,
+   "caracteres": 67,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  }
+ ],
+ "totalPaginas": 27,
+ "totalCaracteres": 632,
+ "comErro": 0
+}

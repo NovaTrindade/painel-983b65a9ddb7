@@ -1,0 +1,26 @@
+{
+ "id": "01560393000150-2026-16",
+ "extraidoEm": "2026-10-20T11:52:10.843Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/01560393000150/2026/16",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL.txt",
+   "titulo": "EDITAL",
+   "tipo": "Edital",
+   "paginas": 34,
+   "caracteres": 82887
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-T-R.txt",
+   "titulo": "T_R_",
+   "tipo": "Outros Documentos",
+   "paginas": 64,
+   "caracteres": 141146
+  }
+ ],
+ "totalPaginas": 98,
+ "totalCaracteres": 224033,
+ "comErro": 0
+}
