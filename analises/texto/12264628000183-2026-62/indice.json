@@ -1,0 +1,26 @@
+{
+ "id": "12264628000183-2026-62",
+ "extraidoEm": "2026-10-23T11:51:02.764Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/12264628000183/2026/62",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-PE-048-2026-SRP-PRESTACAO-DE-SERVICOS-DE-LOCACAO-DE-I.txt",
+   "titulo": "EDITAL_PE_048.2026___SRP_PRESTACAO_DE_SERVICOS_DE_LOCACAO_DE_INFORMATICA.pdf",
+   "tipo": "Projeto Executivo",
+   "paginas": 78,
+   "caracteres": 207589
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-AVISO-DE-LICIT-PE-048-2026-PROC-N-0616036-2026-P-S-DE-LOCACA.txt",
+   "titulo": "AVISO_DE_LICIT_PE_048.2026___PROC_N__0616036.2026____P.S_DE_LOCACAO_DE_INFORMATICA.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1234
+  }
+ ],
+ "totalPaginas": 79,
+ "totalCaracteres": 208823,
+ "comErro": 0
+}
