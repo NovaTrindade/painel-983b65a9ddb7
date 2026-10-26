@@ -1,28 +1,29 @@
 {
- "gerado": "2026-10-23T05:20:39.010Z",
- "referencia": "2026-10-23",
+ "gerado": "2026-10-26T11:07:51.643Z",
+ "referencia": "2026-10-26",
  "criterioVersao": 3,
  "execucao": {
-  "universoAberto": 3127,
-  "descartados": 3088,
-  "candidatos": 39,
-  "itensObtidos": 39,
+  "universoAberto": 3025,
+  "descartados": 2983,
+  "candidatos": 42,
+  "itensObtidos": 42,
   "itensFalhou": 0,
+  "itensNaoTentados": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 655,
-    "novos": 599,
-    "paginasOk": 13,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "total": 669,
+    "novos": 665,
+    "paginasOk": 14,
+    "paginasFalhas": 0,
+    "parcial": false,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "gestao municipal",
-    "total": 789,
-    "novos": 382,
+    "total": 782,
+    "novos": 345,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -31,18 +32,18 @@
    },
    {
     "consulta": "sistema integrado",
-    "total": 1841,
-    "novos": 573,
-    "paginasOk": 14,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 1862,
+    "novos": 479,
+    "paginasOk": 12,
+    "paginasFalhas": 2,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "licenciamento uso",
-    "total": 257,
-    "novos": 177,
+    "total": 259,
+    "novos": 190,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -51,8 +52,8 @@
    },
    {
     "consulta": "software gestao",
-    "total": 221,
-    "novos": 55,
+    "total": 223,
+    "novos": 57,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -61,8 +62,8 @@
    },
    {
     "consulta": "locacao software",
-    "total": 210,
-    "novos": 114,
+    "total": 211,
+    "novos": 119,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -72,7 +73,7 @@
    {
     "consulta": "cessao uso",
     "total": 141,
-    "novos": 68,
+    "novos": 72,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -81,18 +82,18 @@
    },
    {
     "consulta": "arrecadacao",
-    "total": 309,
-    "novos": 266,
-    "paginasOk": 7,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 307,
+    "novos": 222,
+    "paginasOk": 6,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "tributaria",
-    "total": 337,
-    "novos": 96,
+    "total": 341,
+    "novos": 128,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -101,9 +102,9 @@
    },
    {
     "consulta": "folha pagamento",
-    "total": 251,
-    "novos": 191,
-    "paginasOk": 6,
+    "total": 249,
+    "novos": 189,
+    "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -111,8 +112,8 @@
    },
    {
     "consulta": "gestao educacional",
-    "total": 56,
-    "novos": 13,
+    "total": 57,
+    "novos": 14,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -121,8 +122,8 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 144,
-    "novos": 35,
+    "total": 141,
+    "novos": 37,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -131,40 +132,40 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 944,
-    "novos": 533,
-    "paginasOk": 14,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 923,
+    "novos": 497,
+    "paginasOk": 13,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "conversao dados",
-    "total": 89,
-    "novos": 25,
+    "total": 93,
+    "novos": 11,
     "paginasOk": 2,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 1,
-  "paginasPerdidas": 1,
+  "consultasParciais": 4,
+  "paginasPerdidas": 5,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 9.9
+  "minutosBusca": 18.6
  },
  "resumo": {
-  "total": 39,
+  "total": 42,
   "prioridade": 6,
-  "avaliar": 6,
-  "triar": 27,
-  "urgentes7d": 15,
-  "valorTotal": 16150316.73,
-  "valorUrgentes": 10410700.17,
+  "avaliar": 7,
+  "triar": 29,
+  "urgentes7d": 19,
+  "valorTotal": 17554638.92,
+  "valorUrgentes": 11214785.61,
   "suspeitos": 1
  },
  "editais": [
@@ -177,7 +178,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "37",
    "fimVigencia": "2026-10-27T09:29",
-   "diasRestantes": 4,
+   "diasRestantes": 1,
    "valorEstimado": 3702270,
    "qtdItens": 4,
    "modulos": [
@@ -192,7 +193,7 @@
     "suporte tecnico"
    ],
    "ader": 100,
-   "score": 96,
+   "score": 100,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/03330461000110/2026/165"
   },
@@ -205,7 +206,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "37",
    "fimVigencia": "2026-10-28T08:00",
-   "diasRestantes": 5,
+   "diasRestantes": 2,
    "valorEstimado": 205467,
    "qtdItens": 10,
    "modulos": [
@@ -223,7 +224,7 @@
     "nuvem"
    ],
    "ader": 100,
-   "score": 91,
+   "score": 94,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/75687954000113/2026/49"
   },
@@ -236,7 +237,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "62",
    "fimVigencia": "2026-10-29T08:55",
-   "diasRestantes": 6,
+   "diasRestantes": 3,
    "valorEstimado": 190726.92,
    "qtdItens": 10,
    "modulos": [
@@ -251,7 +252,7 @@
     "transparencia"
    ],
    "ader": 98,
-   "score": 89,
+   "score": 93,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/15389588000194/2026/87"
   },
@@ -264,7 +265,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "205",
    "fimVigencia": "2026-11-10T08:15",
-   "diasRestantes": 18,
+   "diasRestantes": 15,
    "valorEstimado": 1116550.8,
    "qtdItens": 10,
    "modulos": [
@@ -283,7 +284,7 @@
     "nuvem"
    ],
    "ader": 100,
-   "score": 84,
+   "score": 89,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/82916826000160/2026/255"
   },
@@ -296,7 +297,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "23",
    "fimVigencia": "2026-10-26T09:00",
-   "diasRestantes": 3,
+   "diasRestantes": 0,
    "valorEstimado": 199917.91,
    "qtdItens": 10,
    "modulos": [
@@ -322,7 +323,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "016",
    "fimVigencia": "2026-11-05T08:00",
-   "diasRestantes": 13,
+   "diasRestantes": 10,
    "valorEstimado": 364347.27,
    "qtdItens": 7,
    "modulos": [
@@ -349,7 +350,7 @@
    "modalidade": "Dispensa",
    "numero": "076",
    "fimVigencia": "2026-10-27T10:00",
-   "diasRestantes": 4,
+   "diasRestantes": 1,
    "valorEstimado": 54000,
    "qtdItens": 1,
    "modulos": [
@@ -361,7 +362,7 @@
     "suporte tecnico"
    ],
    "ader": 73,
-   "score": 76,
+   "score": 79,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/01612582000120/2026/57"
   },
@@ -374,7 +375,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "60",
    "fimVigencia": "2026-10-26T09:30",
-   "diasRestantes": 3,
+   "diasRestantes": 0,
    "valorEstimado": 212100,
    "qtdItens": 1,
    "modulos": [
@@ -395,7 +396,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "049",
    "fimVigencia": "2026-11-04T10:00",
-   "diasRestantes": 12,
+   "diasRestantes": 9,
    "valorEstimado": 2261850,
    "qtdItens": 10,
    "modulos": [
@@ -412,6 +413,81 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/46523080000160/2026/173"
   },
   {
+   "id": "03595624000197-2026-8",
+   "orgao": "CAMARA MUNICIPAL DE AGUAS FORMOSAS",
+   "municipio": "Águas Formosas",
+   "uf": "MG",
+   "objeto": "contratação de empresa especializada para o fornecimento de solução integrada de gestão pública, em ambiente web, com disponibilização de sistemas informatizados, hospedagem em ambiente de processamento de dados, implantação, migração de dados, treinamento dos usuários, suporte técnico e demais serviços necessários ao funcionamento adequado da solução",
+   "modalidade": "Dispensa",
+   "numero": "004",
+   "fimVigencia": "2026-10-30T09:00",
+   "diasRestantes": 4,
+   "valorEstimado": 37875,
+   "qtdItens": 10,
+   "modulos": [
+    "gestao publica",
+    "contabil",
+    "folha de pagamento",
+    "recursos humanos",
+    "portal da transparencia",
+    "implantacao",
+    "migracao",
+    "patrimonio",
+    "transparencia",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 61,
+   "score": 70,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/03595624000197/2026/8"
+  },
+  {
+   "id": "13646005000138-2025-223",
+   "orgao": "MUNICIPIO DE ALAGOINHAS",
+   "municipio": "Alagoinhas",
+   "uf": "BA",
+   "objeto": "CREDENCIAMENTO DE INSTITUIÇÕES FINANCEIRAS PARA QUE EM NOME E POR CONTA DO MUNICÍPIO DE ALAGOINHAS-BA, REALIZEM O RECEBIMENTO DOS TRIBUTOS E DEMAIS RECEITAS MUNICIPAIS, TRIBUTÁRIAS OU NÃO, ATRAVÉS DE DOCUMENTOS DE ARRECADAÇÃO EMITIDOS OBRIGATORIAMENTE EM PADRÃO FEBRABAN E/OU QR CODE PIX, COM PRESTAÇÃO DE CONTAS POR MEIO MAGNÉTICO DOS VALORES ARRECADADOS.",
+   "modalidade": "Credenciamento",
+   "numero": null,
+   "fimVigencia": "2026-10-31T13:00",
+   "diasRestantes": 6,
+   "valorEstimado": 644940,
+   "qtdItens": 2,
+   "modulos": [
+    "arrecadac",
+    "tributar"
+   ],
+   "ader": 50,
+   "score": 70,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/13646005000138/2025/223"
+  },
+  {
+   "id": "13806237000106-2026-218",
+   "orgao": "MUNICIPIO DE POJUCA",
+   "municipio": "Pojuca",
+   "uf": "BA",
+   "objeto": "Contratação de empresa especializada para prestação de serviços de locação mensal de sistemas de gestão pública em plataforma hibrida Web/Desktop com usuários ilimitados, manutenção corretiva, legal e tecnológica, implantação, migração de dados, treinamento e aperfeiçoamento, provimento de Datacenter e suporte técnico, conforme padrões de desempenho e qualidade objetivamente contidas neste Termo de Referência.",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PE072-2026",
+   "fimVigencia": "2026-10-28T10:00",
+   "diasRestantes": 2,
+   "valorEstimado": 172661.17,
+   "qtdItens": 2,
+   "modulos": [
+    "gestao publica",
+    "implantacao",
+    "migracao",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 44,
+   "score": 69,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/13806237000106/2026/218"
+  },
+  {
    "id": "08787236000121-2026-136",
    "orgao": "MUNICIPIO DE SOLANEA",
    "municipio": "Solânea",
@@ -420,7 +496,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "0049",
    "fimVigencia": "2026-10-26T08:59",
-   "diasRestantes": 3,
+   "diasRestantes": 0,
    "valorEstimado": 450000,
    "qtdItens": 1,
    "modulos": [
@@ -441,7 +517,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "PE15-2026-",
    "fimVigencia": "2026-10-27T09:35",
-   "diasRestantes": 4,
+   "diasRestantes": 1,
    "valorEstimado": 40765.5,
    "qtdItens": 2,
    "modulos": [
@@ -453,9 +529,30 @@
     "suporte tecnico"
    ],
    "ader": 52,
-   "score": 66,
+   "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/13761705000173/2026/59"
+  },
+  {
+   "id": "13104740000110-2026-156",
+   "orgao": "MUNICIPIO DE ITABAIANA",
+   "municipio": "Itabaiana",
+   "uf": "SE",
+   "objeto": "[LICITANET] - estabelecer as exigências, condições, quantidades, técnicas e a metodologia para contratação de empresa especializada na prestação de serviço de impressão gráfica dos documentos de arrecadações tributárias municipais, para atender às necessidades da Secretaria de Fazenda deste Município, no exercício de 2027.",
+   "modalidade": "Dispensa",
+   "numero": "014",
+   "fimVigencia": "2026-10-29T09:00",
+   "diasRestantes": 3,
+   "valorEstimado": 59385,
+   "qtdItens": 2,
+   "modulos": [
+    "arrecadac",
+    "tributar"
+   ],
+   "ader": 50,
+   "score": 69,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/13104740000110/2026/156"
   },
   {
    "id": "83021840000168-2026-242",
@@ -466,7 +563,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": null,
    "fimVigencia": "2026-10-29T07:59",
-   "diasRestantes": 6,
+   "diasRestantes": 3,
    "valorEstimado": 650000,
    "qtdItens": 1,
    "modulos": [
@@ -474,7 +571,7 @@
     "folha de pagamento"
    ],
    "ader": 40,
-   "score": 66,
+   "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83021840000168/2026/242"
   },
@@ -487,7 +584,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "158",
    "fimVigencia": "2026-10-29T07:59",
-   "diasRestantes": 6,
+   "diasRestantes": 3,
    "valorEstimado": 650000,
    "qtdItens": 1,
    "modulos": [
@@ -495,54 +592,9 @@
     "folha de pagamento"
    ],
    "ader": 40,
-   "score": 66,
+   "score": 69,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/83021840000168/2026/243"
-  },
-  {
-   "id": "13806237000106-2026-218",
-   "orgao": "MUNICIPIO DE POJUCA",
-   "municipio": "Pojuca",
-   "uf": "BA",
-   "objeto": "Contratação de empresa especializada para prestação de serviços de locação mensal de sistemas de gestão pública em plataforma hibrida Web/Desktop com usuários ilimitados, manutenção corretiva, legal e tecnológica, implantação, migração de dados, treinamento e aperfeiçoamento, provimento de Datacenter e suporte técnico, conforme padrões de desempenho e qualidade objetivamente contidas neste Termo de Referência.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "PE072-2026",
-   "fimVigencia": "2026-10-28T10:00",
-   "diasRestantes": 5,
-   "valorEstimado": 172661.17,
-   "qtdItens": 2,
-   "modulos": [
-    "gestao publica",
-    "implantacao",
-    "migracao",
-    "treinamento",
-    "suporte tecnico"
-   ],
-   "ader": 44,
-   "score": 65,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/13806237000106/2026/218"
-  },
-  {
-   "id": "13646005000138-2025-223",
-   "orgao": "MUNICIPIO DE ALAGOINHAS",
-   "municipio": "Alagoinhas",
-   "uf": "BA",
-   "objeto": "CREDENCIAMENTO DE INSTITUIÇÕES FINANCEIRAS PARA QUE EM NOME E POR CONTA DO MUNICÍPIO DE ALAGOINHAS-BA, REALIZEM O RECEBIMENTO DOS TRIBUTOS E DEMAIS RECEITAS MUNICIPAIS, TRIBUTÁRIAS OU NÃO, ATRAVÉS DE DOCUMENTOS DE ARRECADAÇÃO EMITIDOS OBRIGATORIAMENTE EM PADRÃO FEBRABAN E/OU QR CODE PIX, COM PRESTAÇÃO DE CONTAS POR MEIO MAGNÉTICO DOS VALORES ARRECADADOS.",
-   "modalidade": "Credenciamento",
-   "numero": null,
-   "fimVigencia": "2026-10-31T13:00",
-   "diasRestantes": 9,
-   "valorEstimado": 644940,
-   "qtdItens": 2,
-   "modulos": [
-    "arrecadac",
-    "tributar"
-   ],
-   "ader": 50,
-   "score": 65,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/13646005000138/2025/223"
   },
   {
    "id": "08993925000192-2026-38",
@@ -553,7 +605,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "00027",
    "fimVigencia": "2026-10-28T09:30",
-   "diasRestantes": 5,
+   "diasRestantes": 2,
    "valorEstimado": 329700,
    "qtdItens": 1,
    "modulos": [
@@ -561,36 +613,54 @@
     "folha de pagamento"
    ],
    "ader": 40,
-   "score": 64,
+   "score": 68,
    "suspeito": [],
    "pncpUrl": "https://pncp.gov.br/app/editais/08993925000192/2026/38"
   },
   {
-   "id": "76995448000154-2026-174",
-   "orgao": "MUNICIPIO DE PATO BRANCO",
-   "municipio": "Pato Branco",
-   "uf": "PR",
-   "objeto": "Contratação de empresa especializada para prestação de serviços de disponibilização de solução integrada para gerenciamento das etapas específicas do fluxo radiológico, arquivamento, comunicação, recuperação, visualização e disponibilização de imagens médicas e laudos, integrada ao sistema de prontuário eletrônico IDS Saúde, em modelo de serviço Software as a Service – SaaS, com armazenamento em ambiente de computação em nuvem, contemplando implantação e parametrização da solução, migração do acervo radiológico existente, integração com o IDS Saúde, treinamento inicial dos usuários, armazenamento escalável, suporte técnico continuado, manutenção, atualizações e demais serviços necessários à continuidade de sua operação, para atendimento das necessidades da Secretaria Municipal de Saúde.",
+   "id": "08358053000190-2026-166",
+   "orgao": "MUNICIPIO DE PORTALEGRE",
+   "municipio": "Portalegre",
+   "uf": "RN",
+   "objeto": "[Portal de Compras Públicas] - Seleção de instituição financeira enquadrada nas categorias S1 ou S2, conforme classificação do Banco Central do Brasil, para exploração, mediante concessão onerosa de uso, pelo prazo de 05 (cinco) anos, da exclusividade da gestão e processamento da folha de pagamento dos servidores públicos municipais, bem como para operacionalização de empréstimos consignados, sem caráter de exclusividade, e da arrecadação das receitas municipais, igualmente sem exclusividade.",
    "modalidade": "Pregão - Eletrônico",
-   "numero": "10",
-   "fimVigencia": "2026-11-05T08:59",
-   "diasRestantes": 13,
-   "valorEstimado": 79959.01,
+   "numero": "19",
+   "fimVigencia": "2026-10-29T08:00",
+   "diasRestantes": 3,
+   "valorEstimado": 58506,
    "qtdItens": 1,
    "modulos": [
-    "prontuario",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
+    "arrecadac",
+    "folha de pagamento"
    ],
-   "ader": 57,
-   "score": 64,
+   "ader": 40,
+   "score": 65,
    "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/76995448000154/2026/174"
+   "pncpUrl": "https://pncp.gov.br/app/editais/08358053000190/2026/166"
+  },
+  {
+   "id": "10291177000148-2026-57",
+   "orgao": "MUNICIPIO DE RIO FORMOSO",
+   "municipio": "Rio Formoso",
+   "uf": "PE",
+   "objeto": "1.1\tConstitui objeto da presente licitação a seleção da proposta mais vantajosa através de dispensa eletrônica para a contratação de empresa especializada para a prestação de serviços continuados de locação, licenciamento, hospedagem em ambiente web seguro, atualização legal/tecnológica e suporte técnico de software integrado para o sistema de arrecadação de tributos, estruturado em módulos essenciais para a gestão fiscal, tributária e cadastral do Município, conforme condições, quantidades, especificações e exigências estabelecidas neste Aviso de Contratação Direta e seus respectivos anexos.",
+   "modalidade": "Dispensa",
+   "numero": "005",
+   "fimVigencia": "2026-10-29T08:00",
+   "diasRestantes": 3,
+   "valorEstimado": 61885.44,
+   "qtdItens": 3,
+   "modulos": [
+    "arrecadac",
+    "tributar",
+    "nota fiscal eletronica",
+    "software",
+    "suporte tecnico"
+   ],
+   "ader": 41,
+   "score": 65,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/10291177000148/2026/57"
   },
   {
    "id": "91566885000146-2026-76",
@@ -601,7 +671,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "20",
    "fimVigencia": "2026-11-12T13:30",
-   "diasRestantes": 21,
+   "diasRestantes": 18,
    "valorEstimado": 24000,
    "qtdItens": 1,
    "modulos": [
@@ -625,7 +695,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "52",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 19,
+   "diasRestantes": 16,
    "valorEstimado": 8410,
    "qtdItens": 2,
    "modulos": [
@@ -643,25 +713,29 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/75730994000109/2026/360"
   },
   {
-   "id": "08358053000190-2026-166",
-   "orgao": "MUNICIPIO DE PORTALEGRE",
-   "municipio": "Portalegre",
-   "uf": "RN",
-   "objeto": "[Portal de Compras Públicas] - Seleção de instituição financeira enquadrada nas categorias S1 ou S2, conforme classificação do Banco Central do Brasil, para exploração, mediante concessão onerosa de uso, pelo prazo de 05 (cinco) anos, da exclusividade da gestão e processamento da folha de pagamento dos servidores públicos municipais, bem como para operacionalização de empréstimos consignados, sem caráter de exclusividade, e da arrecadação das receitas municipais, igualmente sem exclusividade.",
+   "id": "08435854000102-2026-6",
+   "orgao": "AUTARQUIA MUNICIPAL DE TRANSITO E TRANSPORTE DE CONTAGEM - TRANSCON",
+   "municipio": "Contagem",
+   "uf": "MG",
+   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços relacionados a solução tecnológica por meio software nativo em nuvem para Programação de linhas e frotas, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.\nO serviço compreende o Fornecimento, implantação, suporte técnico, treinamento, atualização, garantia de funcionamento, transferência de conhecimento, capacitação operacional, reversibilidade de dados e realização de atividades de programação de linhas e frotas, bem como a flexibilidade para trabalho em diferentes configurações, oferecendo ao órgão gestor ferramenta necessária para a gestão do serviço do Sistema Integrado de Mobilidade (SIM).",
    "modalidade": "Pregão - Eletrônico",
-   "numero": "19",
-   "fimVigencia": "2026-10-29T08:00",
-   "diasRestantes": 6,
-   "valorEstimado": 58506,
+   "numero": "023",
+   "fimVigencia": "2026-11-10T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 511200,
    "qtdItens": 1,
    "modulos": [
-    "arrecadac",
-    "folha de pagamento"
+    "sistema integrado",
+    "implantacao",
+    "software",
+    "treinamento",
+    "suporte tecnico",
+    "nuvem"
    ],
-   "ader": 40,
+   "ader": 42,
    "score": 61,
    "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/08358053000190/2026/166"
+   "pncpUrl": "https://pncp.gov.br/app/editais/08435854000102/2026/6"
   },
   {
    "id": "46482832000192-2026-771",
@@ -672,7 +746,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": null,
    "fimVigencia": "2026-11-06T08:00",
-   "diasRestantes": 14,
+   "diasRestantes": 11,
    "valorEstimado": 185403.24,
    "qtdItens": 1,
    "modulos": [
@@ -696,7 +770,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "58",
    "fimVigencia": "2026-11-16T09:00",
-   "diasRestantes": 24,
+   "diasRestantes": 21,
    "valorEstimado": 460145,
    "qtdItens": 10,
    "modulos": [
@@ -721,7 +795,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "119",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 19,
+   "diasRestantes": 16,
    "valorEstimado": 8410,
    "qtdItens": 2,
    "modulos": [
@@ -738,31 +812,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/75730994000109/2026/362"
   },
   {
-   "id": "08435854000102-2026-6",
-   "orgao": "AUTARQUIA MUNICIPAL DE TRANSITO E TRANSPORTE DE CONTAGEM - TRANSCON",
-   "municipio": "Contagem",
-   "uf": "MG",
-   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços relacionados a solução tecnológica por meio software nativo em nuvem para Programação de linhas e frotas, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.\nO serviço compreende o Fornecimento, implantação, suporte técnico, treinamento, atualização, garantia de funcionamento, transferência de conhecimento, capacitação operacional, reversibilidade de dados e realização de atividades de programação de linhas e frotas, bem como a flexibilidade para trabalho em diferentes configurações, oferecendo ao órgão gestor ferramenta necessária para a gestão do serviço do Sistema Integrado de Mobilidade (SIM).",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "023",
-   "fimVigencia": "2026-11-10T09:00",
-   "diasRestantes": 18,
-   "valorEstimado": 511200,
-   "qtdItens": 1,
-   "modulos": [
-    "sistema integrado",
-    "implantacao",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 42,
-   "score": 56,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/08435854000102/2026/6"
-  },
-  {
    "id": "78134012000104-2026-59",
    "orgao": "ARAUCARIA CAMARA MUNICIPAL",
    "municipio": "Araucária",
@@ -771,7 +820,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "18",
    "fimVigencia": "2026-10-26T09:00",
-   "diasRestantes": 3,
+   "diasRestantes": 0,
    "valorEstimado": 3338825.67,
    "qtdItens": 4,
    "modulos": [
@@ -797,7 +846,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "16",
    "fimVigencia": "2026-11-04T08:00",
-   "diasRestantes": 12,
+   "diasRestantes": 9,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -817,6 +866,33 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/24851453000190/2026/39"
   },
   {
+   "id": "07385503000171-2026-71",
+   "orgao": "MUNICIPIO DE ALTANEIRA",
+   "municipio": "Altaneira",
+   "uf": "CE",
+   "objeto": "Contratação de empresa especializada na prestação de serviços de locação, manutenção e treinamento dos sistemas informatizados e integrados (software) de nota fiscal eletrônica, tributos, contabilidade, patrimônio, almoxarifado, portal da transparência, E-sic (Sistema eletrônico do serviço de informação ao cidadão) e ouvidoria junto a Secretaria Municipal de Administração e Finanças de Altaneira/CE",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "2026.10.09.1",
+   "fimVigencia": "2026-10-27T09:00",
+   "diasRestantes": 1,
+   "valorEstimado": 155760,
+   "qtdItens": 1,
+   "modulos": [
+    "contabil",
+    "portal da transparencia",
+    "nota fiscal eletronica",
+    "patrimonio",
+    "almoxarifado",
+    "transparencia",
+    "software",
+    "treinamento"
+   ],
+   "ader": 0,
+   "score": 49,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/07385503000171/2026/71"
+  },
+  {
    "id": "08086662000138-2026-125",
    "orgao": "MUNICIPIO DE JARDIM DO SERIDO",
    "municipio": "Jardim do Seridó",
@@ -825,7 +901,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "46",
    "fimVigencia": "2026-11-04T08:00",
-   "diasRestantes": 12,
+   "diasRestantes": 9,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -841,31 +917,53 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/08086662000138/2026/125"
   },
   {
-   "id": "07385503000171-2026-71",
-   "orgao": "MUNICIPIO DE ALTANEIRA",
-   "municipio": "Altaneira",
-   "uf": "CE",
-   "objeto": "Contratação de empresa especializada na prestação de serviços de locação, manutenção e treinamento dos sistemas informatizados e integrados (software) de nota fiscal eletrônica, tributos, contabilidade, patrimônio, almoxarifado, portal da transparência, E-sic (Sistema eletrônico do serviço de informação ao cidadão) e ouvidoria junto a Secretaria Municipal de Administração e Finanças de Altaneira/CE",
+   "id": "45301264000113-2026-328",
+   "orgao": "MUNICIPIO DE MOGI-GUACU",
+   "municipio": "Mogi Guaçu",
+   "uf": "SP",
+   "objeto": "Contratação de empresa especializada para fornecimento de licença de software destinado ao suporte das atividades de auditoria tributária municipal e ao acompanhamento do Valor Adicionado Fiscal (VAF), visando auxiliar na apuração e no monitoramento dos índices de participação do Município na arrecadação do ICMS.",
    "modalidade": "Pregão - Eletrônico",
-   "numero": "2026.10.09.1",
-   "fimVigencia": "2026-10-27T09:00",
-   "diasRestantes": 4,
-   "valorEstimado": 155760,
+   "numero": "PE26",
+   "fimVigencia": "2026-11-09T09:00",
+   "diasRestantes": 14,
+   "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
-    "contabil",
-    "portal da transparencia",
-    "nota fiscal eletronica",
-    "patrimonio",
-    "almoxarifado",
-    "transparencia",
+    "arrecadac",
+    "tributar",
+    "software"
+   ],
+   "ader": 56,
+   "score": 41,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/45301264000113/2026/328"
+  },
+  {
+   "id": "33710823000160-2026-17",
+   "orgao": "CUIABA CAMARA MUNICIPAL",
+   "municipio": "Cuiabá",
+   "uf": "MT",
+   "objeto": "Contratação de empresa especializada no fornecimento de Solução Integrada de Gestão\nPública, do tipo ERP, na modalidade SaaS (software como serviço), em ambiente web,\nhospedagem de dados na nuvem, incluindo backups, ambiente escalável de alta\ndisponibilidade e com solução de recuperação de desastres, contemplando ainda o conjunto\nde ações para o pleno funcionamento, sendo estes instalação, configuração,\nparametrização, migração de dados, implantação, bem como atualizações corretivas,\nevolutivas e legais, consultoria, customização, treinamento, suporte técnico e importação de\nbases legadas, conforme detalhamentos deste Termo de Referência.",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "7",
+   "fimVigencia": "2026-11-16T10:00",
+   "diasRestantes": 21,
+   "valorEstimado": 1325135.76,
+   "qtdItens": 1,
+   "modulos": [
+    "erp",
+    "implantacao",
+    "migracao",
+    "saas",
     "software",
-    "treinamento"
+    "treinamento",
+    "suporte tecnico",
+    "nuvem"
    ],
    "ader": 0,
-   "score": 45,
+   "score": 39,
    "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/07385503000171/2026/71"
+   "pncpUrl": "https://pncp.gov.br/app/editais/33710823000160/2026/17"
   },
   {
    "id": "18338236000106-2026-89",
@@ -876,7 +974,7 @@
    "modalidade": "Pregão - Presencial",
    "numero": "107",
    "fimVigencia": "2026-11-04T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 9,
    "valorEstimado": 74400,
    "qtdItens": 1,
    "modulos": [
@@ -893,28 +991,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/18338236000106/2026/89"
   },
   {
-   "id": "45301264000113-2026-328",
-   "orgao": "MUNICIPIO DE MOGI-GUACU",
-   "municipio": "Mogi Guaçu",
-   "uf": "SP",
-   "objeto": "Contratação de empresa especializada para fornecimento de licença de software destinado ao suporte das atividades de auditoria tributária municipal e ao acompanhamento do Valor Adicionado Fiscal (VAF), visando auxiliar na apuração e no monitoramento dos índices de participação do Município na arrecadação do ICMS.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "PE26",
-   "fimVigencia": "2026-11-09T09:00",
-   "diasRestantes": 17,
-   "valorEstimado": 0,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "software"
-   ],
-   "ader": 56,
-   "score": 36,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/45301264000113/2026/328"
-  },
-  {
    "id": "83074294000123-2026-126",
    "orgao": "MUNICIPIO DE RIO DAS ANTAS",
    "municipio": "Rio das Antas",
@@ -923,7 +999,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2027-05-18T17:00",
-   "diasRestantes": 208,
+   "diasRestantes": 205,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -945,7 +1021,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-30T00:00",
-   "diasRestantes": 1529,
+   "diasRestantes": 1526,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -967,7 +1043,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2050-12-30T23:59",
-   "diasRestantes": 8835,
+   "diasRestantes": 8832,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -991,7 +1067,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2027-05-03T17:00",
-   "diasRestantes": 193,
+   "diasRestantes": 190,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1013,7 +1089,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-04-01T11:20",
-   "diasRestantes": 1256,
+   "diasRestantes": 1253,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1035,7 +1111,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-18T00:00",
-   "diasRestantes": 1517,
+   "diasRestantes": 1514,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1056,7 +1132,7 @@
    "modalidade": "Credenciamento",
    "numero": "11",
    "fimVigencia": "2027-06-16T09:00",
-   "diasRestantes": 236,
+   "diasRestantes": 233,
    "valorEstimado": 1.24,
    "qtdItens": 1,
    "modulos": [
@@ -1077,7 +1153,7 @@
    "modalidade": "Credenciamento",
    "numero": "008",
    "fimVigencia": "2027-09-08T23:59",
-   "diasRestantes": 321,
+   "diasRestantes": 318,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1098,7 +1174,7 @@
    "modalidade": "Credenciamento",
    "numero": "1",
    "fimVigencia": "2027-02-04T15:55",
-   "diasRestantes": 105,
+   "diasRestantes": 102,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
