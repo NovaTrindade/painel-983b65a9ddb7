@@ -1,0 +1,50 @@
+{
+ "id": "46384400000149-2026-590",
+ "extraidoEm": "2026-10-26T13:20:37.023Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/46384400000149/2026/590",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Portaria-13-2024-Sancoes.txt",
+   "titulo": "Portaria 13 2024 - Sancoes.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 4,
+   "caracteres": 8063
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-163-00000690-2026-08-Pri-Minuta-de-Contrato-Digitalizacao.txt",
+   "titulo": "163.00000690 2026-08 - Pri - Minuta de Contrato - Digitalizacao.pdf",
+   "tipo": "Minuta do Contrato",
+   "paginas": 11,
+   "caracteres": 36231
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-34-2026.txt",
+   "titulo": "34/2026.pdf",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 3,
+   "caracteres": 9139
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-14-2026.txt",
+   "titulo": "14/2026.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 14,
+   "caracteres": 44702
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-29-2026.txt",
+   "titulo": "29/2026.pdf",
+   "tipo": "Edital",
+   "paginas": 28,
+   "caracteres": 68113
+  }
+ ],
+ "totalPaginas": 60,
+ "totalCaracteres": 166248,
+ "comErro": 0
+}

@@ -1,0 +1,42 @@
+{
+ "id": "42498600000171-2026-4616",
+ "extraidoEm": "2026-10-26T13:20:45.065Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/42498600000171/2026/4616",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-de-Licitacao-Computadores.txt",
+   "titulo": "Edital de Licitacao Computadores.pdf",
+   "tipo": "Edital",
+   "paginas": 25,
+   "caracteres": 90343
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Minuta-de-Contrato-Computadores.txt",
+   "titulo": "Minuta de Contrato Computadores.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 20,
+   "caracteres": 59258
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Estudo-Tecnico-Preliminar-Computadores.txt",
+   "titulo": "Estudo Tecnico Preliminar Computadores.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 6,
+   "caracteres": 11565
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-Termo-de-Referencia-Computadores.txt",
+   "titulo": "Termo de Referencia Computadores.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 8,
+   "caracteres": 15101
+  }
+ ],
+ "totalPaginas": 59,
+ "totalCaracteres": 176267,
+ "comErro": 0
+}

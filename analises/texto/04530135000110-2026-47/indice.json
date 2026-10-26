@@ -1,0 +1,26 @@
+{
+ "id": "04530135000110-2026-47",
+ "extraidoEm": "2026-10-26T13:20:40.163Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/04530135000110/2026/47",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-PREGAO-PRESENCIAL-COPA-COZINHA-PAUINI-2026.txt",
+   "titulo": "EDITAL_PREGAO_PRESENCIAL_COPA_COZINHA_PAUINI_2026.pdf",
+   "tipo": "Edital",
+   "paginas": 69,
+   "caracteres": 200930
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-EDITAL-PP-020-2026.txt",
+   "titulo": "EDITAL_PP_020.2026.pdf",
+   "tipo": "Edital",
+   "paginas": 1,
+   "caracteres": 1766
+  }
+ ],
+ "totalPaginas": 70,
+ "totalCaracteres": 202696,
+ "comErro": 0
+}
