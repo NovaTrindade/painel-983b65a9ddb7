@@ -1,6 +1,6 @@
 {
- "gerado": "2026-10-26T09:34:18.939Z",
- "referencia": "2026-10-26",
+ "gerado": "2026-10-27T05:51:06.921Z",
+ "referencia": "2026-10-27",
  "empresa": "IA Tecnologia",
  "criterioVersao": 1,
  "regraValor": {
@@ -10,29 +10,30 @@
   "pisoDemaisUFs": 2000000
  },
  "execucao": {
-  "universoAberto": 2762,
-  "excluidosPorPalavraChave": 1446,
-  "excluidosQueSeriamCandidatos": 102,
+  "universoAberto": 2587,
+  "excluidosPorPalavraChave": 1388,
+  "excluidosQueSeriamCandidatos": 107,
   "custoPorTermo": {
-   "aquisicao": 84,
-   "fornecimento": 15
+   "aquisicao": 87,
+   "fornecimento": 18
   },
   "termosExcluidos": [
    "aquisicao",
    "fornecimento"
   ],
-  "descartadosPorAderencia": 1183,
-  "candidatos": 133,
-  "itensObtidos": 127,
-  "itensFalhou": 6,
-  "foraPorValor": 81,
-  "semValorPublicado": 23,
+  "descartadosPorAderencia": 1076,
+  "candidatos": 123,
+  "itensObtidos": 123,
+  "itensFalhou": 0,
+  "itensNaoTentados": 0,
+  "foraPorValor": 77,
+  "semValorPublicado": 16,
   "consultas": [
    {
     "consulta": "notebook",
     "linha": "hardware",
-    "total": 539,
-    "novos": 488,
+    "total": 541,
+    "novos": 490,
     "paginasOk": 10,
     "paginasFalhas": 1,
     "parcial": true,
@@ -42,8 +43,8 @@
    {
     "consulta": "laptop",
     "linha": "hardware",
-    "total": 13,
-    "novos": 7,
+    "total": 14,
+    "novos": 4,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -53,8 +54,8 @@
    {
     "consulta": "chromebook",
     "linha": "hardware",
-    "total": 18,
-    "novos": 10,
+    "total": 20,
+    "novos": 11,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -64,8 +65,8 @@
    {
     "consulta": "desktop",
     "linha": "hardware",
-    "total": 250,
-    "novos": 112,
+    "total": 256,
+    "novos": 113,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -75,18 +76,18 @@
    {
     "consulta": "computador",
     "linha": "hardware",
-    "total": 1013,
-    "novos": 552,
-    "paginasOk": 18,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 1017,
+    "novos": 489,
+    "paginasOk": 16,
+    "paginasFalhas": 2,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "microcomputador",
     "linha": "hardware",
-    "total": 330,
+    "total": 327,
     "novos": 96,
     "paginasOk": 7,
     "paginasFalhas": 0,
@@ -97,8 +98,8 @@
    {
     "consulta": "estacao trabalho",
     "linha": "hardware",
-    "total": 186,
-    "novos": 111,
+    "total": 180,
+    "novos": 108,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -109,7 +110,7 @@
     "consulta": "estacoes trabalho",
     "linha": "hardware",
     "total": 52,
-    "novos": 21,
+    "novos": 20,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -119,8 +120,8 @@
    {
     "consulta": "tablet",
     "linha": "hardware",
-    "total": 335,
-    "novos": 185,
+    "total": 333,
+    "novos": 171,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -131,7 +132,7 @@
     "consulta": "tablets",
     "linha": "hardware",
     "total": 94,
-    "novos": 19,
+    "novos": 18,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -141,8 +142,8 @@
    {
     "consulta": "pcaas",
     "linha": "hardware",
-    "total": 51,
-    "novos": 48,
+    "total": 52,
+    "novos": 50,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -152,8 +153,8 @@
    {
     "consulta": "locacao computador",
     "linha": "hardware",
-    "total": 159,
-    "novos": 14,
+    "total": 154,
+    "novos": 20,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -163,7 +164,7 @@
    {
     "consulta": "locacao notebook",
     "linha": "hardware",
-    "total": 59,
+    "total": 57,
     "novos": 8,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -174,33 +175,33 @@
    {
     "consulta": "locacao equipamentos",
     "linha": "hardware",
-    "total": 913,
-    "novos": 749,
-    "paginasOk": 18,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 896,
+    "novos": 670,
+    "paginasOk": 16,
+    "paginasFalhas": 2,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "ged",
     "linha": "ged",
-    "total": 13,
-    "novos": 10,
+    "total": 14,
+    "novos": 0,
     "paginasOk": 1,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "digitalizacao",
     "linha": "ged",
-    "total": 280,
-    "novos": 95,
-    "paginasOk": 6,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 288,
+    "novos": 76,
+    "paginasOk": 5,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
@@ -218,8 +219,8 @@
    {
     "consulta": "gestao documental",
     "linha": "ged",
-    "total": 35,
-    "novos": 17,
+    "total": 39,
+    "novos": 21,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -229,8 +230,8 @@
    {
     "consulta": "gestao documentos",
     "linha": "ged",
-    "total": 144,
-    "novos": 87,
+    "total": 149,
+    "novos": 94,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -240,7 +241,7 @@
    {
     "consulta": "indexacao documentos",
     "linha": "ged",
-    "total": 18,
+    "total": 19,
     "novos": 1,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -251,7 +252,7 @@
    {
     "consulta": "microfilmagem",
     "linha": "ged",
-    "total": 5,
+    "total": 4,
     "novos": 3,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -262,8 +263,8 @@
    {
     "consulta": "microfilme",
     "linha": "ged",
-    "total": 5,
-    "novos": 1,
+    "total": 6,
+    "novos": 2,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -273,7 +274,7 @@
    {
     "consulta": "tratamento arquivistico",
     "linha": "ged",
-    "total": 7,
+    "total": 8,
     "novos": 1,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -284,7 +285,7 @@
    {
     "consulta": "guarda documentos",
     "linha": "ged",
-    "total": 129,
+    "total": 132,
     "novos": 57,
     "paginasOk": 3,
     "paginasFalhas": 0,
@@ -295,8 +296,8 @@
    {
     "consulta": "ar condicionado [RJ]",
     "linha": "climatizacao",
-    "total": 57,
-    "novos": 46,
+    "total": 54,
+    "novos": 43,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -306,8 +307,8 @@
    {
     "consulta": "climatizacao [RJ]",
     "linha": "climatizacao",
-    "total": 15,
-    "novos": 8,
+    "total": 12,
+    "novos": 6,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -317,8 +318,8 @@
    {
     "consulta": "refrigeracao [RJ]",
     "linha": "climatizacao",
-    "total": 54,
-    "novos": 15,
+    "total": 52,
+    "novos": 12,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -329,7 +330,7 @@
     "consulta": "locacao ar [RJ]",
     "linha": "climatizacao",
     "total": 12,
-    "novos": 1,
+    "novos": 3,
     "paginasOk": 1,
     "paginasFalhas": 0,
     "parcial": false,
@@ -339,7 +340,7 @@
    {
     "consulta": "btus [RJ]",
     "linha": "climatizacao",
-    "total": 9,
+    "total": 10,
     "novos": 0,
     "paginasOk": 1,
     "paginasFalhas": 0,
@@ -349,31 +350,68 @@
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 1,
-  "paginasPerdidas": 1,
+  "consultasParciais": 5,
+  "paginasPerdidas": 7,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 14.9
+  "minutosBusca": 20.9
  },
  "resumo": {
-  "total": 52,
-  "prioridade": 6,
-  "avaliar": 13,
-  "triar": 10,
-  "semValor": 23,
-  "rj": 13,
-  "urgentes7d": 21,
-  "valorTotal": 108094277.09,
-  "valorRJ": 8813001.18,
-  "valorUrgentes": 38035578.42,
+  "total": 46,
+  "prioridade": 7,
+  "avaliar": 11,
+  "triar": 12,
+  "semValor": 16,
+  "rj": 12,
+  "urgentes7d": 19,
+  "valorTotal": 118122465.81,
+  "valorRJ": 8803607.8,
+  "valorUrgentes": 47432107.08,
   "suspeitos": 0,
   "porLinha": {
-   "hardware": 35,
+   "hardware": 31,
    "climatizacao": 4,
-   "ged": 20
+   "ged": 16
   }
  },
  "editais": [
+  {
+   "id": "83102228000110-2026-111",
+   "orgao": "MUNICIPIO DE ARAQUARI",
+   "municipio": "Araquari",
+   "uf": "SC",
+   "objeto": "Contratação de empresa especializada para a prestação de serviços de locação de equipamentos de informática, compreendendo estações de trabalho, notebooks, monitores, tablets, periféricos e suítes de produtividade, com disponibilização de solução de gerenciamento centralizado, suporte técnico e manutenção preventiva e corretiva, destinados ao atendimento das demandas operacionais e gerenciais das unidades administrativas e operacionais do Município de Araquari",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": null,
+   "fimVigencia": "2026-10-27T09:00",
+   "diasRestantes": 0,
+   "valorEstimado": 4099665.24,
+   "qtdItens": 9,
+   "modulos": [
+    "locacao de equipamentos de informatica",
+    "equipamentos de informatica",
+    "estacao de trabalho",
+    "estacoes de trabalho",
+    "notebook",
+    "tablet",
+    "locacao",
+    "informatica",
+    "manutencao preventiva",
+    "suporte tecnico",
+    "prestacao de servicos"
+   ],
+   "ader": 100,
+   "score": 98,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/83102228000110/2026/111"
+  },
   {
    "id": "42498733000148-2026-2082",
    "orgao": "MUNICIPIO DE RIO DE JANEIRO",
@@ -387,7 +425,7 @@
    ],
    "numero": "1770",
    "fimVigencia": "2026-10-29T11:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 141120,
    "qtdItens": 1,
    "modulos": [
@@ -419,7 +457,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-11-23T10:45",
-   "diasRestantes": 28,
+   "diasRestantes": 27,
    "valorEstimado": 1383534,
    "qtdItens": 1,
    "modulos": [
@@ -455,7 +493,7 @@
    ],
    "numero": "PE0402",
    "fimVigencia": "2026-11-04T08:30",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 4431244.8,
    "qtdItens": 4,
    "modulos": [
@@ -482,6 +520,41 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01560393000150/2026/16"
   },
   {
+   "id": "12264628000183-2026-62",
+   "orgao": "MUNICIPIO DE CAMPO ALEGRE",
+   "municipio": "Campo Alegre",
+   "uf": "AL",
+   "objeto": "PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware",
+    "ged"
+   ],
+   "numero": "048",
+   "fimVigencia": "2026-11-11T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 4183813.32,
+   "qtdItens": 9,
+   "modulos": [
+    "locacao de equipamentos de informatica",
+    "equipamentos de informatica",
+    "notebook",
+    "desktop",
+    "microcomputador",
+    "locacao",
+    "computador",
+    "informatica"
+   ],
+   "ader": 100,
+   "score": 87,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/12264628000183/2026/62"
+  },
+  {
    "id": "20362307000140-2026-35",
    "orgao": "ASSOCIACAO DOS MUNICIPIOS DA MICRORREGIAO DO MEDIO SAPUCAI - AMESP",
    "municipio": "Pouso Alegre",
@@ -493,7 +566,7 @@
    ],
    "numero": "17",
    "fimVigencia": "2026-11-05T08:30",
-   "diasRestantes": 10,
+   "diasRestantes": 9,
    "valorEstimado": 27247286.44,
    "qtdItens": 1,
    "modulos": [
@@ -515,6 +588,37 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/20362307000140/2026/35"
   },
   {
+   "id": "29138377000193-2026-146",
+   "orgao": "MUNICIPIO DE TRES RIOS",
+   "municipio": "Três Rios",
+   "uf": "RJ",
+   "objeto": "Registro de preços para a contratação de empresa especializada na prestação de serviços de manutenção preventiva e corretiva, com fornecimento de peças, em notebooks, computadores e seus periféricos, para atender as necessidades da Prefeitura do Município de Três Rios.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "130",
+   "fimVigencia": "2026-10-30T08:00",
+   "diasRestantes": 3,
+   "valorEstimado": 3906627.2,
+   "qtdItens": 10,
+   "modulos": [
+    "notebook",
+    "microcomputador",
+    "computador",
+    "manutencao preventiva",
+    "prestacao de servicos"
+   ],
+   "ader": 60,
+   "score": 86,
+   "suspeito": [],
+   "semPiso": true,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/29138377000193/2026/146"
+  },
+  {
    "id": "42521088000137-2026-85",
    "orgao": "INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL",
    "municipio": "Rio de Janeiro",
@@ -526,7 +630,7 @@
    ],
    "numero": "10",
    "fimVigencia": "2026-10-29T11:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 335744.67,
    "qtdItens": 10,
    "modulos": [
@@ -546,72 +650,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/42521088000137/2026/85"
   },
   {
-   "id": "12264628000183-2026-62",
-   "orgao": "MUNICIPIO DE CAMPO ALEGRE",
-   "municipio": "Campo Alegre",
-   "uf": "AL",
-   "objeto": "PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware",
-    "ged"
-   ],
-   "numero": "048",
-   "fimVigencia": "2026-11-11T09:00",
-   "diasRestantes": 16,
-   "valorEstimado": 4183813.32,
-   "qtdItens": 9,
-   "modulos": [
-    "locacao de equipamentos de informatica",
-    "equipamentos de informatica",
-    "notebook",
-    "desktop",
-    "microcomputador",
-    "locacao",
-    "computador",
-    "informatica"
-   ],
-   "ader": 100,
-   "score": 81,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/12264628000183/2026/62"
-  },
-  {
-   "id": "29138377000193-2026-146",
-   "orgao": "MUNICIPIO DE TRES RIOS",
-   "municipio": "Três Rios",
-   "uf": "RJ",
-   "objeto": "Registro de preços para a contratação de empresa especializada na prestação de serviços de manutenção preventiva e corretiva, com fornecimento de peças, em notebooks, computadores e seus periféricos, para atender as necessidades da Prefeitura do Município de Três Rios.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "130",
-   "fimVigencia": "2026-10-30T08:00",
-   "diasRestantes": 4,
-   "valorEstimado": 3906627.2,
-   "qtdItens": 10,
-   "modulos": [
-    "notebook",
-    "microcomputador",
-    "computador",
-    "manutencao preventiva",
-    "prestacao de servicos"
-   ],
-   "ader": 60,
-   "score": 81,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/29138377000193/2026/146"
-  },
-  {
    "id": "42414284000102-2026-230",
    "orgao": "COLEGIO PEDRO II",
    "municipio": "Rio de Janeiro",
@@ -623,7 +661,7 @@
    ],
    "numero": "12",
    "fimVigencia": "2026-10-29T08:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 264036.09,
    "qtdItens": 10,
    "modulos": [
@@ -645,42 +683,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/42414284000102/2026/230"
   },
   {
-   "id": "83102228000110-2026-111",
-   "orgao": "MUNICIPIO DE ARAQUARI",
-   "municipio": "Araquari",
-   "uf": "SC",
-   "objeto": "Contratação de empresa especializada para a prestação de serviços de locação de equipamentos de informática, compreendendo estações de trabalho, notebooks, monitores, tablets, periféricos e suítes de produtividade, com disponibilização de solução de gerenciamento centralizado, suporte técnico e manutenção preventiva e corretiva, destinados ao atendimento das demandas operacionais e gerenciais das unidades administrativas e operacionais do Município de Araquari",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": null,
-   "fimVigencia": "2026-10-27T09:00",
-   "diasRestantes": 1,
-   "valorEstimado": 0,
-   "qtdItens": 0,
-   "modulos": [
-    "locacao de equipamentos de informatica",
-    "equipamentos de informatica",
-    "estacoes de trabalho",
-    "notebook",
-    "tablet",
-    "locacao",
-    "informatica",
-    "manutencao preventiva",
-    "suporte tecnico",
-    "prestacao de servicos"
-   ],
-   "ader": 100,
-   "score": 80,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/83102228000110/2026/111"
-  },
-  {
    "id": "07598618000144-2026-111",
    "orgao": "MUNICIPIO DE COREAU",
    "municipio": "Coreaú",
@@ -692,7 +694,7 @@
    ],
    "numero": "0814.01DIV",
    "fimVigencia": "2026-10-27T09:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 0,
    "qtdItens": 6,
    "modulos": [
@@ -729,7 +731,7 @@
    ],
    "numero": "71",
    "fimVigencia": "2026-10-27T10:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 10292105.16,
    "qtdItens": 10,
    "modulos": [
@@ -748,6 +750,41 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/04794681000168/2026/94"
   },
   {
+   "id": "56089790000188-2026-297",
+   "orgao": "SECRETARIA DE INFRAESTRUTURA E MEIO AMBIENTE",
+   "municipio": "São Paulo",
+   "uf": "SP",
+   "objeto": "Contratação de serviços continuados de locação de computadores desktop, workstations e notebooks, destinados à Sede, unidades descentralizadas e órgãos vinculados da SEMIL, incluindo fornecimento, instalação, configuração, manutenção preventiva e corretiva, suporte técnico, substituição de peças e equipamentos, gestão de ativos e chamados, logística, Central de Atendimento e posto técnico residente, com implantação e entrega em etapas.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "158",
+   "fimVigencia": "2026-11-03T09:00",
+   "diasRestantes": 7,
+   "valorEstimado": 0,
+   "qtdItens": 1,
+   "modulos": [
+    "locacao de computador",
+    "estacao de trabalho",
+    "notebook",
+    "desktop",
+    "locacao",
+    "computador",
+    "manutencao preventiva",
+    "suporte tecnico",
+    "instalacao"
+   ],
+   "ader": 100,
+   "score": 76,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/56089790000188/2026/297"
+  },
+  {
    "id": "00394502000144-2026-13786",
    "orgao": "COMANDO DA MARINHA",
    "municipio": "Angra dos Reis",
@@ -759,7 +796,7 @@
    ],
    "numero": "43",
    "fimVigencia": "2026-11-04T10:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 122880,
    "qtdItens": 2,
    "modulos": [
@@ -779,35 +816,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/00394502000144/2026/13786"
   },
   {
-   "id": "05667941000105-2026-38",
-   "orgao": "SUBPREFEITURA DE GUAIANASES",
-   "municipio": "São Paulo",
-   "uf": "SP",
-   "objeto": "SEI 6038.2026/0002998-3 - LOCAÇÃO DE PC´S, TELAS ADICIONAIS E NOTEBOOK´S",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "54",
-   "fimVigencia": "2026-10-29T10:00",
-   "diasRestantes": 3,
-   "valorEstimado": 2284483.2,
-   "qtdItens": 1,
-   "modulos": [
-    "estacao de trabalho",
-    "notebook",
-    "locacao"
-   ],
-   "ader": 50,
-   "score": 72,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/05667941000105/2026/38"
-  },
-  {
    "id": "29141322000132-2026-260",
    "orgao": "MUNICIPIO DE PIRAI",
    "municipio": "Piraí",
@@ -820,7 +828,7 @@
    ],
    "numero": "SMS-038",
    "fimVigencia": "2026-11-06T08:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 555230.64,
    "qtdItens": 3,
    "modulos": [
@@ -838,39 +846,34 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/29141322000132/2026/260"
   },
   {
-   "id": "56089790000188-2026-297",
-   "orgao": "SECRETARIA DE INFRAESTRUTURA E MEIO AMBIENTE",
+   "id": "46384400000149-2026-590",
+   "orgao": "SECRETARIA DE AGRICULTURA E ABASTECIMENTO",
    "municipio": "São Paulo",
    "uf": "SP",
-   "objeto": "Contratação de serviços continuados de locação de computadores desktop, workstations e notebooks, destinados à Sede, unidades descentralizadas e órgãos vinculados da SEMIL, incluindo fornecimento, instalação, configuração, manutenção preventiva e corretiva, suporte técnico, substituição de peças e equipamentos, gestão de ativos e chamados, logística, Central de Atendimento e posto técnico residente, com implantação e entrega em etapas.",
+   "objeto": "Contratação de serviços de gestão documental e digitalização de documentos",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware"
+    "ged"
    ],
-   "numero": "158",
-   "fimVigencia": "2026-11-03T09:00",
-   "diasRestantes": 8,
-   "valorEstimado": 0,
-   "qtdItens": 1,
+   "numero": "62",
+   "fimVigencia": "2026-11-11T10:00",
+   "diasRestantes": 15,
+   "valorEstimado": 4161533.5,
+   "qtdItens": 4,
    "modulos": [
-    "locacao de computador",
-    "estacao de trabalho",
-    "notebook",
-    "desktop",
-    "locacao",
-    "computador",
-    "manutencao preventiva",
-    "suporte tecnico",
+    "gestao documental",
+    "digitalizacao",
+    "indexacao",
     "instalacao"
    ],
-   "ader": 100,
-   "score": 70,
+   "ader": 70,
+   "score": 72,
    "suspeito": [],
    "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/56089790000188/2026/297"
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/46384400000149/2026/590"
   },
   {
    "id": "00037457000170-2026-29",
@@ -884,7 +887,7 @@
    ],
    "numero": "PE048",
    "fimVigencia": "2026-10-29T09:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 5969100.96,
    "qtdItens": 2,
    "modulos": [
@@ -913,7 +916,7 @@
    ],
    "numero": "63",
    "fimVigencia": "2026-10-29T08:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 5000,
    "qtdItens": 1,
    "modulos": [
@@ -930,6 +933,37 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/00394502000144/2026/14301"
   },
   {
+   "id": "42498600000171-2026-3973",
+   "orgao": "ESTADO DO RIO DE JANEIRO",
+   "municipio": "Rio de Janeiro",
+   "uf": "RJ",
+   "objeto": "Contratação de serviços de natureza continuada de empresa especializada para prestação de serviços técnicos de manutenção preventiva, corretiva e assistência técnica – com fornecimento de peças – dos aparelhos de ar condicionado centrais, splits, K7, de janela e cortinas de ar; instalados na sede e suas filiais, da Imprensa Oficial do Estado do Rio de Janeiro, pelo período de 12 (doze) meses, conforme especificado e quantificado no Termo de Referência.",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "climatizacao"
+   ],
+   "numero": "PE001",
+   "fimVigencia": "2026-11-10T16:00",
+   "diasRestantes": 15,
+   "valorEstimado": 678282,
+   "qtdItens": 1,
+   "modulos": [
+    "ar condicionado",
+    "split",
+    "assistencia tecnica",
+    "manutencao preventiva",
+    "prestacao de servicos"
+   ],
+   "ader": 48,
+   "score": 67,
+   "suspeito": [],
+   "semPiso": true,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/42498600000171/2026/3973"
+  },
+  {
    "id": "76105543000135-2026-249",
    "orgao": "MUNICIPIO DE SAO JOSE DOS PINHAIS",
    "municipio": "São José dos Pinhais",
@@ -941,7 +975,7 @@
    ],
    "numero": "184",
    "fimVigencia": "2026-10-29T08:29",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 3879234,
    "qtdItens": 2,
    "modulos": [
@@ -958,64 +992,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/76105543000135/2026/249"
   },
   {
-   "id": "46384400000149-2026-590",
-   "orgao": "SECRETARIA DE AGRICULTURA E ABASTECIMENTO",
-   "municipio": "São Paulo",
-   "uf": "SP",
-   "objeto": "Contratação de serviços de gestão documental e digitalização de documentos",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "ged"
-   ],
-   "numero": "62",
-   "fimVigencia": "2026-11-11T10:00",
-   "diasRestantes": 16,
-   "valorEstimado": 4161533.5,
-   "qtdItens": 4,
-   "modulos": [
-    "gestao documental",
-    "digitalizacao",
-    "indexacao",
-    "instalacao"
-   ],
-   "ader": 70,
-   "score": 66,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/46384400000149/2026/590"
-  },
-  {
-   "id": "00394502000144-2026-14067",
-   "orgao": "COMANDO DA MARINHA",
-   "municipio": "Niterói",
-   "uf": "RJ",
-   "objeto": "01 (um) Projetor de Imagem Tipo de imagem: imagem de microcomputador (multimídia); tipo de foco: manual; voltagem: 110/220 V; acompanhado de controle remoto. Características adicionais: Controle Remoto, brilho: mínimo de 4.000 ANSI lúmens de saída de luz branca, aferidos conforme a norma ISO 21118 ou método ANSI reconhecido, com metodologia e valor comprovados na documentação técnica oficial do fabricante. Resolução nativa: mínima WXGA (1280 × 800 pixels) ou superior. Conectividade: no mínimo 02 entradas HDMI; capacidade de projeção sem fio por Wi-Fi integrado ou por adaptador/módulo wireless compatível, obrigatoriamente fornecido junto com o equipamento. Áudio: alto-falante integrado com potência nominal mínima de 10 W. Recursos ópticos e de imagem: zoom óptico mínimo de 1,3× e correção trapezoidal vertical (keystone), manual ou automática. Durabilidade: vida útil nominal da fonte de luz de, no mínimo, 12.000 horas no modo econômico.",
-   "modalidade": "Dispensa",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "85",
-   "fimVigencia": "2026-10-26T08:00",
-   "diasRestantes": 0,
-   "valorEstimado": 9393.38,
-   "qtdItens": 1,
-   "modulos": [
-    "microcomputador",
-    "computador"
-   ],
-   "ader": 32,
-   "score": 65,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/00394502000144/2026/14067"
-  },
-  {
    "id": "13370183000189-2026-22",
    "orgao": "FUNDACAO HOSPITAL SANTA LYDIA",
    "municipio": "Ribeirão Preto",
@@ -1023,12 +999,11 @@
    "objeto": "Contratação de empresa especializada na prestação locação de equipamentos de impressão/cópia e digitalização e serviços de impressão/cópia, a partir dos equipamentos locados (impressora, multifuncional, scanners e impressoras térmicas), contemplando ainda assistência técnica, instalação de software de monitoramento de impressões e consumo de suprimentos, manutenção preventiva e corretiva com reposição de peças e componentes, suporte técnico e fornecimento de suprimentos (EXCETO PAPEL, ETIQUETAS ",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware",
-    "ged"
+    "hardware"
    ],
    "numero": "10",
    "fimVigencia": "2026-11-09T09:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 4208132.45,
    "qtdItens": 1,
    "modulos": [
@@ -1049,126 +1024,60 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/13370183000189/2026/22"
   },
   {
-   "id": "03353358000196-2026-36",
-   "orgao": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
-   "municipio": "Brasília",
-   "uf": "DF",
-   "objeto": "Serviços de Outsourcing de Impressão, cópia e digitalização, monocromática, e policromática, com fornecimento de equipamentos, peças e consumíveis originais do fabricante, incluindo manutenção preventiva e corretiva, suporte técnico e monitoramento, de acordo com as especificações constantes no Termo de Referência.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "ged"
-   ],
-   "numero": "24",
-   "fimVigencia": "2026-11-03T10:00",
-   "diasRestantes": 8,
-   "valorEstimado": 2094745.44,
-   "qtdItens": 8,
-   "modulos": [
-    "digitalizacao",
-    "outsourcing",
-    "manutencao preventiva",
-    "suporte tecnico"
-   ],
-   "ader": 56,
-   "score": 65,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/03353358000196/2026/36"
-  },
-  {
-   "id": "94709284000133-2026-34",
-   "orgao": "CAMARA MUNICIPAL DE NOVO HAMBURGO",
-   "municipio": "Novo Hamburgo",
+   "id": "87613071000148-2026-413",
+   "orgao": "MUNICIPIO DE SANTO ANGELO",
+   "municipio": "Santo Ângelo",
    "uf": "RS",
-   "objeto": "PREGAO - Contratação de empresa especializada para a prestação de serviços de locação (outsourcing) de computadores, monitores, notebooks e acessórios, visando atender às necessidades da Câmara Municipal de Novo Hamburgo, conforme as condições e especificações técnicas estabelecidas neste Termo de Referência.",
+   "objeto": "REGISTRO DE PREÇOS DE COMPUTADORES, NOTEBOOKS E LICENÇAS PERPÉTUAS, PARA USO DAS DIVERSAS SECRETARIAS E DEPARTAMENTOS",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
     "hardware"
    ],
-   "numero": null,
-   "fimVigencia": "2026-10-26T10:00",
-   "diasRestantes": 0,
-   "valorEstimado": 0,
-   "qtdItens": 0,
-   "modulos": [
-    "outsourcing",
-    "notebook",
-    "locacao",
-    "computador",
-    "prestacao de servicos"
-   ],
-   "ader": 68,
-   "score": 64,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/94709284000133/2026/34"
-  },
-  {
-   "id": "94709284000133-2026-35",
-   "orgao": "CAMARA MUNICIPAL DE NOVO HAMBURGO",
-   "municipio": "Novo Hamburgo",
-   "uf": "RS",
-   "objeto": "PREGAO - Contratação de empresa especializada para a prestação de serviços de locação (outsourcing) de computadores, monitores, notebooks e acessórios, visando atender às necessidades da Câmara Municipal de Novo Hamburgo, conforme as condições e especificações técnicas estabelecidas neste Termo de Referência.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "0050",
-   "fimVigencia": "2026-10-26T14:00",
+   "numero": "0077",
+   "fimVigencia": "2026-10-28T08:00",
    "diasRestantes": 1,
-   "valorEstimado": 0,
-   "qtdItens": 0,
+   "valorEstimado": 3795370,
+   "qtdItens": 6,
    "modulos": [
-    "outsourcing",
     "notebook",
-    "locacao",
-    "computador",
-    "prestacao de servicos"
+    "computador"
    ],
-   "ader": 68,
-   "score": 64,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/94709284000133/2026/35"
-  },
-  {
-   "id": "43976166000150-2026-97",
-   "orgao": "MUNICIPIO DE AMERICO BRASILIENSE",
-   "municipio": "Américo Brasiliense",
-   "uf": "SP",
-   "objeto": "contratação a prestação continuada de serviços de outsourcing de\nimpressão, cópia e digitalização, com disponibilização de equipamentos novos, de primeiro uso,\nem linha regular de produção na data da entrega, incluindo instalação, configuração, suporte\ntécnico, manutenção preventiva e corretiva, reposição de peças e suprimentos, exceto papel,\nbem como disponibilização de software de gerenciamento, monitoramento e bilhetagem, tudo\nnas condições, quantidades e exigências estabelecidas no Termo de Referência",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "ged"
-   ],
-   "numero": null,
-   "fimVigencia": "2026-11-09T09:00",
-   "diasRestantes": 14,
-   "valorEstimado": 2097531.6,
-   "qtdItens": 1,
-   "modulos": [
-    "digitalizacao",
-    "outsourcing",
-    "manutencao preventiva",
-    "instalacao"
-   ],
-   "ader": 55,
+   "ader": 32,
    "score": 64,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": true,
    "passaPiso": true,
    "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/43976166000150/2026/97"
+   "pncpUrl": "https://pncp.gov.br/app/editais/87613071000148/2026/413"
+  },
+  {
+   "id": "87613071000148-2026-412",
+   "orgao": "MUNICIPIO DE SANTO ANGELO",
+   "municipio": "Santo Ângelo",
+   "uf": "RS",
+   "objeto": "REGISTRO DE PREÇOS DE COMPUTADORES, NOTEBOOKS E LICENÇAS PERPÉTUAS, PARA USO DAS DIVERSAS SECRETARIAS E DEPARTAMENTOS",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "77",
+   "fimVigencia": "2026-10-28T08:00",
+   "diasRestantes": 1,
+   "valorEstimado": 3795370,
+   "qtdItens": 6,
+   "modulos": [
+    "notebook",
+    "computador"
+   ],
+   "ader": 32,
+   "score": 64,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/87613071000148/2026/412"
   },
   {
    "id": "14043574000151-2026-391",
@@ -1183,7 +1092,7 @@
    ],
    "numero": "81-2026-PE",
    "fimVigencia": "2026-10-29T08:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 10948733.76,
    "qtdItens": 10,
    "modulos": [
@@ -1201,37 +1110,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/14043574000151/2026/391"
   },
   {
-   "id": "42498600000171-2026-3973",
-   "orgao": "ESTADO DO RIO DE JANEIRO",
-   "municipio": "Rio de Janeiro",
-   "uf": "RJ",
-   "objeto": "Contratação de serviços de natureza continuada de empresa especializada para prestação de serviços técnicos de manutenção preventiva, corretiva e assistência técnica – com fornecimento de peças – dos aparelhos de ar condicionado centrais, splits, K7, de janela e cortinas de ar; instalados na sede e suas filiais, da Imprensa Oficial do Estado do Rio de Janeiro, pelo período de 12 (doze) meses, conforme especificado e quantificado no Termo de Referência.",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "climatizacao"
-   ],
-   "numero": "PE001",
-   "fimVigencia": "2026-11-10T16:00",
-   "diasRestantes": 16,
-   "valorEstimado": 678282,
-   "qtdItens": 1,
-   "modulos": [
-    "ar condicionado",
-    "split",
-    "assistencia tecnica",
-    "manutencao preventiva",
-    "prestacao de servicos"
-   ],
-   "ader": 48,
-   "score": 61,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": true,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/42498600000171/2026/3973"
-  },
-  {
    "id": "29138302000102-2026-261",
    "orgao": "MUNICIPIO DE ITAGUAI",
    "municipio": "Itaguaí",
@@ -1243,7 +1121,7 @@
    ],
    "numero": "084",
    "fimVigencia": "2026-11-06T09:59",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 1411153.2,
    "qtdItens": 3,
    "modulos": [
@@ -1273,7 +1151,7 @@
    ],
    "numero": "0911.01DIV",
    "fimVigencia": "2027-09-18T08:05:45",
-   "diasRestantes": 327,
+   "diasRestantes": 326,
    "valorEstimado": 0,
    "qtdItens": 6,
    "modulos": [
@@ -1310,7 +1188,7 @@
    ],
    "numero": "36",
    "fimVigencia": "2026-11-04T10:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 0,
    "qtdItens": 7,
    "modulos": [
@@ -1333,6 +1211,68 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/18715474000185/2026/52"
   },
   {
+   "id": "05667941000105-2026-38",
+   "orgao": "SUBPREFEITURA DE GUAIANASES",
+   "municipio": "São Paulo",
+   "uf": "SP",
+   "objeto": "SEI 6038.2026/0002998-3 - LOCAÇÃO DE PC´S, TELAS ADICIONAIS E NOTEBOOK´S",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "54",
+   "fimVigencia": "2026-11-12T10:00",
+   "diasRestantes": 16,
+   "valorEstimado": 2284483.2,
+   "qtdItens": 1,
+   "modulos": [
+    "estacao de trabalho",
+    "notebook",
+    "locacao"
+   ],
+   "ader": 50,
+   "score": 56,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/05667941000105/2026/38"
+  },
+  {
+   "id": "04530135000110-2026-47",
+   "orgao": "MUNICIPIO DE PAUINI",
+   "municipio": "Pauini",
+   "uf": "AM",
+   "objeto": "[Portal de Compras Públicas] - REGISTRO DE PREÇOS PARA EVENTUAL PRESTAÇÃO DE SERVIÇOS DE ASSISTÊNCIA TÉCNICA ESPECIALIZADA PARA MANUTENÇÃO CORRETIVA E INSTALAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E INFRAESTRUTURA DE REDE, INCLUINDO COMPUTADORES, NOTEBOOKS, IMPRESSORAS, MONITORES, NOBREAKS, ESTABILIZADORES, ROTEADORES E CABEAMENTO ESTRUTURADO, PARA ATENDER ÀS NECESSIDADES DA PREFEITURA MUNICIPAL DE PAUINI/AM",
+   "modalidade": "Pregão - Presencial",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "020",
+   "fimVigencia": "2026-11-11T09:00",
+   "diasRestantes": 15,
+   "valorEstimado": 0,
+   "qtdItens": 10,
+   "modulos": [
+    "equipamentos de informatica",
+    "notebook",
+    "computador",
+    "informatica",
+    "assistencia tecnica",
+    "instalacao",
+    "prestacao de servicos"
+   ],
+   "ader": 73,
+   "score": 56,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/04530135000110/2026/47"
+  },
+  {
    "id": "82836057000190-2026-134",
    "orgao": "MUNICIPIO DE GAROPABA",
    "municipio": "Garopaba",
@@ -1344,7 +1284,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-11-13T09:00",
-   "diasRestantes": 18,
+   "diasRestantes": 17,
    "valorEstimado": 3015532,
    "qtdItens": 5,
    "modulos": [
@@ -1373,7 +1313,7 @@
    ],
    "numero": null,
    "fimVigencia": "2026-11-09T12:45",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 2621910,
    "qtdItens": 9,
    "modulos": [
@@ -1392,68 +1332,32 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/82926544000143/2026/193"
   },
   {
-   "id": "71584833000195-2026-188",
-   "orgao": "PROCURADORIA GERAL DO ESTADO",
-   "municipio": "São Paulo",
-   "uf": "SP",
-   "objeto": "Contratação de prestação de serviços de impressão corporativa por meio de outsourcing sob a modalidade de locação de equipamentos voltados para impressão e digitalização de documentos, com disponibilização de software de gerenciamento de impressão, sem o fornecimento de papel.",
+   "id": "18715581000103-2026-50",
+   "orgao": "SECRETARIA DE ESTADO DE INFRAESTRUTURA E MOBILIDADE",
+   "municipio": "Belo Horizonte",
+   "uf": "MG",
+   "objeto": "Contratação de serviços de gestão documental e arquivistíca, para execução de atividades de tratamento de massa documental acumulada da Secretaria de Estado de Infraestrutura, Mobilidade e Parcerias ¿ SEINFRA.",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware",
     "ged"
    ],
-   "numero": "28",
-   "fimVigencia": "2026-11-05T09:00",
-   "diasRestantes": 10,
-   "valorEstimado": 0,
-   "qtdItens": 10,
+   "numero": "48",
+   "fimVigencia": "2026-11-13T10:00:21",
+   "diasRestantes": 17,
+   "valorEstimado": 2539453.9,
+   "qtdItens": 2,
    "modulos": [
-    "digitalizacao",
-    "outsourcing",
-    "locacao",
-    "prestacao de servicos"
+    "gestao documental",
+    "arquivistic"
    ],
-   "ader": 62,
-   "score": 51,
+   "ader": 43,
+   "score": 52,
    "suspeito": [],
    "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/71584833000195/2026/188"
-  },
-  {
-   "id": "04530135000110-2026-47",
-   "orgao": "MUNICIPIO DE PAUINI",
-   "municipio": "Pauini",
-   "uf": "AM",
-   "objeto": "[Portal de Compras Públicas] - REGISTRO DE PREÇOS PARA EVENTUAL PRESTAÇÃO DE SERVIÇOS DE ASSISTÊNCIA TÉCNICA ESPECIALIZADA PARA MANUTENÇÃO CORRETIVA E INSTALAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E INFRAESTRUTURA DE REDE, INCLUINDO COMPUTADORES, NOTEBOOKS, IMPRESSORAS, MONITORES, NOBREAKS, ESTABILIZADORES, ROTEADORES E CABEAMENTO ESTRUTURADO, PARA ATENDER ÀS NECESSIDADES DA PREFEITURA MUNICIPAL DE PAUINI/AM",
-   "modalidade": "Pregão - Presencial",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "020",
-   "fimVigencia": "2026-11-11T09:00",
-   "diasRestantes": 16,
-   "valorEstimado": 0,
-   "qtdItens": 10,
-   "modulos": [
-    "equipamentos de informatica",
-    "notebook",
-    "computador",
-    "informatica",
-    "assistencia tecnica",
-    "instalacao",
-    "prestacao de servicos"
-   ],
-   "ader": 73,
-   "score": 50,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/04530135000110/2026/47"
+   "valorConhecido": true,
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/18715581000103/2026/50"
   },
   {
    "id": "43076702000161-2026-135",
@@ -1467,7 +1371,7 @@
    ],
    "numero": "130",
    "fimVigencia": "2026-10-27T10:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1495,7 +1399,7 @@
    ],
    "numero": "21",
    "fimVigencia": "2026-11-12T08:30",
-   "diasRestantes": 17,
+   "diasRestantes": 16,
    "valorEstimado": 4944005.76,
    "qtdItens": 1,
    "modulos": [
@@ -1524,7 +1428,7 @@
    ],
    "numero": "012",
    "fimVigencia": "2026-10-29T09:29",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 0,
    "qtdItens": 5,
    "modulos": [
@@ -1544,60 +1448,34 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/01612369000118/2026/41"
   },
   {
-   "id": "87613071000148-2026-413",
-   "orgao": "MUNICIPIO DE SANTO ANGELO",
-   "municipio": "Santo Ângelo",
-   "uf": "RS",
-   "objeto": "REGISTRO DE PREÇOS DE COMPUTADORES, NOTEBOOKS E LICENÇAS PERPÉTUAS, PARA USO DAS DIVERSAS SECRETARIAS E DEPARTAMENTOS",
+   "id": "18303206000156-2026-54",
+   "orgao": "MUNICIPIO DE MATERLANDIA",
+   "municipio": "Materlândia",
+   "uf": "MG",
+   "objeto": "Contratação de empresa especializada para locação de equipamentos de impressão e digitalização, com fornecimento de sistema de gerenciamento de impressões, manutenção preventiva e corretiva, reposição de peças, componentes e insumos, exceto papel, para atendimento das demandas da Prefeitura Municipal de Materlândia",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "hardware"
+    "hardware",
+    "ged"
    ],
-   "numero": "0077",
-   "fimVigencia": "2026-10-28T08:00",
-   "diasRestantes": 2,
+   "numero": "0026",
+   "fimVigencia": "2026-11-03T09:00",
+   "diasRestantes": 7,
    "valorEstimado": 0,
-   "qtdItens": 0,
+   "qtdItens": 3,
    "modulos": [
-    "notebook",
-    "computador"
+    "digitalizacao",
+    "locacao",
+    "manutencao preventiva"
    ],
-   "ader": 32,
-   "score": 46,
+   "ader": 42,
+   "score": 47,
    "suspeito": [],
    "semPiso": false,
    "valorConhecido": false,
    "passaPiso": false,
    "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/87613071000148/2026/413"
-  },
-  {
-   "id": "87613071000148-2026-412",
-   "orgao": "MUNICIPIO DE SANTO ANGELO",
-   "municipio": "Santo Ângelo",
-   "uf": "RS",
-   "objeto": "REGISTRO DE PREÇOS DE COMPUTADORES, NOTEBOOKS E LICENÇAS PERPÉTUAS, PARA USO DAS DIVERSAS SECRETARIAS E DEPARTAMENTOS",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "77",
-   "fimVigencia": "2026-10-28T08:00",
-   "diasRestantes": 2,
-   "valorEstimado": 0,
-   "qtdItens": 0,
-   "modulos": [
-    "notebook",
-    "computador"
-   ],
-   "ader": 32,
-   "score": 46,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/87613071000148/2026/412"
+   "pncpUrl": "https://pncp.gov.br/app/editais/18303206000156/2026/54"
   },
   {
    "id": "34164319000174-2026-198",
@@ -1611,7 +1489,7 @@
    ],
    "numero": "159",
    "fimVigencia": "2026-11-13T10:30",
-   "diasRestantes": 18,
+   "diasRestantes": 17,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1629,35 +1507,33 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/34164319000174/2026/198"
   },
   {
-   "id": "45301264000113-2026-337",
-   "orgao": "MUNICIPIO DE MOGI-GUACU",
-   "municipio": "Mogi Guaçu",
-   "uf": "SP",
-   "objeto": "Contratação de empresa especializada para prestação de serviços continuados de outsourcing de impressão, cópia e digitalização, com disponibilização de equipamentos multifuncionais, software de gerenciamento e bilhetagem, assistência técnica, manutenção preventiva e corretiva, substituição de peças e fornecimento de todos os insumos necessários, exceto papel, para atendimento às unidades da Prefeitura Municipal de Mogi Guaçu.",
+   "id": "00489828000155-2026-631",
+   "orgao": "MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS",
+   "municipio": "Rio de Janeiro",
+   "uf": "RJ",
+   "objeto": "Contratação de serviços contínuos de locação de todos os equipamentos eletrônicos, instalação, configuração e manutenção dos equipamentos de segurança eletrônica, composto de sistema de circuito fechado de TV CFTV digital de segurança, incluindo software de gerenciamento das câmeras, computadores para gravação e visualização das imagens, câmeras e micro-câmeras day/night, fontes de alimentação elétrica, caixas de proteção, monitores, cabeamento e demais acessórios complementares de última geração, no Edifício-Sede do Ministério da Fazenda Palácio da Fazenda, sito à Avenida Presidente Antônio Carlos, 375 Centro — Rio de Janeiro/RJ, onde hoje se encontra a Sala Principal de Monitoramento de Segurança, do prédio",
    "modalidade": "Pregão - Eletrônico",
    "linhas": [
-    "ged"
+    "hardware"
    ],
-   "numero": "PE32",
-   "fimVigencia": "2026-11-23T09:00",
-   "diasRestantes": 28,
+   "numero": "32",
+   "fimVigencia": "2026-11-11T10:00",
+   "diasRestantes": 15,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
-    "digitalizacao",
-    "outsourcing",
-    "assistencia tecnica",
-    "manutencao preventiva",
-    "prestacao de servicos"
+    "locacao",
+    "computador",
+    "instalacao"
    ],
-   "ader": 60,
+   "ader": 33,
    "score": 44,
    "suspeito": [],
-   "semPiso": false,
+   "semPiso": true,
    "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/45301264000113/2026/337"
+   "passaPiso": true,
+   "semValor": false,
+   "pncpUrl": "https://pncp.gov.br/app/editais/00489828000155/2026/631"
   },
   {
    "id": "03100645000194-2026-41",
@@ -1671,7 +1547,7 @@
    ],
    "numero": "00006",
    "fimVigencia": "2026-11-10T11:59",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1700,7 +1576,7 @@
    ],
    "numero": "000016",
    "fimVigencia": "2027-07-22T12:59",
-   "diasRestantes": 270,
+   "diasRestantes": 269,
    "valorEstimado": 6901883.52,
    "qtdItens": 8,
    "modulos": [
@@ -1719,36 +1595,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/27174143000176/2026/70"
   },
   {
-   "id": "18303206000156-2026-54",
-   "orgao": "MUNICIPIO DE MATERLANDIA",
-   "municipio": "Materlândia",
-   "uf": "MG",
-   "objeto": "Contratação de empresa especializada para locação de equipamentos de impressão e digitalização, com fornecimento de sistema de gerenciamento de impressões, manutenção preventiva e corretiva, reposição de peças, componentes e insumos, exceto papel, para atendimento das demandas da Prefeitura Municipal de Materlândia",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware",
-    "ged"
-   ],
-   "numero": "0026",
-   "fimVigencia": "2026-11-03T09:00",
-   "diasRestantes": 8,
-   "valorEstimado": 0,
-   "qtdItens": 3,
-   "modulos": [
-    "digitalizacao",
-    "locacao",
-    "manutencao preventiva"
-   ],
-   "ader": 42,
-   "score": 41,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/18303206000156/2026/54"
-  },
-  {
    "id": "00348003000110-2026-1332",
    "orgao": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA",
    "municipio": "Bento Gonçalves",
@@ -1759,8 +1605,8 @@
     "ged"
    ],
    "numero": "52",
-   "fimVigencia": "2026-11-12T09:00",
-   "diasRestantes": 17,
+   "fimVigencia": "2026-11-19T09:00",
+   "diasRestantes": 23,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1790,7 +1636,7 @@
    ],
    "numero": "015",
    "fimVigencia": "2026-10-28T09:59",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 10,
    "modulos": [
@@ -1810,64 +1656,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/04628376000104/2026/27"
   },
   {
-   "id": "00489828000155-2026-631",
-   "orgao": "MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS",
-   "municipio": "Rio de Janeiro",
-   "uf": "RJ",
-   "objeto": "Contratação de serviços contínuos de locação de todos os equipamentos eletrônicos, instalação, configuração e manutenção dos equipamentos de segurança eletrônica, composto de sistema de circuito fechado de TV CFTV digital de segurança, incluindo software de gerenciamento das câmeras, computadores para gravação e visualização das imagens, câmeras e micro-câmeras day/night, fontes de alimentação elétrica, caixas de proteção, monitores, cabeamento e demais acessórios complementares de última geração, no Edifício-Sede do Ministério da Fazenda Palácio da Fazenda, sito à Avenida Presidente Antônio Carlos, 375 Centro — Rio de Janeiro/RJ, onde hoje se encontra a Sala Principal de Monitoramento de Segurança, do prédio",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "32",
-   "fimVigencia": "2026-11-11T10:00",
-   "diasRestantes": 16,
-   "valorEstimado": 0,
-   "qtdItens": 1,
-   "modulos": [
-    "locacao",
-    "computador",
-    "instalacao"
-   ],
-   "ader": 33,
-   "score": 38,
-   "suspeito": [],
-   "semPiso": true,
-   "valorConhecido": false,
-   "passaPiso": true,
-   "semValor": false,
-   "pncpUrl": "https://pncp.gov.br/app/editais/00489828000155/2026/631"
-  },
-  {
-   "id": "06140594000112-2026-15",
-   "orgao": "MUNICIPIO DE GRACA ARANHA",
-   "municipio": "Graça Aranha",
-   "uf": "MA",
-   "objeto": "Contratação de empresa para manutenção preventiva e corretiva de aparelhos e equipamentos de informática para atender as necessidades do município",
-   "modalidade": "Pregão - Eletrônico",
-   "linhas": [
-    "hardware"
-   ],
-   "numero": "011",
-   "fimVigencia": "2026-11-10T09:00",
-   "diasRestantes": 15,
-   "valorEstimado": 0,
-   "qtdItens": 0,
-   "modulos": [
-    "equipamentos de informatica",
-    "informatica",
-    "manutencao preventiva"
-   ],
-   "ader": 32,
-   "score": 36,
-   "suspeito": [],
-   "semPiso": false,
-   "valorConhecido": false,
-   "passaPiso": false,
-   "semValor": true,
-   "pncpUrl": "https://pncp.gov.br/app/editais/06140594000112/2026/15"
-  },
-  {
    "id": "07420613000127-2026-201",
    "orgao": "SECRETARIA MUNICIPAL DE DIREITOS HUMANOS E CIDADANIA",
    "municipio": "São Paulo",
@@ -1879,7 +1667,7 @@
    ],
    "numero": "211",
    "fimVigencia": "2026-11-06T10:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -1907,7 +1695,7 @@
    ],
    "numero": "0016",
    "fimVigencia": "2026-11-09T16:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 0,
    "qtdItens": 2,
    "modulos": [
@@ -1937,7 +1725,7 @@
    ],
    "numero": "18",
    "fimVigencia": "2026-10-28T09:30",
-   "diasRestantes": 2,
+   "diasRestantes": 1,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1954,6 +1742,34 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/00957404000178/2026/13"
   },
   {
+   "id": "19843929000100-2026-803",
+   "orgao": "FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS",
+   "municipio": "Belo Horizonte",
+   "uf": "MG",
+   "objeto": "Microcomputadores corporativos do tipo ultracompacto",
+   "modalidade": "Pregão - Eletrônico",
+   "linhas": [
+    "hardware"
+   ],
+   "numero": "778",
+   "fimVigencia": "2026-11-13T09:00",
+   "diasRestantes": 17,
+   "valorEstimado": 0,
+   "qtdItens": 1,
+   "modulos": [
+    "microcomputador",
+    "computador"
+   ],
+   "ader": 30,
+   "score": 29,
+   "suspeito": [],
+   "semPiso": false,
+   "valorConhecido": false,
+   "passaPiso": false,
+   "semValor": true,
+   "pncpUrl": "https://pncp.gov.br/app/editais/19843929000100/2026/803"
+  },
+  {
    "id": "14105704000133-2026-58",
    "orgao": "MUNICIPIO DE BRUMADO",
    "municipio": "Brumado",
@@ -1965,7 +1781,7 @@
    ],
    "numero": "006",
    "fimVigencia": "2027-04-28T00:00",
-   "diasRestantes": 184,
+   "diasRestantes": 183,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
