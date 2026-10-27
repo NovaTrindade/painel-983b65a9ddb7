@@ -1,0 +1,42 @@
+{
+ "id": "19193527000108-2026-55",
+ "extraidoEm": "2026-10-27T12:28:30.717Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/19193527000108/2026/55",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-018-2026-PC-040-PREG-O-ELETR-NICO-013-2026-SOFTWARE-G.txt",
+   "titulo": "EDITAL 018-2026 PC 040-PREG?O ELETR?NICO 013-2026-SOFTWARE GEST?O P?BLICA.pdf",
+   "tipo": "Edital",
+   "paginas": 82,
+   "caracteres": 238669
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ANEXO-I-DO-TR-ESPECIFIC-TECNICAS.txt",
+   "titulo": "ANEXO I DO TR - ESPECIFIC TECNICAS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 60,
+   "caracteres": 215165
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-ANEXO-II-DO-TR-PROVA-DE-CONCEITO.txt",
+   "titulo": "ANEXO II DO TR - PROVA DE CONCEITO.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 10,
+   "caracteres": 30767
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ANEXO-I-DO-EDITAL-TR-SOFTWARE.txt",
+   "titulo": "ANEXO I DO EDITAL  TR SOFTWARE.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 72,
+   "caracteres": 232182
+  }
+ ],
+ "totalPaginas": 224,
+ "totalCaracteres": 716783,
+ "comErro": 0
+}

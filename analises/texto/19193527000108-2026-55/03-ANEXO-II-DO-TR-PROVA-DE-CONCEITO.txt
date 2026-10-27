@@ -1,0 +1,523 @@
+=== DOCUMENTO 3: ANEXO II DO TR - PROVA DE CONCEITO.pdf ===
+tipo: Outros Documentos | páginas: 10 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/19193527000108/compras/2026/55/arquivos/4
+
+--- [pag. PDF 1] ---
+ANEXO II - DO TERMO DE REFERÊNCIA
+PROCEDIMENTO LICITATÓRIO Nº 040/2026
+PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS Nº 013/2026
+PROVA DE CONCEITO
+1 - A licitante classificada provisoriamente em primeiro lugar deverá realizar Prova de
+Conceito (POC), em ambiente controlado, sob pena de desclassificação.
+2 - Após a conclusão da fase de lances, o melhor colocado será convocado para realização
+da Prova de Conceito, em prazo não inferior a 5 (cinco) dias úteis, contado a partir do primeiro
+dia útil imediatamente posterior àquele em que foi feita a convocação para a prova de conceito.
+3 - Considerando a complexidade, a criticidade e o caráter integrado da solução pretendida,
+justifica-se a realização de Prova de Conceito – PoC como mecanismo destinado à verificação
+prática e objetiva da aderência do Sistema ofertado aos requisitos técnicos, funcionais e
+operacionais estabelecidos pelo Consórcio.
+4 - A solução a ser contratada será responsável pelo processamento e integração de informações
+essenciais para atender às demandas do CODANORTE e dos municípios consorciados, no que se
+refere à gestão administrativa, orçamentária, financeira, contábil, patrimonial, tributária, compras
+públicas, contratos, recursos humanos, protocolo, controle interno e demais procedimentos
+essenciais ao funcionamento da Administração Pública. Consequentemente, eventual inadequação
+da solução poderá comprometer não apenas a eficiência administrativa, mas também a
+continuidade e a qualidade dos processos relacionados à prestação dos serviços.
+5 - A simples apresentação de declarações, catálogos, manuais ou documentos técnicos pelo
+licitante não se mostra suficiente para assegurar que as funcionalidades declaradas estejam
+efetivamente implementadas e operacionais, tampouco para demonstrar que os diferentes módulos
+do sistema funcionam de maneira integrada e atendem aos fluxos e regras de negócio definidos
+pela Administração.
+6 - Nesse sentido, a Prova de Conceito permitirá verificar, mediante demonstração prática e roteiro
+previamente estabelecido, o efetivo funcionamento das funcionalidades consideradas essenciais, a
+integração entre os módulos, a consistência e rastreabilidade das informações, os mecanismos de
+segurança e controle de acesso, a geração de documentos e relatórios, a interoperabilidade com
+sistemas externos, quando aplicável, e a aderência da solução aos processos assistenciais,
+administrativos e gerenciais especificados no Termo de Referência.
+7 - A medida possui, ainda, relevante função de mitigação dos riscos da contratação, reduzindo a
+possibilidade de adjudicação do objeto a licitante cuja solução apresente conformidade apenas
+formal ou declaratória com as especificações, mas que, durante a implantação, demonstre ausência
+de funcionalidades, limitações técnicas, dificuldades de integração ou necessidade de
+customizações substanciais não previstas originalmente.
+
+--- [pag. PDF 2] ---
+8 - A identificação dessas deficiências somente após a contratação poderia acarretar atrasos na
+implantação, custos adicionais, retrabalho, comprometimento da integração das informações,
+dificuldades operacionais, necessidade de alterações contratuais e, em situações mais graves,
+riscos à continuidade e à eficiência dos serviços hospitalares.
+9 - A realização da Prova de Conceito encontra fundamento no §3º do artigo 17, da Lei Federal nº
+14.133/2021, que admite, na fase de julgamento, a realização de prova de conceito e outros testes
+destinados à comprovação da aderência da proposta às especificações estabelecidas no termo de
+referência ou projeto básico.
+10 - A PoC observará critérios objetivos, mensuráveis, previamente divulgados no Anexo II deste
+Termo, mediante roteiro específico de avaliação, de forma a preservar a isonomia, a transparência,
+a competitividade e o julgamento objetivo.
+11 - Será aplicada, como regra, à solução apresentada pelo licitante provisoriamente classificado
+em primeiro lugar, convocando-se os licitantes subsequentes, na ordem de classificação, caso a
+solução inicialmente avaliada não obtenha aprovação.
+12 - Dessa forma, a realização da Prova de Conceito mostra-se tecnicamente necessária e
+proporcional à complexidade e à criticidade do objeto, constituindo instrumento de gestão de riscos
+e de seleção da proposta efetivamente apta a atender às necessidades da Administração,
+contribuindo para a eficiência, segurança, economicidade e adequada execução da futura
+contratação.
+13 – Dessa forma, após a fase de lances, será formalizada a prova de conceito, como prevê o § 3º
+do artigo 17 da Lei 14.133/2021, e será aplicada em relação ao licitante provisoriamente vencedor,
+para análise e avaliação da conformidade da proposta, mediante homologação de exame de
+conformidade e prova de conceito, entre outros testes de interesse da Administração, de modo a
+comprovar sua aderência às especificações definidas neste termo de referência.
+14 – A primeira classificada será convocada para que, no prazo máximo de 05(cinco) dias úteis,
+efetue as demonstrações/amostragem exigidas no ANEXO II deste Termo.
+15 – A data e horário de realização da prova de conceito será publicada na plataforma do Portal de
+Compras Públicas(www.portaldecompraspublicas.com.br), dando visibilidade a todos os
+participantes do pregão, que poderão acompanhar a realização da prova de conceito.
+16 – O prazo poderá ser prorrogado uma vez, desde que solicitado pela interessada de maneira
+justificada;
+17 – A prova de conceito poderá ser presencial ou “on line”, e dependerá da solicitação da
+interessada, caso seja presencial será realizada na sede do CODANORTE, na Rua Tupis, nº 437,
+1º andar, Melo, Montes Claros/MG. Caso seja “on line”, será disponibilizado a todos os
+participantes o link para acompanhamento da prova de conceito.
+18 – O horário de realização da prova de conceito será de 08h às 12h e de 13h30min, às 17h,
+podendo ser estabelecido intervalo de 15 minutos para lance, entre 13h30min, às 17h.
+
+--- [pag. PDF 3] ---
+19 - O Tribunal de Contas do Estado de Minas Gerais, decidiu sobre a realização da prova de
+conceito da seguinte forma:
+“DENÚNCIA. CONSÓRCIO. PREGÃO ELETRÔNICO. REGISTRO DE PREÇOS.
+CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA EM LICENCIAMENTO DE USO
+DE SOFTWARE. VÍCIOS PROCEDIMENTAIS NA ANÁLISE DA PROVA DE CONCEITO.
+PROCEDÊNCIA. HABILITAÇÃO INDEVIDA AUSÊNCIA DE APRESENTAÇÃO DO
+REGISTRO DO BALANÇO PATRIMONIAL. IMPROCEDÊNCIA. AFASTADA A APLICAÇÃO
+DE MULTA. RECOMENDAÇÕES. ARQUIVAMENTO 1. Nos termos do §3° do art. 17 da Lei n.
+14.133/2021, a prova de conceito deve ser realizada na fase de julgamento das propostas, ou
+seja, antes da fase de habilitação. Em consonância com a jurisprudência do Tribunal de Contas
+da União, é possível a inversão de fases entre habilitação e julgamento das propostas com
+relação à aplicação da prova de conceito, desde que sejam apresentadas as devidas razões para
+tanto, com explicitação dos benefícios decorrentes.(...)1”
+20 - O Tribunal de Contas da União firmou, no Acórdão nº 1.984/2008 – Plenário, que a Prova de
+Conceito em licitações corresponde à "apresentação de amostras no contexto de uma licitação,
+com o objetivo de permitir que a empresa provisoriamente classificada em primeiro lugar
+comprove que a solução apresentada satisfaz os requisitos exigidos no edital".
+21 - Em razão de seu potencial restritivo à competitividade, o TCU consolidou o entendimento de
+que a PoC tem caráter excepcional e deve ser justificada formalmente, conforme reiterado no
+Acórdão 1.285/2014, Segunda Câmara, que determinou expressamente que o edital deve
+contemplar "roteiro detalhado da avaliação, bem como os critérios objetivos para a aceitação"
+da solução, como consta do Anexo II deste Termo.
+22 - Nesse mesmo sentido, o Manual de Licitações e Contratos do TCU2, registra expressamente
+que as exigências de PoC e amostras "possuem caráter excepcional, devendo ser justificadas
+formalmente, a fim de demonstrar que são, de fato, imprescindíveis".
+23 - A LICITANTE vencedora do certame deverá se submeter a Prova de Conceito (PoC) onde
+a Administração se certificará sobre a efetiva adequação entre o objeto oferecido pelo licitante em
+sua proposta e as condições técnicas estabelecidas no do edital – Termo de Referência (Acordão
+no 2763/2013 – Plenário, TCU):
+24 - Justifica-se a realização da prova de conceito de forma objetiva para comprovação da
+capacidade do licitante na realização de tarefas e resolução de possiveis problemas do software,
+demonstrando assim conhecimento suficiente para atendimento do e-cidade.
+25 - Após a fase de lances e classificação a empresa que apresentar o menor preço por lote será
+convocada pelo pregoeiro para realizar prova de conceito.
+26 - Será formada uma comissão de 03 (três) membros para avaliação da prova de conceito.
+27 - A prova de conceito/amostra será via WEB e os testes dos sistemas ocorrerão em data
+marcada, sendo que poderá ser prorrogada por uma vez, desde que a Licitante apresente
+1 Processo: Natureza: Denunciante: MPTC: Relator: 1167322 DENÚNCIA - Conselheiro Agostinho Patrus - Primeira
+Câmara – 29/4/2025
+2 https://licitacoesecontratos.tcu.gov.br/
+
+--- [pag. PDF 4] ---
+justificativa para tal prorrogação. Será comunicada à participante vencedora e às outras
+participantes que poderão acompanhar a demonstração.
+28 - A prova de conceito seguirá os seguintes pontos:
+a) Segundo Orientações do Pregoeiro(a), será disponibilizado um link para comissão julgadora
+acompanhar;
+b) A Comissão disponibilizará o link para a(s) empresa(s) do menor preço por lote e demais
+licitantes, em até 1 dia de antecedência;
+c) Os representantes das demais empresas, podem acompanhar a apresentação através do link
+enviado pelo Consorcio, sem prejuízos às partes, não sendo permitido a presença física no
+Consorcio; e
+d) Caso a licitante vencedora, não atenda todos os itens obrigatórios e no mínimo 80% (oitenta
+por cento), será desclassificada e chamado o segundo colocado e assim sucessivamente, caso não
+atenda.
+e) Os representantes das demais empresas não poderão, em momento algum, se pronunciar
+para a comissão e nem para quem tiver apresentando;
+f) Eventuais divergências quanto à apresentação poderão ser objeto de recurso administrativo.
+g) A prova será realizada na versão do e-cidade liberada pelo CODANORTE.
+29 - Na prova de conceito serão avaliados as seguintes tarefas/atividades:
+ATIVIDADE ÁREA/MODULO ATENDE NÃO ATENDE
+1. Cadastrar: GERAL
+1.1. Um departamento novo GERAL
+1.2. Um usuário novo GERAL
+1.3. Um perfil novo GERAL
+1.4. Vincular este usuário a este departamento e perfil, e liberar permissões
+de menu para o perfil, para todas as funcionalidades necessárias para atender
+a todos os itens;
+GERAL
+1.5. Cadastro de CGM com consulta direta na receita federal GERAL
+2. Cadastrar uma conta contábil analítica no PCASP de uma conta extra e
+configurar a conta débito do primeiro lançamento da transação dos
+documentos extras. Isso vai ser utilizado para conferência do item 19;
+FINANCEIRO
+3. Executar todo o processo de um crédito especial proveniente de um valor
+recebido por um convênio no valor de 1.000.000,00 (um milhão de reais),
+onde deve-se cadastrar uma receita e uma despesa orçamentária nova, e
+executar uma suplementação e depois executar a arrecadação deste valor,
+demonstrando tanto no balancete da despesa quanto no balancete da receita
+o resultado do lançamento;
+FINANCEIRO
+4. Realizar o mapeamento do PCASP da nova conta criada no item 2; FINANCEIRO
+5. Criar uma solicitação de compras de 3 itens novos, a serem criados no
+compras para ser vinculada a uma licitação, fazer a liberação. PATRIMONIAL
+5.1 Lançar 2 cotações, de uma pesquisa de mercado, para cada Item, sendo:
+- Primeiro item: R$950,00 e R$1050,00
+- Segundo item R$975,00 e R$1025,00
+- Terceiro item: R$990,00 e 1010,00
+PATRIMONIAL
+5. 2. Criar um processo de compra compartilhada de caneta, lápis e borracha,
+lançar estimativa para 3 departamentos distintos, fechar/processar a compra
+compartilhada, acessar qualquer um dos 3 departamentos demonstrando que
+o sistema “importou” as quantidades lançadas na estimativa da compra
+compartilhada;
+PATRIMONIAL
+6. Apurar o valor médio estimado para a contratação, que deve ser
+R$1.000,00 para cada item, com base nas cotações do item 5.1. PATRIMONIAL
+
+--- [pag. PDF 5] ---
+7. Criar uma licitação vinculada a solicitação de compras criada no item 5 e
+incluir no mínimo 2 fornecedores e lançar as propostas, julgar e homologar
+a licitação;
+PATRIMONIAL
+7.1. Publicar o edital de licitação lançado no item 7 no PNCP, ainda quem
+em ambiente de treinamento: https://treina.pncp.gov.br PATRIMONIAL
+7.2. Publicar o resultado do julgamento das propostas lançadas no item 7 no
+PNCP, ainda quem em ambiente de treinamento: https://treina.pncp.gov.br PATRIMONIAL
+7.3. Acessar a consulta da licitação e demonstrar que o processo foi
+publicado, com base no seu Id contratação PNCP. PATRIMONIAL
+7.4. Gerar as remessas do módulo Edital e Licitação do SICOM e
+demonstrando compatibilidade às IN 02/2023 e 01/2024 do TCE-MG, com
+base no processo lançado no item 7, ainda que não seja submetido à
+processamento nos ambientes de produção do SICOM-MG.
+PATRIMONIAL
+8. Incluir um contrato vinculado ao processo licitatório homologado no item
+7 para o período de 01/03 do ano atual a 31/03 do ano atual, onde os itens,
+fornecedores e valores homologados no item 7 devem ser carregados
+automaticamente, demonstrando integração entre os módulos de Licitações
+e Contratos;
+PATRIMONIAL
+8.1. Informar o gestor e fiscal do contrato cadastrado no item 8. PATRIMONIAL
+8.2. Publicar o contrato lançado no item 8 no PNCP, ainda quem em ambiente
+de treinamento: https://treina.pncp.gov.br PATRIMONIAL
+9. Incluir um aditamento de renovação de prazo no contrato incluído no item
+8 para o período de 01/04 do ano atual a 30/06 do ano atual; PATRIMONIAL
+9.1. Publicar o termo aditivo ao contrato publicado no item 8.1 no PNCP,
+ainda quem em ambiente de treinamento: https://treina.pncp.gov.br PATRIMONIAL
+10. Alterar a vigência do contrato no aditivo inserido no item 9 para o período
+de 01/04 do ano atual a 31/12 do ano atual; PATRIMONIAL
+11. Acessar a consulta do contrato e demonstrar as alterações efetuadas no
+contrato, bem como a sua publicação no PNCP, com base no Id contratação
+PNCP;
+PATRIMONIAL
+12. Gerar a autorização de empenho do contrato lançado no item 8 e gerar o
+empenho que deverá ser no valor de R$ 3.000,00;
+FINANCEIRO/
+PATRIMONIAL
+13. Alterar a configuração de um dos ordenadores de despesa e reemitir o
+empenho gerado no item anterior; FINANCEIRO
+14. Criar um almoxarifado/depósito vinculado ao departamento novo criado
+no item 1.1; PATRIMONIAL
+15. Gerar uma ordem de compra para o empenho gerado no item 12,
+vinculada ao almoxarifado/depósito criado no item 14; PATRIMONIAL
+16. Dar entrada dos itens da ordem da compra criada no item 15; PATRIMONIAL
+17. Dar entrada no patrimônio dos 3 bens pendentes na entrada da ordem de
+compra do item 15; PATRIMONIAL
+18. Executar a liquidação com ordem de compra, garantindo que a integração
+almoxarifado/patrimônio esteja ativada e as transações configuradas, para
+que o sistema execute o lançamento "em liquidação" corretamente, e lançar
+uma retenção de INSS no valor de R$ 200,00;
+FINANCEIRO/
+PATRIMONIAL
+19. Gerar o slip de pagamento da retenção do INSS gerado no item 18 e pagar
+o slip; FINANCEIRO
+20. Pagar o empenho liquidado no valor de R$ 2.800,00; FINANCEIRO
+21. Estornar a retenção lançada no item 18 e relançar no valor de R$ 180,00; FINANCEIRO
+22. Lançar uma nota de liquidação/desconto no valor de R$ 20,00 que
+sobrou; FINANCEIRO
+23. Demonstrar na consulta empenho:
+- que a conta débito do primeiro lançamento de empenho processou pela nova
+conta
+criada no item 2;
+- lançamento de empenho de R$ 2.000,00
+- lançamento de liquidação de R$ 2.000,00
+- lançamento de retenção de R$ 100,00
+- lançamento de pagamento de retenção de R$ 100,00
+- lançamento de pagamento do empenho de R$ 1.900,00
+- lançamento de estorno de retenção de R$ 100,00
+FINANCEIRO
+
+--- [pag. PDF 6] ---
+- lançamento de retenção de R$ 80,00
+- lançamento de estorno de liquidação de R$ 20,00
+- lançamento de estorno de empenho de R$ 20,00
+24. Gerar o balancete de informação complementar da mesma data dos
+lançamentos executados na POC e verificar os lançamentos realizados,
+demonstrando que a movimentação débito/crédito. Todos os lançamentos
+devem aparecer;
+FINANCEIRO/
+PATRIMONIAL
+25. Criar uma nova taxa e gerar uma GRM; FINANCEIRO
+26. Geração de empenho e liquidação de diárias constando dados da viagem
+como origem, destino, datas, quantidade de diárias, valores FINANCEIRO
+27. Geração de empenho e liquidação com o dados do Reinf sendo realizada
+por terceiros. FINANCEIRO
+28. Envio do Reinf com informações preenchidas. FINANCEIRO
+29. Lançamento da LOA com limites de suplementações separadas por tipos. FINANCEIRO
+30. Lançamento de 1 decretos e suplementações. FINANCEIRO
+31. Lançamento do Orçamento, exportando pelo PPA, exportando com
+percentual de aumento. FINANCEIRO
+32. Lançamento do PPA. FINANCEIRO
+33. Lançamento de empenhos por lote. FINANCEIRO
+34. Lançamento de liquidações por lote. FINANCEIRO
+35. Cadastro de uma emenda. FINANCEIRO
+36. Cadastrar uma Metas fisica. FINANCEIRO
+37. Cadastrar um convenios recebidos e concedidos. FINANCEIRO
+38. Assinar um documento digital gerado pelo sistema. FINANCEIRO
+39. Demonstrar a conciliação automática de contas Banco do Brasil. FINANCEIRO
+40. Gerar prestação de contas TCEMG. FINANCEIRO
+41. Gerar arquivos de importação para SIOPE. FINANCEIRO
+42. Gerar arquivo de importação SIOPS. FINANCEIRO
+43. Cadastrar um motorista. PATRIMONIAL
+44. Cadastrar um veículo. PATRIMONIAL
+45. Realizar 1 retirada do veículo cadastrado no item 2, informando o
+motorista cadastrado no item 1. PATRIMONIAL
+46. Informar um abastecimento para o veículo. PATRIMONIAL
+47. Informar uma manutenção do veículo, informando 3 peças a serem
+trocadas para o veículo. PATRIMONIAL
+48. Acessar a consulta do veículo, demonstrando as movimentações
+lançadas. PATRIMONIAL
+49. Devolver o veículo retirado no item 3. PATRIMONIAL
+50. Informar as estatísticas do transporte escolar para o veículo no período. PATRIMONIAL
+51. Na folha de pagamento, altere o cadastro de um servidor(matricula teste)
+ativo:
+- insira o salário de R$1700 (mil e setecentos) no mês da folha atual;
+- altera a lotação do servidor e o cargo do mesmo;
+Folha
+52. Acessar a tela de consulta do contrato e visualizar as alterações efetuadas
+no contrato (novo salário-lotação e cargo); Folha
+53. Cadastrar 3 filhos, sendo 1 maior de 24 anos, 1 menor de 14 anos e outro
+maior que 14 e menor que 21 anos vinculado ao
+servidor(matrícula teste)do item 1;
+Folha
+54. Calcule o salário do servidor e demonstre:
+- salario familia calculado automaticamente conforme lei vigente;
+- Base para dedução imposto de renda(IRF) dos 2 filhos menores de 21 anos;
+Folha
+55. Cadastrar uma pensão alimentícia para o servidor(matricula teste)do item
+1:
+- condição do desconto 10% do salário mínimo vigente;
+Folha
+56. Cadastrar duas rubricas novas: Folha
+
+--- [pag. PDF 7] ---
+- uma de provento gratificação e configurar para que o valor seja de ½ salário
+mínimo;
+- outra de desconto de emprestimo consignado com opção de número de
+parcelas;
+57. Lançar para o servidor(matricula teste)do item 1 as duas novas rubricas
+do item 6 demonstrando os cálculos; Folha
+58. Em outra matrícula, pague o salário em um contracheque mensal e o valor
+de horas extras eu uma folha complementar dentro da mesma competência,
+emitindo a impressão dos dois contra cheques separados;
+Folha
+59. Demonstre que o sistema soma as bases de cálculo dos dois
+contracheques apresentados no item 8 para fazer o desconto correto de
+imposto de renda e previdência INSS;
+Folha
+60. Insira em uma matrícula os dados de valores de base de cálculo e
+desconto do inss de outro vínculo empregatício(múltiplos vínculos) do
+mesmo servidor para que na matrícula deste servidor o sistema calcule o
+valor da diferença de Inss do segurado para o desconto não ultrapassar o teto
+da previdência INSS vigente;
+Folha
+61. Lançar em lote para todos servidores ativos da folha uma rubrica de vale
+alimentação no valor de 100 reais; Folha
+62. Gere um relatório com nome, matrícula e os valores lançados da rubrica
+de vale-alimentação do item 11; Folha
+63. Faça um adiantamento de 13° para um servidor, adiantado 70% do seu
+salário no mês vigente da folha. O contra cheque deverá deve ser emitido em
+folha de 13° apenas com o valor do adiantamento;
+Folha
+64. Gere dois arquivos bancários dentro da mesma competência, um com o
+valor do adiantamento do 13° salário do item 13 e outro com o salário do
+servidor(matricula teste)do item 1;
+Folha
+65. Cadastrar afastamento do servidor, dentro do mês da folha, motivo
+doença não relacionada ao trabalho por 15 dias e insira os dados do médico
+responsável: nome, CRM e o CID do atestado;
+RH/Folha/ Afastamento
+66. Emitir recibo do cadastro do afastamento em duas vias, com os dados do
+servidor e campo para assinatura; RH/Folha/ Afastamento
+67. Calcular o salário do servidor afastado, os valores do salário deverá
+proporcionar de acordo com os dias afastados; RH/Folha/ Afastamento
+68. Prorrogar o mesmo afastamento lançado por mais 10 dias, alterando
+apenas a data final já existente no primeiro lançamento; RH/Folha/ Afastamento
+69. Demonstrar tela de consulta de todos afastamento inseridos no sistema,
+permitindo indicar o conteúdo a ser pesquisado como: nome, matricula e
+datas do início e final do afastamento;
+RH/Folha/ Afastamento
+70. Acessar a tela de consulta do servidor, mostrando o historico de férias e
+afastamento individualizado desta matrícula; RH/Folha/ Afastamento
+71. Cadastrar contribuintes, interligados pelo cadastro geral. Tributário
+72. Possibilitar consultas através de nome, parte do nome, cadastro,
+inscrição, logradouros e CPF/CNPJ. Tributário
+73. Cadastrar tipo de débito incluindo receita juros e multas de índices de
+correção, juros e multas, conforme legislação, podendo haver mais de um
+índice de correção por ano.
+73.1 Cadastrar vencimento e vincular ao tipo de débito cadastrado no item 3
+73.2 Cadastrar regra de juros e multa conforme legislação municipal podendo
+haver mais de um índice para a mesma regra.
+Tributário
+74. Cadastrar regra de parcelamento Tributário
+75. Emitir guias de arrecadação em cota única ou dividido em parcelas,
+contendo código de barras e Qrcode para pagamento nos agentes
+arrecadadores.
+75.1 Emitir relatório totalizador de débitos geral por receita, tipo de débito
+Tributário
+76. Incluir características dos imóveis, setores, faces de quadra, massa falida,
+ruas e bairros. Tributário
+77. Permitir o cadastramento de lotes, matrículas, loteamentos, promitentes
+compradores, outros proprietários, características e imagens do imóvel Tributário
+
+--- [pag. PDF 8] ---
+78. Deverá permitir consulta de dados imobiliários e emissão de boletins
+contendo todas as informações cadastrais dos imóveis contendo, inclusive, o
+histórico do cálculo do IPTU dos anos anteriores.
+Tributário
+79. Gerar cálculo parcial do IPTU da matrícula cadastrada no item 7. Tributário
+80. Excluir o cálculo parcial do IPTU lançado pelo item 9. Tributário
+81. Lançar crédito tributário para contribuinte individualmente Tributário
+82. Permitir a inscrição em dívida por contribuinte ou geral dos tributos no
+final de cada exercício. Tributário
+83. Permitir cancelar importação de dívida realizada no item 12. Tributário
+84. Criar Certidões de Dívida Ativa (CDA) seja individual ou geral através
+de lista criada. Tributário
+85. Cadastrar fiscais e tipos de processos fiscais Tributário
+86. Permitir consulta de alvará sanitário e de funcionamento. Tributário
+87. Incluir, alterar, excluir ou anular vistorias tributárias. Tributário
+88. Permitir incluir cálculo de vistoria parcial ou geral. Tributário
+89. Cadastrar os índices para correção monetária e indicadores econômicos
+utilizados pelos módulos tributários. Tributário
+90. Incluir índice de correção monetária mensal. Tributário
+91. Cadastrar atividades com a inclusão de todos os itens necessários para a
+definição e caracterização da inscrição econômica, sendo adequada ao
+código tributário municipal, Classificação Nacional de Atividades
+Econômicas - CNAE e Classificação Brasileira de Ocupações - CBO.
+91.1 Cadastrar tipo de cálculo para fins de lançamento de vistoria tributária
+91.2 Vincular atividade criada ao tipo de cálculo criado nos itens anteriores
+Tributário
+92. Incluir inscrição econômica municipal podendo vincular escritórios
+contábeis, sócios e isenções. Tributário
+93. Incluir paralisação e/ou baixa da inscrição econômica. Tributário
+94. Possibilitar cálculos parciais ou geral de ISSQN, Vistorias e Alvarás. Tributário
+95. Permitir o cadastro das inscrições econômicas como Empresas do
+Simples Nacional. Tributário
+96. Consultar cadastros econômicos lançados automaticamente através da
+integração com projeto Redesim + livre Tributário
+97. Possibilitar a emissão dos alvarás de licença localização e
+funcionamento, sanitário e provisório, com a possibilidade de definir o prazo
+validade por data, incluir informações complementares e selecionar um
+modelo de documento previamente configurado no sistema.
+97.1 Emitir relatório constando todas as movimentações de alvará durante o
+ano devendo constar o tipo e a data da movimentação.
+Tributário
+98. Permitir o controle das guias de ITBI urbano e rural e as respectivas guias
+retificativas, quando houver. Tributário
+99. Incluir ITBI urbano ou rural gerando guias de ITBI com meios para
+pagamento. Tributário
+100. Permitir o cadastro de cartórios, de advogados, varas, e dados gerais do
+processo, inclusive movimentação. Tributário
+101. Incluir títulos para protesto através de integração com Cartório de
+Instituto de Protesto. Possibilitando envio em lotes de “CDA’s” para
+cobrança e retorno com o status da cobrança.
+Tributário
+102. Permitir gerar notificações individuais ou por lista.
+102.1 Emitir notificação parcial ou geral. Tributário
+103. Cadastro das obras a serem executadas pelos contribuintes, inclusive
+com cadastro de Responsáveis Técnicos pela Obra e Engenheiro
+Responsável.
+Tributário
+104. Emissão de relatório das obras em andamento e com validade vencida,
+habite-se e obras com certidões emitidas. Tributário
+105. Consultar por contribuinte, matrícula do imóvel, Inscrição municipal,
+código de parcelamento em tela única créditos tributários em aberto, pagos,
+suspensos, cancelados, prescritos
+Tributário
+
+--- [pag. PDF 9] ---
+105.1 Gerar recibo, cancelar, gerar CDA, suspender, gerar relatório de
+débitos em aberto, pagos, parcelar débitos
+106. Incluir pagamento parcial ou através de importação de arquivo de
+retorno bancário conforme padrão FEBRABAN. Tributário
+107. Permitir o cadastro individualizado dos usuários por inscrições
+econômicas. Nota Fiscal
+107. Possibilitar acesso por login e senha;
+107.1 Permitir trocar senha pelo usuário. Nota Fiscal
+108. Gerar relatório com as guias não pagas. Nota Fiscal
+109. Possibilitar ao agente fiscal impedir a emissão das notas e/ou
+declarações a um determinado contribuinte após as datas estabelecidas. Nota Fiscal
+110. Consultar notas fiscais eletrônicas emitidas através do portal nacional. Nota Fiscal
+111. Através do usuário com perfil fiscal, permitir acessar todos os
+contribuintes sejam emissores ou tomadores de serviços. Nota Fiscal
+112. Apresentar consulta de notas fiscais por número, dados do contribuinte,
+tomador e período. Nota Fiscal
+113. Permitir a Declaração Mensal de Serviços -DMS seja de serviços
+tomados ou de serviços prestados. Nota Fiscal
+114. Permitir o encerramento de competência de prestadores e tomadores
+individuais ou por ato geral dos fiscais da prefeitura. Nota Fiscal
+115. Gerar guia de pagamento da competência escolhida pelo prestador
+através do encerramento da competência. Nota Fiscal
+116. Gerar guia de ISSQN de serviços tomados Nota Fiscal
+117. Gerar relatório de livro fiscal dos contribuintes contendo informações
+quantitativas das notas fiscais emitidas por contribuinte Nota Fiscal
+118. Consultar declarações realizadas por instituições financeiras Nota Fiscal
+119. Incluir informativo para contribuintes geral ou individualmente Nota Fiscal
+120. Permite visualizar e imprimir recibos referentes às dívidas do
+contribuinte junto a prefeitura, tais como: ISSQN variável, dívida Ativa,
+Alvará, IPTU e outros.
+Portal Serviços
+121. Permitir emitir certidão negativa, positiva e regular. Portal Serviços
+122. Permitir verificar autenticidade de certidão. Portal Serviços
+123. Gerar relatório sintético ou analítico de débitos dos contribuintes\ Portal Serviços
+124. Consultar processos de solicitações dos contribuintes Portal Serviços
+125. Consultar informações do imóvel, demonstrando todos os dados da
+matrícula, de acordo com o cadastro imobiliário. Portal Serviços
+126. Cadastrar uma escola EDUCAÇÃO
+127. Criar Calendário Escolar EDUCAÇÃO
+128. Cadastrar 1 nível de Ensino EDUCAÇÃO
+129. Cadastrar 1 professor regente EDUCAÇÃO
+130. Cadastrar 1 turma da escola EDUCAÇÃO
+131. Cadastrar quadro de horários de 1 turma EDUCAÇÃO
+132. Cadastrar/Matricular 1 Aluno EDUCAÇÃO
+133. Realizar Transferência de 1 aluno entre escolas da rede municipal de
+ensino EDUCAÇÃO
+134. Cadastrar e configurar Formas de avaliação EDUCAÇÃO
+135. Registrar avaliação e notas conforme padrões determinados pela
+Secretaria de Educação EDUCAÇÃO
+136. Cadastrar planejamento de aula do professor, com conteúdo EDUCAÇÃO
+136. Cadastrar um paciente SAÚDE
+137. Cadastrar um Pedido de Tratamento fora do município SAÚDE
+138. Cadastrar uma viagem para tratamento fora do município SAÚDE
+139. Fazer a Regulação de Um Pedido de Tratamento SAÚDE
+
+--- [pag. PDF 10] ---
+140. Fazer o Agendamento de um Pedido de Tratamento Fora do Município SAÚDE
+141. Fazer consulta de processo sem login e senha Processo Eletrônico
+142. Criar uma unidade Processo Eletrônico
+143. Criar um usuário Processo Eletrônico
+144. Criar um fluxo de processos com 2 etapas, com usuários distintos e
+setores distintos Processo Eletrônico
+145 .Cadastrar campos e usá-lo no template Processo Eletrônico
+146. Criar um template para o fluxo cadastrado no item anterior Processo Eletrônico
+147. Cadastrar um processo no fluxo criado e seguir com o processo por
+todas as etapas Processo Eletrônico
+148. Assinar um documento de um processo Processo Eletrônico
+30 - Será considerada apta apenas a solução que atender, de forma imediata, a pelo menos 80%
+(oitenta por cento) dos requisitos do sistema que serão descritos no Termo de Referência e que
+demonstre pleno funcionamento dos módulos essenciais, de modo a não comprometer o
+cronograma de implantação do sistema.
+31 - A empresa que não alcançar o percentual mínimo estabelecido será desclassificada,
+após aplicação do princípio do contraditório e da ampla defesa.
