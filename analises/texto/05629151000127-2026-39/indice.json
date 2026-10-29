@@ -1,0 +1,27 @@
+{
+ "id": "05629151000127-2026-39",
+ "extraidoEm": "2026-10-29T13:22:07.598Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/05629151000127/2026/39",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01a-Edital-Final.txt",
+   "titulo": "Edital Final.pdf",
+   "tipo": "Edital",
+   "paginas": 44,
+   "caracteres": 101781
+  },
+  {
+   "ordem": 1,
+   "arquivo": "01b-Termo-de-Referencia.txt",
+   "titulo": "Termo de Referencia.pdf",
+   "tipo": "Edital",
+   "paginas": 4,
+   "caracteres": 90,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  }
+ ],
+ "totalPaginas": 48,
+ "totalCaracteres": 101871,
+ "comErro": 0
+}

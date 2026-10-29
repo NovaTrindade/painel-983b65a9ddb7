@@ -1,0 +1,42 @@
+{
+ "id": "19193527000108-2026-56",
+ "extraidoEm": "2026-10-29T13:21:59.493Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/19193527000108/2026/56",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-018-2026-PC-040-PREG-O-ELETR-NICO-013-2026-SOFTWARE-G.txt",
+   "titulo": "EDITAL_018-2026_PC_040-PREG_O_ELETR_NICO_013-2026-SOFTWARE_GEST_O_P_BLICA.pdf",
+   "tipo": "Edital",
+   "paginas": 82,
+   "caracteres": 238669
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ANEXO-I-DO-EDITAL-TR-SOFTWARE-GEST-O-P-BLICA.txt",
+   "titulo": "ANEXO_I_DO_EDITAL_-_TR_-_SOFTWARE_GEST_O_P_BLICA.pdf",
+   "tipo": "Edital",
+   "paginas": 72,
+   "caracteres": 232182
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-ANEXO-I-DO-TR-ESPECIF-T-CNICAS-SOFTWARE-GEST-O-P-BLICA.txt",
+   "titulo": "ANEXO_I_DO_TR-ESPECIF._T_CNICAS_SOFTWARE_GEST_O_P_BLICA.pdf",
+   "tipo": "Edital",
+   "paginas": 60,
+   "caracteres": 215165
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ANEXO-II-DO-TR-PROVA-DE-CONCEITO-SOFTWARE-GEST-O-P-BLICA.txt",
+   "titulo": "ANEXO_II_DO_TR_-_PROVA_DE_CONCEITO_SOFTWARE_GEST_O_P_BLICA.pdf",
+   "tipo": "Edital",
+   "paginas": 10,
+   "caracteres": 30767
+  }
+ ],
+ "totalPaginas": 224,
+ "totalCaracteres": 716783,
+ "comErro": 0
+}
