@@ -1,0 +1,26 @@
+{
+ "id": "29172475000147-2026-324",
+ "extraidoEm": "2026-10-30T13:12:56.169Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/29172475000147/2026/324",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-033-2026-PREGAO-ELETRONICO-Geoprocessamento.txt",
+   "titulo": "033-2026_-_PREGAO_ELETRONICO_-_Geoprocessamento_-.pdf",
+   "tipo": "Edital",
+   "paginas": 208,
+   "caracteres": 517348
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-MANUAL-DO-FORNECEDOR-pdf.txt",
+   "titulo": "MANUAL_DO_FORNECEDOR.pdf.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 13,
+   "caracteres": 15625
+  }
+ ],
+ "totalPaginas": 221,
+ "totalCaracteres": 532973,
+ "comErro": 0
+}

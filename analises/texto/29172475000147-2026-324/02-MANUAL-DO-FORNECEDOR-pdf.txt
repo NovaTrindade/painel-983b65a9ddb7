@@ -1,0 +1,329 @@
+=== DOCUMENTO 2: MANUAL_DO_FORNECEDOR.pdf.pdf ===
+tipo: Outros Documentos | páginas: 13 | origem: https://pncp.gov.br/pncp-api/v1/orgaos/29172475000147/compras/2026/324/arquivos/2
+
+--- [pag. PDF 1] ---
+ANEXO XII
+Pregão Eletrônico
+Manual do fornecedor
+Maio / 2020
+Fiorilli Software Ltda – Assistência e Consultoria Municipal
+Av. Marginal, 65 –
+Distrito Industrial –CEP
+15.140-000 – Bálsamo -
+SP
+suporte@fiorilli.com.br – (17) 3264-9000
+
+--- [pag. PDF 2] ---
+Sumário
+Apresentação ........................................................................................................................................................... 3
+Orientações Gerais ................................................................................................................................................ 3
+Utilizando o SCPI – Portal de Compras .......................................................................................................... 3
+Solicitar a Chave de Acesso ............................................................................................................................... 3
+Autenticando no Portal de Compras ............................................................................................................... 5
+Acessando o pregão eletrônico ......................................................................................................................... 5
+Credenciamento (Participar) .............................................................................................................................. 6
+Lançar Proposta ...................................................................................................................................................... 7
+Sala de Disputa....................................................................................................................................................... 8
+Legenda .....................................................................................................................................................................9
+Andamento do pregão na Sala de Disputa ................................................................................................... 9
+Trabalhando com
+Portal de
+Compras
+Pregão Eletrônico – Fornecedores.
+
+--- [pag. PDF 3] ---
+Página 75
+Apresentação
+O objetivo deste manual é auxiliar o usuário de uma forma simples, prática e objetiva, a
+utilizar osistema SCPI – Portal de Compras – Pregão Eletrônico, no perfil Fornecedor.
+O pregão eletrônico é a modalidade de licitação que permite a aquisição de bens e
+serviços comuns, independente do valor estimado para a contratação, onde a disputa de
+preços entre os fornecedores ocorre em sessão pública com a utilização dos recursos da
+tecnologia de informação e da internet. Por meio de computadores conectados à internet, os
+interessados, pregoeiro, equipe de apoio e fornecedores, promovem negociação direta
+mediante oferecimento de propostas e lances atéque se chegue à um vencedor.
+Orientações Gerais
+O SCPI – Portal de Compras, está homologado para os seguintes
+navegadores:
+ Google Chrome
+ Microsoft Edge
+ Firefox
+Utilizando o SCPI – Portal de Compras
+Para utilizar o SCPI – Portal de Compras é necessário que o fornecedor ou
+representante legal,faça a solicitação da chave e senha de acesso à entidade.
+Solicitar a Chave de Acesso
+Para solicitar a chave de acesso, clique no botão “Clique aqui para solicitar
+chave de acesso”,localizado no canto superior direito da tela, conforme apresentado na
+imagem abaixo:
+
+--- [pag. PDF 4] ---
+Será necessário realizar um cadastro básico com o preenchimento de alguns campos
+obrigatórios, para que a entidade identifique o representante legal e qual a empresa
+representada. Em seguida clique no botão “Enviar”, conforme apresentado na imagem abaixo:
+Será apresentado a mensagem: “Solicitação foi registrada com sucesso!
+Você receberá a chave de identificação e a senha de acesso no e-mail
+informado!”.Agora é aguardar até que o responsável designado pela entidade
+analise a sua solicitação. Assim que for analisada, você receberá no e-mail
+informado, uma chave de identificação e uma senhade acesso. O e-mail deve ser
+semelhante à imagem a seguir:
+
+--- [pag. PDF 5] ---
+Página 77
+ATENÇÃO
+Lembrando que essa chave de acesso é composta pela chave de
+identificação e a senha de acesso, e é única para cada representante de
+fornecedor, não podendo ser compartilhada.
+Autenticando no Portal de Compras
+Com a chave de acesso em mãos, você pode se autenticar no sistema
+SCPI – Portal de Compras da entidade. Para se autenticar, informe a chave de
+identificação no campo “Chave de identificação” e a senha de acesso no
+campo “Senha”. Em seguida clique no botão com a imagem deuma chave,
+conforme apresentado na imagem abaixo:
+Após se autenticar no SCPI – Portal de Compras, será exibido os
+dados da empresa e seu representante, e um novo menu estará disponível ao
+usuário: “03. Licitante”.
+Acessando o pregão eletrônico
+Por meio do menu “03. Licitante”, utilizando a opção “03.01. Pregão
+Eletrônico”, será apresentada a listagem dos pregões disponíveis. É possível
+filtrar os processos pela situação e pelo número do processo.
+Algumas informações dessa listagem merecem atenção, e são elas:
+ Participante: (Sim/Não) Determina se a empresa está ou não
+participando do processo.
+ Si tu a ç ã o : 	(R E C E B IME N T O DE PR OP O S T A S , E M S A L A DE
+DI S PU T A , SUSPENSO, ATA EM ELABORAÇÃO, ENCERRADA,
+ANULADA, DESERTA, FRACASSADA, REVOGADA, ADIADA)
+Determina a situação em que se encontra o processo.
+Ao selecionar um processo licitatório e clicar no botão “Visualizar
+Selecionado”, é apresentada atela de detalhamento do processo licitatório.
+Nessa tela é possível visualizar o objeto e o detalhamentodo objeto da licitação,
+bem como outras informações importantes,
+
+--- [pag. PDF 6] ---
+Página 78
+como por exemplo, o modo de disputa e os itens, entre outras.
+É através dessa tela que o usuário fará as interações referentes ao
+procedimento de pregão eletrônico. No canto superior direito da tela, você
+encontra o botão “Opções”, que faz acesso ao menucom as seguintes opções ao
+usuário:
+Credenciamento (Participar)
+Para participar do pregão selecionado, o usuário deve acessar a opção
+“Credenciamento (Participar)” e preencher as informações solicitadas.
+Na aba “1. Dados Cadastrais” o sistema apresentará as informações da
+empresa conforme consta no cadastro de fornecedores da entidade, e
+solicitará que seja preenchido as informações referentes ao representante. É
+necessário atenção aos campos “Preferência de contratação” e “Empresa
+sediada local ou regionalmente”, para os casos pertinentes.
+Caso essas informações apresentem qualquer tipo de divergência onde
+seja necessário realizar correções ou alterações, a empresa deve entrar em
+contato com a
+
+--- [pag. PDF 7] ---
+Página 79
+entidade solicitando ao setor responsável que seja realizado os devidos ajustes.
+Caso a empresa tenha se credenciado por algum equívoco ou
+erroneamente, a mesma deve entrar em contato com a entidade solicitando ao
+setor responsável que seja realizado o descredenciamento.
+Na aba “2. Documentação” o sistema apresentará a relação de
+documentos obrigatórios (casoexista), no qual a empresa interessada deve
+informar o número, data de emissão e data de validade, para cada documento da
+listagem. Caso algum documento obrigatório não esteja na listagem de
+documentação do fornecedor, basta clicar no botão “Incluir Item”, que uma
+nova tela será mostrada,para que os dados sejam informados.
+ATENÇÃO
+Os documentos obrigatórios são definidos pela própria entidade e
+mesmo preenchendo suas informações no sistema, os originais devem ser
+encaminhados à entidade conforme determinado no edital do processo.
+Ao finalizar o preenchimento das informações das abas 1 e 2, clique no
+botão “Salvar” para efetivar o credenciamento e participação no processo.
+Lançar Proposta
+É através dessa opção, que o usuário fará os lançamentos dos valores
+propostos
+
+--- [pag. PDF 8] ---
+Página 80
+dos itens do processo. Além dos valores, é possível também informar a marca
+do produto, quando for o caso. Quando a licitação for por lote, será possível
+informar, além do valor do lote, os valores dos itens do lote, de forma
+individual. O lançamento dos valores dos itens do lote, ajudará na etapa de
+readequação depreços do lote, ao final do processo.
+Ao finalizar o lançamento dos valores, clique no botão “Salvar”.
+Após realizado o lançamento da proposta, cabe aguardar a data e horário da
+sessão públicavirtual, onde será realizada a disputa e negociação dos itens.
+ATENÇÃO
+A c o m p o s i ç ã o d o v a l o r é d e r e s p o n s a b i l i d a d e d o f o r n e c e d o r e
+d e v e s e r p r e e n c h i d a , c o n f o r m e q u a n t i d a d e s i n f o r m a d a s e i n s t r u ç
+ões do e d i t a l .
+Sala de Disputa
+No dia e hora definidos para a disputa do pregão eletrônico, é através
+dessa opção que o usuário terá disponível as opções de interação com o
+processo colocado em disputa pelo pregoeiro responsável.
+
+--- [pag. PDF 9] ---
+Página 81
+A imagem a seguir, mostra a tela da sala de disputa, demonstrando suas
+áreas mais importantes, sinalizadas.
+Na parte superior esquerda, temos o menu “01. Licitante”. Esse menu
+possui as seguintes funcionalidades:
+ 01.01. Itens do Processo Licitatório
+ 01.02. Credenciamento
+ 01.03. Proposta Lançada
+ 01.04. Acompanhar suas intenções de recursos
+Ao lado direito, temos a área das mensagens do chat. Inicialmente as
+mensagens apresentadassão as mensagens do chat principal, referentes ao
+processo licitatório.
+I mp o rtan te ress a l tar, q u e ess a s mensagens se alternam, caso algum item da
+listagem de Lotes/Itens em Disputa, seja selecionado. Para voltar para as
+mensagens do chat principal, basta clicar na opção “Selecionar” do Processo
+Licitatório.
+Abaixo das mensagens do chat, você encontra a área para o envio de
+lances, envio de documentos e envio de mensagens, quando o chat estiver
+aberto para o fornecedor. A liberação do chat para o fornecedor, cabe ao
+pregoeiro, e pode ocorrer em determinados momentos da sala de disputa. É
+nessa área também, que após a disputa de todos os itens,
+
+--- [pag. PDF 10] ---
+Página 82
+aparecerá a opção de “Registrar Intenção de recurso” para que o fornecedor possa,
+caso necessário, manifestar sua intenção.
+A área central da tela mostra a listagem dos itens em disputa, e deve
+receber a maior atenção do usuário. Nessa listagem algumas informações são
+importantes, como a identificação do lote/item, o tipo de lance, se é em valor ou
+em percentual, o critério de lance, se é para menor valor, ou para maiorvalor, se
+o fornecedor é o vencedor atual ou não do item, entre outras informações.
+No canto inferior esquerdo da tela, você encontra todas as
+legendas e suasdevidas explicações.
+Legenda
+Item em Lances 	Item
+em Lances (Prorrogação)
+Item em Negociação Item
+em Lances (Desempate)
+Item em Lances (LC 123/2006)
+Análise de Lances
+Andamento do pregão na Sala de Disputa
+Cabe ao pregoeiro iniciar a sala de disputa, colocando os lotes/itens em situação
+de lances. Vale lembrar que os tempos de cada etapa, seguem os definidos no
+Decreto 10.024, de setembro de 2019, porém podem ser alterados para cada
+processo, desde que estejam especificados em edital.
+Quando o item estiver em lance, aparecerá na listagem de lotes/itens
+em disputa, com o ícone “Item em Lance”. Nesse momento o fornecedor
+está liberado para começar a efetuar seus lances. O fornecedor pode apenas
+melhorar seu próprio lance,
+Item Deserto 	Item em Análise Item em Fase de Aceitação
+Item Aceito Item Fracassado Item em Fase de
+Habilitação
+Documento(s) Solicitado(s) Intenção de Recurso Item em Adjudicação
+Lance Vencedor Lance Não Vencedor Lance Empatado
+Disputa Menor Lance Disputa Maior Lance
+
+--- [pag. PDF 11] ---
+Página 83
+mesmo não efetuando um lance que supere o lance vencedor, ou pode efetuar um
+lance melhor que o vencedor atual, e se tornar o vencedor do item,
+momentaneamente.
+Ao efetuar um lance, sempre
+será apresentada uma
+mensagem para confirmação,
+antes que o lance seja
+registrado pelo sistema, como
+mostra a figura ao lado.
+Nessa imagem, também é
+possível visualizar, a ordem de
+classificação atual, dos lances
+efetuados por todos os
+fornecedores em disputa.
+De acordo com o modo de
+disputa escolhido para o
+processo, aberto ou aberto e
+fechado, após decorrido o
+tempo para os lances
+aleatórios, o item entrará na
+fase seguinte, que é a
+“Item em Lance
+(Prorrogação)”.
+Nesse momento, caso o modo
+de disputa seja o aberto, o
+fornecedor poderá efetuar
+novos lances, e a cada lance
+efetuado, o sistema prorroga
+mais 2 minutos, para que seja
+possível efetuar novos lances.
+No modo de disputa, aberto e
+fechado, o sistema irá permitir
+que cada fornecedor efetue
+apenas mais um lance final e
+sigiloso.
+Finalizado o tempo de prorrogação, o item entra na fase de
+“Análise de Lances”. Nesse momento cabe ao pregoeiro, realizar a análise dos
+lances realizados e seguir com as demais fases.
+
+--- [pag. PDF 12] ---
+Página 84
+Caso ocorra empate, o pregoeiro irá abrir a opção de novos lances,
+para os fornecedores empatados, até que apenas um fornecedor se torne o
+vencedor do item. Podem ocorrer situações emque o processo for identificado
+para aplicação de tratamento diferenciado para micro e pequenas empresas
+(Lei 123/2006), e se for o caso, o pregoeiro também irá abrir opção de novos
+lances para osfornecedores que possuírem esse benefício.
+Definindo-se o vencedor do item, o pregoeiro pode abrir negociação
+com o fornecedor vencedor, e caso isso ocorra, o item entrará na fase
+“Item em negociação”, e será possível ao fornecedor vencedor enviar um
+novo valor, caso desejar, para o item.
+Se optar por enviar um novo valor, o
+sistema irá fazer uma pergunta de
+confirmação, conforme a imagem ao
+lado.
+Na sequência o item segue para a fase de “Item em fase de
+aceitação”. Nesse momento o pregoeiro vai analisar a aceitabilidade dos
+valores apresentados nos lances e na negociação, e decidirse aceita ou não, o
+item. Aceitando o item, o pregoeiro segue com o item para a fase de “Item
+em Fase de Habilitação”. Nesse momento, o pregoeiro pode solicitar o envio de
+documentos para ofornecedor vencedor.
+Caso isso ocorra,
+o botão “EnviarAnexo”
+deverá aparece para o
+usuário. Pode ser
+também, que o
+pregoeiro solicite o
+envio de documentos
+por e- mail, e caso isso
+ocorra, será informado no
+chat para qual e-mail os
+documentos devem sem
+encaminhados. A
+imagem ao lado,
+exemplifica as duas
+situações.
+Note que a cada etapa, as mensagens vão sendo atualizadas no chat, com as
+orientaçõeseinformações cabíveis.
+
+--- [pag. PDF 13] ---
+Página 85
+Após a habilitação
+do item para o
+fornecedor vencedor, o
+pregoeiro vai colocar o
+item na fase
+“Intenção de Recurso”, e
+o botão “Registrar
+Intenção de Recurso” irá
+aparecer no canto
+inferior direito da tela,
+conforme imagem ao
+lado. Nesse momento, o
+fornecedor que desejar
+registrar sua intenção,
+poderá fazê-la
+motivadamente.
+Decorrido o tempo para a intenção de recurso, caso nenhum
+fornecedor se manifeste, o item será colocado na situação “Item em
+Adjudicação”. Essa sequência de procedimentos, deve acontecer para todos
+os lotes/itens do processo, até que todos estejam na fase de “Adjudicação”.
+Nesse momento a sessão virtual será finalizada, e a salade disputa será
+encerrada.
+A situação do processo na listagem de processos será: “ATA EM
+ELABORAÇÃO”. O pregoeiro, juntamente com a equipe de apoio e o
+responsável pela adjudicação, darão andamento ao processo até que a ATA
+seja concluída e disponibilizada para a consulta de todos os participantes.
+Para consultar a ATA e demais documentos disponibilizados, feche a sala
+de disputa e volte para a tela de Detalhamento do Processo. Uma nova aba
+deve aparecer, chamada “Ata, Documentos e Anexos”.
