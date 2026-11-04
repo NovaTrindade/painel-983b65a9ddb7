@@ -1,0 +1,26 @@
+{
+ "id": "05522917000170-2026-212",
+ "extraidoEm": "2026-11-04T14:42:59.042Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/05522917000170/2026/212",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-TR-PE-164-2026.txt",
+   "titulo": "TR PE 164.2026.pdf",
+   "tipo": "Termo de Referência",
+   "paginas": 48,
+   "caracteres": 175499
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Edital-de-Licitacao-PE-164-2026.txt",
+   "titulo": "Edital de Licitacao PE 164.2026.pdf",
+   "tipo": "Edital",
+   "paginas": 123,
+   "caracteres": 435063
+  }
+ ],
+ "totalPaginas": 171,
+ "totalCaracteres": 610562,
+ "comErro": 0
+}
