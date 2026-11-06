@@ -1,10 +1,10 @@
 {
- "gerado": "2026-11-05T08:26:30.726Z",
- "referencia": "2026-11-05",
+ "gerado": "2026-11-06T05:25:15.583Z",
+ "referencia": "2026-11-06",
  "criterioVersao": 3,
  "execucao": {
-  "universoAberto": 3121,
-  "descartados": 3082,
+  "universoAberto": 3142,
+  "descartados": 3103,
   "candidatos": 39,
   "itensObtidos": 39,
   "itensFalhou": 0,
@@ -12,8 +12,8 @@
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 688,
-    "novos": 674,
+    "total": 683,
+    "novos": 672,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -22,8 +22,8 @@
    },
    {
     "consulta": "gestao municipal",
-    "total": 809,
-    "novos": 352,
+    "total": 815,
+    "novos": 353,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -32,8 +32,8 @@
    },
    {
     "consulta": "sistema integrado",
-    "total": 1944,
-    "novos": 558,
+    "total": 1951,
+    "novos": 542,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -42,8 +42,8 @@
    },
    {
     "consulta": "licenciamento uso",
-    "total": 273,
-    "novos": 177,
+    "total": 270,
+    "novos": 178,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -53,7 +53,7 @@
    {
     "consulta": "software gestao",
     "total": 239,
-    "novos": 45,
+    "novos": 49,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -72,18 +72,18 @@
    },
    {
     "consulta": "cessao uso",
-    "total": 140,
-    "novos": 50,
-    "paginasOk": 2,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "total": 139,
+    "novos": 71,
+    "paginasOk": 3,
+    "paginasFalhas": 0,
+    "parcial": false,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "arrecadacao",
-    "total": 316,
-    "novos": 272,
+    "total": 311,
+    "novos": 274,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -93,7 +93,7 @@
    {
     "consulta": "tributaria",
     "total": 367,
-    "novos": 110,
+    "novos": 108,
     "paginasOk": 8,
     "paginasFalhas": 0,
     "parcial": false,
@@ -102,8 +102,8 @@
    },
    {
     "consulta": "folha pagamento",
-    "total": 270,
-    "novos": 193,
+    "total": 279,
+    "novos": 201,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -112,7 +112,7 @@
    },
    {
     "consulta": "gestao educacional",
-    "total": 52,
+    "total": 51,
     "novos": 11,
     "paginasOk": 2,
     "paginasFalhas": 0,
@@ -122,8 +122,8 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 157,
-    "novos": 35,
+    "total": 153,
+    "novos": 36,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -132,8 +132,8 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 972,
-    "novos": 502,
+    "total": 966,
+    "novos": 503,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -142,8 +142,8 @@
    },
    {
     "consulta": "conversao dados",
-    "total": 105,
-    "novos": 30,
+    "total": 110,
+    "novos": 32,
     "paginasOk": 3,
     "paginasFalhas": 0,
     "parcial": false,
@@ -152,11 +152,11 @@
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 1,
-  "paginasPerdidas": 1,
+  "consultasParciais": 0,
+  "paginasPerdidas": 0,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 11.9
+  "minutosBusca": 15.3
  },
  "resumo": {
   "total": 39,
@@ -164,8 +164,8 @@
   "avaliar": 6,
   "triar": 26,
   "urgentes7d": 11,
-  "valorTotal": 27500447.83,
-  "valorUrgentes": 8215322.29,
+  "valorTotal": 27971488.82,
+  "valorUrgentes": 8159363.28,
   "suspeitos": 1
  },
  "editais": [
@@ -178,7 +178,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "40",
    "fimVigencia": "2026-11-11T09:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 3320132.4,
    "qtdItens": 10,
    "modulos": [
@@ -211,7 +211,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "13",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 2845693.6,
    "qtdItens": 10,
    "modulos": [
@@ -239,7 +239,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "205",
    "fimVigencia": "2026-11-10T08:15",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 1116550.8,
    "qtdItens": 10,
    "modulos": [
@@ -271,7 +271,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": null,
    "fimVigencia": "2026-11-16T08:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 1116550.8,
    "qtdItens": 10,
    "modulos": [
@@ -303,7 +303,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "33",
    "fimVigencia": "2026-11-16T23:59",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 8359209.2,
    "qtdItens": 1,
    "modulos": [
@@ -329,7 +329,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "000024",
    "fimVigencia": "2026-11-19T08:59",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 47397.42,
    "qtdItens": 10,
    "modulos": [
@@ -358,7 +358,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "016",
    "fimVigencia": "2026-11-16T08:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 364347.27,
    "qtdItens": 7,
    "modulos": [
@@ -377,33 +377,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/13798152000123/2026/114"
   },
   {
-   "id": "76995448000154-2026-174",
-   "orgao": "MUNICIPIO DE PATO BRANCO",
-   "municipio": "Pato Branco",
-   "uf": "PR",
-   "objeto": "Contratação de empresa especializada para prestação de serviços de disponibilização de solução integrada para gerenciamento das etapas específicas do fluxo radiológico, arquivamento, comunicação, recuperação, visualização e disponibilização de imagens médicas e laudos, integrada ao sistema de prontuário eletrônico IDS Saúde, em modelo de serviço Software as a Service – SaaS, com armazenamento em ambiente de computação em nuvem, contemplando implantação e parametrização da solução, migração do acervo radiológico existente, integração com o IDS Saúde, treinamento inicial dos usuários, armazenamento escalável, suporte técnico continuado, manutenção, atualizações e demais serviços necessários à continuidade de sua operação, para atendimento das necessidades da Secretaria Municipal de Saúde.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "10",
-   "fimVigencia": "2026-11-05T08:59",
-   "diasRestantes": 0,
-   "valorEstimado": 79959.01,
-   "qtdItens": 1,
-   "modulos": [
-    "prontuario",
-    "implantacao",
-    "migracao",
-    "saas",
-    "software",
-    "treinamento",
-    "suporte tecnico",
-    "nuvem"
-   ],
-   "ader": 57,
-   "score": 72,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/76995448000154/2026/174"
-  },
-  {
    "id": "07403769000108-2026-52",
    "orgao": "MUNICIPIO DE ITAICABA",
    "municipio": "Itaiçaba",
@@ -412,7 +385,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "023",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 107019.96,
    "qtdItens": 3,
    "modulos": [
@@ -436,7 +409,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "99",
    "fimVigencia": "2026-11-24T07:00",
-   "diasRestantes": 19,
+   "diasRestantes": 18,
    "valorEstimado": 486067.84,
    "qtdItens": 10,
    "modulos": [
@@ -456,6 +429,30 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/82777244000140/2026/62"
   },
   {
+   "id": "91566885000146-2026-76",
+   "orgao": "MUNICIPIO DE PROTASIO ALVES",
+   "municipio": "Protásio Alves",
+   "uf": "RS",
+   "objeto": "[Portal de Compras Públicas] - SOFTWARE GERENCIAMENTO IPM-ICMS- COMPREENDENDO A DISPONIBILIZAÇÃO, MEDIANTE INSTALAÇÃO, IMPLANTAÇÃO, PARAMETRIZAÇÃO, TREINAMENTO, MANUTENÇÃO CORRETIVA, ADAPTATIVA E EVOLUTIVA E LICENCIAMENTO POR LOCAÇÃO MENSAL DE SOFTWARE ESPECIALIZADO PARA GERENCIAMENTO E ACOMPANHAMENTO DO ÍNDICE DE PARTICIPAÇÃO  DOS MUNICÍPIOS (IPM) NA ARRECADAÇÃO DO ICMS, CONTEMPLANDO FERRAMENTAS DESTINADAS AO MONITORAMENTO DO VALOR ADICIONADO FISCAL ( VAF), COM ACOMPANHAMENTO DOS CONTRIBUINTES, GERAÇÃO DE RELATÓRIOS GERENCIAIS, CRUZAMENTO DE INFORMAÇÕES FISCAIS E SUPORTE ÀS ATIVIDADES DA ADMINISTRAÇÃO TRIBUTÁRIA DO MUNICÍPIO DE PROTÁSIO ALVES/RS",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "20",
+   "fimVigencia": "2026-11-12T13:30",
+   "diasRestantes": 7,
+   "valorEstimado": 24000,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "tributar",
+    "implantacao",
+    "software",
+    "treinamento"
+   ],
+   "ader": 69,
+   "score": 71,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/91566885000146/2026/76"
+  },
+  {
    "id": "75730994000109-2026-360",
    "orgao": "MUNICIPIO DE NOVA ESPERANCA",
    "municipio": "Nova Esperança",
@@ -464,7 +461,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "52",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 8410,
    "qtdItens": 2,
    "modulos": [
@@ -490,7 +487,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": null,
    "fimVigencia": "2026-11-06T08:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 185403.24,
    "qtdItens": 1,
    "modulos": [
@@ -514,7 +511,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "16",
    "fimVigencia": "2026-11-16T07:30",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 113253.24,
    "qtdItens": 1,
    "modulos": [
@@ -539,7 +536,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "119",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 8410,
    "qtdItens": 2,
    "modulos": [
@@ -556,30 +553,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/75730994000109/2026/362"
   },
   {
-   "id": "91566885000146-2026-76",
-   "orgao": "MUNICIPIO DE PROTASIO ALVES",
-   "municipio": "Protásio Alves",
-   "uf": "RS",
-   "objeto": "[Portal de Compras Públicas] - SOFTWARE GERENCIAMENTO IPM-ICMS- COMPREENDENDO A DISPONIBILIZAÇÃO, MEDIANTE INSTALAÇÃO, IMPLANTAÇÃO, PARAMETRIZAÇÃO, TREINAMENTO, MANUTENÇÃO CORRETIVA, ADAPTATIVA E EVOLUTIVA E LICENCIAMENTO POR LOCAÇÃO MENSAL DE SOFTWARE ESPECIALIZADO PARA GERENCIAMENTO E ACOMPANHAMENTO DO ÍNDICE DE PARTICIPAÇÃO  DOS MUNICÍPIOS (IPM) NA ARRECADAÇÃO DO ICMS, CONTEMPLANDO FERRAMENTAS DESTINADAS AO MONITORAMENTO DO VALOR ADICIONADO FISCAL ( VAF), COM ACOMPANHAMENTO DOS CONTRIBUINTES, GERAÇÃO DE RELATÓRIOS GERENCIAIS, CRUZAMENTO DE INFORMAÇÕES FISCAIS E SUPORTE ÀS ATIVIDADES DA ADMINISTRAÇÃO TRIBUTÁRIA DO MUNICÍPIO DE PROTÁSIO ALVES/RS",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "20",
-   "fimVigencia": "2026-11-12T13:30",
-   "diasRestantes": 8,
-   "valorEstimado": 24000,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "implantacao",
-    "software",
-    "treinamento"
-   ],
-   "ader": 69,
-   "score": 66,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/91566885000146/2026/76"
-  },
-  {
    "id": "08435854000102-2026-6",
    "orgao": "AUTARQUIA MUNICIPAL DE TRANSITO E TRANSPORTE DE CONTAGEM - TRANSCON",
    "municipio": "Contagem",
@@ -588,7 +561,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "023",
    "fimVigencia": "2026-11-10T09:00",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 511200,
    "qtdItens": 1,
    "modulos": [
@@ -613,7 +586,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "58",
    "fimVigencia": "2026-11-16T09:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 460145,
    "qtdItens": 10,
    "modulos": [
@@ -638,7 +611,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "24",
    "fimVigencia": "2026-11-16T13:50",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 144000,
    "qtdItens": 1,
    "modulos": [
@@ -659,7 +632,7 @@
    "modalidade": "Dispensa",
    "numero": "024",
    "fimVigencia": "2026-11-09T16:00:01",
-   "diasRestantes": 5,
+   "diasRestantes": 4,
    "valorEstimado": 32543.28,
    "qtdItens": 1,
    "modulos": [
@@ -673,6 +646,29 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/13828504000146/2026/94"
   },
   {
+   "id": "12200168000120-2026-223",
+   "orgao": "MUNICIPIO DE RIO LARGO",
+   "municipio": "Rio Largo",
+   "uf": "AL",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE CESSÃO E LICENCIAMENTO DE SOFTWARES PARA IMPLANTAÇÃO DE SISTEMAS INTEGRADOS DE GESTÃO PÚBLICA PARA O MUNICÍPIO DE RIO LARGO/AL",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "052",
+   "fimVigencia": "2026-11-23T09:00",
+   "diasRestantes": 17,
+   "valorEstimado": 551000,
+   "qtdItens": 1,
+   "modulos": [
+    "sistemas integrados",
+    "gestao publica",
+    "implantacao",
+    "software"
+   ],
+   "ader": 50,
+   "score": 59,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/12200168000120/2026/223"
+  },
+  {
    "id": "12200168000120-2026-222",
    "orgao": "MUNICIPIO DE RIO LARGO",
    "municipio": "Rio Largo",
@@ -680,8 +676,8 @@
    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE CESSÃO E LICENCIAMENTO DE SOFTWARES PARA IMPLANTAÇÃO DE SISTEMAS INTEGRADOS DE GESTÃO PÚBLICA PARA O MUNICÍPIO DE RIO LARGO/AL",
    "modalidade": "Pregão - Eletrônico",
    "numero": "52",
-   "fimVigencia": "2026-11-23T09:00",
-   "diasRestantes": 18,
+   "fimVigencia": "2026-12-01T09:00",
+   "diasRestantes": 25,
    "valorEstimado": 551000,
    "qtdItens": 1,
    "modulos": [
@@ -704,7 +700,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "51",
    "fimVigencia": "2026-11-16T07:59",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 290519.43,
    "qtdItens": 1,
    "modulos": [
@@ -729,7 +725,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "014",
    "fimVigencia": "2026-11-17T17:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 80000,
    "qtdItens": 1,
    "modulos": [
@@ -750,7 +746,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "53",
    "fimVigencia": "2026-11-17T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 53482.37,
    "qtdItens": 2,
    "modulos": [
@@ -765,6 +761,28 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/88659313000105/2026/178"
   },
   {
+   "id": "45301264000113-2026-328",
+   "orgao": "MUNICIPIO DE MOGI-GUACU",
+   "municipio": "Mogi Guaçu",
+   "uf": "SP",
+   "objeto": "Contratação de empresa especializada para fornecimento de licença de software destinado ao suporte das atividades de auditoria tributária municipal e ao acompanhamento do Valor Adicionado Fiscal (VAF), visando auxiliar na apuração e no monitoramento dos índices de participação do Município na arrecadação do ICMS.",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PE26",
+   "fimVigencia": "2026-11-09T09:00",
+   "diasRestantes": 3,
+   "valorEstimado": 0,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "tributar",
+    "software"
+   ],
+   "ader": 56,
+   "score": 50,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/45301264000113/2026/328"
+  },
+  {
    "id": "29138294000102-2026-827",
    "orgao": "MUNICIPIO DE PARACAMBI",
    "municipio": "Paracambi",
@@ -773,7 +791,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "21",
    "fimVigencia": "2026-11-16T09:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 1895971.83,
    "qtdItens": 10,
    "modulos": [
@@ -798,7 +816,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "00024026",
    "fimVigencia": "2026-11-23T09:29",
-   "diasRestantes": 18,
+   "diasRestantes": 17,
    "valorEstimado": 7013.33,
    "qtdItens": 1,
    "modulos": [
@@ -815,28 +833,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/18094755000168/2026/171"
   },
   {
-   "id": "45301264000113-2026-328",
-   "orgao": "MUNICIPIO DE MOGI-GUACU",
-   "municipio": "Mogi Guaçu",
-   "uf": "SP",
-   "objeto": "Contratação de empresa especializada para fornecimento de licença de software destinado ao suporte das atividades de auditoria tributária municipal e ao acompanhamento do Valor Adicionado Fiscal (VAF), visando auxiliar na apuração e no monitoramento dos índices de participação do Município na arrecadação do ICMS.",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "PE26",
-   "fimVigencia": "2026-11-09T09:00",
-   "diasRestantes": 4,
-   "valorEstimado": 0,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "tributar",
-    "software"
-   ],
-   "ader": 56,
-   "score": 46,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/45301264000113/2026/328"
-  },
-  {
    "id": "33710823000160-2026-17",
    "orgao": "CUIABA CAMARA MUNICIPAL",
    "municipio": "Cuiabá",
@@ -845,7 +841,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "7",
    "fimVigencia": "2026-11-16T10:00",
-   "diasRestantes": 11,
+   "diasRestantes": 10,
    "valorEstimado": 1325135.76,
    "qtdItens": 1,
    "modulos": [
@@ -872,7 +868,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "2",
    "fimVigencia": "2026-11-17T10:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 501587.98,
    "qtdItens": 1,
    "modulos": [
@@ -897,7 +893,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "18",
    "fimVigencia": "2026-11-30T09:00",
-   "diasRestantes": 25,
+   "diasRestantes": 24,
    "valorEstimado": 3338825.67,
    "qtdItens": 4,
    "modulos": [
@@ -923,7 +919,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "15",
    "fimVigencia": "2026-11-17T09:00",
-   "diasRestantes": 12,
+   "diasRestantes": 11,
    "valorEstimado": 126617.16,
    "qtdItens": 10,
    "modulos": [
@@ -946,7 +942,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2027-05-18T17:00",
-   "diasRestantes": 195,
+   "diasRestantes": 194,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -968,7 +964,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-30T00:00",
-   "diasRestantes": 1516,
+   "diasRestantes": 1515,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -990,7 +986,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2050-12-30T23:59",
-   "diasRestantes": 8822,
+   "diasRestantes": 8821,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1014,7 +1010,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2027-05-03T17:00",
-   "diasRestantes": 180,
+   "diasRestantes": 179,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1036,7 +1032,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-04-01T11:20",
-   "diasRestantes": 1243,
+   "diasRestantes": 1242,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1058,7 +1054,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-18T00:00",
-   "diasRestantes": 1504,
+   "diasRestantes": 1503,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1079,7 +1075,7 @@
    "modalidade": "Credenciamento",
    "numero": "11",
    "fimVigencia": "2027-06-16T09:00",
-   "diasRestantes": 223,
+   "diasRestantes": 222,
    "valorEstimado": 1.24,
    "qtdItens": 1,
    "modulos": [
@@ -1100,7 +1096,7 @@
    "modalidade": "Credenciamento",
    "numero": "008",
    "fimVigencia": "2027-09-08T23:59",
-   "diasRestantes": 308,
+   "diasRestantes": 307,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1121,7 +1117,7 @@
    "modalidade": "Credenciamento",
    "numero": "1",
    "fimVigencia": "2027-02-04T15:55",
-   "diasRestantes": 92,
+   "diasRestantes": 91,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
