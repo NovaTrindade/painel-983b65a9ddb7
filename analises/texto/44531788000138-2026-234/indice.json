@@ -1,0 +1,74 @@
+{
+ "id": "44531788000138-2026-234",
+ "extraidoEm": "2026-11-10T15:03:45.883Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/44531788000138/2026/234",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-PE-114-2026-CONTRATACAO-DE-EMPRESA-ESPECIALIZADA-PARA.txt",
+   "titulo": "EDITAL PE 114 -2026 -CONTRATACAO DE EMPRESA ESPECIALIZADA PARA LOCACAO DE ATIVOS DE",
+   "tipo": "Edital",
+   "paginas": 23,
+   "caracteres": 67749
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-ANEXO-III-MINUTA-CONTRATO-PE-114-2026.txt",
+   "titulo": "ANEXO III MINUTA CONTRATO PE 114-2026",
+   "tipo": "Minuta do Contrato",
+   "paginas": 20,
+   "caracteres": 64713
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-ANEXO-I-TERMO-DE-REFERENCIA.txt",
+   "titulo": "ANEXO I - TERMO DE REFERENCIA",
+   "tipo": "Termo de Referência",
+   "paginas": 75,
+   "caracteres": 227878
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-ANEXO-II-ESTUDO-TECNICO-PRELIMINAR.txt",
+   "titulo": "ANEXO II - ESTUDO TECNICO PRELIMINAR",
+   "tipo": "Estudo Técnico Preliminar",
+   "paginas": 23,
+   "caracteres": 68638
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-ANEXOS-IV-A-XI.txt",
+   "titulo": "ANEXOS IV A XI",
+   "tipo": "Outros Documentos",
+   "paginas": 9,
+   "caracteres": 16992
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-MAPA-DE-COTACAO.txt",
+   "titulo": "MAPA DE COTACAO",
+   "tipo": "Outros Documentos",
+   "paginas": 3,
+   "caracteres": 2756
+  },
+  {
+   "ordem": 7,
+   "arquivo": "07-PARECER-JURIDICO.txt",
+   "titulo": "PARECER JURIDICO",
+   "tipo": "Outros Documentos",
+   "paginas": 7,
+   "caracteres": 13824
+  },
+  {
+   "ordem": 8,
+   "arquivo": "08-Autorizo-publicar-PE-114-2026-CONTRATACAO-DE-EMPRESA-ESPECIA.txt",
+   "titulo": "Autorizo publicar - PE 114 -2026 -CONTRATACAO DE EMPRESA ESPECIALIZADA PARA LOCACAO",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1419
+  }
+ ],
+ "totalPaginas": 161,
+ "totalCaracteres": 463969,
+ "comErro": 0
+}
