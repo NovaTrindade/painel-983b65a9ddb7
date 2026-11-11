@@ -1,39 +1,39 @@
 {
- "gerado": "2026-11-10T16:07:44.388Z",
- "referencia": "2026-11-10",
+ "gerado": "2026-11-11T05:22:19.279Z",
+ "referencia": "2026-11-11",
  "criterioVersao": 3,
  "execucao": {
-  "universoAberto": 3023,
-  "descartados": 2982,
-  "candidatos": 41,
-  "itensObtidos": 41,
+  "universoAberto": 3162,
+  "descartados": 3120,
+  "candidatos": 42,
+  "itensObtidos": 42,
   "itensFalhou": 0,
   "itensNaoTentados": 0,
   "consultas": [
    {
     "consulta": "gestao publica",
-    "total": 697,
-    "novos": 534,
-    "paginasOk": 11,
-    "paginasFalhas": 3,
+    "total": 721,
+    "novos": 628,
+    "paginasOk": 13,
+    "paginasFalhas": 1,
     "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "gestao municipal",
-    "total": 789,
-    "novos": 427,
-    "paginasOk": 14,
-    "paginasFalhas": 0,
-    "parcial": false,
+    "total": 809,
+    "novos": 334,
+    "paginasOk": 13,
+    "paginasFalhas": 1,
+    "parcial": true,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "sistema integrado",
-    "total": 1899,
-    "novos": 537,
+    "total": 1974,
+    "novos": 562,
     "paginasOk": 14,
     "paginasFalhas": 0,
     "parcial": false,
@@ -42,9 +42,9 @@
    },
    {
     "consulta": "licenciamento uso",
-    "total": 288,
-    "novos": 199,
-    "paginasOk": 6,
+    "total": 303,
+    "novos": 211,
+    "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
     "desistiu": false,
@@ -52,8 +52,8 @@
    },
    {
     "consulta": "software gestao",
-    "total": 240,
-    "novos": 50,
+    "total": 248,
+    "novos": 59,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -62,8 +62,8 @@
    },
    {
     "consulta": "locacao software",
-    "total": 202,
-    "novos": 102,
+    "total": 212,
+    "novos": 106,
     "paginasOk": 5,
     "paginasFalhas": 0,
     "parcial": false,
@@ -72,7 +72,7 @@
    },
    {
     "consulta": "cessao uso",
-    "total": 144,
+    "total": 146,
     "novos": 72,
     "paginasOk": 3,
     "paginasFalhas": 0,
@@ -82,8 +82,8 @@
    },
    {
     "consulta": "arrecadacao",
-    "total": 320,
-    "novos": 281,
+    "total": 322,
+    "novos": 280,
     "paginasOk": 7,
     "paginasFalhas": 0,
     "parcial": false,
@@ -92,18 +92,18 @@
    },
    {
     "consulta": "tributaria",
-    "total": 365,
-    "novos": 93,
-    "paginasOk": 7,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "total": 371,
+    "novos": 112,
+    "paginasOk": 8,
+    "paginasFalhas": 0,
+    "parcial": false,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "folha pagamento",
-    "total": 290,
-    "novos": 215,
+    "total": 297,
+    "novos": 214,
     "paginasOk": 6,
     "paginasFalhas": 0,
     "parcial": false,
@@ -112,8 +112,8 @@
    },
    {
     "consulta": "gestao educacional",
-    "total": 53,
-    "novos": 10,
+    "total": 52,
+    "novos": 8,
     "paginasOk": 2,
     "paginasFalhas": 0,
     "parcial": false,
@@ -122,8 +122,8 @@
    },
    {
     "consulta": "gestao documentos",
-    "total": 160,
-    "novos": 41,
+    "total": 168,
+    "novos": 47,
     "paginasOk": 4,
     "paginasFalhas": 0,
     "parcial": false,
@@ -132,40 +132,40 @@
    },
    {
     "consulta": "processo eletronico",
-    "total": 938,
-    "novos": 462,
-    "paginasOk": 13,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "total": 973,
+    "novos": 500,
+    "paginasOk": 14,
+    "paginasFalhas": 0,
+    "parcial": false,
     "desistiu": false,
     "erro": null
    },
    {
     "consulta": "conversao dados",
-    "total": 110,
-    "novos": 0,
-    "paginasOk": 0,
-    "paginasFalhas": 1,
-    "parcial": true,
+    "total": 115,
+    "novos": 29,
+    "paginasOk": 3,
+    "paginasFalhas": 0,
+    "parcial": false,
     "desistiu": false,
     "erro": null
    }
   ],
   "consultasFalhas": 0,
-  "consultasParciais": 4,
-  "paginasPerdidas": 6,
+  "consultasParciais": 2,
+  "paginasPerdidas": 2,
   "consultasQueDesistiram": 0,
   "buscaInterrompidaPorTempo": false,
-  "minutosBusca": 22.3
+  "minutosBusca": 12.4
  },
  "resumo": {
-  "total": 41,
-  "prioridade": 7,
+  "total": 42,
+  "prioridade": 8,
   "avaliar": 6,
   "triar": 28,
-  "urgentes7d": 19,
-  "valorTotal": 28196389.43,
-  "valorUrgentes": 21074046,
+  "urgentes7d": 20,
+  "valorTotal": 28451326.19,
+  "valorUrgentes": 21154046,
   "suspeitos": 1
  },
  "editais": [
@@ -178,7 +178,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "40",
    "fimVigencia": "2026-11-11T09:00",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 3320132.4,
    "qtdItens": 10,
    "modulos": [
@@ -211,7 +211,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "13",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 2845693.6,
    "qtdItens": 10,
    "modulos": [
@@ -239,7 +239,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": null,
    "fimVigencia": "2026-11-16T08:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 1116550.8,
    "qtdItens": 10,
    "modulos": [
@@ -271,7 +271,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "33",
    "fimVigencia": "2026-11-16T23:59",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 8359209.2,
    "qtdItens": 1,
    "modulos": [
@@ -289,6 +289,40 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/29172475000147/2026/324"
   },
   {
+   "id": "77774685000158-2026-65",
+   "orgao": "CAMARA MUNICIPAL DE CASTRO",
+   "municipio": "Castro",
+   "uf": "PR",
+   "objeto": "Contratação de empresa especializada para prestação de serviços de softwares de gestão pública, com acesso ilimitado de usuários, compreendendo conversão de dados, implantação, parametrização, treinamento, suporte técnico, alimentação e manutenção mensal, pelo período de 12 (doze) meses, bem como, Auxilio e alimentação de arquivos, textos, interpretação de erros, fechamento das informações pertinentes as prestações de contas junto ao TCE-PR e Receita Federal, através do SIM-AM, SIM-AP, SIAP, PCA, RAIS, DIRF, E-SOCIAL e SEFIP, que atenda as especificações técnicas, os quantitativos e serviços técnicos \ncorrelatos, conforme especificações de cada módulo constantes no Termo de Referencia",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": null,
+   "fimVigencia": "2026-11-23T09:00",
+   "diasRestantes": 12,
+   "valorEstimado": 254936.76,
+   "qtdItens": 10,
+   "modulos": [
+    "conversao de dados",
+    "gestao publica",
+    "erp",
+    "contabil",
+    "folha de pagamento",
+    "recursos humanos",
+    "portal da transparencia",
+    "implantacao",
+    "migracao",
+    "patrimonio",
+    "almoxarifado",
+    "transparencia",
+    "software",
+    "treinamento",
+    "suporte tecnico"
+   ],
+   "ader": 100,
+   "score": 85,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/77774685000158/2026/65"
+  },
+  {
    "id": "13798152000123-2026-114",
    "orgao": "MUNICIPIO DE IBOTIRAMA",
    "municipio": "Ibotirama",
@@ -297,7 +331,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "016",
    "fimVigencia": "2026-11-16T08:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 364347.27,
    "qtdItens": 7,
    "modulos": [
@@ -324,7 +358,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "50",
    "fimVigencia": "2026-11-19T08:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 340322.75,
    "qtdItens": 10,
    "modulos": [
@@ -353,7 +387,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "000024",
    "fimVigencia": "2026-11-19T08:59",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 47397.42,
    "qtdItens": 10,
    "modulos": [
@@ -382,7 +416,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "99",
    "fimVigencia": "2026-11-24T07:00",
-   "diasRestantes": 14,
+   "diasRestantes": 13,
    "valorEstimado": 486067.84,
    "qtdItens": 10,
    "modulos": [
@@ -410,7 +444,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "023",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 107019.96,
    "qtdItens": 3,
    "modulos": [
@@ -434,7 +468,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "20",
    "fimVigencia": "2026-11-12T13:30",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 24000,
    "qtdItens": 1,
    "modulos": [
@@ -458,7 +492,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "52",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 8410,
    "qtdItens": 2,
    "modulos": [
@@ -484,7 +518,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "16",
    "fimVigencia": "2026-11-16T07:30",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 113253.24,
    "qtdItens": 1,
    "modulos": [
@@ -509,7 +543,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "119",
    "fimVigencia": "2026-11-11T08:59",
-   "diasRestantes": 1,
+   "diasRestantes": 0,
    "valorEstimado": 8410,
    "qtdItens": 2,
    "modulos": [
@@ -534,7 +568,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "58",
    "fimVigencia": "2026-11-16T09:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 460145,
    "qtdItens": 10,
    "modulos": [
@@ -559,7 +593,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "24",
    "fimVigencia": "2026-11-16T13:50",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 144000,
    "qtdItens": 1,
    "modulos": [
@@ -580,7 +614,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "052",
    "fimVigencia": "2026-11-23T09:00",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 551000,
    "qtdItens": 1,
    "modulos": [
@@ -603,7 +637,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "51",
    "fimVigencia": "2026-11-16T07:59",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 290519.43,
    "qtdItens": 1,
    "modulos": [
@@ -628,7 +662,7 @@
    "modalidade": "Dispensa",
    "numero": "663",
    "fimVigencia": "2026-11-13T08:00",
-   "diasRestantes": 3,
+   "diasRestantes": 2,
    "valorEstimado": 9560,
    "qtdItens": 1,
    "modulos": [
@@ -644,6 +678,27 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/00402552000126/2026/600"
   },
   {
+   "id": "14106280000121-2026-65",
+   "orgao": "MUNICIPIO DE ITUACU",
+   "municipio": "Ituaçu",
+   "uf": "BA",
+   "objeto": "seleção de instituição financeira de classificação s1 e s2 para ocupar e explorar, a título precário, através de concessão onerosa de uso, pelo período de 05 (cinco) anos, a exclusividade da gestão da folha de pagamento dos servidores, a concessão de empréstimos consignados sem exclusividade por todo período do contrato conforme indicado no termo de referência e a centralização da arrecadação das receitas municipais, que regular-se-á por este edital e seus anexos. ",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "014",
+   "fimVigencia": "2026-11-17T17:00",
+   "diasRestantes": 7,
+   "valorEstimado": 80000,
+   "qtdItens": 1,
+   "modulos": [
+    "arrecadac",
+    "folha de pagamento"
+   ],
+   "ader": 40,
+   "score": 61,
+   "suspeito": [],
+   "pncpUrl": "https://pncp.gov.br/app/editais/14106280000121/2026/65"
+  },
+  {
    "id": "08506339000176-2026-12",
    "orgao": "CONSELHO REGIONAL DE ENFERMAGEM DO RIO GRANDE DO NORTE",
    "municipio": "Natal",
@@ -652,7 +707,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "9",
    "fimVigencia": "2026-11-25T09:30",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 64317.84,
    "qtdItens": 2,
    "modulos": [
@@ -679,7 +734,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "53",
    "fimVigencia": "2026-11-17T09:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 53482.37,
    "qtdItens": 2,
    "modulos": [
@@ -702,7 +757,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "52",
    "fimVigencia": "2026-12-01T09:00",
-   "diasRestantes": 21,
+   "diasRestantes": 20,
    "valorEstimado": 551000,
    "qtdItens": 1,
    "modulos": [
@@ -725,7 +780,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "043",
    "fimVigencia": "2026-11-18T13:00",
-   "diasRestantes": 9,
+   "diasRestantes": 8,
    "valorEstimado": 300422.5,
    "qtdItens": 1,
    "modulos": [
@@ -738,27 +793,6 @@
    "pncpUrl": "https://pncp.gov.br/app/editais/10192441000196/2026/29"
   },
   {
-   "id": "14106280000121-2026-65",
-   "orgao": "MUNICIPIO DE ITUACU",
-   "municipio": "Ituaçu",
-   "uf": "BA",
-   "objeto": "seleção de instituição financeira de classificação s1 e s2 para ocupar e explorar, a título precário, através de concessão onerosa de uso, pelo período de 05 (cinco) anos, a exclusividade da gestão da folha de pagamento dos servidores, a concessão de empréstimos consignados sem exclusividade por todo período do contrato conforme indicado no termo de referência e a centralização da arrecadação das receitas municipais, que regular-se-á por este edital e seus anexos. ",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "014",
-   "fimVigencia": "2026-11-17T17:00",
-   "diasRestantes": 8,
-   "valorEstimado": 80000,
-   "qtdItens": 1,
-   "modulos": [
-    "arrecadac",
-    "folha de pagamento"
-   ],
-   "ader": 40,
-   "score": 56,
-   "suspeito": [],
-   "pncpUrl": "https://pncp.gov.br/app/editais/14106280000121/2026/65"
-  },
-  {
    "id": "29138294000102-2026-827",
    "orgao": "MUNICIPIO DE PARACAMBI",
    "municipio": "Paracambi",
@@ -767,7 +801,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "21",
    "fimVigencia": "2026-11-16T09:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 1895971.83,
    "qtdItens": 10,
    "modulos": [
@@ -792,7 +826,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "00024026",
    "fimVigencia": "2026-11-23T09:29",
-   "diasRestantes": 13,
+   "diasRestantes": 12,
    "valorEstimado": 7013.33,
    "qtdItens": 1,
    "modulos": [
@@ -817,7 +851,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "7",
    "fimVigencia": "2026-11-16T10:00",
-   "diasRestantes": 6,
+   "diasRestantes": 5,
    "valorEstimado": 1325135.76,
    "qtdItens": 1,
    "modulos": [
@@ -844,7 +878,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "2",
    "fimVigencia": "2026-11-17T10:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 501587.98,
    "qtdItens": 1,
    "modulos": [
@@ -869,7 +903,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "15",
    "fimVigencia": "2026-11-17T09:00",
-   "diasRestantes": 7,
+   "diasRestantes": 6,
    "valorEstimado": 126617.16,
    "qtdItens": 10,
    "modulos": [
@@ -892,7 +926,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": null,
    "fimVigencia": "2026-11-25T08:59",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 404511.4,
    "qtdItens": 5,
    "modulos": [
@@ -917,7 +951,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "006",
    "fimVigencia": "2026-11-25T09:59",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 578040.04,
    "qtdItens": 6,
    "modulos": [
@@ -943,7 +977,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "4",
    "fimVigencia": "2026-11-25T09:00",
-   "diasRestantes": 15,
+   "diasRestantes": 14,
    "valorEstimado": 373423.4,
    "qtdItens": 5,
    "modulos": [
@@ -968,7 +1002,7 @@
    "modalidade": "Pregão - Eletrônico",
    "numero": "18",
    "fimVigencia": "2026-11-30T09:00",
-   "diasRestantes": 20,
+   "diasRestantes": 19,
    "valorEstimado": 3338825.67,
    "qtdItens": 4,
    "modulos": [
@@ -994,7 +1028,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2027-05-18T17:00",
-   "diasRestantes": 190,
+   "diasRestantes": 189,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1016,7 +1050,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-30T00:00",
-   "diasRestantes": 1511,
+   "diasRestantes": 1510,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1038,7 +1072,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2050-12-30T23:59",
-   "diasRestantes": 8817,
+   "diasRestantes": 8816,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1062,7 +1096,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2027-05-03T17:00",
-   "diasRestantes": 175,
+   "diasRestantes": 174,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1084,7 +1118,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-04-01T11:20",
-   "diasRestantes": 1238,
+   "diasRestantes": 1237,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1106,7 +1140,7 @@
    "modalidade": "Credenciamento",
    "numero": null,
    "fimVigencia": "2030-12-18T00:00",
-   "diasRestantes": 1499,
+   "diasRestantes": 1498,
    "valorEstimado": null,
    "qtdItens": 1,
    "modulos": [
@@ -1127,7 +1161,7 @@
    "modalidade": "Credenciamento",
    "numero": "11",
    "fimVigencia": "2027-06-16T09:00",
-   "diasRestantes": 218,
+   "diasRestantes": 217,
    "valorEstimado": 1.24,
    "qtdItens": 1,
    "modulos": [
@@ -1148,7 +1182,7 @@
    "modalidade": "Credenciamento",
    "numero": "008",
    "fimVigencia": "2027-09-08T23:59",
-   "diasRestantes": 303,
+   "diasRestantes": 302,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
@@ -1169,7 +1203,7 @@
    "modalidade": "Credenciamento",
    "numero": "1",
    "fimVigencia": "2027-02-04T15:55",
-   "diasRestantes": 87,
+   "diasRestantes": 86,
    "valorEstimado": 0,
    "qtdItens": 1,
    "modulos": [
