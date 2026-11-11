@@ -1,0 +1,26 @@
+{
+ "id": "91110296000159-2026-201",
+ "extraidoEm": "2026-11-11T14:34:46.362Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/91110296000159/2026/201",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-AVISO-DE-INTENCAO.txt",
+   "titulo": "AVISO DE INTENCAO",
+   "tipo": "Aviso de Contratação Direta",
+   "paginas": 1,
+   "caracteres": 1844
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-03-TERMO-DE-REFERENCIA-TR.txt",
+   "titulo": "03  TERMO DE REFERENCIA  TR.",
+   "tipo": "Termo de Referência",
+   "paginas": 5,
+   "caracteres": 8783
+  }
+ ],
+ "totalPaginas": 6,
+ "totalCaracteres": 10627,
+ "comErro": 0
+}
