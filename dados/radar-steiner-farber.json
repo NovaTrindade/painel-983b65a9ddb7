@@ -1,11 +1,11 @@
 {
- "gerado": "2026-11-09T21:04:19.288Z",
- "referencia": "2026-11-09",
+ "gerado": "2026-11-16T20:42:24.134Z",
+ "referencia": "2026-11-16",
  "execucao": {
   "empresasConsultadas": 10,
   "buscasFalhadas": [],
   "contratosConfirmados": 10,
-  "qsaObtidos": 5
+  "qsaObtidos": 3
  },
  "resumo": {
   "contratos": 10,
@@ -32,7 +32,7 @@
    "inicio": "2026-09-21",
    "fimBase": "2027-09-21",
    "fimReal": "2027-09-21",
-   "diasRestantes": 316,
+   "diasRestantes": 309,
    "aditivos": [],
    "status": "vigente",
    "pncpUrl": "https://pncp.gov.br/app/contratos/01616171000102/2026/97"
@@ -52,7 +52,7 @@
    "inicio": "2024-04-09",
    "fimBase": "2025-04-09",
    "fimReal": "2025-04-09",
-   "diasRestantes": -579,
+   "diasRestantes": -586,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/08761124000100/2024/299"
@@ -72,7 +72,7 @@
    "inicio": "2025-10-27",
    "fimBase": "2027-10-27",
    "fimReal": "2027-10-27",
-   "diasRestantes": 352,
+   "diasRestantes": 345,
    "aditivos": [],
    "status": "vigente",
    "pncpUrl": "https://pncp.gov.br/app/contratos/42498600000171/2025/5267"
@@ -92,7 +92,7 @@
    "inicio": "2026-03-10",
    "fimBase": "2027-03-09",
    "fimReal": "2027-03-09",
-   "diasRestantes": 120,
+   "diasRestantes": 113,
    "aditivos": [],
    "status": "janela-proxima",
    "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2026/23"
@@ -112,7 +112,7 @@
    "inicio": "2023-12-03",
    "fimBase": "2024-03-03",
    "fimReal": "2024-03-03",
-   "diasRestantes": -981,
+   "diasRestantes": -988,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2023/20"
@@ -132,7 +132,7 @@
    "inicio": "2025-08-01",
    "fimBase": "2026-08-01",
    "fimReal": "2027-08-01",
-   "diasRestantes": 265,
+   "diasRestantes": 258,
    "aditivos": [
     {
      "tipo": "Termo Aditivo",
@@ -161,7 +161,7 @@
    "inicio": "2024-07-01",
    "fimBase": "2025-07-01",
    "fimReal": "2025-07-01",
-   "diasRestantes": -496,
+   "diasRestantes": -503,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/58982364000102/2024/11"
@@ -181,7 +181,7 @@
    "inicio": "2025-05-08",
    "fimBase": "2026-05-08",
    "fimReal": "2026-05-08",
-   "diasRestantes": -185,
+   "diasRestantes": -192,
    "aditivos": [
     {
      "tipo": "Termo de Apostilamento",
@@ -218,7 +218,7 @@
    "inicio": "2025-01-13",
    "fimBase": "2026-01-13",
    "fimReal": "2026-01-13",
-   "diasRestantes": -300,
+   "diasRestantes": -307,
    "aditivos": [
     {
      "tipo": "Termo Aditivo",
@@ -255,7 +255,7 @@
    "inicio": "2024-08-14",
    "fimBase": "2025-03-13",
    "fimReal": "2025-03-13",
-   "diasRestantes": -606,
+   "diasRestantes": -613,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/29116902000170/2024/25"
@@ -316,35 +316,6 @@
    ]
   },
   {
-   "cnpj": "01863881000137",
-   "nome": "Districomp (matriz)",
-   "razaoSocial": "DISTRICOMP DISTRIBUIDORA DE INFORMATICA LTDA",
-   "situacao": "ATIVA",
-   "dataSituacao": "2001-10-06",
-   "capitalSocial": 5043980,
-   "municipio": "PORTO ALEGRE",
-   "uf": "RS",
-   "cnaePrincipal": "Comércio atacadista de equipamentos de informática",
-   "qtdSocios": 3,
-   "socios": [
-    {
-     "tipo": "pessoa fisica",
-     "qualificacao": "Administrador",
-     "entrada": "2023-10-25"
-    },
-    {
-     "tipo": "pessoa juridica",
-     "qualificacao": "Sócio",
-     "entrada": "2011-07-12"
-    },
-    {
-     "tipo": "pessoa fisica",
-     "qualificacao": "Sócio-Administrador",
-     "entrada": "2005-12-06"
-    }
-   ]
-  },
-  {
    "cnpj": "14445028000147",
    "nome": "Ameriprint",
    "razaoSocial": "AMERIPRINT INDUSTRIA E COMERCIO DE INFORMATICA LTDA.",
@@ -365,25 +336,6 @@
      "tipo": "pessoa fisica",
      "qualificacao": "Sócio-Administrador",
      "entrada": "2011-06-09"
-    }
-   ]
-  },
-  {
-   "cnpj": "43297467000158",
-   "nome": "MSF Tecnologia",
-   "razaoSocial": "MSF TECNOLOGIA LTDA.",
-   "situacao": "ATIVA",
-   "dataSituacao": "2021-08-26",
-   "capitalSocial": 5000,
-   "municipio": "SAO PAULO",
-   "uf": "SP",
-   "cnaePrincipal": "Suporte técnico, manutenção e outros serviços em tecnologia da informação",
-   "qtdSocios": 1,
-   "socios": [
-    {
-     "tipo": "pessoa fisica",
-     "qualificacao": "Sócio-Administrador",
-     "entrada": "2021-08-26"
     }
    ]
   }
