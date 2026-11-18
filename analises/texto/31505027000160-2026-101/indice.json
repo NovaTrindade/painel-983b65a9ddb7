@@ -1,0 +1,43 @@
+{
+ "id": "31505027000160-2026-101",
+ "extraidoEm": "2026-11-18T15:50:19.986Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/31505027000160/2026/101",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01a-ANEXO-II-Especificacoes-dos-Servicos.txt",
+   "titulo": "ANEXO II – Especificações dos Serviços.pdf",
+   "tipo": "Edital",
+   "paginas": 148,
+   "caracteres": 579264
+  },
+  {
+   "ordem": 1,
+   "arquivo": "01b-ANEXO-IV-RELATORIO-DA-PROVA-DE-CONCEITO-POC.txt",
+   "titulo": "ANEXO IV – RELATÓRIO DA PROVA DE CONCEITO - POC.pdf",
+   "tipo": "Edital",
+   "paginas": 201,
+   "caracteres": 667048
+  },
+  {
+   "ordem": 1,
+   "arquivo": "01c-Edital-de-PE-n-041-2026-Sistema-integrado-de-Gestao-Publica.txt",
+   "titulo": "Edital de PE nº 041-2026 - Sistema integrado de Gestão Pública.pdf",
+   "tipo": "Edital",
+   "paginas": 77,
+   "caracteres": 176898
+  },
+  {
+   "ordem": 1,
+   "arquivo": "01d-Proposta-de-Precos.txt",
+   "titulo": "Proposta de Preços.pdf",
+   "tipo": "Edital",
+   "paginas": 2,
+   "caracteres": 44,
+   "aviso": "pouco texto por página — provável digitalização sem OCR"
+  }
+ ],
+ "totalPaginas": 428,
+ "totalCaracteres": 1423254,
+ "comErro": 0
+}
