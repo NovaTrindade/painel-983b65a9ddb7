@@ -1,0 +1,34 @@
+{
+ "id": "75193516000107-2026-76",
+ "extraidoEm": "2026-11-19T15:54:37.503Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/75193516000107/2026/76",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital-de-soft-gesto.txt",
+   "titulo": "Edital_de_soft_gesto",
+   "tipo": "Edital",
+   "paginas": 63,
+   "caracteres": 218902
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Anexo-VI.txt",
+   "titulo": "Anexo_VI",
+   "tipo": "Outros Documentos",
+   "paginas": 178,
+   "caracteres": 701988
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Anexo-VII.txt",
+   "titulo": "Anexo_VII",
+   "tipo": "Outros Documentos",
+   "paginas": 205,
+   "caracteres": 714342
+  }
+ ],
+ "totalPaginas": 446,
+ "totalCaracteres": 1635232,
+ "comErro": 0
+}
