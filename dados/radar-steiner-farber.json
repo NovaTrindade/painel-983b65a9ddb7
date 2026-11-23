@@ -1,11 +1,11 @@
 {
- "gerado": "2026-11-16T20:42:24.134Z",
- "referencia": "2026-11-16",
+ "gerado": "2026-11-23T22:16:28.380Z",
+ "referencia": "2026-11-23",
  "execucao": {
   "empresasConsultadas": 10,
   "buscasFalhadas": [],
   "contratosConfirmados": 10,
-  "qsaObtidos": 3
+  "qsaObtidos": 0
  },
  "resumo": {
   "contratos": 10,
@@ -32,7 +32,7 @@
    "inicio": "2026-09-21",
    "fimBase": "2027-09-21",
    "fimReal": "2027-09-21",
-   "diasRestantes": 309,
+   "diasRestantes": 302,
    "aditivos": [],
    "status": "vigente",
    "pncpUrl": "https://pncp.gov.br/app/contratos/01616171000102/2026/97"
@@ -52,7 +52,7 @@
    "inicio": "2024-04-09",
    "fimBase": "2025-04-09",
    "fimReal": "2025-04-09",
-   "diasRestantes": -586,
+   "diasRestantes": -593,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/08761124000100/2024/299"
@@ -72,7 +72,7 @@
    "inicio": "2025-10-27",
    "fimBase": "2027-10-27",
    "fimReal": "2027-10-27",
-   "diasRestantes": 345,
+   "diasRestantes": 338,
    "aditivos": [],
    "status": "vigente",
    "pncpUrl": "https://pncp.gov.br/app/contratos/42498600000171/2025/5267"
@@ -92,7 +92,7 @@
    "inicio": "2026-03-10",
    "fimBase": "2027-03-09",
    "fimReal": "2027-03-09",
-   "diasRestantes": 113,
+   "diasRestantes": 106,
    "aditivos": [],
    "status": "janela-proxima",
    "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2026/23"
@@ -112,7 +112,7 @@
    "inicio": "2023-12-03",
    "fimBase": "2024-03-03",
    "fimReal": "2024-03-03",
-   "diasRestantes": -988,
+   "diasRestantes": -995,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/76105576000185/2023/20"
@@ -132,7 +132,7 @@
    "inicio": "2025-08-01",
    "fimBase": "2026-08-01",
    "fimReal": "2027-08-01",
-   "diasRestantes": 258,
+   "diasRestantes": 251,
    "aditivos": [
     {
      "tipo": "Termo Aditivo",
@@ -161,7 +161,7 @@
    "inicio": "2024-07-01",
    "fimBase": "2025-07-01",
    "fimReal": "2025-07-01",
-   "diasRestantes": -503,
+   "diasRestantes": -510,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/58982364000102/2024/11"
@@ -181,7 +181,7 @@
    "inicio": "2025-05-08",
    "fimBase": "2026-05-08",
    "fimReal": "2026-05-08",
-   "diasRestantes": -192,
+   "diasRestantes": -199,
    "aditivos": [
     {
      "tipo": "Termo de Apostilamento",
@@ -218,7 +218,7 @@
    "inicio": "2025-01-13",
    "fimBase": "2026-01-13",
    "fimReal": "2026-01-13",
-   "diasRestantes": -307,
+   "diasRestantes": -314,
    "aditivos": [
     {
      "tipo": "Termo Aditivo",
@@ -255,91 +255,13 @@
    "inicio": "2024-08-14",
    "fimBase": "2025-03-13",
    "fimReal": "2025-03-13",
-   "diasRestantes": -613,
+   "diasRestantes": -620,
    "aditivos": [],
    "status": "janela-aberta",
    "pncpUrl": "https://pncp.gov.br/app/contratos/29116902000170/2024/25"
   }
  ],
- "societario": [
-  {
-   "cnpj": "41742532000181",
-   "nome": "Alutech (matriz)",
-   "razaoSocial": "ALUTECH TECNOLOGIA E LOCACOES S.A",
-   "situacao": "ATIVA",
-   "dataSituacao": "2021-04-28",
-   "capitalSocial": 3000000,
-   "municipio": "BELO HORIZONTE",
-   "uf": "MG",
-   "cnaePrincipal": "Comércio varejista especializado de equipamentos e suprimentos de informática",
-   "qtdSocios": 2,
-   "socios": [
-    {
-     "tipo": "pessoa fisica",
-     "qualificacao": "Diretor",
-     "entrada": "2021-04-28"
-    },
-    {
-     "tipo": "pessoa fisica",
-     "qualificacao": "Presidente",
-     "entrada": "2023-08-18"
-    }
-   ]
-  },
-  {
-   "cnpj": "06028932000129",
-   "nome": "Kolke do Brasil (matriz)",
-   "razaoSocial": "KOLKE DO BRASIL IMPORTACAO E EXPORTACAO LTDA",
-   "situacao": "ATIVA",
-   "dataSituacao": "2003-12-10",
-   "capitalSocial": 3000000,
-   "municipio": "VILA VELHA",
-   "uf": "ES",
-   "cnaePrincipal": "Comércio atacadista de equipamentos de informática",
-   "qtdSocios": 3,
-   "socios": [
-    {
-     "tipo": "pessoa juridica",
-     "qualificacao": "Sócio",
-     "entrada": "2011-01-17"
-    },
-    {
-     "tipo": "pessoa juridica",
-     "qualificacao": "Sócio Pessoa Jurídica Domiciliado no Exterior",
-     "entrada": "2003-12-10"
-    },
-    {
-     "tipo": "pessoa fisica",
-     "qualificacao": "Administrador",
-     "entrada": "2011-01-17"
-    }
-   ]
-  },
-  {
-   "cnpj": "14445028000147",
-   "nome": "Ameriprint",
-   "razaoSocial": "AMERIPRINT INDUSTRIA E COMERCIO DE INFORMATICA LTDA.",
-   "situacao": "ATIVA",
-   "dataSituacao": "2011-06-09",
-   "capitalSocial": 1301000,
-   "municipio": "PORTO ALEGRE",
-   "uf": "RS",
-   "cnaePrincipal": "Fabricação de equipamentos de informática",
-   "qtdSocios": 2,
-   "socios": [
-    {
-     "tipo": "pessoa juridica",
-     "qualificacao": "Sócio",
-     "entrada": "2011-06-09"
-    },
-    {
-     "tipo": "pessoa fisica",
-     "qualificacao": "Sócio-Administrador",
-     "entrada": "2011-06-09"
-    }
-   ]
-  }
- ],
+ "societario": [],
  "_nota": "Cobertura PARCIAL: o PNCP so e obrigatorio desde 2023 e muitos entes publicam apenas em sistema proprio. Contratos de Petropolis, ALPB e SEMAS-PE nunca apareceram no PNCP e so foram achados em diario oficial. Este JSON e piso, nao teto.",
  "_privacidade": "Nomes de pessoas fisicas foram removidos desta versao publica. A composicao societaria (quantidade, natureza e qualificacao dos socios) e mantida por ser informacao da empresa, nao da pessoa."
 }
