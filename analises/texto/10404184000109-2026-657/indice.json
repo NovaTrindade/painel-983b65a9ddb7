@@ -1,0 +1,58 @@
+{
+ "id": "10404184000109-2026-657",
+ "extraidoEm": "2026-11-24T17:58:29.295Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/10404184000109/2026/657",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-Edital.txt",
+   "titulo": "Edital_.pdf",
+   "tipo": "Edital",
+   "paginas": 37,
+   "caracteres": 135857
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-Oficio-Conjunto-Solicitacao-de-Suspensao-Sine-Die.txt",
+   "titulo": "Oficio_Conjunto__Solicitacao_de_Suspensao_Sine_Die.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1709
+  },
+  {
+   "ordem": 3,
+   "arquivo": "03-Anexo-II-PLANILHA-DE-ESPECIFICACOES-QUANTITATIVOS-E-PRECOS.txt",
+   "titulo": "Anexo_II__PLANILHA_DE_ESPECIFICACOES_QUANTITATIVOS_E_PRECOS.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 2616
+  },
+  {
+   "ordem": 4,
+   "arquivo": "04-Publicacao-DOM.txt",
+   "titulo": "Publicacao_DOM.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1707
+  },
+  {
+   "ordem": 5,
+   "arquivo": "05-AVISO-ADIAMENTO-SINE-DIE.txt",
+   "titulo": "AVISO_ADIAMENTO_SINE_DIE.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 2,
+   "caracteres": 2327
+  },
+  {
+   "ordem": 6,
+   "arquivo": "06-PUBLICACAO-JGC.txt",
+   "titulo": "PUBLICACAO__JGC.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 9977
+  }
+ ],
+ "totalPaginas": 44,
+ "totalCaracteres": 154193,
+ "comErro": 0
+}
