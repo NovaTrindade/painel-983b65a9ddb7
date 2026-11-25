@@ -1,0 +1,26 @@
+{
+ "id": "18291385000159-2026-262",
+ "extraidoEm": "2026-11-25T17:26:43.714Z",
+ "pncpUrl": "https://pncp.gov.br/app/editais/18291385000159/2026/262",
+ "documentos": [
+  {
+   "ordem": 1,
+   "arquivo": "01-EDITAL-PL-280.txt",
+   "titulo": "EDITAL_PL_280.pdf",
+   "tipo": "Edital",
+   "paginas": 151,
+   "caracteres": 365698
+  },
+  {
+   "ordem": 2,
+   "arquivo": "02-publicacao-inicial-2.txt",
+   "titulo": "publicacao_inicial_2.pdf",
+   "tipo": "Outros Documentos",
+   "paginas": 1,
+   "caracteres": 1267
+  }
+ ],
+ "totalPaginas": 152,
+ "totalCaracteres": 366965,
+ "comErro": 0
+}
